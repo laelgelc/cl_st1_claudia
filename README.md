@@ -1,5 +1,7 @@
 # Corpus Linguistics - Study 1 - Claudia
 
-## Phase 1
+## Phase 1 - Data Collection
 
-Extract data for a pilot Lexical Multi-Dimensional Analysis.
+Collect data from [Virtual Exchange Medium](https://publicacoescesu.cps.sp.gov.br/VEm) for a Lexical Multi-Dimensional Analysis.
+
+
