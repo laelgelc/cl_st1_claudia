@@ -26,3 +26,9 @@ Outputs:
 - `corpus/00_sources/music_videos.ndjson`
 - `corpus/00_sources/music_videos.tsv`
 - `corpus/00_sources/music_videos.xlsx`
+
+## 3. Download music video audio
+
+```shell script
+python download_music_video_audio.py
+```
