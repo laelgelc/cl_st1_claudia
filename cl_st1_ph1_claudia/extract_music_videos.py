@@ -2,9 +2,9 @@
 extract_music_videos.py
 
 This script reads a Markdown file containing a list of music videos, extracts
-unique hyperlinks (YouTube URLs) that match the 'https://www.youtube.com/watch?v=' pattern,
-logs any duplicated URLs, and exports the unique URLs into an NDJSON (Newline Delimited JSON) file
-under the 'url' key.
+clean, unique hyperlinks (YouTube URLs without playlist or extra parameters)
+that match the 'https://www.youtube.com/watch?v=' pattern, logs any duplicated URLs,
+and exports the unique URLs into an NDJSON (Newline Delimited JSON) file under the 'url' key.
 
 Usage:
     python extract_music_videos.py
@@ -28,11 +28,14 @@ def parse_md_to_ndjson(input_path: Path, output_path: Path):
     seen_urls = set()
     duplicates_count = 0
 
-    # Regex pattern to match the YouTube URLs and ignore trailing Markdown syntax like ')', ']', etc.
-    url_pattern = re.compile(r"https://www\.youtube\.com/watch\?v=[^\s\)\]\"]+")
+    # Regex pattern to match only the 11-character video ID part
+    url_pattern = re.compile(r"https://www\.youtube\.com/watch\?v=([a-zA-Z0-9_-]{11})")
 
     for match in url_pattern.finditer(content):
-        url = match.group(0)
+        # Reconstruct a clean URL using just the matched video ID
+        video_id = match.group(1)
+        url = f"https://www.youtube.com/watch?v={video_id}"
+
         if url not in seen_urls:
             seen_urls.add(url)
             entry = {

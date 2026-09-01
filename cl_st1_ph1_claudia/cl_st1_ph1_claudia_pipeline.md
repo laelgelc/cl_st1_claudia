@@ -14,3 +14,15 @@ python extract_music_videos.py
 
 Output: `corpus/00_sources/music_videos_list.ndjson`
 
+
+## 2. Enrich the music videos list with YouTube metadata
+
+```shell script
+python fetch_youtube_metadata.py
+```
+
+Outputs:
+
+- `corpus/00_sources/music_videos.ndjson`
+- `corpus/00_sources/music_videos.tsv`
+- `corpus/00_sources/music_videos.xlsx`
