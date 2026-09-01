@@ -14,14 +14,16 @@ The metadata captured for each video (in order) is:
 - duration
 - upload_date
 
-Outputs are saved in three formats: NDJSON, TSV, and XLSX.
+Outputs are saved in two formats: NDJSON and TSV.
+If the output NDJSON file already exists, the script will skip any URLs that
+were previously fetched successfully, retrying only those that failed or are new.
 
 Usage:
     python fetch_youtube_metadata.py
 
 Optional arguments:
     --input   Path to the input NDJSON file.
-    --output  Path to the output NDJSON file (TSV and XLSX will use the same base name).
+    --output  Path to the output NDJSON file (TSV will use the same base name).
     --cookies Path to the YouTube cookies.txt file.
 """
 
@@ -33,9 +35,8 @@ from pathlib import Path
 
 try:
     import yt_dlp
-    import pandas as pd
 except ImportError:
-    print("Required libraries missing. Please install them using:\npip install yt-dlp pandas openpyxl", file=sys.stderr)
+    print("Required library missing. Please install it using:\npip install yt-dlp", file=sys.stderr)
     sys.exit(1)
 
 
@@ -56,6 +57,7 @@ def fetch_youtube_metadata(input_path: Path, output_path: Path, cookies_path: Pa
 
     input_videos = []
     enriched_videos = []
+    existing_successes = {}
 
     # Read the input NDJSON list
     with open(input_path, 'r', encoding='utf-8') as f:
@@ -63,7 +65,18 @@ def fetch_youtube_metadata(input_path: Path, output_path: Path, cookies_path: Pa
             if line.strip():
                 input_videos.append(json.loads(line))
 
-    print(f"Loaded {len(input_videos)} URLs. Starting metadata fetch...")
+    # Read existing output if available to cache successes (for retry logic)
+    if output_path.exists():
+        with open(output_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                if line.strip():
+                    entry = json.loads(line)
+                    # If there's no error, we consider it a successful fetch
+                    if entry.get("url") and not entry.get("error"):
+                        existing_successes[entry["url"]] = entry
+
+    print(f"Loaded {len(input_videos)} URLs. Found {len(existing_successes)} previously successful fetches.")
+    print("Starting metadata fetch...")
 
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         with open(output_path, 'w', encoding='utf-8') as out_f:
@@ -72,37 +85,42 @@ def fetch_youtube_metadata(input_path: Path, output_path: Path, cookies_path: Pa
                 if not url:
                     continue
 
-                print(f"[{idx}/{len(input_videos)}] Fetching metadata for: {url}")
-                try:
-                    # Extract video info
-                    info = ydl.extract_info(url, download=False)
+                # Check if we already have successful data for this URL
+                if url in existing_successes:
+                    print(f"[{idx}/{len(input_videos)}] Skipping already successfully fetched: {url}")
+                    enriched_entry = existing_successes[url]
+                else:
+                    print(f"[{idx}/{len(input_videos)}] Fetching metadata for: {url}")
+                    try:
+                        # Extract video info
+                        info = ydl.extract_info(url, download=False)
 
-                    # Create enriched entry in the specific requested order
-                    enriched_entry = {
-                        "id": info.get("id"),
-                        "url": url,
-                        "title": info.get("title"),
-                        "description": info.get("description"),
-                        "language": info.get("language"),
-                        "uploader": info.get("uploader"),
-                        "duration": info.get("duration"),
-                        "upload_date": info.get("upload_date")
-                    }
+                        # Create enriched entry in the specific requested order
+                        enriched_entry = {
+                            "id": info.get("id"),
+                            "url": url,
+                            "title": info.get("title"),
+                            "description": info.get("description"),
+                            "language": info.get("language"),
+                            "uploader": info.get("uploader"),
+                            "duration": info.get("duration"),
+                            "upload_date": info.get("upload_date")
+                        }
 
-                except Exception as e:
-                    print(f"  -> Error fetching metadata for {url}: {e}")
-                    # Keep the structure even if it fails
-                    enriched_entry = {
-                        "id": None,
-                        "url": url,
-                        "title": None,
-                        "description": None,
-                        "language": None,
-                        "uploader": None,
-                        "duration": None,
-                        "upload_date": None,
-                        "error": str(e)
-                    }
+                    except Exception as e:
+                        print(f"  -> Error fetching metadata for {url}: {e}")
+                        # Keep the structure even if it fails, recording the error
+                        enriched_entry = {
+                            "id": None,
+                            "url": url,
+                            "title": None,
+                            "description": None,
+                            "language": None,
+                            "uploader": None,
+                            "duration": None,
+                            "upload_date": None,
+                            "error": str(e)
+                        }
 
                 enriched_videos.append(enriched_entry)
 
@@ -119,18 +137,6 @@ def fetch_youtube_metadata(input_path: Path, output_path: Path, cookies_path: Pa
         writer.writeheader()
         writer.writerows(enriched_videos)
     print(f"TSV database saved to: {tsv_path}")
-
-    # Generate XLSX Export
-    xlsx_path = output_path.with_suffix('.xlsx')
-    df = pd.DataFrame(enriched_videos)
-    # Reorder columns just to be absolutely certain of the final DataFrame structure
-    cols = ["id", "url", "title", "description", "language", "uploader", "duration", "upload_date"]
-    if "error" in df.columns:
-        cols.append("error")
-    df = df.reindex(columns=cols)
-
-    df.to_excel(xlsx_path, index=False)
-    print(f"XLSX database saved to: {xlsx_path}")
 
 
 def main():
