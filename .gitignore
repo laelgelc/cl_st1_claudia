@@ -216,5 +216,7 @@ __marimo__/
 .streamlit/secrets.toml
 
 # cl_st1_claudia
+!cl_st1_ph1_claudia/env
+cl_st1_ph1_claudia/env/*cookies.txt
 
 
