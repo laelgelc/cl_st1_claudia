@@ -89,8 +89,8 @@ DEFAULT_WRITE_COMMENTS = False
 DEFAULT_SUB_LANGS = "en.*"
 
 REQUIRED_FIELDS = (
-    "youtube_id",
-    "youtube_url",
+    "id",
+    "url",
 )
 
 
@@ -389,7 +389,8 @@ def load_samples(
                 continue
 
             # Ensure we only parse records that are explicitly available
-            if not record.get("available"):
+            available_val = record.get("available")
+            if str(available_val).strip().lower() not in ("true", "1", "yes", "t", "y"):
                 continue
 
             missing = [
@@ -407,9 +408,13 @@ def load_samples(
                 )
                 continue
 
-            # Use corpus_id if provided, else fallback to youtube_id
-            corpus_id = str(record.get("corpus_id") or record.get("youtube_id"))
+            # Use corpus_id if provided, else fallback to id
+            corpus_id = str(record.get("corpus_id") or record.get("id"))
             record["corpus_id"] = corpus_id
+
+            # Map original fields to the expected internal keys
+            record["youtube_id"] = record.get("id")
+            record["youtube_url"] = record.get("url")
 
             if corpus_id in seen_corpus_ids:
                 duplicates.append(
