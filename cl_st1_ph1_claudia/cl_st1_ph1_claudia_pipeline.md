@@ -30,5 +30,6 @@ Outputs:
 ## 3. Download music video audio
 
 ```shell script
-python download_music_video_audio.py
+python download_music_videos_audio.py \
+    --cookies env/youtube_cookies.txt
 ```
