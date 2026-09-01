@@ -1,12 +1,12 @@
 """
-build_music_videos_database.py
+extract_music_videos.py
 
-This script reads a DOCX file containing a list of music videos, extracts metadata
-(rank, artist, song, year, description) and embedded hyperlinks (YouTube URLs),
-and exports the dataset into an NDJSON (Newline Delimited JSON) file.
+This script reads a DOCX file containing a list of music videos, extracts
+embedded hyperlinks (YouTube URLs) that match the 'https://www.youtube.com/watch?v=' pattern,
+and exports the URLs into an NDJSON (Newline Delimited JSON) file under the 'url' key.
 
 Usage:
-    python build_music_videos_database.py
+    python extract_music_videos.py
 
 Optional arguments:
     --input  Path to the input DOCX file.
@@ -15,7 +15,6 @@ Optional arguments:
 
 import argparse
 import json
-import re
 from pathlib import Path
 
 try:
@@ -40,27 +39,12 @@ def extract_hyperlink_from_paragraph(paragraph):
 def parse_docx_to_ndjson(input_path: Path, output_path: Path):
     doc = docx.Document(input_path)
 
-    # Regex pattern to match: "1000- Imagine Dragons, Believer - 2017 - Description text"
-    # Group 1: Rank, Group 2: Artist, Group 3: Song, Group 4: Year, Group 5: Description
-    pattern = re.compile(r"^(\d+)\s*-\s*(.*?),\s*(.*?)\s*-\s*(\d{4})\s*-\s*(.*)")
-
     music_videos = []
 
     for paragraph in doc.paragraphs:
-        text = paragraph.text.strip()
-        if not text:
-            continue
-
-        match = pattern.match(text)
-        if match:
-            url = extract_hyperlink_from_paragraph(paragraph)
-
+        url = extract_hyperlink_from_paragraph(paragraph)
+        if url and url.startswith("https://www.youtube.com/watch?v="):
             entry = {
-                "rank": int(match.group(1)),
-                "artist": match.group(2).strip(),
-                "song": match.group(3).strip(),
-                "year": match.group(4).strip(),
-                "description": match.group(5).strip(),
                 "url": url
             }
             music_videos.append(entry)
@@ -78,7 +62,7 @@ def main():
     parser = argparse.ArgumentParser(description="Build a music video database from a DOCX file.")
 
     default_input = Path(__file__).parent / "corpus" / "00_sources" / "1000_best_pop_songs.docx"
-    default_output = Path(__file__).parent / "corpus" / "00_sources" / "music_videos.ndjson"
+    default_output = Path(__file__).parent / "corpus" / "00_sources" / "music_videos_list.ndjson"
 
     parser.add_argument(
         "--input",

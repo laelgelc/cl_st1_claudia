@@ -6,11 +6,11 @@ Run the commands from the project phase directory, e.g.:
 cl_st1_ph1_claudia/
 ```
 
-## 1. Build the music videos database
+## 1. Extract the music videos list
 
 ```shell script
-python build_music_videos_database.py
+python extract_music_videos.py
 ```
 
-Output: `corpus/00_sources/music_videos.ndjson`
+Output: `corpus/00_sources/music_videos_list.ndjson`
 
