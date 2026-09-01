@@ -1,0 +1,315 @@
+{
+  "run_metadata": {
+    "run_id": "20260901T232345Z",
+    "tool_name": "download_music_videos_audio.py",
+    "tool_version": "v1",
+    "start_time": "2026-09-01T23:23:45Z",
+    "end_time": "2026-09-01T23:25:59Z",
+    "test_mode": true,
+    "test_limit": 5,
+    "metadata_only": false,
+    "reprocess": false,
+    "workers": 1,
+    "metadata_path": "corpus/00_sources/music_videos_dataset.ndjson",
+    "output_dir": "corpus/01_music_videos_audio",
+    "index_file": "corpus/01_music_videos_audio/music_videos_audio_index.ndjson",
+    "log_file": "corpus/01_music_videos_audio/download_music_videos_audio.log",
+    "manifest_file": "corpus/01_music_videos_audio/download_music_videos_audio_manifest.json",
+    "config": {
+      "yt_dlp_audio_format": "bestaudio/best",
+      "yt_dlp_postprocessor_args": "-ac 1 -ar 16000 -sample_fmt s16",
+      "timeout_seconds": 7200,
+      "max_retries": 1,
+      "retry_delay_seconds": 5,
+      "cookies_provided": true,
+      "start_corpus_id": null,
+      "write_description": true,
+      "write_subs": true,
+      "write_auto_subs": true,
+      "write_comments": false,
+      "sub_langs": "en.*",
+      "skip_metadata": false
+    },
+    "yt_dlp": {
+      "available": true,
+      "version": "2026.07.04",
+      "executable": "/home/eyamrog/anaconda3/envs/my_env/bin/yt-dlp"
+    },
+    "summary": {
+      "input_records": 996,
+      "valid_records": 985,
+      "invalid_records": 0,
+      "unique_corpus_items": 985,
+      "planned_items": 5,
+      "attempted_items": 5,
+      "succeeded": 5,
+      "failed": 0,
+      "skipped_existing": 0
+    },
+    "interrupted": false
+  },
+  "items": [
+    {
+      "corpus_id": "4xqo7D2k8HM",
+      "youtube_id": "4xqo7D2k8HM",
+      "youtube_url": "https://www.youtube.com/watch?v=4xqo7D2k8HM",
+      "title_selected": "Imagine Dragons - Believer (Live in Vegas)",
+      "audio_file": "corpus/01_music_videos_audio/audio/4xqo7D2k8HM.wav",
+      "raw_metadata_file": "corpus/01_music_videos_audio/metadata_raw/4xqo7D2k8HM.info.json",
+      "description_file": "corpus/01_music_videos_audio/descriptions/4xqo7D2k8HM.description",
+      "status": "success",
+      "audio_status": "success",
+      "metadata_status": "success",
+      "error": null,
+      "return_code": 0,
+      "retries": 0,
+      "duration_seconds": 40.979329,
+      "start_time": "2026-09-01T23:23:45Z",
+      "end_time": "2026-09-01T23:24:26Z",
+      "metadata": {
+        "command": [
+          "yt-dlp",
+          "--cookies",
+          "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/env/youtube_cookies.txt",
+          "--no-overwrites",
+          "--write-info-json",
+          "-f",
+          "bestaudio/best",
+          "--extract-audio",
+          "--audio-format",
+          "wav",
+          "--postprocessor-args",
+          "-ac 1 -ar 16000 -sample_fmt s16",
+          "--write-description",
+          "--write-subs",
+          "--write-auto-subs",
+          "--sub-langs",
+          "en.*",
+          "https://www.youtube.com/watch?v=4xqo7D2k8HM",
+          "-o",
+          "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4xqo7D2k8HM.%(ext)s"
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "return_code": 0,
+            "stdout_tail": "g 51/56)\n[download]  92.9% of ~ 112.20MiB at    7.36MiB/s ETA 00:02 (frag 51/56)\n[download]  92.9% of ~ 112.21MiB at    7.36MiB/s ETA 00:02 (frag 51/56)\n[download]  92.9% of ~ 112.21MiB at    7.36MiB/s ETA 00:02 (frag 51/56)\n[download]  92.9% of ~ 112.23MiB at    7.36MiB/s ETA 00:02 (frag 51/56)\n[download]  92.9% of ~ 112.27MiB at    7.36MiB/s ETA 00:02 (frag 51/56)\n[download]  93.0% of ~ 112.33MiB at    7.36MiB/s ETA 00:02 (frag 51/56)\n[download]  93.1% of ~ 112.47MiB at    7.40MiB/s ETA 00:02 (frag 51/56)\n[download]  93.1% of ~ 112.74MiB at    7.36MiB/s ETA 00:02 (frag 51/56)\n[download]  92.2% of ~ 113.81MiB at    7.36MiB/s ETA 00:02 (frag 52/56)\n[download]  94.6% of ~ 110.87MiB at    7.36MiB/s ETA 00:02 (frag 52/56)\n[download]  94.6% of ~ 110.87MiB at    7.36MiB/s ETA 00:02 (frag 52/56)\n[download]  94.6% of ~ 110.87MiB at    7.36MiB/s ETA 00:02 (frag 52/56)\n[download]  94.6% of ~ 110.88MiB at    7.36MiB/s ETA 00:02 (frag 52/56)\n[download]  94.7% of ~ 110.89MiB at    7.36MiB/s ETA 00:02 (frag 52/56)\n[download]  94.7% of ~ 110.90MiB at    7.36MiB/s ETA 00:02 (frag 52/56)\n[download]  94.7% of ~ 110.94MiB at    7.36MiB/s ETA 00:02 (frag 52/56)\n[download]  94.8% of ~ 111.00MiB at    7.36MiB/s ETA 00:02 (frag 52/56)\n[download]  94.9% of ~ 111.13MiB at    7.36MiB/s ETA 00:02 (frag 52/56)\n[download]  95.1% of ~ 111.40MiB at    7.36MiB/s ETA 00:02 (frag 52/56)\n[download]  95.4% of ~ 111.93MiB at    7.40MiB/s ETA 00:02 (frag 52/56)\n[download]  93.0% of ~ 114.81MiB at    7.40MiB/s ETA 00:02 (frag 53/56)\n[download]  96.4% of ~ 110.75MiB at    7.27MiB/s ETA 00:01 (frag 53/56)\n[download]  96.4% of ~ 110.75MiB at    7.27MiB/s ETA 00:01 (frag 53/56)\n[download]  96.4% of ~ 110.75MiB at    7.27MiB/s ETA 00:01 (frag 53/56)\n[download]  96.4% of ~ 110.76MiB at    7.27MiB/s ETA 00:01 (frag 53/56)\n[download]  96.4% of ~ 110.76MiB at    7.27MiB/s ETA 00:01 (frag 53/56)\n[download]  96.5% of ~ 110.78MiB at    7.27MiB/s ETA 00:01 (frag 53/56)\n[download]  96.5% of ~ 110.81MiB at    7.27MiB/s ETA 00:01 (frag 53/56)\n[download]  96.5% of ~ 110.88MiB at    7.27MiB/s ETA 00:01 (frag 53/56)\n[download]  96.7% of ~ 111.01MiB at    7.27MiB/s ETA 00:01 (frag 53/56)\n[download]  96.9% of ~ 111.27MiB at    7.19MiB/s ETA 00:01 (frag 53/56)\n[download]  97.3% of ~ 111.78MiB at    7.15MiB/s ETA 00:01 (frag 53/56)\n[download]  96.8% of ~ 112.82MiB at    7.17MiB/s ETA 00:01 (frag 53/56)\n[download]  94.3% of ~ 115.82MiB at    7.17MiB/s ETA 00:01 (frag 54/56)\n[download]  98.2% of ~ 111.22MiB at    7.17MiB/s ETA 00:01 (frag 54/56)\n[download]  98.2% of ~ 111.22MiB at    7.17MiB/s ETA 00:01 (frag 54/56)\n[download]  98.2% of ~ 111.23MiB at    7.17MiB/s ETA 00:01 (frag 54/56)\n[download]  98.2% of ~ 111.23MiB at    7.17MiB/s ETA 00:01 (frag 54/56)\n[download]  98.2% of ~ 111.24MiB at    7.17MiB/s ETA 00:01 (frag 54/56)\n[download]  98.2% of ~ 111.25MiB at    7.17MiB/s ETA 00:01 (frag 54/56)\n[download]  98.3% of ~ 111.29MiB at    7.17MiB/s ETA 00:01 (frag 54/56)\n[download]  98.3% of ~ 111.35MiB at    7.17MiB/s ETA 00:01 (frag 54/56)\n[download]  98.4% of ~ 111.48MiB at    7.17MiB/s ETA 00:01 (frag 54/56)\n[download]  97.8% of ~ 112.12MiB at    7.17MiB/s ETA 00:01 (frag 55/56)\n[download] 100.0% of ~ 109.68MiB at    7.19MiB/s ETA 00:01 (frag 55/56)\n[download] 100.0% of ~ 109.68MiB at    7.19MiB/s ETA 00:01 (frag 55/56)\n[download] 100.0% of ~ 109.68MiB at    7.19MiB/s ETA 00:01 (frag 55/56)\n[download] 100.0% of ~ 109.69MiB at    7.19MiB/s ETA 00:01 (frag 56/56)\n[download] 100% of  109.68MiB in 00:00:19 at 5.74MiB/s                 \n[FixupM3u8] Fixing MPEG-TS in MP4 container of \"/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4xqo7D2k8HM.mp4\"\n[ExtractAudio] Destination: /home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4xqo7D2k8HM.wav\nDeleting original file /home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4xqo7D2k8HM.mp4 (pass -k to keep)\n",
+            "stderr_tail": "WARNING: Post-Processor arguments given without specifying name. The arguments will be given to all post-processors\nWARNING: [youtube] Incomplete data received in embedded initial data; re-fetching using API.\n",
+            "error": null,
+            "duration_seconds": 40.979299
+          }
+        ]
+      }
+    },
+    {
+      "corpus_id": "nyuo9-OjNNg",
+      "youtube_id": "nyuo9-OjNNg",
+      "youtube_url": "https://www.youtube.com/watch?v=nyuo9-OjNNg",
+      "title_selected": "I Wanna Be Yours",
+      "audio_file": "corpus/01_music_videos_audio/audio/nyuo9-OjNNg.wav",
+      "raw_metadata_file": "corpus/01_music_videos_audio/metadata_raw/nyuo9-OjNNg.info.json",
+      "description_file": "corpus/01_music_videos_audio/descriptions/nyuo9-OjNNg.description",
+      "status": "success",
+      "audio_status": "success",
+      "metadata_status": "success",
+      "error": null,
+      "return_code": 0,
+      "retries": 0,
+      "duration_seconds": 14.198878,
+      "start_time": "2026-09-01T23:24:26Z",
+      "end_time": "2026-09-01T23:24:40Z",
+      "metadata": {
+        "command": [
+          "yt-dlp",
+          "--cookies",
+          "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/env/youtube_cookies.txt",
+          "--no-overwrites",
+          "--write-info-json",
+          "-f",
+          "bestaudio/best",
+          "--extract-audio",
+          "--audio-format",
+          "wav",
+          "--postprocessor-args",
+          "-ac 1 -ar 16000 -sample_fmt s16",
+          "--write-description",
+          "--write-subs",
+          "--write-auto-subs",
+          "--sub-langs",
+          "en.*",
+          "https://www.youtube.com/watch?v=nyuo9-OjNNg",
+          "-o",
+          "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nyuo9-OjNNg.%(ext)s"
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "return_code": 0,
+            "stdout_tail": "2% of ~   5.65MiB at    5.42MiB/s ETA Unknown (frag 22/28)\n[download]  82.2% of ~   5.66MiB at    5.42MiB/s ETA Unknown (frag 22/28)\n[download]  82.3% of ~   5.66MiB at    5.42MiB/s ETA Unknown (frag 22/28)\n[download]  82.4% of ~   5.67MiB at    5.42MiB/s ETA Unknown (frag 22/28)\n[download]  82.7% of ~   5.69MiB at    5.42MiB/s ETA Unknown (frag 22/28)\n[download]  83.2% of ~   5.73MiB at    5.42MiB/s ETA Unknown (frag 22/28)\n[download]  83.7% of ~   5.80MiB at    5.42MiB/s ETA Unknown (frag 22/28)\n[download]  78.7% of ~   6.17MiB at    5.42MiB/s ETA Unknown (frag 23/28)\n[download]  85.7% of ~   5.67MiB at    5.42MiB/s ETA Unknown (frag 23/28)\n[download]  85.7% of ~   5.67MiB at    5.42MiB/s ETA Unknown (frag 23/28)\n[download]  85.8% of ~   5.67MiB at    5.42MiB/s ETA Unknown (frag 23/28)\n[download]  85.9% of ~   5.67MiB at    5.42MiB/s ETA Unknown (frag 23/28)\n[download]  86.0% of ~   5.68MiB at    5.42MiB/s ETA Unknown (frag 23/28)\n[download]  86.3% of ~   5.70MiB at    5.42MiB/s ETA Unknown (frag 23/28)\n[download]  86.8% of ~   5.74MiB at    5.42MiB/s ETA Unknown (frag 23/28)\n[download]  87.2% of ~   5.81MiB at    5.42MiB/s ETA Unknown (frag 23/28)\n[download]  82.3% of ~   6.16MiB at    5.42MiB/s ETA Unknown (frag 24/28)\n[download]  89.3% of ~   5.68MiB at    6.16MiB/s ETA Unknown (frag 24/28)\n[download]  89.3% of ~   5.68MiB at    6.16MiB/s ETA Unknown (frag 24/28)\n[download]  89.4% of ~   5.68MiB at    6.16MiB/s ETA Unknown (frag 24/28)\n[download]  89.4% of ~   5.68MiB at    6.16MiB/s ETA Unknown (frag 24/28)\n[download]  89.6% of ~   5.69MiB at    6.16MiB/s ETA Unknown (frag 24/28)\n[download]  89.8% of ~   5.71MiB at    6.16MiB/s ETA Unknown (frag 24/28)\n[download]  90.4% of ~   5.75MiB at    6.16MiB/s ETA Unknown (frag 24/28)\n[download]  90.9% of ~   5.82MiB at    6.16MiB/s ETA Unknown (frag 24/28)\n[download]  85.7% of ~   6.17MiB at    6.16MiB/s ETA Unknown (frag 25/28)\n[download]  92.9% of ~   5.69MiB at    6.16MiB/s ETA Unknown (frag 25/28)\n[download]  92.9% of ~   5.70MiB at    6.16MiB/s ETA Unknown (frag 25/28)\n[download]  92.9% of ~   5.70MiB at    6.16MiB/s ETA Unknown (frag 25/28)\n[download]  93.0% of ~   5.70MiB at    6.16MiB/s ETA Unknown (frag 25/28)\n[download]  93.1% of ~   5.71MiB at    6.16MiB/s ETA Unknown (frag 25/28)\n[download]  93.4% of ~   5.73MiB at    6.16MiB/s ETA Unknown (frag 25/28)\n[download]  93.9% of ~   5.76MiB at    6.16MiB/s ETA Unknown (frag 25/28)\n[download]  94.4% of ~   5.83MiB at    6.16MiB/s ETA Unknown (frag 25/28)\n[download]  89.4% of ~   6.16MiB at    6.16MiB/s ETA Unknown (frag 26/28)\n[download]  96.4% of ~   5.71MiB at    6.16MiB/s ETA Unknown (frag 26/28)\n[download]  96.5% of ~   5.71MiB at    6.16MiB/s ETA Unknown (frag 26/28)\n[download]  96.5% of ~   5.71MiB at    6.16MiB/s ETA Unknown (frag 26/28)\n[download]  96.6% of ~   5.71MiB at    6.16MiB/s ETA Unknown (frag 26/28)\n[download]  96.7% of ~   5.72MiB at    6.16MiB/s ETA Unknown (frag 26/28)\n[download]  97.0% of ~   5.74MiB at    6.16MiB/s ETA Unknown (frag 26/28)\n[download]  96.7% of ~   5.77MiB at    6.16MiB/s ETA Unknown (frag 26/28)\n[download]  95.2% of ~   5.86MiB at    6.16MiB/s ETA Unknown (frag 27/28)\n[download] 100.0% of ~   5.58MiB at    6.16MiB/s ETA Unknown (frag 27/28)\n[download] 100.0% of ~   5.58MiB at    6.16MiB/s ETA Unknown (frag 27/28)\n[download] 100.0% of ~   5.58MiB at    6.16MiB/s ETA Unknown (frag 27/28)\n[download]  99.9% of ~   5.58MiB at    6.16MiB/s ETA Unknown (frag 28/28)\n[download] 100% of    5.58MiB in 00:00:00 at 8.15MiB/s                   \n[FixupM3u8] Fixing MPEG-TS in MP4 container of \"/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nyuo9-OjNNg.mp4\"\n[ExtractAudio] Destination: /home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nyuo9-OjNNg.wav\nDeleting original file /home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nyuo9-OjNNg.mp4 (pass -k to keep)\n",
+            "stderr_tail": "WARNING: Post-Processor arguments given without specifying name. The arguments will be given to all post-processors\n",
+            "error": null,
+            "duration_seconds": 14.198854
+          }
+        ]
+      }
+    },
+    {
+      "corpus_id": "mRD0-GxqHVo",
+      "youtube_id": "mRD0-GxqHVo",
+      "youtube_url": "https://www.youtube.com/watch?v=mRD0-GxqHVo",
+      "title_selected": "Glass Animals - Heat Waves (Official Video)",
+      "audio_file": "corpus/01_music_videos_audio/audio/mRD0-GxqHVo.wav",
+      "raw_metadata_file": "corpus/01_music_videos_audio/metadata_raw/mRD0-GxqHVo.info.json",
+      "description_file": "corpus/01_music_videos_audio/descriptions/mRD0-GxqHVo.description",
+      "status": "success",
+      "audio_status": "success",
+      "metadata_status": "success",
+      "error": null,
+      "return_code": 0,
+      "retries": 0,
+      "duration_seconds": 32.030061,
+      "start_time": "2026-09-01T23:24:40Z",
+      "end_time": "2026-09-01T23:25:12Z",
+      "metadata": {
+        "command": [
+          "yt-dlp",
+          "--cookies",
+          "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/env/youtube_cookies.txt",
+          "--no-overwrites",
+          "--write-info-json",
+          "-f",
+          "bestaudio/best",
+          "--extract-audio",
+          "--audio-format",
+          "wav",
+          "--postprocessor-args",
+          "-ac 1 -ar 16000 -sample_fmt s16",
+          "--write-description",
+          "--write-subs",
+          "--write-auto-subs",
+          "--sub-langs",
+          "en.*",
+          "https://www.youtube.com/watch?v=mRD0-GxqHVo",
+          "-o",
+          "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/mRD0-GxqHVo.%(ext)s"
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "return_code": 0,
+            "stdout_tail": "g 41/46)\n[download]  91.3% of ~  66.22MiB at    2.47MiB/s ETA 00:04 (frag 41/46)\n[download]  91.3% of ~  66.22MiB at    2.47MiB/s ETA 00:04 (frag 41/46)\n[download]  91.3% of ~  66.22MiB at    2.47MiB/s ETA 00:04 (frag 41/46)\n[download]  91.3% of ~  66.23MiB at    2.47MiB/s ETA 00:04 (frag 41/46)\n[download]  91.4% of ~  66.25MiB at    2.47MiB/s ETA 00:04 (frag 41/46)\n[download]  91.4% of ~  66.28MiB at    2.47MiB/s ETA 00:04 (frag 41/46)\n[download]  91.5% of ~  66.35MiB at    2.47MiB/s ETA 00:04 (frag 41/46)\n[download]  91.7% of ~  66.49MiB at    2.47MiB/s ETA 00:04 (frag 41/46)\n[download]  92.0% of ~  66.76MiB at    2.47MiB/s ETA 00:04 (frag 41/46)\n[download]  89.9% of ~  68.29MiB at    2.47MiB/s ETA 00:04 (frag 42/46)\n[download]  93.5% of ~  65.69MiB at    2.31MiB/s ETA 00:03 (frag 42/46)\n[download]  93.5% of ~  65.69MiB at    2.31MiB/s ETA 00:03 (frag 42/46)\n[download]  93.5% of ~  65.69MiB at    2.31MiB/s ETA 00:03 (frag 42/46)\n[download]  93.5% of ~  65.70MiB at    2.31MiB/s ETA 00:03 (frag 42/46)\n[download]  93.5% of ~  65.70MiB at    2.31MiB/s ETA 00:03 (frag 42/46)\n[download]  93.5% of ~  65.72MiB at    2.31MiB/s ETA 00:03 (frag 42/46)\n[download]  93.6% of ~  65.75MiB at    2.31MiB/s ETA 00:03 (frag 42/46)\n[download]  93.7% of ~  65.82MiB at    2.31MiB/s ETA 00:03 (frag 42/46)\n[download]  93.9% of ~  65.95MiB at    2.31MiB/s ETA 00:03 (frag 42/46)\n[download]  94.2% of ~  66.22MiB at    2.31MiB/s ETA 00:03 (frag 42/46)\n[download]  93.6% of ~  66.76MiB at    2.31MiB/s ETA 00:03 (frag 42/46)\n[download]  91.9% of ~  68.00MiB at    2.31MiB/s ETA 00:03 (frag 43/46)\n[download]  95.7% of ~  65.33MiB at    2.30MiB/s ETA 00:03 (frag 43/46)\n[download]  95.7% of ~  65.33MiB at    2.30MiB/s ETA 00:03 (frag 43/46)\n[download]  95.7% of ~  65.33MiB at    2.30MiB/s ETA 00:03 (frag 43/46)\n[download]  95.7% of ~  65.33MiB at    2.30MiB/s ETA 00:03 (frag 43/46)\n[download]  95.7% of ~  65.34MiB at    2.30MiB/s ETA 00:03 (frag 43/46)\n[download]  95.7% of ~  65.36MiB at    2.30MiB/s ETA 00:03 (frag 43/46)\n[download]  95.7% of ~  65.39MiB at    2.30MiB/s ETA 00:03 (frag 43/46)\n[download]  95.8% of ~  65.46MiB at    2.17MiB/s ETA 00:03 (frag 43/46)\n[download]  96.0% of ~  65.59MiB at    2.17MiB/s ETA 00:03 (frag 43/46)\n[download]  96.4% of ~  65.85MiB at    2.12MiB/s ETA 00:03 (frag 43/46)\n[download]  94.2% of ~  67.38MiB at    2.12MiB/s ETA 00:03 (frag 44/46)\n[download]  97.8% of ~  64.88MiB at    2.12MiB/s ETA 00:03 (frag 44/46)\n[download]  97.8% of ~  64.88MiB at    2.12MiB/s ETA 00:03 (frag 44/46)\n[download]  97.8% of ~  64.88MiB at    2.12MiB/s ETA 00:03 (frag 44/46)\n[download]  97.8% of ~  64.89MiB at    2.12MiB/s ETA 00:03 (frag 44/46)\n[download]  97.9% of ~  64.90MiB at    2.12MiB/s ETA 00:03 (frag 44/46)\n[download]  97.9% of ~  64.91MiB at    2.12MiB/s ETA 00:03 (frag 44/46)\n[download]  97.9% of ~  64.94MiB at    2.12MiB/s ETA 00:03 (frag 44/46)\n[download]  98.0% of ~  65.01MiB at    2.12MiB/s ETA 00:03 (frag 44/46)\n[download]  98.2% of ~  65.14MiB at    2.12MiB/s ETA 00:03 (frag 44/46)\n[download]  98.5% of ~  65.39MiB at    2.12MiB/s ETA 00:03 (frag 44/46)\n[download]  96.4% of ~  66.84MiB at    2.12MiB/s ETA 00:03 (frag 45/46)\n[download] 100.0% of ~  64.43MiB at    2.67MiB/s ETA 00:02 (frag 45/46)\n[download] 100.0% of ~  64.43MiB at    2.67MiB/s ETA 00:02 (frag 45/46)\n[download] 100.0% of ~  64.43MiB at    2.67MiB/s ETA 00:02 (frag 45/46)\n[download] 100.0% of ~  64.44MiB at    2.67MiB/s ETA 00:02 (frag 46/46)\n[download] 100% of   64.43MiB in 00:00:18 at 3.49MiB/s                 \n[FixupM3u8] Fixing MPEG-TS in MP4 container of \"/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/mRD0-GxqHVo.mp4\"\n[ExtractAudio] Destination: /home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/mRD0-GxqHVo.wav\nDeleting original file /home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/mRD0-GxqHVo.mp4 (pass -k to keep)\n",
+            "stderr_tail": "WARNING: Post-Processor arguments given without specifying name. The arguments will be given to all post-processors\nWARNING: [youtube] mRD0-GxqHVo: There are missing subtitles languages because a PO token was not provided. Subtitles for these languages are missing: en-nP7-2PuUl7o, de-hrwxFetOmHM, pt-BR-ykZLUhi1BHQ, en-eEY6OEpapPo, fr-rSJfcHgCuhE, hi-RcMXHvGTx0s.\n",
+            "error": null,
+            "duration_seconds": 32.030037
+          }
+        ]
+      }
+    },
+    {
+      "corpus_id": "V1Pl8CzNzCw",
+      "youtube_id": "V1Pl8CzNzCw",
+      "youtube_url": "https://www.youtube.com/watch?v=V1Pl8CzNzCw",
+      "title_selected": "Billie Eilish, Khalid - lovely",
+      "audio_file": "corpus/01_music_videos_audio/audio/V1Pl8CzNzCw.wav",
+      "raw_metadata_file": "corpus/01_music_videos_audio/metadata_raw/V1Pl8CzNzCw.info.json",
+      "description_file": "corpus/01_music_videos_audio/descriptions/V1Pl8CzNzCw.description",
+      "status": "success",
+      "audio_status": "success",
+      "metadata_status": "success",
+      "error": null,
+      "return_code": 0,
+      "retries": 0,
+      "duration_seconds": 27.376614,
+      "start_time": "2026-09-01T23:25:12Z",
+      "end_time": "2026-09-01T23:25:40Z",
+      "metadata": {
+        "command": [
+          "yt-dlp",
+          "--cookies",
+          "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/env/youtube_cookies.txt",
+          "--no-overwrites",
+          "--write-info-json",
+          "-f",
+          "bestaudio/best",
+          "--extract-audio",
+          "--audio-format",
+          "wav",
+          "--postprocessor-args",
+          "-ac 1 -ar 16000 -sample_fmt s16",
+          "--write-description",
+          "--write-subs",
+          "--write-auto-subs",
+          "--sub-langs",
+          "en.*",
+          "https://www.youtube.com/watch?v=V1Pl8CzNzCw",
+          "-o",
+          "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/V1Pl8CzNzCw.%(ext)s"
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "return_code": 0,
+            "stdout_tail": "g 33/38)\n[download]  89.5% of ~  51.65MiB at    4.07MiB/s ETA 00:03 (frag 33/38)\n[download]  89.5% of ~  51.67MiB at    4.07MiB/s ETA 00:03 (frag 33/38)\n[download]  89.6% of ~  51.70MiB at    4.07MiB/s ETA 00:03 (frag 33/38)\n[download]  89.7% of ~  51.77MiB at    4.07MiB/s ETA 00:03 (frag 33/38)\n[download]  90.0% of ~  51.91MiB at    4.07MiB/s ETA 00:03 (frag 33/38)\n[download]  90.4% of ~  52.19MiB at    4.07MiB/s ETA 00:03 (frag 33/38)\n[download]  91.0% of ~  52.75MiB at    4.30MiB/s ETA 00:03 (frag 33/38)\n[download]  86.2% of ~  55.72MiB at    4.30MiB/s ETA 00:03 (frag 34/38)\n[download]  92.1% of ~  52.14MiB at    4.30MiB/s ETA 00:03 (frag 34/38)\n[download]  92.1% of ~  52.15MiB at    4.30MiB/s ETA 00:03 (frag 34/38)\n[download]  92.1% of ~  52.15MiB at    4.30MiB/s ETA 00:03 (frag 34/38)\n[download]  92.1% of ~  52.15MiB at    4.30MiB/s ETA 00:03 (frag 34/38)\n[download]  92.1% of ~  52.16MiB at    4.30MiB/s ETA 00:03 (frag 34/38)\n[download]  92.2% of ~  52.18MiB at    4.30MiB/s ETA 00:03 (frag 34/38)\n[download]  92.2% of ~  52.21MiB at    4.30MiB/s ETA 00:03 (frag 34/38)\n[download]  92.3% of ~  52.28MiB at    4.30MiB/s ETA 00:03 (frag 34/38)\n[download]  92.6% of ~  52.41MiB at    4.30MiB/s ETA 00:03 (frag 34/38)\n[download]  93.1% of ~  52.69MiB at    4.54MiB/s ETA 00:02 (frag 34/38)\n[download]  93.5% of ~  53.23MiB at    4.58MiB/s ETA 00:02 (frag 34/38)\n[download]  89.0% of ~  55.93MiB at    4.58MiB/s ETA 00:02 (frag 35/38)\n[download]  94.7% of ~  52.54MiB at    4.58MiB/s ETA 00:02 (frag 35/38)\n[download]  94.7% of ~  52.54MiB at    4.58MiB/s ETA 00:02 (frag 35/38)\n[download]  94.7% of ~  52.54MiB at    4.58MiB/s ETA 00:02 (frag 35/38)\n[download]  94.8% of ~  52.54MiB at    4.58MiB/s ETA 00:02 (frag 35/38)\n[download]  94.8% of ~  52.55MiB at    4.58MiB/s ETA 00:02 (frag 35/38)\n[download]  94.8% of ~  52.57MiB at    4.58MiB/s ETA 00:02 (frag 35/38)\n[download]  94.9% of ~  52.60MiB at    4.58MiB/s ETA 00:02 (frag 35/38)\n[download]  95.0% of ~  52.67MiB at    4.58MiB/s ETA 00:02 (frag 35/38)\n[download]  95.2% of ~  52.80MiB at    4.58MiB/s ETA 00:02 (frag 35/38)\n[download]  95.7% of ~  53.06MiB at    4.69MiB/s ETA 00:02 (frag 35/38)\n[download]  96.3% of ~  53.59MiB at    4.69MiB/s ETA 00:02 (frag 35/38)\n[download]  91.5% of ~  56.42MiB at    4.69MiB/s ETA 00:02 (frag 36/38)\n[download]  97.4% of ~  53.01MiB at    4.69MiB/s ETA 00:02 (frag 36/38)\n[download]  97.4% of ~  53.01MiB at    4.69MiB/s ETA 00:02 (frag 36/38)\n[download]  97.4% of ~  53.01MiB at    4.69MiB/s ETA 00:02 (frag 36/38)\n[download]  97.4% of ~  53.01MiB at    4.69MiB/s ETA 00:02 (frag 36/38)\n[download]  97.4% of ~  53.02MiB at    4.69MiB/s ETA 00:02 (frag 36/38)\n[download]  97.4% of ~  53.04MiB at    4.69MiB/s ETA 00:02 (frag 36/38)\n[download]  97.5% of ~  53.07MiB at    4.69MiB/s ETA 00:02 (frag 36/38)\n[download]  97.6% of ~  53.13MiB at    4.63MiB/s ETA 00:02 (frag 36/38)\n[download]  97.8% of ~  53.26MiB at    4.63MiB/s ETA 00:02 (frag 36/38)\n[download]  98.3% of ~  53.52MiB at    4.63MiB/s ETA 00:02 (frag 36/38)\n[download]  98.0% of ~  54.03MiB at    4.69MiB/s ETA 00:01 (frag 36/38)\n[download]  95.0% of ~  55.75MiB at    4.69MiB/s ETA 00:01 (frag 37/38)\n[download] 100.0% of ~  52.95MiB at    4.69MiB/s ETA 00:01 (frag 37/38)\n[download] 100.0% of ~  52.95MiB at    4.69MiB/s ETA 00:01 (frag 37/38)\n[download] 100.0% of ~  52.95MiB at    4.69MiB/s ETA 00:01 (frag 37/38)\n[download] 100.0% of ~  52.95MiB at    4.69MiB/s ETA 00:01 (frag 38/38)\n[download] 100% of   52.95MiB in 00:00:13 at 3.90MiB/s                 \n[FixupM3u8] Fixing MPEG-TS in MP4 container of \"/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/V1Pl8CzNzCw.mp4\"\n[ExtractAudio] Destination: /home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/V1Pl8CzNzCw.wav\nDeleting original file /home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/V1Pl8CzNzCw.mp4 (pass -k to keep)\n",
+            "stderr_tail": "WARNING: Post-Processor arguments given without specifying name. The arguments will be given to all post-processors\nWARNING: [youtube] V1Pl8CzNzCw: There are missing subtitles languages because a PO token was not provided. Subtitles for these languages are missing: en-nP7-2PuUl7o.\n",
+            "error": null,
+            "duration_seconds": 27.37659
+          }
+        ]
+      }
+    },
+    {
+      "corpus_id": "yKNxeF4KMsY",
+      "youtube_id": "yKNxeF4KMsY",
+      "youtube_url": "https://www.youtube.com/watch?v=yKNxeF4KMsY",
+      "title_selected": "Coldplay - Yellow (Official Video)",
+      "audio_file": "corpus/01_music_videos_audio/audio/yKNxeF4KMsY.wav",
+      "raw_metadata_file": "corpus/01_music_videos_audio/metadata_raw/yKNxeF4KMsY.info.json",
+      "description_file": "corpus/01_music_videos_audio/descriptions/yKNxeF4KMsY.description",
+      "status": "success",
+      "audio_status": "success",
+      "metadata_status": "success",
+      "error": null,
+      "return_code": 0,
+      "retries": 0,
+      "duration_seconds": 19.568002,
+      "start_time": "2026-09-01T23:25:40Z",
+      "end_time": "2026-09-01T23:25:59Z",
+      "metadata": {
+        "command": [
+          "yt-dlp",
+          "--cookies",
+          "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/env/youtube_cookies.txt",
+          "--no-overwrites",
+          "--write-info-json",
+          "-f",
+          "bestaudio/best",
+          "--extract-audio",
+          "--audio-format",
+          "wav",
+          "--postprocessor-args",
+          "-ac 1 -ar 16000 -sample_fmt s16",
+          "--write-description",
+          "--write-subs",
+          "--write-auto-subs",
+          "--sub-langs",
+          "en.*",
+          "https://www.youtube.com/watch?v=yKNxeF4KMsY",
+          "-o",
+          "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yKNxeF4KMsY.%(ext)s"
+        ],
+        "attempts": [
+          {
+            "attempt": 1,
+            "return_code": 0,
+            "stdout_tail": "g 56/61)\n[download]  93.4% of ~  34.72MiB at    7.83MiB/s ETA 00:01 (frag 56/61)\n[download]  93.5% of ~  34.72MiB at    7.83MiB/s ETA 00:01 (frag 56/61)\n[download]  93.5% of ~  34.72MiB at    7.83MiB/s ETA 00:01 (frag 56/61)\n[download]  93.5% of ~  34.73MiB at    7.83MiB/s ETA 00:01 (frag 56/61)\n[download]  93.5% of ~  34.75MiB at    7.83MiB/s ETA 00:01 (frag 56/61)\n[download]  93.6% of ~  34.78MiB at    7.83MiB/s ETA 00:01 (frag 56/61)\n[download]  93.8% of ~  34.85MiB at    7.83MiB/s ETA 00:01 (frag 56/61)\n[download]  94.2% of ~  34.98MiB at    7.78MiB/s ETA 00:01 (frag 56/61)\n[download]  94.8% of ~  35.25MiB at    7.76MiB/s ETA 00:00 (frag 56/61)\n[download]  90.8% of ~  36.79MiB at    7.76MiB/s ETA 00:00 (frag 57/61)\n[download]  95.1% of ~  35.14MiB at    7.76MiB/s ETA 00:00 (frag 57/61)\n[download]  95.1% of ~  35.14MiB at    7.76MiB/s ETA 00:00 (frag 57/61)\n[download]  95.1% of ~  35.14MiB at    7.76MiB/s ETA 00:00 (frag 57/61)\n[download]  95.1% of ~  35.14MiB at    7.76MiB/s ETA 00:00 (frag 57/61)\n[download]  95.1% of ~  35.15MiB at    7.76MiB/s ETA 00:00 (frag 57/61)\n[download]  95.2% of ~  35.17MiB at    7.76MiB/s ETA 00:00 (frag 57/61)\n[download]  95.3% of ~  35.20MiB at    7.76MiB/s ETA 00:00 (frag 57/61)\n[download]  95.4% of ~  35.27MiB at    7.76MiB/s ETA 00:00 (frag 57/61)\n[download]  95.8% of ~  35.40MiB at    7.76MiB/s ETA 00:00 (frag 57/61)\n[download]  95.7% of ~  35.66MiB at    7.76MiB/s ETA 00:00 (frag 57/61)\n[download]  93.1% of ~  36.64MiB at    7.76MiB/s ETA 00:00 (frag 58/61)\n[download]  96.7% of ~  35.28MiB at    7.77MiB/s ETA 00:00 (frag 58/61)\n[download]  96.7% of ~  35.28MiB at    7.77MiB/s ETA 00:00 (frag 58/61)\n[download]  96.7% of ~  35.28MiB at    7.77MiB/s ETA 00:00 (frag 58/61)\n[download]  96.7% of ~  35.29MiB at    7.77MiB/s ETA 00:00 (frag 58/61)\n[download]  96.8% of ~  35.30MiB at    7.77MiB/s ETA 00:00 (frag 58/61)\n[download]  96.8% of ~  35.31MiB at    7.77MiB/s ETA 00:00 (frag 58/61)\n[download]  96.9% of ~  35.34MiB at    7.77MiB/s ETA 00:00 (frag 58/61)\n[download]  97.1% of ~  35.41MiB at    7.77MiB/s ETA 00:00 (frag 58/61)\n[download]  97.4% of ~  35.54MiB at    7.77MiB/s ETA 00:00 (frag 58/61)\n[download]  97.0% of ~  35.80MiB at    7.77MiB/s ETA 00:00 (frag 58/61)\n[download]  95.1% of ~  36.51MiB at    7.77MiB/s ETA 00:00 (frag 59/61)\n[download]  98.4% of ~  35.30MiB at    7.77MiB/s ETA 00:00 (frag 59/61)\n[download]  98.4% of ~  35.30MiB at    7.77MiB/s ETA 00:00 (frag 59/61)\n[download]  98.4% of ~  35.30MiB at    7.77MiB/s ETA 00:00 (frag 59/61)\n[download]  98.4% of ~  35.30MiB at    7.77MiB/s ETA 00:00 (frag 59/61)\n[download]  98.4% of ~  35.31MiB at    7.77MiB/s ETA 00:00 (frag 59/61)\n[download]  98.4% of ~  35.33MiB at    7.77MiB/s ETA 00:00 (frag 59/61)\n[download]  98.5% of ~  35.36MiB at    7.77MiB/s ETA 00:00 (frag 59/61)\n[download]  98.7% of ~  35.42MiB at    7.77MiB/s ETA 00:00 (frag 59/61)\n[download]  99.1% of ~  35.55MiB at    7.77MiB/s ETA 00:00 (frag 59/61)\n[download]  99.8% of ~  35.80MiB at    7.78MiB/s ETA 00:00 (frag 59/61)\n[download]  98.8% of ~  36.31MiB at    7.78MiB/s ETA 00:00 (frag 59/61)\n[download]  95.2% of ~  37.68MiB at    7.78MiB/s ETA 00:00 (frag 60/61)\n[download] 100.0% of ~  35.89MiB at    7.78MiB/s ETA 00:00 (frag 60/61)\n[download] 100.0% of ~  35.89MiB at    7.78MiB/s ETA 00:00 (frag 60/61)\n[download] 100.0% of ~  35.89MiB at    7.78MiB/s ETA 00:00 (frag 60/61)\n[download] 100.0% of ~  35.90MiB at    7.78MiB/s ETA 00:00 (frag 61/61)\n[download] 100% of   35.89MiB in 00:00:05 at 6.88MiB/s                 \n[FixupM3u8] Fixing MPEG-TS in MP4 container of \"/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yKNxeF4KMsY.mp4\"\n[ExtractAudio] Destination: /home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yKNxeF4KMsY.wav\nDeleting original file /home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yKNxeF4KMsY.mp4 (pass -k to keep)\n",
+            "stderr_tail": "WARNING: Post-Processor arguments given without specifying name. The arguments will be given to all post-processors\nWARNING: [youtube] yKNxeF4KMsY: There are missing subtitles languages because a PO token was not provided. Subtitles for these languages are missing: en.\n",
+            "error": null,
+            "duration_seconds": 19.567974
+          }
+        ]
+      }
+    }
+  ],
+  "invalid_records": [],
+  "duplicates": []
+}
