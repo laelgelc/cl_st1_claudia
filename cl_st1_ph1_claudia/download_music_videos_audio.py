@@ -2,10 +2,10 @@
 """
 Download selected music video audio and metadata for Corpus Linguistics Study 1.
 
-This script reads music video dataset metadata from an NDJSON file, validates and
-deduplicates records by "id" (where "available" is True), and uses yt-dlp to directly
-download audio (WAV, mono, 16kHz, s16le PCM) for each selected music video.
-This output audio format is suitable for both Whisper v3 and gemini-2.5-flash processing.
+This script reads music video metadata from an NDJSON file, validates and
+deduplicates records by "corpus_id" (or "youtube_id"), filters them for
+those where `available` is TRUE, and uses yt-dlp to directly download
+Whisper-ready audio (WAV, mono, 16kHz, s16le PCM) for each selected video.
 
 Outputs are organised into a corpus directory containing audio files, raw yt-dlp
 metadata, descriptions, subtitles, optional comments, logs, manifests, and a
@@ -27,11 +27,11 @@ the project phase directory. This keeps the index portable between local machine
 and EC2, provided the project directory structure is preserved.
 
 Examples:
-    python download_music_video_audio.py
-    python download_music_video_audio.py --metadata-only
-    python download_music_video_audio.py --no-test-mode
-    python download_music_video_audio.py --no-test-mode --cookies env/youtube_cookies.txt
-    python download_music_video_audio.py --no-test-mode --start-corpus-id 4xqo7D2k8HM
+    python download_music_videos_audio.py
+    python download_music_videos_audio.py --metadata-only
+    python download_music_videos_audio.py --no-test-mode
+    python download_music_videos_audio.py --no-test-mode --cookies env/youtube_cookies.txt
+    python download_music_videos_audio.py --no-test-mode --start-corpus-id 4xqo7D2k8HM
 
 Exit codes:
     0    Completed with no failures
@@ -54,13 +54,13 @@ from pathlib import Path
 from typing import Any
 
 
-TOOL_NAME = "download_music_video_audio.py"
+TOOL_NAME = "download_music_videos_audio.py"
 TOOL_VERSION = "v1"
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 
 DEFAULT_METADATA_PATH = "corpus/00_sources/music_videos_dataset.ndjson"
-DEFAULT_OUTPUT_DIR = "corpus/01_music_video_audio"
+DEFAULT_OUTPUT_DIR = "corpus/01_music_videos_audio"
 
 DEFAULT_AUDIO_DIR_NAME = "audio"
 DEFAULT_RAW_METADATA_DIR_NAME = "metadata_raw"
@@ -68,9 +68,9 @@ DEFAULT_DESCRIPTIONS_DIR_NAME = "descriptions"
 DEFAULT_SUBTITLES_DIR_NAME = "subtitles"
 DEFAULT_COMMENTS_DIR_NAME = "comments"
 
-DEFAULT_LOG_FILE = "corpus/01_music_video_audio/download_music_video_audio.log"
-DEFAULT_MANIFEST_FILE = "corpus/01_music_video_audio/download_music_video_audio_manifest.json"
-DEFAULT_INDEX_FILE = "corpus/01_music_video_audio/music_video_audio_index.ndjson"
+DEFAULT_LOG_FILE = "corpus/01_music_videos_audio/download_music_videos_audio.log"
+DEFAULT_MANIFEST_FILE = "corpus/01_music_videos_audio/download_music_videos_audio_manifest.json"
+DEFAULT_INDEX_FILE = "corpus/01_music_videos_audio/music_videos_audio_index.ndjson"
 
 DEFAULT_TEST_MODE = True
 DEFAULT_TEST_LIMIT = 5
@@ -89,8 +89,8 @@ DEFAULT_WRITE_COMMENTS = False
 DEFAULT_SUB_LANGS = "en.*"
 
 REQUIRED_FIELDS = (
-    "id",
-    "url",
+    "youtube_id",
+    "youtube_url",
 )
 
 
@@ -355,7 +355,7 @@ def check_yt_dlp() -> dict[str, Any]:
 def load_samples(
         metadata_path: Path,
 ) -> tuple[list[dict[str, Any]], list[dict[str, Any]], list[dict[str, Any]], int]:
-    """Load, validate, and deduplicate sample records from NDJSON."""
+    """Load, validate, and deduplicate sample records from NDJSON, filtering for available ones."""
     records: list[dict[str, Any]] = []
     invalid_records: list[dict[str, Any]] = []
     duplicates: list[dict[str, Any]] = []
@@ -388,8 +388,8 @@ def load_samples(
                 )
                 continue
 
-            # Only process if available
-            if record.get("available") is not True:
+            # Ensure we only parse records that are explicitly available
+            if not record.get("available"):
                 continue
 
             missing = [
@@ -407,7 +407,10 @@ def load_samples(
                 )
                 continue
 
-            corpus_id = str(record["id"])
+            # Use corpus_id if provided, else fallback to youtube_id
+            corpus_id = str(record.get("corpus_id") or record.get("youtube_id"))
+            record["corpus_id"] = corpus_id
+
             if corpus_id in seen_corpus_ids:
                 duplicates.append(
                     {
@@ -421,7 +424,6 @@ def load_samples(
 
             seen_corpus_ids.add(corpus_id)
             record["_line_number"] = line_number
-            record["corpus_id"] = corpus_id
             records.append(record)
 
     return records, invalid_records, duplicates, total_records
@@ -503,8 +505,8 @@ def plan_items(
             "record": record,
             "paths": paths,
             "corpus_id": record["corpus_id"],
-            "youtube_id": record.get("id"),
-            "youtube_url": record.get("url"),
+            "youtube_id": record["youtube_id"],
+            "youtube_url": record["youtube_url"],
             "title_selected": record.get("title"),
         }
 
@@ -839,11 +841,11 @@ def extract_curated_metadata(
     subtitles_files = local_paths.get("subtitles_files", [])
 
     return {
-        "corpus_id": input_record.get("corpus_id") or input_record.get("id"),
+        "corpus_id": input_record.get("corpus_id"),
         "title_selected": input_record.get("title"),
         "title_extracted": raw.get("title"),
-        "youtube_id": input_record.get("id") or raw.get("id"),
-        "youtube_url": input_record.get("url") or raw.get("webpage_url"),
+        "youtube_id": input_record.get("youtube_id") or raw.get("id"),
+        "youtube_url": input_record.get("youtube_url"),
         "uploader": raw.get("uploader"),
         "duration_seconds": raw.get("duration"),
         "audio_file": path_for_index(audio_file),
@@ -861,7 +863,7 @@ def extract_curated_metadata(
         "download_run_id": run_metadata.get("run_id"),
         "downloaded_at_utc": run_metadata.get("end_time") or run_metadata.get("start_time"),
         "download_duration_seconds": item_result.get("duration_seconds"),
-        "yt_dlp_version": run_metadata.get("yt_dlp", {}).get("version", "unknown")
+        "yt_dlp_version": run_metadata.get("yt_dlp", {}).get("version", "unknown"),
     }
 
 
@@ -1077,7 +1079,7 @@ def process_item(
 
 
 def main() -> int:
-    """Run the complete music video audio download workflow."""
+    """Run the complete music videos audio download workflow."""
     args = parse_args()
     run_id = make_run_id()
     start_time = utc_timestamp()
