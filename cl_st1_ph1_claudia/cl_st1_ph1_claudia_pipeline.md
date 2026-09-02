@@ -13,7 +13,7 @@ python find_invalid_entries.py \
     corpus/00_sources/1000_best_pop_songs_denoised.md
 ```
 
-Output: `corpus/00_sources/1000_best_pop_songs_invalid_entries.md`
+Output: `corpus/00_sources/1000_best_pop_songs_denoised_invalid_entries.md`
 
 
 ## 1. Extract the music videos list
