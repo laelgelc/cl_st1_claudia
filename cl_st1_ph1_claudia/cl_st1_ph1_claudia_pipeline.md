@@ -10,7 +10,7 @@ cl_st1_ph1_claudia/
 
 ```shell script
 python find_invalid_entries.py \
-    corpus/00_sources/1000_best_pop_songs.md
+    corpus/00_sources/1000_best_pop_songs_denoised.md
 ```
 
 Output: `corpus/00_sources/1000_best_pop_songs_invalid_entries.md`

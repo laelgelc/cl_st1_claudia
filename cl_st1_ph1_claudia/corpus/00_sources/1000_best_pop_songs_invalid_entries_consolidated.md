@@ -10,7 +10,7 @@ Action: Choose another song to replace the duplicate.
 
 ## Missing YouTube URL
 
-971- Sly and the Family Stone, Thank you (Fallettinme Be Mice Elf again) - **1970 - Official Alternate Mix for \"Thank You (Falettinme Be Mice Elf Agin)\" by Sly & The Family Stone**
+971- Sly and the Family Stone, Thank you (Fallettinme Be Mice Elf again) - 1970 - Official Alternate Mix for "Thank You (Falettinme Be Mice Elf Agin)" by Sly & The Family Stone
 
 Action: Provide the YouTube URL for the song.
 
