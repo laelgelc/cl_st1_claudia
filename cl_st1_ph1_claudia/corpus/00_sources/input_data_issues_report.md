@@ -56,7 +56,7 @@ The uploader (channel owner) of the following 11 songs made the music video unav
 
 The suggested actions account for 15 songs to complete the set of 1000 songs.
 
-In your response, the only relevant piece of information is the YouTube "clean" URL for each song. Do not include any other text in your response because we are extracting the metadata directly from YouTube.
+In your response, the only relevant piece of information is the YouTube "clean" URL for each song. Do not include any other text in your response because we are extracting the metadata directly from YouTube and including them in the [music videos dataset (XLSX)](https://github.com/laelgelc/cl_st1_claudia/blob/main/cl_st1_ph1_claudia/corpus/00_sources/music_videos_dataset.xlsx).
 
 Example:
 
