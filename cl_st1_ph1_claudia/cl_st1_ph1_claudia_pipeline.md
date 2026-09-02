@@ -80,7 +80,7 @@ python transcribe_music_videos_whisperx.py --no-test-mode
 ### Production mode on an EC2 instance
 
 ```shell script
-bash run_python_ec2.sh \
+bash run_python_ec2_whisperx.sh \
     transcribe_music_videos_whisperx.py \
     --no-test-mode
 ```
