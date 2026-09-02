@@ -1,0 +1,48 @@
+[2026-09-02 20:05:20] INFO  Starting transcribe_music_videos_whisperx.py run_id=20260902T200520Z
+[2026-09-02 20:05:20] INFO  Audio index: /home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/music_videos_audio_index.ndjson
+[2026-09-02 20:05:20] INFO  Input directory: /home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio
+[2026-09-02 20:05:20] INFO  Output directory: /home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts
+[2026-09-02 20:05:20] INFO  Model: backend=whisperx model=large-v3 device=cuda compute_type=float16
+[2026-09-02 20:05:20] INFO  Transcription: language=en task=transcribe batch_size=8 vad_filter=True
+[2026-09-02 20:05:20] INFO  Test mode: True; test_limit=1
+[2026-09-02 20:05:20] INFO  Reprocess: False
+[2026-09-02 20:05:20] INFO  Start corpus ID: None
+[2026-09-02 20:05:22] INFO  Dependency availability: {'whisperx': {'available': True, 'version': 'unknown'}, 'torch': {'available': True, 'version': '2.8.0+cu128'}, 'faster_whisper': {'available': True, 'version': '1.2.1'}}
+[2026-09-02 20:05:22] INFO  CUDA available: True; device=NVIDIA A10G
+[2026-09-02 20:05:22] ERROR Configuration error: No eligible audio records found in audio index.
+[2026-09-02 20:17:25] INFO  Starting transcribe_music_videos_whisperx.py run_id=20260902T201725Z
+[2026-09-02 20:17:25] INFO  Audio index: /home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/music_videos_audio_index.ndjson
+[2026-09-02 20:17:25] INFO  Input directory: /home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio
+[2026-09-02 20:17:25] INFO  Output directory: /home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts
+[2026-09-02 20:17:25] INFO  Model: backend=whisperx model=large-v3 device=cuda compute_type=float16
+[2026-09-02 20:17:25] INFO  Transcription: language=en task=transcribe batch_size=8 vad_filter=True
+[2026-09-02 20:17:25] INFO  Test mode: True; test_limit=1
+[2026-09-02 20:17:25] INFO  Reprocess: False
+[2026-09-02 20:17:25] INFO  Start corpus ID: None
+[2026-09-02 20:17:27] INFO  Dependency availability: {'whisperx': {'available': True, 'version': 'unknown'}, 'torch': {'available': True, 'version': '2.8.0+cu128'}, 'faster_whisper': {'available': True, 'version': '1.2.1'}}
+[2026-09-02 20:17:27] INFO  CUDA available: True; device=NVIDIA A10G
+[2026-09-02 20:17:27] INFO  Loaded audio index: input=985 eligible=985 ignored=0 invalid=0
+[2026-09-02 20:17:27] INFO  Planning complete: planned=1 skipped_existing=0 missing_input=0
+[2026-09-02 20:17:27] INFO  Loading transcription model large-v3
+[2026-09-02 20:17:27] ERROR Configuration error: Could not load transcription model: cannot access local variable 'whisperx' where it is not associated with a value
+[2026-09-02 20:31:51] INFO  Starting transcribe_music_videos_whisperx.py run_id=20260902T203151Z
+[2026-09-02 20:31:51] INFO  Audio index: /home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/music_videos_audio_index.ndjson
+[2026-09-02 20:31:51] INFO  Input directory: /home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio
+[2026-09-02 20:31:51] INFO  Output directory: /home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts
+[2026-09-02 20:31:51] INFO  Model: backend=whisperx model=large-v3 device=cuda compute_type=float16
+[2026-09-02 20:31:51] INFO  Transcription: language=en task=transcribe batch_size=8 vad_filter=True
+[2026-09-02 20:31:51] INFO  Test mode: True; test_limit=1
+[2026-09-02 20:31:51] INFO  Reprocess: False
+[2026-09-02 20:31:51] INFO  Start corpus ID: None
+[2026-09-02 20:31:53] INFO  Dependency availability: {'whisperx': {'available': True, 'version': 'unknown'}, 'torch': {'available': True, 'version': '2.8.0+cu128'}, 'faster_whisper': {'available': True, 'version': '1.2.1'}}
+[2026-09-02 20:31:53] INFO  CUDA available: True; device=NVIDIA A10G
+[2026-09-02 20:31:53] INFO  Loaded audio index: input=985 eligible=985 ignored=0 invalid=0
+[2026-09-02 20:31:53] INFO  Planning complete: planned=1 skipped_existing=0 missing_input=0
+[2026-09-02 20:31:53] INFO  Loading transcription model large-v3
+[2026-09-02 20:32:21] INFO  Transcription model loaded successfully
+[2026-09-02 20:32:21] INFO  Transcription attempt 1/2 for 4xqo7D2k8HM
+[2026-09-02 20:32:24] INFO  SUCCESS 4xqo7D2k8HM -> /home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/4xqo7D2k8HM.txt
+[2026-09-02 20:32:24] INFO  Wrote transcript index: /home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/music_videos_transcript_index.ndjson
+[2026-09-02 20:32:24] INFO  Wrote latest manifest: /home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/transcribe_music_videos_whisperx_manifest.json
+[2026-09-02 20:32:24] INFO  Wrote per-run manifest: /home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/transcribe_music_videos_whisperx_manifest_20260902T203151Z.json
+[2026-09-02 20:32:24] INFO  Finished run: succeeded=1 failed=0 skipped_existing=0 missing_input=0 invalid_metadata=0
