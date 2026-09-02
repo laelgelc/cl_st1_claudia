@@ -643,7 +643,7 @@ def load_transcription_model(
             "The initial implementation supports the whisperx backend only."
         )
 
-        whisperx = importlib.import_module("whisperx")
+    whisperx = importlib.import_module("whisperx")
 
     try:
         return whisperx.load_model(model_name, device=device, compute_type=compute_type)
