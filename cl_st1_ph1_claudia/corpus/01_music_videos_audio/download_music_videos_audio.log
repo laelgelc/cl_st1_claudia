@@ -1,3 +1,36 @@
+[2026-09-01 20:23:45] INFO  Starting download_music_videos_audio.py run_id=20260901T232345Z
+[2026-09-01 20:23:45] INFO  Metadata path: /home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/00_sources/music_videos_dataset.ndjson
+[2026-09-01 20:23:45] INFO  Output directory: /home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio
+[2026-09-01 20:23:45] INFO  Index file: /home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/music_videos_audio_index.ndjson
+[2026-09-01 20:23:45] INFO  Test mode: True; test_limit=5
+[2026-09-01 20:23:45] INFO  Metadata-only: False
+[2026-09-01 20:23:45] INFO  Skip metadata: False
+[2026-09-01 20:23:45] INFO  Reprocess: False
+[2026-09-01 20:23:45] INFO  Cookies file provided: True
+[2026-09-01 20:23:45] INFO  Start corpus ID: None
+[2026-09-01 20:23:45] INFO  yt-dlp version: 2026.07.04
+[2026-09-01 20:23:45] INFO  Loaded records: input=996 valid=985 invalid=0 duplicates=0
+[2026-09-01 20:23:45] INFO  Planned items: 5
+[2026-09-01 20:23:45] INFO  Skipped existing items: 0
+[2026-09-01 20:23:45] INFO  Processing 4xqo7D2k8HM https://www.youtube.com/watch?v=4xqo7D2k8HM
+[2026-09-01 20:23:45] INFO  Attempt 1/2 for 4xqo7D2k8HM
+[2026-09-01 20:24:26] INFO  SUCCESS 4xqo7D2k8HM
+[2026-09-01 20:24:26] INFO  Processing nyuo9-OjNNg https://www.youtube.com/watch?v=nyuo9-OjNNg
+[2026-09-01 20:24:26] INFO  Attempt 1/2 for nyuo9-OjNNg
+[2026-09-01 20:24:40] INFO  SUCCESS nyuo9-OjNNg
+[2026-09-01 20:24:40] INFO  Processing mRD0-GxqHVo https://www.youtube.com/watch?v=mRD0-GxqHVo
+[2026-09-01 20:24:40] INFO  Attempt 1/2 for mRD0-GxqHVo
+[2026-09-01 20:25:12] INFO  SUCCESS mRD0-GxqHVo
+[2026-09-01 20:25:12] INFO  Processing V1Pl8CzNzCw https://www.youtube.com/watch?v=V1Pl8CzNzCw
+[2026-09-01 20:25:12] INFO  Attempt 1/2 for V1Pl8CzNzCw
+[2026-09-01 20:25:40] INFO  SUCCESS V1Pl8CzNzCw
+[2026-09-01 20:25:40] INFO  Processing yKNxeF4KMsY https://www.youtube.com/watch?v=yKNxeF4KMsY
+[2026-09-01 20:25:40] INFO  Attempt 1/2 for yKNxeF4KMsY
+[2026-09-01 20:25:59] INFO  SUCCESS yKNxeF4KMsY
+[2026-09-01 20:25:59] INFO  Wrote curated index: /home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/music_videos_audio_index.ndjson
+[2026-09-01 20:25:59] INFO  Wrote latest manifest: /home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/download_music_videos_audio_manifest.json
+[2026-09-01 20:25:59] INFO  Wrote run manifest: /home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/download_music_videos_audio_manifest_20260901T232345Z.json
+[2026-09-01 20:25:59] INFO  Finished run: succeeded=5 failed=0 skipped_existing=0 invalid_records=0
 [2026-09-01 23:47:06] INFO  Starting download_music_videos_audio.py run_id=20260901T234706Z
 [2026-09-01 23:47:06] INFO  Metadata path: /home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/00_sources/music_videos_dataset.ndjson
 [2026-09-01 23:47:06] INFO  Output directory: /home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio
