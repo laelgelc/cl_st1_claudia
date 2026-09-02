@@ -218,5 +218,5 @@ __marimo__/
 # cl_st1_claudia
 !cl_st1_ph1_claudia/env
 cl_st1_ph1_claudia/env/*cookies.txt
-
-
+!cl_st1_ph1_claudia/**/*.log
+cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/*.wav
