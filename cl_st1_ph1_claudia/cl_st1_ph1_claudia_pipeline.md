@@ -6,6 +6,16 @@ Run the commands from the project phase directory, e.g.:
 cl_st1_ph1_claudia/
 ```
 
+## 0. Find invalid entries in the input Markdown document
+
+```shell script
+python find_invalid_entries.py \
+    corpus/00_sources/1000_best_pop_songs.md
+```
+
+Output: `corpus/00_sources/1000_best_pop_songs_invalid_entries.md`
+
+
 ## 1. Extract the music videos list
 
 ```shell script

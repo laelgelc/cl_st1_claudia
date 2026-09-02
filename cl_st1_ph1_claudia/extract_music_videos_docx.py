@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 extract_music_videos.py
 
