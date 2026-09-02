@@ -19,7 +19,9 @@ Output: `corpus/00_sources/1000_best_pop_songs_invalid_entries.md`
 ## 1. Extract the music videos list
 
 ```shell script
-python extract_music_videos.py
+python extract_music_videos.py \
+    --input corpus/00_sources/1000_best_pop_songs_denoised.md \
+    --output corpus/00_sources/music_videos_list.ndjson
 ```
 
 Output: `corpus/00_sources/music_videos_list.ndjson`
