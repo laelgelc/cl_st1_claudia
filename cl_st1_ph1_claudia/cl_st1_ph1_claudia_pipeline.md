@@ -56,3 +56,31 @@ bash run_python_ec2.sh \
     --no-test-mode \
     --cookies env/youtube_cookies.txt
 ```
+
+## 4. Transcribe music video audio with WhisperX
+
+### Default test run
+
+```shell script
+python transcribe_music_videos_whisperx.py
+```
+
+### Explicit one-item test run
+
+```shell script
+python transcribe_music_videos_whisperx.py --test-limit 1
+```
+
+### Full run
+
+```shell script
+python transcribe_music_videos_whisperx.py --no-test-mode
+```
+
+### Production mode on an EC2 instance
+
+```shell script
+bash run_python_ec2.sh \
+    transcribe_music_videos_whisperx.py \
+    --no-test-mode
+```
