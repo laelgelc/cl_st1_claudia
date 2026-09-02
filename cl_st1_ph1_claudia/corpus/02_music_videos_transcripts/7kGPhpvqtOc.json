@@ -1,0 +1,91 @@
+{
+  "corpus_id": "7kGPhpvqtOc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/7kGPhpvqtOc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/7kGPhpvqtOc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/7kGPhpvqtOc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "One, two, three. because of mine Can't stand! Whoo! No running around! Can't stand! No putting me down! I will surround you! I love you. I love you. I love you anyhow. I don't care if you don't want me. I say I'm yours right now. Ha, ha, ha. Ha, ha, ha.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 6.275,
+        "end": 33.494,
+        "text": " One, two, three.",
+        "avg_logprob": -0.4698660543986729
+      },
+      {
+        "id": 2,
+        "start": 34.912,
+        "end": 54.2,
+        "text": " because of mine",
+        "avg_logprob": -1.0390624701976776
+      },
+      {
+        "id": 3,
+        "start": 71.986,
+        "end": 91.747,
+        "text": " Can't stand! Whoo! No running around! Can't stand! No putting me down! I will surround you!",
+        "avg_logprob": -0.39218750953674314
+      },
+      {
+        "id": 4,
+        "start": 120.434,
+        "end": 141.73,
+        "text": " I love you. I love you. I love you anyhow. I don't care if you don't want me. I say I'm yours right now.",
+        "avg_logprob": -0.10174005681818182
+      },
+      {
+        "id": 5,
+        "start": 154.555,
+        "end": 183.698,
+        "text": " Ha, ha, ha.",
+        "avg_logprob": -0.8002232142857143
+      },
+      {
+        "id": 6,
+        "start": 183.698,
+        "end": 193.942,
+        "text": " Ha, ha, ha.",
+        "avg_logprob": -0.6757812329701015
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "7kGPhpvqtOc",
+    "uploader": "Александр Кирсанов",
+    "audio_file": "corpus/01_music_videos_audio/audio/7kGPhpvqtOc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6545504,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.591889,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:57:36Z"
+  },
+  "status": "success",
+  "error": null
+}

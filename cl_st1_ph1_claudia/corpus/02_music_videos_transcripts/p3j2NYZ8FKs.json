@@ -1,0 +1,98 @@
+{
+  "corpus_id": "p3j2NYZ8FKs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/p3j2NYZ8FKs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/p3j2NYZ8FKs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/p3j2NYZ8FKs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Thank you. Sometimes you're better off dead There's a gun in your hand that's pointing at your head You think you're mad, too unstable Kicking in chairs and knocking down tables in a restaurant In a West End town Call the police, there's a madman around Running down underground to a dive bar In a West End town In a West End town, a dead end world With the East End boys and West End girls In a western town, a dead-end world The eastern boys and western girls In a western town, the dead won't. West End girls Ooh, West End town, a dead end world Eastern Boys Western Thanks for watching!",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 7.557,
+        "end": 34.726,
+        "text": " Thank you.",
+        "avg_logprob": -1.1093749701976776
+      },
+      {
+        "id": 2,
+        "start": 43.012,
+        "end": 66.164,
+        "text": " Sometimes you're better off dead There's a gun in your hand that's pointing at your head You think you're mad, too unstable Kicking in chairs and knocking down tables in a restaurant In a West End town Call the police, there's a madman around Running down underground to a dive bar In a West End town In a West End town, a dead end world With the East End boys and West End girls",
+        "avg_logprob": -0.12279412045198328
+      },
+      {
+        "id": 3,
+        "start": 68.037,
+        "end": 74.247,
+        "text": " In a western town, a dead-end world The eastern boys and western girls",
+        "avg_logprob": -0.1870404411764706
+      },
+      {
+        "id": 4,
+        "start": 110.444,
+        "end": 114.275,
+        "text": " In a western town, the dead won't.",
+        "avg_logprob": -0.5000000108372081
+      },
+      {
+        "id": 5,
+        "start": 155.483,
+        "end": 162.149,
+        "text": " West End girls Ooh, West End town, a dead end world",
+        "avg_logprob": -0.45591517431395395
+      },
+      {
+        "id": 6,
+        "start": 200.827,
+        "end": 204.826,
+        "text": " Eastern Boys Western",
+        "avg_logprob": -1.0947265326976776
+      },
+      {
+        "id": 7,
+        "start": 230.206,
+        "end": 231.607,
+        "text": " Thanks for watching!",
+        "avg_logprob": -0.8171875
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "p3j2NYZ8FKs",
+    "uploader": "Pet Shop Boys",
+    "audio_file": "corpus/01_music_videos_audio/audio/p3j2NYZ8FKs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7495108,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.916855,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:17:01Z"
+  },
+  "status": "success",
+  "error": null
+}

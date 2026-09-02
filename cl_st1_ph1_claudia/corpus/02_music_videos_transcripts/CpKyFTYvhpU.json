@@ -1,0 +1,91 @@
+{
+  "corpus_id": "CpKyFTYvhpU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CpKyFTYvhpU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/CpKyFTYvhpU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/CpKyFTYvhpU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Thank you very much Ladies and gentlemen I would like to do the song that was my very biggest record last year I mean it was no bigger than the rest of them but I sold a few more and I would like to tell you that to all the people watching and all you people that are here tonight that that we really are thankful for all the success that you made us have and everything. This is my biggest record, and it goes something like this. You know I can be found, sitting home all alone. If you can't come around, at least please telephone. Well, baby, for me to get mad for something I might have said, please look for getting past, and if you can look right ahead, don't cry. I don't want no other love, baby, so just see what I'm thinking of. Don't make me feel this way. Come on over here and love me. You know what I want to say. Why should we be apart? I really love you, baby. Kiss my heart. Then you'll know you have me And I know I'll have you too Only cause you are true I don't want no other love Baby, it's just you I'm thinking of Oh, I wish I were young again. No fooling. That's wonderful to be that way. Good.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 4.402,
+        "end": 33.41,
+        "text": " Thank you very much Ladies and gentlemen I would like to do the song that was my very biggest record last year I mean it was no bigger than the rest of them but I sold a few more and I would like to tell you that to all the people watching and all you people that are here tonight that",
+        "avg_logprob": -0.11183215497482207
+      },
+      {
+        "id": 2,
+        "start": 34.388,
+        "end": 62.806,
+        "text": " that we really are thankful for all the success that you made us have and everything. This is my biggest record, and it goes something like this. You know I can be found, sitting home all alone. If you can't come around, at least please telephone.",
+        "avg_logprob": -0.1620738598433408
+      },
+      {
+        "id": 3,
+        "start": 68.122,
+        "end": 92.928,
+        "text": " Well, baby, for me to get mad for something I might have said, please look for getting past, and if you can look right ahead, don't cry. I don't want no other love, baby, so just see what I'm thinking of.",
+        "avg_logprob": -0.33043982750839657
+      },
+      {
+        "id": 4,
+        "start": 94.885,
+        "end": 116.3,
+        "text": " Don't make me feel this way. Come on over here and love me. You know what I want to say. Why should we be apart? I really love you, baby. Kiss my heart.",
+        "avg_logprob": -0.21447173257668814
+      },
+      {
+        "id": 5,
+        "start": 119.776,
+        "end": 141.123,
+        "text": " Then you'll know you have me And I know I'll have you too Only cause you are true I don't want no other love Baby, it's just you I'm thinking of",
+        "avg_logprob": -0.41138980498439387
+      },
+      {
+        "id": 6,
+        "start": 142.473,
+        "end": 171.683,
+        "text": " Oh, I wish I were young again. No fooling. That's wonderful to be that way. Good.",
+        "avg_logprob": -0.12524413441618285
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "CpKyFTYvhpU",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/CpKyFTYvhpU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5503022,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.552928,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:00:12Z"
+  },
+  "status": "success",
+  "error": null
+}

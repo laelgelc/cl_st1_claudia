@@ -1,0 +1,98 @@
+{
+  "corpus_id": "T_Km11HNzUY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/T_Km11HNzUY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/T_Km11HNzUY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/T_Km11HNzUY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "And meet girls like you She also told me Stay away You'll never know What you'll catch Just the other day I heard of soldiers Falling on Some Indonesian Joke that's going on Mommy's alright, daddy's alright They just see my little wig Surrender Your father says your mother's right, she's really up on things Before we married, Mommy served in the WACs in the Philippines Now I had heard the WACs recruited old mates for the war Mommy's alright, daddy's alright They just seem a little weird Surrender, surrender What happened to all the seasons, losers of the year? Every time I got to thinking when they disappear. Then I woke up, mom and dad are rolling on the couch. Rolling numbers, rock and roll, and got my kids. Surrender, surrender, but don't give yourself away Surrender, surrender, but don't give yourself away But don't give yourself away",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 19.319,
+        "end": 40.598,
+        "text": " And meet girls like you She also told me Stay away You'll never know What you'll catch Just the other day I heard of soldiers Falling on Some Indonesian Joke that's going on",
+        "avg_logprob": -0.17307691619946405
+      },
+      {
+        "id": 2,
+        "start": 43.349,
+        "end": 52.192,
+        "text": " Mommy's alright, daddy's alright They just see my little wig Surrender",
+        "avg_logprob": -0.3623046912252903
+      },
+      {
+        "id": 3,
+        "start": 78.483,
+        "end": 98.632,
+        "text": " Your father says your mother's right, she's really up on things Before we married, Mommy served in the WACs in the Philippines Now I had heard the WACs recruited old mates for the war",
+        "avg_logprob": -0.14171511419983798
+      },
+      {
+        "id": 4,
+        "start": 105.584,
+        "end": 117.076,
+        "text": " Mommy's alright, daddy's alright They just seem a little weird Surrender, surrender",
+        "avg_logprob": -0.2630208449231254
+      },
+      {
+        "id": 5,
+        "start": 141.663,
+        "end": 166.688,
+        "text": " What happened to all the seasons, losers of the year? Every time I got to thinking when they disappear. Then I woke up, mom and dad are rolling on the couch. Rolling numbers, rock and roll, and got my kids.",
+        "avg_logprob": -0.1953125048656853
+      },
+      {
+        "id": 6,
+        "start": 209.821,
+        "end": 222.629,
+        "text": " Surrender, surrender, but don't give yourself away Surrender, surrender, but don't give yourself away",
+        "avg_logprob": -0.10385529696941376
+      },
+      {
+        "id": 7,
+        "start": 248.532,
+        "end": 253.477,
+        "text": " But don't give yourself away",
+        "avg_logprob": -0.328125
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "T_Km11HNzUY",
+    "uploader": "Cheap Trick",
+    "audio_file": "corpus/01_music_videos_audio/audio/T_Km11HNzUY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8171274,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 27.691525,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:54:47Z"
+  },
+  "status": "success",
+  "error": null
+}

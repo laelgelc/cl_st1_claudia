@@ -1,0 +1,119 @@
+{
+  "corpus_id": "bnVXIUyshng",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/bnVXIUyshng.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/bnVXIUyshng.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/bnVXIUyshng.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "About two years ago, we had a hit in America with this song off an album called Abandoned Luncheonette, and it's called She's Gone. Thank you. Everybody's high on consolation Everybody's trying to tell me what is right for me My daddy tried to bore me with a sermon You know it's plain to see they can't comfort me Sorry Charlie for the imposition But I believe I've got the strength to carry on. I need a drink and a quick decision. You know it's up to me what will be. And she's gone. Oh, why? Oh, why? I better learn how to face. She's gone and she's gone. Oh, why? Oh, why? I paid the devil to replace her, she's your woman What went wrong? Up in the mornin', I look in the mirror Look in the mirror I'm on as a toothbrush, shinin' in the stand In the stand, in the stand My face ain't lookin' any younger I can see love taking her toll on me She's gone, oh I, oh I I better learn how to face She's gone, she's gone, oh I, oh I I paid the devil to replace her She's gone, oh I, oh I Think I'll spend eternity in the city Let the carbon and monoxide choke my thoughts away Pretty bodies help me dissolve my memories They might help me, they could never be What she meant to me And she's all I, all I, all I I better learn how to face She's going to go away, away I pray the devil to replace her She's gone, gone She's gone I met a light out of phase She's gone Can't believe that she's gone I paid the devil to replace her She's gone I met a light out of phase She's gone Can't believe that she's gone I paid the devil to replace her She's gone She's gone She's gone I can't believe it, I can't believe it I gotta believe it I gotta learn how to face it I gotta learn, I gotta learn, I gotta learn I gotta learn, yeah",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 10,
+    "segments": [
+      {
+        "id": 1,
+        "start": 4.857,
+        "end": 11.962,
+        "text": " About two years ago, we had a hit in America with this song off an album called Abandoned Luncheonette, and it's called She's Gone.",
+        "avg_logprob": -0.10161994375726756
+      },
+      {
+        "id": 2,
+        "start": 42.708,
+        "end": 43.433,
+        "text": " Thank you.",
+        "avg_logprob": -0.72216796875
+      },
+      {
+        "id": 3,
+        "start": 80.66,
+        "end": 108.335,
+        "text": " Everybody's high on consolation Everybody's trying to tell me what is right for me My daddy tried to bore me with a sermon You know it's plain to see they can't comfort me Sorry Charlie for the imposition",
+        "avg_logprob": -0.1480034722222222
+      },
+      {
+        "id": 4,
+        "start": 110.579,
+        "end": 137.933,
+        "text": " But I believe I've got the strength to carry on. I need a drink and a quick decision. You know it's up to me what will be. And she's gone. Oh, why? Oh, why? I better learn how to face. She's gone and she's gone. Oh, why? Oh, why?",
+        "avg_logprob": -0.12692482056825058
+      },
+      {
+        "id": 5,
+        "start": 138.423,
+        "end": 162.487,
+        "text": " I paid the devil to replace her, she's your woman What went wrong? Up in the mornin', I look in the mirror Look in the mirror I'm on as a toothbrush, shinin' in the stand In the stand, in the stand My face ain't lookin' any younger",
+        "avg_logprob": -0.22195184328516976
+      },
+      {
+        "id": 6,
+        "start": 165.254,
+        "end": 184.593,
+        "text": " I can see love taking her toll on me She's gone, oh I, oh I I better learn how to face She's gone, she's gone, oh I, oh I I paid the devil to replace her She's gone, oh I, oh I",
+        "avg_logprob": -0.2539062593822126
+      },
+      {
+        "id": 7,
+        "start": 221.633,
+        "end": 249.173,
+        "text": " Think I'll spend eternity in the city Let the carbon and monoxide choke my thoughts away Pretty bodies help me dissolve my memories They might help me, they could never be What she meant to me And she's all I, all I, all I",
+        "avg_logprob": -0.26194853525535733
+      },
+      {
+        "id": 8,
+        "start": 249.798,
+        "end": 259.484,
+        "text": " I better learn how to face She's going to go away, away I pray the devil to replace her She's gone, gone",
+        "avg_logprob": -0.3171296340447885
+      },
+      {
+        "id": 9,
+        "start": 287.294,
+        "end": 315.323,
+        "text": " She's gone I met a light out of phase She's gone Can't believe that she's gone I paid the devil to replace her She's gone I met a light out of phase She's gone Can't believe that she's gone I paid the devil to replace her She's gone She's gone She's gone",
+        "avg_logprob": -0.12292480515316129
+      },
+      {
+        "id": 10,
+        "start": 316.049,
+        "end": 331.979,
+        "text": " I can't believe it, I can't believe it I gotta believe it I gotta learn how to face it I gotta learn, I gotta learn, I gotta learn I gotta learn, yeah",
+        "avg_logprob": -0.1960136217948718
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "bnVXIUyshng",
+    "uploader": "konekoxox",
+    "audio_file": "corpus/01_music_videos_audio/audio/bnVXIUyshng.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11506030,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.803601,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:10:01Z"
+  },
+  "status": "success",
+  "error": null
+}

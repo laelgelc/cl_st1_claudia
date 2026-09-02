@@ -1,0 +1,98 @@
+{
+  "corpus_id": "lLomSaLLSzg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/lLomSaLLSzg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/lLomSaLLSzg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/lLomSaLLSzg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Girl, you thought you found the answer on that magic carpet ride last night. But when you wake up in the morning, the world still gets you uptight. Well, there's nothing better you ain't tried to fill the emptiness inside. When you come back down, girl, still ain't feeling right And don't it seem like kicks just keep getting harder to find And all your kicks ain't bringing you peace of mind Before you find out it's too late, girl, you better get straight No, but not with kicks You just need help, girl Well, you think you're gonna find yourself a little piece of paradise. But it ain't happened yet, so girl, you better think twice. Don't you see no matter what you do, you'll never run away from you. And if you keep on running, you'll have to pay the price. And don't it seem like it's just keep getting harder to find. And all your kicks ain't bringing you peace of mind. Before you find out it's too late, girl, you better get straight. To help you face the world each day That road goes nowhere We'll see you next time. Girl, you better get straight.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.195,
+        "end": 29.275,
+        "text": " Girl, you thought you found the answer on that magic carpet ride last night. But when you wake up in the morning, the world still gets you uptight. Well, there's nothing better you ain't tried to fill the emptiness inside.",
+        "avg_logprob": -0.11554687649011612
+      },
+      {
+        "id": 2,
+        "start": 29.798,
+        "end": 57.524,
+        "text": " When you come back down, girl, still ain't feeling right And don't it seem like kicks just keep getting harder to find And all your kicks ain't bringing you peace of mind Before you find out it's too late, girl, you better get straight No, but not with kicks You just need help, girl",
+        "avg_logprob": -0.103125
+      },
+      {
+        "id": 3,
+        "start": 58.79,
+        "end": 71.632,
+        "text": " Well, you think you're gonna find yourself a little piece of paradise. But it ain't happened yet, so girl, you better think twice.",
+        "avg_logprob": -0.10527973934527367
+      },
+      {
+        "id": 4,
+        "start": 73.623,
+        "end": 100.218,
+        "text": " Don't you see no matter what you do, you'll never run away from you. And if you keep on running, you'll have to pay the price. And don't it seem like it's just keep getting harder to find. And all your kicks ain't bringing you peace of mind. Before you find out it's too late, girl, you better get straight.",
+        "avg_logprob": -0.03010856244084123
+      },
+      {
+        "id": 5,
+        "start": 103.103,
+        "end": 112.722,
+        "text": " To help you face the world each day That road goes nowhere",
+        "avg_logprob": -0.30603966346153844
+      },
+      {
+        "id": 6,
+        "start": 113.718,
+        "end": 142.827,
+        "text": " We'll see you next time.",
+        "avg_logprob": -0.7778320237994194
+      },
+      {
+        "id": 7,
+        "start": 142.827,
+        "end": 146.067,
+        "text": " Girl, you better get straight.",
+        "avg_logprob": -0.10900878719985485
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "lLomSaLLSzg",
+    "uploader": "RaidersVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/lLomSaLLSzg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4883328,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 30.062661,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:55:30Z"
+  },
+  "status": "success",
+  "error": null
+}

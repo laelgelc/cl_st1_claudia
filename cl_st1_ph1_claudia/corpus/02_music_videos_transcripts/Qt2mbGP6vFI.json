@@ -1,0 +1,84 @@
+{
+  "corpus_id": "Qt2mbGP6vFI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Qt2mbGP6vFI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Qt2mbGP6vFI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Qt2mbGP6vFI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "He calls out to the man on the street Sir, can you help me? It's cold and I'm nowhere to sleep Is there somewhere you can tell me? He walks on, doesn't look back Starts to whistle as he crosses the street Seems embarrassed to be there Oh, think twice Cause it's another day for you and me in paradise Oh, think twice Cause it's another day Oh, think twice It's just another There must be something you can say You can tell from the lines on her face",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 32.026,
+        "end": 57.22,
+        "text": " He calls out to the man on the street Sir, can you help me? It's cold and I'm nowhere to sleep Is there somewhere you can tell me? He walks on, doesn't look back",
+        "avg_logprob": -0.11914062411302612
+      },
+      {
+        "id": 2,
+        "start": 60.14,
+        "end": 84.119,
+        "text": " Starts to whistle as he crosses the street Seems embarrassed to be there Oh, think twice Cause it's another day for you and me in paradise Oh, think twice Cause it's another day",
+        "avg_logprob": -0.1136818929360463
+      },
+      {
+        "id": 3,
+        "start": 108.436,
+        "end": 128.99,
+        "text": " Oh, think twice",
+        "avg_logprob": -0.690625
+      },
+      {
+        "id": 4,
+        "start": 137.765,
+        "end": 140.482,
+        "text": " It's just another",
+        "avg_logprob": -0.8578125
+      },
+      {
+        "id": 5,
+        "start": 177.1,
+        "end": 190.938,
+        "text": " There must be something you can say You can tell from the lines on her face",
+        "avg_logprob": -0.29572610294117646
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Qt2mbGP6vFI",
+    "uploader": "Phil Collins",
+    "audio_file": "corpus/01_music_videos_audio/audio/Qt2mbGP6vFI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9302920,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.058964,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:12:05Z"
+  },
+  "status": "success",
+  "error": null
+}

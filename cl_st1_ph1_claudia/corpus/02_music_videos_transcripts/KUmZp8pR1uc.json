@@ -1,0 +1,91 @@
+{
+  "corpus_id": "KUmZp8pR1uc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/KUmZp8pR1uc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/KUmZp8pR1uc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/KUmZp8pR1uc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "They tried to make me go to rehab, I said no, no, no Yes, I've been black, but when I come back, no, no, no I ain't got the time, and if my daddy thinks I'm fine They tried to make me go to rehab, I won't go I got 17K In a shot glass Just try to make me go to rehab I said no, no, no Guess I'll be back when I come back No, no, no I ain't got the time And if my daddy thinks I'm fine Just try to make me go to rehab I said, I just think you're depressed. Kiss me, yeah, baby, and go ahead. They tried to make me go to rehab, but I said, no, no, no. Yes, I've been black, but when I come back, It's not just my pride. It's just till these tears have dried. They tried to make me go to rehab. I said no, no, no. Yes, I've been black and white. I ain't got the time And if my daddy thinks I'm fine",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 2.528,
+        "end": 26.44,
+        "text": " They tried to make me go to rehab, I said no, no, no Yes, I've been black, but when I come back, no, no, no I ain't got the time, and if my daddy thinks I'm fine They tried to make me go to rehab, I won't go",
+        "avg_logprob": -0.015438988036106504
+      },
+      {
+        "id": 2,
+        "start": 37.392,
+        "end": 39.248,
+        "text": " I got 17K",
+        "avg_logprob": -0.797265625
+      },
+      {
+        "id": 3,
+        "start": 65.658,
+        "end": 91.527,
+        "text": " In a shot glass Just try to make me go to rehab I said no, no, no Guess I'll be back when I come back No, no, no I ain't got the time And if my daddy thinks I'm fine Just try to make me go to rehab",
+        "avg_logprob": -0.18457031941839627
+      },
+      {
+        "id": 4,
+        "start": 122.56,
+        "end": 144.515,
+        "text": " I said, I just think you're depressed. Kiss me, yeah, baby, and go ahead. They tried to make me go to rehab, but I said, no, no, no. Yes, I've been black, but when I come back,",
+        "avg_logprob": -0.2557870326218782
+      },
+      {
+        "id": 5,
+        "start": 175.835,
+        "end": 195.916,
+        "text": " It's not just my pride. It's just till these tears have dried. They tried to make me go to rehab. I said no, no, no. Yes, I've been black and white.",
+        "avg_logprob": -0.19567586793455966
+      },
+      {
+        "id": 6,
+        "start": 200.641,
+        "end": 207.627,
+        "text": " I ain't got the time And if my daddy thinks I'm fine",
+        "avg_logprob": -0.18763021230697632
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "KUmZp8pR1uc",
+    "uploader": "Amy Winehouse",
+    "audio_file": "corpus/01_music_videos_audio/audio/KUmZp8pR1uc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6829346,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.988817,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:20:58Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,77 @@
+{
+  "corpus_id": "v1fImXAeS-s",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/v1fImXAeS-s.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/v1fImXAeS-s.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/v1fImXAeS-s.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Wake up, hey Susie, wake up Wake up, hey Susie, wake up We both went down to sleep Wake up, hey Susie, and we The movie's over, it's four o'clock And we're in trouble deep Wake up, hey Susie Wake up, hey Susie Well, what are we gonna take from your mom? When we're gonna tickle our friends when they say, ooh la la. Wake up, pretty Susie. Wake up, pretty Susie. Well, I told your mama that you'd be invited. Well, Susie, baby, looks like we do again. Wake up, pretty Susie. Wake up, pretty Susie. Wake up, wake up, believe Susie. Wake up, the movie wasn't so hot. We didn't have much of a pot. We fell asleep by Goose's good time. Reputation is shot. Wake up, believe Susie. Wake up, believe Susie. Well, what are we gonna tell your mama? We'll be right back.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 13.649,
+        "end": 42.472,
+        "text": " Wake up, hey Susie, wake up Wake up, hey Susie, wake up We both went down to sleep Wake up, hey Susie, and we The movie's over, it's four o'clock And we're in trouble deep Wake up, hey Susie Wake up, hey Susie Well, what are we gonna take from your mom?",
+        "avg_logprob": -0.12288851512444986
+      },
+      {
+        "id": 2,
+        "start": 45.948,
+        "end": 70.113,
+        "text": " When we're gonna tickle our friends when they say, ooh la la. Wake up, pretty Susie. Wake up, pretty Susie. Well, I told your mama that you'd be invited. Well, Susie, baby, looks like we do again. Wake up, pretty Susie. Wake up, pretty Susie.",
+        "avg_logprob": -0.15792410437549864
+      },
+      {
+        "id": 3,
+        "start": 79.63,
+        "end": 105.162,
+        "text": " Wake up, wake up, believe Susie. Wake up, the movie wasn't so hot. We didn't have much of a pot. We fell asleep by Goose's good time. Reputation is shot. Wake up, believe Susie. Wake up, believe Susie. Well, what are we gonna tell your mama?",
+        "avg_logprob": -0.1938405736632969
+      },
+      {
+        "id": 4,
+        "start": 106.748,
+        "end": 126.948,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.5265066964285714
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "v1fImXAeS-s",
+    "uploader": "Oktavian Hermawan Susilo",
+    "audio_file": "corpus/01_music_videos_audio/audio/v1fImXAeS-s.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4319362,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.985094,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:57:39Z"
+  },
+  "status": "success",
+  "error": null
+}

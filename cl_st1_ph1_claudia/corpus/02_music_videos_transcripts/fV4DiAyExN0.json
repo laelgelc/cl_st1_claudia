@@ -1,0 +1,98 @@
+{
+  "corpus_id": "fV4DiAyExN0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/fV4DiAyExN0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/fV4DiAyExN0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/fV4DiAyExN0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "There's many things I wish I didn't do But I continue learning I never meant to do those things to you And so I have to say before I go That I just want you to know A reason to start over new. And the reason is you. I'm sorry that I hurt you. It's something I must live with every day. I wish that I could take it all away And be the one who catches all your tears A reason to stay You're the perfect person I never meant to do those things to you And so I have to say before I go That I just want you to know To show a side of me you didn't know A reason for all that I do And the reason is you Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 35.958,
+        "end": 62.013,
+        "text": " There's many things I wish I didn't do But I continue learning I never meant to do those things to you And so I have to say before I go That I just want you to know",
+        "avg_logprob": -0.06923828143626451
+      },
+      {
+        "id": 2,
+        "start": 76.289,
+        "end": 97.028,
+        "text": " A reason to start over new. And the reason is you. I'm sorry that I hurt you. It's something I must live with every day.",
+        "avg_logprob": -0.030899046803824604
+      },
+      {
+        "id": 3,
+        "start": 105.247,
+        "end": 114.646,
+        "text": " I wish that I could take it all away And be the one who catches all your tears",
+        "avg_logprob": -0.066509042915545
+      },
+      {
+        "id": 4,
+        "start": 134.187,
+        "end": 136.297,
+        "text": " A reason to stay",
+        "avg_logprob": -0.349609375
+      },
+      {
+        "id": 5,
+        "start": 169.861,
+        "end": 190.077,
+        "text": " You're the perfect person I never meant to do those things to you And so I have to say before I go That I just want you to know",
+        "avg_logprob": -0.1292842770776441
+      },
+      {
+        "id": 6,
+        "start": 217.617,
+        "end": 236.45,
+        "text": " To show a side of me you didn't know A reason for all that I do And the reason is you",
+        "avg_logprob": -0.06801970303058624
+      },
+      {
+        "id": 7,
+        "start": 247.908,
+        "end": 250.591,
+        "text": " Thank you.",
+        "avg_logprob": -0.7890625298023224
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "fV4DiAyExN0",
+    "uploader": "Hoobastank",
+    "audio_file": "corpus/01_music_videos_audio/audio/fV4DiAyExN0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8018208,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.315697,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:06:13Z"
+  },
+  "status": "success",
+  "error": null
+}

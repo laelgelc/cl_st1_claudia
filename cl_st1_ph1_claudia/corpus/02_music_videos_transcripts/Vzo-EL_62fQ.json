@@ -1,0 +1,105 @@
+{
+  "corpus_id": "Vzo-EL_62fQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Vzo-EL_62fQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Vzo-EL_62fQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Vzo-EL_62fQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Closed off from love, I didn't need the pain Once or twice was enough and it was all in vain Time starts to pass before you know it, you're frozen But something happened for the very first time with you My heart melted to the ground, found something true And everyone's looking round thinking I'm going crazy My heart's crippled by the pain that I keep on closing You cut me open and I keep bleeding, keep, keep bleeding, love I keep bleeding, I keep, keep bleeding, love Keep bleeding, keep, keep bleeding, love Trying hard not to hear but they talk so loud Their piercing sounds fill my ears, try to fill me with doubt Yet I know that the goal is to keep me from falling But nothing's greater than the rest that comes with your embrace And in this world of loneliness I see your face Yet everyone around me thinks that I'm going crazy Maybe, maybe But I don't care what they say, honey in love with you. They try to pull me away, but they don't know the truth. My heart's crippled by the pain that I keep on closing. You cut me open and I keep bleeding, keep, keep bleeding in love. I keep bleeding, I keep, keep bleeding in love. I don't care what they say I'm in love with you They try to pull me away But they don't know the truth My heart's crippled by the pain That I keep on closing Ooh, you cut me open Call me up when I'm down, keep bleeding, keep bleeding like love",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 10.865,
+        "end": 40.463,
+        "text": " Closed off from love, I didn't need the pain Once or twice was enough and it was all in vain Time starts to pass before you know it, you're frozen",
+        "avg_logprob": -0.0689019076526165
+      },
+      {
+        "id": 2,
+        "start": 42.573,
+        "end": 59.06,
+        "text": " But something happened for the very first time with you My heart melted to the ground, found something true And everyone's looking round thinking I'm going crazy",
+        "avg_logprob": -0.09261592741935484
+      },
+      {
+        "id": 3,
+        "start": 70.433,
+        "end": 94.767,
+        "text": " My heart's crippled by the pain that I keep on closing You cut me open and I keep bleeding, keep, keep bleeding, love I keep bleeding, I keep, keep bleeding, love Keep bleeding, keep, keep bleeding, love",
+        "avg_logprob": -0.10044642857142858
+      },
+      {
+        "id": 4,
+        "start": 104.318,
+        "end": 118.932,
+        "text": " Trying hard not to hear but they talk so loud Their piercing sounds fill my ears, try to fill me with doubt Yet I know that the goal is to keep me from falling",
+        "avg_logprob": -0.13823785301711825
+      },
+      {
+        "id": 5,
+        "start": 121.868,
+        "end": 144.127,
+        "text": " But nothing's greater than the rest that comes with your embrace And in this world of loneliness I see your face Yet everyone around me thinks that I'm going crazy Maybe, maybe But I don't care what they say, honey",
+        "avg_logprob": -0.06275475511084432
+      },
+      {
+        "id": 6,
+        "start": 144.127,
+        "end": 168.747,
+        "text": " in love with you. They try to pull me away, but they don't know the truth. My heart's crippled by the pain that I keep on closing. You cut me open and I keep bleeding, keep, keep bleeding in love. I keep bleeding, I keep, keep bleeding in love.",
+        "avg_logprob": -0.07793898525692168
+      },
+      {
+        "id": 7,
+        "start": 197.35,
+        "end": 214.529,
+        "text": " I don't care what they say I'm in love with you They try to pull me away But they don't know the truth My heart's crippled by the pain That I keep on closing Ooh, you cut me open",
+        "avg_logprob": -0.15225883087386255
+      },
+      {
+        "id": 8,
+        "start": 250.034,
+        "end": 259.028,
+        "text": " Call me up when I'm down, keep bleeding, keep bleeding like love",
+        "avg_logprob": -0.5068359151482582
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Vzo-EL_62fQ",
+    "uploader": "leonalewis",
+    "audio_file": "corpus/01_music_videos_audio/audio/Vzo-EL_62fQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8926944,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.126146,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:05:45Z"
+  },
+  "status": "success",
+  "error": null
+}

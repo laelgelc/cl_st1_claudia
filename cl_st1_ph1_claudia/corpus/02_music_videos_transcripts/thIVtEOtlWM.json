@@ -1,0 +1,98 @@
+{
+  "corpus_id": "thIVtEOtlWM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/thIVtEOtlWM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/thIVtEOtlWM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/thIVtEOtlWM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "If I gots to bring it to you cowards, then it's gonna be quick Aight, all you mays that been to jail before, suck my dick And all them other cats you run with, get done with Ain't that something? You remind me of a strip club Every time we come around it's like I just gotta get my docks up And I don't know who you think you're talking to But I'm not him, I ain't slim So watch what you do Or you gon' find yourself next to someone else And we all thought you loved yourself But that couldn't have been the issue Or maybe they just seein' that now cause they miss you Maybe they tried to diss you That's why you layin' on your back Lookin' at the roof of the church Preacher tellin' the truth and it hurts I leave off of the brain Still want the fame, off the name First of all, you ain't fat long enough To be with me and you, you ain't strong enough So whatever it is you puffin' on That got you thinkin' that you Superman I got the kryptonite, and I smack you with my dick And I'm like, characters, not even good actors What's gon' be the output? Let's add up all the factors You act and twist it, your girls are whole You broke, the kid ain't yours, and everybody know Your old man say you stupid, you be like, so? I love my baby mother, I never let her go I'm tired of weakin' Riding over fools that don't belong to them From a dip Get off my frills like my mans in them Who get it all when it's spent for their hands with them Man, y'all gon' make me lose my mind Up in here, up in here Y'all gon' make me go all out I bring down rain to heavy and curse the head. No more talking. Put the dirt to stay. You keep walking. That's you trying to end up bad. Cause if I end up bad, I end up. You just soft type. Fake up north type. Like a soft white dog is a dog. Seems as though there are a couple of suburbans pulling up and females are running everywhere. One, two, leave me out now",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 28.904,
+        "end": 36.11,
+        "text": " If I gots to bring it to you cowards, then it's gonna be quick Aight, all you mays that been to jail before, suck my dick And all them other cats you run with, get done with",
+        "avg_logprob": -0.21409574468085107
+      },
+      {
+        "id": 2,
+        "start": 41.982,
+        "end": 67.987,
+        "text": " Ain't that something? You remind me of a strip club Every time we come around it's like I just gotta get my docks up And I don't know who you think you're talking to But I'm not him, I ain't slim So watch what you do Or you gon' find yourself next to someone else And we all thought you loved yourself But that couldn't have been the issue Or maybe they just seein' that now cause they miss you Maybe they tried to diss you That's why you layin' on your back Lookin' at the roof of the church Preacher tellin' the truth and it hurts",
+        "avg_logprob": -0.19137596899224807
+      },
+      {
+        "id": 3,
+        "start": 86.684,
+        "end": 116.249,
+        "text": " I leave off of the brain Still want the fame, off the name First of all, you ain't fat long enough To be with me and you, you ain't strong enough So whatever it is you puffin' on That got you thinkin' that you Superman I got the kryptonite, and I smack you with my dick And I'm like, characters, not even good actors What's gon' be the output? Let's add up all the factors You act and twist it, your girls are whole You broke, the kid ain't yours, and everybody know Your old man say you stupid, you be like, so? I love my baby mother, I never let her go I'm tired of weakin'",
+        "avg_logprob": -0.2086148640593967
+      },
+      {
+        "id": 4,
+        "start": 116.249,
+        "end": 131.875,
+        "text": " Riding over fools that don't belong to them From a dip Get off my frills like my mans in them Who get it all when it's spent for their hands with them Man, y'all gon' make me lose my mind Up in here, up in here Y'all gon' make me go all out",
+        "avg_logprob": -0.25804922887773224
+      },
+      {
+        "id": 5,
+        "start": 152.142,
+        "end": 168.19,
+        "text": " I bring down rain to heavy and curse the head. No more talking. Put the dirt to stay. You keep walking. That's you trying to end up bad. Cause if I end up bad, I end up. You just soft type. Fake up north type. Like a soft white dog is a dog.",
+        "avg_logprob": -0.3423076923076923
+      },
+      {
+        "id": 6,
+        "start": 174.873,
+        "end": 201.434,
+        "text": " Seems as though there are a couple of suburbans pulling up and females are running everywhere.",
+        "avg_logprob": -0.23613281771540642
+      },
+      {
+        "id": 7,
+        "start": 209.888,
+        "end": 212.656,
+        "text": " One, two, leave me out now",
+        "avg_logprob": -0.3728298611111111
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "thIVtEOtlWM",
+    "uploader": "DMX",
+    "audio_file": "corpus/01_music_videos_audio/audio/thIVtEOtlWM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7733624,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.607193,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:14:45Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,98 @@
+{
+  "corpus_id": "-XKPU1MHASU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/-XKPU1MHASU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/-XKPU1MHASU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/-XKPU1MHASU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "This is our song for Andy. Okay. Baby, I don't wanna know the reason why But lately you don't talk to me And darling, I can see in your eyes I hold you near but you're so far away But let your love flow back to me How can you leave and let this feeling die? Are you alone? The living thing that keeps me alive And tomorrow, if I'm here without your love You know I can't survive Only my love can raise you high above it all Don't throw it all away, I'll drop my love Don't throw it all away, I'll drop my love Don't throw it all away, I'll drop my love We can take the darkness and make it full of light But let your love flow back to me How can you leave and let this feeling die? This happy room would be a lovely place when you were gone And I won't even have your shoulder Love could be as true, I'm begging you Don't throw it all away, oh love, oh love Don't throw it all away, oh love Don't throw it all away, oh love, oh love Don't throw it all away, oh love Now we change the world, we made it ours to hold But dreams are made for those who really try This losing you is real But I still feel you here inside Don't throw it all away, I love, I love Don't throw it all away, I love Don't throw it all away, I love, I love We are love, our love, don't throw it away on us.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 3.372,
+        "end": 30.608,
+        "text": " This is our song for Andy. Okay. Baby, I don't wanna know the reason why But lately you don't talk to me And darling, I can see in your eyes",
+        "avg_logprob": -0.18570523487555013
+      },
+      {
+        "id": 2,
+        "start": 34.017,
+        "end": 59.279,
+        "text": " I hold you near but you're so far away But let your love flow back to me How can you leave and let this feeling die? Are you alone? The living thing that keeps me alive",
+        "avg_logprob": -0.11240234635770321
+      },
+      {
+        "id": 3,
+        "start": 60.325,
+        "end": 85.233,
+        "text": " And tomorrow, if I'm here without your love You know I can't survive Only my love can raise you high above it all Don't throw it all away, I'll drop my love Don't throw it all away, I'll drop my love Don't throw it all away, I'll drop my love",
+        "avg_logprob": -0.09356398502039531
+      },
+      {
+        "id": 4,
+        "start": 107.896,
+        "end": 135.638,
+        "text": " We can take the darkness and make it full of light But let your love flow back to me How can you leave and let this feeling die? This happy room would be a lovely place when you were gone And I won't even have your shoulder",
+        "avg_logprob": -0.07328124791383743
+      },
+      {
+        "id": 5,
+        "start": 140.161,
+        "end": 166.57,
+        "text": " Love could be as true, I'm begging you Don't throw it all away, oh love, oh love Don't throw it all away, oh love Don't throw it all away, oh love, oh love Don't throw it all away, oh love Now we change the world, we made it ours to hold",
+        "avg_logprob": -0.12319711538461539
+      },
+      {
+        "id": 6,
+        "start": 167.026,
+        "end": 196.793,
+        "text": " But dreams are made for those who really try This losing you is real But I still feel you here inside Don't throw it all away, I love, I love Don't throw it all away, I love Don't throw it all away, I love, I love",
+        "avg_logprob": -0.08203125162558123
+      },
+      {
+        "id": 7,
+        "start": 202.042,
+        "end": 206.378,
+        "text": " We are love, our love, don't throw it away on us.",
+        "avg_logprob": -0.3879394568502903
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "-XKPU1MHASU",
+    "uploader": "beegees",
+    "audio_file": "corpus/01_music_videos_audio/audio/-XKPU1MHASU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7502538,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 25.487802,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:54:52Z"
+  },
+  "status": "success",
+  "error": null
+}

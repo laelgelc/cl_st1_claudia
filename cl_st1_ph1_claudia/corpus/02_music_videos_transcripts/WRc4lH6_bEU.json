@@ -1,0 +1,91 @@
+{
+  "corpus_id": "WRc4lH6_bEU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/WRc4lH6_bEU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/WRc4lH6_bEU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/WRc4lH6_bEU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "And they stay there And they stay there Make them stay down. Swerving in my low-low. Head on a swivel. You know serving me's a no-no. Clean as a whistle as I pull out in my Rolls Royce. Yellow phone passenger. They see it, they say, oh boy. Tell Cali, back it up. My niggas call me loco. Down for armed trafficking. Don't make me pull that vo-vo. Ask you what you laughing at. Represent that mud life. Dirty money bitch, you better get your mud right. We come together, holding hands and hollering, look like. and they stay there and they say yeah and they say Make them stay down. Heat in the kitchen. Pot on the stove. Water getting boiled. Dope being sold. Snoopy in the hooky. System overload. I've been running this rap game since I was 20 years old. I hung with the worst of them. Bust to my personal. Floss them up. Toss them up. Hard away. Close them up. Pardon me. I'm bossing up. Pressure up. Bless you, bro. Don't mess with us. We like the U in the 80s. Back to back. Set a track. Hit I'm in time again while I'm sipping on this gin. Al Davis said it best, just win, baby, win. All I do is win, win, win, no matter what. Got money on my mind, I can never get enough. And every time I step up in the building, everybody hands go up. And they stay there, and they say yeah.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 2.663,
+        "end": 23.133,
+        "text": " And they stay there",
+        "avg_logprob": -0.8671875
+      },
+      {
+        "id": 2,
+        "start": 69.944,
+        "end": 87.241,
+        "text": " And they stay there",
+        "avg_logprob": -0.8890625
+      },
+      {
+        "id": 3,
+        "start": 96.337,
+        "end": 125.142,
+        "text": " Make them stay down. Swerving in my low-low. Head on a swivel. You know serving me's a no-no. Clean as a whistle as I pull out in my Rolls Royce. Yellow phone passenger. They see it, they say, oh boy. Tell Cali, back it up. My niggas call me loco. Down for armed trafficking. Don't make me pull that vo-vo. Ask you what you laughing at. Represent that mud life. Dirty money bitch, you better get your mud right. We come together, holding hands and hollering, look like.",
+        "avg_logprob": -0.13389423546882775
+      },
+      {
+        "id": 4,
+        "start": 130.475,
+        "end": 151.467,
+        "text": " and they stay there and they say yeah and they say",
+        "avg_logprob": -0.4596354017655055
+      },
+      {
+        "id": 5,
+        "start": 159.736,
+        "end": 189.25,
+        "text": " Make them stay down. Heat in the kitchen. Pot on the stove. Water getting boiled. Dope being sold. Snoopy in the hooky. System overload. I've been running this rap game since I was 20 years old. I hung with the worst of them. Bust to my personal. Floss them up. Toss them up. Hard away. Close them up. Pardon me. I'm bossing up. Pressure up. Bless you, bro. Don't mess with us. We like the U in the 80s. Back to back. Set a track. Hit",
+        "avg_logprob": -0.1103355562100645
+      },
+      {
+        "id": 6,
+        "start": 194.026,
+        "end": 214.715,
+        "text": " I'm in time again while I'm sipping on this gin. Al Davis said it best, just win, baby, win. All I do is win, win, win, no matter what. Got money on my mind, I can never get enough. And every time I step up in the building, everybody hands go up. And they stay there, and they say yeah.",
+        "avg_logprob": -0.1187697803672356
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "WRc4lH6_bEU",
+    "uploader": "DJ Khaled",
+    "audio_file": "corpus/01_music_videos_audio/audio/WRc4lH6_bEU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7770776,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.112704,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:13:05Z"
+  },
+  "status": "success",
+  "error": null
+}

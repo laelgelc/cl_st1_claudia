@@ -1,0 +1,112 @@
+{
+  "corpus_id": "DUT5rEU6pqM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/DUT5rEU6pqM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/DUT5rEU6pqM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/DUT5rEU6pqM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Ladies up in here tonight. No fighting. We got the refugees over here. No fighting. No fighting. Shakira, Shakira. I never really knew that she could dance like this. She make a man wanna speak Spanish. ¿Cómo se llama? Me. Bonita. Shakira, Shakira. Oh, baby, when you talk like that, you make a woman go mad. So be wise and keep on reading the signs of my body. I'm optimizing and my hopes don't lie. And I'm starting to feel it's right. All the attraction, the tension. Don't you see, baby, this is perfection. Hey, girl, I can see your body. the way you right Shakira, Shakira Oh baby, when you talk like that You make a woman go mad So be wise and keep up Reading the signs of my body Oh You know my hips don't lie and I'm startin' to feel you, boy Come on, let's go, real slow Don't you see, baby, I see it's perfect I know I'm on tonight My hips don't lie and I'm startin' to feel it's right All the attraction, the tension Don't you see, baby, this is perfection Boy, I can see your body movin' Half animal, half man I don't, don't really know what I'm doin' But you seem to have a plan, man I will not self-restraint Have come to fail now, fail now See, I'm doing what I can, but I can't So you know that's a bit too hard to explain She never really knew that she could dance like this She make a man wanna speak Spanish Como se llama? Bonita Oh baby when you talk like that You know you got the hypnotized So be wise and keep on Beating the size of my body Señorita, feel the conga Let me see you move like you come from Colombia Mira en Barranquilla se baila si se Yeah, she's so sexy, I am at fantasy A refugee like me back with the Fugees from a third world country I'll go back like when Pac carried crates For Humpty Hump, we lead a whole club, fizzy Boop by the CIA when I watch it Let your corn be into hand, she's ain't guilty, it's a musical transaction Boop, boop, zoop, boop, no more do we snatch Broke refugees run the seas cause we on our own boat, boat I'm on tonight, my hips don't lie And I'm starting to feel you, boy And we'll let go, real slow Baby, like this is perfecto My hips don't lie and I'm starting to feel it's right The attraction, the tension Baby, like this is perfection No fighting",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 16.838,
+        "text": " Ladies up in here tonight. No fighting. We got the refugees over here. No fighting. No fighting. Shakira, Shakira. I never really knew that she could dance like this. She make a man wanna speak Spanish. ¿Cómo se llama? Me. Bonita.",
+        "avg_logprob": -0.12358566527736597
+      },
+      {
+        "id": 2,
+        "start": 18.087,
+        "end": 41.003,
+        "text": " Shakira, Shakira. Oh, baby, when you talk like that, you make a woman go mad. So be wise and keep on reading the signs of my body. I'm optimizing and my hopes don't lie. And I'm starting to feel it's right. All the attraction, the tension. Don't you see, baby, this is perfection. Hey, girl, I can see your body.",
+        "avg_logprob": -0.10496323248919319
+      },
+      {
+        "id": 3,
+        "start": 46.235,
+        "end": 58.604,
+        "text": " the way you right",
+        "avg_logprob": -1.378125
+      },
+      {
+        "id": 4,
+        "start": 66.012,
+        "end": 77.977,
+        "text": " Shakira, Shakira Oh baby, when you talk like that You make a woman go mad So be wise and keep up Reading the signs of my body Oh",
+        "avg_logprob": -0.22277462121212122
+      },
+      {
+        "id": 5,
+        "start": 78.466,
+        "end": 106.259,
+        "text": " You know my hips don't lie and I'm startin' to feel you, boy Come on, let's go, real slow Don't you see, baby, I see it's perfect I know I'm on tonight My hips don't lie and I'm startin' to feel it's right All the attraction, the tension Don't you see, baby, this is perfection Boy, I can see your body movin' Half animal, half man I don't, don't really know what I'm doin' But you seem to have a plan, man",
+        "avg_logprob": -0.1349864151166833
+      },
+      {
+        "id": 6,
+        "start": 106.259,
+        "end": 131.96,
+        "text": " I will not self-restraint Have come to fail now, fail now See, I'm doing what I can, but I can't So you know that's a bit too hard to explain She never really knew that she could dance like this She make a man wanna speak Spanish Como se llama? Bonita",
+        "avg_logprob": -0.24462891183793545
+      },
+      {
+        "id": 7,
+        "start": 133.529,
+        "end": 159.331,
+        "text": " Oh baby when you talk like that You know you got the hypnotized So be wise and keep on Beating the size of my body Señorita, feel the conga Let me see you move like you come from Colombia Mira en Barranquilla se baila si se",
+        "avg_logprob": -0.2223772249583687
+      },
+      {
+        "id": 8,
+        "start": 165.507,
+        "end": 194.971,
+        "text": " Yeah, she's so sexy, I am at fantasy A refugee like me back with the Fugees from a third world country I'll go back like when Pac carried crates For Humpty Hump, we lead a whole club, fizzy Boop by the CIA when I watch it Let your corn be into hand, she's ain't guilty, it's a musical transaction Boop, boop, zoop, boop, no more do we snatch Broke refugees run the seas cause we on our own boat, boat I'm on tonight, my hips don't lie And I'm starting to feel you, boy And we'll let go, real slow Baby, like this is perfecto",
+        "avg_logprob": -0.2854020841471799
+      },
+      {
+        "id": 9,
+        "start": 196.237,
+        "end": 210.327,
+        "text": " My hips don't lie and I'm starting to feel it's right The attraction, the tension Baby, like this is perfection No fighting",
+        "avg_logprob": -0.23493303039244243
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "DUT5rEU6pqM",
+    "uploader": "Shakira",
+    "audio_file": "corpus/01_music_videos_audio/audio/DUT5rEU6pqM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6984640,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.548615,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:14:06Z"
+  },
+  "status": "success",
+  "error": null
+}

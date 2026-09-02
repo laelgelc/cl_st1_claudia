@@ -1,0 +1,98 @@
+{
+  "corpus_id": "e8X3ACToii0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/e8X3ACToii0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/e8X3ACToii0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/e8X3ACToii0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "It kills me not to know this, but I've all but just forgotten What the color of her eyes were, and her scars or how she got them As the telling signs of age rain down, a single tear is dropping Through the valleys of an aging face that this world has forgotten There is no reconciliation that will put me in my place And there is no time like a present to drink these drained seconds But seldom do these words ring true when I'm constantly failing you We're all still, we just can't break through until it disappears So tell me now That's when she said, I don't hate you But I just wanna save you While there's still something left to save That's when I said And the tapers sound like crushing weights But no man does it ever wait Black memories of dying days They're deafening us like hurricanes Painting flames behind the ground Uncurled fingers in your hand Crested to the flesh like sand How do you understand? So tell me now, this ain't love But how do we get around? Cause I don't know That's when she said I don't hate you But I just wanna say There's still something left to say Take me under once again I don't hate you I don't hate you, no So tell me now This ain't love Cause I don't know That's why she said I don't hate you But I just wanna save you While there's still something left to save",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 21.04,
+        "text": " It kills me not to know this, but I've all but just forgotten What the color of her eyes were, and her scars or how she got them As the telling signs of age rain down, a single tear is dropping Through the valleys of an aging face that this world has forgotten",
+        "avg_logprob": -0.05825700540224026
+      },
+      {
+        "id": 2,
+        "start": 38.978,
+        "end": 57.136,
+        "text": " There is no reconciliation that will put me in my place And there is no time like a present to drink these drained seconds But seldom do these words ring true when I'm constantly failing you We're all still, we just can't break through until it disappears So tell me now",
+        "avg_logprob": -0.15652901493012905
+      },
+      {
+        "id": 3,
+        "start": 63.548,
+        "end": 72.982,
+        "text": " That's when she said, I don't hate you But I just wanna save you While there's still something left to save That's when I said",
+        "avg_logprob": -0.1955645170903975
+      },
+      {
+        "id": 4,
+        "start": 90.515,
+        "end": 118.679,
+        "text": " And the tapers sound like crushing weights But no man does it ever wait Black memories of dying days They're deafening us like hurricanes Painting flames behind the ground Uncurled fingers in your hand Crested to the flesh like sand How do you understand? So tell me now, this ain't love But how do we get around? Cause I don't know That's when she said I don't hate you But I just wanna say",
+        "avg_logprob": -0.18697916997803582
+      },
+      {
+        "id": 5,
+        "start": 119.489,
+        "end": 122.442,
+        "text": " There's still something left to say",
+        "avg_logprob": -0.13806152157485485
+      },
+      {
+        "id": 6,
+        "start": 163.313,
+        "end": 193.3,
+        "text": " Take me under once again I don't hate you I don't hate you, no So tell me now This ain't love",
+        "avg_logprob": -0.18013821771511665
+      },
+      {
+        "id": 7,
+        "start": 197.519,
+        "end": 207.273,
+        "text": " Cause I don't know That's why she said I don't hate you But I just wanna save you While there's still something left to save",
+        "avg_logprob": -0.12343750049670538
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "e8X3ACToii0",
+    "uploader": "RiseAgainst",
+    "audio_file": "corpus/01_music_videos_audio/audio/e8X3ACToii0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7733624,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.577501,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:04:25Z"
+  },
+  "status": "success",
+  "error": null
+}

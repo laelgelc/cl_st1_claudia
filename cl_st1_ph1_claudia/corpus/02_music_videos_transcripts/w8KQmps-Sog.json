@@ -1,0 +1,77 @@
+{
+  "corpus_id": "w8KQmps-Sog",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/w8KQmps-Sog.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/w8KQmps-Sog.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/w8KQmps-Sog.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Fire is in bloom, the PR transmissions will resume Now try to push, try to keep us all dumbed down And hope that we will never see the truth around Another promise, another scene, another Package light to keep us trapped in greed All the cream belts wrapped around our minds An endless red tape to keep the truth confined Come let the revolution take its toll If you could flick a switch and open your third eye You'd see that we should never be afraid to die Rise up and take the power back It's time the fat cats had a heart attack You know that their time's coming to an end We have to unify and watch our flag ascend They will. Stop degrading us They will not control us We will be victims",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 40.868,
+        "end": 69.725,
+        "text": " Fire is in bloom, the PR transmissions will resume Now try to push, try to keep us all dumbed down And hope that we will never see the truth around Another promise, another scene, another Package light to keep us trapped in greed All the cream belts wrapped around our minds An endless red tape to keep the truth confined",
+        "avg_logprob": -0.18807445400777986
+      },
+      {
+        "id": 2,
+        "start": 113.228,
+        "end": 140.532,
+        "text": " Come let the revolution take its toll If you could flick a switch and open your third eye You'd see that we should never be afraid to die Rise up and take the power back It's time the fat cats had a heart attack You know that their time's coming to an end We have to unify and watch our flag ascend",
+        "avg_logprob": -0.10406949426700819
+      },
+      {
+        "id": 3,
+        "start": 153.222,
+        "end": 157.087,
+        "text": " They will.",
+        "avg_logprob": -0.7768554389476776
+      },
+      {
+        "id": 4,
+        "start": 225.177,
+        "end": 242.693,
+        "text": " Stop degrading us They will not control us We will be victims",
+        "avg_logprob": -0.11063058035714286
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "w8KQmps-Sog",
+    "uploader": "Muse",
+    "audio_file": "corpus/01_music_videos_audio/audio/w8KQmps-Sog.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8048672,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.108837,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:04:27Z"
+  },
+  "status": "success",
+  "error": null
+}

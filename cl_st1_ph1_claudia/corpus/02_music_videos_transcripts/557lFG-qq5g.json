@@ -1,0 +1,98 @@
+{
+  "corpus_id": "557lFG-qq5g",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/557lFG-qq5g.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/557lFG-qq5g.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/557lFG-qq5g.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Bobby Darin singing Mack the Knife. Let's have a nice hand for him. Oh, the shark, babe, has such teeth, dear And it shows them pearly white Just a jackknife has old Maggie, babe And it keeps it out of sight You know that shark bites with his teeth dead Scarlet billows start to spread But fancy gloves, though, wears old Maggie Heath bare So there's never, ever a trace of red Sunday morning, uh-huh Lies about day, just do's in life Eek! And someone's sneaking round the corner Could that someone be Mack the Knife? There's a tugboat down by the river, don't you know? and on down. Oh, that cement is falling just for the weight of death. If I will get you ten old Mackies back in town. Now be here by Louie Miller. He disappeared, babe, after drawing out all of his hard-earned cash. Had Jenny Diver, yeah Whoa, Sugetari Look out, there's a lot of them, yeah Not to mention Lucy Brown Oh, that line forms On the right, babe Now, San Maggie Back in town One more, one That's it, Jenny Diver Sugetari Yes, that line falls on the right page Not that Maggie Bobby, come back here and take a bow. What do you think of this guy, huh?",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.638,
+        "end": 29.242,
+        "text": " Bobby Darin singing Mack the Knife. Let's have a nice hand for him. Oh, the shark, babe, has such teeth, dear And it shows them pearly white Just a jackknife has old Maggie, babe",
+        "avg_logprob": -0.3359375037252903
+      },
+      {
+        "id": 2,
+        "start": 30.035,
+        "end": 58.469,
+        "text": " And it keeps it out of sight You know that shark bites with his teeth dead Scarlet billows start to spread But fancy gloves, though, wears old Maggie Heath bare So there's never, ever a trace of red",
+        "avg_logprob": -0.1784722195731269
+      },
+      {
+        "id": 3,
+        "start": 62.924,
+        "end": 88.051,
+        "text": " Sunday morning, uh-huh Lies about day, just do's in life Eek! And someone's sneaking round the corner Could that someone be Mack the Knife? There's a tugboat down by the river, don't you know?",
+        "avg_logprob": -0.3590686356320101
+      },
+      {
+        "id": 4,
+        "start": 92.607,
+        "end": 118.375,
+        "text": " and on down. Oh, that cement is falling just for the weight of death. If I will get you ten old Mackies back in town. Now be here by Louie Miller. He disappeared, babe, after drawing out all of his hard-earned cash. Had",
+        "avg_logprob": -0.2801723994057754
+      },
+      {
+        "id": 5,
+        "start": 129.378,
+        "end": 159.348,
+        "text": " Jenny Diver, yeah Whoa, Sugetari Look out, there's a lot of them, yeah Not to mention Lucy Brown Oh, that line forms On the right, babe Now, San Maggie Back in town One more, one That's it, Jenny Diver Sugetari",
+        "avg_logprob": -0.31869613507698324
+      },
+      {
+        "id": 6,
+        "start": 164.225,
+        "end": 173.472,
+        "text": " Yes, that line falls on the right page Not that Maggie",
+        "avg_logprob": -0.3873197023685162
+      },
+      {
+        "id": 7,
+        "start": 194.212,
+        "end": 203.425,
+        "text": " Bobby, come back here and take a bow. What do you think of this guy, huh?",
+        "avg_logprob": -0.15280878260022118
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "557lFG-qq5g",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/557lFG-qq5g.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6576712,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.921113,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:05:23Z"
+  },
+  "status": "success",
+  "error": null
+}

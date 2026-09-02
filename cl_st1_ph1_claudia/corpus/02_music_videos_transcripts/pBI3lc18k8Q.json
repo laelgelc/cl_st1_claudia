@@ -1,0 +1,119 @@
+{
+  "corpus_id": "pBI3lc18k8Q",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/pBI3lc18k8Q.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/pBI3lc18k8Q.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/pBI3lc18k8Q.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "What did she say? Mm, what'd you say? Mm, that you only meant well But of course you did, ooh I was so wrong for so long Only trying to please myself Girl, I was piled up in her lust When I don't really want no one else, oh no I know I should've treated you better But me and you were meant to last forever So let me in, give me another chance To really be your man The truth caved in and the truth came out I just didn't know what to do But when I become a star, we'll be living so large I'd do anything for you, so tell me girl Ooh, what you say Ooh, that you only meant well Well, of course you did Ooh, what you say Ooh, that it's all fun What did she say? I live with myself, knowing that I let our love go. And ooh, what I'd do for one chance, I just gotta let you know. I know what I did wasn't clever, but me and you were meant to be together. So let me in, give me another chance to be your man. Cause when the roof caved in and the truth came out, I just didn't know what to do But when I become a star, we'll be living so large, I'll do anything for you What you say? Oh, that you only meant well, well, cause you did What you say? Oh, that it's all for the best, cause it is What you say? Oh, that you only meant well, well, cause you did What you say? What did she say? I don't want you to leave me, though you call me cheating Tell me, tell me what you say I really need you in my life, cause things ain't right, girl Tell me, tell me what you say I don't want you to leave me, though you call me cheating Tell me, tell me what you say I really need you in my life, cause things ain't right, girl When the truth came out, I just didn't know what to do But when I become a star, we'll be living so large I'd do anything for you So baby, what you say? What you say? That you only meant well? Well, of course I did What you say? That it's all for the best? Well, of course it is What you say? What did she say? What did she say? What did she say?",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 10,
+    "segments": [
+      {
+        "id": 1,
+        "start": 2.107,
+        "end": 12.569,
+        "text": " What did she say? Mm, what'd you say? Mm, that you only meant well But of course you did, ooh",
+        "avg_logprob": -0.23234953372566788
+      },
+      {
+        "id": 2,
+        "start": 17.463,
+        "end": 45.509,
+        "text": " I was so wrong for so long Only trying to please myself Girl, I was piled up in her lust When I don't really want no one else, oh no I know I should've treated you better But me and you were meant to last forever So let me in, give me another chance To really be your man",
+        "avg_logprob": -0.10221354268265492
+      },
+      {
+        "id": 3,
+        "start": 45.509,
+        "end": 69.488,
+        "text": " The truth caved in and the truth came out I just didn't know what to do But when I become a star, we'll be living so large I'd do anything for you, so tell me girl Ooh, what you say Ooh, that you only meant well Well, of course you did Ooh, what you say Ooh, that it's all fun",
+        "avg_logprob": -0.13334760110672206
+      },
+      {
+        "id": 4,
+        "start": 69.488,
+        "end": 84.271,
+        "text": " What did she say?",
+        "avg_logprob": -0.6223958233992258
+      },
+      {
+        "id": 5,
+        "start": 86.549,
+        "end": 111.119,
+        "text": " I live with myself, knowing that I let our love go. And ooh, what I'd do for one chance, I just gotta let you know. I know what I did wasn't clever, but me and you were meant to be together. So let me in, give me another chance to be your man.",
+        "avg_logprob": -0.10006009615384616
+      },
+      {
+        "id": 6,
+        "start": 111.119,
+        "end": 124.113,
+        "text": " Cause when the roof caved in and the truth came out, I just didn't know what to do But when I become a star, we'll be living so large, I'll do anything for you",
+        "avg_logprob": -0.045224145764396304
+      },
+      {
+        "id": 7,
+        "start": 126.155,
+        "end": 151.754,
+        "text": " What you say? Oh, that you only meant well, well, cause you did What you say? Oh, that it's all for the best, cause it is What you say? Oh, that you only meant well, well, cause you did What you say? What did she say?",
+        "avg_logprob": -0.1946721360331676
+      },
+      {
+        "id": 8,
+        "start": 153.897,
+        "end": 179.092,
+        "text": " I don't want you to leave me, though you call me cheating Tell me, tell me what you say I really need you in my life, cause things ain't right, girl Tell me, tell me what you say I don't want you to leave me, though you call me cheating Tell me, tell me what you say I really need you in my life, cause things ain't right, girl",
+        "avg_logprob": -0.050404745591692175
+      },
+      {
+        "id": 9,
+        "start": 180.391,
+        "end": 206.648,
+        "text": " When the truth came out, I just didn't know what to do But when I become a star, we'll be living so large I'd do anything for you So baby, what you say? What you say? That you only meant well? Well, of course I did What you say? That it's all for the best? Well, of course it is What you say?",
+        "avg_logprob": -0.1595134497443332
+      },
+      {
+        "id": 10,
+        "start": 210.293,
+        "end": 220.013,
+        "text": " What did she say? What did she say? What did she say?",
+        "avg_logprob": -0.4252929612994194
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "pBI3lc18k8Q",
+    "uploader": "Jason Derulo",
+    "audio_file": "corpus/01_music_videos_audio/audio/pBI3lc18k8Q.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7125074,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.837908,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:06:33Z"
+  },
+  "status": "success",
+  "error": null
+}

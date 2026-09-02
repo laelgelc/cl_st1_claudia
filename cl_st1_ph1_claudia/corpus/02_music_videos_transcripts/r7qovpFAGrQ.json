@@ -1,0 +1,84 @@
+{
+  "corpus_id": "r7qovpFAGrQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/r7qovpFAGrQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/r7qovpFAGrQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/r7qovpFAGrQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Thank you. Yeah, I'm gonna take my horse to the old town road. I'm gonna ride till I can't no more. I'm gonna take my horse to the old town road. I'm gonna ride till I can't no more. I got the horses in the bag. Horse stock is attached. Hat is matted black. Got the bushes black to match. Riding on a horse. You can whip your Porsche. I've been in my bladder, cheated on my baby, you can go and ask her, my life is a movie, bull riding in boobies, cowboy hat from Gucci, wrangler on my booty, can't nobody tell me like a rock star spend a lot of money on my brand new guitar baby's got a habit diamond rings and fendi sports bra it's riding down rodeo in my maserati sports car got no stress i've been through all that i'm like a marlboro man so i keep going back wish i could roll on back to that I'm gonna ride till I can't no more I'm gonna take my horse to the old town road I'm gonna ride till I can't no more",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.094,
+        "end": 10.578,
+        "text": " Thank you.",
+        "avg_logprob": -0.5253906100988388
+      },
+      {
+        "id": 2,
+        "start": 13.025,
+        "end": 39.518,
+        "text": " Yeah, I'm gonna take my horse to the old town road. I'm gonna ride till I can't no more. I'm gonna take my horse to the old town road. I'm gonna ride till I can't no more. I got the horses in the bag. Horse stock is attached. Hat is matted black. Got the bushes black to match. Riding on a horse. You can whip your Porsche. I've been",
+        "avg_logprob": -0.10546875248352687
+      },
+      {
+        "id": 3,
+        "start": 58.908,
+        "end": 72.374,
+        "text": " in my bladder, cheated on my baby, you can go and ask her, my life is a movie, bull riding in boobies, cowboy hat from Gucci, wrangler on my booty, can't nobody tell me",
+        "avg_logprob": -0.21725399316625393
+      },
+      {
+        "id": 4,
+        "start": 101.078,
+        "end": 121.666,
+        "text": " like a rock star spend a lot of money on my brand new guitar baby's got a habit diamond rings and fendi sports bra it's riding down rodeo in my maserati sports car got no stress i've been through all that i'm like a marlboro man so i keep going back wish i could roll on back to that",
+        "avg_logprob": -0.14609374638114656
+      },
+      {
+        "id": 5,
+        "start": 130.103,
+        "end": 153.357,
+        "text": " I'm gonna ride till I can't no more I'm gonna take my horse to the old town road I'm gonna ride till I can't no more",
+        "avg_logprob": -0.025177002302370965
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "r7qovpFAGrQ",
+    "uploader": "Lil Nas X",
+    "audio_file": "corpus/01_music_videos_audio/audio/r7qovpFAGrQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5031936,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.003048,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:18:46Z"
+  },
+  "status": "success",
+  "error": null
+}

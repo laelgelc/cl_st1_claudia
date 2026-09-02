@@ -1,0 +1,77 @@
+{
+  "corpus_id": "F93ywiGMDnQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/F93ywiGMDnQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/F93ywiGMDnQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/F93ywiGMDnQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Give me a moment Your moves are so raw I've got to let you know I've got to let you know You're one of my kind I need you tonight Cause I'm not sleeping There's something about you I've got to let you know I've got to let you know And give me a moment. Your moves are so raw. I've got to let you know You're one of my kind",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 50.96,
+        "end": 80.204,
+        "text": " Give me a moment Your moves are so raw I've got to let you know I've got to let you know You're one of my kind I need you tonight Cause I'm not sleeping There's something about you",
+        "avg_logprob": -0.07568359070203522
+      },
+      {
+        "id": 2,
+        "start": 108.149,
+        "end": 112.115,
+        "text": " I've got to let you know I've got to let you know",
+        "avg_logprob": -0.1438802123069763
+      },
+      {
+        "id": 3,
+        "start": 156.901,
+        "end": 173.624,
+        "text": " And give me a moment. Your moves are so raw.",
+        "avg_logprob": -0.2946214034007146
+      },
+      {
+        "id": 4,
+        "start": 184.846,
+        "end": 189.841,
+        "text": " I've got to let you know You're one of my kind",
+        "avg_logprob": -0.10030692177159446
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "F93ywiGMDnQ",
+    "uploader": "INXS",
+    "audio_file": "corpus/01_music_videos_audio/audio/F93ywiGMDnQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6074418,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.502783,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:19:29Z"
+  },
+  "status": "success",
+  "error": null
+}

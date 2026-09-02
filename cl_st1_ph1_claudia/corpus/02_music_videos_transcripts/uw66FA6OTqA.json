@@ -1,0 +1,84 @@
+{
+  "corpus_id": "uw66FA6OTqA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uw66FA6OTqA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/uw66FA6OTqA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/uw66FA6OTqA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Oh, you gotta feel it Oh, what you are doing wrong I say, out of any joy Oh, you gotta feel it Oh, what you are doing wrong He, he, he, he, he, he, he, yeah He, he, he, he, he, he, he, yeah He, he, he, he, he, he, he It is you It is you It is you We'll be right back. I'll see you next time. Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 68.864,
+        "end": 96.657,
+        "text": " Oh, you gotta feel it Oh, what you are doing wrong I say, out of any joy Oh, you gotta feel it Oh, what you are doing wrong He, he, he, he, he, he, he, yeah He, he, he, he, he, he, he, yeah He, he, he, he, he, he, he",
+        "avg_logprob": -0.2573051839679867
+      },
+      {
+        "id": 2,
+        "start": 104.622,
+        "end": 126.593,
+        "text": " It is you It is you It is you",
+        "avg_logprob": -0.47421873807907106
+      },
+      {
+        "id": 3,
+        "start": 146.962,
+        "end": 156.58,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.5491071428571429
+      },
+      {
+        "id": 4,
+        "start": 176.02,
+        "end": 185.538,
+        "text": " I'll see you next time.",
+        "avg_logprob": -0.5449218824505806
+      },
+      {
+        "id": 5,
+        "start": 210.479,
+        "end": 218.95,
+        "text": " Thank you.",
+        "avg_logprob": -0.6542968600988388
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "uw66FA6OTqA",
+    "uploader": "shark5981",
+    "audio_file": "corpus/01_music_videos_audio/audio/uw66FA6OTqA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7145138,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.221671,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:54:25Z"
+  },
+  "status": "success",
+  "error": null
+}

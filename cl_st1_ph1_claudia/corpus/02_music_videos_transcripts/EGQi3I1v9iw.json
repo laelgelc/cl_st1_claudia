@@ -1,0 +1,84 @@
+{
+  "corpus_id": "EGQi3I1v9iw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/EGQi3I1v9iw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/EGQi3I1v9iw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/EGQi3I1v9iw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Thank you. The jam is live and I'm thick and I don't waste time. Or the mic with the dope rhyme. Jump with the rhythm, jump, jump with the rhythm, jump. And I'm here to combine. Beats and lyrics that make you shake your pants. Take a chance. Come on and dance. God, grab the girl. Don't wait, make her twirl. It's your world and I'm just a swirl. Trying to get her nuts to move your butt. On my command now hit the dance floor Gonna make you sweat till you bleed Is that over? Oh, baby. Da-da-da-da.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 22.39,
+        "end": 23.74,
+        "text": " Thank you.",
+        "avg_logprob": -0.8916015923023224
+      },
+      {
+        "id": 2,
+        "start": 103.762,
+        "end": 124.147,
+        "text": " The jam is live and I'm thick and I don't waste time. Or the mic with the dope rhyme. Jump with the rhythm, jump, jump with the rhythm, jump. And I'm here to combine. Beats and lyrics that make you shake your pants. Take a chance. Come on and dance. God, grab the girl. Don't wait, make her twirl. It's your world and I'm just a swirl. Trying to get her nuts to move your butt.",
+        "avg_logprob": -0.27676360441906617
+      },
+      {
+        "id": 3,
+        "start": 223.152,
+        "end": 228.4,
+        "text": " On my command now hit the dance floor Gonna make you sweat till you bleed Is that over?",
+        "avg_logprob": -0.3355468690395355
+      },
+      {
+        "id": 4,
+        "start": 251.772,
+        "end": 254.202,
+        "text": " Oh, baby.",
+        "avg_logprob": -1.0703125
+      },
+      {
+        "id": 5,
+        "start": 294.398,
+        "end": 295.613,
+        "text": " Da-da-da-da.",
+        "avg_logprob": -0.4587673611111111
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "EGQi3I1v9iw",
+    "uploader": "ShoutFactoryVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/EGQi3I1v9iw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9638032,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.29536,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:10:19Z"
+  },
+  "status": "success",
+  "error": null
+}

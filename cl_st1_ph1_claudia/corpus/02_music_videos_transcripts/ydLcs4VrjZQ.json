@@ -1,0 +1,133 @@
+{
+  "corpus_id": "ydLcs4VrjZQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ydLcs4VrjZQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ydLcs4VrjZQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ydLcs4VrjZQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Puts her down behind the fridge, lays her down She burns to my life's only thing Am I still too young? He takes her hand in pair She takes his ring, takes his baby's Takes her minutes, takes her nowhere If alone she'd have taken to the fingers I imagine once a young American. Young American, young American, once a young American. All night she wants a young American Right through the picture window She spies the slinky vagabond And curses as it passes aboard Mustang Heaven knows she'd take anything But the freaking is tight for nothing She dig nothing, he cuts his hand Showing nothing, it goes like a song She cries, where have all my mischievous gone? All night she wants a young American Young American, young American She wants a young American All night All night she wants a young American All the way from Washington Red winter stays at the bottom floor Live for just twenty years, do it Have to die for the fifty more All night All right, it was a young American All right, it was a young American All right, it was a young American Do you remember President Nixon? Do you remember the bills you have to pay? The very cultures, you and your idol, singin' for the sands of our Neverland or everywhere, I'm not a club, let me do the ghetto Well, well, would you carry a razor, just in case, in case of depression? Sit on your hands in the busses of vipers, blushing as oil that moves sheepers Ain't that close to love? Ain't that close to love? Ain't nobody told, my heart's been broken just like you, yeah. All night, all night you won't become a man. Young American, young American, what a young American. I heard the news today. Ain't the one damn song that can make me break down and cry I want the young man I want the young man I want the young man I want the young man I want the young man Oh, I don't want the young American",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 12,
+    "segments": [
+      {
+        "id": 1,
+        "start": 25.613,
+        "end": 51.044,
+        "text": " Puts her down behind the fridge, lays her down She burns to my life's only thing Am I still too young? He takes her hand in pair She takes his ring, takes his baby's Takes her minutes, takes her nowhere If alone she'd have taken to the fingers",
+        "avg_logprob": -0.3289473726038347
+      },
+      {
+        "id": 2,
+        "start": 53.12,
+        "end": 61.878,
+        "text": " I imagine once a young American. Young American, young American, once a young American.",
+        "avg_logprob": -0.35526315789473684
+      },
+      {
+        "id": 3,
+        "start": 63.92,
+        "end": 88.827,
+        "text": " All night she wants a young American Right through the picture window She spies the slinky vagabond And curses as it passes aboard Mustang Heaven knows she'd take anything But the freaking is tight for nothing She dig nothing, he cuts his hand Showing nothing, it goes like a song She cries, where have all my mischievous gone?",
+        "avg_logprob": -0.42253521546511585
+      },
+      {
+        "id": 4,
+        "start": 91.51,
+        "end": 116.975,
+        "text": " All night she wants a young American Young American, young American She wants a young American All night All night she wants a young American All the way from Washington Red winter stays at the bottom floor Live for just twenty years, do it Have to die for the fifty more All night",
+        "avg_logprob": -0.25920759088226725
+      },
+      {
+        "id": 5,
+        "start": 118.342,
+        "end": 134.137,
+        "text": " All right, it was a young American All right, it was a young American All right, it was a young American",
+        "avg_logprob": -0.2689062595367432
+      },
+      {
+        "id": 6,
+        "start": 142.979,
+        "end": 153.374,
+        "text": " Do you remember President Nixon? Do you remember the bills you have to pay?",
+        "avg_logprob": -0.20140165441176472
+      },
+      {
+        "id": 7,
+        "start": 167.937,
+        "end": 192.743,
+        "text": " The very cultures, you and your idol, singin' for the sands of our Neverland or everywhere, I'm not a club, let me do the ghetto Well, well, would you carry a razor, just in case, in case of depression? Sit on your hands in the busses of vipers, blushing as oil that moves sheepers Ain't that close to love? Ain't that close to love?",
+        "avg_logprob": -0.4676966399289249
+      },
+      {
+        "id": 8,
+        "start": 192.743,
+        "end": 208.859,
+        "text": " Ain't nobody told, my heart's been broken just like you, yeah. All night, all night you won't become a man. Young American, young American, what a young American.",
+        "avg_logprob": -0.2781250052154064
+      },
+      {
+        "id": 9,
+        "start": 212.15,
+        "end": 227.607,
+        "text": " I heard the news today.",
+        "avg_logprob": -0.4280134013720921
+      },
+      {
+        "id": 10,
+        "start": 227.607,
+        "end": 251.84,
+        "text": " Ain't the one damn song that can make me break down and cry",
+        "avg_logprob": -0.14453124801317851
+      },
+      {
+        "id": 11,
+        "start": 257.408,
+        "end": 285.353,
+        "text": " I want the young man I want the young man I want the young man I want the young man I want the young man",
+        "avg_logprob": -0.3326322023685162
+      },
+      {
+        "id": 12,
+        "start": 289.876,
+        "end": 292.103,
+        "text": " Oh, I don't want the young American",
+        "avg_logprob": -0.2431640535593033
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "ydLcs4VrjZQ",
+    "uploader": "Kate Stardust",
+    "audio_file": "corpus/01_music_videos_audio/audio/ydLcs4VrjZQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9730168,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 39.373651,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:55:10Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,84 @@
+{
+  "corpus_id": "rhnRyQCeqXI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/rhnRyQCeqXI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/rhnRyQCeqXI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/rhnRyQCeqXI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Too much for the man Too much for the man He couldn't make it So he's leaving the life He's come to know He said he's going He said he's going back to find Going back to find What's left of his world The world he left behind Said he's going back, going back to a simpler place in time. Oh, you see him, love me with him. Oh, that midnight train to Georgia. Hey, I'd rather live in his world than live without him in mine. That someday he'd be a star But he's so found out the hard way That dreams don't always come true So he found all his hope And he even stole his own car Bought a one-way ticket back the life he once knew. Oh, yes, he did. He said he would. I'm always leaving. Leaving. On that midnight train to Georgia. Leaving on a midnight train. Yeah. Oh, y'all. Said he's going back to find I'd better live in his world than live without him.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 25.31,
+        "end": 54.183,
+        "text": " Too much for the man Too much for the man He couldn't make it So he's leaving the life He's come to know He said he's going He said he's going back to find Going back to find What's left of his world The world he left behind",
+        "avg_logprob": -0.051704545725475656
+      },
+      {
+        "id": 2,
+        "start": 73.218,
+        "end": 100.792,
+        "text": " Said he's going back, going back to a simpler place in time. Oh, you see him, love me with him. Oh, that midnight train to Georgia. Hey, I'd rather live in his world than live without him in mine.",
+        "avg_logprob": -0.2503063748864567
+      },
+      {
+        "id": 3,
+        "start": 109.499,
+        "end": 138.895,
+        "text": " That someday he'd be a star But he's so found out the hard way That dreams don't always come true So he found all his hope And he even stole his own car Bought a one-way ticket back",
+        "avg_logprob": -0.19791666004392836
+      },
+      {
+        "id": 4,
+        "start": 140.701,
+        "end": 160.613,
+        "text": " the life he once knew. Oh, yes, he did. He said he would. I'm always leaving. Leaving. On that midnight train to Georgia. Leaving on a midnight train. Yeah. Oh, y'all. Said he's going back to find",
+        "avg_logprob": -0.22005207781438474
+      },
+      {
+        "id": 5,
+        "start": 179.345,
+        "end": 183.817,
+        "text": " I'd better live in his world than live without him.",
+        "avg_logprob": -0.11673677884615384
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "rhnRyQCeqXI",
+    "uploader": "masa rabbit (rabbitvwyokohama)",
+    "audio_file": "corpus/01_music_videos_audio/audio/rhnRyQCeqXI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7269224,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 30.678796,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:20:57Z"
+  },
+  "status": "success",
+  "error": null
+}

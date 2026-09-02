@@ -1,0 +1,105 @@
+{
+  "corpus_id": "El1kgCqD7Xk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/El1kgCqD7Xk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/El1kgCqD7Xk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/El1kgCqD7Xk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I don't know which way to go Let me say, if you are all that you see Then baby, I'm moving way too slow I've been fooled before Wouldn't like to get my love caught in the slamming door How about some entertainment? Tell me, do you really wanna love me forever? Or am I caught in a hit and run? Straight up now tell me, is it gonna be you and me together? Or are you just having fun? Times, standing still, waiting for someone I keep getting chills When I think you're in love Straight up now tell me, is it gonna be you and me together? Or are you just having fun? You are so hard to read, you play hide and seek With your true intentions If you're only playing games, I just have to say Do you love me? Do you love me, baby? Come on now Do you love me? Do you love me? Tell me, baby Wouldn't like to get my love caught in the slamming door Are you more than hot for me? Or am I a page in your history? Boy, I don't mean to make demands But the word and the deed go hand in hand How about some information? Please, please, please, please Straight up now tell me Tell me Straight up now tell me Tell me. Straight up now tell me. Tell me. Straight up now tell me. Straight up now tell me. Straight up now tell me, do you really Straight up now tell me, do you really want to love me forever? Or am I caught in a hit and run?",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 31.081,
+        "end": 55.482,
+        "text": " I don't know which way to go Let me say, if you are all that you see Then baby, I'm moving way too slow I've been fooled before Wouldn't like to get my love caught in the slamming door How about some entertainment?",
+        "avg_logprob": -0.2594651310489728
+      },
+      {
+        "id": 2,
+        "start": 60.241,
+        "end": 84.777,
+        "text": " Tell me, do you really wanna love me forever? Or am I caught in a hit and run? Straight up now tell me, is it gonna be you and me together? Or are you just having fun? Times, standing still, waiting for someone",
+        "avg_logprob": -0.14858773837868983
+      },
+      {
+        "id": 3,
+        "start": 88.405,
+        "end": 95.425,
+        "text": " I keep getting chills When I think you're in love",
+        "avg_logprob": -0.2892252629001935
+      },
+      {
+        "id": 4,
+        "start": 119.27,
+        "end": 144.97,
+        "text": " Straight up now tell me, is it gonna be you and me together? Or are you just having fun? You are so hard to read, you play hide and seek With your true intentions If you're only playing games, I just have to say",
+        "avg_logprob": -0.13495711427108914
+      },
+      {
+        "id": 5,
+        "start": 149.83,
+        "end": 159.213,
+        "text": " Do you love me? Do you love me, baby? Come on now Do you love me? Do you love me? Tell me, baby",
+        "avg_logprob": -0.14687500496705372
+      },
+      {
+        "id": 6,
+        "start": 160.242,
+        "end": 190.111,
+        "text": " Wouldn't like to get my love caught in the slamming door Are you more than hot for me? Or am I a page in your history? Boy, I don't mean to make demands But the word and the deed go hand in hand How about some information? Please, please, please, please Straight up now tell me Tell me Straight up now tell me",
+        "avg_logprob": -0.1835937552355431
+      },
+      {
+        "id": 7,
+        "start": 190.415,
+        "end": 204.134,
+        "text": " Tell me. Straight up now tell me. Tell me. Straight up now tell me. Straight up now tell me. Straight up now tell me, do you really",
+        "avg_logprob": -0.15142462534063003
+      },
+      {
+        "id": 8,
+        "start": 222.089,
+        "end": 231.438,
+        "text": " Straight up now tell me, do you really want to love me forever? Or am I caught in a hit and run?",
+        "avg_logprob": -0.2653245169382829
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "El1kgCqD7Xk",
+    "uploader": "Paula Abdul",
+    "audio_file": "corpus/01_music_videos_audio/audio/El1kgCqD7Xk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7912696,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.306443,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:11:33Z"
+  },
+  "status": "success",
+  "error": null
+}

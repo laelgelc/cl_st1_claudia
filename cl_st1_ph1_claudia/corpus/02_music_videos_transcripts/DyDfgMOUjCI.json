@@ -1,0 +1,91 @@
+{
+  "corpus_id": "DyDfgMOUjCI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/DyDfgMOUjCI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/DyDfgMOUjCI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/DyDfgMOUjCI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "My Invisalign has... I have taken out my Invisalign. I have taken out my Invisalign and this is the album. You tip me toes Creepin' around like no one knows Think you're so criminal Bruises on both my knees But you don't say thank you Oh please, I do what I want When I'm wanting to My soul, so cynical So you're a tough guy Like you're really a rough guy Just can't get enough Make your mama sad type Make your girlfriend mad type Might seduce your dad type I'm the bad guy control even if you know that you don't own me i'll let you play the role i'll be your animal So you're a tough guy Like you're really a rough guy Just can't get enough guy Chest always so puffed guy I'm that bad type Make your mama sad type Make your girlfriend mad type Might seduce your dad type I'm the bad guy That you're alone You said she's scared of me I mean, I don't see what she sees But maybe it's cause I'm wearing your clothes",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 3.811,
+        "end": 11.962,
+        "text": " My Invisalign has... I have taken out my Invisalign. I have taken out my Invisalign and this is the album.",
+        "avg_logprob": -0.06611032196969698
+      },
+      {
+        "id": 2,
+        "start": 33.899,
+        "end": 60.747,
+        "text": " You tip me toes Creepin' around like no one knows Think you're so criminal Bruises on both my knees But you don't say thank you Oh please, I do what I want When I'm wanting to My soul, so cynical So you're a tough guy Like you're really a rough guy Just can't get enough",
+        "avg_logprob": -0.17210478445186334
+      },
+      {
+        "id": 3,
+        "start": 64.038,
+        "end": 72.745,
+        "text": " Make your mama sad type Make your girlfriend mad type Might seduce your dad type I'm the bad guy",
+        "avg_logprob": -0.18004260957241058
+      },
+      {
+        "id": 4,
+        "start": 91.527,
+        "end": 108.166,
+        "text": " control even if you know that you don't own me i'll let you play the role i'll be your animal",
+        "avg_logprob": -0.14656574837863445
+      },
+      {
+        "id": 5,
+        "start": 116.452,
+        "end": 133.208,
+        "text": " So you're a tough guy Like you're really a rough guy Just can't get enough guy Chest always so puffed guy I'm that bad type Make your mama sad type Make your girlfriend mad type Might seduce your dad type I'm the bad guy",
+        "avg_logprob": -0.078350363442531
+      },
+      {
+        "id": 6,
+        "start": 179.142,
+        "end": 188.187,
+        "text": " That you're alone You said she's scared of me I mean, I don't see what she sees But maybe it's cause I'm wearing your clothes",
+        "avg_logprob": -0.11572265415452421
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "DyDfgMOUjCI",
+    "uploader": "Billie Eilish",
+    "audio_file": "corpus/01_music_videos_audio/audio/DyDfgMOUjCI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6591574,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.881445,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:18:33Z"
+  },
+  "status": "success",
+  "error": null
+}

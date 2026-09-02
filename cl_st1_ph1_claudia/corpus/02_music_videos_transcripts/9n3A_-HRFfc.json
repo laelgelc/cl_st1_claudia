@@ -1,0 +1,98 @@
+{
+  "corpus_id": "9n3A_-HRFfc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/9n3A_-HRFfc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/9n3A_-HRFfc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/9n3A_-HRFfc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "If I could turn back time, if I could find a way, I'd take back those words that hurt you and you'd stay. I don't know why I did the things I did I don't know why I said the things I said Pride's like a knife, it can cut deep inside Words are like weapons, they wound sometimes I didn't really mean to Though I know I made you cry But baby, if I could turn back time If I could find a way I'd take back those words that hurt you You'd stay If I could reach the stars I'd give them all to you And you'd love me Someone took a knife and broke it deep in my heart When you walked out that door, I swore that I didn't care But I lost everything, darling, there and there Too strong to tell you I was sorry Too proud to tell you I was wrong If I could find a way I'd take back those words that have hurt you And you'd stay If I could reach the stars I'd give them all to you Then you'd love me, love me, love you, you If I could turn back time If I could turn back time I didn't wanna see you go I know I made you cry But if I could turn back time If I could find a way I'd take back those words I heard you If I could reach the stars I'd give them all to you",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 23.538,
+        "text": " If I could turn back time, if I could find a way, I'd take back those words that hurt you and you'd stay.",
+        "avg_logprob": -0.07159213567602224
+      },
+      {
+        "id": 2,
+        "start": 24.922,
+        "end": 47.045,
+        "text": " I don't know why I did the things I did I don't know why I said the things I said Pride's like a knife, it can cut deep inside Words are like weapons, they wound sometimes I didn't really mean to",
+        "avg_logprob": -0.11100260370100538
+      },
+      {
+        "id": 3,
+        "start": 51.213,
+        "end": 80.947,
+        "text": " Though I know I made you cry But baby, if I could turn back time If I could find a way I'd take back those words that hurt you You'd stay If I could reach the stars I'd give them all to you And you'd love me",
+        "avg_logprob": -0.1079009456454583
+      },
+      {
+        "id": 4,
+        "start": 94.126,
+        "end": 116.536,
+        "text": " Someone took a knife and broke it deep in my heart When you walked out that door, I swore that I didn't care But I lost everything, darling, there and there Too strong to tell you I was sorry Too proud to tell you I was wrong",
+        "avg_logprob": -0.13834021001491906
+      },
+      {
+        "id": 5,
+        "start": 121.497,
+        "end": 148.312,
+        "text": " If I could find a way I'd take back those words that have hurt you And you'd stay If I could reach the stars I'd give them all to you Then you'd love me, love me, love you, you",
+        "avg_logprob": -0.11436170402993547
+      },
+      {
+        "id": 6,
+        "start": 154.117,
+        "end": 162.503,
+        "text": " If I could turn back time If I could turn back time",
+        "avg_logprob": -0.06745793498479404
+      },
+      {
+        "id": 7,
+        "start": 180.627,
+        "end": 207.02,
+        "text": " I didn't wanna see you go I know I made you cry But if I could turn back time If I could find a way I'd take back those words I heard you If I could reach the stars I'd give them all to you",
+        "avg_logprob": -0.1092952806122449
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "9n3A_-HRFfc",
+    "uploader": "Cher",
+    "audio_file": "corpus/01_music_videos_audio/audio/9n3A_-HRFfc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7868114,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.597848,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:10:48Z"
+  },
+  "status": "success",
+  "error": null
+}

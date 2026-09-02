@@ -1,0 +1,77 @@
+{
+  "corpus_id": "D6Aw3ZnqQrY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/D6Aw3ZnqQrY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/D6Aw3ZnqQrY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/D6Aw3ZnqQrY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Only the lonely Know the way I feel tonight Only the lonely Know this feeling ain't right There goes my baby They're gone forever, so far apart But only the lonely know why I cry Only the lonely Only the lonely know the heartache I've been through Only the lonely know I cry, cry for you But that's the chance you gotta take If you're lonely, heartbreak, only the lonely",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 24.196,
+        "end": 48.698,
+        "text": " Only the lonely Know the way I feel tonight Only the lonely Know this feeling ain't right There goes my baby",
+        "avg_logprob": -0.06899626682633939
+      },
+      {
+        "id": 2,
+        "start": 55.246,
+        "end": 76.795,
+        "text": " They're gone forever, so far apart But only the lonely know why I cry Only the lonely",
+        "avg_logprob": -0.10937500037252904
+      },
+      {
+        "id": 3,
+        "start": 96.505,
+        "end": 115.827,
+        "text": " Only the lonely know the heartache I've been through Only the lonely know I cry, cry for you",
+        "avg_logprob": -0.12491122159090909
+      },
+      {
+        "id": 4,
+        "start": 131.048,
+        "end": 147.974,
+        "text": " But that's the chance you gotta take If you're lonely, heartbreak, only the lonely",
+        "avg_logprob": -0.26757812350988386
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "D6Aw3ZnqQrY",
+    "uploader": "Roy Orbison",
+    "audio_file": "corpus/01_music_videos_audio/audio/D6Aw3ZnqQrY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4941284,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.097103,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:59:26Z"
+  },
+  "status": "success",
+  "error": null
+}

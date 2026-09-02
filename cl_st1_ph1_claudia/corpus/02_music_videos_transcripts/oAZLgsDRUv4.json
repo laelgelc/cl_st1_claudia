@@ -1,0 +1,84 @@
+{
+  "corpus_id": "oAZLgsDRUv4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oAZLgsDRUv4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/oAZLgsDRUv4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/oAZLgsDRUv4.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Billy Ray was the preacher's son And when his daddy would visit he'd come along When they gathered round and started talking Pastor Billy would take me walking Out through the backyard we'd go walking Then he'd look into my eyes Lord knows to my surprise The only one who could ever reach me Was the son of a preacher man The only boy who could ever teach me Was the son of a preacher man He was, yes he was Being good isn't always easy No matter how hard I try When he started sweet talking to me He'd come and tell me everything is alright He'd kiss and tell me everything's alright Can I get away again tonight? The only one who could ever reach me Was the son of a preacher man The only boy who could ever teach me Was the son of a preacher man Yes he was But the look was in his eyes Stealing kisses from me on the sly Taking time to make time Telling me that he's all mine Learning from each other's knowing Looking to see how much we've grown And the only one who could ever reach me Was the son of a preacher man The only one who could ever preach The only one who could ever teach The only one who could ever preach The only one who could ever preach The only one who could ever preach",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 11.894,
+        "end": 41.105,
+        "text": " Billy Ray was the preacher's son And when his daddy would visit he'd come along When they gathered round and started talking Pastor Billy would take me walking Out through the backyard we'd go walking Then he'd look into my eyes Lord knows to my surprise The only one who could ever reach me Was the son of a preacher man The only boy who could ever teach me Was the son of a preacher man",
+        "avg_logprob": -0.1257715990513931
+      },
+      {
+        "id": 2,
+        "start": 41.105,
+        "end": 45.155,
+        "text": " He was, yes he was",
+        "avg_logprob": -0.4790736436843872
+      },
+      {
+        "id": 3,
+        "start": 51.415,
+        "end": 78.23,
+        "text": " Being good isn't always easy No matter how hard I try When he started sweet talking to me He'd come and tell me everything is alright He'd kiss and tell me everything's alright Can I get away again tonight? The only one who could ever reach me Was the son of a preacher man The only boy who could ever teach me Was the son of a preacher man Yes he was",
+        "avg_logprob": -0.07486979223978825
+      },
+      {
+        "id": 4,
+        "start": 87.713,
+        "end": 109.499,
+        "text": " But the look was in his eyes Stealing kisses from me on the sly Taking time to make time Telling me that he's all mine Learning from each other's knowing Looking to see how much we've grown And the only one who could ever reach me Was the son of a preacher man",
+        "avg_logprob": -0.12773437822858494
+      },
+      {
+        "id": 5,
+        "start": 119.084,
+        "end": 135.031,
+        "text": " The only one who could ever preach The only one who could ever teach The only one who could ever preach The only one who could ever preach The only one who could ever preach",
+        "avg_logprob": -0.2256944382356273
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "oAZLgsDRUv4",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/oAZLgsDRUv4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4775588,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.128022,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:59:17Z"
+  },
+  "status": "success",
+  "error": null
+}

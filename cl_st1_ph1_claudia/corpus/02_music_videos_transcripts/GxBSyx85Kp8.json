@@ -1,0 +1,126 @@
+{
+  "corpus_id": "GxBSyx85Kp8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/GxBSyx85Kp8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/GxBSyx85Kp8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/GxBSyx85Kp8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Yeah. Yeah. Up in the club with my homies, tryna get a little V.I. Keep her down on the low key, she know how it is I saw her shirt and she was checking up on me From the game she was spitting in my ear, you would think that she knew me Decided to chill, conversation got heavy She had me feeling like she's ready to blow So I got up and followed her to the floor She said, baby, let's go When I told her, I said, yeah, yeah She got down and said, come and get me, yeah, yeah I got so caught up, I thought she told me, yeah, yeah Could be my girl, she'd be the best to call me, yeah, yeah Next thing I knew She's all up in my head now Got me thinkin' that it might be a good idea to take her with me She's ready to leave Feel like I gotta keep it real now Cause on the 1 to 10, she's a certified 20 But that just ain't me, hey Cause I don't love, if I take that chance, she swears it's gonna leak But what I do love, is the way she dance, make shawty alright for me The way she dance, I'm like yeah, just work that out for me She asked for one more dance, and I'm like yeah She said, come and get me I got so caught up, I got you told me I'll be my girl Watch out, my outfit's ridiculous In the club lookin' so conspicuous And wild, these women all on the prowl If you hold the head steady, I'ma melt the cow Don't forget about game, I'ma spit the truth I won't stop till I get them in they birthday suits So give me the rhythm and it'll be off with they clothes then Then over to the front and touch your toes I left the Jag and I took the rolls If they ain't cuttin' then I put em on foot patrol How you like me now when my pinkies valued over 300,000? Let's drink, you the one to please Little crisp filled cups like double D's Me and us, what's more when we leave some dead? We want a lady in the street but a freak in the bed that say Come and get me Yeah, yeah I got so caught up, I got you caught baby Yeah, yeah Could be my girl, you could be the best to call me Yeah, yeah Take that and rewind it back Lil Jon got the beat to make your booty go Take that and rewind it back Ursa got the voice to make your booty go Take that and rewind it back Ludacris got the flow to make your booty go Take that and rewind it back Lil Jon got the beat Let me see you do the eight-time star Do the eight-time star Now do the muscle Do the muscle Do the muscle Do the muscle Thunder clap, hey Thunder clap, hey Thunder clap, hey Thunder clap, hey Rock away",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 11,
+    "segments": [
+      {
+        "id": 1,
+        "start": 13.244,
+        "end": 15.185,
+        "text": " Yeah. Yeah.",
+        "avg_logprob": -0.67734375
+      },
+      {
+        "id": 2,
+        "start": 18.762,
+        "end": 45.053,
+        "text": " Up in the club with my homies, tryna get a little V.I. Keep her down on the low key, she know how it is I saw her shirt and she was checking up on me From the game she was spitting in my ear, you would think that she knew me Decided to chill, conversation got heavy She had me feeling like she's ready to blow",
+        "avg_logprob": -0.17377803990474114
+      },
+      {
+        "id": 3,
+        "start": 48.007,
+        "end": 73.859,
+        "text": " So I got up and followed her to the floor She said, baby, let's go When I told her, I said, yeah, yeah She got down and said, come and get me, yeah, yeah I got so caught up, I thought she told me, yeah, yeah Could be my girl, she'd be the best to call me, yeah, yeah Next thing I knew",
+        "avg_logprob": -0.21035156697034835
+      },
+      {
+        "id": 4,
+        "start": 76.357,
+        "end": 96.218,
+        "text": " She's all up in my head now Got me thinkin' that it might be a good idea to take her with me She's ready to leave Feel like I gotta keep it real now",
+        "avg_logprob": -0.1634615392257006
+      },
+      {
+        "id": 5,
+        "start": 96.218,
+        "end": 119.033,
+        "text": " Cause on the 1 to 10, she's a certified 20 But that just ain't me, hey Cause I don't love, if I take that chance, she swears it's gonna leak But what I do love, is the way she dance, make shawty alright for me The way she dance, I'm like yeah, just work that out for me She asked for one more dance, and I'm like yeah",
+        "avg_logprob": -0.23078304186634635
+      },
+      {
+        "id": 6,
+        "start": 124.231,
+        "end": 133.175,
+        "text": " She said, come and get me I got so caught up, I got you told me I'll be my girl",
+        "avg_logprob": -0.3938802108168602
+      },
+      {
+        "id": 7,
+        "start": 135.166,
+        "end": 165.102,
+        "text": " Watch out, my outfit's ridiculous In the club lookin' so conspicuous And wild, these women all on the prowl If you hold the head steady, I'ma melt the cow Don't forget about game, I'ma spit the truth I won't stop till I get them in they birthday suits So give me the rhythm and it'll be off with they clothes then",
+        "avg_logprob": -0.10176282013073945
+      },
+      {
+        "id": 8,
+        "start": 165.102,
+        "end": 186.432,
+        "text": " Then over to the front and touch your toes I left the Jag and I took the rolls If they ain't cuttin' then I put em on foot patrol How you like me now when my pinkies valued over 300,000? Let's drink, you the one to please Little crisp filled cups like double D's Me and us, what's more when we leave some dead? We want a lady in the street but a freak in the bed that say",
+        "avg_logprob": -0.2500000141000235
+      },
+      {
+        "id": 9,
+        "start": 188.407,
+        "end": 201.012,
+        "text": " Come and get me Yeah, yeah I got so caught up, I got you caught baby Yeah, yeah Could be my girl, you could be the best to call me Yeah, yeah",
+        "avg_logprob": -0.44161184367380646
+      },
+      {
+        "id": 10,
+        "start": 202.852,
+        "end": 230.003,
+        "text": " Take that and rewind it back Lil Jon got the beat to make your booty go Take that and rewind it back Ursa got the voice to make your booty go Take that and rewind it back Ludacris got the flow to make your booty go Take that and rewind it back Lil Jon got the beat",
+        "avg_logprob": -0.18468237314067903
+      },
+      {
+        "id": 11,
+        "start": 230.003,
+        "end": 245.697,
+        "text": " Let me see you do the eight-time star Do the eight-time star Now do the muscle Do the muscle Do the muscle Do the muscle Thunder clap, hey Thunder clap, hey Thunder clap, hey Thunder clap, hey Rock away",
+        "avg_logprob": -0.2145182273040215
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "GxBSyx85Kp8",
+    "uploader": "Usher",
+    "audio_file": "corpus/01_music_videos_audio/audio/GxBSyx85Kp8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8095484,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.132634,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:22:21Z"
+  },
+  "status": "success",
+  "error": null
+}

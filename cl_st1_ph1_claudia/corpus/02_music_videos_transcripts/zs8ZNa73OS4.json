@@ -1,0 +1,91 @@
+{
+  "corpus_id": "zs8ZNa73OS4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/zs8ZNa73OS4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/zs8ZNa73OS4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/zs8ZNa73OS4.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Hot town, summer in the city, back of my neck getting dirty and gritty. Bend down, isn't it a pity? Doesn't seem to be a shadow in the city. All around, people looking half dead, walking on the sidewalk hotter than a match, yeah. But at night, it's a different world. Go out and find a girl. Come on, come on, and dance all night. Keep out the heat, it'll be all right. And babe, don't you know it's a pity the days can't be like the nights in the summer, in the city, in the summer, in Cool town meeting in the city. Dressed so fine and looking so pretty. Cool cat looking for a kitty. Gonna look in every corner of the city. Till I'm wheezing like a bus stop running up the stairs. Gonna meet you on the rooftop. But at night it's a different world, go out and find a girl, come on, come on and dance all night, just like the heat, it'll be alright. And babe, don't you know it's a pity the days can't be like the nights in the summer, in the city, in the summer, in the city. Hot town, summer in the city, back of my neck getting dirty pretty. Been down, isn't it a pity, doesn't seem to be a shadow in the city. All around people looking happy, walking on the sidewalk hotter than a matchstick. It's a different world. Go out and find a girl. Come on, come on, we'll dance all night. Despite the heat, it'll be all right. Babe, don't you know it's a pretty good day? Can't be like the nights in the summer in the city. Summer in the city. Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 7.726,
+        "end": 37.662,
+        "text": " Hot town, summer in the city, back of my neck getting dirty and gritty. Bend down, isn't it a pity? Doesn't seem to be a shadow in the city. All around, people looking half dead, walking on the sidewalk hotter than a match, yeah. But at night, it's a different world. Go out and find a girl. Come on, come on, and dance all night. Keep out the heat, it'll be all right. And babe, don't you know it's a pity the days can't be like the nights in the summer, in the city, in the summer, in",
+        "avg_logprob": -0.08690649224806202
+      },
+      {
+        "id": 2,
+        "start": 37.662,
+        "end": 51.972,
+        "text": " Cool town meeting in the city. Dressed so fine and looking so pretty. Cool cat looking for a kitty. Gonna look in every corner of the city. Till I'm wheezing like a bus stop running up the stairs. Gonna meet you on the rooftop.",
+        "avg_logprob": -0.08394886526194485
+      },
+      {
+        "id": 3,
+        "start": 53.086,
+        "end": 69.86,
+        "text": " But at night it's a different world, go out and find a girl, come on, come on and dance all night, just like the heat, it'll be alright. And babe, don't you know it's a pity the days can't be like the nights in the summer, in the city, in the summer, in the city.",
+        "avg_logprob": -0.09695095444718997
+      },
+      {
+        "id": 4,
+        "start": 80.153,
+        "end": 102.901,
+        "text": " Hot town, summer in the city, back of my neck getting dirty pretty. Been down, isn't it a pity, doesn't seem to be a shadow in the city. All around people looking happy, walking on the sidewalk hotter than a matchstick.",
+        "avg_logprob": -0.19870282793944738
+      },
+      {
+        "id": 5,
+        "start": 103.576,
+        "end": 119.843,
+        "text": " It's a different world. Go out and find a girl. Come on, come on, we'll dance all night. Despite the heat, it'll be all right. Babe, don't you know it's a pretty good day? Can't be like the nights in the summer in the city. Summer in the city.",
+        "avg_logprob": -0.16686100612825422
+      },
+      {
+        "id": 6,
+        "start": 130.694,
+        "end": 134.322,
+        "text": " Thank you.",
+        "avg_logprob": -0.5527343899011612
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "zs8ZNa73OS4",
+    "uploader": "moondoggy",
+    "audio_file": "corpus/01_music_videos_audio/audio/zs8ZNa73OS4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5059428,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.853999,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:55:44Z"
+  },
+  "status": "success",
+  "error": null
+}

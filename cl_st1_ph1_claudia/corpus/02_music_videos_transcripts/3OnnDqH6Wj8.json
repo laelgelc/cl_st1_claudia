@@ -1,0 +1,84 @@
+{
+  "corpus_id": "3OnnDqH6Wj8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/3OnnDqH6Wj8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/3OnnDqH6Wj8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/3OnnDqH6Wj8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Sometimes I get a good feeling, yeah I get a feeling that I never, never, never, never had before, no, no I get a good feeling, yeah Sometimes I get a good feeling, yeah I get a feeling that I never, never, never, never had before, no, no Sometimes I get a good feeling, yeah I get a feeling that I never, never, never, never had before No, no, I get a good feeling, yeah Oh, sometimes I get a good feeling, yeah I get a feeling that I never, never, never, never had before No, no, I get a good Sometimes I get a good feeling, yeah I get a feeling that I never, never, never, never had before No, no, I get a good feeling, yeah I get a good feeling, yeah you came to have a good time tonight let me hear you say yeah",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 9.397,
+        "end": 35.047,
+        "text": " Sometimes I get a good feeling, yeah I get a feeling that I never, never, never, never had before, no, no I get a good feeling, yeah Sometimes I get a good feeling, yeah I get a feeling that I never, never, never, never had before, no, no",
+        "avg_logprob": -0.07491179759944638
+      },
+      {
+        "id": 2,
+        "start": 69.387,
+        "end": 95.678,
+        "text": " Sometimes I get a good feeling, yeah I get a feeling that I never, never, never, never had before No, no, I get a good feeling, yeah Oh, sometimes I get a good feeling, yeah I get a feeling that I never, never, never, never had before No, no, I get a good",
+        "avg_logprob": -0.05572150581899811
+      },
+      {
+        "id": 3,
+        "start": 135.031,
+        "end": 147.687,
+        "text": " Sometimes I get a good feeling, yeah I get a feeling that I never, never, never, never had before No, no, I get a good feeling, yeah",
+        "avg_logprob": -0.09799107440880367
+      },
+      {
+        "id": 4,
+        "start": 211.002,
+        "end": 213.297,
+        "text": " I get a good feeling, yeah",
+        "avg_logprob": -0.15661621652543545
+      },
+      {
+        "id": 5,
+        "start": 248.397,
+        "end": 255.822,
+        "text": " you came to have a good time tonight let me hear you say yeah",
+        "avg_logprob": -0.24466144641240437
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "3OnnDqH6Wj8",
+    "uploader": "Flo Rida",
+    "audio_file": "corpus/01_music_videos_audio/audio/3OnnDqH6Wj8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8649790,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.912649,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:05:59Z"
+  },
+  "status": "success",
+  "error": null
+}

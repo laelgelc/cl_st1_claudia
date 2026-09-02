@@ -1,0 +1,105 @@
+{
+  "corpus_id": "GswJOWEkLJM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/GswJOWEkLJM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/GswJOWEkLJM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/GswJOWEkLJM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "If you see me walking down the street and I start to cry, each time we meet, walk on by. Believe that you don't see the change. Just let me grieve in private. Cause each time I see you, I'll break down and cry. Now, I just can't get over losing you. And so if I see you broken and blue, baby, walk over. Foolish pride That's all that I have left So let me hide The tears and the sadness you gave me When you said goodbye Walk on by Don't stop Walk on by Don't stop Walk on by Don't stop ¶¶ Foolish pride, that's all that I have left. So let me hide the tears and the sadness you gave me when you said goodbye. Walk on by. Don't stop. Walk on by. Don't stop. Now you really gotta go, so walk on by. Don't stop. May believe you never see my jeans, I cry. Don't stop. Now you really gotta go, so walk on by. Don't stop. May believe you never see my jeans, I cry. Don't stop. Now you really gotta go, so walk on by. Don't stop. May believe you never see my jeans, I cry. Don't stop. Stop just to walk on",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 5.701,
+        "end": 15.64,
+        "text": " If you see me walking down the street and I start to cry, each time we meet, walk on by.",
+        "avg_logprob": -0.05623372349267205
+      },
+      {
+        "id": 2,
+        "start": 23.217,
+        "end": 35.84,
+        "text": " Believe that you don't see the change. Just let me grieve in private. Cause each time I see you, I'll break down and cry.",
+        "avg_logprob": -0.2344970740377903
+      },
+      {
+        "id": 3,
+        "start": 51.027,
+        "end": 62.907,
+        "text": " Now, I just can't get over losing you. And so if I see you broken and blue, baby, walk over.",
+        "avg_logprob": -0.20211227182988767
+      },
+      {
+        "id": 4,
+        "start": 70.265,
+        "end": 99.813,
+        "text": " Foolish pride That's all that I have left So let me hide The tears and the sadness you gave me When you said goodbye Walk on by Don't stop Walk on by Don't stop Walk on by Don't stop",
+        "avg_logprob": -0.09453125
+      },
+      {
+        "id": 5,
+        "start": 106.833,
+        "end": 107.845,
+        "text": " ¶¶",
+        "avg_logprob": -0.7390625
+      },
+      {
+        "id": 6,
+        "start": 162.233,
+        "end": 184.137,
+        "text": " Foolish pride, that's all that I have left. So let me hide the tears and the sadness you gave me when you said goodbye. Walk on by. Don't stop. Walk on by.",
+        "avg_logprob": -0.13727678571428573
+      },
+      {
+        "id": 7,
+        "start": 184.576,
+        "end": 214.478,
+        "text": " Don't stop. Now you really gotta go, so walk on by. Don't stop. May believe you never see my jeans, I cry. Don't stop. Now you really gotta go, so walk on by. Don't stop. May believe you never see my jeans, I cry. Don't stop. Now you really gotta go, so walk on by. Don't stop. May believe you never see my jeans, I cry. Don't stop.",
+        "avg_logprob": -0.08347039630538539
+      },
+      {
+        "id": 8,
+        "start": 214.478,
+        "end": 217.246,
+        "text": " Stop just to walk on",
+        "avg_logprob": -0.3053385516007741
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "GswJOWEkLJM",
+    "uploader": "Justin Fung",
+    "audio_file": "corpus/01_music_videos_audio/audio/GswJOWEkLJM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7129534,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 38.075218,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:18:56Z"
+  },
+  "status": "success",
+  "error": null
+}

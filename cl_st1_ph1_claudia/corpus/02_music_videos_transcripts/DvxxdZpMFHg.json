@@ -1,0 +1,84 @@
+{
+  "corpus_id": "DvxxdZpMFHg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/DvxxdZpMFHg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/DvxxdZpMFHg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/DvxxdZpMFHg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "People sleeping in their shoes There's a warning sign on the road ahead There's a lot of people saying we'd be better off dead Don't feel like Satan, but I am to them Woman in the night with a baby in her hand There's an old street light near a garbage can Now she put the kid away and she's gonna get a hit She hates the life and what she's done to it There's one more kid and I'll never go to school Never get to fall in love, never get to be For the homeless man We got a kinder, gentler machine gun hand We got department stores and toilet paper Got styrofoam boxes for the ozone lamp Got a man of the people, says keep open line Got fuel to burn In the free world We'll be right back.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 25.597,
+        "end": 40.328,
+        "text": " People sleeping in their shoes There's a warning sign on the road ahead There's a lot of people saying we'd be better off dead Don't feel like Satan, but I am to them",
+        "avg_logprob": -0.08698918116398346
+      },
+      {
+        "id": 2,
+        "start": 95.425,
+        "end": 123.539,
+        "text": " Woman in the night with a baby in her hand There's an old street light near a garbage can Now she put the kid away and she's gonna get a hit She hates the life and what she's done to it There's one more kid and I'll never go to school Never get to fall in love, never get to be",
+        "avg_logprob": -0.14005055848289938
+      },
+      {
+        "id": 3,
+        "start": 190.651,
+        "end": 216.115,
+        "text": " For the homeless man We got a kinder, gentler machine gun hand We got department stores and toilet paper Got styrofoam boxes for the ozone lamp Got a man of the people, says keep open line Got fuel to burn",
+        "avg_logprob": -0.3183593625823657
+      },
+      {
+        "id": 4,
+        "start": 242.305,
+        "end": 244.583,
+        "text": " In the free world",
+        "avg_logprob": -0.1755859375
+      },
+      {
+        "id": 5,
+        "start": 275.009,
+        "end": 279.278,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.6250000170298985
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "DvxxdZpMFHg",
+    "uploader": "neilyoungchannel",
+    "audio_file": "corpus/01_music_videos_audio/audio/DvxxdZpMFHg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9019080,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 25.10003,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:59:51Z"
+  },
+  "status": "success",
+  "error": null
+}

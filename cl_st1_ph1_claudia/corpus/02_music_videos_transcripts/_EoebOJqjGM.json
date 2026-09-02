@@ -1,0 +1,84 @@
+{
+  "corpus_id": "_EoebOJqjGM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/_EoebOJqjGM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/_EoebOJqjGM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/_EoebOJqjGM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Jim Danny to the rescue Jim Danny to the rescue Jim Danny to the rescue Go Jim Danny, go Jim Danny Jim Danny on a mountain top Thirty thousand feet strong Spider lady on a runaway horse Aha, that's right of course Jim Danny to the rescue Go Jim Danny, go Jim Danny Jim Danny met a girl named Sue She was feeling a kind of blue Jim Danny is a kind of guy Never liked to see a little girl cry Jim Danny to the rescue Go Jim Danny, go Jim Danny Jim Danny to the rescue Jim Danny to the rescue Jim Danny to the rescue Go Jim Danny, go! Jim Danny in a submarine Got a message from a mermaid queen She was hanging from a fishing line Jim Danny didn't waste no time Jim Danny to the rescue Go Jim Danny, go Jim Danny Jim Danny wanted to go to Maine Got a ticket on a D.C. plane Jim and Danny didn't need no suit. He was hip and ready to boot. Jim and Danny to the rescue. Go, Jim and Danny. Go, Jim and Danny. Go, go, go, Jim and Danny. Go, go, go, Jim and Danny. Go, go, go, Jim and Danny. Go on, Jim and Danny. Jim and Danny's gone.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 8.553,
+        "end": 28.921,
+        "text": " Jim Danny to the rescue Jim Danny to the rescue Jim Danny to the rescue Go Jim Danny, go Jim Danny Jim Danny on a mountain top Thirty thousand feet strong Spider lady on a runaway horse",
+        "avg_logprob": -0.1828125
+      },
+      {
+        "id": 2,
+        "start": 28.921,
+        "end": 56.647,
+        "text": " Aha, that's right of course Jim Danny to the rescue Go Jim Danny, go Jim Danny Jim Danny met a girl named Sue She was feeling a kind of blue Jim Danny is a kind of guy Never liked to see a little girl cry Jim Danny to the rescue Go Jim Danny, go Jim Danny Jim Danny to the rescue",
+        "avg_logprob": -0.08830492356509874
+      },
+      {
+        "id": 3,
+        "start": 56.647,
+        "end": 77.808,
+        "text": " Jim Danny to the rescue Jim Danny to the rescue Go Jim Danny, go!",
+        "avg_logprob": -0.19956341911764705
+      },
+      {
+        "id": 4,
+        "start": 81.858,
+        "end": 104.875,
+        "text": " Jim Danny in a submarine Got a message from a mermaid queen She was hanging from a fishing line Jim Danny didn't waste no time Jim Danny to the rescue Go Jim Danny, go Jim Danny Jim Danny wanted to go to Maine Got a ticket on a D.C. plane",
+        "avg_logprob": -0.06612723493682486
+      },
+      {
+        "id": 5,
+        "start": 104.875,
+        "end": 129.462,
+        "text": " Jim and Danny didn't need no suit. He was hip and ready to boot. Jim and Danny to the rescue. Go, Jim and Danny. Go, Jim and Danny. Go, go, go, Jim and Danny. Go, go, go, Jim and Danny. Go, go, go, Jim and Danny. Go on, Jim and Danny. Jim and Danny's gone.",
+        "avg_logprob": -0.07089843964204193
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "_EoebOJqjGM",
+    "uploader": "Daily Doo Wop",
+    "audio_file": "corpus/01_music_videos_audio/audio/_EoebOJqjGM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4213850,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.883383,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:51Z"
+  },
+  "status": "success",
+  "error": null
+}

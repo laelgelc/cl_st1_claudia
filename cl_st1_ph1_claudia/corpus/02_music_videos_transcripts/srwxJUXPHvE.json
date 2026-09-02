@@ -1,0 +1,77 @@
+{
+  "corpus_id": "srwxJUXPHvE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/srwxJUXPHvE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/srwxJUXPHvE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/srwxJUXPHvE.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Can't buy me love, oh Love, oh Can't buy me love, oh I'll buy you a diamond ring, my friend If it makes you feel all right I'll get you anything, my friend If it makes you feel all right I don't care too much for money Money can't buy me love I'll give you all I've got to give me To say you love me too I may not have a lot to give, what I got I'll give to you. I don't care too much for money, money can buy me love, can buy me love. Everybody tells me so, can buy me love. Say you don't need no diamond ring and I'll be satisfied. Tell me that you want the kind of thing that money just can't buy. I don't care too much for money, money can't buy me love. Everybody told me so Can't buy me love No, no, no, no Say you don't need no diamond rings And I'll be satisfied Tell me that you want the kind of things The money just can't buy I don't care too much for money Money can't buy me love Buy me love",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.735,
+        "end": 31.638,
+        "text": " Can't buy me love, oh Love, oh Can't buy me love, oh I'll buy you a diamond ring, my friend If it makes you feel all right I'll get you anything, my friend If it makes you feel all right I don't care too much for money Money can't buy me love I'll give you all I've got to give me To say you love me too",
+        "avg_logprob": -0.10918209582199286
+      },
+      {
+        "id": 2,
+        "start": 31.638,
+        "end": 50.825,
+        "text": " I may not have a lot to give, what I got I'll give to you. I don't care too much for money, money can buy me love, can buy me love. Everybody tells me so, can buy me love.",
+        "avg_logprob": -0.18781887268533512
+      },
+      {
+        "id": 3,
+        "start": 53.204,
+        "end": 69.488,
+        "text": " Say you don't need no diamond ring and I'll be satisfied. Tell me that you want the kind of thing that money just can't buy. I don't care too much for money, money can't buy me love.",
+        "avg_logprob": -0.06611535809141525
+      },
+      {
+        "id": 4,
+        "start": 88.844,
+        "end": 116.063,
+        "text": " Everybody told me so Can't buy me love No, no, no, no Say you don't need no diamond rings And I'll be satisfied Tell me that you want the kind of things The money just can't buy I don't care too much for money Money can't buy me love Buy me love",
+        "avg_logprob": -0.07862903382028302
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "srwxJUXPHvE",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/srwxJUXPHvE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4298556,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.275893,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:58:14Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,70 @@
+{
+  "corpus_id": "7Znh0OM9jiA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/7Znh0OM9jiA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/7Znh0OM9jiA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/7Znh0OM9jiA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "So as sure as the sun I say forgive them, Lord, they know not what they've done. Cause as sure as the sun will shine. be a free man in my grave than living as a puppet or a slave so as sure as the sun will shine i'm gonna get my share right now what's mine and then the lord of",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 33.173,
+        "end": 35.62,
+        "text": " So as sure as the sun",
+        "avg_logprob": -0.1768973171710968
+      },
+      {
+        "id": 2,
+        "start": 77.099,
+        "end": 86.431,
+        "text": " I say forgive them, Lord, they know not what they've done. Cause as sure as the sun will shine.",
+        "avg_logprob": -0.0744921898841858
+      },
+      {
+        "id": 3,
+        "start": 131.47,
+        "end": 150.809,
+        "text": " be a free man in my grave than living as a puppet or a slave so as sure as the sun will shine i'm gonna get my share right now what's mine and then the lord of",
+        "avg_logprob": -0.13251953311264514
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "7Znh0OM9jiA",
+    "uploader": "Rocksteady Freddie",
+    "audio_file": "corpus/01_music_videos_audio/audio/7Znh0OM9jiA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6159868,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.098275,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:52Z"
+  },
+  "status": "success",
+  "error": null
+}

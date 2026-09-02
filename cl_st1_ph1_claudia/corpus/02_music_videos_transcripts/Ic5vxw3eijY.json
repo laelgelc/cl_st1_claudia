@@ -1,0 +1,105 @@
+{
+  "corpus_id": "Ic5vxw3eijY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Ic5vxw3eijY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Ic5vxw3eijY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Ic5vxw3eijY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "This the number one champion sound Yeah, Estelle, we about to get down Who the hottest in the world right now Just touched down in London town Bet they give me a pound Tell them put the money in my hand right now Set up a motor, we need more seats We just sold out all the floor seats Take me on a trip I'd like to see I really want to come pick it with you. You'll be my American boy. He said, hey sister, it's really, really nice to meet you. I just met this 5'7 guy who's just about tight. Like the way he's speaking, his confidence is peaking. Don't like his baggy jeans, but all my life was underneath. I'm liking this American boy, American boy Take me on a trip, I'd like to go someday Take me to New York, I'd love to see L.A. I really want to come pick it with you Can we get away this weekend? Take me to Broadway Let's go shopping, maybe then we'll go to a cafe Let's go on the subway, take me to your hood I've never been to Brooklyn and I'd like to see what's good Dressed in all your fancy clothes Sneakers looking fresh to death, I'm loving those show toes I'd like to go someday Take me to New York, I'd love to see L.A. I really want to come pick it with you You'll be my American boy Who killin' them in the U.K.? Everybody gonna say U.K. Reluctantly, cause most of this press don't f*** with me Estelle once said to me, cool down, down Don't act a fool now, now Always act a fool, ow Ow, ain't nothin' new now, now He crazy, I know what you thinkin' Rappin', I know what you drinkin' Rap singer, chain blinger Holla at the next chick soon as you blinkin' What's your persona about this Americana? Rhyma, am I shallow? Cause all my clothes designed Dressed small like a London bloke Before he speak, his suit bespoke And you thought he was cute before Look at this peacoat, tell me he's broke And I know you ain't into all that I heard your lyrics, I feel your spirit But I still talk that cash Cause a lot of wags wanna hear it And I'm feeling like Mike at his baddest Like the picture they gladdest And I know they love it So to hell with all that rubbish Would you be my lover? Would you be mine? Would you be my love? Would you be my American boy? American boy",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.503,
+        "end": 26.491,
+        "text": " This the number one champion sound Yeah, Estelle, we about to get down Who the hottest in the world right now Just touched down in London town Bet they give me a pound Tell them put the money in my hand right now Set up a motor, we need more seats We just sold out all the floor seats Take me on a trip I'd like to see",
+        "avg_logprob": -0.14928209842056842
+      },
+      {
+        "id": 2,
+        "start": 32.397,
+        "end": 57.018,
+        "text": " I really want to come pick it with you. You'll be my American boy. He said, hey sister, it's really, really nice to meet you. I just met this 5'7 guy who's just about tight. Like the way he's speaking, his confidence is peaking. Don't like his baggy jeans, but all my life was underneath.",
+        "avg_logprob": -0.09966076988922923
+      },
+      {
+        "id": 3,
+        "start": 61.591,
+        "end": 85.52,
+        "text": " I'm liking this American boy, American boy Take me on a trip, I'd like to go someday Take me to New York, I'd love to see L.A. I really want to come pick it with you",
+        "avg_logprob": -0.1924252753024516
+      },
+      {
+        "id": 4,
+        "start": 90.16,
+        "end": 113.954,
+        "text": " Can we get away this weekend? Take me to Broadway Let's go shopping, maybe then we'll go to a cafe Let's go on the subway, take me to your hood I've never been to Brooklyn and I'd like to see what's good Dressed in all your fancy clothes Sneakers looking fresh to death, I'm loving those show toes",
+        "avg_logprob": -0.07872178467611472
+      },
+      {
+        "id": 5,
+        "start": 123.674,
+        "end": 152.345,
+        "text": " I'd like to go someday Take me to New York, I'd love to see L.A. I really want to come pick it with you You'll be my American boy Who killin' them in the U.K.? Everybody gonna say U.K. Reluctantly, cause most of this press don't f*** with me Estelle once said to me, cool down, down Don't act a fool now, now Always act a fool, ow",
+        "avg_logprob": -0.15296052098274232
+      },
+      {
+        "id": 6,
+        "start": 152.345,
+        "end": 170.401,
+        "text": " Ow, ain't nothin' new now, now He crazy, I know what you thinkin' Rappin', I know what you drinkin' Rap singer, chain blinger Holla at the next chick soon as you blinkin' What's your persona about this Americana? Rhyma, am I shallow? Cause all my clothes designed",
+        "avg_logprob": -0.1312934025708172
+      },
+      {
+        "id": 7,
+        "start": 170.401,
+        "end": 198.717,
+        "text": " Dressed small like a London bloke Before he speak, his suit bespoke And you thought he was cute before Look at this peacoat, tell me he's broke And I know you ain't into all that I heard your lyrics, I feel your spirit But I still talk that cash Cause a lot of wags wanna hear it And I'm feeling like Mike at his baddest Like the picture they gladdest And I know they love it So to hell with all that rubbish Would you be my lover?",
+        "avg_logprob": -0.0864633391969479
+      },
+      {
+        "id": 8,
+        "start": 202.278,
+        "end": 213.449,
+        "text": " Would you be mine? Would you be my love? Would you be my American boy? American boy",
+        "avg_logprob": -0.21949404761904762
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Ic5vxw3eijY",
+    "uploader": "Estelle",
+    "audio_file": "corpus/01_music_videos_audio/audio/Ic5vxw3eijY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7740310,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.546908,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:16:34Z"
+  },
+  "status": "success",
+  "error": null
+}

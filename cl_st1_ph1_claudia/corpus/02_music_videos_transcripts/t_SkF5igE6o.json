@@ -1,0 +1,91 @@
+{
+  "corpus_id": "t_SkF5igE6o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/t_SkF5igE6o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/t_SkF5igE6o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/t_SkF5igE6o.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "There goes my only possession There goes my everything I hear footsteps slowly walking As they gently walk across a lonely floor And a voice is softly saying Darling, this will be goodbye forevermore There goes my reason for living. There goes the one of my dreams. There goes my only goes my heavy fate As my memory turns back the pages I can see the happy years we had before Now the love That kept this whole heart beating Has been shattered by the closing of a door There goes my reason for leaving There goes the one of my dreams There goes my only possession There goes my everything",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 2.444,
+        "end": 24.483,
+        "text": " There goes my only possession There goes my everything I hear footsteps slowly walking",
+        "avg_logprob": -0.0947265644868215
+      },
+      {
+        "id": 2,
+        "start": 26.626,
+        "end": 49.441,
+        "text": " As they gently walk across a lonely floor And a voice is softly saying Darling, this will be goodbye forevermore",
+        "avg_logprob": -0.0857252044522244
+      },
+      {
+        "id": 3,
+        "start": 52.377,
+        "end": 72.644,
+        "text": " There goes my reason for living. There goes the one of my dreams. There goes my only",
+        "avg_logprob": -0.11914062350988389
+      },
+      {
+        "id": 4,
+        "start": 78.145,
+        "end": 104.133,
+        "text": " goes my heavy fate As my memory turns back the pages I can see the happy years we had before Now the love",
+        "avg_logprob": -0.13183593998352686
+      },
+      {
+        "id": 5,
+        "start": 104.386,
+        "end": 123.843,
+        "text": " That kept this whole heart beating Has been shattered by the closing of a door There goes my reason for leaving",
+        "avg_logprob": -0.10688920217481526
+      },
+      {
+        "id": 6,
+        "start": 126.863,
+        "end": 149.29,
+        "text": " There goes the one of my dreams There goes my only possession There goes my everything",
+        "avg_logprob": -0.014935661764705883
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "t_SkF5igE6o",
+    "uploader": "Tom Page (Real Country)",
+    "audio_file": "corpus/01_music_videos_audio/audio/t_SkF5igE6o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5048282,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.54945,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:04:45Z"
+  },
+  "status": "success",
+  "error": null
+}

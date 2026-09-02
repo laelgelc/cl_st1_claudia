@@ -1,0 +1,77 @@
+{
+  "corpus_id": "8bmuMcjN0rQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8bmuMcjN0rQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/8bmuMcjN0rQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/8bmuMcjN0rQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Bye. Bye. Bye. How can I deny what's inside? Even though I'll keep away Maybe we'll love all our days But some of the boys got it bad But some of the boys got it bad When I get too bad Sometimes she makes it. I've been crying all the time.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 10.409,
+        "end": 28.533,
+        "text": " Bye. Bye. Bye.",
+        "avg_logprob": -0.8030133758272443
+      },
+      {
+        "id": 2,
+        "start": 47.399,
+        "end": 74.99,
+        "text": " How can I deny what's inside? Even though I'll keep away Maybe we'll love all our days But some of the boys got it bad But some of the boys got it bad When I get too bad",
+        "avg_logprob": -0.18677325650703075
+      },
+      {
+        "id": 3,
+        "start": 77.639,
+        "end": 80.103,
+        "text": " Sometimes she makes it.",
+        "avg_logprob": -0.6822916865348816
+      },
+      {
+        "id": 4,
+        "start": 113.617,
+        "end": 130.863,
+        "text": " I've been crying all the time.",
+        "avg_logprob": -0.6605902777777778
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "8bmuMcjN0rQ",
+    "uploader": "Big Star",
+    "audio_file": "corpus/01_music_videos_audio/audio/8bmuMcjN0rQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5467356,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 51.219711,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:00:28Z"
+  },
+  "status": "success",
+  "error": null
+}

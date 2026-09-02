@@ -1,0 +1,91 @@
+{
+  "corpus_id": "qN5zw04WxCc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/qN5zw04WxCc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/qN5zw04WxCc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/qN5zw04WxCc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "We'll be right back. Don't try to dig what we all say I'm not trying to cause a big sensation I'm just talking about my generation This is my generation, baby Why don't you all fade away? Don't try to dig what we all say. I'm trying to cause a big sensation. Just talking about my generation. Is that my generation? Is that my generation? People try to put us down, just because we get around. In my generation In my generation People try to put us down. Talking about my generation.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 5.161,
+        "end": 31.182,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.5206473214285714
+      },
+      {
+        "id": 2,
+        "start": 32.262,
+        "end": 53.795,
+        "text": " Don't try to dig what we all say I'm not trying to cause a big sensation I'm just talking about my generation This is my generation, baby",
+        "avg_logprob": -0.1400146484375
+      },
+      {
+        "id": 3,
+        "start": 79.124,
+        "end": 102.327,
+        "text": " Why don't you all fade away? Don't try to dig what we all say. I'm trying to cause a big sensation. Just talking about my generation. Is that my generation? Is that my generation?",
+        "avg_logprob": -0.0991654810919003
+      },
+      {
+        "id": 4,
+        "start": 113.853,
+        "end": 122.071,
+        "text": " People try to put us down, just because we get around.",
+        "avg_logprob": -0.2832031122275761
+      },
+      {
+        "id": 5,
+        "start": 170.35,
+        "end": 188.677,
+        "text": " In my generation In my generation",
+        "avg_logprob": -0.8147321258272443
+      },
+      {
+        "id": 6,
+        "start": 202.514,
+        "end": 207.577,
+        "text": " People try to put us down. Talking about my generation.",
+        "avg_logprob": -0.4074519230769231
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "qN5zw04WxCc",
+    "uploader": "The Best Of - Home Of Classic Music",
+    "audio_file": "corpus/01_music_videos_audio/audio/qN5zw04WxCc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6642842,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 25.792283,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:53:14Z"
+  },
+  "status": "success",
+  "error": null
+}

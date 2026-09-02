@@ -1,0 +1,91 @@
+{
+  "corpus_id": "_QNEf9oGw8o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/_QNEf9oGw8o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/_QNEf9oGw8o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/_QNEf9oGw8o.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "love love will keep us together think of me babe whenever some sweet talking girl comes along singing a song don't mess around you just gotta be strong just stop cause I really love You belong to me now Ain't gonna set you free now When those girls start hangin' around Talkin' me down Yeah, with your heart and your warm hearin' sound Just stop, cause I really love you Stop, I've been thinkin' of you Someday you'll look so big on. When the others turn you on, who'll be turning you on? I will, I will, I will, I will be there to share forever. Keep us together I said it before and I'll say it again While others pretend I need you now and I need you then Just stop Cause I really love you Stop I've been thinking of you Look in my heart and then love Keep us together Keep us together, whatever Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 8.62,
+        "end": 37.882,
+        "text": " love love will keep us together think of me babe whenever some sweet talking girl comes along singing a song don't mess around you just gotta be strong just stop cause I really love",
+        "avg_logprob": -0.10633680555555555
+      },
+      {
+        "id": 2,
+        "start": 55.668,
+        "end": 79.9,
+        "text": " You belong to me now Ain't gonna set you free now When those girls start hangin' around Talkin' me down Yeah, with your heart and your warm hearin' sound Just stop, cause I really love you Stop, I've been thinkin' of you",
+        "avg_logprob": -0.15904017324958528
+      },
+      {
+        "id": 3,
+        "start": 94.615,
+        "end": 112.148,
+        "text": " Someday you'll look so big on. When the others turn you on, who'll be turning you on? I will, I will, I will, I will be there to share forever.",
+        "avg_logprob": -0.08450838123879782
+      },
+      {
+        "id": 4,
+        "start": 113.752,
+        "end": 138.676,
+        "text": " Keep us together I said it before and I'll say it again While others pretend I need you now and I need you then Just stop Cause I really love you Stop I've been thinking of you Look in my heart and then love Keep us together",
+        "avg_logprob": -0.11242187798023223
+      },
+      {
+        "id": 5,
+        "start": 171.532,
+        "end": 180.408,
+        "text": " Keep us together, whatever",
+        "avg_logprob": -0.6393228967984518
+      },
+      {
+        "id": 6,
+        "start": 216.925,
+        "end": 219.322,
+        "text": " Thank you.",
+        "avg_logprob": -0.5600586086511612
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "_QNEf9oGw8o",
+    "uploader": "samuel matthews",
+    "audio_file": "corpus/01_music_videos_audio/audio/_QNEf9oGw8o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7204580,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.938973,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:12:21Z"
+  },
+  "status": "success",
+  "error": null
+}

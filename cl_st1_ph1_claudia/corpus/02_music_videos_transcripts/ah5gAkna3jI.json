@@ -1,0 +1,91 @@
+{
+  "corpus_id": "ah5gAkna3jI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ah5gAkna3jI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ah5gAkna3jI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ah5gAkna3jI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Tell me, do you think you'd be alright If I could just crash here tonight You could say I'm in no shape for driving And anyway, I've got no place to go And you know it might not be that bad If you were the best I'd ever had If I hadn't blown the whole thing years ago I may not be alone Tomorrow we could drive around this town Cops chase us around Past is gone but something might be found To take his place Hey Jealousy Hey Jealousy Hey Jealousy Hey Jealousy You can trust me not to think And not to sleep around And if you don't expect too much from me You might not be let down Cause all I really want's to be with you Feeling like I matter too If I hadn't blown the whole thing years ago I might be here with you tomorrow again Hey, jealousy. Drive around this town and let the cop chase us around. Past is gone, something might be found. The ticket's bliss and jealousy. And jealousy. And jealousy. I may not be.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 12.434,
+        "end": 40.565,
+        "text": " Tell me, do you think you'd be alright If I could just crash here tonight You could say I'm in no shape for driving And anyway, I've got no place to go And you know it might not be that bad If you were the best I'd ever had If I hadn't blown the whole thing years ago I may not be alone Tomorrow we could drive around this town",
+        "avg_logprob": -0.15464743971824646
+      },
+      {
+        "id": 2,
+        "start": 41.678,
+        "end": 66.029,
+        "text": " Cops chase us around Past is gone but something might be found To take his place Hey Jealousy Hey Jealousy Hey Jealousy Hey Jealousy You can trust me not to think",
+        "avg_logprob": -0.20903200638003466
+      },
+      {
+        "id": 3,
+        "start": 66.434,
+        "end": 88.692,
+        "text": " And not to sleep around And if you don't expect too much from me You might not be let down Cause all I really want's to be with you Feeling like I matter too If I hadn't blown the whole thing years ago I might be here with you tomorrow again",
+        "avg_logprob": -0.13160511634566568
+      },
+      {
+        "id": 4,
+        "start": 93.316,
+        "end": 101.213,
+        "text": " Hey, jealousy.",
+        "avg_logprob": -0.85234375
+      },
+      {
+        "id": 5,
+        "start": 126.543,
+        "end": 145.392,
+        "text": " Drive around this town and let the cop chase us around. Past is gone, something might be found. The ticket's bliss and jealousy. And jealousy. And jealousy.",
+        "avg_logprob": -0.29375000510896954
+      },
+      {
+        "id": 6,
+        "start": 161.44,
+        "end": 174.535,
+        "text": " I may not be.",
+        "avg_logprob": -0.7552083333333334
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "ah5gAkna3jI",
+    "uploader": "Gin Blossoms Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/ah5gAkna3jI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7443096,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.5223,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:11:46Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,84 @@
+{
+  "corpus_id": "-DGY9HvChXk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/-DGY9HvChXk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/-DGY9HvChXk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/-DGY9HvChXk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "And now a little tune written especially for me, Strange Fruit. Southern trees They're strange Blood on the leaves and blood at the root. Black bodies swinging in the southern breeze. Strange fruit hanging from the poplar tree. Pastoral scene of the gallant south. The bulging eyes and the twisted mouth. Scent of magnolia, sweet and fresh. Then the sudden smell of burning flesh. Here is a fruit for the crows to pluck, for the rain to gather, for the wind For the sun to rise, for the tree to drop, here is a strange and bitter crop.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 20.635,
+        "end": 49.795,
+        "text": " And now a little tune written especially for me, Strange Fruit. Southern trees They're strange",
+        "avg_logprob": -0.1826685839577725
+      },
+      {
+        "id": 2,
+        "start": 54.672,
+        "end": 80.322,
+        "text": " Blood on the leaves and blood at the root. Black bodies swinging in the southern breeze. Strange fruit hanging from the poplar tree.",
+        "avg_logprob": -0.05489676232848849
+      },
+      {
+        "id": 3,
+        "start": 89.857,
+        "end": 114.832,
+        "text": " Pastoral scene of the gallant south. The bulging eyes and the twisted mouth. Scent of magnolia, sweet and fresh.",
+        "avg_logprob": -0.12782866173777088
+      },
+      {
+        "id": 4,
+        "start": 117.464,
+        "end": 146.843,
+        "text": " Then the sudden smell of burning flesh. Here is a fruit for the crows to pluck, for the rain to gather, for the wind",
+        "avg_logprob": -0.10614223932397776
+      },
+      {
+        "id": 5,
+        "start": 150.944,
+        "end": 179.817,
+        "text": " For the sun to rise, for the tree to drop, here is a strange and bitter crop.",
+        "avg_logprob": -0.15373884212403072
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "-DGY9HvChXk",
+    "uploader": "ReelinInTheYears66",
+    "audio_file": "corpus/01_music_videos_audio/audio/-DGY9HvChXk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6368662,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.189012,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:02:30Z"
+  },
+  "status": "success",
+  "error": null
+}

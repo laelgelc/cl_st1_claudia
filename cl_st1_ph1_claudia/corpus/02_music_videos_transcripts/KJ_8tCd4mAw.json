@@ -1,0 +1,84 @@
+{
+  "corpus_id": "KJ_8tCd4mAw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/KJ_8tCd4mAw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/KJ_8tCd4mAw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/KJ_8tCd4mAw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Welcome, Shaggy featuring Rick Rock. If I don't know one time, everybody go! I'm a baby and she called me red-headed Creepy with the girl, let's go Bitches, we were both got bacon gum on the back of the car How could I forget that I had given her a stroke? All this time she was standing there She never took her eyes off me But you caught me on the counter Saw me kissing on the sofa I even had her in the shower She even got me on camera Saw the marks on my shoulder She heard the words that I told her And I heard this song. It's one of your favorite songs. You, the original banger. You dig that? You dig that? But if you get caught, this is what you gotta say. Listen. One time, everybody. You better tell a man you're sorry for the pain that I've caused. I've been listening. All this time It wasn't me",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 28.837,
+        "text": " Welcome, Shaggy featuring Rick Rock. If I don't know one time, everybody go! I'm a baby and she called me red-headed Creepy with the girl, let's go Bitches, we were both got bacon gum on the back of the car How could I forget that I had given her a stroke? All this time she was standing there She never took her eyes off me",
+        "avg_logprob": -0.24733230580643908
+      },
+      {
+        "id": 2,
+        "start": 49.964,
+        "end": 64.814,
+        "text": " But you caught me on the counter Saw me kissing on the sofa I even had her in the shower She even got me on camera Saw the marks on my shoulder She heard the words that I told her",
+        "avg_logprob": -0.10442073025354524
+      },
+      {
+        "id": 3,
+        "start": 96.185,
+        "end": 116.097,
+        "text": " And I heard this song. It's one of your favorite songs. You, the original banger. You dig that? You dig that? But if you get caught, this is what you gotta say. Listen. One time, everybody. You better tell a man you're sorry for the pain that I've caused. I've been listening.",
+        "avg_logprob": -0.20147447015198183
+      },
+      {
+        "id": 4,
+        "start": 122.763,
+        "end": 149.003,
+        "text": " All this time",
+        "avg_logprob": -0.9931640625
+      },
+      {
+        "id": 5,
+        "start": 153.256,
+        "end": 166.283,
+        "text": " It wasn't me",
+        "avg_logprob": -0.50703125
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "KJ_8tCd4mAw",
+    "uploader": "apple cider",
+    "audio_file": "corpus/01_music_videos_audio/audio/KJ_8tCd4mAw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5957762,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.09069,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:14:23Z"
+  },
+  "status": "success",
+  "error": null
+}

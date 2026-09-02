@@ -1,0 +1,84 @@
+{
+  "corpus_id": "diYAc7gB-0A",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/diYAc7gB-0A.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/diYAc7gB-0A.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/diYAc7gB-0A.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Freedom. Freedom. Freedom. Freedom. Freedom. Out of the place, we're back home freedom freedom freedom freedom freedom Everybody's got to sell. When you shake your ass, they know this fast. Some mistakes were built to last. Once you get What'd you get for changing your mind?",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 151.568,
+        "end": 167.414,
+        "text": " Freedom. Freedom. Freedom. Freedom. Freedom.",
+        "avg_logprob": -0.5085227164355192
+      },
+      {
+        "id": 2,
+        "start": 190.617,
+        "end": 192.727,
+        "text": " Out of the place, we're back home",
+        "avg_logprob": -0.5390624821186065
+      },
+      {
+        "id": 3,
+        "start": 253.325,
+        "end": 268.512,
+        "text": " freedom freedom freedom freedom freedom",
+        "avg_logprob": -1.0468750198682149
+      },
+      {
+        "id": 4,
+        "start": 292.93,
+        "end": 314.53,
+        "text": " Everybody's got to sell. When you shake your ass, they know this fast. Some mistakes were built to last. Once you get",
+        "avg_logprob": -0.38895090350082945
+      },
+      {
+        "id": 5,
+        "start": 320.875,
+        "end": 325.027,
+        "text": " What'd you get for changing your mind?",
+        "avg_logprob": -0.3945312470197678
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "diYAc7gB-0A",
+    "uploader": "George Michael",
+    "audio_file": "corpus/01_music_videos_audio/audio/diYAc7gB-0A.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 12791486,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.203983,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:22:05Z"
+  },
+  "status": "success",
+  "error": null
+}

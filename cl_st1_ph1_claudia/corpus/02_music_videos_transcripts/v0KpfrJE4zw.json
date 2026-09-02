@@ -1,0 +1,84 @@
+{
+  "corpus_id": "v0KpfrJE4zw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/v0KpfrJE4zw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/v0KpfrJE4zw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/v0KpfrJE4zw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "The way you parked your car sideways, it wouldn't last. It's the other kind of person who believes in making out once. Love them and leave them fast. I guess I must be dumb. She had a pocket full of horses, Trojan and some of her pews. But it was Saturday night. I guess that makes it all right. You say, what have I got to lose? And honey, I say, me. Guess I should have closed my eyes when you drove me to the place where your horses run free. Cause I felt a little ill when I saw all the pictures of the jockeys that were living for me. I wonder if I had enough class. But it was Saturday night. I guess that makes it all right. You say, baby, I ain't got enough gas. Oh, yeah. Let's get up there. Honey, you've got to slow it down",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 18.593,
+        "end": 48.344,
+        "text": " The way you parked your car sideways, it wouldn't last. It's the other kind of person who believes in making out once. Love them and leave them fast. I guess I must be dumb. She had a pocket full of horses, Trojan and some of her pews. But it was Saturday night. I guess that makes it all right. You say, what have I got to lose? And honey, I say, me.",
+        "avg_logprob": -0.18320741725491954
+      },
+      {
+        "id": 2,
+        "start": 63.582,
+        "end": 77.96,
+        "text": " Guess I should have closed my eyes when you drove me to the place where your horses run free. Cause I felt a little ill when I saw all the pictures of the jockeys that were living for me.",
+        "avg_logprob": -0.08203125270930203
+      },
+      {
+        "id": 3,
+        "start": 82.162,
+        "end": 95.442,
+        "text": " I wonder if I had enough class. But it was Saturday night. I guess that makes it all right. You say, baby, I ain't got enough gas. Oh, yeah.",
+        "avg_logprob": -0.16806890796392393
+      },
+      {
+        "id": 4,
+        "start": 126.847,
+        "end": 142.118,
+        "text": " Let's get up there.",
+        "avg_logprob": -1.0022321769169398
+      },
+      {
+        "id": 5,
+        "start": 158.318,
+        "end": 162.976,
+        "text": " Honey, you've got to slow it down",
+        "avg_logprob": -0.39921875596046447
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "v0KpfrJE4zw",
+    "uploader": "Prince",
+    "audio_file": "corpus/01_music_videos_audio/audio/v0KpfrJE4zw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6055100,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.106267,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:18:59Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,91 @@
+{
+  "corpus_id": "YhELpSeeipg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/YhELpSeeipg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/YhELpSeeipg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/YhELpSeeipg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Now to sort of slow the tempo down and introduce you to some real solid groove. Music that's sound as a rock. In fact, I'd like to present to you a man who wisened the world up about what the blues is all about. They call him Big Joe Turner, the daddy of the blues. And I'd like to set a tempo sort of like this for him to bring him on so I can give him to you. Hey, Joe. Hey, Big Joe Turner. Come on in. Get crazy, no? Down, dog boy. Let her rock a while. Crazy. Get out of that kitchen, baby. Wash your face and hands. Get out of that kitchen, baby. Wash your face and hands. Well, you picked my supper because I'm such a hungry mess. Well, you wear your hair, baby, looks so mellow. You look so mellow and fine I can't believe my eyes All that jive in mine I believe to my soul You will never win, I know I believe to my soul You will never win, I know Well, all our work, baby Fast as my money goes I've been shaking, rattling, rolling Crazy, way more Crazy stuff, yeah Well, all right Yeah, yeah, boy I'm like a wild-eyed cat, peeping in a seafood store. I'm like a wild-eyed cat, peeping in a seafood store. I can look at you, baby, there you ain't no child no more. Well, over there, waiting. Well, hurry up, baby, before I get too old.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 4.098,
+        "end": 33.275,
+        "text": " Now to sort of slow the tempo down and introduce you to some real solid groove. Music that's sound as a rock. In fact, I'd like to present to you a man who wisened the world up about what the blues is all about. They call him Big Joe Turner, the daddy of the blues. And I'd like to set a tempo sort of like this for him to bring him on so I can give him to you. Hey, Joe. Hey, Big Joe Turner. Come on in.",
+        "avg_logprob": -0.0642485153107416
+      },
+      {
+        "id": 2,
+        "start": 41.392,
+        "end": 69.742,
+        "text": " Get crazy, no? Down, dog boy. Let her rock a while. Crazy. Get out of that kitchen, baby. Wash your face and hands. Get out of that kitchen, baby. Wash your face and hands. Well, you picked my supper because I'm such a hungry mess. Well, you wear your hair, baby, looks so mellow.",
+        "avg_logprob": -0.16666667024294535
+      },
+      {
+        "id": 3,
+        "start": 73.37,
+        "end": 102.462,
+        "text": " You look so mellow and fine I can't believe my eyes All that jive in mine I believe to my soul You will never win, I know I believe to my soul You will never win, I know Well, all our work, baby Fast as my money goes I've been shaking, rattling, rolling",
+        "avg_logprob": -0.16516113351099193
+      },
+      {
+        "id": 4,
+        "start": 120.181,
+        "end": 135.014,
+        "text": " Crazy, way more Crazy stuff, yeah Well, all right Yeah, yeah, boy",
+        "avg_logprob": -0.5000000264909532
+      },
+      {
+        "id": 5,
+        "start": 158.656,
+        "end": 185.082,
+        "text": " I'm like a wild-eyed cat, peeping in a seafood store. I'm like a wild-eyed cat, peeping in a seafood store. I can look at you, baby, there you ain't no child no more. Well, over there, waiting.",
+        "avg_logprob": -0.15762062030926086
+      },
+      {
+        "id": 6,
+        "start": 195.072,
+        "end": 212.909,
+        "text": " Well, hurry up, baby, before I get too old.",
+        "avg_logprob": -0.35351563138621195
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "YhELpSeeipg",
+    "uploader": "Default Name",
+    "audio_file": "corpus/01_music_videos_audio/audio/YhELpSeeipg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7290772,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.302235,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:01:37Z"
+  },
+  "status": "success",
+  "error": null
+}

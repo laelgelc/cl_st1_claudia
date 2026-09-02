@@ -1,0 +1,70 @@
+{
+  "corpus_id": "waRbcqP4cUI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/waRbcqP4cUI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/waRbcqP4cUI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/waRbcqP4cUI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "walks down the street That's the way he shuffles his feet My, he holds his head up high when he goes walking by He's my guy He holds my hand down so proud Cause he's not just one of a crowd My baby, always the one to try the thing they've never done And just because of that they say never be any good. He's a rebel cause he never ever does what he should do just because he doesn't do what everybody else does. There's no reason why I can't give him all my love. He is always good to me, always treats me tenderly cause he's my rebel all I know. If they don't like him that way, they won't like me after today And I'll be standing right by his side when they say He's a rebel and he'll never ever be any good He's a rebel cause he never ever does what he should do Just because he doesn't do what everybody else does That's no reason why we can't share a love He is always good to me, good to him I try to be cause he",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 16.805,
+        "end": 45.982,
+        "text": " walks down the street That's the way he shuffles his feet My, he holds his head up high when he goes walking by He's my guy He holds my hand down so proud Cause he's not just one of a crowd My baby, always the one to try the thing they've never done And just because of that they say",
+        "avg_logprob": -0.12341485161712204
+      },
+      {
+        "id": 2,
+        "start": 49.61,
+        "end": 69.826,
+        "text": " never be any good. He's a rebel cause he never ever does what he should do just because he doesn't do what everybody else does. There's no reason why I can't give him all my love. He is always good to me, always treats me tenderly cause he's my rebel all I know.",
+        "avg_logprob": -0.1657451923076923
+      },
+      {
+        "id": 3,
+        "start": 92.455,
+        "end": 121.717,
+        "text": " If they don't like him that way, they won't like me after today And I'll be standing right by his side when they say He's a rebel and he'll never ever be any good He's a rebel cause he never ever does what he should do Just because he doesn't do what everybody else does That's no reason why we can't share a love He is always good to me, good to him I try to be cause he",
+        "avg_logprob": -0.08503605458107623
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "waRbcqP4cUI",
+    "uploader": "Smurfstools Oldies Music Time Machine",
+    "audio_file": "corpus/01_music_videos_audio/audio/waRbcqP4cUI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4999984,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 38.294515,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:58:50Z"
+  },
+  "status": "success",
+  "error": null
+}

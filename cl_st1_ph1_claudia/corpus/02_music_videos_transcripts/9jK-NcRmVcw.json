@@ -1,0 +1,70 @@
+{
+  "corpus_id": "9jK-NcRmVcw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/9jK-NcRmVcw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/9jK-NcRmVcw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/9jK-NcRmVcw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Please look at that. But still it's farewell And maybe we'll come back To earth, look and tell I guess there is no one to blame We're leaving ground Will things ever be the same again? And still we stand",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 29.292,
+        "end": 42.286,
+        "text": " Please look at that.",
+        "avg_logprob": -1.23046875
+      },
+      {
+        "id": 2,
+        "start": 91.628,
+        "end": 118.409,
+        "text": " But still it's farewell And maybe we'll come back To earth, look and tell I guess there is no one to blame We're leaving ground Will things ever be the same again?",
+        "avg_logprob": -0.11502878642395924
+      },
+      {
+        "id": 3,
+        "start": 138.676,
+        "end": 141.511,
+        "text": " And still we stand",
+        "avg_logprob": -0.93046875
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "9jK-NcRmVcw",
+    "uploader": "Europe",
+    "audio_file": "corpus/01_music_videos_audio/audio/9jK-NcRmVcw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9478278,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.174505,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:53:13Z"
+  },
+  "status": "success",
+  "error": null
+}

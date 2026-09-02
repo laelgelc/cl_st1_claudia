@@ -1,0 +1,98 @@
+{
+  "corpus_id": "knWnMKKEt88",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/knWnMKKEt88.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/knWnMKKEt88.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/knWnMKKEt88.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Rack, Rack City Bitch Rack, Rack City Bitch Rack, Rack, Rack City Bitch Rack, Rack, Rack City Bitch Rack, Rack City Bitch Rack, Rack, Rack City Bitch 10, 10, 10, 20s on your titties, bitch 100 deep, VIP, no guest list T.T. Raw, you don't know who you fuckin' with Got my other bitch, fuckin' with my other bitch Fuckin' all night, nigga, we ain't sell a bit Niggas say I'm too dope, I ain't sellin' it Bar fresher than a motherfuckin' peppermint Got gold letter, man, slash king killin' shit Young money, young money, yeah, we gettin' rich Get your grandma on my dick girl you know what it is rack city bitch rack rack city bitch rack city bitch rack rack city bitch rack city bitch rack rack city bitch 10 10 10 20s in the 50s bitch rack city bitch rack rack city bitch rack city bitch rack rack city bitch rack city bitch rack rack city bitch 10 10 10 20s in the 50s bitch i'm a motherfucking star look at the paint on the car too much rim make the ride too hard tell that bitch hop out walk the boulevard I need my money pronto Get it in the morning like Alonzo Ronda, green, got cheese like a nacho If you ain't got no ass, bitch, wear a poncho Head honcho, got my seat back Nigga staring at me, don't get bapped Got my shirt off, the club too packed It's two turn, going up like gas Goddamn, pull out my rags Mike, Mike Jackson, nigga, yeah, I'm bad Rat-tat-tat-tat, tatted up in my bag All the hoes love me, you know what it is Rack City bitch, Rack, Rack City bitch Rack City bitch, Rack, Rack City bitch Rack City bitch, Rack, Rack City bitch 10, 10, 10, 20s and the 50s bitch Rack City bitch, Rack, Rack City bitch Rack City bitch, Rack, Rack City bitch Rack City bitch, Rack, Rack City bitch 10, 10, 10, 20s and the 50s bitch Don't hunt it, hunt it Hunt it, hunt it Don't hunt it, hunt it Rack City, bitch. Rack, Rack City, bitch. Hunnits, Hunnits. Goin' Hunnits, Hunnits. Hunnits, Hunnits. Rack City, bitch. Rack, Rack City, bitch.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 19.572,
+        "text": " Rack, Rack City Bitch Rack, Rack City Bitch Rack, Rack, Rack City Bitch Rack, Rack, Rack City Bitch Rack, Rack City Bitch Rack, Rack, Rack City Bitch 10, 10, 10, 20s on your titties, bitch 100 deep, VIP, no guest list T.T. Raw, you don't know who you fuckin' with",
+        "avg_logprob": -0.2514045050974642
+      },
+      {
+        "id": 2,
+        "start": 19.572,
+        "end": 36.498,
+        "text": " Got my other bitch, fuckin' with my other bitch Fuckin' all night, nigga, we ain't sell a bit Niggas say I'm too dope, I ain't sellin' it Bar fresher than a motherfuckin' peppermint Got gold letter, man, slash king killin' shit Young money, young money, yeah, we gettin' rich Get your grandma on my dick",
+        "avg_logprob": -0.12686011869282948
+      },
+      {
+        "id": 3,
+        "start": 36.498,
+        "end": 64.308,
+        "text": " girl you know what it is rack city bitch rack rack city bitch rack city bitch rack rack city bitch rack city bitch rack rack city bitch 10 10 10 20s in the 50s bitch rack city bitch rack rack city bitch rack city bitch rack rack city bitch rack city bitch rack rack city bitch 10 10 10 20s in the 50s bitch i'm a motherfucking star look at the paint on the car too much rim make the",
+        "avg_logprob": -0.10326867953114126
+      },
+      {
+        "id": 4,
+        "start": 64.308,
+        "end": 68.24,
+        "text": " ride too hard tell that bitch hop out walk the boulevard",
+        "avg_logprob": -0.19405691964285715
+      },
+      {
+        "id": 5,
+        "start": 69.033,
+        "end": 94.48,
+        "text": " I need my money pronto Get it in the morning like Alonzo Ronda, green, got cheese like a nacho If you ain't got no ass, bitch, wear a poncho Head honcho, got my seat back Nigga staring at me, don't get bapped Got my shirt off, the club too packed It's two turn, going up like gas Goddamn, pull out my rags Mike, Mike Jackson, nigga, yeah, I'm bad Rat-tat-tat-tat, tatted up in my bag",
+        "avg_logprob": -0.09931024533134324
+      },
+      {
+        "id": 6,
+        "start": 94.48,
+        "end": 123.725,
+        "text": " All the hoes love me, you know what it is Rack City bitch, Rack, Rack City bitch Rack City bitch, Rack, Rack City bitch Rack City bitch, Rack, Rack City bitch 10, 10, 10, 20s and the 50s bitch Rack City bitch, Rack, Rack City bitch Rack City bitch, Rack, Rack City bitch Rack City bitch, Rack, Rack City bitch 10, 10, 10, 20s and the 50s bitch Don't hunt it, hunt it Hunt it, hunt it Don't hunt it, hunt it",
+        "avg_logprob": -0.10198317365004467
+      },
+      {
+        "id": 7,
+        "start": 123.725,
+        "end": 149.138,
+        "text": " Rack City, bitch. Rack, Rack City, bitch. Hunnits, Hunnits. Goin' Hunnits, Hunnits. Hunnits, Hunnits. Rack City, bitch. Rack, Rack City, bitch.",
+        "avg_logprob": -0.10499730821827362
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "knWnMKKEt88",
+    "uploader": "DJ ill Will Alumni",
+    "audio_file": "corpus/01_music_videos_audio/audio/knWnMKKEt88.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4813482,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 31.083248,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:08:57Z"
+  },
+  "status": "success",
+  "error": null
+}

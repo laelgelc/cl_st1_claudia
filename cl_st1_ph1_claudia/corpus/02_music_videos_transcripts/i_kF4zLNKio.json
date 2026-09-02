@@ -1,0 +1,119 @@
+{
+  "corpus_id": "i_kF4zLNKio",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/i_kF4zLNKio.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/i_kF4zLNKio.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/i_kF4zLNKio.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Audio production. 1738 I'm like hey what's up hello Since you're pretty as soon as you came in the door I just wanna chill, got a sack for us to roll Married to the money, introduced her to my stove Showed her how to whip it, now she remixin' for low She my trap queen, let her hit the floor Bando, we be countin' up, watch our fartin' fans go We just had a go, talkin' matchin' Lambos A 56, 6 gram, 500 grams though Man, I swear I love it, I should work the damn pole Hit the strip club, we be lettin' fans go Everybody hatin', we just callin' fans though In love with the money, I ain't never like I'll be in the kitchen cookin' pies with my baby, yeah And I get robbed with my baby, yeah I just left the mall, I'm gettin' fly with my baby, yeah And I get robbed with my baby, yeah I'll be in the kitchen cookin' pies with my baby, yeah I have a stripper, my track quit Cause all we know is bands, I just might snatch a Ferrari And buy my boo a lamb, I just might snatch her a necklace Drop a couple on the rack, she ain't wantin' for nothin' because of me I'm out. I'll be in the kitchen cookin' paws with my baby, yeah And I get raw with my baby, baby I just left the mall, I'm gettin' flawed with my baby, yeah And I get raw with my baby, baby I'll be in the kitchen cookin' paws I'm like, hey, what's up, hello? Pretty as soon as you came in the door I just wanna chill, got a sack for us to roll Married to the money, introduced her to my stove Showed her how to whip it, now she remix it for low She my track queen, let her hit the bando Hit the strip club, we be lettin' bands go I ain't never let go I be smokin' dope and you know backwards what I roll Remy boy, fatty, eatin' shit up, that's for sure I run in your house, then I fuck your hoe Remy boys and nothing, Remy, Remy boys and nothing Yeah, you hear my boy Soundin' like a zillion bucks on the track I got whatever on my boy, whatever Put your money where your mouth is Money on the wood make the game go good. Money out of sight cause fights. Put up or shut up.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 10,
+    "segments": [
+      {
+        "id": 1,
+        "start": 6.477,
+        "end": 14.054,
+        "text": " Audio production.",
+        "avg_logprob": -0.2207031324505806
+      },
+      {
+        "id": 2,
+        "start": 17.581,
+        "end": 37.865,
+        "text": " 1738 I'm like hey what's up hello Since you're pretty as soon as you came in the door I just wanna chill, got a sack for us to roll Married to the money, introduced her to my stove Showed her how to whip it, now she remixin' for low She my trap queen, let her hit the floor",
+        "avg_logprob": -0.19300175594611907
+      },
+      {
+        "id": 3,
+        "start": 37.865,
+        "end": 60.983,
+        "text": " Bando, we be countin' up, watch our fartin' fans go We just had a go, talkin' matchin' Lambos A 56, 6 gram, 500 grams though Man, I swear I love it, I should work the damn pole Hit the strip club, we be lettin' fans go Everybody hatin', we just callin' fans though In love with the money, I ain't never like",
+        "avg_logprob": -0.22105823660438711
+      },
+      {
+        "id": 4,
+        "start": 69.893,
+        "end": 98.227,
+        "text": " I'll be in the kitchen cookin' pies with my baby, yeah And I get robbed with my baby, yeah I just left the mall, I'm gettin' fly with my baby, yeah And I get robbed with my baby, yeah I'll be in the kitchen cookin' pies with my baby, yeah I have a stripper, my track quit Cause all we know is bands, I just might snatch a Ferrari And buy my boo a lamb, I just might snatch her a necklace Drop a couple on the rack, she ain't wantin' for nothin' because of me",
+        "avg_logprob": -0.230338541790843
+      },
+      {
+        "id": 5,
+        "start": 100.235,
+        "end": 115.405,
+        "text": " I'm out.",
+        "avg_logprob": -1.30703125
+      },
+      {
+        "id": 6,
+        "start": 122.813,
+        "end": 140.127,
+        "text": " I'll be in the kitchen cookin' paws with my baby, yeah And I get raw with my baby, baby I just left the mall, I'm gettin' flawed with my baby, yeah And I get raw with my baby, baby I'll be in the kitchen cookin' paws I'm like, hey, what's up, hello?",
+        "avg_logprob": -0.1816406270696057
+      },
+      {
+        "id": 7,
+        "start": 140.127,
+        "end": 156.513,
+        "text": " Pretty as soon as you came in the door I just wanna chill, got a sack for us to roll Married to the money, introduced her to my stove Showed her how to whip it, now she remix it for low She my track queen, let her hit the bando",
+        "avg_logprob": -0.1442618596142736
+      },
+      {
+        "id": 8,
+        "start": 156.513,
+        "end": 171.937,
+        "text": " Hit the strip club, we be lettin' bands go",
+        "avg_logprob": -0.41346152929159313
+      },
+      {
+        "id": 9,
+        "start": 176.206,
+        "end": 204.472,
+        "text": " I ain't never let go I be smokin' dope and you know backwards what I roll Remy boy, fatty, eatin' shit up, that's for sure I run in your house, then I fuck your hoe Remy boys and nothing, Remy, Remy boys and nothing Yeah, you hear my boy Soundin' like a zillion bucks on the track I got whatever on my boy, whatever Put your money where your mouth is",
+        "avg_logprob": -0.15683803571167812
+      },
+      {
+        "id": 10,
+        "start": 205.282,
+        "end": 212.47,
+        "text": " Money on the wood make the game go good. Money out of sight cause fights. Put up or shut up.",
+        "avg_logprob": -0.15551758433381715
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "i_kF4zLNKio",
+    "uploader": "Harlem Fetty",
+    "audio_file": "corpus/01_music_videos_audio/audio/i_kF4zLNKio.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7819072,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.037984,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:20:19Z"
+  },
+  "status": "success",
+  "error": null
+}

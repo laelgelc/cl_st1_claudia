@@ -1,0 +1,98 @@
+{
+  "corpus_id": "a01QQZyl-_I",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/a01QQZyl-_I.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/a01QQZyl-_I.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/a01QQZyl-_I.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Bye. It's the terror of knowing what this world is about. Watching some good friends scream, let me out. Tomorrow gets even higher. As you won't be These are the days it never rains but it falls It's a terror of knowing what this world is about Watching some good friend screaming, let me out People on streets Turned away from it all like a blind man Sat on a fence but it don't work Keep coming up with love but it's all slashed and torn Why can't we give love? And love dares you to care for the people on the edge of the night And love dares you to change our way of caring This is our last dance This is our last dance This is ourselves Under pressure Under pressure",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 6.055,
+        "end": 10.645,
+        "text": " Bye.",
+        "avg_logprob": -1.0572916666666667
+      },
+      {
+        "id": 2,
+        "start": 45.762,
+        "end": 75.158,
+        "text": " It's the terror of knowing what this world is about. Watching some good friends scream, let me out. Tomorrow gets even higher. As you won't be",
+        "avg_logprob": -0.3562973484848485
+      },
+      {
+        "id": 3,
+        "start": 91.949,
+        "end": 120.333,
+        "text": " These are the days it never rains but it falls It's a terror of knowing what this world is about Watching some good friend screaming, let me out",
+        "avg_logprob": -0.15990423098687204
+      },
+      {
+        "id": 4,
+        "start": 124.906,
+        "end": 146.135,
+        "text": " People on streets Turned away from it all like a blind man Sat on a fence but it don't work Keep coming up with love but it's all slashed and torn",
+        "avg_logprob": -0.2983940889437993
+      },
+      {
+        "id": 5,
+        "start": 155.703,
+        "end": 172.274,
+        "text": " Why can't we give love?",
+        "avg_logprob": -0.6777343973517418
+      },
+      {
+        "id": 6,
+        "start": 186.601,
+        "end": 201.974,
+        "text": " And love dares you to care for the people on the edge of the night And love dares you to change our way of caring",
+        "avg_logprob": -0.1624098620735682
+      },
+      {
+        "id": 7,
+        "start": 205.67,
+        "end": 230.543,
+        "text": " This is our last dance This is our last dance This is ourselves Under pressure Under pressure",
+        "avg_logprob": -0.2664930423100789
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "a01QQZyl-_I",
+    "uploader": "Queen Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/a01QQZyl-_I.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8097712,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.235143,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:53:01Z"
+  },
+  "status": "success",
+  "error": null
+}

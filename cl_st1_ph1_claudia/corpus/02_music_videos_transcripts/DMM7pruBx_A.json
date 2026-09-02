@@ -1,0 +1,91 @@
+{
+  "corpus_id": "DMM7pruBx_A",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/DMM7pruBx_A.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/DMM7pruBx_A.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/DMM7pruBx_A.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Dude, they're totally looking at me. Joe, they're not looking at you. She looked over at me again. No, she didn't, Joe. She just waved at me. No, she didn't. Does Joe look obvious staring? Why do you think that, dude? Hey, guys. Got a new video treatment for you. Oh, awesome. Finally. Cool. I'm slipping into the lava And I'm drinking from your veranda Baby, you don't have to push it hard Like high heels, red dress All by yourself, gotta catch my breath I'm slipping into the lava And I'm trying to keep from going under Baby, it's time to tip with your heart I'm slipping into the lava And I'm trying to keep from going under Baby, who told me to put you harder? Cause I'm burning up, burning up with you, baby I'm slipping into the lava And I'm trying to keep from going under Baby, who told me to put you harder? I got a JB with me. Come on, boys. Bring the chorus along. Yeah. Come on, man. Burnin' up for you, baby Burnin' up Burnin' up for you, baby Wow. Sounds a little dangerous. I can't grow a mustache.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.533,
+        "end": 15.303,
+        "text": " Dude, they're totally looking at me. Joe, they're not looking at you. She looked over at me again. No, she didn't, Joe. She just waved at me. No, she didn't. Does Joe look obvious staring? Why do you think that, dude? Hey, guys. Got a new video treatment for you. Oh, awesome. Finally. Cool.",
+        "avg_logprob": -0.09596836419753087
+      },
+      {
+        "id": 2,
+        "start": 39.468,
+        "end": 51.567,
+        "text": " I'm slipping into the lava And I'm drinking from your veranda Baby, you don't have to push it hard",
+        "avg_logprob": -0.27703125
+      },
+      {
+        "id": 3,
+        "start": 72.897,
+        "end": 93.772,
+        "text": " Like high heels, red dress All by yourself, gotta catch my breath I'm slipping into the lava And I'm trying to keep from going under Baby, it's time to tip with your heart",
+        "avg_logprob": -0.17656250037252902
+      },
+      {
+        "id": 4,
+        "start": 116.772,
+        "end": 142.827,
+        "text": " I'm slipping into the lava And I'm trying to keep from going under Baby, who told me to put you harder? Cause I'm burning up, burning up with you, baby I'm slipping into the lava And I'm trying to keep from going under Baby, who told me to put you harder?",
+        "avg_logprob": -0.17745535288538253
+      },
+      {
+        "id": 5,
+        "start": 152.682,
+        "end": 179.767,
+        "text": " I got a JB with me. Come on, boys. Bring the chorus along. Yeah. Come on, man.",
+        "avg_logprob": -0.35750000953674316
+      },
+      {
+        "id": 6,
+        "start": 181.1,
+        "end": 195.477,
+        "text": " Burnin' up for you, baby Burnin' up Burnin' up for you, baby Wow. Sounds a little dangerous. I can't grow a mustache.",
+        "avg_logprob": -0.19341518027441842
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "DMM7pruBx_A",
+    "uploader": "4KD",
+    "audio_file": "corpus/01_music_videos_audio/audio/DMM7pruBx_A.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6386494,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 10.948947,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:10:50Z"
+  },
+  "status": "success",
+  "error": null
+}

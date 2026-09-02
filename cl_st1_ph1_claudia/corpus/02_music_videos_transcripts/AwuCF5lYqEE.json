@@ -1,0 +1,154 @@
+{
+  "corpus_id": "AwuCF5lYqEE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/AwuCF5lYqEE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/AwuCF5lYqEE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/AwuCF5lYqEE.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Ain't it just like the night to play tricks when you're trying to be so quiet? We sit here stranded, though we're all doing our best to deny it. And Louise holds her hand full of rain, tempting you to defy it. Lights flicker from the opposite loft. In this room, the heat pipes just cough. The country music station plays soft, but there's nothing, really nothing to turn off. Just Louise and her lover so entwined. These visions of Johanna That conquer my mind In the empty lot where the ladies play Blind man's bluff with the keychain The all-night girls They whisper of escapades Out on the D-Train We can hear the night watchman Click his flashlight Ask himself if it's him or them It's insane Louise, she's alright She's just near She's delicate And seems like the mirror But she just makes it all too concise and too clear that Johanna's not here. The ghost electricity howls in the bones of her face. Where these visions of Johanna have not taken. in my place little boy lost he takes himself so seriously he brags of his misery he likes to live dangerously And when bringing her name up He speaks of a farewell kiss to me He sure got a lot of gall To be so useless and all Muttering small talk at the wall While I'm in the hall Can I explain? It's so hard to get on And these visions of Johanna They'd kept me up past the dawn Inside the museums, infinity goes up on trial. Voices echo, this is what salvation must be like after a while. But Mona Lisa must have had the highway blues, you can tell by the way she smiled. See the primitive wallflower freeze When the jelly-faced women all sneeze Hear the one with the mustache say Geez, I can't find my knees Oh, jewels and binoculars Hang from the head of the muse But these visions of Johanna They make it all seem so cruel The peddler now speaks To the countess who's pretending to care for him They need me someone that's not a parasite And I'll go out and say a prayer for him But like Louise always says You can't look at much can you man If she herself prepares for him And Madonna she still has not showed We see this empty cage now corrode Where her cape of the stage once had flowed The fiddler he now steps to the road He writes everything's been returned which was old On the back of the fish truck that loads While my conscience explodes And these visions of Johanna are now all that remain. Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 15,
+    "segments": [
+      {
+        "id": 1,
+        "start": 13.143,
+        "end": 40.885,
+        "text": " Ain't it just like the night to play tricks when you're trying to be so quiet? We sit here stranded, though we're all doing our best to deny it. And Louise holds her hand full of rain, tempting you to defy it.",
+        "avg_logprob": -0.09600360233050126
+      },
+      {
+        "id": 2,
+        "start": 44.362,
+        "end": 71.885,
+        "text": " Lights flicker from the opposite loft. In this room, the heat pipes just cough. The country music station plays soft, but there's nothing, really nothing to turn off. Just Louise and her lover so entwined.",
+        "avg_logprob": -0.0886801855361208
+      },
+      {
+        "id": 3,
+        "start": 75.833,
+        "end": 103.508,
+        "text": " These visions of Johanna That conquer my mind In the empty lot where the ladies play Blind man's bluff with the keychain",
+        "avg_logprob": -0.13589242903085855
+      },
+      {
+        "id": 4,
+        "start": 107.187,
+        "end": 136.837,
+        "text": " The all-night girls They whisper of escapades Out on the D-Train We can hear the night watchman Click his flashlight Ask himself if it's him or them It's insane Louise, she's alright She's just near She's delicate And seems like the mirror",
+        "avg_logprob": -0.15076753967686704
+      },
+      {
+        "id": 5,
+        "start": 137.9,
+        "end": 165.44,
+        "text": " But she just makes it all too concise and too clear that Johanna's not here. The ghost electricity howls in the bones of her face. Where these visions of Johanna have not taken.",
+        "avg_logprob": -0.13205031069313608
+      },
+      {
+        "id": 6,
+        "start": 166.013,
+        "end": 195.848,
+        "text": " in my place little boy lost he takes himself so seriously he brags of his misery he likes to live dangerously",
+        "avg_logprob": -0.15738932912548384
+      },
+      {
+        "id": 7,
+        "start": 199.578,
+        "end": 227.641,
+        "text": " And when bringing her name up He speaks of a farewell kiss to me He sure got a lot of gall To be so useless and all Muttering small talk at the wall While I'm in the hall",
+        "avg_logprob": -0.10584984610720378
+      },
+      {
+        "id": 8,
+        "start": 231.37,
+        "end": 250.034,
+        "text": " Can I explain? It's so hard to get on And these visions of Johanna They'd kept me up past the dawn",
+        "avg_logprob": -0.1832932663651613
+      },
+      {
+        "id": 9,
+        "start": 260.547,
+        "end": 287.699,
+        "text": " Inside the museums, infinity goes up on trial. Voices echo, this is what salvation must be like after a while. But Mona Lisa must have had the highway blues, you can tell by the way she smiled.",
+        "avg_logprob": -0.0776041673289405
+      },
+      {
+        "id": 10,
+        "start": 291.58,
+        "end": 317.737,
+        "text": " See the primitive wallflower freeze When the jelly-faced women all sneeze Hear the one with the mustache say Geez, I can't find my knees Oh, jewels and binoculars Hang from the head of the muse",
+        "avg_logprob": -0.13272371752695603
+      },
+      {
+        "id": 11,
+        "start": 322.293,
+        "end": 349.664,
+        "text": " But these visions of Johanna They make it all seem so cruel The peddler now speaks To the countess who's pretending to care for him",
+        "avg_logprob": -0.11838457997768156
+      },
+      {
+        "id": 12,
+        "start": 352.887,
+        "end": 381.912,
+        "text": " They need me someone that's not a parasite And I'll go out and say a prayer for him But like Louise always says You can't look at much can you man If she herself prepares for him And Madonna she still has not showed We see this empty cage now corrode",
+        "avg_logprob": -0.08914620815111059
+      },
+      {
+        "id": 13,
+        "start": 383.33,
+        "end": 405.233,
+        "text": " Where her cape of the stage once had flowed The fiddler he now steps to the road He writes everything's been returned which was old On the back of the fish truck that loads While my conscience explodes",
+        "avg_logprob": -0.1069222380255544
+      },
+      {
+        "id": 14,
+        "start": 409.233,
+        "end": 427.07,
+        "text": " And these visions of Johanna are now all that remain.",
+        "avg_logprob": -0.26036659570840687
+      },
+      {
+        "id": 15,
+        "start": 443.101,
+        "end": 446.358,
+        "text": " Thank you.",
+        "avg_logprob": -0.6362304836511612
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "AwuCF5lYqEE",
+    "uploader": "Bob Dylan",
+    "audio_file": "corpus/01_music_videos_audio/audio/AwuCF5lYqEE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 14487100,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 37.004927,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:53:32Z"
+  },
+  "status": "success",
+  "error": null
+}

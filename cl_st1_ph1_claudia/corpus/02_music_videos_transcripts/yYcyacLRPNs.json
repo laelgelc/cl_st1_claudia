@@ -1,0 +1,140 @@
+{
+  "corpus_id": "yYcyacLRPNs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yYcyacLRPNs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/yYcyacLRPNs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/yYcyacLRPNs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "They're fighting crime the hard way. And on your right is Hollywood Boulevard. Blue jean baby L.A. lady Seamstress for the band Pretty eyes Pirate smile You marry a music man Ballerina must have seen her dancing in the sand. Now she's in me, always with me, tiny dancer in my hand. Jesus freaks Out in the street Handing tickets out for gone Turning back She just laughs The boulevard is not that bad Piano man He makes a stand in their auditorium Looking on, she sings the songs The words she knows, June she hung Oh, how I feel so real, lying here with no one near Only you, and you can hear me When I say softly, slowly Hold me closer, tiny dancer She's so bland, yeah You had a busy day today Hold me closer, tiny dancer Count the headlights on the highway Lay me down and she's so bland, yeah It's a day, it's a day Blue jean baby L.A. lady Seems to swore to man Pretty eyes Pirate's mind You marry a music man Ballerina You must have seen her Dancing in the sand She's in me Always with me Tiny dancer in my head Oh, how it feels so real, lying here with no one near Only you, and you can hear me When I say softly, slowly Hold me closer, tiny dancer Lay me down in sheets of linen. You had a busy day today. Hold me closer, tiny dancer. Lay me down in sheets of linen",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 13,
+    "segments": [
+      {
+        "id": 1,
+        "start": 8.603,
+        "end": 23.96,
+        "text": " They're fighting crime the hard way. And on your right is Hollywood Boulevard.",
+        "avg_logprob": -0.2645399189657635
+      },
+      {
+        "id": 2,
+        "start": 42.067,
+        "end": 70.4,
+        "text": " Blue jean baby L.A. lady Seamstress for the band Pretty eyes Pirate smile You marry a music man Ballerina",
+        "avg_logprob": -0.14153645435969034
+      },
+      {
+        "id": 3,
+        "start": 71.48,
+        "end": 91.966,
+        "text": " must have seen her dancing in the sand. Now she's in me, always with me, tiny dancer in my hand.",
+        "avg_logprob": -0.17998797389177176
+      },
+      {
+        "id": 4,
+        "start": 101.551,
+        "end": 130.846,
+        "text": " Jesus freaks Out in the street Handing tickets out for gone Turning back She just laughs The boulevard is not that bad Piano man",
+        "avg_logprob": -0.13802083084980646
+      },
+      {
+        "id": 5,
+        "start": 131.335,
+        "end": 151.653,
+        "text": " He makes a stand in their auditorium Looking on, she sings the songs The words she knows, June she hung",
+        "avg_logprob": -0.22753906001647314
+      },
+      {
+        "id": 6,
+        "start": 160.867,
+        "end": 185.774,
+        "text": " Oh, how I feel so real, lying here with no one near Only you, and you can hear me When I say softly, slowly Hold me closer, tiny dancer",
+        "avg_logprob": -0.1648437534059797
+      },
+      {
+        "id": 7,
+        "start": 196.591,
+        "end": 225.008,
+        "text": " She's so bland, yeah You had a busy day today Hold me closer, tiny dancer Count the headlights on the highway Lay me down and she's so bland, yeah",
+        "avg_logprob": -0.16316964285714286
+      },
+      {
+        "id": 8,
+        "start": 228.974,
+        "end": 257.442,
+        "text": " It's a day, it's a day Blue jean baby L.A. lady",
+        "avg_logprob": -0.46957235587270635
+      },
+      {
+        "id": 9,
+        "start": 258.286,
+        "end": 288.02,
+        "text": " Seems to swore to man Pretty eyes Pirate's mind You marry a music man Ballerina You must have seen her Dancing in the sand",
+        "avg_logprob": -0.15442708830038707
+      },
+      {
+        "id": 10,
+        "start": 291.412,
+        "end": 301.621,
+        "text": " She's in me Always with me Tiny dancer in my head",
+        "avg_logprob": -0.3960336630160992
+      },
+      {
+        "id": 11,
+        "start": 311.358,
+        "end": 334.932,
+        "text": " Oh, how it feels so real, lying here with no one near Only you, and you can hear me When I say softly, slowly Hold me closer, tiny dancer",
+        "avg_logprob": -0.2020089294229235
+      },
+      {
+        "id": 12,
+        "start": 343.319,
+        "end": 360.97,
+        "text": " Lay me down in sheets of linen. You had a busy day today. Hold me closer, tiny dancer.",
+        "avg_logprob": -0.3220108617906985
+      },
+      {
+        "id": 13,
+        "start": 370.117,
+        "end": 373.542,
+        "text": " Lay me down in sheets of linen",
+        "avg_logprob": -0.27001953125
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "yYcyacLRPNs",
+    "uploader": "Elton John",
+    "audio_file": "corpus/01_music_videos_audio/audio/yYcyacLRPNs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 13010684,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.752722,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:03:05Z"
+  },
+  "status": "success",
+  "error": null
+}

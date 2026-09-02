@@ -1,0 +1,98 @@
+{
+  "corpus_id": "hUcwNwMKAWs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hUcwNwMKAWs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hUcwNwMKAWs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hUcwNwMKAWs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Standing on the corner. Suitcase in my hand. Jackets in his coat, said Jane is in her vest. And me, I'm in a rock and roll band. Huh. Riding in a studs back at gym. You know, those were different times. All the poets, they studied rules of verse. And those ladies, they rolled their eyes. C.J.! C.J.! C.J.! I tell you something, Jack, he is a banker. The radio does play. The classical music, their jam. The march of the wounded soldiers. All you protest kids, you can hear Jack say, get rid of here. T.J. Come on, baby. T.J. T.J. They like to go out dancing And other people say have to work Just watch me now And there's even some evil mothers Well they're gonna tell you that everything is just dirt You know that women never really faint And that villains always blink their eyes And that, you know, children are the only ones who blush. And that life is just a time. Anyone with a heart. Oh, anyone with a heart. Wine and roses seem to whisper to her when she smiles. Heavenly wine and roses seem to whisper to her head when she smiles. See you again. See you again.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 16.501,
+        "end": 43.383,
+        "text": " Standing on the corner. Suitcase in my hand. Jackets in his coat, said Jane is in her vest. And me, I'm in a rock and roll band. Huh. Riding in a studs back at gym. You know, those were different times.",
+        "avg_logprob": -0.20819627192982457
+      },
+      {
+        "id": 2,
+        "start": 45.172,
+        "end": 70.45,
+        "text": " All the poets, they studied rules of verse. And those ladies, they rolled their eyes. C.J.! C.J.! C.J.! I tell you something, Jack, he is a banker.",
+        "avg_logprob": -0.19664229230677827
+      },
+      {
+        "id": 3,
+        "start": 90.869,
+        "end": 115.287,
+        "text": " The radio does play. The classical music, their jam. The march of the wounded soldiers. All you protest kids, you can hear Jack say, get rid of here. T.J. Come on, baby. T.J. T.J.",
+        "avg_logprob": -0.17246462264150944
+      },
+      {
+        "id": 4,
+        "start": 120.265,
+        "end": 143.823,
+        "text": " They like to go out dancing And other people say have to work Just watch me now And there's even some evil mothers Well they're gonna tell you that everything is just dirt You know that women never really faint And that villains always blink their eyes",
+        "avg_logprob": -0.15820312440395357
+      },
+      {
+        "id": 5,
+        "start": 145.595,
+        "end": 160.647,
+        "text": " And that, you know, children are the only ones who blush. And that life is just a time. Anyone with a heart. Oh, anyone with a heart.",
+        "avg_logprob": -0.2263392916747502
+      },
+      {
+        "id": 6,
+        "start": 188.305,
+        "end": 208.268,
+        "text": " Wine and roses seem to whisper to her when she smiles. Heavenly wine and roses seem to whisper to her head when she smiles.",
+        "avg_logprob": -0.16767939925193787
+      },
+      {
+        "id": 7,
+        "start": 237.26,
+        "end": 240.719,
+        "text": " See you again. See you again.",
+        "avg_logprob": -0.4652777777777778
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "hUcwNwMKAWs",
+    "uploader": "The Velvet Underground",
+    "audio_file": "corpus/01_music_videos_audio/audio/hUcwNwMKAWs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7882232,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.328781,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:59Z"
+  },
+  "status": "success",
+  "error": null
+}

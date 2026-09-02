@@ -1,0 +1,70 @@
+{
+  "corpus_id": "6YNZlXfW6Ho",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/6YNZlXfW6Ho.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/6YNZlXfW6Ho.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/6YNZlXfW6Ho.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Feelings, so deep in my feelings. Notice they really like me. Can't control my anxiety. Feeling like I'm touching the ceiling. When I'm with you, I can't breathe. Boy, you do something to me. up boot up boot up grab me by the waves baby pull me Be-de-da-do, boot up, and my heart go badoo Boot up, be-de-da-do, it just won't stop, it go bado Boot up, be-de-da-do, boot up, and my heart go bado Boot up, be-de-da-do, it just won't stop, it go",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 12.164,
+        "end": 34.692,
+        "text": " Feelings, so deep in my feelings. Notice they really like me. Can't control my anxiety. Feeling like I'm touching the ceiling. When I'm with you, I can't breathe. Boy, you do something to me.",
+        "avg_logprob": -0.0996492322610349
+      },
+      {
+        "id": 2,
+        "start": 165.203,
+        "end": 175.126,
+        "text": " up boot up boot up grab me by the waves baby pull me",
+        "avg_logprob": -0.5281808120863778
+      },
+      {
+        "id": 3,
+        "start": 202.109,
+        "end": 223.405,
+        "text": " Be-de-da-do, boot up, and my heart go badoo Boot up, be-de-da-do, it just won't stop, it go bado Boot up, be-de-da-do, boot up, and my heart go bado Boot up, be-de-da-do, it just won't stop, it go",
+        "avg_logprob": -0.19392800557462475
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "6YNZlXfW6Ho",
+    "uploader": "Ella Mai",
+    "audio_file": "corpus/01_music_videos_audio/audio/6YNZlXfW6Ho.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7737338,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.786068,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:07:43Z"
+  },
+  "status": "success",
+  "error": null
+}

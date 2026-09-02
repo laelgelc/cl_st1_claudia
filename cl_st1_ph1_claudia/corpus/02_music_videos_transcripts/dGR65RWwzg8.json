@@ -1,0 +1,98 @@
+{
+  "corpus_id": "dGR65RWwzg8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/dGR65RWwzg8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/dGR65RWwzg8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/dGR65RWwzg8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I'm standing on the bridge I'm waiting in the dark I thought that you'd be here by now There's nothing but the rain No footsteps on the ground I'm listening but there's no sound Isn't anyone trying to find me? Won't somebody come take me home It's that damn cold night Trying to figure out this life Won't you take me by the hand Take me somewhere new I don't know I'm looking for a place I'm searching for a face Is anybody here? I know Cause nothing's going right And everything's a mess And no one likes to be alone Isn't anyone trying to find me? Won't somebody come take me home? It's a tale I don't know. Everything's so confusing Maybe I'm just out of my mind Trying to figure out this life Won't you take me by the hand Take me somewhere new I don't know who you are But I, I'm with you I'm with you Take me by the hand, take me somewhere new I'm with you",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 18.88,
+        "end": 42.252,
+        "text": " I'm standing on the bridge I'm waiting in the dark I thought that you'd be here by now There's nothing but the rain No footsteps on the ground I'm listening but there's no sound Isn't anyone trying to find me?",
+        "avg_logprob": -0.050781248783578675
+      },
+      {
+        "id": 2,
+        "start": 42.725,
+        "end": 62.3,
+        "text": " Won't somebody come take me home It's that damn cold night Trying to figure out this life Won't you take me by the hand Take me somewhere new I don't know",
+        "avg_logprob": -0.149305553899871
+      },
+      {
+        "id": 3,
+        "start": 75.698,
+        "end": 104.69,
+        "text": " I'm looking for a place I'm searching for a face Is anybody here? I know Cause nothing's going right And everything's a mess And no one likes to be alone Isn't anyone trying to find me? Won't somebody come take me home? It's a tale",
+        "avg_logprob": -0.098772322359894
+      },
+      {
+        "id": 4,
+        "start": 106.411,
+        "end": 118.578,
+        "text": " I don't know.",
+        "avg_logprob": -0.7187500099341074
+      },
+      {
+        "id": 5,
+        "start": 133.462,
+        "end": 140.009,
+        "text": " Everything's so confusing Maybe I'm just out of my mind",
+        "avg_logprob": -0.08909255036940941
+      },
+      {
+        "id": 6,
+        "start": 154.117,
+        "end": 182.652,
+        "text": " Trying to figure out this life Won't you take me by the hand Take me somewhere new I don't know who you are But I, I'm with you I'm with you Take me by the hand, take me somewhere new",
+        "avg_logprob": -0.11170213019594233
+      },
+      {
+        "id": 7,
+        "start": 217.246,
+        "end": 220.385,
+        "text": " I'm with you",
+        "avg_logprob": -0.11630859375
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "dGR65RWwzg8",
+    "uploader": "Avril Lavigne",
+    "audio_file": "corpus/01_music_videos_audio/audio/dGR65RWwzg8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7190462,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.951746,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:05:36Z"
+  },
+  "status": "success",
+  "error": null
+}

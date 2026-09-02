@@ -1,0 +1,77 @@
+{
+  "corpus_id": "WGU_4-5RaxU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/WGU_4-5RaxU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/WGU_4-5RaxU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/WGU_4-5RaxU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "What's that love? And it was a gas Soon turned out, had a heart of glass Seemed like the real thing, long and too far Motion mistrust, love's gone behind Won't you mistrust what's gone behind? In between, what I find is pleasing and I'm feeling fine. Love is so confusing, there's no peace of mind. If I fear I'm losing you, it's just no good. You're cheesy like a dip. I'm lost to blueish light Much of me says love's gone behind Ooh, ooh, ooh, ooh Ooh, ooh, ooh, ooh Ooh, ooh, ooh, ooh Ooh, ooh, ooh, ooh",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 12.451,
+        "end": 38.084,
+        "text": " What's that love? And it was a gas Soon turned out, had a heart of glass Seemed like the real thing, long and too far Motion mistrust, love's gone behind",
+        "avg_logprob": -0.33133014196004623
+      },
+      {
+        "id": 2,
+        "start": 51.888,
+        "end": 74.568,
+        "text": " Won't you mistrust what's gone behind? In between, what I find is pleasing and I'm feeling fine. Love is so confusing, there's no peace of mind. If I fear I'm losing you, it's just no good. You're cheesy like a dip.",
+        "avg_logprob": -0.11664870856650944
+      },
+      {
+        "id": 3,
+        "start": 149.037,
+        "end": 151.585,
+        "text": " I'm lost to blueish light",
+        "avg_logprob": -0.87158203125
+      },
+      {
+        "id": 4,
+        "start": 179.615,
+        "end": 205.366,
+        "text": " Much of me says love's gone behind Ooh, ooh, ooh, ooh Ooh, ooh, ooh, ooh Ooh, ooh, ooh, ooh Ooh, ooh, ooh, ooh",
+        "avg_logprob": -0.23268580758893811
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "WGU_4-5RaxU",
+    "uploader": "BlondieMusicOfficial",
+    "audio_file": "corpus/01_music_videos_audio/audio/WGU_4-5RaxU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7119874,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.873101,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:21:47Z"
+  },
+  "status": "success",
+  "error": null
+}

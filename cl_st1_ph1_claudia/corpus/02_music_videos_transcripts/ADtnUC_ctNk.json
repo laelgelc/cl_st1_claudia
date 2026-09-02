@@ -1,0 +1,84 @@
+{
+  "corpus_id": "ADtnUC_ctNk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ADtnUC_ctNk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ADtnUC_ctNk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ADtnUC_ctNk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "She would never say where she came from Yesterday don't matter if it's gone While the sun is bright Or in the darkest night No one knows She comes and goes Goodbye, Ruby Tuesday Who could hang her name on you? When you change with every new day Still I'm gonna miss you Don't question why she needs to be so free She'll tell you it's the only way to be She just can't be chained To a life where nothing's gained And nothing's lost at such a cost There's no time to lose, I heard her say Catch your dreams before they slip away Dying all the time Lose your dreams and you will lose your mind In life unkind",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 3.389,
+        "end": 31.081,
+        "text": " She would never say where she came from Yesterday don't matter if it's gone While the sun is bright Or in the darkest night No one knows",
+        "avg_logprob": -0.0697916698952516
+      },
+      {
+        "id": 2,
+        "start": 33.41,
+        "end": 62.435,
+        "text": " She comes and goes Goodbye, Ruby Tuesday Who could hang her name on you? When you change with every new day Still I'm gonna miss you Don't question why she needs to be so free",
+        "avg_logprob": -0.1053710913285613
+      },
+      {
+        "id": 3,
+        "start": 65.607,
+        "end": 89.907,
+        "text": " She'll tell you it's the only way to be She just can't be chained To a life where nothing's gained And nothing's lost at such a cost",
+        "avg_logprob": -0.08231847711345729
+      },
+      {
+        "id": 4,
+        "start": 108.976,
+        "end": 138.811,
+        "text": " There's no time to lose, I heard her say Catch your dreams before they slip away Dying all the time Lose your dreams and you will lose your mind",
+        "avg_logprob": -0.03926355840966982
+      },
+      {
+        "id": 5,
+        "start": 141.224,
+        "end": 143.587,
+        "text": " In life unkind",
+        "avg_logprob": -0.1828125
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "ADtnUC_ctNk",
+    "uploader": "ABKCOVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/ADtnUC_ctNk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6397640,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.377823,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:57:50Z"
+  },
+  "status": "success",
+  "error": null
+}

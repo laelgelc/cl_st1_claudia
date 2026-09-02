@@ -1,0 +1,70 @@
+{
+  "corpus_id": "_dHK6hLNTAI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/_dHK6hLNTAI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/_dHK6hLNTAI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/_dHK6hLNTAI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Girl, you really got me going You got me so I don't know what I'm doing Yeah, you really got me now You got me so I can't sleep at night You really got me, you really got me, you really got me See, don't ever set me free, I always wanna be by your side Girl, you really got me now, you got me so I can sleep at night I always wanna be by your side",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 20.18,
+        "text": " Girl, you really got me going You got me so I don't know what I'm doing Yeah, you really got me now You got me so I can't sleep at night",
+        "avg_logprob": -0.06656461309742283
+      },
+      {
+        "id": 2,
+        "start": 33.494,
+        "end": 55.027,
+        "text": " You really got me, you really got me, you really got me See, don't ever set me free, I always wanna be by your side Girl, you really got me now, you got me so I can sleep at night",
+        "avg_logprob": -0.05623372318223119
+      },
+      {
+        "id": 3,
+        "start": 97.99,
+        "end": 99.475,
+        "text": " I always wanna be by your side",
+        "avg_logprob": -0.3779296800494194
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "_dHK6hLNTAI",
+    "uploader": "The Kinks",
+    "audio_file": "corpus/01_music_videos_audio/audio/_dHK6hLNTAI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4285182,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.649114,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:17:48Z"
+  },
+  "status": "success",
+  "error": null
+}

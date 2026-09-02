@@ -1,0 +1,63 @@
+{
+  "corpus_id": "LOZuxwVk7TU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/LOZuxwVk7TU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/LOZuxwVk7TU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/LOZuxwVk7TU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Baby can't you see? You're toxic",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 2,
+    "segments": [
+      {
+        "id": 1,
+        "start": 13.278,
+        "end": 16.045,
+        "text": " Baby can't you see?",
+        "avg_logprob": -0.3468192049435207
+      },
+      {
+        "id": 2,
+        "start": 140.228,
+        "end": 141.899,
+        "text": " You're toxic",
+        "avg_logprob": -0.6791992038488388
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "LOZuxwVk7TU",
+    "uploader": "Britney Spears",
+    "audio_file": "corpus/01_music_videos_audio/audio/LOZuxwVk7TU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6774360,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.521189,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:21:35Z"
+  },
+  "status": "success",
+  "error": null
+}

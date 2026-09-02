@@ -1,0 +1,63 @@
+{
+  "corpus_id": "rjlSiASsUIs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/rjlSiASsUIs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/rjlSiASsUIs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/rjlSiASsUIs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I know you'll be there to relieve me. The love you give to me will treat me. If you don't know the thing you're giving, oh, I can tell you, darling, that it's sexual healing. Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 2,
+    "segments": [
+      {
+        "id": 1,
+        "start": 91.173,
+        "end": 109.027,
+        "text": " I know you'll be there to relieve me. The love you give to me will treat me. If you don't know the thing you're giving, oh, I can tell you, darling, that it's sexual healing.",
+        "avg_logprob": -0.12716089854849147
+      },
+      {
+        "id": 2,
+        "start": 244.482,
+        "end": 245.427,
+        "text": " Thank you.",
+        "avg_logprob": -0.488525390625
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "rjlSiASsUIs",
+    "uploader": "Marvin Gaye",
+    "audio_file": "corpus/01_music_videos_audio/audio/rjlSiASsUIs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7853252,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.301588,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:04:37Z"
+  },
+  "status": "success",
+  "error": null
+}

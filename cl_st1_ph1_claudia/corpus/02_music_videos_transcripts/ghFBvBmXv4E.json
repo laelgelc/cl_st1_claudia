@@ -1,0 +1,77 @@
+{
+  "corpus_id": "ghFBvBmXv4E",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ghFBvBmXv4E.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ghFBvBmXv4E.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ghFBvBmXv4E.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I couldn't sleep at all that night. Just thinking of you. Maybe things weren't right. Well, I was tossing and turning, turning and turning, tossing and turning all night. I kicked the blankets on the floor. I tossed and turned all night. Jumped out of bed, turned on the light. I pulled down the sheet, went to the kitchen for a bite. ¶¶ ¶¶ I was a toss in the game.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.79,
+        "end": 24.483,
+        "text": " I couldn't sleep at all that night. Just thinking of you. Maybe things weren't right. Well, I was tossing and turning, turning and turning, tossing and turning all night. I kicked the blankets on the floor.",
+        "avg_logprob": -0.15784438775510204
+      },
+      {
+        "id": 2,
+        "start": 39.502,
+        "end": 49.559,
+        "text": " I tossed and turned all night. Jumped out of bed, turned on the light. I pulled down the sheet, went to the kitchen for a bite.",
+        "avg_logprob": -0.16785037878787878
+      },
+      {
+        "id": 3,
+        "start": 96.404,
+        "end": 113.532,
+        "text": " ¶¶ ¶¶",
+        "avg_logprob": -0.5815972222222222
+      },
+      {
+        "id": 4,
+        "start": 127.353,
+        "end": 135.925,
+        "text": " I was a toss in the game.",
+        "avg_logprob": -0.7456597222222222
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "ghFBvBmXv4E",
+    "uploader": "AK47bandit",
+    "audio_file": "corpus/01_music_videos_audio/audio/ghFBvBmXv4E.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4518496,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.220104,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:05:12Z"
+  },
+  "status": "success",
+  "error": null
+}

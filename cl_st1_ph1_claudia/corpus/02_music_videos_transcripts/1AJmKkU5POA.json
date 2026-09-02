@@ -1,0 +1,98 @@
+{
+  "corpus_id": "1AJmKkU5POA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/1AJmKkU5POA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/1AJmKkU5POA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/1AJmKkU5POA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I'm not surprised, not everything lasts I've broken my heart so many times I stopped keeping track Talk myself in, I'll talk myself out I get all worked up, then I let myself down I tried so very hard not to lose it I came up with a million excuses I thought I thought of every possibility And I know someday that it'll all turn out You'll make me work so we can work to work it out And I promise you, kid, that I'll get so much more than I get I just haven't met you yet I might have to wait, I'll never give up I guess it's half time and the other half's luck Wherever you are, whenever it's right You'll come out of nowhere and into my life And I know that we can be so amazing And baby, your love is gonna change me And now I can see every possibility Turn up, you make me work so we can work to work it out And I promise you kid, I get so much more than I get I just haven't met you yet They say all's fair in love and war But I won't need to fight it, forget it And I know that we can be so amazing And being in your life is gonna change me And now I can see every single possibility And someday I know it'll all turn out And I'll work to work it out I promise you, kid, I'll give more than I get, than I get, than I get, than I get Oh, you know it'll all turn out And you'll make me work so we can work to work it out And I promise you, kid, to give so much more than I get Yeah, I just haven't met you yet I just haven't met you yet Oh, I promise you can't They give so much more than I get I said love, love, love, love, love, love, love I just haven't met you yet Love, love, love, love, love, love, love I just haven't met you yet",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 8.232,
+        "end": 36.413,
+        "text": " I'm not surprised, not everything lasts I've broken my heart so many times I stopped keeping track Talk myself in, I'll talk myself out I get all worked up, then I let myself down I tried so very hard not to lose it",
+        "avg_logprob": -0.10960937201976777
+      },
+      {
+        "id": 2,
+        "start": 37.139,
+        "end": 64.207,
+        "text": " I came up with a million excuses I thought I thought of every possibility And I know someday that it'll all turn out You'll make me work so we can work to work it out And I promise you, kid, that I'll get so much more than I get I just haven't met you yet",
+        "avg_logprob": -0.07031250048068262
+      },
+      {
+        "id": 3,
+        "start": 72.425,
+        "end": 99.526,
+        "text": " I might have to wait, I'll never give up I guess it's half time and the other half's luck Wherever you are, whenever it's right You'll come out of nowhere and into my life And I know that we can be so amazing And baby, your love is gonna change me And now I can see every possibility",
+        "avg_logprob": -0.05582439454633798
+      },
+      {
+        "id": 4,
+        "start": 104.082,
+        "end": 131.099,
+        "text": " Turn up, you make me work so we can work to work it out And I promise you kid, I get so much more than I get I just haven't met you yet They say all's fair in love and war But I won't need to fight it, forget it",
+        "avg_logprob": -0.10834704156507526
+      },
+      {
+        "id": 5,
+        "start": 152.665,
+        "end": 176.864,
+        "text": " And I know that we can be so amazing And being in your life is gonna change me And now I can see every single possibility And someday I know it'll all turn out And I'll work to work it out",
+        "avg_logprob": -0.06778231398625807
+      },
+      {
+        "id": 6,
+        "start": 177.438,
+        "end": 203.307,
+        "text": " I promise you, kid, I'll give more than I get, than I get, than I get, than I get Oh, you know it'll all turn out And you'll make me work so we can work to work it out And I promise you, kid, to give so much more than I get Yeah, I just haven't met you yet",
+        "avg_logprob": -0.08524186643835617
+      },
+      {
+        "id": 7,
+        "start": 208.471,
+        "end": 236.433,
+        "text": " I just haven't met you yet Oh, I promise you can't They give so much more than I get I said love, love, love, love, love, love, love I just haven't met you yet Love, love, love, love, love, love, love I just haven't met you yet",
+        "avg_logprob": -0.15504807692307693
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "1AJmKkU5POA",
+    "uploader": "Michael Bublé",
+    "audio_file": "corpus/01_music_videos_audio/audio/1AJmKkU5POA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8091026,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 28.016923,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:54:55Z"
+  },
+  "status": "success",
+  "error": null
+}

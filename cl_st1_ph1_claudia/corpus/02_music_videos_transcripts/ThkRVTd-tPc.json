@@ -1,0 +1,84 @@
+{
+  "corpus_id": "ThkRVTd-tPc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ThkRVTd-tPc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ThkRVTd-tPc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ThkRVTd-tPc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You know you're a cute little heartbreaker, ha, Foxy, yeah And you know you're a sweet little lovemaker, ha, Foxy Now, I see you are down on the sea Oh, Foxy You make me wanna get up and scream Foxy Oh, baby, listen now I've made up my mind Baby, I'm tired of wasting all my precious time Oh, man. Oh, man. Foxy lady. Here I come. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Foxy Lady. Here I come baby. I'm coming to get you. Fits. Fits. Fits.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 19.927,
+        "end": 37.274,
+        "text": " You know you're a cute little heartbreaker, ha, Foxy, yeah And you know you're a sweet little lovemaker, ha, Foxy",
+        "avg_logprob": -0.2543945340439677
+      },
+      {
+        "id": 2,
+        "start": 67.497,
+        "end": 97.079,
+        "text": " Now, I see you are down on the sea Oh, Foxy You make me wanna get up and scream Foxy Oh, baby, listen now I've made up my mind Baby, I'm tired of wasting all my precious time",
+        "avg_logprob": -0.25065103732049465
+      },
+      {
+        "id": 3,
+        "start": 99.577,
+        "end": 128.264,
+        "text": " Oh, man. Oh, man. Foxy lady. Here I come. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes.",
+        "avg_logprob": -0.33816963604518346
+      },
+      {
+        "id": 4,
+        "start": 141.545,
+        "end": 148.261,
+        "text": " Foxy Lady. Here I come baby. I'm coming to get you.",
+        "avg_logprob": -0.23517922794117646
+      },
+      {
+        "id": 5,
+        "start": 172.612,
+        "end": 180.188,
+        "text": " Fits. Fits. Fits.",
+        "avg_logprob": -0.4984374761581421
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "ThkRVTd-tPc",
+    "uploader": "Jimi Hendrix",
+    "audio_file": "corpus/01_music_videos_audio/audio/ThkRVTd-tPc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6361232,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.548286,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:00:59Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,112 @@
+{
+  "corpus_id": "gUhRKVIjJtw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/gUhRKVIjJtw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/gUhRKVIjJtw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/gUhRKVIjJtw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Hello, welcome to the Bad Boy World Champion PGA Tour. I'm your host for the day, Mace Gumbel. With this last birdie right here, Puffy Woods win the champion from the three-time champion, Fuzzy Bad Feet. Silence, audience. I think his pants are a little too tight and he really has a wedgie. He's a stubborn. Who's hot, who's not, tell me who rock, who sell out in the stores, you tell me who flop, who cop the blue drop, who jewels got rocks, who's mostly goatee down, who's black, the same old pimp, mace, you know ain't nothing changed but my limp, can't stop till I see my name on a blimp, guarantee me it sells for the love of luck, you don't believe I'm all the world, nigga double up, we don't play around, it's a bet, lay it down, niggas didn't know me 91, bet they know me now, I'm the young Harlem nigga, With the Goldie sound Can't no hit me, niggas hold me down Cool to school me to the game, now I know my duty Stay humble, stay low, blow like Woody True pimp, niggas spend no dough on the booty Woo! Yes! Yeah! Hello, we're here with the winner, Puffy Woods. He has just won the Bad Boy World Tournament. How do you feel about winning this PGA Tournament? Oh, man, well, I was having some trouble on the 17th hole. But my man B.I. from up above came down, talked to me, told me to cool out, and I did it. I did it for B.I. I guess this means more money, more problems for you. Yeah, I guess so, more money. More problems. It's just the way it is. Hey, we're coming back to you, Billy. I got money much longer than yours, and a team much stronger than yours. Valet me, this a B.O. day. We don't play, mess around, but D.O.A. be on your way. Cause it ain't enough time here, ain't enough lime here for you to shine here. Dealing with many women, but treats, dimes fit. And I'm bigger than the city life down in Times Square. Yeah. That's real, yo. I ain't exaggerating at all, man. The more money you make, the more problems you get. And jealousy and envy is just something that comes with the territory, man. A lot of people, it's just negative energy, like my man Puff said. My team's supreme, stay clean Triple B, miracle dream, I be that Catch a seat at all events, bent Gats and holsters, girls on shoulders Play for it, I told you, me and Mike's to me Grooves too much, I lose too much Step on stage, the girls boo too much I guess it's especially wrong with lame dudes too much Me lose my touch, never that If I did, ain't no problem to get Be a girl or I, play it please, lyrically, bigger C, B-I-G, be flossing, jig on the cover of Fortune, 5-double-O, that's my phone number, your man. I got the know, I got the dough, got the flow, damn, P-Zap, platinum plus, like Zizap, dangerous, on Trizap, D-U-S, P-Zap.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 8.063,
+        "end": 37.207,
+        "text": " Hello, welcome to the Bad Boy World Champion PGA Tour. I'm your host for the day, Mace Gumbel. With this last birdie right here, Puffy Woods win the champion from the three-time champion, Fuzzy Bad Feet. Silence, audience. I think his pants are a little too tight and he really has a wedgie. He's a stubborn.",
+        "avg_logprob": -0.1256751572644269
+      },
+      {
+        "id": 2,
+        "start": 57.203,
+        "end": 82.516,
+        "text": " Who's hot, who's not, tell me who rock, who sell out in the stores, you tell me who flop, who cop the blue drop, who jewels got rocks, who's mostly goatee down, who's black, the same old pimp, mace, you know ain't nothing changed but my limp, can't stop till I see my name on a blimp, guarantee me it sells for the love of luck, you don't believe I'm all the world, nigga double up, we don't play around, it's a bet, lay it down, niggas didn't know me 91, bet they know me now, I'm the young Harlem nigga,",
+        "avg_logprob": -0.1229239542792727
+      },
+      {
+        "id": 3,
+        "start": 82.516,
+        "end": 93.012,
+        "text": " With the Goldie sound Can't no hit me, niggas hold me down Cool to school me to the game, now I know my duty Stay humble, stay low, blow like Woody True pimp, niggas spend no dough on the booty",
+        "avg_logprob": -0.2094634456454583
+      },
+      {
+        "id": 4,
+        "start": 110.444,
+        "end": 138.777,
+        "text": " Woo! Yes! Yeah! Hello, we're here with the winner, Puffy Woods. He has just won the Bad Boy World Tournament. How do you feel about winning this PGA Tournament? Oh, man, well, I was having some trouble on the 17th hole. But my man B.I. from up above came down, talked to me, told me to cool out, and I did it. I did it for B.I. I guess this means more money, more problems for you. Yeah, I guess so, more money.",
+        "avg_logprob": -0.17948717235499978
+      },
+      {
+        "id": 5,
+        "start": 139.03,
+        "end": 163.33,
+        "text": " More problems. It's just the way it is. Hey, we're coming back to you, Billy.",
+        "avg_logprob": -0.22384511258291162
+      },
+      {
+        "id": 6,
+        "start": 163.33,
+        "end": 181.015,
+        "text": " I got money much longer than yours, and a team much stronger than yours. Valet me, this a B.O. day. We don't play, mess around, but D.O.A. be on your way. Cause it ain't enough time here, ain't enough lime here for you to shine here. Dealing with many women, but treats, dimes fit. And I'm bigger than the city life down in Times Square. Yeah.",
+        "avg_logprob": -0.18050130068634948
+      },
+      {
+        "id": 7,
+        "start": 200.523,
+        "end": 222.427,
+        "text": " That's real, yo. I ain't exaggerating at all, man. The more money you make, the more problems you get. And jealousy and envy is just something that comes with the territory, man. A lot of people, it's just negative energy, like my man Puff said.",
+        "avg_logprob": -0.08625252088231425
+      },
+      {
+        "id": 8,
+        "start": 224.857,
+        "end": 247.148,
+        "text": " My team's supreme, stay clean Triple B, miracle dream, I be that Catch a seat at all events, bent Gats and holsters, girls on shoulders Play for it, I told you, me and Mike's to me Grooves too much, I lose too much Step on stage, the girls boo too much I guess it's especially wrong with lame dudes too much Me lose my touch, never that If I did, ain't no problem to get",
+        "avg_logprob": -0.24325657298690395
+      },
+      {
+        "id": 9,
+        "start": 252.768,
+        "end": 270.318,
+        "text": " Be a girl or I, play it please, lyrically, bigger C, B-I-G, be flossing, jig on the cover of Fortune, 5-double-O, that's my phone number, your man. I got the know, I got the dough, got the flow, damn, P-Zap, platinum plus, like Zizap, dangerous, on Trizap, D-U-S, P-Zap.",
+        "avg_logprob": -0.2292729599439368
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "gUhRKVIjJtw",
+    "uploader": "The Notorious B.I.G.",
+    "audio_file": "corpus/01_music_videos_audio/audio/gUhRKVIjJtw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11127824,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.915175,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:21:09Z"
+  },
+  "status": "success",
+  "error": null
+}

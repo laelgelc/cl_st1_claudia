@@ -1,0 +1,112 @@
+{
+  "corpus_id": "o5TmORitlKk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/o5TmORitlKk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/o5TmORitlKk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/o5TmORitlKk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I just want to ask the question, who really cares to save a world in despair? Who really cares? It follows a water crisis in Flint that began four years ago when the city started drawing water from the Flint River, exposing thousands of people to the toxic metal. Mother, mother, there's too many of you crying. Brother, brother, brother, there's far too many of you dying. You know we've got to find a way To bring some lovin' here today, yeah Father, father We don't need to escalate You see, war's not the answer For only love can comprehend You know we've got to find a way To bring some love into today Don't punish me with brutality Talk to me so you can see Oh, what's going on? What's going on? Yeah, what's going on? Oh, what's going on? Oh, what's going on? More than love, everybody thinks we're alone. Oh, but who would think to judge us? Simply cause our hair is long. Drink some understanding here today Picket lights and picket signs Don't punish me with brutality Come on, talk to me so you can see What's going on? Yeah, what's going on? Tell me what's going on I'll tell you what's going on Right on. Right on. Right on. Right on. Right on. Right on. I wanna know what's going on, baby. Yes, I wanna know what's going on right now.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 2.444,
+        "end": 18.239,
+        "text": " I just want to ask the question, who really cares to save a world in despair? Who really cares?",
+        "avg_logprob": -0.13867187370424686
+      },
+      {
+        "id": 2,
+        "start": 25.681,
+        "end": 52.107,
+        "text": " It follows a water crisis in Flint that began four years ago when the city started drawing water from the Flint River, exposing thousands of people to the toxic metal. Mother, mother, there's too many of you crying. Brother, brother, brother, there's far too many of you dying.",
+        "avg_logprob": -0.04589843905220429
+      },
+      {
+        "id": 3,
+        "start": 53.255,
+        "end": 82.887,
+        "text": " You know we've got to find a way To bring some lovin' here today, yeah Father, father We don't need to escalate You see, war's not the answer For only love can comprehend",
+        "avg_logprob": -0.24872819490210954
+      },
+      {
+        "id": 4,
+        "start": 83.343,
+        "end": 91.932,
+        "text": " You know we've got to find a way To bring some love into today",
+        "avg_logprob": -0.2561035193502903
+      },
+      {
+        "id": 5,
+        "start": 98.547,
+        "end": 121.919,
+        "text": " Don't punish me with brutality Talk to me so you can see Oh, what's going on? What's going on? Yeah, what's going on? Oh, what's going on? Oh, what's going on?",
+        "avg_logprob": -0.16447806168109813
+      },
+      {
+        "id": 6,
+        "start": 137.427,
+        "end": 161.305,
+        "text": " More than love, everybody thinks we're alone. Oh, but who would think to judge us? Simply cause our hair is long.",
+        "avg_logprob": -0.28111049639327185
+      },
+      {
+        "id": 7,
+        "start": 168.224,
+        "end": 196.675,
+        "text": " Drink some understanding here today Picket lights and picket signs Don't punish me with brutality Come on, talk to me so you can see What's going on? Yeah, what's going on? Tell me what's going on I'll tell you what's going on",
+        "avg_logprob": -0.15795454274524343
+      },
+      {
+        "id": 8,
+        "start": 199.477,
+        "end": 225.818,
+        "text": " Right on. Right on. Right on. Right on. Right on. Right on. I wanna know what's going on, baby.",
+        "avg_logprob": -0.28098060344827586
+      },
+      {
+        "id": 9,
+        "start": 229.16,
+        "end": 234.593,
+        "text": " Yes, I wanna know what's going on right now.",
+        "avg_logprob": -0.20312499541502732
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "o5TmORitlKk",
+    "uploader": "Marvin Gaye",
+    "audio_file": "corpus/01_music_videos_audio/audio/o5TmORitlKk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7671952,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.375972,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:19:54Z"
+  },
+  "status": "success",
+  "error": null
+}

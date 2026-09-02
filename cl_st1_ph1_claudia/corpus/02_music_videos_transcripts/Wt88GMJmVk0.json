@@ -1,0 +1,84 @@
+{
+  "corpus_id": "Wt88GMJmVk0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Wt88GMJmVk0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Wt88GMJmVk0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Wt88GMJmVk0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Listen to me, baby, relax and start passin' Stress wave, head back, weavin' through the traffic This one strong should be labeled as a hazard Some of y'all n***a hot, psych, I'm gasin' Clowns, I spot em' and I can't stop laughin' Easy come, easy go, Evie gon' be lastin' Jealousy, let it go, results could be tragic Some of y'all ain't writin' well, too concerned with fashion None of you ain't Giselle, can't walk and imagine A lot of y'all Hollywood drama, casted Cut bitch camera off, real n***a blasted Now, while you were in your teeth, frustration, baby. One of a kind All I do is contemplate Ways to make your fans mine Eyes bloodshot Stressing chills up your spine Sick to your stomach Wishing I wrote your mind I had to give you Let your bones crack. Your back pop. I can't stop. Excitement from your stash box. Thugged out? I respect the cash route. Lockdown. Blast this. Sets while I mash out. Yeah. Mash out. D-R-E. Backtrack. Think back. E-V-E. Do you like that? Yeah. You got to. I know you. Had you in the trance. First glance from the flow too. Don't believe I'll show you. Take you with me. Cause I crush anything I land on. Me here ain't no mistake. It was planned on me.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 43.315,
+        "end": 72.796,
+        "text": " Listen to me, baby, relax and start passin' Stress wave, head back, weavin' through the traffic This one strong should be labeled as a hazard Some of y'all n***a hot, psych, I'm gasin' Clowns, I spot em' and I can't stop laughin' Easy come, easy go, Evie gon' be lastin' Jealousy, let it go, results could be tragic Some of y'all ain't writin' well, too concerned with fashion None of you ain't Giselle, can't walk and imagine A lot of y'all Hollywood drama, casted Cut bitch camera off, real n***a blasted",
+        "avg_logprob": -0.1096443981959902
+      },
+      {
+        "id": 2,
+        "start": 105.668,
+        "end": 108.79,
+        "text": " Now, while you were in your teeth, frustration, baby.",
+        "avg_logprob": -0.24762835885797227
+      },
+      {
+        "id": 3,
+        "start": 127.353,
+        "end": 138.76,
+        "text": " One of a kind All I do is contemplate Ways to make your fans mine Eyes bloodshot Stressing chills up your spine Sick to your stomach Wishing I wrote your mind I had to give you",
+        "avg_logprob": -0.2131696432119324
+      },
+      {
+        "id": 4,
+        "start": 157.846,
+        "end": 181.471,
+        "text": " Let your bones crack. Your back pop. I can't stop. Excitement from your stash box. Thugged out? I respect the cash route. Lockdown. Blast this. Sets while I mash out. Yeah. Mash out. D-R-E. Backtrack. Think back. E-V-E. Do you like that? Yeah. You got to. I know you. Had you in the trance. First glance from the flow too. Don't believe I'll show you. Take you with me.",
+        "avg_logprob": -0.10074012837650483
+      },
+      {
+        "id": 5,
+        "start": 196.118,
+        "end": 201.873,
+        "text": " Cause I crush anything I land on. Me here ain't no mistake. It was planned on me.",
+        "avg_logprob": -0.27397016368129035
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Wt88GMJmVk0",
+    "uploader": "The Real Eve",
+    "audio_file": "corpus/01_music_videos_audio/audio/Wt88GMJmVk0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7880746,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.153358,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:12:47Z"
+  },
+  "status": "success",
+  "error": null
+}

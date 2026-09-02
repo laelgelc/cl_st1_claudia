@@ -1,0 +1,98 @@
+{
+  "corpus_id": "C3rg4psdHxw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/C3rg4psdHxw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/C3rg4psdHxw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/C3rg4psdHxw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "hearts oh Come on, I live, well, I swear, ooh, this moment, it will end through you. All my thoughts, well, they're dirty. One track based on his answer, what the fight is But not us, not us We are far too young and clever I swear, ooh, that's all right You'll be all right, girl, when you see that That's all my fault, I said that, yes, that's all right Come on, honey, I'll put you at rest, honey Oh, come on, honey I said, come on, Eileen. Well, you know how I feel. You know I'm pledging. I said, I'm pledging, pledging, pledging. I must say. I must say. Mm. To rule, rule, rule, rule. Come on, I mean, this is clear how I feel. Well, yes, yes, yes. I suppose it must be. I say, more than ever Round here we've changed I say, too much I confess.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 50.74,
+        "end": 67.531,
+        "text": " hearts oh",
+        "avg_logprob": -0.8079427083333334
+      },
+      {
+        "id": 2,
+        "start": 82.28,
+        "end": 96.623,
+        "text": " Come on, I live, well, I swear, ooh, this moment, it will end through you. All my thoughts, well, they're dirty.",
+        "avg_logprob": -0.38517992424242425
+      },
+      {
+        "id": 3,
+        "start": 117.363,
+        "end": 128.062,
+        "text": " One track based on his answer, what the fight is But not us, not us We are far too young and clever",
+        "avg_logprob": -0.4168749904632568
+      },
+      {
+        "id": 4,
+        "start": 142.051,
+        "end": 167.684,
+        "text": " I swear, ooh, that's all right You'll be all right, girl, when you see that That's all my fault, I said that, yes, that's all right Come on, honey, I'll put you at rest, honey Oh, come on, honey",
+        "avg_logprob": -0.4925987009416547
+      },
+      {
+        "id": 5,
+        "start": 201.434,
+        "end": 219.49,
+        "text": " I said, come on, Eileen. Well, you know how I feel. You know I'm pledging. I said, I'm pledging, pledging, pledging. I must say. I must say. Mm. To rule, rule, rule, rule.",
+        "avg_logprob": -0.17295258543614683
+      },
+      {
+        "id": 6,
+        "start": 231.235,
+        "end": 253.747,
+        "text": " Come on, I mean, this is clear how I feel. Well, yes, yes, yes. I suppose it must be. I say, more than ever Round here we've changed I say, too much",
+        "avg_logprob": -0.23686079917983574
+      },
+      {
+        "id": 7,
+        "start": 265.323,
+        "end": 274.992,
+        "text": " I confess.",
+        "avg_logprob": -0.8398437201976776
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "C3rg4psdHxw",
+    "uploader": "Dexys and Dexys Midnight Runners Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/C3rg4psdHxw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9760632,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.044004,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:17:34Z"
+  },
+  "status": "success",
+  "error": null
+}

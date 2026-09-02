@@ -1,0 +1,91 @@
+{
+  "corpus_id": "9kK_yWYdoY0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/9kK_yWYdoY0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/9kK_yWYdoY0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/9kK_yWYdoY0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You know that I love you I can't help myself I love you and nobody else In and out my life Come and you go Leaving just your picture behind And I've kissed it a thousand times When you snap your finger or wink your eye I come right into you I'm tied to your apron string And there's nothing that I can do I can't help myself. No, I can't help myself. Sugar pie, honey, but I'm weaker than a man should be. I can't help myself. I'm a fool in love, you see. But every time I see your face I get all choked up inside When I call your name Girl, it starts to flame My love, I cannot hide Sugar pie, honey pie You know that I wait for you Can't help myself I love you and nobody else Sugar pie, honey pie Do anything you ask me to Can't help myself. I want you and nobody else. Sugar pie, honey, but sugar pie. You know that I love you. Can't help myself. No, I can't help myself. Sugar pie, honey, but sugar pie.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 20.315,
+        "end": 36.008,
+        "text": " You know that I love you I can't help myself I love you and nobody else In and out my life",
+        "avg_logprob": -0.20006793996562128
+      },
+      {
+        "id": 2,
+        "start": 36.008,
+        "end": 61.692,
+        "text": " Come and you go Leaving just your picture behind And I've kissed it a thousand times When you snap your finger or wink your eye I come right into you I'm tied to your apron string And there's nothing that I can do",
+        "avg_logprob": -0.08917885289547291
+      },
+      {
+        "id": 3,
+        "start": 69.438,
+        "end": 91.628,
+        "text": " I can't help myself. No, I can't help myself. Sugar pie, honey, but I'm weaker than a man should be. I can't help myself. I'm a fool in love, you see.",
+        "avg_logprob": -0.13009511096322018
+      },
+      {
+        "id": 4,
+        "start": 100.268,
+        "end": 113.819,
+        "text": " But every time I see your face I get all choked up inside When I call your name Girl, it starts to flame",
+        "avg_logprob": -0.14948917982669976
+      },
+      {
+        "id": 5,
+        "start": 117.599,
+        "end": 140.633,
+        "text": " My love, I cannot hide Sugar pie, honey pie You know that I wait for you Can't help myself I love you and nobody else Sugar pie, honey pie Do anything you ask me to",
+        "avg_logprob": -0.15146484039723873
+      },
+      {
+        "id": 6,
+        "start": 142.405,
+        "end": 168.815,
+        "text": " Can't help myself. I want you and nobody else. Sugar pie, honey, but sugar pie. You know that I love you. Can't help myself. No, I can't help myself. Sugar pie, honey, but sugar pie.",
+        "avg_logprob": -0.13526347922343834
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "9kK_yWYdoY0",
+    "uploader": "Smurfstools Oldies Music Time Machine",
+    "audio_file": "corpus/01_music_videos_audio/audio/9kK_yWYdoY0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5478502,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 42.012795,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:18:14Z"
+  },
+  "status": "success",
+  "error": null
+}

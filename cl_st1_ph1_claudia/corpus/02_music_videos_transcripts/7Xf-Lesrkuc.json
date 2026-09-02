@@ -1,0 +1,98 @@
+{
+  "corpus_id": "7Xf-Lesrkuc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/7Xf-Lesrkuc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/7Xf-Lesrkuc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/7Xf-Lesrkuc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Now that she's back in the atmosphere With drops of Jupiter in her hair She acts like summer and walks like rain Reminds me that there's a time to change Since the return of her stay on the moon She listens like spring and she talks like June Tell me, did you sail across the sun? Did you make it to the Milky Way to see the lights all faded and that heaven is overrated? Tell me, did you fall for a shooting star, one without a permanent scar, and then you missed me while you were looking for yourself out there? Now that she's back from that soul vacation, tracing her way through the constellation. She checks out most of what she does, child. Now that she's back in the atmosphere, I'm afraid that she might think of me as plain old Jane Doe. Sorry about a man who was too afraid to fly, so he never did land. But tell me, did the wind sweep you off your feet? Did you finally get the chance to dance along the light of day? Get back to the Milky Way. Love fried, deep fried chicken, your best friend always sticking up for you. Even when I know you're wrong, can you imagine no first dance, freeze dried romance, five hour phone conversation, the best soy latte that you ever had. But tell me, did the wind sweep you off your feet? Did you finally get the chance to dance along the light of day and head back to the Milky Way? Tell me, did you sail across the sun? Did you make it to the Milky Way to see the lights all fading and that heaven is over?",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 11.995,
+        "end": 32.279,
+        "text": " Now that she's back in the atmosphere With drops of Jupiter in her hair She acts like summer and walks like rain Reminds me that there's a time to change",
+        "avg_logprob": -0.08867187542574746
+      },
+      {
+        "id": 2,
+        "start": 36.076,
+        "end": 46.994,
+        "text": " Since the return of her stay on the moon She listens like spring and she talks like June",
+        "avg_logprob": -0.1679687515685433
+      },
+      {
+        "id": 3,
+        "start": 48.428,
+        "end": 73.994,
+        "text": " Tell me, did you sail across the sun? Did you make it to the Milky Way to see the lights all faded and that heaven is overrated? Tell me, did you fall for a shooting star, one without a permanent scar, and then you missed me while you were looking for yourself out there?",
+        "avg_logprob": -0.09604414871760777
+      },
+      {
+        "id": 4,
+        "start": 83.815,
+        "end": 98.885,
+        "text": " Now that she's back from that soul vacation, tracing her way through the constellation. She checks out most of what she does, child.",
+        "avg_logprob": -0.17079740968243828
+      },
+      {
+        "id": 5,
+        "start": 108.166,
+        "end": 131.774,
+        "text": " Now that she's back in the atmosphere, I'm afraid that she might think of me as plain old Jane Doe. Sorry about a man who was too afraid to fly, so he never did land. But tell me, did the wind sweep you off your feet? Did you finally get the chance to dance along the light of day? Get back to the Milky Way.",
+        "avg_logprob": -0.08695210961552409
+      },
+      {
+        "id": 6,
+        "start": 156.631,
+        "end": 177.691,
+        "text": " Love fried, deep fried chicken, your best friend always sticking up for you. Even when I know you're wrong, can you imagine no first dance, freeze dried romance, five hour phone conversation, the best soy latte that you ever had.",
+        "avg_logprob": -0.153125
+      },
+      {
+        "id": 7,
+        "start": 180.712,
+        "end": 203.982,
+        "text": " But tell me, did the wind sweep you off your feet? Did you finally get the chance to dance along the light of day and head back to the Milky Way? Tell me, did you sail across the sun? Did you make it to the Milky Way to see the lights all fading and that heaven is over?",
+        "avg_logprob": -0.057782451923076926
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "7Xf-Lesrkuc",
+    "uploader": "Train",
+    "audio_file": "corpus/01_music_videos_audio/audio/7Xf-Lesrkuc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8209168,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.685277,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:04:56Z"
+  },
+  "status": "success",
+  "error": null
+}

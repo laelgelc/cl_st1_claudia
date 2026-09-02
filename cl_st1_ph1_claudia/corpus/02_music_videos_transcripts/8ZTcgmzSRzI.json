@@ -1,0 +1,119 @@
+{
+  "corpus_id": "8ZTcgmzSRzI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8ZTcgmzSRzI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/8ZTcgmzSRzI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/8ZTcgmzSRzI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "In 1958, here in the Little Theater, a man appeared to sing a song called Splish Splash. A great deal has happened since that time. Ladies and gentlemen, here is Bobby Darin! Somewhere beyond the sea Somewhere waiting for me My lover stands on golden sand And watches the ships that go sailing Somewhere beyond the sea She's there watching for me If I could fly like birds on high And straight to her arms I'd go sailing It's far beyond the stars It's near beyond the moon I know beyond the dark My heart will lead me there soon Beyond the shore we'll kiss just as before. Happy we'll be beyond the sea. And never again I'll go sailing. Oh, my God! Beyond the doubt My heart will lead me there soon We'll meet, I know we'll meet Beyond the shore We'll kiss just as before Happy we'll be beyond the sea And never again I'll go sailing All right hold on a half a second Bobby, I mentioned to the folks that the first time you ever appeared here in the little theater was on May 31st, 1958, and a lot had happened since then. I've read a lot about you, and I've heard a lot of things said about you. Have you changed at all since then? Richard, I don't think I've changed. I might have put on a little weight. I call, I always call him, he used to call me Sir Robert, and we called him Sir Richard Beck. But I know a lot of people have said that I've changed, and I guess to a lot of intents and purposes, it's kind of true. I only feel that as a performer, I must entertain the people that I work to, no matter if they're... fourteen twelve thirty-five or a hundred and five and that's my first love how many hundred and five-year-olds have you ever seen? there ain't too many but I'm getting near to him a shelf I'll tell you world's oldest teenager I think but um this is my attitude and I love to perform and that's more important than anything else in the world let me put you to work you go up and get set for a second see ya",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 10,
+    "segments": [
+      {
+        "id": 1,
+        "start": 9.413,
+        "end": 35.907,
+        "text": " In 1958, here in the Little Theater, a man appeared to sing a song called Splish Splash. A great deal has happened since that time. Ladies and gentlemen, here is Bobby Darin! Somewhere beyond the sea Somewhere waiting for me",
+        "avg_logprob": -0.15921874344348907
+      },
+      {
+        "id": 2,
+        "start": 36.785,
+        "end": 61.49,
+        "text": " My lover stands on golden sand And watches the ships that go sailing Somewhere beyond the sea She's there watching for me If I could fly like birds on high",
+        "avg_logprob": -0.07861327845603228
+      },
+      {
+        "id": 3,
+        "start": 61.945,
+        "end": 90.633,
+        "text": " And straight to her arms I'd go sailing It's far beyond the stars It's near beyond the moon I know beyond the dark My heart will lead me there soon",
+        "avg_logprob": -0.22449448091142318
+      },
+      {
+        "id": 4,
+        "start": 90.633,
+        "end": 116.047,
+        "text": " Beyond the shore we'll kiss just as before. Happy we'll be beyond the sea. And never again I'll go sailing.",
+        "avg_logprob": -0.27010995811886257
+      },
+      {
+        "id": 5,
+        "start": 124.636,
+        "end": 126.982,
+        "text": " Oh, my God!",
+        "avg_logprob": -0.8984375
+      },
+      {
+        "id": 6,
+        "start": 142.827,
+        "end": 172.004,
+        "text": " Beyond the doubt My heart will lead me there soon We'll meet, I know we'll meet Beyond the shore We'll kiss just as before Happy we'll be beyond the sea And never again I'll go sailing",
+        "avg_logprob": -0.13690043050189352
+      },
+      {
+        "id": 7,
+        "start": 175.092,
+        "end": 200.86,
+        "text": " All right hold on a half a second",
+        "avg_logprob": -0.380859375
+      },
+      {
+        "id": 8,
+        "start": 201.535,
+        "end": 220.165,
+        "text": " Bobby, I mentioned to the folks that the first time you ever appeared here in the little theater was on May 31st, 1958, and a lot had happened since then. I've read a lot about you, and I've heard a lot of things said about you. Have you changed at all since then? Richard, I don't think I've changed. I might have put on a little weight.",
+        "avg_logprob": -0.07671309917806143
+      },
+      {
+        "id": 9,
+        "start": 220.402,
+        "end": 236.872,
+        "text": " I call, I always call him, he used to call me Sir Robert, and we called him Sir Richard Beck. But I know a lot of people have said that I've changed, and I guess to a lot of intents and purposes, it's kind of true. I only feel that as a performer, I must entertain the people that I work to, no matter if they're...",
+        "avg_logprob": -0.07166281158541456
+      },
+      {
+        "id": 10,
+        "start": 237.074,
+        "end": 258.404,
+        "text": " fourteen twelve thirty-five or a hundred and five and that's my first love how many hundred and five-year-olds have you ever seen? there ain't too many but I'm getting near to him a shelf I'll tell you world's oldest teenager I think but um this is my attitude and I love to perform and that's more important than anything else in the world let me put you to work you go up and get set for a second see ya",
+        "avg_logprob": -0.24185505842274807
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "8ZTcgmzSRzI",
+    "uploader": "NRRArchives",
+    "audio_file": "corpus/01_music_videos_audio/audio/8ZTcgmzSRzI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8274556,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.141345,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:10:28Z"
+  },
+  "status": "success",
+  "error": null
+}

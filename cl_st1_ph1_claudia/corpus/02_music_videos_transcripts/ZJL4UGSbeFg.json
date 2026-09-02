@@ -1,0 +1,105 @@
+{
+  "corpus_id": "ZJL4UGSbeFg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ZJL4UGSbeFg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ZJL4UGSbeFg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ZJL4UGSbeFg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Let's go, girls. Come on. I'm going out tonight. I'm feeling all right. Gonna let it all hang out. Wanna make some noise. Really raise my voice. Yeah, I wanna scream and shout. No conditions, get a little out of line I ain't gonna act politically correct I only wanna have a good time It's the variety to have a little fun, yeah Oh, oh, oh, go totally crazy Forget I'm a lady Men's shirt, short skirts Oh, oh, oh, really go wild, yeah Doing that in style Oh, oh, oh, get in the action Feel the attraction Cover my head, do what I dare Oh, oh, oh, wanna be crazy Man, I feel like a woman The girls need a break tonight We're gonna take the chance To get out of town We don't need romance We only wanna dance We're gonna let her hang down The best thing about being It's a prerogative to have a little fun Oh, oh, oh, go totally crazy Forget I'm a lady Men's shirt, short skirts Oh, oh, oh, really go wild, yeah Doing that in style Oh, oh, oh, get in the action Feel the attraction Cover my head, do what I dare Oh, oh, oh, wanna be free Man, I feel like a woman The best thing about being a woman Is the prerogative to have a little fun Got totally crazy, forget I'm a lady Men's shirt, short skirts, oh, oh, oh Really go wild, yeah, doing that in style, oh, oh, oh Getting the action, feel the attraction Call on my head, do what I dare, oh, oh, oh I wanna be free Man, I feel like a woman Hey, hey, hey Oh, oh, yeah, yeah I get totally crazy Can you feel it?",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 2.883,
+        "end": 25.462,
+        "text": " Let's go, girls. Come on. I'm going out tonight. I'm feeling all right. Gonna let it all hang out. Wanna make some noise. Really raise my voice. Yeah, I wanna scream and shout.",
+        "avg_logprob": -0.0452127661159698
+      },
+      {
+        "id": 2,
+        "start": 33.393,
+        "end": 46.302,
+        "text": " No conditions, get a little out of line I ain't gonna act politically correct I only wanna have a good time",
+        "avg_logprob": -0.1821288994203011
+      },
+      {
+        "id": 3,
+        "start": 50.521,
+        "end": 78.112,
+        "text": " It's the variety to have a little fun, yeah Oh, oh, oh, go totally crazy Forget I'm a lady Men's shirt, short skirts Oh, oh, oh, really go wild, yeah Doing that in style Oh, oh, oh, get in the action Feel the attraction Cover my head, do what I dare Oh, oh, oh, wanna be crazy",
+        "avg_logprob": -0.1993709384620964
+      },
+      {
+        "id": 4,
+        "start": 82.735,
+        "end": 110.883,
+        "text": " Man, I feel like a woman The girls need a break tonight We're gonna take the chance To get out of town We don't need romance We only wanna dance We're gonna let her hang down The best thing about being",
+        "avg_logprob": -0.1250000071266423
+      },
+      {
+        "id": 5,
+        "start": 112.891,
+        "end": 140.718,
+        "text": " It's a prerogative to have a little fun Oh, oh, oh, go totally crazy Forget I'm a lady Men's shirt, short skirts Oh, oh, oh, really go wild, yeah Doing that in style Oh, oh, oh, get in the action Feel the attraction Cover my head, do what I dare Oh, oh, oh, wanna be free",
+        "avg_logprob": -0.12690304888364595
+      },
+      {
+        "id": 6,
+        "start": 145.173,
+        "end": 171.751,
+        "text": " Man, I feel like a woman The best thing about being a woman Is the prerogative to have a little fun",
+        "avg_logprob": -0.12853065362343422
+      },
+      {
+        "id": 7,
+        "start": 173.81,
+        "end": 197.418,
+        "text": " Got totally crazy, forget I'm a lady Men's shirt, short skirts, oh, oh, oh Really go wild, yeah, doing that in style, oh, oh, oh Getting the action, feel the attraction Call on my head, do what I dare, oh, oh, oh I wanna be free",
+        "avg_logprob": -0.1528320349752903
+      },
+      {
+        "id": 8,
+        "start": 203.662,
+        "end": 222.967,
+        "text": " Man, I feel like a woman Hey, hey, hey Oh, oh, yeah, yeah I get totally crazy Can you feel it?",
+        "avg_logprob": -0.28636854270408896
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "ZJL4UGSbeFg",
+    "uploader": "Shania Twain",
+    "audio_file": "corpus/01_music_videos_audio/audio/ZJL4UGSbeFg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7520372,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.791246,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:20:22Z"
+  },
+  "status": "success",
+  "error": null
+}

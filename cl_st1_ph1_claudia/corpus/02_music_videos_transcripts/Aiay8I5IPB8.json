@@ -1,0 +1,91 @@
+{
+  "corpus_id": "Aiay8I5IPB8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Aiay8I5IPB8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Aiay8I5IPB8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Aiay8I5IPB8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Never made it as a wise man I couldn't cut it as a poor man stealing Tired of living like a blind man I'm sick of sight without a sense of feeling And this is how you remind me This is how you remind me Of what I really am This is how you remind me To say sorry, I was waiting on a different story And this time I'm mistaken Foreheading you, a heart worth breaking And I've been wrong, I've been down Been to the bottom of every bottle Three spot words in my head Scream, are we having fun yet? Yeah, yeah, yeah, no, no It's not like you didn't know that I said I love you and I swear I still do And it must have been so bad Cause living with me must have damn near killed you And this is how you remind me of what I really am This is how you remind me of what I really am This time I'm mistaken Foreheading you, our heart was breaking And I've been wrong, I've been down Been to the bottom of every bottle Despite words in my head Scream all the other fun yet Yeah, yeah, yeah, no, no Yeah, yeah Yeah, no, no Yeah, yeah, yeah, no, no Never made it as a wise man I couldn't cut it as a poor man stealing And this is how you remind me This is how you remind me This is how you remind me of what I really am This is how you remind me of what I really am It's not like you to say sorry A world's waiting on a different story And this time I'm mistaken Beforehand I knew a heart worth breaking and",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 3.727,
+        "end": 29.596,
+        "text": " Never made it as a wise man I couldn't cut it as a poor man stealing Tired of living like a blind man I'm sick of sight without a sense of feeling And this is how you remind me This is how you remind me Of what I really am This is how you remind me",
+        "avg_logprob": -0.06331380382180214
+      },
+      {
+        "id": 2,
+        "start": 32.566,
+        "end": 59.633,
+        "text": " To say sorry, I was waiting on a different story And this time I'm mistaken Foreheading you, a heart worth breaking And I've been wrong, I've been down Been to the bottom of every bottle Three spot words in my head Scream, are we having fun yet? Yeah, yeah, yeah, no, no",
+        "avg_logprob": -0.1949678269379279
+      },
+      {
+        "id": 3,
+        "start": 61.22,
+        "end": 86.245,
+        "text": " It's not like you didn't know that I said I love you and I swear I still do And it must have been so bad Cause living with me must have damn near killed you And this is how you remind me of what I really am This is how you remind me of what I really am",
+        "avg_logprob": -0.03688524736732733
+      },
+      {
+        "id": 4,
+        "start": 91.595,
+        "end": 117.498,
+        "text": " This time I'm mistaken Foreheading you, our heart was breaking And I've been wrong, I've been down Been to the bottom of every bottle Despite words in my head Scream all the other fun yet Yeah, yeah, yeah, no, no Yeah, yeah",
+        "avg_logprob": -0.23116630102906907
+      },
+      {
+        "id": 5,
+        "start": 124.062,
+        "end": 152.48,
+        "text": " Yeah, no, no Yeah, yeah, yeah, no, no Never made it as a wise man I couldn't cut it as a poor man stealing And this is how you remind me",
+        "avg_logprob": -0.08097956692561126
+      },
+      {
+        "id": 6,
+        "start": 154.572,
+        "end": 182.669,
+        "text": " This is how you remind me This is how you remind me of what I really am This is how you remind me of what I really am It's not like you to say sorry A world's waiting on a different story And this time I'm mistaken Beforehand I knew a heart worth breaking and",
+        "avg_logprob": -0.13222656299670538
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Aiay8I5IPB8",
+    "uploader": "Roadrunner Records",
+    "audio_file": "corpus/01_music_videos_audio/audio/Aiay8I5IPB8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7309348,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.75907,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:07:21Z"
+  },
+  "status": "success",
+  "error": null
+}

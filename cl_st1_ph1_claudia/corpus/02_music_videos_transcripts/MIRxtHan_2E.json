@@ -1,0 +1,84 @@
+{
+  "corpus_id": "MIRxtHan_2E",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/MIRxtHan_2E.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/MIRxtHan_2E.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/MIRxtHan_2E.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Well, I tried to make it Sunday But I got so damn depressed That I set my sights on Monday And I got myself undressed I ain't ready for the altar But I do agree there's times When a woman sure can be a friend of mine And I just can't live without you Can't you see it in my eyes? I've been one poor correspondent And I've been too, too far to find But it doesn't mean you ain't been on my mind Will you meet me in the end? Will you love me just a little? Just the effect to show you care Will I try to fake it? I don't mind saying I just can't make it Sister golden hair surprise And I just can't live without you Can't you see it in my eyes? Now I've been one poor correspondent And I've been too, too hard to find But it doesn't mean you ain't been on the mind I just can't make it.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 17.53,
+        "end": 43.265,
+        "text": " Well, I tried to make it Sunday But I got so damn depressed That I set my sights on Monday And I got myself undressed I ain't ready for the altar But I do agree there's times When a woman sure can be a friend of mine",
+        "avg_logprob": -0.06261268215110669
+      },
+      {
+        "id": 2,
+        "start": 53.002,
+        "end": 71.868,
+        "text": " And I just can't live without you Can't you see it in my eyes? I've been one poor correspondent And I've been too, too far to find But it doesn't mean you ain't been on my mind",
+        "avg_logprob": -0.11795176679025525
+      },
+      {
+        "id": 3,
+        "start": 77.42,
+        "end": 94.227,
+        "text": " Will you meet me in the end? Will you love me just a little? Just the effect to show you care Will I try to fake it? I don't mind saying I just can't make it",
+        "avg_logprob": -0.16582961132129034
+      },
+      {
+        "id": 4,
+        "start": 115.017,
+        "end": 138.507,
+        "text": " Sister golden hair surprise And I just can't live without you Can't you see it in my eyes? Now I've been one poor correspondent And I've been too, too hard to find But it doesn't mean you ain't been on the mind",
+        "avg_logprob": -0.13212316176470587
+      },
+      {
+        "id": 5,
+        "start": 145.831,
+        "end": 160.63,
+        "text": " I just can't make it.",
+        "avg_logprob": -0.2600097581744194
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "MIRxtHan_2E",
+    "uploader": "BT Music Videos",
+    "audio_file": "corpus/01_music_videos_audio/audio/MIRxtHan_2E.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6202964,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.51894,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:14:42Z"
+  },
+  "status": "success",
+  "error": null
+}

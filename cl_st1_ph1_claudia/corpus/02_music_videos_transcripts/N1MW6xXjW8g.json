@@ -1,0 +1,91 @@
+{
+  "corpus_id": "N1MW6xXjW8g",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/N1MW6xXjW8g.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/N1MW6xXjW8g.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/N1MW6xXjW8g.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Here once again is the unusual young singer we introduced at the opening of the show. Here are two of her albums. This is Aretha Franklin, Aretha Arrives. And this is Aretha Franklin, I Never Loved a Man the Way I Love You. And here she is to sing one of her big hits for you. Do Right Woman, Aretha Franklin. take me to heart and i'll always love you and nobody can make me do wrong but take me for granted Makes willpower weak and temptation strong. A woman's only human. Yes, you should understand. She's not just a plaything. She's flesh and blood, just like a man. And if you want her to do right, I want you to show some respect for me. And if you really want to do right, do right, do right, do right. We can thank you. Great. We'll be right back.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 19.943,
+        "text": " Here once again is the unusual young singer we introduced at the opening of the show. Here are two of her albums. This is Aretha Franklin, Aretha Arrives. And this is Aretha Franklin, I Never Loved a Man the Way I Love You. And here she is to sing one of her big hits for you. Do Right Woman, Aretha Franklin.",
+        "avg_logprob": -0.058745941751963134
+      },
+      {
+        "id": 2,
+        "start": 29.174,
+        "end": 54.048,
+        "text": " take me to heart and i'll always love you and nobody can make me do wrong but take me for granted",
+        "avg_logprob": -0.171875
+      },
+      {
+        "id": 3,
+        "start": 63.633,
+        "end": 84.203,
+        "text": " Makes willpower weak and temptation strong. A woman's only human. Yes, you should understand.",
+        "avg_logprob": -0.27845981575193857
+      },
+      {
+        "id": 4,
+        "start": 87.14,
+        "end": 98.598,
+        "text": " She's not just a plaything. She's flesh and blood, just like a man. And if you want her to do right,",
+        "avg_logprob": -0.18925107142020917
+      },
+      {
+        "id": 5,
+        "start": 133.175,
+        "end": 145.426,
+        "text": " I want you to show some respect for me. And if you really want to do right, do right, do right, do right.",
+        "avg_logprob": -0.25121227215076314
+      },
+      {
+        "id": 6,
+        "start": 226.865,
+        "end": 230.527,
+        "text": " We can thank you. Great. We'll be right back.",
+        "avg_logprob": -0.33286831421511515
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "N1MW6xXjW8g",
+    "uploader": "Merv GriffinShow",
+    "audio_file": "corpus/01_music_videos_audio/audio/N1MW6xXjW8g.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7524830,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 25.645238,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:54:57Z"
+  },
+  "status": "success",
+  "error": null
+}

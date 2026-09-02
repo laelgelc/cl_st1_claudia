@@ -1,0 +1,70 @@
+{
+  "corpus_id": "FqP3-_F0YTs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/FqP3-_F0YTs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/FqP3-_F0YTs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/FqP3-_F0YTs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Just to say how much you mean to me If I told you you were beautiful Would you date me on the regular? Well, baby, I've been around the world But I ain't seen myself another girl This ring here represents my heart Because I can see us holding hands Walking on the beach our toes in the sand I can see us on the countryside Sitting on the grass little side by side You could be my baby Let me make you my lady Girl you amaze me Ain't gotta do nothing crazy See all I want you to do It's you This ring here represents my heart And everything that you've been waiting for Just say what I'll do Because I can see us holding hands Walking on the beach, our toes in the sand I can see us on the countryside Sitting on the grass, little side by side You can be my baby When you're making my lady Girl, you amaze me Ain't gotta do nothing crazy See, all I want you to do is be my baby",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 16.552,
+        "end": 40.649,
+        "text": " Just to say how much you mean to me If I told you you were beautiful Would you date me on the regular? Well, baby, I've been around the world But I ain't seen myself another girl This ring here represents my heart",
+        "avg_logprob": -0.05548469387755102
+      },
+      {
+        "id": 2,
+        "start": 46.792,
+        "end": 62.975,
+        "text": " Because I can see us holding hands Walking on the beach our toes in the sand I can see us on the countryside Sitting on the grass little side by side You could be my baby Let me make you my lady Girl you amaze me Ain't gotta do nothing crazy See all I want you to do",
+        "avg_logprob": -0.10438012050800637
+      },
+      {
+        "id": 3,
+        "start": 116.924,
+        "end": 143.738,
+        "text": " It's you This ring here represents my heart And everything that you've been waiting for Just say what I'll do Because I can see us holding hands Walking on the beach, our toes in the sand I can see us on the countryside Sitting on the grass, little side by side You can be my baby When you're making my lady Girl, you amaze me Ain't gotta do nothing crazy See, all I want you to do is be my baby",
+        "avg_logprob": -0.13119904615956804
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "FqP3-_F0YTs",
+    "uploader": "ReJOYce Vest",
+    "audio_file": "corpus/01_music_videos_audio/audio/FqP3-_F0YTs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5540174,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.483051,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:05:30Z"
+  },
+  "status": "success",
+  "error": null
+}

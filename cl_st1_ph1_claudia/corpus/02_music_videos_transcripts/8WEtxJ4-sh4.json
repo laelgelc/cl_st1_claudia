@@ -1,0 +1,77 @@
+{
+  "corpus_id": "8WEtxJ4-sh4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8WEtxJ4-sh4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/8WEtxJ4-sh4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/8WEtxJ4-sh4.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "What? been a rainbow yesterday, but too many storms have come and gone, leaving a trace of not one god given. Raise it, because my life is ten shades of grey. I pray all ten fade away, still to praise him for the seven days. And like his promise is true, only my faith can undo the many chances I believe you to bring my life to an end. Clear blue and unconditional skies have dried the tears from my eyes, no one lonely cries. My only lead and hope is For someone else to spray You claim the insane And aim to stay in time For falling prey to crime I say the system Got you victim to your own mind Dreams are hopeless aspirations And hopes are coming true Believe in yourself The rest is up to me I think you're moving too fast.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 2.714,
+        "end": 4.233,
+        "text": " What?",
+        "avg_logprob": -1.5846354166666667
+      },
+      {
+        "id": 2,
+        "start": 230.375,
+        "end": 253.527,
+        "text": " been a rainbow yesterday, but too many storms have come and gone, leaving a trace of not one god given. Raise it, because my life is ten shades of grey. I pray all ten fade away, still to praise him for the seven days. And like his promise is true, only my faith can undo the many chances I believe you to bring my life to an end. Clear blue and unconditional skies have dried the tears from my eyes, no one lonely cries. My only lead and hope is",
+        "avg_logprob": -0.20297180948888555
+      },
+      {
+        "id": 3,
+        "start": 262.353,
+        "end": 274.537,
+        "text": " For someone else to spray You claim the insane And aim to stay in time For falling prey to crime I say the system Got you victim to your own mind Dreams are hopeless aspirations And hopes are coming true Believe in yourself The rest is up to me",
+        "avg_logprob": -0.2457812386751175
+      },
+      {
+        "id": 4,
+        "start": 312.809,
+        "end": 315.475,
+        "text": " I think you're moving too fast.",
+        "avg_logprob": -0.2992621527777778
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "8WEtxJ4-sh4",
+    "uploader": "TLC",
+    "audio_file": "corpus/01_music_videos_audio/audio/8WEtxJ4-sh4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10228004,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.262301,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:14:36Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,84 @@
+{
+  "corpus_id": "tuk1NnnMQBA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/tuk1NnnMQBA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/tuk1NnnMQBA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/tuk1NnnMQBA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You'll be stupid I've walked for miles My feet hurt All I want is for you to make love to me Am I hard enough? Am I rough enough? Am I rich enough? I'm not too blind Come on baby, sweet love to me Am I hard enough? Am I rough enough? Am I rich enough? I'm not too blind Say it. I'll never be your beast of burden I'll never be your beast of burden Never, never, never, never, never All I want is you to make love to me I don't need no peace or burden I need no fussing I need no nursing Never, never, never",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 40.632,
+        "end": 66.586,
+        "text": " You'll be stupid I've walked for miles My feet hurt All I want is for you to make love to me Am I hard enough? Am I rough enough? Am I rich enough? I'm not too blind",
+        "avg_logprob": -0.11656605028970675
+      },
+      {
+        "id": 2,
+        "start": 81.892,
+        "end": 97.366,
+        "text": " Come on baby, sweet love to me Am I hard enough? Am I rough enough? Am I rich enough? I'm not too blind",
+        "avg_logprob": -0.16109914204169964
+      },
+      {
+        "id": 3,
+        "start": 139.385,
+        "end": 139.925,
+        "text": " Say it.",
+        "avg_logprob": -0.6591796875
+      },
+      {
+        "id": 4,
+        "start": 199.021,
+        "end": 212.588,
+        "text": " I'll never be your beast of burden I'll never be your beast of burden Never, never, never, never, never",
+        "avg_logprob": -0.1926081684919504
+      },
+      {
+        "id": 5,
+        "start": 227.472,
+        "end": 248.161,
+        "text": " All I want is you to make love to me I don't need no peace or burden I need no fussing I need no nursing Never, never, never",
+        "avg_logprob": -0.20336174242424243
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "tuk1NnnMQBA",
+    "uploader": "The Rolling Stones",
+    "audio_file": "corpus/01_music_videos_audio/audio/tuk1NnnMQBA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8522730,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 27.459662,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:54:14Z"
+  },
+  "status": "success",
+  "error": null
+}

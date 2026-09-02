@@ -1,0 +1,112 @@
+{
+  "corpus_id": "tg0C26QjDgw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/tg0C26QjDgw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/tg0C26QjDgw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/tg0C26QjDgw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "¶¶ ¶¶ ¶¶ ¶¶ ¶¶ Some people cry, some people die by the wicked ways of love But I'll just keep on rollin' along with the grace of the Lord above People talkin' all around about the way they left me blind I don't get what the people say, no way to drive us out One thing I do have on my mind, because I please you I really need to make love Ooh, yeah, yeah Thank you. Hey. Thank you. Thank you. so so Oh yeah, oh yeah, oh yeah, oh yeah, oh yeah.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 35.3,
+        "end": 61.287,
+        "text": " ¶¶ ¶¶ ¶¶ ¶¶ ¶¶",
+        "avg_logprob": -0.4088541723432995
+      },
+      {
+        "id": 2,
+        "start": 82.921,
+        "end": 108.841,
+        "text": " Some people cry, some people die by the wicked ways of love But I'll just keep on rollin' along with the grace of the Lord above People talkin' all around about the way they left me blind I don't get what the people say, no way to drive us out One thing I do have on my mind, because I please you",
+        "avg_logprob": -0.22689261276957015
+      },
+      {
+        "id": 3,
+        "start": 115.54,
+        "end": 122.122,
+        "text": " I really need to make love Ooh, yeah, yeah",
+        "avg_logprob": -0.6927083283662796
+      },
+      {
+        "id": 4,
+        "start": 147.502,
+        "end": 175.582,
+        "text": " Thank you.",
+        "avg_logprob": -0.896484375
+      },
+      {
+        "id": 5,
+        "start": 218.292,
+        "end": 229.683,
+        "text": " Hey.",
+        "avg_logprob": -1.54296875
+      },
+      {
+        "id": 6,
+        "start": 245.714,
+        "end": 260.497,
+        "text": " Thank you.",
+        "avg_logprob": -0.55810546875
+      },
+      {
+        "id": 7,
+        "start": 261.661,
+        "end": 284.088,
+        "text": " Thank you.",
+        "avg_logprob": -0.8300781548023224
+      },
+      {
+        "id": 8,
+        "start": 287.935,
+        "end": 311.543,
+        "text": " so so",
+        "avg_logprob": -0.6184895833333334
+      },
+      {
+        "id": 9,
+        "start": 357.882,
+        "end": 361.46,
+        "text": " Oh yeah, oh yeah, oh yeah, oh yeah, oh yeah.",
+        "avg_logprob": -0.2785644493997097
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "tg0C26QjDgw",
+    "uploader": "G C",
+    "audio_file": "corpus/01_music_videos_audio/audio/tg0C26QjDgw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 12542570,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.273487,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:57:25Z"
+  },
+  "status": "success",
+  "error": null
+}

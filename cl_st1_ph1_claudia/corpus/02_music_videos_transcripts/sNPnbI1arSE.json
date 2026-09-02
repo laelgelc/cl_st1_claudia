@@ -1,0 +1,98 @@
+{
+  "corpus_id": "sNPnbI1arSE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/sNPnbI1arSE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/sNPnbI1arSE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/sNPnbI1arSE.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Excuse me! Can I have the attention of the class? For one second. primus wanna see me stick nine inch nails to each one of my eyelids wanna copy me and do exactly like i did try to see how to get messed up worse than my life is my brain's dead weight i'm trying to get my head straight but i can't figure out which spice girl i want to impregnate i'm dr grace face chasing his tail. Got ticked off and ripped Pamela Lee's lips off. Kissed him and said, I ain't no silicone that's supposed to be this soft. I'm about to pass out and crash and fall in the grass faster than a fat man who sat down too fast. Come here, lady. Shady, wait a minute. That's my girl, dawg. I don't give a damn. Dre sent me to take the world off. My English teacher wanted to flunk me in junior high Thanks a lot, next semester I'll be 35 I smacked him in his face with an eraser Chased him with a stapler And told him to change the grade on the paper Walked in a strip club, had my jacket zipped up Served a bartender, then walked out with a tip cup Extraterrestrial, running over pedestrians in a spaceship You know you blew up when the women rush your stance Try to touch your hands like some screaming usher fans This guy White Castle asked for my autograph so I signed it Dear Dave, thanks for the support needs to be locked away dr dre don't just stand there operate i'm not ready to leave it's too scary to die i'll have to be carried inside the cemetery and buried alive am i coming or going i can barely decide i just drank a fifth of kool-aid all my life i was very deprived i ain't had a woman in years and my palms My name is What?",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 4.975,
+        "end": 29.883,
+        "text": " Excuse me! Can I have the attention of the class? For one second.",
+        "avg_logprob": -0.34099264705882354
+      },
+      {
+        "id": 2,
+        "start": 33.697,
+        "end": 50.167,
+        "text": " primus wanna see me stick nine inch nails to each one of my eyelids wanna copy me and do exactly like i did try to see how to get messed up worse than my life is my brain's dead weight i'm trying to get my head straight but i can't figure out which spice girl i want to impregnate i'm dr grace",
+        "avg_logprob": -0.1038732369181136
+      },
+      {
+        "id": 3,
+        "start": 58.773,
+        "end": 77.69,
+        "text": " face chasing his tail. Got ticked off and ripped Pamela Lee's lips off. Kissed him and said, I ain't no silicone that's supposed to be this soft. I'm about to pass out and crash and fall in the grass faster than a fat man who sat down too fast. Come here, lady. Shady, wait a minute. That's my girl, dawg. I don't give a damn. Dre sent me to take the world off.",
+        "avg_logprob": -0.08992347106033442
+      },
+      {
+        "id": 4,
+        "start": 99.543,
+        "end": 120.097,
+        "text": " My English teacher wanted to flunk me in junior high Thanks a lot, next semester I'll be 35 I smacked him in his face with an eraser Chased him with a stapler And told him to change the grade on the paper Walked in a strip club, had my jacket zipped up Served a bartender, then walked out with a tip cup Extraterrestrial, running over pedestrians in a spaceship",
+        "avg_logprob": -0.07885174132710279
+      },
+      {
+        "id": 5,
+        "start": 133.04,
+        "end": 147.147,
+        "text": " You know you blew up when the women rush your stance Try to touch your hands like some screaming usher fans This guy White Castle asked for my autograph so I signed it Dear Dave, thanks for the support",
+        "avg_logprob": -0.23790922477131798
+      },
+      {
+        "id": 6,
+        "start": 168.14,
+        "end": 188.373,
+        "text": " needs to be locked away dr dre don't just stand there operate i'm not ready to leave it's too scary to die i'll have to be carried inside the cemetery and buried alive am i coming or going i can barely decide i just drank a fifth of kool-aid all my life i was very deprived i ain't had a woman in years and my palms",
+        "avg_logprob": -0.12770833532015483
+      },
+      {
+        "id": 7,
+        "start": 210.53,
+        "end": 214.259,
+        "text": " My name is What?",
+        "avg_logprob": -0.99609375
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "sNPnbI1arSE",
+    "uploader": "EminemMusic",
+    "audio_file": "corpus/01_music_videos_audio/audio/sNPnbI1arSE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7941674,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.075344,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:12:51Z"
+  },
+  "status": "success",
+  "error": null
+}

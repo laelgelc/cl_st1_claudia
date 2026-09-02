@@ -1,0 +1,147 @@
+{
+  "corpus_id": "YrLk4vdY28Q",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/YrLk4vdY28Q.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/YrLk4vdY28Q.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/YrLk4vdY28Q.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I've heard there was a secret chord That David played and it pleased the Lord But you don't really care for music, do you? It goes like this, the fourth, the fifth The minor fall, the major lift the baffled king composing hallelujah Your faith was strong but you needed proof You saw her bathing on the roof Her beauty in the moonlight overthrew you She tied you to a kitchen chair And she broke your throne and she cut your hair And from your lips she drew the Hallelujah Hallelujah Hallelujah Maybe there's a God above, as for me All I ever learned from love is how to shoot at someone who outdrew you But it's not a cry that you hear tonight It's not some pilgrim who claims to have seen the light No, it's a cold and it's a very broken Hallelujah um Hallelujah, Hallelujah Oh people, I've been here before I know this room and I've walked this floor You see, I used to live alone before I knew you And I've seen your flag on the marble arch. But listen, love, love is not some kind of victory march. No, it's a cold and it's a very lonely hallelujah. Hallelujah. there was a time you let me know what's really going on below but now now you never even show it to me to you I remember When I moved in you and the holy dove she was moving too and every single breath that we drew was Hallelujah Hallelujah Hallelujah I've done my best, I know it wasn't much I couldn't feel, so I learned to touch I've told the truth, I didn't come here to London just to fool you And even though it all went wrong, I'll stand right here before the Lord of song with nothing, nothing on my tongue but Hallelujah. Hallelujah. Hallelujah. Hallelujah. Hallelujah",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 14,
+    "segments": [
+      {
+        "id": 1,
+        "start": 15.438,
+        "end": 41.425,
+        "text": " I've heard there was a secret chord That David played and it pleased the Lord But you don't really care for music, do you? It goes like this, the fourth, the fifth The minor fall, the major lift",
+        "avg_logprob": -0.07723335581629173
+      },
+      {
+        "id": 2,
+        "start": 41.948,
+        "end": 60.325,
+        "text": " the baffled king composing hallelujah",
+        "avg_logprob": -0.2683593839406967
+      },
+      {
+        "id": 3,
+        "start": 73.218,
+        "end": 87.697,
+        "text": " Your faith was strong but you needed proof You saw her bathing on the roof Her beauty in the moonlight overthrew you",
+        "avg_logprob": -0.10506185113141935
+      },
+      {
+        "id": 4,
+        "start": 90.548,
+        "end": 114.562,
+        "text": " She tied you to a kitchen chair And she broke your throne and she cut your hair And from your lips she drew the Hallelujah Hallelujah Hallelujah",
+        "avg_logprob": -0.11307198634105069
+      },
+      {
+        "id": 5,
+        "start": 131.065,
+        "end": 143.992,
+        "text": " Maybe there's a God above, as for me All I ever learned from love is how to shoot at someone who outdrew you",
+        "avg_logprob": -0.17117744897093093
+      },
+      {
+        "id": 6,
+        "start": 147.147,
+        "end": 162.284,
+        "text": " But it's not a cry that you hear tonight It's not some pilgrim who claims to have seen the light No, it's a cold and it's a very broken Hallelujah",
+        "avg_logprob": -0.10520481338372102
+      },
+      {
+        "id": 7,
+        "start": 189.52,
+        "end": 201.248,
+        "text": " um",
+        "avg_logprob": -1.53125
+      },
+      {
+        "id": 8,
+        "start": 229.565,
+        "end": 257.442,
+        "text": " Hallelujah, Hallelujah Oh people, I've been here before I know this room and I've walked this floor You see, I used to live alone before I knew you",
+        "avg_logprob": -0.13177849352359772
+      },
+      {
+        "id": 9,
+        "start": 259.973,
+        "end": 279.481,
+        "text": " And I've seen your flag on the marble arch. But listen, love, love is not some kind of victory march. No, it's a cold and it's a very lonely hallelujah. Hallelujah.",
+        "avg_logprob": -0.11546148602352586
+      },
+      {
+        "id": 10,
+        "start": 299.495,
+        "end": 317.905,
+        "text": " there was a time you let me know what's really going on below but now now you never even show it to me to you I remember",
+        "avg_logprob": -0.14938038998636707
+      },
+      {
+        "id": 11,
+        "start": 318.547,
+        "end": 340.282,
+        "text": " When I moved in you and the holy dove she was moving too and every single breath that we drew was Hallelujah Hallelujah Hallelujah",
+        "avg_logprob": -0.22562500476837158
+      },
+      {
+        "id": 12,
+        "start": 355.418,
+        "end": 369.728,
+        "text": " I've done my best, I know it wasn't much I couldn't feel, so I learned to touch I've told the truth, I didn't come here to London just to fool you",
+        "avg_logprob": -0.07314452938735486
+      },
+      {
+        "id": 13,
+        "start": 372.58,
+        "end": 400.036,
+        "text": " And even though it all went wrong, I'll stand right here before the Lord of song with nothing, nothing on my tongue but Hallelujah. Hallelujah. Hallelujah. Hallelujah.",
+        "avg_logprob": -0.09637276657990047
+      },
+      {
+        "id": 14,
+        "start": 413.131,
+        "end": 417.468,
+        "text": " Hallelujah",
+        "avg_logprob": -0.199462890625
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "YrLk4vdY28Q",
+    "uploader": "Leonard Cohen",
+    "audio_file": "corpus/01_music_videos_audio/audio/YrLk4vdY28Q.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 14081402,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.270542,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:03:40Z"
+  },
+  "status": "success",
+  "error": null
+}

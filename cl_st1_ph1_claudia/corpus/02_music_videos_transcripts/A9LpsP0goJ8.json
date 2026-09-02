@@ -1,0 +1,112 @@
+{
+  "corpus_id": "A9LpsP0goJ8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/A9LpsP0goJ8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/A9LpsP0goJ8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/A9LpsP0goJ8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Can't see nothin' in front of me Can't see nothin' comin' up behind Make my way through the darkness Can't feel nothin', but there's change in my eyes Can't see what's proud of how far I've gone On the backs of 60 pounds strong On the shoulder head by the line Come on up for the rising Come on up with your heads in mine I don't care I can't believe that I see Mary in the garden It's a garden of a thousand size Controlling pictures of her children Dancing in the sky Filled with lies A figure runs around There's a blood mixed with mine Dream of life that's tuned in Like a catfish dancing on the end of my line With a sky of blackness and sorrow Sky of love, sky of tears Sky of glory and sadness Sky of mercy, sky of fear Sky of memory and shame You put a weight on my heart tonight Come on up for the rising Come on up for the rising Come on up for the rising Come on up for the rise Come on",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 4.942,
+        "end": 30.338,
+        "text": " Can't see nothin' in front of me Can't see nothin' comin' up behind Make my way through the darkness Can't feel nothin', but there's change in my eyes Can't see what's proud of how far I've gone",
+        "avg_logprob": -0.30867345965638454
+      },
+      {
+        "id": 2,
+        "start": 35.215,
+        "end": 53.018,
+        "text": " On the backs of 60 pounds strong On the shoulder head by the line Come on up for the rising Come on up with your heads in mine",
+        "avg_logprob": -0.3801185303720935
+      },
+      {
+        "id": 3,
+        "start": 77.892,
+        "end": 79.057,
+        "text": " I don't care",
+        "avg_logprob": -0.75078125
+      },
+      {
+        "id": 4,
+        "start": 135.183,
+        "end": 139.418,
+        "text": " I can't believe that",
+        "avg_logprob": -1.0279947519302368
+      },
+      {
+        "id": 5,
+        "start": 173.219,
+        "end": 194.33,
+        "text": " I see Mary in the garden It's a garden of a thousand size Controlling pictures of her children Dancing in the sky Filled with lies A figure runs around",
+        "avg_logprob": -0.34138257575757575
+      },
+      {
+        "id": 6,
+        "start": 195.528,
+        "end": 212.268,
+        "text": " There's a blood mixed with mine Dream of life that's tuned in Like a catfish dancing on the end of my line With a sky of blackness and sorrow",
+        "avg_logprob": -0.47150736608925986
+      },
+      {
+        "id": 7,
+        "start": 212.757,
+        "end": 235.184,
+        "text": " Sky of love, sky of tears Sky of glory and sadness Sky of mercy, sky of fear Sky of memory and shame You put a weight on my heart tonight",
+        "avg_logprob": -0.3143939393939394
+      },
+      {
+        "id": 8,
+        "start": 239.369,
+        "end": 263.534,
+        "text": " Come on up for the rising Come on up for the rising Come on up for the rising",
+        "avg_logprob": -0.3077713721676877
+      },
+      {
+        "id": 9,
+        "start": 269.491,
+        "end": 274.115,
+        "text": " Come on up for the rise Come on",
+        "avg_logprob": -1.0260416666666667
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "A9LpsP0goJ8",
+    "uploader": "Bruce Springsteen",
+    "audio_file": "corpus/01_music_videos_audio/audio/A9LpsP0goJ8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10667882,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 57.758461,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:55:23Z"
+  },
+  "status": "success",
+  "error": null
+}

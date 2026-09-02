@@ -1,0 +1,112 @@
+{
+  "corpus_id": "vNoKguSdy4Y",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/vNoKguSdy4Y.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/vNoKguSdy4Y.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/vNoKguSdy4Y.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I think, I think when it's all over it just comes back in flashes, you know? It's like a kaleidoscope of memories. It just all comes back. But he never does. I think part of me knew the second I saw him that this would happen. It's not really anything he said or anything he did. It was the feeling that came along with it. And crazy thing is, I don't know if I'm ever going to feel that way again. But I don't know if I should. I knew his world moved too fast and burned too bright. But I just thought, how can the devil be pulling you towards someone who looks so much like an angel when he smiles at you? Maybe he knew that when he saw me. I guess I just lost my balance. I think that the worst part of it all wasn't losing him. It was losing me. Blame is on me. Cause I knew you were trouble when you walked in. So shame on me now. Blew me to places I never been. Till you put me down. Oh, I knew you were trouble when you walked in. He'll never see you cry Pretends he doesn't know That he's the reason why You're drowning, you're drowning You're drowning And I heard you moved on From whispers on the street A new notch in your belt It's all I'll ever be And now I see, now I see Trouble where you walked in So shame on me and let out To be two places I've never been Now I'm lying on the cold hard ground Oh, oh Trouble, trouble, trouble Oh, oh Trouble, trouble, trouble And the saddest fear comes creeping in that you never loved me or her or anyone or anything I don't know if you know who you are until you lose who you are.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 30.44,
+        "end": 51.112,
+        "text": " I think, I think when it's all over it just comes back in flashes, you know? It's like a kaleidoscope of memories. It just all comes back. But he never does. I think part of me knew the second I saw him that this would happen.",
+        "avg_logprob": -0.0578192340145851
+      },
+      {
+        "id": 2,
+        "start": 53.963,
+        "end": 71.699,
+        "text": " It's not really anything he said or anything he did. It was the feeling that came along with it. And crazy thing is, I don't know if I'm ever going to feel that way again. But I don't know if I should.",
+        "avg_logprob": -0.05483774031297518
+      },
+      {
+        "id": 3,
+        "start": 80.12,
+        "end": 107.828,
+        "text": " I knew his world moved too fast and burned too bright. But I just thought, how can the devil be pulling you towards someone who looks so much like an angel when he smiles at you? Maybe he knew that when he saw me.",
+        "avg_logprob": -0.04775191448172744
+      },
+      {
+        "id": 4,
+        "start": 112.334,
+        "end": 128.585,
+        "text": " I guess I just lost my balance. I think that the worst part of it all wasn't losing him. It was losing me.",
+        "avg_logprob": -0.047433034383824894
+      },
+      {
+        "id": 5,
+        "start": 161.609,
+        "end": 180.779,
+        "text": " Blame is on me. Cause I knew you were trouble when you walked in. So shame on me now. Blew me to places I never been. Till you put me down. Oh, I knew you were trouble when you walked in.",
+        "avg_logprob": -0.14407168708595575
+      },
+      {
+        "id": 6,
+        "start": 201.788,
+        "end": 223.152,
+        "text": " He'll never see you cry Pretends he doesn't know That he's the reason why You're drowning, you're drowning You're drowning And I heard you moved on From whispers on the street A new notch in your belt It's all I'll ever be And now I see, now I see",
+        "avg_logprob": -0.09570312728324244
+      },
+      {
+        "id": 7,
+        "start": 252.599,
+        "end": 278.03,
+        "text": " Trouble where you walked in So shame on me and let out To be two places I've never been Now I'm lying on the cold hard ground Oh, oh Trouble, trouble, trouble Oh, oh Trouble, trouble, trouble And the saddest fear",
+        "avg_logprob": -0.1540798591794791
+      },
+      {
+        "id": 8,
+        "start": 278.941,
+        "end": 288.222,
+        "text": " comes creeping in that you never loved me or her or anyone or anything",
+        "avg_logprob": -0.18893229762713115
+      },
+      {
+        "id": 9,
+        "start": 342.627,
+        "end": 346.272,
+        "text": " I don't know if you know who you are until you lose who you are.",
+        "avg_logprob": -0.014716254081577063
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "vNoKguSdy4Y",
+    "uploader": "Taylor Swift",
+    "audio_file": "corpus/01_music_videos_audio/audio/vNoKguSdy4Y.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11438414,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.538974,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:06:20Z"
+  },
+  "status": "success",
+  "error": null
+}

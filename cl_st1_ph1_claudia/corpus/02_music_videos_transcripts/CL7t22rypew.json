@@ -1,0 +1,84 @@
+{
+  "corpus_id": "CL7t22rypew",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CL7t22rypew.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/CL7t22rypew.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/CL7t22rypew.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I don't know what it is that makes me love you so I only know I never wanna let you go Cause you started something, oh did you see That ever since we met you had a hold on me It happens to be true Now I want to spend each moment of this day with you All of what has happened but just one kiss I just want to be beside you everywhere As long as we're together, honey, I'm gonna care As soon as we started something, I'll let you see That ever since we met, you had a heart like me No matter what you do, honey, I wanna be with you Thank you. And I didn't stand a chance Now hear me tell you I just wanna be beside you everywhere As long as we're together, honey, I don't care Cause when we started something, didn't you see That ever since we met you had a hold on me No matter what you do I only wanna be with you I said goodbye, no matter what you do",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 7.523,
+        "end": 25.09,
+        "text": " I don't know what it is that makes me love you so I only know I never wanna let you go Cause you started something, oh did you see That ever since we met you had a hold on me It happens to be true",
+        "avg_logprob": -0.1254882781455914
+      },
+      {
+        "id": 2,
+        "start": 30.659,
+        "end": 39.89,
+        "text": " Now I want to spend each moment of this day with you All of what has happened but just one kiss",
+        "avg_logprob": -0.42542613500898535
+      },
+      {
+        "id": 3,
+        "start": 65.303,
+        "end": 87.123,
+        "text": " I just want to be beside you everywhere As long as we're together, honey, I'm gonna care As soon as we started something, I'll let you see That ever since we met, you had a heart like me No matter what you do, honey, I wanna be with you",
+        "avg_logprob": -0.17915784605478835
+      },
+      {
+        "id": 4,
+        "start": 95.763,
+        "end": 100.437,
+        "text": " Thank you.",
+        "avg_logprob": -0.67236328125
+      },
+      {
+        "id": 5,
+        "start": 119.185,
+        "end": 148.042,
+        "text": " And I didn't stand a chance Now hear me tell you I just wanna be beside you everywhere As long as we're together, honey, I don't care Cause when we started something, didn't you see That ever since we met you had a hold on me No matter what you do I only wanna be with you I said goodbye, no matter what you do",
+        "avg_logprob": -0.14210304235284393
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "CL7t22rypew",
+    "uploader": "themotownboy1",
+    "audio_file": "corpus/01_music_videos_audio/audio/CL7t22rypew.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5151564,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.809117,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:12:44Z"
+  },
+  "status": "success",
+  "error": null
+}

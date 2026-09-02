@@ -1,0 +1,77 @@
+{
+  "corpus_id": "m-H0uIH5HHQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/m-H0uIH5HHQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/m-H0uIH5HHQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/m-H0uIH5HHQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "And I ripped up a booth Placed my two walls And the cry of a top cat Life's going out And I'm kicking the balls I say let's be entertainment Let's be entertainment with brain on a foreign Wednesday. Watching the news and not teaching our team. I'm freezing cold flat and damp on the walls. I say, let's entertainment. Let's entertainment. Waking up at 6 AM on a cool, warm morning. Opening the windows and breathing in petrol. An amateur band in a nearby yard. We'll be right back. Kissing man's the scream of midnight. Two lovers missing the tranquillity of solitude. Getting a carry, stabbling on buses. Read no graffiti about slash seat of fantasy. That's you to say.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 42.337,
+        "end": 57.203,
+        "text": " And I ripped up a booth Placed my two walls And the cry of a top cat Life's going out And I'm kicking the balls I say let's be entertainment Let's be entertainment",
+        "avg_logprob": -0.3585737148920695
+      },
+      {
+        "id": 2,
+        "start": 68.645,
+        "end": 98.412,
+        "text": " with brain on a foreign Wednesday. Watching the news and not teaching our team. I'm freezing cold flat and damp on the walls. I say, let's entertainment. Let's entertainment. Waking up at 6 AM on a cool, warm morning. Opening the windows and breathing in petrol. An amateur band in a nearby yard.",
+        "avg_logprob": -0.2890624973703833
+      },
+      {
+        "id": 3,
+        "start": 133.816,
+        "end": 144.43,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.6501116241727557
+      },
+      {
+        "id": 4,
+        "start": 149.56,
+        "end": 164.022,
+        "text": " Kissing man's the scream of midnight. Two lovers missing the tranquillity of solitude. Getting a carry, stabbling on buses. Read no graffiti about slash seat of fantasy. That's you to say.",
+        "avg_logprob": -0.329483692412791
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "m-H0uIH5HHQ",
+    "uploader": "The Jam",
+    "audio_file": "corpus/01_music_videos_audio/audio/m-H0uIH5HHQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6790708,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.461677,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:57:46Z"
+  },
+  "status": "success",
+  "error": null
+}

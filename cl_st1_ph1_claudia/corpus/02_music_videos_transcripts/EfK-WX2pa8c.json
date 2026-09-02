@@ -1,0 +1,91 @@
+{
+  "corpus_id": "EfK-WX2pa8c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/EfK-WX2pa8c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/EfK-WX2pa8c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/EfK-WX2pa8c.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "London calling to the faraway towns Now war is declared and battle calmed down London calling to the underworld Come out of the cupboard, you boys and girls London calling, now don't look to us Phony Beatlemania has bitten the dust London calling, see we ain't got no swing Except for the ring and the truncheon thing The ice age is coming, the sun's zooming in Meltdown expected, the wheat is going thin Engines stop running, but I have no fear Cos London is drowning now To the invitation zone Forget it brother, you can go it alone London Calling To the zombies of death Quit holding out And draw another breath London Calling And I don't wanna shout But while we were talking I saw you nodding out London Calling See we ain't got no hide Except for that one with the yellowy eyes. The ice age is coming, the sun's zooming in. Engines start running, the wheat is going thin. A nuclear era, but I have no fear. Because London is drowning and I am here by the river. The ice age is coming, the sun's zooming in. Engines stop running, the weight is going thin. A nuclear arrow, but I have no fear. London calling, yes, I was there too And you know what they said? Well, some of it was true London calling at the top of the dial And after all this, won't you give me a smile? London calling I never felt so much alike",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 25.073,
+        "end": 42.708,
+        "text": " London calling to the faraway towns Now war is declared and battle calmed down London calling to the underworld Come out of the cupboard, you boys and girls London calling, now don't look to us",
+        "avg_logprob": -0.11385289634146341
+      },
+      {
+        "id": 2,
+        "start": 42.708,
+        "end": 67.413,
+        "text": " Phony Beatlemania has bitten the dust London calling, see we ain't got no swing Except for the ring and the truncheon thing The ice age is coming, the sun's zooming in Meltdown expected, the wheat is going thin Engines stop running, but I have no fear Cos London is drowning now",
+        "avg_logprob": -0.209375
+      },
+      {
+        "id": 3,
+        "start": 71.429,
+        "end": 95.037,
+        "text": " To the invitation zone Forget it brother, you can go it alone London Calling To the zombies of death Quit holding out And draw another breath London Calling And I don't wanna shout But while we were talking I saw you nodding out London Calling See we ain't got no hide",
+        "avg_logprob": -0.1674107156161751
+      },
+      {
+        "id": 4,
+        "start": 95.037,
+        "end": 114.815,
+        "text": " Except for that one with the yellowy eyes. The ice age is coming, the sun's zooming in. Engines start running, the wheat is going thin. A nuclear era, but I have no fear. Because London is drowning and I am here by the river.",
+        "avg_logprob": -0.25906808940427645
+      },
+      {
+        "id": 5,
+        "start": 143.114,
+        "end": 153.425,
+        "text": " The ice age is coming, the sun's zooming in. Engines stop running, the weight is going thin. A nuclear arrow, but I have no fear.",
+        "avg_logprob": -0.23874080531737385
+      },
+      {
+        "id": 6,
+        "start": 173.624,
+        "end": 197.03,
+        "text": " London calling, yes, I was there too And you know what they said? Well, some of it was true London calling at the top of the dial And after all this, won't you give me a smile? London calling I never felt so much alike",
+        "avg_logprob": -0.09374999943769204
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "EfK-WX2pa8c",
+    "uploader": "The Clash",
+    "audio_file": "corpus/01_music_videos_audio/audio/EfK-WX2pa8c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6453368,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 29.102087,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:53:16Z"
+  },
+  "status": "success",
+  "error": null
+}

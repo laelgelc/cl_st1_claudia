@@ -1,0 +1,105 @@
+{
+  "corpus_id": "csATriX8Ed0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/csATriX8Ed0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/csATriX8Ed0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/csATriX8Ed0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I hear her voice in my mind I know her face by heart Heaven and earth are moving in my soul I don't know where to start Tell me, tell me the words to define The way I feel about someone so fine How do you talk to an angel? How do you hold her close to where you are? How do you talk to an angel? It's like trying to catch a falling star. At night I dream that she is there and I can feel her. Tell me, tell me the words to define The way I feel about someone so fine How do you talk to an angel? How do you hold it close to where you are? How do you talk to an angel? It's like trying to catch a falling star How do you talk to an angel? How do you hold her close to where you are? How do you talk to an angel? It's like trying to catch a falling star. How do you talk to an angel? How do you hold her close to where you are? How do you talk to an angel? It's like trying to catch a falling star. Yeah Yeah",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 13.008,
+        "end": 34.203,
+        "text": " I hear her voice in my mind I know her face by heart Heaven and earth are moving in my soul I don't know where to start",
+        "avg_logprob": -0.06650727267923026
+      },
+      {
+        "id": 2,
+        "start": 36.413,
+        "end": 64.257,
+        "text": " Tell me, tell me the words to define The way I feel about someone so fine How do you talk to an angel? How do you hold her close to where you are? How do you talk to an angel?",
+        "avg_logprob": -0.04526909821563297
+      },
+      {
+        "id": 3,
+        "start": 65.945,
+        "end": 88.507,
+        "text": " It's like trying to catch a falling star. At night I dream that she is there and I can feel her.",
+        "avg_logprob": -0.1030468726158142
+      },
+      {
+        "id": 4,
+        "start": 92.742,
+        "end": 120.67,
+        "text": " Tell me, tell me the words to define The way I feel about someone so fine How do you talk to an angel? How do you hold it close to where you are? How do you talk to an angel?",
+        "avg_logprob": -0.06440972089767456
+      },
+      {
+        "id": 5,
+        "start": 122.206,
+        "end": 126.897,
+        "text": " It's like trying to catch a falling star",
+        "avg_logprob": -0.11289062350988388
+      },
+      {
+        "id": 6,
+        "start": 157.913,
+        "end": 173.742,
+        "text": " How do you talk to an angel? How do you hold her close to where you are? How do you talk to an angel?",
+        "avg_logprob": -0.015956333904926265
+      },
+      {
+        "id": 7,
+        "start": 175.447,
+        "end": 201.468,
+        "text": " It's like trying to catch a falling star. How do you talk to an angel? How do you hold her close to where you are? How do you talk to an angel? It's like trying to catch a falling star.",
+        "avg_logprob": -0.05297851523694893
+      },
+      {
+        "id": 8,
+        "start": 207.104,
+        "end": 219.558,
+        "text": " Yeah Yeah",
+        "avg_logprob": -0.5022786458333334
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "csATriX8Ed0",
+    "uploader": "TheHeightsVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/csATriX8Ed0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7170400,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.494792,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:06:15Z"
+  },
+  "status": "success",
+  "error": null
+}

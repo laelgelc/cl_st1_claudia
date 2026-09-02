@@ -1,0 +1,105 @@
+{
+  "corpus_id": "AINTOW_hZlw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/AINTOW_hZlw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/AINTOW_hZlw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/AINTOW_hZlw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Yet I look for the light through the pouring rain You know that's a game that I hate to lose And I'm feeling the strain, always, yeah Oh, give me the beat, boys, and free my soul I wanna get lost in your rock and roll and drift away Give me the beat, boys, and free my soul I wanna get lost in your rock and roll And drift away Won't you take me away? Beginning to think that I'm wasting time I don't understand the things I do The world outside looks so unkind And I'm counting on you You can carry me through Give me the beat boys and free my soul I wanna get lost in your rock and roll and drift away Give me the beat boys and free my soul I wanna get lost in your rock and roll and drift away And when my mind is free You know a melody can move me When I'm feeling blue The guitar's coming through to soothe me Thanks for the joy that you're giving me Ooh, the joy that you're giving me I want you to know that I believe in your song Rhythm and rhyme and harmony. Can you help me along? Are you making me strong? Oh, give me the beat, boys, and free my soul. I wanna get lost in your rock and roll and drift away. Give me the beat boys and free my soul I wanna get lost in your rock and roll and drift away Give me the beat boys and free my soul I wanna get lost in your rock and roll and drift away Poison free my soul, I wanna get lost in your rock and roll and drift away. Yeah, won't you take me? Won't you take me? you",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 19.538,
+        "end": 45.982,
+        "text": " Yet I look for the light through the pouring rain You know that's a game that I hate to lose And I'm feeling the strain, always, yeah Oh, give me the beat, boys, and free my soul I wanna get lost in your rock and roll and drift away",
+        "avg_logprob": -0.15789473475071422
+      },
+      {
+        "id": 2,
+        "start": 47.602,
+        "end": 76.238,
+        "text": " Give me the beat, boys, and free my soul I wanna get lost in your rock and roll And drift away Won't you take me away? Beginning to think that I'm wasting time I don't understand the things I do",
+        "avg_logprob": -0.09017619490623474
+      },
+      {
+        "id": 3,
+        "start": 79.715,
+        "end": 109.162,
+        "text": " The world outside looks so unkind And I'm counting on you You can carry me through Give me the beat boys and free my soul I wanna get lost in your rock and roll and drift away Give me the beat boys and free my soul I wanna get lost in your rock and roll and drift away",
+        "avg_logprob": -0.07940573526210472
+      },
+      {
+        "id": 4,
+        "start": 120.839,
+        "end": 149.088,
+        "text": " And when my mind is free You know a melody can move me When I'm feeling blue The guitar's coming through to soothe me Thanks for the joy that you're giving me Ooh, the joy that you're giving me I want you to know that I believe in your song",
+        "avg_logprob": -0.07846765246307641
+      },
+      {
+        "id": 5,
+        "start": 152.53,
+        "end": 172.055,
+        "text": " Rhythm and rhyme and harmony. Can you help me along? Are you making me strong? Oh, give me the beat, boys, and free my soul. I wanna get lost in your rock and roll and drift away.",
+        "avg_logprob": -0.1473570542132601
+      },
+      {
+        "id": 6,
+        "start": 176.999,
+        "end": 197.688,
+        "text": " Give me the beat boys and free my soul I wanna get lost in your rock and roll and drift away Give me the beat boys and free my soul I wanna get lost in your rock and roll and drift away",
+        "avg_logprob": -0.09011627733707428
+      },
+      {
+        "id": 7,
+        "start": 203.105,
+        "end": 219.625,
+        "text": " Poison free my soul, I wanna get lost in your rock and roll and drift away. Yeah, won't you take me? Won't you take me?",
+        "avg_logprob": -0.11023667432806071
+      },
+      {
+        "id": 8,
+        "start": 245.63,
+        "end": 247.587,
+        "text": " you",
+        "avg_logprob": -0.6220703125
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "AINTOW_hZlw",
+    "uploader": "Music",
+    "audio_file": "corpus/01_music_videos_audio/audio/AINTOW_hZlw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8198022,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.13905,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:05:03Z"
+  },
+  "status": "success",
+  "error": null
+}

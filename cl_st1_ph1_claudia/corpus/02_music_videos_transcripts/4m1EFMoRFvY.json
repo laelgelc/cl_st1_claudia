@@ -1,0 +1,70 @@
+{
+  "corpus_id": "4m1EFMoRFvY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4m1EFMoRFvY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/4m1EFMoRFvY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/4m1EFMoRFvY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "He decided to dip, and I get on a trip, cause another brother noticed me I'm up on him, he up on me, don't pay him any attention Just cried my tears, gave him three good years I need no permission. Did I mention don't pay him any attention because you had your time Treat me to these things of the world I'm not that kind of girl Your love is what I prefer, what I deserve Here's a man that makes me, then takes me And delivers me to a destiny to infinity and beyond Pull me into your arms Say I'm the one you want If you don't, we'll be alone And like a ghost, I'll be gone On a single night, on a single night",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 15.978,
+        "end": 29.36,
+        "text": " He decided to dip, and I get on a trip, cause another brother noticed me I'm up on him, he up on me, don't pay him any attention Just cried my tears, gave him three good years",
+        "avg_logprob": -0.2810763994852702
+      },
+      {
+        "id": 2,
+        "start": 65.422,
+        "end": 77.183,
+        "text": " I need no permission. Did I mention don't pay him any attention because you had your time",
+        "avg_logprob": -0.3896484375
+      },
+      {
+        "id": 3,
+        "start": 122.341,
+        "end": 151.585,
+        "text": " Treat me to these things of the world I'm not that kind of girl Your love is what I prefer, what I deserve Here's a man that makes me, then takes me And delivers me to a destiny to infinity and beyond Pull me into your arms Say I'm the one you want If you don't, we'll be alone And like a ghost, I'll be gone On a single night, on a single night",
+        "avg_logprob": -0.13953489013189493
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "4m1EFMoRFvY",
+    "uploader": "Beyoncé",
+    "audio_file": "corpus/01_music_videos_audio/audio/4m1EFMoRFvY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6413988,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.460557,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:18:39Z"
+  },
+  "status": "success",
+  "error": null
+}

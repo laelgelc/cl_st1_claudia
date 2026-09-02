@@ -1,0 +1,70 @@
+{
+  "corpus_id": "jrL_LzX5wv4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/jrL_LzX5wv4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/jrL_LzX5wv4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/jrL_LzX5wv4.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I came to get down, I came to get down So get down to your seat and jump around, jump around Jump around. Jump around. Like Arnold Schwarzenegger Tryin' to play me out like as if my name was Sega But I ain't goin' out like no punk bitch Get used to one's ballet, yo, and I might switch it up Up and around, then buck, buck it down Put out your head and then you wake up in the dawn of the dead I'm comin' to get ya, I'm comin' to get ya Spittin' out lyrics, homie, I want ya I came to get down, I came to get down So get out your seat and jump around, jump around",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 27.605,
+        "end": 56.663,
+        "text": " I came to get down, I came to get down So get down to your seat and jump around, jump around",
+        "avg_logprob": -0.1620279923081398
+      },
+      {
+        "id": 2,
+        "start": 86.296,
+        "end": 106.276,
+        "text": " Jump around. Jump around.",
+        "avg_logprob": -0.5666852678571429
+      },
+      {
+        "id": 3,
+        "start": 138.153,
+        "end": 160.208,
+        "text": " Like Arnold Schwarzenegger Tryin' to play me out like as if my name was Sega But I ain't goin' out like no punk bitch Get used to one's ballet, yo, and I might switch it up Up and around, then buck, buck it down Put out your head and then you wake up in the dawn of the dead I'm comin' to get ya, I'm comin' to get ya Spittin' out lyrics, homie, I want ya I came to get down, I came to get down So get out your seat and jump around, jump around",
+        "avg_logprob": -0.14497950160112538
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "jrL_LzX5wv4",
+    "uploader": "HouseOfPainTV",
+    "audio_file": "corpus/01_music_videos_audio/audio/jrL_LzX5wv4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6899192,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.916686,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:09:06Z"
+  },
+  "status": "success",
+  "error": null
+}

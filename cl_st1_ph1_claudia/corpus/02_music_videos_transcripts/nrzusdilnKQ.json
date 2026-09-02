@@ -1,0 +1,112 @@
+{
+  "corpus_id": "nrzusdilnKQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nrzusdilnKQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/nrzusdilnKQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/nrzusdilnKQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Of all of the songs around, sometimes the old ones I think are interesting, especially when they're redone in a different manner. Many of you, I'm sure, will remember this tune. It's a very old song. I only have eyes for you. And to do it, here are the Flamingos. My love must be a kind of blind love I can't see anyone but you. Are the stars out tonight? I don't know if it's cloudy or bright I only have eyes The moon may be high But I can't see a thing in the sky I only have eyes for you We're in a garden Are on a crowded avenue You are here, and so am I. Maybe millions of people go by. From you And I only have eyes Thank you fellas very much.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.111,
+        "end": 30.119,
+        "text": " Of all of the songs around, sometimes the old ones I think are interesting, especially when they're redone in a different manner. Many of you, I'm sure, will remember this tune. It's a very old song. I only have eyes for you. And to do it, here are the Flamingos. My love must be a kind of blind love",
+        "avg_logprob": -0.0699013152993039
+      },
+      {
+        "id": 2,
+        "start": 32.718,
+        "end": 46.808,
+        "text": " I can't see anyone but you.",
+        "avg_logprob": -0.1264105902777778
+      },
+      {
+        "id": 3,
+        "start": 49.053,
+        "end": 76.964,
+        "text": " Are the stars out tonight? I don't know if it's cloudy or bright I only have eyes",
+        "avg_logprob": -0.08947172335215978
+      },
+      {
+        "id": 4,
+        "start": 84.524,
+        "end": 98.125,
+        "text": " The moon may be high",
+        "avg_logprob": -0.732421875
+      },
+      {
+        "id": 5,
+        "start": 99.205,
+        "end": 124.045,
+        "text": " But I can't see a thing in the sky I only have eyes for you",
+        "avg_logprob": -0.11333869485294118
+      },
+      {
+        "id": 6,
+        "start": 129.361,
+        "end": 157.93,
+        "text": " We're in a garden Are on a crowded avenue",
+        "avg_logprob": -0.36718750541860407
+      },
+      {
+        "id": 7,
+        "start": 158.74,
+        "end": 175.109,
+        "text": " You are here, and so am I. Maybe millions of people go by.",
+        "avg_logprob": -0.17072610294117646
+      },
+      {
+        "id": 8,
+        "start": 180.087,
+        "end": 196.456,
+        "text": " From you And I only have eyes",
+        "avg_logprob": -0.2526855543255806
+      },
+      {
+        "id": 9,
+        "start": 201.907,
+        "end": 222.848,
+        "text": " Thank you fellas very much.",
+        "avg_logprob": -0.3058035799435207
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "nrzusdilnKQ",
+    "uploader": "NRRArchives",
+    "audio_file": "corpus/01_music_videos_audio/audio/nrzusdilnKQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7290030,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.961388,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:20:09Z"
+  },
+  "status": "success",
+  "error": null
+}

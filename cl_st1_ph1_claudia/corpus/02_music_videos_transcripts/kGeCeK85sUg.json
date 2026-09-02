@@ -1,0 +1,105 @@
+{
+  "corpus_id": "kGeCeK85sUg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/kGeCeK85sUg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/kGeCeK85sUg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/kGeCeK85sUg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Many rivers to cross But I can't seem to find My way over Wandering I've been lost As I traveled along The white cliffs of Dover And it's only my will that keeps me alive. I've been licked, washed up for years. And I merely survive because of my pride. And the loneliness wouldn't leave me alone Such a dread to be on your own My woman left and she didn't say why Well I guess I had to cry But just where to begin Been playing for time There'll be times I find myself Thinking of committing Some dreadful crime It was so hard to find my way over Wanderin' up in love as I traveled along White cliffs of Dover Love is my foundation Wisdom is my capital Struggle is my minor Truth is my redeemer Sorrow is my companion Love is my foundation It's been so hard to find my way over. Wandering, I've been lost as I traveled along the white cliffs of dawn. Fantastic. Jimmy Kimp. Many rivers to cross. Before that, white lies.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 16.72,
+        "end": 43.602,
+        "text": " Many rivers to cross But I can't seem to find My way over Wandering I've been lost As I traveled along The white cliffs of Dover",
+        "avg_logprob": -0.13709677323218314
+      },
+      {
+        "id": 2,
+        "start": 47.332,
+        "end": 71.007,
+        "text": " And it's only my will that keeps me alive. I've been licked, washed up for years. And I merely survive because of my pride.",
+        "avg_logprob": -0.10809326148591936
+      },
+      {
+        "id": 3,
+        "start": 74.618,
+        "end": 97.332,
+        "text": " And the loneliness wouldn't leave me alone Such a dread to be on your own My woman left and she didn't say why Well I guess I had to cry",
+        "avg_logprob": -0.1025686553030303
+      },
+      {
+        "id": 4,
+        "start": 105.112,
+        "end": 125.294,
+        "text": " But just where to begin Been playing for time There'll be times I find myself Thinking of committing Some dreadful crime",
+        "avg_logprob": -0.21191406374176344
+      },
+      {
+        "id": 5,
+        "start": 132.331,
+        "end": 153.965,
+        "text": " It was so hard to find my way over Wanderin' up in love as I traveled along White cliffs of Dover",
+        "avg_logprob": -0.2295673036804566
+      },
+      {
+        "id": 6,
+        "start": 158.639,
+        "end": 179.058,
+        "text": " Love is my foundation Wisdom is my capital Struggle is my minor Truth is my redeemer Sorrow is my companion Love is my foundation",
+        "avg_logprob": -0.0882273686343226
+      },
+      {
+        "id": 7,
+        "start": 185.96,
+        "end": 207.29,
+        "text": " It's been so hard to find my way over. Wandering, I've been lost as I traveled along the white cliffs of dawn.",
+        "avg_logprob": -0.19948814449639157
+      },
+      {
+        "id": 8,
+        "start": 226.645,
+        "end": 236.872,
+        "text": " Fantastic. Jimmy Kimp. Many rivers to cross. Before that, white lies.",
+        "avg_logprob": -0.3980034788449605
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "kGeCeK85sUg",
+    "uploader": "worldsgreatestmusic",
+    "audio_file": "corpus/01_music_videos_audio/audio/kGeCeK85sUg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7585016,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.736659,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:57:30Z"
+  },
+  "status": "success",
+  "error": null
+}

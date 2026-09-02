@@ -1,0 +1,91 @@
+{
+  "corpus_id": "uxjQ3M_v7xc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uxjQ3M_v7xc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/uxjQ3M_v7xc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/uxjQ3M_v7xc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You know what it is? Yeah. That's a pretty hard way to get into it all. It's teardrops artificially produced. Tears on my pillow. Little Anthony and the Imperial. You don't remember me But I remember you It was not so long ago You broke my heart in two Tears on my clothes Pain in my heart Caused by you If we could start anew I wouldn't hesitate I'd gladly take you back And tempt the hand of fate Tears on my pillow Pain in my heart Pulled by you Love is not a gadget Love is not a toy When you find the one you love She'll fill your heart with joy If we could start anew, I wouldn't hesitate. I'd gladly take you back and tempt the hand of fate. Tears on my pillow, pain in my heart, poured by you. Man has kind of a very very interesting vocal styling is this without a doubt",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 4.655,
+        "end": 19.623,
+        "text": " You know what it is? Yeah. That's a pretty hard way to get into it all. It's teardrops artificially produced. Tears on my pillow. Little Anthony and the Imperial.",
+        "avg_logprob": -0.10518973001411983
+      },
+      {
+        "id": 2,
+        "start": 23.808,
+        "end": 51.955,
+        "text": " You don't remember me But I remember you It was not so long ago You broke my heart in two",
+        "avg_logprob": -0.09454900771379471
+      },
+      {
+        "id": 3,
+        "start": 52.343,
+        "end": 80.828,
+        "text": " Tears on my clothes Pain in my heart Caused by you If we could start anew I wouldn't hesitate I'd gladly take you back And tempt the hand of fate",
+        "avg_logprob": -0.1501736148364014
+      },
+      {
+        "id": 4,
+        "start": 81.537,
+        "end": 109.718,
+        "text": " Tears on my pillow Pain in my heart Pulled by you Love is not a gadget Love is not a toy When you find the one you love She'll fill your heart with joy",
+        "avg_logprob": -0.0884559997602513
+      },
+      {
+        "id": 5,
+        "start": 110.393,
+        "end": 132.533,
+        "text": " If we could start anew, I wouldn't hesitate. I'd gladly take you back and tempt the hand of fate. Tears on my pillow, pain in my heart, poured by you.",
+        "avg_logprob": -0.09294017059047048
+      },
+      {
+        "id": 6,
+        "start": 163.398,
+        "end": 171.481,
+        "text": " Man has kind of a very very interesting vocal styling is this without a doubt",
+        "avg_logprob": -0.35424803383648396
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "uxjQ3M_v7xc",
+    "uploader": "NRRArchives",
+    "audio_file": "corpus/01_music_videos_audio/audio/uxjQ3M_v7xc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5496334,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.83472,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:07:57Z"
+  },
+  "status": "success",
+  "error": null
+}

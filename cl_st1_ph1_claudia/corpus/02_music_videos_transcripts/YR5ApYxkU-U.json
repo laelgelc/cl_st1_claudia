@@ -1,0 +1,98 @@
+{
+  "corpus_id": "YR5ApYxkU-U",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/YR5ApYxkU-U.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/YR5ApYxkU-U.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/YR5ApYxkU-U.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "What have we here, laddie? Mysterious scribblings? A secret code? No, poems, no less. Poems, everybody! The laddie reckons himself a poet. Money, get back. I'm all right, Jack. Keep your hands off my stack. New car, caviar, four-star daydream. Think I'll buy me a football team. Absolute rubbish, laddies. Repeat after me. An acre is the area of a rectangle whose length is... We don't need no education We don't need no thought control kids alone. Hey! Teacher! Leave them kids alone! All in all, it's just another brick in the wall. All in all, you're just another brick in Don't eat your meat. You can't have any pudding. We don't need no food control. How can you have any pudding if you don't eat your meat? Nika is the area of a rectangle whose length is one for all and whose width is one for all.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 46.842,
+        "end": 74.855,
+        "text": " What have we here, laddie? Mysterious scribblings? A secret code?",
+        "avg_logprob": -0.15111019266279122
+      },
+      {
+        "id": 2,
+        "start": 76.12,
+        "end": 98.513,
+        "text": " No, poems, no less. Poems, everybody! The laddie reckons himself a poet. Money, get back. I'm all right, Jack. Keep your hands off my stack. New car, caviar, four-star daydream. Think I'll buy me a football team. Absolute rubbish, laddies.",
+        "avg_logprob": -0.12745535245963505
+      },
+      {
+        "id": 3,
+        "start": 103.373,
+        "end": 109.364,
+        "text": " Repeat after me. An acre is the area of a rectangle whose length is...",
+        "avg_logprob": -0.15728400735294118
+      },
+      {
+        "id": 4,
+        "start": 141.865,
+        "end": 155.028,
+        "text": " We don't need no education We don't need no thought control",
+        "avg_logprob": -0.09354073713932719
+      },
+      {
+        "id": 5,
+        "start": 171.464,
+        "end": 201.265,
+        "text": " kids alone. Hey! Teacher! Leave them kids alone! All in all, it's just another brick in the wall. All in all, you're just another brick in",
+        "avg_logprob": -0.1522352360188961
+      },
+      {
+        "id": 6,
+        "start": 211.222,
+        "end": 220.3,
+        "text": " Don't eat your meat. You can't have any pudding. We don't need no food control. How can you have any pudding if you don't eat your meat?",
+        "avg_logprob": -0.2573784813284874
+      },
+      {
+        "id": 7,
+        "start": 338.206,
+        "end": 346.087,
+        "text": " Nika is the area of a rectangle whose length is one for all and whose width is one for all.",
+        "avg_logprob": -0.3702445755834165
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "YR5ApYxkU-U",
+    "uploader": "mongchilde",
+    "audio_file": "corpus/01_music_videos_audio/audio/YR5ApYxkU-U.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11526092,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.592057,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:08:04Z"
+  },
+  "status": "success",
+  "error": null
+}

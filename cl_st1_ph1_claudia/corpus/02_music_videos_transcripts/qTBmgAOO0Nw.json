@@ -1,0 +1,91 @@
+{
+  "corpus_id": "qTBmgAOO0Nw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/qTBmgAOO0Nw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/qTBmgAOO0Nw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/qTBmgAOO0Nw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Please don't leave me All by myself I've got this burning, burning, yearning Feeling inside me Deep inside me And it hurts so bad You came into my heart So tell me That stings like a bee Now that I've surrendered So helplessly You now wanna leave Ooh, you wanna leave me Ooh, baby, baby Where did our love go? Ooh, don't you wanna leave me Don't you want me no more? And all of your promises of a love forevermore, I've got this burning, burning, yearning feeling inside me, deep inside me, and it hurts so bad. That you got me Baby, baby You wanna leave me behind Baby, baby Ooh, baby, baby, baby Baby, don't leave me Ooh, please don't leave me Baby, baby All by myself Baby, baby Ooh, baby, baby Where did our love go? Ooh, don't you want me Baby, baby Don't you want me no more?",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 5.718,
+        "end": 34.456,
+        "text": " Please don't leave me All by myself I've got this burning, burning, yearning Feeling inside me Deep inside me And it hurts so bad You came into my heart So tell me",
+        "avg_logprob": -0.141858556945073
+      },
+      {
+        "id": 2,
+        "start": 40.109,
+        "end": 67.885,
+        "text": " That stings like a bee Now that I've surrendered So helplessly You now wanna leave Ooh, you wanna leave me Ooh, baby, baby Where did our love go? Ooh, don't you wanna leave me",
+        "avg_logprob": -0.1921164742247625
+      },
+      {
+        "id": 3,
+        "start": 68.341,
+        "end": 70.805,
+        "text": " Don't you want me no more?",
+        "avg_logprob": -0.16015625
+      },
+      {
+        "id": 4,
+        "start": 92.911,
+        "end": 112.975,
+        "text": " And all of your promises of a love forevermore, I've got this burning, burning, yearning feeling inside me, deep inside me, and it hurts so bad.",
+        "avg_logprob": -0.16883680183026525
+      },
+      {
+        "id": 5,
+        "start": 121.126,
+        "end": 151.062,
+        "text": " That you got me Baby, baby You wanna leave me behind Baby, baby Ooh, baby, baby, baby Baby, don't leave me Ooh, please don't leave me Baby, baby All by myself Baby, baby Ooh, baby, baby Where did our love go? Ooh, don't you want me Baby, baby",
+        "avg_logprob": -0.12547347920410562
+      },
+      {
+        "id": 6,
+        "start": 151.67,
+        "end": 154.201,
+        "text": " Don't you want me no more?",
+        "avg_logprob": -0.15234375
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "qTBmgAOO0Nw",
+    "uploader": "ForbiddenInGermany4",
+    "audio_file": "corpus/01_music_videos_audio/audio/qTBmgAOO0Nw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5381906,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 22.257081,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:22:24Z"
+  },
+  "status": "success",
+  "error": null
+}

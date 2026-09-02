@@ -1,0 +1,98 @@
+{
+  "corpus_id": "i8Whtxcw8oU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/i8Whtxcw8oU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/i8Whtxcw8oU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/i8Whtxcw8oU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "My mama told me, she said, son, please beware. There's this thing called love, and it's everywhere. She told me, it can break your heart and put you in misery. Since I met this little woman, I feel it's happened to me, and I'm telling you It's too late to turn back now, I believe, I believe, I believe I'm falling in love It's too late to turn back now, I believe, I believe, I believe I'm falling in love I found myself owning her at least ten times a day. You know, it's so unusual for me to carry on this way. I tell you, I can't sleep at night. I tried so hard to mess myself Now this feeling just can't be right And I'm telling you It's too late to turn back now I believe, I believe, I believe I'm falling in love It's too late to turn back now I believe, I believe, I believe I'm falling in love I wouldn't mind that If I knew she really loved me too But I'd hate to think that I'm in love alone And nothing that I can do Oh, it's too late to turn back now I believe, I believe, I believe I'm falling in love It's too late, baby I believe, I believe, I believe I'm falling in love It's too late I believe, I believe, I believe I'm falling in love",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 25.681,
+        "end": 48.935,
+        "text": " My mama told me, she said, son, please beware. There's this thing called love, and it's everywhere. She told me, it can break your heart and put you in misery.",
+        "avg_logprob": -0.17261904300678343
+      },
+      {
+        "id": 2,
+        "start": 50.504,
+        "end": 74.855,
+        "text": " Since I met this little woman, I feel it's happened to me, and I'm telling you It's too late to turn back now, I believe, I believe, I believe I'm falling in love It's too late to turn back now, I believe, I believe, I believe I'm falling in love",
+        "avg_logprob": -0.04984975961538462
+      },
+      {
+        "id": 3,
+        "start": 76.053,
+        "end": 93.923,
+        "text": " I found myself owning her at least ten times a day. You know, it's so unusual for me to carry on this way. I tell you, I can't sleep at night.",
+        "avg_logprob": -0.1227964705381638
+      },
+      {
+        "id": 4,
+        "start": 96.303,
+        "end": 124.417,
+        "text": " I tried so hard to mess myself Now this feeling just can't be right And I'm telling you It's too late to turn back now I believe, I believe, I believe I'm falling in love It's too late to turn back now I believe, I believe, I believe I'm falling in love",
+        "avg_logprob": -0.08792162745717973
+      },
+      {
+        "id": 5,
+        "start": 125.935,
+        "end": 148.379,
+        "text": " I wouldn't mind that If I knew she really loved me too",
+        "avg_logprob": -0.24651228317192622
+      },
+      {
+        "id": 6,
+        "start": 149.493,
+        "end": 176.29,
+        "text": " But I'd hate to think that I'm in love alone And nothing that I can do Oh, it's too late to turn back now I believe, I believe, I believe I'm falling in love It's too late, baby I believe, I believe, I believe I'm falling in love It's too late",
+        "avg_logprob": -0.09393028846153846
+      },
+      {
+        "id": 7,
+        "start": 179.176,
+        "end": 205.889,
+        "text": " I believe, I believe, I believe I'm falling in love",
+        "avg_logprob": -0.29380580357142855
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "i8Whtxcw8oU",
+    "uploader": "Matt Laufenberg",
+    "audio_file": "corpus/01_music_videos_audio/audio/i8Whtxcw8oU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6587858,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 37.535396,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:14:21Z"
+  },
+  "status": "success",
+  "error": null
+}

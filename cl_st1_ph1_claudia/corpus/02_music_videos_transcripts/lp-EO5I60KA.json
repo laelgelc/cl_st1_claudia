@@ -1,0 +1,119 @@
+{
+  "corpus_id": "lp-EO5I60KA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/lp-EO5I60KA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/lp-EO5I60KA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/lp-EO5I60KA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Will your mouth still remember the taste of my love? Will your eyes still smile from your cheeks? Darling, I will be loving you till we're 70 Baby, my heart could still fall as hard at 23 I'm thinking about how people fall in love Maybe just the touch of a hand Well me I fall in love with you every single day And I just wanna tell you I am So honey now Take me into your loving arms Kiss me under the light of a thousand stars Place your hand on my beating heart Thinking out loud Maybe we found love right where we are When my hair's all but gone and my memory fades And the crowds don't remember my name When my hands don't play the strings the same way I know you will still love me the same Cause honey, your soul could never grow old, it's evergreen And baby your smile's forever in my mind and memory I'm thinking about how people fall in love in mysterious ways And maybe it's all part of a plan I'll just keep on making the same Hoping that you'll understand Baby now Take me into your loving arms Kiss me under the light of a thousand stars Place your head on my beating heart Maybe we found love right take me into your loving arm kiss me under the light of a thousand stars oh darling place your head on my beating heart i'm thinking i Maybe we found love right where we are Maybe we found love right where we are And we found love right where we are",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 10,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.668,
+        "end": 30.22,
+        "text": " Will your mouth still remember the taste of my love? Will your eyes still smile from your cheeks?",
+        "avg_logprob": -0.08654204152879261
+      },
+      {
+        "id": 2,
+        "start": 31.233,
+        "end": 58.115,
+        "text": " Darling, I will be loving you till we're 70 Baby, my heart could still fall as hard at 23 I'm thinking about how people fall in love",
+        "avg_logprob": -0.18286133417859674
+      },
+      {
+        "id": 3,
+        "start": 62.418,
+        "end": 86.482,
+        "text": " Maybe just the touch of a hand Well me I fall in love with you every single day And I just wanna tell you I am So honey now Take me into your loving arms",
+        "avg_logprob": -0.1292317733168602
+      },
+      {
+        "id": 4,
+        "start": 90.734,
+        "end": 115.388,
+        "text": " Kiss me under the light of a thousand stars Place your hand on my beating heart Thinking out loud Maybe we found love right where we are When my hair's all but gone and my memory fades",
+        "avg_logprob": -0.07567107180754344
+      },
+      {
+        "id": 5,
+        "start": 118.24,
+        "end": 141.713,
+        "text": " And the crowds don't remember my name When my hands don't play the strings the same way I know you will still love me the same Cause honey, your soul could never grow old, it's evergreen",
+        "avg_logprob": -0.08639171303704728
+      },
+      {
+        "id": 6,
+        "start": 146.658,
+        "end": 174.738,
+        "text": " And baby your smile's forever in my mind and memory I'm thinking about how people fall in love in mysterious ways And maybe it's all part of a plan I'll just keep on making the same",
+        "avg_logprob": -0.149771338555871
+      },
+      {
+        "id": 7,
+        "start": 177.944,
+        "end": 202.565,
+        "text": " Hoping that you'll understand Baby now Take me into your loving arms Kiss me under the light of a thousand stars Place your head on my beating heart",
+        "avg_logprob": -0.06105090581601666
+      },
+      {
+        "id": 8,
+        "start": 207.442,
+        "end": 210.952,
+        "text": " Maybe we found love right",
+        "avg_logprob": -0.21354166169961294
+      },
+      {
+        "id": 9,
+        "start": 242.727,
+        "end": 260.007,
+        "text": " take me into your loving arm kiss me under the light of a thousand stars oh darling place your head on my beating heart i'm thinking i",
+        "avg_logprob": -0.19436960795830036
+      },
+      {
+        "id": 10,
+        "start": 262.218,
+        "end": 281.658,
+        "text": " Maybe we found love right where we are Maybe we found love right where we are And we found love right where we are",
+        "avg_logprob": -0.08859375
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "lp-EO5I60KA",
+    "uploader": "Ed Sheeran",
+    "audio_file": "corpus/01_music_videos_audio/audio/lp-EO5I60KA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9252394,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.645072,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:12:35Z"
+  },
+  "status": "success",
+  "error": null
+}

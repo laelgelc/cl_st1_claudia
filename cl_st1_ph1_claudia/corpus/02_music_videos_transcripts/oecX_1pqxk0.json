@@ -1,0 +1,147 @@
+{
+  "corpus_id": "oecX_1pqxk0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oecX_1pqxk0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/oecX_1pqxk0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/oecX_1pqxk0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Hey, Mr. Tambourine Man, play a song for me. I'm not sleepy and there's no place I'm going to. Hey, Mr. Tambourine Man, play a song for me. In the jingle jangle morning, I'll come following you. Oh, I know that evening's empire has returned into sand, vanished from my hand, left me blindly here to stand but still not sleeping. My weariness amazes me, I am branded on my feet. I have no one to meet, and the ancient empty street's too dead for dreaming. Hey, Mr. Tambourine Man, play a song for me. I'm not sleepy, and there is no place I'm going to. Hey, Mr. Tambourine Man, play a song for me. In the jingle jangle morning, I'll come find you. Take me on a trip upon your magic swirling ship, my senses have been stripped, my hands can't feel to grip, my toes too numb to step, wait only for my boot heels to be wandering. I'm ready to go anywhere, I'm ready for to fade Into my own parade, cast your dance and spill my way I promise to go under it Hey, Mr. Tambourine Man, play a song for me I'm not sleepy and there is no place I'm going to Hey, Mr. Tambourine Man, play a song for me. In a jingle jangle morning, I'll come following you. Though you might hear laughing spinning Swinging madly across the sun It's not aimed at anyone It's just escaping on the run And but for the sky there are no fences facing And if you hear vague traces of skipping reels of rhyme To your tambourine in time It's just a ragged clown behind I wouldn't pay it any mind It's just a shadow you're seeing that he's chasing Hey, Mr. Tambourine Man, play a song for me I'm not sleepy and there is no place I'm going to Hey, Mr. Tambourine Man, play a song for me. In the jingle jangle morning, I come following you. Thank you. And take me disappearing through the smoke rings of my mind, down the foggy ruins of time, far past the frozen leaves, the haunted frightened trees, out to the windy beach, far from the twisted reach of crazy sorrow. Yes, to dance beneath the diamond sky with one hand waving free Silhouetted by the sea, circled by the circus sands With all memory and fate driven deep beneath the waves Let me forget about today until tomorrow Hey, Mr. Time Marine Man, play a song for me. I'm not sleepy and there is no place I'm going to. Hey, Mr. Time Marine Man, play a song for me. In the jingle jangle morning, I come following you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 14,
+    "segments": [
+      {
+        "id": 1,
+        "start": 6.359,
+        "end": 28.685,
+        "text": " Hey, Mr. Tambourine Man, play a song for me. I'm not sleepy and there's no place I'm going to. Hey, Mr. Tambourine Man, play a song for me. In the jingle jangle morning, I'll come following you.",
+        "avg_logprob": -0.051791487197423804
+      },
+      {
+        "id": 2,
+        "start": 31.52,
+        "end": 44.615,
+        "text": " Oh, I know that evening's empire has returned into sand, vanished from my hand, left me blindly here to stand but still not sleeping.",
+        "avg_logprob": -0.12180989782015482
+      },
+      {
+        "id": 3,
+        "start": 45.83,
+        "end": 70.13,
+        "text": " My weariness amazes me, I am branded on my feet. I have no one to meet, and the ancient empty street's too dead for dreaming. Hey, Mr. Tambourine Man, play a song for me. I'm not sleepy, and there is no place I'm going to.",
+        "avg_logprob": -0.052001952775754035
+      },
+      {
+        "id": 4,
+        "start": 71.497,
+        "end": 80.457,
+        "text": " Hey, Mr. Tambourine Man, play a song for me. In the jingle jangle morning, I'll come find you.",
+        "avg_logprob": -0.13045528428307895
+      },
+      {
+        "id": 5,
+        "start": 86.887,
+        "end": 105.449,
+        "text": " Take me on a trip upon your magic swirling ship, my senses have been stripped, my hands can't feel to grip, my toes too numb to step, wait only for my boot heels to be wandering.",
+        "avg_logprob": -0.06542968411337245
+      },
+      {
+        "id": 6,
+        "start": 105.449,
+        "end": 129.901,
+        "text": " I'm ready to go anywhere, I'm ready for to fade Into my own parade, cast your dance and spill my way I promise to go under it Hey, Mr. Tambourine Man, play a song for me I'm not sleepy and there is no place I'm going to",
+        "avg_logprob": -0.1228813559322034
+      },
+      {
+        "id": 7,
+        "start": 131.2,
+        "end": 141.292,
+        "text": " Hey, Mr. Tambourine Man, play a song for me. In a jingle jangle morning, I'll come following you.",
+        "avg_logprob": -0.14776400245469193
+      },
+      {
+        "id": 8,
+        "start": 146.101,
+        "end": 161.761,
+        "text": " Though you might hear laughing spinning Swinging madly across the sun It's not aimed at anyone It's just escaping on the run And but for the sky there are no fences facing",
+        "avg_logprob": -0.099820525259585
+      },
+      {
+        "id": 9,
+        "start": 162.925,
+        "end": 192.322,
+        "text": " And if you hear vague traces of skipping reels of rhyme To your tambourine in time It's just a ragged clown behind I wouldn't pay it any mind It's just a shadow you're seeing that he's chasing Hey, Mr. Tambourine Man, play a song for me I'm not sleepy and there is no place I'm going to",
+        "avg_logprob": -0.07379645048766523
+      },
+      {
+        "id": 10,
+        "start": 193.351,
+        "end": 215.221,
+        "text": " Hey, Mr. Tambourine Man, play a song for me. In the jingle jangle morning, I come following you.",
+        "avg_logprob": -0.17731584714991705
+      },
+      {
+        "id": 11,
+        "start": 221.701,
+        "end": 227.118,
+        "text": " Thank you.",
+        "avg_logprob": -0.7021484524011612
+      },
+      {
+        "id": 12,
+        "start": 247.57,
+        "end": 267.517,
+        "text": " And take me disappearing through the smoke rings of my mind, down the foggy ruins of time, far past the frozen leaves, the haunted frightened trees, out to the windy beach, far from the twisted reach of crazy sorrow.",
+        "avg_logprob": -0.06162732998107342
+      },
+      {
+        "id": 13,
+        "start": 268.512,
+        "end": 289.454,
+        "text": " Yes, to dance beneath the diamond sky with one hand waving free Silhouetted by the sea, circled by the circus sands With all memory and fate driven deep beneath the waves Let me forget about today until tomorrow",
+        "avg_logprob": -0.07543402777777777
+      },
+      {
+        "id": 14,
+        "start": 289.454,
+        "end": 310.598,
+        "text": " Hey, Mr. Time Marine Man, play a song for me. I'm not sleepy and there is no place I'm going to. Hey, Mr. Time Marine Man, play a song for me. In the jingle jangle morning, I come following you.",
+        "avg_logprob": -0.09659090638160706
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "oecX_1pqxk0",
+    "uploader": "Bob Dylan",
+    "audio_file": "corpus/01_music_videos_audio/audio/oecX_1pqxk0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10627016,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.183244,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:01:57Z"
+  },
+  "status": "success",
+  "error": null
+}

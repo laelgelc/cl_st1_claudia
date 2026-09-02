@@ -1,0 +1,70 @@
+{
+  "corpus_id": "PXvKAWiU_cQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/PXvKAWiU_cQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/PXvKAWiU_cQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/PXvKAWiU_cQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I've got to stand tall. You know a man can't crawl. Only he knows you tell the lies and you listen pass him by. He's not a man at all. When you see me shed a tear And you know that it's sincere Don't you think it's kind of sad That you're treating me so bad Or don't you even know That's Kathy's Clown. That's Kathy's Clown.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 40.615,
+        "end": 55.313,
+        "text": " I've got to stand tall. You know a man can't crawl. Only he knows you tell the lies and you listen pass him by. He's not a man at all.",
+        "avg_logprob": -0.23787005912316472
+      },
+      {
+        "id": 2,
+        "start": 88.439,
+        "end": 101.5,
+        "text": " When you see me shed a tear And you know that it's sincere Don't you think it's kind of sad That you're treating me so bad Or don't you even know",
+        "avg_logprob": -0.20481419080012553
+      },
+      {
+        "id": 3,
+        "start": 124.822,
+        "end": 142.169,
+        "text": " That's Kathy's Clown. That's Kathy's Clown.",
+        "avg_logprob": -0.25885416666666666
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "PXvKAWiU_cQ",
+    "uploader": "Elisa",
+    "audio_file": "corpus/01_music_videos_audio/audio/PXvKAWiU_cQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4728032,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.735449,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:01:02Z"
+  },
+  "status": "success",
+  "error": null
+}

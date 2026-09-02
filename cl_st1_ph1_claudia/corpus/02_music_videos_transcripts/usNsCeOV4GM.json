@@ -1,0 +1,84 @@
+{
+  "corpus_id": "usNsCeOV4GM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/usNsCeOV4GM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/usNsCeOV4GM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/usNsCeOV4GM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Well, the news was rather sad Well, I just had to laugh I saw the photograph He blew his mind out in a car He didn't notice that the lights had changed The British Army had just won the war A crowd of people turned away But I just had to look Woke up, fell out of bed, dragged a comb across my head. Found my way downstairs and drank a cup, and looking up I noticed I was late. Found my coat and grabbed my hat, made the bus in seconds flat. had a smoke and somebody spoke and I went into a dream. 4,000 holes in Blackburn, Lancashire Though the holes were rather small They had to count them all Now they know how many holes it takes to fill the albatross",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 25.917,
+        "end": 54.655,
+        "text": " Well, the news was rather sad Well, I just had to laugh I saw the photograph He blew his mind out in a car He didn't notice that the lights had changed",
+        "avg_logprob": -0.07194010644323295
+      },
+      {
+        "id": 2,
+        "start": 78.989,
+        "end": 93.164,
+        "text": " The British Army had just won the war A crowd of people turned away But I just had to look",
+        "avg_logprob": -0.2038690447807312
+      },
+      {
+        "id": 3,
+        "start": 135.453,
+        "end": 160.748,
+        "text": " Woke up, fell out of bed, dragged a comb across my head. Found my way downstairs and drank a cup, and looking up I noticed I was late. Found my coat and grabbed my hat, made the bus in seconds flat.",
+        "avg_logprob": -0.08906250134110451
+      },
+      {
+        "id": 4,
+        "start": 164.63,
+        "end": 169.304,
+        "text": " had a smoke and somebody spoke and I went into a dream.",
+        "avg_logprob": -0.2896205335855484
+      },
+      {
+        "id": 5,
+        "start": 204.59,
+        "end": 221.617,
+        "text": " 4,000 holes in Blackburn, Lancashire Though the holes were rather small They had to count them all Now they know how many holes it takes to fill the albatross",
+        "avg_logprob": -0.17012746318390495
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "usNsCeOV4GM",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/usNsCeOV4GM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10002120,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.162207,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:02:33Z"
+  },
+  "status": "success",
+  "error": null
+}

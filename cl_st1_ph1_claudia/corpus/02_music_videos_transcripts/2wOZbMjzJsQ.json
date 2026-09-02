@@ -1,0 +1,91 @@
+{
+  "corpus_id": "2wOZbMjzJsQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/2wOZbMjzJsQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/2wOZbMjzJsQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/2wOZbMjzJsQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Just let me hear some of that rock and roll music Any old way you choose it It's got a back beat you can't lose it Any old time you use it It's gotta be rock and roll music If you wanna dance with me If you wanna dance with me I have no kick against modern jazz Unless they try to play it too darn fast And change the beauty of the mess That's why I go for that rock and roll music Any old way you choose it It's got a back beat, you can't lose it Any old time you use it It's gotta be rock and roll music If you wanna dance with me If you wanna dance with me I took my loved one over I hear my man a wailin' sax I must admit they have a rockin' band Man, they were blowin' like a hurricane That's why I go for that rock and roll music Any old way you choose it It's got a backbeat, you can't lose it Any old time you use it It's gotta be rock and roll music If you wanna dance with me If you want to dance with me, way down south they gave a jubilee. And don't you folks, they had a jamboree. Drinking home from a wooden cup. The folks dancing got all shook up. And started playing that rock and roll music. Any old way you choose it. It's got a back beat, you can't lose it. Any old time you use it. It's gotta be rock, roll music If you wanna dance with me If you wanna dance with me Don't care to hear them play the tango It's way too early for the congo So keep a-rockin' that piano Rock and roll music If you wanna dance with me If you wanna dance with me",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.385,
+        "end": 28.567,
+        "text": " Just let me hear some of that rock and roll music Any old way you choose it It's got a back beat you can't lose it Any old time you use it It's gotta be rock and roll music If you wanna dance with me If you wanna dance with me I have no kick against modern jazz Unless they try to play it too darn fast And change the beauty of the mess",
+        "avg_logprob": -0.07296674392926387
+      },
+      {
+        "id": 2,
+        "start": 32.819,
+        "end": 54.47,
+        "text": " That's why I go for that rock and roll music Any old way you choose it It's got a back beat, you can't lose it Any old time you use it It's gotta be rock and roll music If you wanna dance with me If you wanna dance with me I took my loved one over",
+        "avg_logprob": -0.09412802743815607
+      },
+      {
+        "id": 3,
+        "start": 56.697,
+        "end": 82.516,
+        "text": " I hear my man a wailin' sax I must admit they have a rockin' band Man, they were blowin' like a hurricane That's why I go for that rock and roll music Any old way you choose it It's got a backbeat, you can't lose it Any old time you use it It's gotta be rock and roll music If you wanna dance with me",
+        "avg_logprob": -0.09238281417638064
+      },
+      {
+        "id": 4,
+        "start": 83.107,
+        "end": 108.689,
+        "text": " If you want to dance with me, way down south they gave a jubilee. And don't you folks, they had a jamboree. Drinking home from a wooden cup. The folks dancing got all shook up. And started playing that rock and roll music. Any old way you choose it. It's got a back beat, you can't lose it. Any old time you use it.",
+        "avg_logprob": -0.1170036792755127
+      },
+      {
+        "id": 5,
+        "start": 109.381,
+        "end": 127.015,
+        "text": " It's gotta be rock, roll music If you wanna dance with me If you wanna dance with me Don't care to hear them play the tango It's way too early for the congo So keep a-rockin' that piano",
+        "avg_logprob": -0.22496811711058326
+      },
+      {
+        "id": 6,
+        "start": 141.916,
+        "end": 148.295,
+        "text": " Rock and roll music If you wanna dance with me If you wanna dance with me",
+        "avg_logprob": -0.2757352941176471
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "2wOZbMjzJsQ",
+    "uploader": "Chuck Berry",
+    "audio_file": "corpus/01_music_videos_audio/audio/2wOZbMjzJsQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4853606,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.608961,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:01:31Z"
+  },
+  "status": "success",
+  "error": null
+}

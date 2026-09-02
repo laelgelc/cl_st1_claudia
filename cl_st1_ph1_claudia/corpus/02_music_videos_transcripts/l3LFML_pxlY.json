@@ -1,0 +1,126 @@
+{
+  "corpus_id": "l3LFML_pxlY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/l3LFML_pxlY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/l3LFML_pxlY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/l3LFML_pxlY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I am just a poor boy, though my story's seldom told I squandered my resistance for a pocketful of mumble, such are promises All lies and jests, still the man hears what he wants to hear and disregards the rest When I left my home and my family I was no more than a boy in the company of strangers In the quiet of the railway station running scared Laying low, seeking out the poor quarters where the ragged people go Looking for the places only they would know Asking only workmen's wages I come looking for a job But I get no offers Just to come home from the wars on Seventh Avenue I do declare there were times when I was so lonesome I took some comfort there Then I'm laying out my winter clothes and wishing I was gone, going home Where the New York City winters are bleeding me Leading me In the clearing stands a boxer and a fighter by his trade, and he carries the reminders of every glove that laid him down or cut him till he cried out in his anger and his shame. I am leaving, I am leaving, but the fighter still remains. la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la La la la la, la la la la, la la la la. La la la la, la la la la, la la la la. La la la la la",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 11,
+    "segments": [
+      {
+        "id": 1,
+        "start": 6.207,
+        "end": 29.528,
+        "text": " I am just a poor boy, though my story's seldom told I squandered my resistance for a pocketful of mumble, such are promises All lies and jests, still the man hears what he wants to hear and disregards the rest",
+        "avg_logprob": -0.18489582865845924
+      },
+      {
+        "id": 2,
+        "start": 35.975,
+        "end": 61.54,
+        "text": " When I left my home and my family I was no more than a boy in the company of strangers In the quiet of the railway station running scared Laying low, seeking out the poor quarters where the ragged people go Looking for the places only they would know",
+        "avg_logprob": -0.08608490509806939
+      },
+      {
+        "id": 3,
+        "start": 61.895,
+        "end": 89.485,
+        "text": " Asking only workmen's wages I come looking for a job But I get no offers Just to come home from the wars on Seventh Avenue",
+        "avg_logprob": -0.17617188195387523
+      },
+      {
+        "id": 4,
+        "start": 91.527,
+        "end": 102.192,
+        "text": " I do declare there were times when I was so lonesome I took some comfort there",
+        "avg_logprob": -0.13270970237882515
+      },
+      {
+        "id": 5,
+        "start": 130.643,
+        "end": 159.027,
+        "text": " Then I'm laying out my winter clothes and wishing I was gone, going home Where the New York City winters are bleeding me",
+        "avg_logprob": -0.26562500883031775
+      },
+      {
+        "id": 6,
+        "start": 160.225,
+        "end": 164.258,
+        "text": " Leading me",
+        "avg_logprob": -0.5419921875
+      },
+      {
+        "id": 7,
+        "start": 173.236,
+        "end": 194.245,
+        "text": " In the clearing stands a boxer and a fighter by his trade, and he carries the reminders of every glove that laid him down or cut him till he cried out in his anger and his shame. I am leaving, I am leaving, but the fighter still remains.",
+        "avg_logprob": -0.09722222001464279
+      },
+      {
+        "id": 8,
+        "start": 200.978,
+        "end": 220.418,
+        "text": " la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la",
+        "avg_logprob": -0.26644736920532425
+      },
+      {
+        "id": 9,
+        "start": 221.633,
+        "end": 243.149,
+        "text": " la la la la la la la la la la la la la la la la la la la la la la la",
+        "avg_logprob": -0.3834635466337204
+      },
+      {
+        "id": 10,
+        "start": 246.963,
+        "end": 255.738,
+        "text": " La la la la, la la la la, la la la la. La la la la, la la la la, la la la la.",
+        "avg_logprob": -0.29233871929107175
+      },
+      {
+        "id": 11,
+        "start": 276.646,
+        "end": 279.127,
+        "text": " La la la la la",
+        "avg_logprob": -0.4475911458333333
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "l3LFML_pxlY",
+    "uploader": "Simon & Garfunkel",
+    "audio_file": "corpus/01_music_videos_audio/audio/l3LFML_pxlY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9879518,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.281241,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:02:00Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,84 @@
+{
+  "corpus_id": "jfgnc6Ey0q0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/jfgnc6Ey0q0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/jfgnc6Ey0q0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/jfgnc6Ey0q0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Never knew I could be what I could be But she kissed me and said, baby I want to say. Don't ever let me go Come on. Come on. Please go all the way Just hold me close Don't ever lie",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 30.862,
+        "end": 36.818,
+        "text": " Never knew I could be what I could be But she kissed me and said, baby",
+        "avg_logprob": -0.3151041716337204
+      },
+      {
+        "id": 2,
+        "start": 66.164,
+        "end": 72.391,
+        "text": " I want to say.",
+        "avg_logprob": -0.9765625
+      },
+      {
+        "id": 3,
+        "start": 96.404,
+        "end": 108.976,
+        "text": " Don't ever let me go",
+        "avg_logprob": -0.25613839285714285
+      },
+      {
+        "id": 4,
+        "start": 116.401,
+        "end": 127.353,
+        "text": " Come on. Come on.",
+        "avg_logprob": -0.5513393027441842
+      },
+      {
+        "id": 5,
+        "start": 151.72,
+        "end": 164.545,
+        "text": " Please go all the way Just hold me close Don't ever lie",
+        "avg_logprob": -0.37667410501411985
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "jfgnc6Ey0q0",
+    "uploader": "rockarchieve",
+    "audio_file": "corpus/01_music_videos_audio/audio/jfgnc6Ey0q0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6428848,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.981441,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:17:14Z"
+  },
+  "status": "success",
+  "error": null
+}

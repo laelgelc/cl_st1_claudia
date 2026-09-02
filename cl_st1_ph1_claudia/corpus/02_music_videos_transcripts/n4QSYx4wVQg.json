@@ -1,0 +1,70 @@
+{
+  "corpus_id": "n4QSYx4wVQg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/n4QSYx4wVQg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/n4QSYx4wVQg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/n4QSYx4wVQg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "down down Thank you. There goes a horny crab. Wallowed by kelp. There goes a catfish. Stank by a dogfish. Watch out for that piranha. There comes a narwhal.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 155.888,
+        "end": 173.371,
+        "text": " down down",
+        "avg_logprob": -0.3142903645833333
+      },
+      {
+        "id": 2,
+        "start": 275.144,
+        "end": 292.795,
+        "text": " Thank you.",
+        "avg_logprob": -0.7641601860523224
+      },
+      {
+        "id": 3,
+        "start": 376.242,
+        "end": 390.67,
+        "text": " There goes a horny crab. Wallowed by kelp. There goes a catfish. Stank by a dogfish. Watch out for that piranha. There comes a narwhal.",
+        "avg_logprob": -0.24390243902439024
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "n4QSYx4wVQg",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/n4QSYx4wVQg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 13661586,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.168113,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:01:08Z"
+  },
+  "status": "success",
+  "error": null
+}

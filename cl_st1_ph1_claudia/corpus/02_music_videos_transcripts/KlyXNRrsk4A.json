@@ -1,0 +1,105 @@
+{
+  "corpus_id": "KlyXNRrsk4A",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/KlyXNRrsk4A.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/KlyXNRrsk4A.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/KlyXNRrsk4A.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "RUNNING! Hey Kathy! What happened? Listen, I just wanted to thank you for literally the best party of all time. It was absolutely incredible and I don't care what anyone says about you, you're actually really cool. BEST PARTY EVER! WOO! Such an epic fail. Pictures of last night ended up online. I'm screwed. Oh well. It's a blacked out blur but I'm pretty sure it ruled. Damn. Do it all again. Oh, no. What do you think this egg was doing on the stage? I have no idea. It's just. Kathy, Beth, Terry, what happened to your room? Mom, Dad. And why is there some lost boy in your bed? I don't know anything. I just woke up and my solar system was off of the park. My goodness, so irresponsible. And what's Uncle Kenny doing on the couch? I didn't do it. It was Rebecca. She had a party. No, Rebecca Black is a nice girl. Yeah, I don't think she would have started this, honey. Why are you home so early from the convention? Well, I got some crazy text from Uncle Kenny who said he was going to start playing the sax again. Yeah, we had to get home right away to see what that was all about. Can't let that happen. I love you guys, but Uncle Kenny told me that you used to be fun on Friday. Kitty cat, we invented Fridays. I need to sleep it off. Good night, honey. Good night, honey. Who knew your uncle was Kenny G? Gracious, man! Best party ever, woo! When your mom and I were young, we used to party, you know. What happened to your diorama of the solar system that you worked so hard on? You know, sleep all day, party all night. That was our motto, right? Something like that. Never grow old. Right. All that kind of stuff. Honey, let's go have our own Friday night. He was awesome, Mom! Kenny was awesome! Oh my God, it's so hot.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 27.824,
+        "end": 50.403,
+        "text": " RUNNING! Hey Kathy! What happened? Listen, I just wanted to thank you for literally the best party of all time. It was absolutely incredible and I don't care what anyone says about you, you're actually really cool. BEST PARTY EVER! WOO!",
+        "avg_logprob": -0.24528556188632702
+      },
+      {
+        "id": 2,
+        "start": 146.607,
+        "end": 163.01,
+        "text": " Such an epic fail. Pictures of last night ended up online. I'm screwed. Oh well. It's a blacked out blur but I'm pretty sure it ruled. Damn.",
+        "avg_logprob": -0.2532894823111986
+      },
+      {
+        "id": 3,
+        "start": 283.531,
+        "end": 312.59,
+        "text": " Do it all again. Oh, no. What do you think this egg was doing on the stage? I have no idea. It's just. Kathy, Beth, Terry, what happened to your room? Mom, Dad. And why is there some lost boy in your bed? I don't know anything. I just woke up and my solar system was off of the park.",
+        "avg_logprob": -0.11708733840630604
+      },
+      {
+        "id": 4,
+        "start": 312.927,
+        "end": 340.653,
+        "text": " My goodness, so irresponsible. And what's Uncle Kenny doing on the couch? I didn't do it. It was Rebecca. She had a party. No, Rebecca Black is a nice girl. Yeah, I don't think she would have started this, honey. Why are you home so early from the convention? Well, I got some crazy text from Uncle Kenny who said he was going to start playing the sax again. Yeah, we had to get home right away to see what that was all about. Can't let that happen.",
+        "avg_logprob": -0.06345880526033315
+      },
+      {
+        "id": 5,
+        "start": 341.041,
+        "end": 357.798,
+        "text": " I love you guys, but Uncle Kenny told me that you used to be fun on Friday. Kitty cat, we invented Fridays. I need to sleep it off. Good night, honey. Good night, honey.",
+        "avg_logprob": -0.0974786923351613
+      },
+      {
+        "id": 6,
+        "start": 380.326,
+        "end": 386.637,
+        "text": " Who knew your uncle was Kenny G? Gracious, man! Best party ever, woo!",
+        "avg_logprob": -0.1678710974752903
+      },
+      {
+        "id": 7,
+        "start": 404.44,
+        "end": 433.516,
+        "text": " When your mom and I were young, we used to party, you know. What happened to your diorama of the solar system that you worked so hard on? You know, sleep all day, party all night. That was our motto, right? Something like that. Never grow old. Right. All that kind of stuff. Honey, let's go have our own Friday night. He was awesome, Mom! Kenny was awesome!",
+        "avg_logprob": -0.07593047417951433
+      },
+      {
+        "id": 8,
+        "start": 434.427,
+        "end": 436.25,
+        "text": " Oh my God, it's so hot.",
+        "avg_logprob": -0.24824219942092896
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "KlyXNRrsk4A",
+    "uploader": "Katy Perry",
+    "audio_file": "corpus/01_music_videos_audio/audio/KlyXNRrsk4A.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 15492432,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.632635,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:11:58Z"
+  },
+  "status": "success",
+  "error": null
+}

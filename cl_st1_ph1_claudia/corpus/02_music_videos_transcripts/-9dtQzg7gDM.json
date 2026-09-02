@@ -1,0 +1,98 @@
+{
+  "corpus_id": "-9dtQzg7gDM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/-9dtQzg7gDM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/-9dtQzg7gDM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/-9dtQzg7gDM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Love me tender, love me sweet, never let me go. You have made my life complete, and I love you so. Love me tender, love me true All my dreams fulfill For my darling, I love you And I always will Love me tender, love me long Take me to your heart For it's there that I belong And will never part Love me tender, love me true All my dreams fulfill For my darling, I love you And I always will Love me tender, love me dear Tell me you are mine I'll be yours through all the years Till the end of time Love me tender, love me true All my dreams fulfill For my darling I love you And I always will",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 3.271,
+        "end": 25.951,
+        "text": " Love me tender, love me sweet, never let me go. You have made my life complete, and I love you so.",
+        "avg_logprob": -0.054687500551894856
+      },
+      {
+        "id": 2,
+        "start": 27.993,
+        "end": 53.508,
+        "text": " Love me tender, love me true All my dreams fulfill For my darling, I love you And I always will",
+        "avg_logprob": -0.12177309393882751
+      },
+      {
+        "id": 3,
+        "start": 54.149,
+        "end": 77.437,
+        "text": " Love me tender, love me long Take me to your heart For it's there that I belong And will never part",
+        "avg_logprob": -0.08455403459568818
+      },
+      {
+        "id": 4,
+        "start": 79.158,
+        "end": 90.7,
+        "text": " Love me tender, love me true All my dreams fulfill",
+        "avg_logprob": -0.13671875620881715
+      },
+      {
+        "id": 5,
+        "start": 92.168,
+        "end": 117.11,
+        "text": " For my darling, I love you And I always will Love me tender, love me dear Tell me you are mine",
+        "avg_logprob": -0.09944661675641935
+      },
+      {
+        "id": 6,
+        "start": 117.869,
+        "end": 141.393,
+        "text": " I'll be yours through all the years Till the end of time Love me tender, love me true All my dreams fulfill",
+        "avg_logprob": -0.1125
+      },
+      {
+        "id": 7,
+        "start": 142.709,
+        "end": 156.462,
+        "text": " For my darling I love you And I always will",
+        "avg_logprob": -0.18181818452748386
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "-9dtQzg7gDM",
+    "uploader": "Elvis Presley",
+    "audio_file": "corpus/01_music_videos_audio/audio/-9dtQzg7gDM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5175342,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 22.389496,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:54:16Z"
+  },
+  "status": "success",
+  "error": null
+}

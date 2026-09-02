@@ -1,0 +1,77 @@
+{
+  "corpus_id": "T6QKqFPRZSA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/T6QKqFPRZSA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/T6QKqFPRZSA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/T6QKqFPRZSA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Girls, you know you better watch out Some guys, some girls are only about That thing, that thing, that thing That thing, that thing We'll see you next time. The verse is dedicated to the man. All concerned with his rims and his thims and his women. Him and his men come in the club like hooligans. Don't care who they offend, Papa Yang. Like you got yams. Let's not pretend. The one to pack pissed out by the waist, man. Cripped out by the case, man. Still the name of this basement. The pretty face, man. Claiming that they did a bid, man. Need to take care of their three or four kids. Been the face in court case when the child supports late. Money taking heartbreak and now you wonder why women hate men. In a sneaky silent man. When you ain't right with that Uh-uh, come again Yo, yo, come again Your friends ran, come again And sisters ran, come again Yeah, yeah",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.267,
+        "end": 15.758,
+        "text": " Girls, you know you better watch out Some guys, some girls are only about That thing, that thing, that thing That thing, that thing",
+        "avg_logprob": -0.17994792362054188
+      },
+      {
+        "id": 2,
+        "start": 38.472,
+        "end": 58.418,
+        "text": " We'll see you next time.",
+        "avg_logprob": -0.5410156473517418
+      },
+      {
+        "id": 3,
+        "start": 116.232,
+        "end": 140.785,
+        "text": " The verse is dedicated to the man. All concerned with his rims and his thims and his women. Him and his men come in the club like hooligans. Don't care who they offend, Papa Yang. Like you got yams. Let's not pretend. The one to pack pissed out by the waist, man. Cripped out by the case, man. Still the name of this basement. The pretty face, man. Claiming that they did a bid, man. Need to take care of their three or four kids. Been the face in court case when the child supports late. Money taking heartbreak and now you wonder why women hate men. In a sneaky silent man.",
+        "avg_logprob": -0.2661638062575768
+      },
+      {
+        "id": 4,
+        "start": 149.746,
+        "end": 168.916,
+        "text": " When you ain't right with that Uh-uh, come again Yo, yo, come again Your friends ran, come again And sisters ran, come again Yeah, yeah",
+        "avg_logprob": -0.352232153075082
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "T6QKqFPRZSA",
+    "uploader": "Ms. Lauryn Hill",
+    "audio_file": "corpus/01_music_videos_audio/audio/T6QKqFPRZSA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7624396,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.269668,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:15:04Z"
+  },
+  "status": "success",
+  "error": null
+}

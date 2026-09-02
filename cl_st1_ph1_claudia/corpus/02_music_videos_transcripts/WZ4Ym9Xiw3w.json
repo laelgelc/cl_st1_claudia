@@ -1,0 +1,91 @@
+{
+  "corpus_id": "WZ4Ym9Xiw3w",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/WZ4Ym9Xiw3w.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/WZ4Ym9Xiw3w.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/WZ4Ym9Xiw3w.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Now, the temptations were their hit recording. Just my imagination, gentlemen. I say to myself, you're such a lucky guy. To have a girl like her is truly a dream come true. I thought it was just my imagination Running away with me It was just my imagination Running away with me Every night on my knees I pray Don't ever let another take her love from me Or I would surely die Heavenly Runnin' away with me Tell you it was just my imagination Runnin' away with me I love my metal but I can't forget her Oh yeah, yeah It's just my imagination",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.773,
+        "end": 6.173,
+        "text": " Now, the temptations were their hit recording. Just my imagination, gentlemen.",
+        "avg_logprob": -0.20255055147058823
+      },
+      {
+        "id": 2,
+        "start": 32.38,
+        "end": 61.456,
+        "text": " I say to myself, you're such a lucky guy. To have a girl like her is truly a dream come true.",
+        "avg_logprob": -0.13897235576923078
+      },
+      {
+        "id": 3,
+        "start": 71.564,
+        "end": 100.471,
+        "text": " I thought it was just my imagination Running away with me It was just my imagination Running away with me Every night on my knees I pray",
+        "avg_logprob": -0.10260881350508758
+      },
+      {
+        "id": 4,
+        "start": 104.588,
+        "end": 118.983,
+        "text": " Don't ever let another take her love from me Or I would surely die Heavenly",
+        "avg_logprob": -0.21806066176470587
+      },
+      {
+        "id": 5,
+        "start": 135.571,
+        "end": 155.534,
+        "text": " Runnin' away with me Tell you it was just my imagination Runnin' away with me I love my metal but I can't forget her Oh yeah, yeah",
+        "avg_logprob": -0.16727941132643642
+      },
+      {
+        "id": 6,
+        "start": 162.436,
+        "end": 166.418,
+        "text": " It's just my imagination",
+        "avg_logprob": -0.20670572916666666
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "WZ4Ym9Xiw3w",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/WZ4Ym9Xiw3w.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5798752,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.539779,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:15:42Z"
+  },
+  "status": "success",
+  "error": null
+}

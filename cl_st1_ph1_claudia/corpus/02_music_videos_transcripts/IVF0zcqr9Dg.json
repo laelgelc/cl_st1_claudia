@@ -1,0 +1,77 @@
+{
+  "corpus_id": "IVF0zcqr9Dg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/IVF0zcqr9Dg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/IVF0zcqr9Dg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/IVF0zcqr9Dg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "If you ask me, I say the girl's in love. That's what it is. I think he's got... See, now you guys are all getting carried away. What's up with you guys? Y'all just standing? You all have an announcement to make. We have someone very special. God, Jimmy, this is... Come on, Janet, seriously, where have you been? Just getting to folks' business, y'all. Some mercy, some sass. No. No. What's up? Yeah. OK, you guys really want to know? Yeah. I don't believe you guys. Y'all just never give up. I tell your mama That's the end?",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.111,
+        "end": 26.238,
+        "text": " If you ask me, I say the girl's in love. That's what it is. I think he's got... See, now you guys are all getting carried away. What's up with you guys? Y'all just standing? You all have an announcement to make. We have someone very special. God, Jimmy, this is...",
+        "avg_logprob": -0.1970730638000327
+      },
+      {
+        "id": 2,
+        "start": 30.288,
+        "end": 45.695,
+        "text": " Come on, Janet, seriously, where have you been? Just getting to folks' business, y'all. Some mercy, some sass. No. No. What's up? Yeah. OK, you guys really want to know? Yeah. I don't believe you guys. Y'all just never give up.",
+        "avg_logprob": -0.29757463665150885
+      },
+      {
+        "id": 3,
+        "start": 103.323,
+        "end": 105.601,
+        "text": " I tell your mama",
+        "avg_logprob": -0.33828125
+      },
+      {
+        "id": 4,
+        "start": 258.016,
+        "end": 260.868,
+        "text": " That's the end?",
+        "avg_logprob": -0.09545898685852687
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "IVF0zcqr9Dg",
+    "uploader": "Janet Jackson",
+    "audio_file": "corpus/01_music_videos_audio/audio/IVF0zcqr9Dg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8347374,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.687283,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:20:31Z"
+  },
+  "status": "success",
+  "error": null
+}

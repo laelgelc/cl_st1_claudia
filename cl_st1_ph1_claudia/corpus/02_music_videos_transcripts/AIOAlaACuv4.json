@@ -1,0 +1,112 @@
+{
+  "corpus_id": "AIOAlaACuv4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/AIOAlaACuv4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/AIOAlaACuv4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/AIOAlaACuv4.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I want a ticket to anywhere. Maybe we make a deal. Maybe together we can get somewhere. Any place is better. Starting from zero, got nothing to lose. Maybe we'll make something. Me, myself, I got nothing to prove. You got a fast car I got a plan to get us out of here Been working at the convenience store Managed to save just a little bit of money Won't have to drive too far Just crossed the border and into the city You and I can both get jobs And finally see what it means to be living See my old man's got a problem. He lived with a bottle that's the way it is. He says his body's too old for working. His body's too young to look like his. My mama went off and left him. She wanted more from life than he could give. I said somebody's got to take care of him. So I quit school and that's what I did. You got a fast car. Is it fast enough so we can fly away? You gotta make a decision. Leave tonight or live and die this way. So I remember when we were driving, driving in your car. Speed so fast I felt like I was drunk. City lights day out before. And your arm felt like scrap around my shoulder. And I, I, Peace. Peace. We got a fast car We go cruising, entertain ourselves Still ain't got a job Now work in the market as a checkout girl I know things will get better You'll find work and I'll get promoted We'll move out of the shelter Buy a bigger house and live in the suburbs I remember when we were driving, driving in your car, speed so fast it felt like I was drunk. City lights day out before, your arms felt nice wrapped around my shoulder. I, I had a feeling that I belonged. I, I had a feeling I could be someone, be someone, be someone. You got a fast car. I got a job that pays all our bills. Instead of drinking late at the bar, some more your friends and you do your kids. I'd always hoped for better. Thought maybe together you and me'd find it. I got no plans. I ain't going nowhere. Take your fast car and keep on driving. You gotta fast, ah Is it fast enough so you can fly away? You gotta make a decision Leave tonight or live and die this way",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 22.171,
+        "end": 41.02,
+        "text": " I want a ticket to anywhere. Maybe we make a deal. Maybe together we can get somewhere. Any place is better. Starting from zero, got nothing to lose. Maybe we'll make something. Me, myself, I got nothing to prove.",
+        "avg_logprob": -0.09734987774316002
+      },
+      {
+        "id": 2,
+        "start": 49.66,
+        "end": 69.404,
+        "text": " You got a fast car I got a plan to get us out of here Been working at the convenience store Managed to save just a little bit of money Won't have to drive too far Just crossed the border and into the city You and I can both get jobs And finally see what it means to be living",
+        "avg_logprob": -0.10305059594767434
+      },
+      {
+        "id": 3,
+        "start": 76.998,
+        "end": 96.083,
+        "text": " See my old man's got a problem. He lived with a bottle that's the way it is. He says his body's too old for working. His body's too young to look like his. My mama went off and left him. She wanted more from life than he could give. I said somebody's got to take care of him. So I quit school and that's what I did.",
+        "avg_logprob": -0.06216653799865304
+      },
+      {
+        "id": 4,
+        "start": 105.466,
+        "end": 134.373,
+        "text": " You got a fast car. Is it fast enough so we can fly away? You gotta make a decision. Leave tonight or live and die this way. So I remember when we were driving, driving in your car. Speed so fast I felt like I was drunk. City lights day out before. And your arm felt like scrap around my shoulder. And I, I,",
+        "avg_logprob": -0.16570724056739555
+      },
+      {
+        "id": 5,
+        "start": 141.224,
+        "end": 144.143,
+        "text": " Peace. Peace.",
+        "avg_logprob": -0.90625
+      },
+      {
+        "id": 6,
+        "start": 153.897,
+        "end": 173.185,
+        "text": " We got a fast car We go cruising, entertain ourselves Still ain't got a job Now work in the market as a checkout girl I know things will get better You'll find work and I'll get promoted We'll move out of the shelter Buy a bigger house and live in the suburbs",
+        "avg_logprob": -0.12324892087229367
+      },
+      {
+        "id": 7,
+        "start": 180.104,
+        "end": 201.94,
+        "text": " I remember when we were driving, driving in your car, speed so fast it felt like I was drunk. City lights day out before, your arms felt nice wrapped around my shoulder. I, I had a feeling that I belonged. I, I had a feeling I could be someone, be someone, be someone.",
+        "avg_logprob": -0.14483173076923078
+      },
+      {
+        "id": 8,
+        "start": 211.39,
+        "end": 230.797,
+        "text": " You got a fast car. I got a job that pays all our bills. Instead of drinking late at the bar, some more your friends and you do your kids. I'd always hoped for better. Thought maybe together you and me'd find it. I got no plans. I ain't going nowhere. Take your fast car and keep on driving.",
+        "avg_logprob": -0.1650390604303943
+      },
+      {
+        "id": 9,
+        "start": 238.778,
+        "end": 248.684,
+        "text": " You gotta fast, ah Is it fast enough so you can fly away? You gotta make a decision Leave tonight or live and die this way",
+        "avg_logprob": -0.20554956896551724
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "AIOAlaACuv4",
+    "uploader": "Tracy Chapman",
+    "audio_file": "corpus/01_music_videos_audio/audio/AIOAlaACuv4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8520502,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.764347,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:14:19Z"
+  },
+  "status": "success",
+  "error": null
+}

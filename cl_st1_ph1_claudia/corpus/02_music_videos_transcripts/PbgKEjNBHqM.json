@@ -1,0 +1,77 @@
+{
+  "corpus_id": "PbgKEjNBHqM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/PbgKEjNBHqM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/PbgKEjNBHqM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/PbgKEjNBHqM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "A thoroughly wonderful show from the world-famous Dancing Pooters. Next, ladies and gentlemen, we have three fine young men from Seattle. They're coming, hold on, they're coming. They're thoroughly all right and decent fellows with their hit single, In Bloom. Here they are, Nirvana. Actions she's got, but it's not my fault He knows not what it means He knows not what it means He's the one that I've been searching Let's just sing along Let's just All right, everybody, let's hear it for these three nice, decent, clean-cut young men. I really can't say enough nice things about them. They're going to be really big stars. Let's give a big hand for Roberto.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.335,
+        "end": 20.483,
+        "text": " A thoroughly wonderful show from the world-famous Dancing Pooters. Next, ladies and gentlemen, we have three fine young men from Seattle. They're coming, hold on, they're coming. They're thoroughly all right and decent fellows with their hit single, In Bloom. Here they are, Nirvana.",
+        "avg_logprob": -0.11556490384615385
+      },
+      {
+        "id": 2,
+        "start": 80.845,
+        "end": 85.351,
+        "text": " Actions she's got, but it's not my fault",
+        "avg_logprob": -0.6159855585831863
+      },
+      {
+        "id": 3,
+        "start": 158.538,
+        "end": 174.468,
+        "text": " He knows not what it means He knows not what it means He's the one that I've been searching Let's just sing along Let's just",
+        "avg_logprob": -0.4158854196468989
+      },
+      {
+        "id": 4,
+        "start": 275.633,
+        "end": 288.222,
+        "text": " All right, everybody, let's hear it for these three nice, decent, clean-cut young men. I really can't say enough nice things about them. They're going to be really big stars. Let's give a big hand for Roberto.",
+        "avg_logprob": -0.13649339658709672
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "PbgKEjNBHqM",
+    "uploader": "Nirvana",
+    "audio_file": "corpus/01_music_videos_audio/audio/PbgKEjNBHqM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9534006,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 22.616455,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:53:34Z"
+  },
+  "status": "success",
+  "error": null
+}

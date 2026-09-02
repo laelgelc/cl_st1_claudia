@@ -1,0 +1,105 @@
+{
+  "corpus_id": "kemivUKb4f4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/kemivUKb4f4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/kemivUKb4f4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/kemivUKb4f4.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Happy Days is filmed before a live audience. Yes, ladies and gentlemen, tonight, live from Arnold's Drive-In and Milwaukee Fried Chicken Stand, You Wanted to See It brings you one of the most exciting events it's ever been our privilege to bring. Okay, kids, Arnold's is proud to present Kenosha, Wisconsin's own Weezer. Oh, hey, hey, please try the fish. These homies dissin' my girl What do they got up front? What did we ever do to these guys That made them so violent? Ooh, ooh, what you know I'm yours Ooh, ooh, and I know you're mine I don't care. Don't you ever fear, I'm always here. I know that you'll be there. Your tongue is twisted, your eyes are slid. You'll be there. Stay tuned for more happy days. What's the matter, what's the matter, what's the matter with you? What's the matter, babe, are you feeling blue? I don't care. Good work, guys. I mean, you were really great. Thanks, Al. Sensational. Hey, anyone try the fish tonight? That's not so good, Al. Not so good, Al. Yeah!",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 2.697,
+        "end": 32.397,
+        "text": " Happy Days is filmed before a live audience. Yes, ladies and gentlemen, tonight, live from Arnold's Drive-In and Milwaukee Fried Chicken Stand, You Wanted to See It brings you one of the most exciting events it's ever been our privilege to bring. Okay, kids, Arnold's is proud to present Kenosha, Wisconsin's own Weezer. Oh, hey, hey, please try the fish.",
+        "avg_logprob": -0.08611918275439462
+      },
+      {
+        "id": 2,
+        "start": 36.852,
+        "end": 58.79,
+        "text": " These homies dissin' my girl What do they got up front? What did we ever do to these guys That made them so violent? Ooh, ooh, what you know I'm yours Ooh, ooh, and I know you're mine",
+        "avg_logprob": -0.27249998688697813
+      },
+      {
+        "id": 3,
+        "start": 65.168,
+        "end": 77.842,
+        "text": " I don't care.",
+        "avg_logprob": -0.4908854266007741
+      },
+      {
+        "id": 4,
+        "start": 87.967,
+        "end": 100.505,
+        "text": " Don't you ever fear, I'm always here. I know that you'll be there. Your tongue is twisted, your eyes are slid. You'll be there.",
+        "avg_logprob": -0.22395833084980646
+      },
+      {
+        "id": 5,
+        "start": 117.582,
+        "end": 141.123,
+        "text": " Stay tuned for more happy days.",
+        "avg_logprob": -0.2077636681497097
+      },
+      {
+        "id": 6,
+        "start": 149.898,
+        "end": 157.508,
+        "text": " What's the matter, what's the matter, what's the matter with you? What's the matter, babe, are you feeling blue?",
+        "avg_logprob": -0.26953125099341074
+      },
+      {
+        "id": 7,
+        "start": 175.615,
+        "end": 187.9,
+        "text": " I don't care.",
+        "avg_logprob": -0.6158854067325592
+      },
+      {
+        "id": 8,
+        "start": 216.301,
+        "end": 230.999,
+        "text": " Good work, guys. I mean, you were really great. Thanks, Al. Sensational. Hey, anyone try the fish tonight? That's not so good, Al. Not so good, Al. Yeah!",
+        "avg_logprob": -0.07256944444444445
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "kemivUKb4f4",
+    "uploader": "weezer",
+    "audio_file": "corpus/01_music_videos_audio/audio/kemivUKb4f4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7718020,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.689312,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:55:26Z"
+  },
+  "status": "success",
+  "error": null
+}

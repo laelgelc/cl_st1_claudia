@@ -1,0 +1,91 @@
+{
+  "corpus_id": "_VyA2f6hGW4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/_VyA2f6hGW4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/_VyA2f6hGW4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/_VyA2f6hGW4.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "And just like the guy whose feet are too big for his bed Nothing seems to fit Those raindrops are falling on my head They keep falling So I just did me some talking to the sun And I said I didn't like the way he got things done, sleeping on the job. Those raindrops are falling on my head, they keep falling. But there's one thing I know, the blues they send to meet me. It won't be long till happiness steps up to greet me Raindrops keep falling on my head But that doesn't mean my eyes will soon be turning red Crying's not for me, cause I'm never gonna stop the rain by complaining Because I'm free, nothing's worrying me It won't be long till happiness steps up to greet me Raindrops keep falling on my head But that doesn't mean my eyes will soon be turning red Crying's not for me Cause I'm never gonna stop the rain by complaining Because I'm free Nothing's worrying Me.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 7.54,
+        "end": 28.516,
+        "text": " And just like the guy whose feet are too big for his bed Nothing seems to fit Those raindrops are falling on my head They keep falling So I just did me some talking to the sun",
+        "avg_logprob": -0.0850585961714387
+      },
+      {
+        "id": 2,
+        "start": 29.883,
+        "end": 53.828,
+        "text": " And I said I didn't like the way he got things done, sleeping on the job. Those raindrops are falling on my head, they keep falling. But there's one thing I know, the blues they send to meet me.",
+        "avg_logprob": -0.044257814213633534
+      },
+      {
+        "id": 3,
+        "start": 57.389,
+        "end": 86.887,
+        "text": " It won't be long till happiness steps up to greet me Raindrops keep falling on my head But that doesn't mean my eyes will soon be turning red Crying's not for me, cause I'm never gonna stop the rain by complaining",
+        "avg_logprob": -0.09453125238418579
+      },
+      {
+        "id": 4,
+        "start": 87.764,
+        "end": 111.44,
+        "text": " Because I'm free, nothing's worrying me It won't be long till happiness steps up to greet me",
+        "avg_logprob": -0.12180398201400583
+      },
+      {
+        "id": 5,
+        "start": 115.372,
+        "end": 141.157,
+        "text": " Raindrops keep falling on my head But that doesn't mean my eyes will soon be turning red Crying's not for me Cause I'm never gonna stop the rain by complaining Because I'm free Nothing's worrying",
+        "avg_logprob": -0.10014204223724929
+      },
+      {
+        "id": 6,
+        "start": 141.528,
+        "end": 145.544,
+        "text": " Me.",
+        "avg_logprob": -0.6018880208333334
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "_VyA2f6hGW4",
+    "uploader": "LilLinks",
+    "audio_file": "corpus/01_music_videos_audio/audio/_VyA2f6hGW4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5807668,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.144137,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:12:03Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,84 @@
+{
+  "corpus_id": "uxUATkpMQ8A",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uxUATkpMQ8A.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/uxUATkpMQ8A.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/uxUATkpMQ8A.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I wake up every evening With a big smile on my face And it never feels out of place And you're still probably working At a nine to five pace I wonder how bad that tastes When you see my face Hope it gives you hell, hope it gives you hell When you walk my way Hope it gives you hell, hope it gives you hell Now where's your picket fence, love? And where's that shiny car? And did it ever get you far? You never seem so dense, love I've never seen you fall so high You'll be thinking to yourself Yeah, where did it all go wrong? But the list goes on and on The truth be told, I miss you The truth be told, I'm lying When you see my face Up against you, hell Up against you, hell When you walk my way Up against you, hell Up against you, hell When you find a man that's worth What you've done to me You can take back your memories They're no good to me And here's all your lies You can look me in the eyes With a sad, sad look",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 5.988,
+        "end": 33.308,
+        "text": " I wake up every evening With a big smile on my face And it never feels out of place And you're still probably working",
+        "avg_logprob": -0.07688551424787594
+      },
+      {
+        "id": 2,
+        "start": 34.591,
+        "end": 62.755,
+        "text": " At a nine to five pace I wonder how bad that tastes When you see my face Hope it gives you hell, hope it gives you hell When you walk my way Hope it gives you hell, hope it gives you hell Now where's your picket fence, love? And where's that shiny car? And did it ever get you far? You never seem so dense, love",
+        "avg_logprob": -0.08634334570401675
+      },
+      {
+        "id": 3,
+        "start": 63.65,
+        "end": 64.966,
+        "text": " I've never seen you fall so high",
+        "avg_logprob": -0.3743489583333333
+      },
+      {
+        "id": 4,
+        "start": 108.47,
+        "end": 137.613,
+        "text": " You'll be thinking to yourself Yeah, where did it all go wrong? But the list goes on and on The truth be told, I miss you The truth be told, I'm lying When you see my face Up against you, hell Up against you, hell When you walk my way Up against you, hell Up against you, hell When you find a man that's worth",
+        "avg_logprob": -0.07376217338945959
+      },
+      {
+        "id": 5,
+        "start": 147.923,
+        "end": 162.571,
+        "text": " What you've done to me You can take back your memories They're no good to me And here's all your lies You can look me in the eyes With a sad, sad look",
+        "avg_logprob": -0.05234888999869949
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "uxUATkpMQ8A",
+    "uploader": "The All-American Rejects",
+    "audio_file": "corpus/01_music_videos_audio/audio/uxUATkpMQ8A.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6910336,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.560951,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:06:17Z"
+  },
+  "status": "success",
+  "error": null
+}

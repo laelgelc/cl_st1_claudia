@@ -1,0 +1,98 @@
+{
+  "corpus_id": "qMxX-QOV9tI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/qMxX-QOV9tI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/qMxX-QOV9tI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/qMxX-QOV9tI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Coconut man, moon heads, and pee Seems like everybody's got a price I wonder how they sleep at night When the sale comes first and the truth comes second Just stop for a minute and It's not about the money I saw you nice And it wasn't low blows and video hoes Am I the only one getting tired? Why is everybody so obsessed? Money can't buy us happiness Can we all slow down and enjoy right now? Guarantee we'll be feeling alright Just wanna make the world dance Forget about the price tag Ain't about the, uh, cha-ching, cha-ching Ain't about the, yeah, bubling, bubling Wanna make the world dance Forget about the price tag Well keep the price tag And take the cash back Just give me six strings And a half stack And you can keep the cars, leave me the garage And all I, that's all I need are keys and guitars And just within 30 seconds I'm leaving to Mars Yeah, we leaping across these undefeatable odds It's like this, man, you can't put a price on a life We do this for the love, so we fight and sacrifice every night So we ain't gon' stumble and fall, never Waitin' to see what's in the sign of defeat So we gon' keep everyone movin' they feet So bring back the beat, and then everyone sing It's not about the money We don't need your money, money, money We just wanna make the world dance Forget about the price tag Ain't it by the Cha-ching, cha-ching Ain't it by the Ba-bling, ba-bling Forget about the price tag.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 20.652,
+        "end": 39.957,
+        "text": " Coconut man, moon heads, and pee Seems like everybody's got a price I wonder how they sleep at night When the sale comes first and the truth comes second Just stop for a minute and",
+        "avg_logprob": -0.15945512973345244
+      },
+      {
+        "id": 2,
+        "start": 46.471,
+        "end": 62.182,
+        "text": " It's not about the money",
+        "avg_logprob": -0.6361607142857143
+      },
+      {
+        "id": 3,
+        "start": 88.372,
+        "end": 106.529,
+        "text": " I saw you nice And it wasn't low blows and video hoes Am I the only one getting tired? Why is everybody so obsessed? Money can't buy us happiness Can we all slow down and enjoy right now? Guarantee we'll be feeling alright",
+        "avg_logprob": -0.07333431435081195
+      },
+      {
+        "id": 4,
+        "start": 121.295,
+        "end": 142.287,
+        "text": " Just wanna make the world dance Forget about the price tag Ain't about the, uh, cha-ching, cha-ching Ain't about the, yeah, bubling, bubling Wanna make the world dance Forget about the price tag Well keep the price tag And take the cash back Just give me six strings",
+        "avg_logprob": -0.17088294218456934
+      },
+      {
+        "id": 5,
+        "start": 142.287,
+        "end": 172.274,
+        "text": " And a half stack And you can keep the cars, leave me the garage And all I, that's all I need are keys and guitars And just within 30 seconds I'm leaving to Mars Yeah, we leaping across these undefeatable odds It's like this, man, you can't put a price on a life We do this for the love, so we fight and sacrifice every night So we ain't gon' stumble and fall, never Waitin' to see what's in the sign of defeat So we gon' keep everyone movin' they feet So bring back the beat, and then everyone sing It's not about the money",
+        "avg_logprob": -0.12331730734843474
+      },
+      {
+        "id": 6,
+        "start": 172.274,
+        "end": 187.495,
+        "text": " We don't need your money, money, money We just wanna make the world dance Forget about the price tag Ain't it by the Cha-ching, cha-ching Ain't it by the Ba-bling, ba-bling",
+        "avg_logprob": -0.16331449721721894
+      },
+      {
+        "id": 7,
+        "start": 226.139,
+        "end": 233.378,
+        "text": " Forget about the price tag.",
+        "avg_logprob": -0.2571149468421936
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "qMxX-QOV9tI",
+    "uploader": "Jessie J",
+    "audio_file": "corpus/01_music_videos_audio/audio/qMxX-QOV9tI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7827990,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.637613,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:19:02Z"
+  },
+  "status": "success",
+  "error": null
+}

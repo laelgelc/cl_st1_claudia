@@ -1,0 +1,119 @@
+{
+  "corpus_id": "hqwLrJ6QWho",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hqwLrJ6QWho.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hqwLrJ6QWho.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hqwLrJ6QWho.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Well, we've also got another fine guitar player with us on this tour, and that's Danny Kuch Korchmar. Danny, come on out. You want some notes too? Okay, pick a note. That's a good note. Loose enough for jazz. We're gonna do a song for you called It's Too Late. stayed in bed all morning just to pass the time there's something wrong here there can be no denying one of us is changing or maybe we just stop trying and it's too late baby now it's too Something inside has died and I can't hide and I just can't think. It used to be so easy living here with you You were light and breezy and I knew just what to do Now you look so unhappy and I feel like a fool And it's too late baby now Something inside has died And I can't hide And I just can't fake it Oh no No, no, no, no, no, no, no No, no, no, no, no, no No, no, no, no, no, no No, no, no, no, no, no No, no, no, no, no, no so so there'll be good times again for me and you but we just can't stay together don't you feel it too still i'm glad for what we had and how i once loved you but it's too It's too late, though we really did try to make it. Something inside has died, and I can't hide, and I just can't fake it. Oh, no, no, no, no, no, no. La, la, la, la, la, la, la. Doo, doo, doo, doo, doo, doo, doo, la, It's too late, baby. It's too late. Oh, now, darling, it's too late.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 10,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.655,
+        "end": 22.053,
+        "text": " Well, we've also got another fine guitar player with us on this tour, and that's Danny Kuch Korchmar. Danny, come on out. You want some notes too?",
+        "avg_logprob": -0.14953926587716126
+      },
+      {
+        "id": 2,
+        "start": 23.167,
+        "end": 45.779,
+        "text": " Okay, pick a note. That's a good note. Loose enough for jazz. We're gonna do a song for you called It's Too Late.",
+        "avg_logprob": -0.11156486742424243
+      },
+      {
+        "id": 3,
+        "start": 56.208,
+        "end": 80.93,
+        "text": " stayed in bed all morning just to pass the time there's something wrong here there can be no denying one of us is changing or maybe we just stop trying and it's too late baby now it's too",
+        "avg_logprob": -0.08091518140974499
+      },
+      {
+        "id": 4,
+        "start": 87.663,
+        "end": 95.746,
+        "text": " Something inside has died and I can't hide and I just can't think.",
+        "avg_logprob": -0.12454044117647059
+      },
+      {
+        "id": 5,
+        "start": 106.613,
+        "end": 129.597,
+        "text": " It used to be so easy living here with you You were light and breezy and I knew just what to do Now you look so unhappy and I feel like a fool And it's too late baby now",
+        "avg_logprob": -0.06240699635375114
+      },
+      {
+        "id": 6,
+        "start": 135.402,
+        "end": 164.495,
+        "text": " Something inside has died And I can't hide And I just can't fake it Oh no No, no, no, no, no, no, no No, no, no, no, no, no No, no, no, no, no, no No, no, no, no, no, no No, no, no, no, no, no",
+        "avg_logprob": -0.1205797723837589
+      },
+      {
+        "id": 7,
+        "start": 171.008,
+        "end": 196.321,
+        "text": " so so",
+        "avg_logprob": -1.4348958333333333
+      },
+      {
+        "id": 8,
+        "start": 209.821,
+        "end": 236.264,
+        "text": " there'll be good times again for me and you but we just can't stay together don't you feel it too still i'm glad for what we had and how i once loved you but it's too",
+        "avg_logprob": -0.10844493887963749
+      },
+      {
+        "id": 9,
+        "start": 238.643,
+        "end": 268.597,
+        "text": " It's too late, though we really did try to make it. Something inside has died, and I can't hide, and I just can't fake it. Oh, no, no, no, no, no, no. La, la, la, la, la, la, la. Doo, doo, doo, doo, doo, doo, doo, la,",
+        "avg_logprob": -0.14603364907014063
+      },
+      {
+        "id": 10,
+        "start": 269.727,
+        "end": 286.535,
+        "text": " It's too late, baby. It's too late. Oh, now, darling, it's too late.",
+        "avg_logprob": -0.1660156318296989
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "hqwLrJ6QWho",
+    "uploader": "Carole King",
+    "audio_file": "corpus/01_music_videos_audio/audio/hqwLrJ6QWho.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9739828,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.132616,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:16:05Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,77 @@
+{
+  "corpus_id": "G5rJunb4sIk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/G5rJunb4sIk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/G5rJunb4sIk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/G5rJunb4sIk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Last dance, last chance for love. Yes, it's my last chance for romance. I need you By me Beside me To guide me To hold me To scold me Cause when I'm bad So let's dance All right, baby. Yeah. All right. All right. Let's hear it, everybody. Let's hear it, everybody. Nicole Sims. That's S-I-M-S. Yes. Woo!",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 15.623,
+        "end": 36.278,
+        "text": " Last dance, last chance for love. Yes, it's my last chance for romance.",
+        "avg_logprob": -0.06686883302111375
+      },
+      {
+        "id": 2,
+        "start": 46.184,
+        "end": 70.147,
+        "text": " I need you By me Beside me To guide me To hold me To scold me Cause when I'm bad",
+        "avg_logprob": -0.21620244435642078
+      },
+      {
+        "id": 3,
+        "start": 79.647,
+        "end": 80.913,
+        "text": " So let's dance",
+        "avg_logprob": -0.3494140625
+      },
+      {
+        "id": 4,
+        "start": 203.155,
+        "end": 213.483,
+        "text": " All right, baby. Yeah. All right. All right. Let's hear it, everybody. Let's hear it, everybody. Nicole Sims. That's S-I-M-S. Yes. Woo!",
+        "avg_logprob": -0.17352431217829387
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "G5rJunb4sIk",
+    "uploader": "Jade Disco HD I",
+    "audio_file": "corpus/01_music_videos_audio/audio/G5rJunb4sIk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7018820,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 28.302944,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:21:56Z"
+  },
+  "status": "success",
+  "error": null
+}

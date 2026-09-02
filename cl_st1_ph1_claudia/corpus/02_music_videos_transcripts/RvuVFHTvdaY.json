@@ -1,0 +1,98 @@
+{
+  "corpus_id": "RvuVFHTvdaY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/RvuVFHTvdaY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/RvuVFHTvdaY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/RvuVFHTvdaY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You don't have to forget. Just remember this Sunday, alright? Something more, someone more like me There's times when this dress rehearsal seems incomplete But you see the colors in me like no one else And behind your dark glasses you're something else You know some real bad tricks and you need some discipline But lately you've been trying real hard and giving me your best And you give me the most gorgeous sleep that I've ever had And when it's really bad I guess it's not that bad And you make me better, better, better. Like the heat from the fire, you were always burning any time you're around. My body keeps calling for your touch, your kisses and your sweet romance. And there's another side of you where this woman adore. Aside from your temper, everything else secure, now you're good. Left is me And somehow I'm full of forgiveness I guess it's meant to be And you're really lovely Underneath it all Bye.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 7.152,
+        "text": " You don't have to forget. Just remember this Sunday, alright?",
+        "avg_logprob": -0.21822916865348815
+      },
+      {
+        "id": 2,
+        "start": 18.121,
+        "end": 41.982,
+        "text": " Something more, someone more like me There's times when this dress rehearsal seems incomplete But you see the colors in me like no one else And behind your dark glasses you're something else",
+        "avg_logprob": -0.18834460103833997
+      },
+      {
+        "id": 3,
+        "start": 72.003,
+        "end": 98.294,
+        "text": " You know some real bad tricks and you need some discipline But lately you've been trying real hard and giving me your best And you give me the most gorgeous sleep that I've ever had And when it's really bad I guess it's not that bad",
+        "avg_logprob": -0.05794270877160278
+      },
+      {
+        "id": 4,
+        "start": 129.749,
+        "end": 150.539,
+        "text": " And you make me better, better, better.",
+        "avg_logprob": -0.40021305734461005
+      },
+      {
+        "id": 5,
+        "start": 155.298,
+        "end": 174.367,
+        "text": " Like the heat from the fire, you were always burning any time you're around. My body keeps calling for your touch, your kisses and your sweet romance. And there's another side of you where this woman adore. Aside from your temper, everything else secure, now you're good.",
+        "avg_logprob": -0.2510593230441465
+      },
+      {
+        "id": 6,
+        "start": 185.318,
+        "end": 203.678,
+        "text": " Left is me And somehow I'm full of forgiveness I guess it's meant to be And you're really lovely Underneath it all",
+        "avg_logprob": -0.10120081239276463
+      },
+      {
+        "id": 7,
+        "start": 252.447,
+        "end": 254.557,
+        "text": " Bye.",
+        "avg_logprob": -1.12109375
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "RvuVFHTvdaY",
+    "uploader": "No Doubt",
+    "audio_file": "corpus/01_music_videos_audio/audio/RvuVFHTvdaY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8234432,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.938362,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:05:27Z"
+  },
+  "status": "success",
+  "error": null
+}

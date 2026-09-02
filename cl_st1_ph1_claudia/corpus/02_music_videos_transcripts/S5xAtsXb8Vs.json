@@ -1,0 +1,119 @@
+{
+  "corpus_id": "S5xAtsXb8Vs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/S5xAtsXb8Vs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/S5xAtsXb8Vs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/S5xAtsXb8Vs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Music Music Music Music Thank you. Thank you. It was the third of September That day I'll always remember Yes I will Cause that was the day That my daddy died I never got a chance to see him Never heard nothin' but bad things about him tell me the truth. Mama just hung her head and said, son, Papa was a rolling stone. Wherever he laid his hat was his home. And when he died, all he left us was alone. Papa was a rolling stone, my son, yeah. Wherever he laid his hat was his home. Hey mama, is it true what they say that papa never worked a day in his life? And mama, there's talk going around town saying that papa had three outside children and another wife. And that ain't right. Heard some talk about papa doing some storefront preaching. Talking about saving souls and all the time leeching. My papa was a rolling stone Thank you. Folks say Papa would beg, borrow, steal to pay his bill. Hey, Mama. Folks say Papa never was much on thinking. Spent most of his time chasing women and drinking. Mama, I'm depending on you to tell me the truth. Mama looked up with a teary eye and said, son. Papa was a rolling stone. Well, well, well. Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 10,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 24.922,
+        "text": " Music Music Music Music",
+        "avg_logprob": -1.384375
+      },
+      {
+        "id": 2,
+        "start": 28.837,
+        "end": 56.09,
+        "text": " Thank you.",
+        "avg_logprob": -0.9140625
+      },
+      {
+        "id": 3,
+        "start": 58.975,
+        "end": 63.785,
+        "text": " Thank you.",
+        "avg_logprob": -0.63134765625
+      },
+      {
+        "id": 4,
+        "start": 115.574,
+        "end": 141.983,
+        "text": " It was the third of September That day I'll always remember Yes I will Cause that was the day That my daddy died I never got a chance to see him Never heard nothin' but bad things about him",
+        "avg_logprob": -0.18145461096650078
+      },
+      {
+        "id": 5,
+        "start": 144.025,
+        "end": 172.358,
+        "text": " tell me the truth. Mama just hung her head and said, son, Papa was a rolling stone. Wherever he laid his hat was his home. And when he died, all he left us was alone. Papa was a rolling stone, my son, yeah. Wherever he laid his hat was his home.",
+        "avg_logprob": -0.12208581254595802
+      },
+      {
+        "id": 6,
+        "start": 209.888,
+        "end": 236.146,
+        "text": " Hey mama, is it true what they say that papa never worked a day in his life? And mama, there's talk going around town saying that papa had three outside children and another wife. And that ain't right. Heard some talk about papa doing some storefront preaching. Talking about saving souls and all the time leeching.",
+        "avg_logprob": -0.15770088647093092
+      },
+      {
+        "id": 7,
+        "start": 243.47,
+        "end": 246.929,
+        "text": " My papa was a rolling stone",
+        "avg_logprob": -0.6975446258272443
+      },
+      {
+        "id": 8,
+        "start": 277.81,
+        "end": 286.467,
+        "text": " Thank you.",
+        "avg_logprob": -0.5781249850988388
+      },
+      {
+        "id": 9,
+        "start": 306.987,
+        "end": 334.477,
+        "text": " Folks say Papa would beg, borrow, steal to pay his bill. Hey, Mama. Folks say Papa never was much on thinking. Spent most of his time chasing women and drinking. Mama, I'm depending on you to tell me the truth. Mama looked up with a teary eye and said, son. Papa was a rolling stone. Well, well, well.",
+        "avg_logprob": -0.12844967068015756
+      },
+      {
+        "id": 10,
+        "start": 354.777,
+        "end": 355.537,
+        "text": " Thank you.",
+        "avg_logprob": -0.7358398586511612
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "S5xAtsXb8Vs",
+    "uploader": "Michael Thomas",
+    "audio_file": "corpus/01_music_videos_audio/audio/S5xAtsXb8Vs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 13404494,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.488769,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:00:43Z"
+  },
+  "status": "success",
+  "error": null
+}

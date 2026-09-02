@@ -1,0 +1,105 @@
+{
+  "corpus_id": "XpqqjU7u5Yc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/XpqqjU7u5Yc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/XpqqjU7u5Yc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/XpqqjU7u5Yc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I know your eyes in the morning sun I feel you touch me in the pouring rain And the moment that you wander far from me I wanna feel you in my arms again And you come to me on a summer breeze Keep me warm in your love, then you softly leave And it's me you need to show How deep is your love? How deep is your love? How deep is your love? I really need to learn Cause we're living in a world of fools Breaking us down When they all should let us be We belong to you and me I believe in you You know the door to my very soul You're the light in my deepest darkest doubt You're my savior when I fall When you know down inside that I really do And it's me you need to show How deep is your love How deep is your love I really mean to learn Cause we're living in a world of fools Breaking us down When they all should let us be La la la When you come to me on a summer breeze Keep me warm in your love and you softly leave When it's me you need to show How deep is your love How deep is your love How deep it means to love Cause we're living in a world of noose Breaking us down. When they all should let us be. We belong to you and me. How deep is your love? How deep is your love? I really need to learn. Cause we're living. Breaking us down When they all should let us be We belong to you and me How deep is your love? How deep is your love? And did it mean to learn? Taking us down.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 17.328,
+        "end": 34.54,
+        "text": " I know your eyes in the morning sun I feel you touch me in the pouring rain And the moment that you wander far from me I wanna feel you in my arms again",
+        "avg_logprob": -0.08080356887408666
+      },
+      {
+        "id": 2,
+        "start": 35.84,
+        "end": 65.084,
+        "text": " And you come to me on a summer breeze Keep me warm in your love, then you softly leave And it's me you need to show How deep is your love? How deep is your love? How deep is your love? I really need to learn Cause we're living in a world of fools Breaking us down",
+        "avg_logprob": -0.09619140601716936
+      },
+      {
+        "id": 3,
+        "start": 65.708,
+        "end": 89.722,
+        "text": " When they all should let us be We belong to you and me I believe in you You know the door to my very soul You're the light in my deepest darkest doubt You're my savior when I fall",
+        "avg_logprob": -0.08254278220591091
+      },
+      {
+        "id": 4,
+        "start": 95.088,
+        "end": 124.67,
+        "text": " When you know down inside that I really do And it's me you need to show How deep is your love How deep is your love I really mean to learn Cause we're living in a world of fools Breaking us down When they all should let us be",
+        "avg_logprob": -0.09442608044124566
+      },
+      {
+        "id": 5,
+        "start": 143.418,
+        "end": 172.983,
+        "text": " La la la When you come to me on a summer breeze Keep me warm in your love and you softly leave When it's me you need to show How deep is your love How deep is your love How deep it means to love Cause we're living in a world of noose",
+        "avg_logprob": -0.2534265309049372
+      },
+      {
+        "id": 6,
+        "start": 173.27,
+        "end": 199.628,
+        "text": " Breaking us down. When they all should let us be. We belong to you and me. How deep is your love? How deep is your love? I really need to learn. Cause we're living.",
+        "avg_logprob": -0.1967659946097884
+      },
+      {
+        "id": 7,
+        "start": 202.818,
+        "end": 228.586,
+        "text": " Breaking us down When they all should let us be We belong to you and me How deep is your love? How deep is your love? And did it mean to learn?",
+        "avg_logprob": -0.2432725744114982
+      },
+      {
+        "id": 8,
+        "start": 232.94,
+        "end": 234.374,
+        "text": " Taking us down.",
+        "avg_logprob": -0.62890625
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "XpqqjU7u5Yc",
+    "uploader": "beegees",
+    "audio_file": "corpus/01_music_videos_audio/audio/XpqqjU7u5Yc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7660806,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.541453,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:14:51Z"
+  },
+  "status": "success",
+  "error": null
+}

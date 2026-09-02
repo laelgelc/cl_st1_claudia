@@ -1,0 +1,84 @@
+{
+  "corpus_id": "n3nPiBai66M",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/n3nPiBai66M.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/n3nPiBai66M.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/n3nPiBai66M.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Show me how you do that trick, the one that makes me scream, she said, the one that makes me laugh, she said, through her arms around my neck. Show me how you do it, and I promise you, I promise that I'll run away with you. Kiss her face and kiss her head Dream of all the different ways I had to make her grow Why are you so far away, she said But won't you ever know That I'm in love with you That I'm in love with you You who, soft and lonely. You who, lost and lonely. You who, strangers, angels. Dancing in the deepest oceans. Drifting in the water. You're just like a dream. You're just like a dream. Daylights lift me into shape I must have been asleep for days Just like heaven.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 51.263,
+        "end": 71.598,
+        "text": " Show me how you do that trick, the one that makes me scream, she said, the one that makes me laugh, she said, through her arms around my neck. Show me how you do it, and I promise you, I promise that I'll run away with you.",
+        "avg_logprob": -0.05748248960951279
+      },
+      {
+        "id": 2,
+        "start": 91.763,
+        "end": 113.296,
+        "text": " Kiss her face and kiss her head Dream of all the different ways I had to make her grow Why are you so far away, she said But won't you ever know That I'm in love with you That I'm in love with you",
+        "avg_logprob": -0.11001275510204081
+      },
+      {
+        "id": 3,
+        "start": 115.237,
+        "end": 134.795,
+        "text": " You who, soft and lonely. You who, lost and lonely. You who, strangers, angels. Dancing in the deepest oceans. Drifting in the water. You're just like a dream. You're just like a dream.",
+        "avg_logprob": -0.10929362180953224
+      },
+      {
+        "id": 4,
+        "start": 156.833,
+        "end": 162.402,
+        "text": " Daylights lift me into shape I must have been asleep for days",
+        "avg_logprob": -0.32868304422923494
+      },
+      {
+        "id": 5,
+        "start": 173.962,
+        "end": 197.924,
+        "text": " Just like heaven.",
+        "avg_logprob": -0.4765625
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "n3nPiBai66M",
+    "uploader": "The Cure",
+    "audio_file": "corpus/01_music_videos_audio/audio/n3nPiBai66M.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6618322,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.154451,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:15:44Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,105 @@
+{
+  "corpus_id": "vbCH5lnZ6sA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/vbCH5lnZ6sA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/vbCH5lnZ6sA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/vbCH5lnZ6sA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Thank you. This is the dawning of the Age of Aquarius Age of Aquarius Aquarius Aquarius Harmony and understanding Sympathy and trust abounding Aquarius. Aquarius. Aquarius. This is the dawning of the. Come on. Everybody just sing along. Let the sun shine on you. Open up your heart. And when you feel like you've been mistreated And your prayers turned it back on you Just open up your heart and let it shine on you You've got to feel it You've got to feel it Open up your heart and let it shine on you Now let me tell you one thing I want you to sing along with the 50 lichens Hey, and open up your heart When you're feeling low",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 8.738,
+        "end": 18.155,
+        "text": " Thank you.",
+        "avg_logprob": -0.6513671725988388
+      },
+      {
+        "id": 2,
+        "start": 39.535,
+        "end": 65.202,
+        "text": " This is the dawning of the Age of Aquarius Age of Aquarius Aquarius Aquarius Harmony and understanding Sympathy and trust abounding",
+        "avg_logprob": -0.10439768193229552
+      },
+      {
+        "id": 3,
+        "start": 69.202,
+        "end": 90.886,
+        "text": " Aquarius. Aquarius. Aquarius.",
+        "avg_logprob": -0.425390625
+      },
+      {
+        "id": 4,
+        "start": 94.683,
+        "end": 113.515,
+        "text": " This is the dawning of the.",
+        "avg_logprob": -0.3932291666666667
+      },
+      {
+        "id": 5,
+        "start": 185.2,
+        "end": 199.679,
+        "text": " Come on. Everybody just sing along. Let the sun shine on you. Open up your heart.",
+        "avg_logprob": -0.194196431409745
+      },
+      {
+        "id": 6,
+        "start": 213.348,
+        "end": 240.938,
+        "text": " And when you feel like you've been mistreated And your prayers turned it back on you Just open up your heart and let it shine on you You've got to feel it You've got to feel it Open up your heart and let it shine on you Now let me tell you one thing",
+        "avg_logprob": -0.20643538337642864
+      },
+      {
+        "id": 7,
+        "start": 242.997,
+        "end": 248.65,
+        "text": " I want you to sing along with the 50 lichens Hey, and open up your heart",
+        "avg_logprob": -0.2556640639901161
+      },
+      {
+        "id": 8,
+        "start": 284.527,
+        "end": 288.475,
+        "text": " When you're feeling low",
+        "avg_logprob": -0.7578125099341074
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "vbCH5lnZ6sA",
+    "uploader": "MrHaagsesjonny1",
+    "audio_file": "corpus/01_music_videos_audio/audio/vbCH5lnZ6sA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9548866,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 7.186608,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:09:17Z"
+  },
+  "status": "success",
+  "error": null
+}

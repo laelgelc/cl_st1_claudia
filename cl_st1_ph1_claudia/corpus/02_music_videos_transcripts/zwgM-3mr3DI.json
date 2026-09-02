@@ -1,0 +1,84 @@
+{
+  "corpus_id": "zwgM-3mr3DI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/zwgM-3mr3DI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/zwgM-3mr3DI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/zwgM-3mr3DI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "They're really rockin' in Boston and Pittsburgh, PA. Deep in the heart of Texas and round the Frisco Bay. All over St. Louis and down in New Orleans. All the cats wanna dance with sweet little 16. Sweet little 16. She just got to have about a half a million. same daughter grabs her wallet filled with pictures she gets them one by one becomes so excited watch her look at her run boy oh mommy mommy please may I go it's such a sight to see somebody steal the show Whisper to mommy, it's all right with you. Cause they'll be rockin' on bandstandin' in Philadelphia, PA. Deep in the heart of Texas, around the Frisco Bay. All over St. Louis, way down in New Orleans. All the cats wanna dance with. She's got the grown-up blues Tight dresses and lipstick She's sporting high-heeled shoes Oh, but tomorrow morning She'll have to change her trend and be sweet 16 and back in class again. But they'll be rocking in Boston, Pittsburgh, PA, deep in the heart of Texas and around the Briscoe Bay.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 2.208,
+        "end": 30.693,
+        "text": " They're really rockin' in Boston and Pittsburgh, PA. Deep in the heart of Texas and round the Frisco Bay. All over St. Louis and down in New Orleans. All the cats wanna dance with sweet little 16. Sweet little 16. She just got to have about a half a million.",
+        "avg_logprob": -0.07124256307170504
+      },
+      {
+        "id": 2,
+        "start": 32.178,
+        "end": 55.685,
+        "text": " same daughter grabs her wallet filled with pictures she gets them one by one becomes so excited watch her look at her run boy oh mommy mommy please may I go it's such a sight to see somebody steal the show",
+        "avg_logprob": -0.12554505952568942
+      },
+      {
+        "id": 3,
+        "start": 62.384,
+        "end": 85.773,
+        "text": " Whisper to mommy, it's all right with you. Cause they'll be rockin' on bandstandin' in Philadelphia, PA. Deep in the heart of Texas, around the Frisco Bay. All over St. Louis, way down in New Orleans. All the cats wanna dance with.",
+        "avg_logprob": -0.10761088709677419
+      },
+      {
+        "id": 4,
+        "start": 117.447,
+        "end": 145.392,
+        "text": " She's got the grown-up blues Tight dresses and lipstick She's sporting high-heeled shoes Oh, but tomorrow morning",
+        "avg_logprob": -0.21829927483430275
+      },
+      {
+        "id": 5,
+        "start": 146.05,
+        "end": 164.478,
+        "text": " She'll have to change her trend and be sweet 16 and back in class again. But they'll be rocking in Boston, Pittsburgh, PA, deep in the heart of Texas and around the Briscoe Bay.",
+        "avg_logprob": -0.14541902697899126
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "zwgM-3mr3DI",
+    "uploader": "Chuck Berry",
+    "audio_file": "corpus/01_music_videos_audio/audio/zwgM-3mr3DI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5828472,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.158966,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:58:36Z"
+  },
+  "status": "success",
+  "error": null
+}

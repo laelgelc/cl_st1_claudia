@@ -1,0 +1,91 @@
+{
+  "corpus_id": "jQvUBf5l7Vw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/jQvUBf5l7Vw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/jQvUBf5l7Vw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/jQvUBf5l7Vw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "We're delivering jobs in a tax machine He's gonna do it in a strip taste Hey man, where'd you get that lotion? And I've been hurting since I bought the gear We've got some called love, yeah some called love Well, I'm just a modern guy. Because I've had it in my ear before. Because I've lost my mind. Because I've lost my mind. What is important is that I am. And I'm worth a million in prizes. Oh, here's my torture film. Drive a GTO. Wear a uniform. A lot of government loan. I'm worth a million prizes. Yeah, I'm throwin' slippin' on the sidewalk. No more beatin' my brains. No more beatin' my brains. With liquor and drugs. With liquor and drugs. Well, I'm just a modern guy. Cause I've had it in my ear before Cause I've lost for life Cause I've lost for life When my hair comes down in the air again With the liquor and drugs and the gas machines I know it's gonna do another strip dance Your skin starts itching once you're by the gate But sometimes you're all alone, all alone I got a love for life A love for life",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 14.695,
+        "end": 38.978,
+        "text": " We're delivering jobs in a tax machine He's gonna do it in a strip taste Hey man, where'd you get that lotion? And I've been hurting since I bought the gear We've got some called love, yeah some called love",
+        "avg_logprob": -0.3651147861869968
+      },
+      {
+        "id": 2,
+        "start": 41.155,
+        "end": 68.83,
+        "text": " Well, I'm just a modern guy. Because I've had it in my ear before. Because I've lost my mind. Because I've lost my mind. What is important is that I am. And I'm worth a million in prizes. Oh, here's my torture film.",
+        "avg_logprob": -0.2891949293977123
+      },
+      {
+        "id": 3,
+        "start": 69.117,
+        "end": 97.552,
+        "text": " Drive a GTO. Wear a uniform. A lot of government loan. I'm worth a million prizes. Yeah, I'm throwin' slippin' on the sidewalk. No more beatin' my brains. No more beatin' my brains. With liquor and drugs. With liquor and drugs. Well, I'm just a modern guy.",
+        "avg_logprob": -0.1371527738455269
+      },
+      {
+        "id": 4,
+        "start": 99.998,
+        "end": 126.83,
+        "text": " Cause I've had it in my ear before Cause I've lost for life Cause I've lost for life When my hair comes down in the air again With the liquor and drugs and the gas machines I know it's gonna do another strip dance",
+        "avg_logprob": -0.3104272959183674
+      },
+      {
+        "id": 5,
+        "start": 130.424,
+        "end": 140.077,
+        "text": " Your skin starts itching once you're by the gate But sometimes you're all alone, all alone",
+        "avg_logprob": -0.6075148923056466
+      },
+      {
+        "id": 6,
+        "start": 176.611,
+        "end": 182.247,
+        "text": " I got a love for life A love for life",
+        "avg_logprob": -0.3236860849640586
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "jQvUBf5l7Vw",
+    "uploader": "Iggy Pop Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/jQvUBf5l7Vw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6156896,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.957675,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:01:07Z"
+  },
+  "status": "success",
+  "error": null
+}

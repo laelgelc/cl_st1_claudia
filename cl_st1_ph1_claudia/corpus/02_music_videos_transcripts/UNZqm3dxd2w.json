@@ -1,0 +1,119 @@
+{
+  "corpus_id": "UNZqm3dxd2w",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/UNZqm3dxd2w.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/UNZqm3dxd2w.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/UNZqm3dxd2w.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Beep boop Beep boop Beep boop Beep boop Bustin' all the bells out the box I just hit a lick with the box Had to put the stick in the box, mmm Pour up the whole damn field, I'ma get lazy I got the mojo deals, we been trappin' like the 80s She suck the niggas soul, gotta cash out Told her I'm white, but nigga, no Say slack, slack, I won't ever sell my soul Oh, where you at, where at? I was zapped back, where the stash at? Cruised the city in a bulletproof Cadillac Cause I know these niggas out there where the bag at Gotta move smarter, gotta move harder Niggas try to give me five mile water I lay his ass down on my son, on my daughter I had the Draco with me, Dwayne Carter A lot of niggas out here playing, they ain't ballin' I done put my whole arm in the rim, Vince Carter And I know Papi get a key for the quarter Shot it back, they seen the double C's, I bought her Got a bitch that's lookin' like a leadership model Got the pink slip, up my whip, it's keyless Compton, I'm about to get the key to the seat Padded, light up the seat Forgetting how to coupe at the lot Tony for a 12-fuck swat Busting all the bells out the box I just hit a lick with the box Had to put the stick in the box Pour up the whole damn seal, I'ma get lazy I won't never sell my soul and I get back that I really wanna know Where you at, where? I been movin' her mouth And steal her with me, then he got the blues in the pouch Took her to the forest, put the wood in her mouth Bitch don't wear no shoes in my house The pilot I'm flyin' in, I never wanna fly again I take my chances in traffic She suckin' no dick, no hair I just made a rollie playing like a London strip I'm a 2020 president candidate I done put a hundred bands on Zimmerman shit I been moving real gangsta, so that's why she pick a crick Shawty call me Crisco, cause I pop my shit Got it out the mud, there's nothing you can tell me Yeah, when I had a drug, South Street wealthy Yeah, I had the coupe at the lot, Tony fuck, 12 fuck, swat Busting all the bells out the box, I just hit a lick with the box Had to put the stick in the box, pour up the whole damn seal I'ma get lazy I won't never sell my soul when I get back there And I really wanna know where you at, where Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 10,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 20.534,
+        "text": " Beep boop Beep boop Beep boop Beep boop",
+        "avg_logprob": -0.36465992647058826
+      },
+      {
+        "id": 2,
+        "start": 27.335,
+        "end": 52.883,
+        "text": " Bustin' all the bells out the box I just hit a lick with the box Had to put the stick in the box, mmm Pour up the whole damn field, I'ma get lazy I got the mojo deals, we been trappin' like the 80s She suck the niggas soul, gotta cash out Told her I'm white, but nigga, no Say slack, slack, I won't ever sell my soul",
+        "avg_logprob": -0.3185096088346544
+      },
+      {
+        "id": 3,
+        "start": 56.225,
+        "end": 83.63,
+        "text": " Oh, where you at, where at? I was zapped back, where the stash at? Cruised the city in a bulletproof Cadillac Cause I know these niggas out there where the bag at Gotta move smarter, gotta move harder Niggas try to give me five mile water I lay his ass down on my son, on my daughter I had the Draco with me, Dwayne Carter A lot of niggas out here playing, they ain't ballin' I done put my whole arm in the rim, Vince Carter And I know Papi get a key for the quarter Shot it back, they seen the double C's, I bought her Got a bitch that's lookin' like a leadership model",
+        "avg_logprob": -0.17177152219197608
+      },
+      {
+        "id": 4,
+        "start": 83.63,
+        "end": 103.441,
+        "text": " Got the pink slip, up my whip, it's keyless Compton, I'm about to get the key to the seat Padded, light up the seat Forgetting how to coupe at the lot Tony for a 12-fuck swat Busting all the bells out the box I just hit a lick with the box Had to put the stick in the box Pour up the whole damn seal, I'ma get lazy",
+        "avg_logprob": -0.28825430417882986
+      },
+      {
+        "id": 5,
+        "start": 105.955,
+        "end": 119.101,
+        "text": " I won't never sell my soul and I get back that",
+        "avg_logprob": -0.5333533837245061
+      },
+      {
+        "id": 6,
+        "start": 120.097,
+        "end": 137.984,
+        "text": " I really wanna know Where you at, where? I been movin' her mouth And steal her with me, then he got the blues in the pouch Took her to the forest, put the wood in her mouth Bitch don't wear no shoes in my house The pilot I'm flyin' in, I never wanna fly again I take my chances in traffic She suckin' no dick, no hair",
+        "avg_logprob": -0.16406250708713765
+      },
+      {
+        "id": 7,
+        "start": 137.984,
+        "end": 151.889,
+        "text": " I just made a rollie playing like a London strip I'm a 2020 president candidate I done put a hundred bands on Zimmerman shit I been moving real gangsta, so that's why she pick a crick Shawty call me Crisco, cause I pop my shit Got it out the mud, there's nothing you can tell me",
+        "avg_logprob": -0.2694746376811594
+      },
+      {
+        "id": 8,
+        "start": 152.463,
+        "end": 169.017,
+        "text": " Yeah, when I had a drug, South Street wealthy Yeah, I had the coupe at the lot, Tony fuck, 12 fuck, swat Busting all the bells out the box, I just hit a lick with the box Had to put the stick in the box, pour up the whole damn seal I'ma get lazy",
+        "avg_logprob": -0.21408582222995473
+      },
+      {
+        "id": 9,
+        "start": 173.978,
+        "end": 189.976,
+        "text": " I won't never sell my soul when I get back there And I really wanna know where you at, where",
+        "avg_logprob": -0.42595108695652173
+      },
+      {
+        "id": 10,
+        "start": 205.197,
+        "end": 206.362,
+        "text": " Thank you.",
+        "avg_logprob": -0.7099609225988388
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "UNZqm3dxd2w",
+    "uploader": "Roddy Ricch",
+    "audio_file": "corpus/01_music_videos_audio/audio/UNZqm3dxd2w.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6811512,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.870852,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:08:11Z"
+  },
+  "status": "success",
+  "error": null
+}

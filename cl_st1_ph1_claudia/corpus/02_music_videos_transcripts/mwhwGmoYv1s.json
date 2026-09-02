@@ -1,0 +1,105 @@
+{
+  "corpus_id": "mwhwGmoYv1s",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/mwhwGmoYv1s.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/mwhwGmoYv1s.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/mwhwGmoYv1s.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "What's it gonna be? Cause I can't pretend. Don't you wanna be more than friends? Hold me tight and don't let go. Don't let go. You have the right to lose control. Don't let go. I often tell myself that we could be more than just friends I know you think that if we moved too soon it would all end I live in misery when you're not around And I won't be satisfied till we're taking those vows. There'll be some love making, heart breaking, soul shaking. Love making, heart breaking, soul shaking. What's it gonna be? Cause I can't pretend. No, don't you wanna be? Don't let go. Have the right to lose control. Don't let go. They know my heart and speak to yours like only lovers do. If I could wear your clothes, I'd pretend I was you and lose control. They'll be so love making, heart breaking, soul shaking. Oh, love making, heart breaking. I can't pretend. No. Don't you want to be. Don't you want to be. More than friends. More than friends. Don't let go. Don't let go. You have the right to lose control. Don't let go. Has got me so confused You gotta make the sacrifice Somebody's gotta choose We can make it if we try For the sake of you and I Together we can make it right What's it gonna be? You've got the right, you've got the right I said you've got the right to lose control",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 20.078,
+        "end": 48.968,
+        "text": " What's it gonna be? Cause I can't pretend. Don't you wanna be more than friends? Hold me tight and don't let go. Don't let go. You have the right to lose control. Don't let go.",
+        "avg_logprob": -0.17889030612244897
+      },
+      {
+        "id": 2,
+        "start": 53.727,
+        "end": 71.463,
+        "text": " I often tell myself that we could be more than just friends I know you think that if we moved too soon it would all end I live in misery when you're not around",
+        "avg_logprob": -0.09412977740996414
+      },
+      {
+        "id": 3,
+        "start": 71.463,
+        "end": 96.978,
+        "text": " And I won't be satisfied till we're taking those vows. There'll be some love making, heart breaking, soul shaking. Love making, heart breaking, soul shaking. What's it gonna be? Cause I can't pretend. No, don't you wanna be?",
+        "avg_logprob": -0.18928180451978716
+      },
+      {
+        "id": 4,
+        "start": 96.978,
+        "end": 112.081,
+        "text": " Don't let go. Have the right to lose control. Don't let go.",
+        "avg_logprob": -0.2536892493565877
+      },
+      {
+        "id": 5,
+        "start": 120.957,
+        "end": 147.063,
+        "text": " They know my heart and speak to yours like only lovers do. If I could wear your clothes, I'd pretend I was you and lose control. They'll be so love making, heart breaking, soul shaking. Oh, love making, heart breaking.",
+        "avg_logprob": -0.14287860319018364
+      },
+      {
+        "id": 6,
+        "start": 152.193,
+        "end": 173.05,
+        "text": " I can't pretend. No. Don't you want to be. Don't you want to be. More than friends. More than friends. Don't let go. Don't let go. You have the right to lose control. Don't let go.",
+        "avg_logprob": -0.2365860882795082
+      },
+      {
+        "id": 7,
+        "start": 180.273,
+        "end": 200.978,
+        "text": " Has got me so confused You gotta make the sacrifice Somebody's gotta choose We can make it if we try For the sake of you and I Together we can make it right What's it gonna be?",
+        "avg_logprob": -0.0944645593806011
+      },
+      {
+        "id": 8,
+        "start": 218.562,
+        "end": 227.033,
+        "text": " You've got the right, you've got the right I said you've got the right to lose control",
+        "avg_logprob": -0.24272016909989444
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "mwhwGmoYv1s",
+    "uploader": "En Vogue",
+    "audio_file": "corpus/01_music_videos_audio/audio/mwhwGmoYv1s.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8621554,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.762362,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:06:29Z"
+  },
+  "status": "success",
+  "error": null
+}

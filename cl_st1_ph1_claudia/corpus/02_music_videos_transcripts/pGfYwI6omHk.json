@@ -1,0 +1,84 @@
+{
+  "corpus_id": "pGfYwI6omHk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/pGfYwI6omHk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/pGfYwI6omHk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/pGfYwI6omHk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Life could be a dream. Life could be a dream. Do, do, do, do, shaboom. Life could be a dream. Shaboom. If I could take you up in paradise up above. Shaboom. If you would tell me I'm the only one that you love. Life could be a dream. Sweetheart, hello, hello again. Shaboom. Shaboom. Shaboom. Shaboom. If only all my precious plans would come true If you would let me spend my whole life loving you Life could be a dream, sweetheart Every time I look at you Something is on my mind If you do what I want you to Maybe we'd be so fine Oh, life could be a dream, shaboom, if I could take you up in paradise up above. Shaboom, don't tell me, darling, I'm the only one that you love. Life could be a dream, sweetheart, I know how long can shaboom and hope for me to get boom. Life could be a dream, life could be a dream, sweetheart. Oh, life could be a dream, shaboom, if I could take you up in paradise up above, shaboom, you tell me, darling, I'm the only one that you love. Life could be a dream, sweet heart, hello, hello again, shaboom, and hope for me to get boom, ba-boom, ding-dong, ding-ding. life could be",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 29.967,
+        "text": " Life could be a dream. Life could be a dream. Do, do, do, do, shaboom. Life could be a dream. Shaboom. If I could take you up in paradise up above. Shaboom. If you would tell me I'm the only one that you love. Life could be a dream. Sweetheart, hello, hello again. Shaboom. Shaboom. Shaboom. Shaboom.",
+        "avg_logprob": -0.11311502929063554
+      },
+      {
+        "id": 2,
+        "start": 29.967,
+        "end": 55.651,
+        "text": " If only all my precious plans would come true If you would let me spend my whole life loving you Life could be a dream, sweetheart Every time I look at you Something is on my mind If you do what I want you to Maybe we'd be so fine",
+        "avg_logprob": -0.06876474337757758
+      },
+      {
+        "id": 3,
+        "start": 55.651,
+        "end": 82.887,
+        "text": " Oh, life could be a dream, shaboom, if I could take you up in paradise up above. Shaboom, don't tell me, darling, I'm the only one that you love. Life could be a dream, sweetheart, I know how long can shaboom and hope for me to get boom. Life could be a dream, life could be a dream, sweetheart.",
+        "avg_logprob": -0.1589176802010071
+      },
+      {
+        "id": 4,
+        "start": 106.377,
+        "end": 127.184,
+        "text": " Oh, life could be a dream, shaboom, if I could take you up in paradise up above, shaboom, you tell me, darling, I'm the only one that you love. Life could be a dream, sweet heart, hello, hello again, shaboom, and hope for me to get boom, ba-boom, ding-dong, ding-ding.",
+        "avg_logprob": -0.17968750294343924
+      },
+      {
+        "id": 5,
+        "start": 127.184,
+        "end": 139.739,
+        "text": " life could be",
+        "avg_logprob": -0.80419921875
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "pGfYwI6omHk",
+    "uploader": "Oldies Zone",
+    "audio_file": "corpus/01_music_videos_audio/audio/pGfYwI6omHk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4673790,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.205878,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:59:49Z"
+  },
+  "status": "success",
+  "error": null
+}

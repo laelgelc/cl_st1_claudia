@@ -1,0 +1,84 @@
+{
+  "corpus_id": "rTVjnBo96Ug",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/rTVjnBo96Ug.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/rTVjnBo96Ug.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/rTVjnBo96Ug.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Sitting in the morning sun I'll be sitting when the evening comes Watching the ships roll in And then I'll watch them roll away again, yeah I'm sitting on the dock of the bay Watching the tide roll away Sitting on the dock of the bay Wasting time I left my home in Georgia Headed for the Frisco Bay Cause I've had nothing to live for It looks like nothing's gonna come my way So I'm just gonna sit on the dock of the bay Watching the tide roll away I'm sitting on the dock of the bay Wasting time Looks like nothing's gonna change Everything still remains the same. I can't do what ten people tell me to do. So I guess I'll remain the same. Sitting here resting my bones. And this loneliness won't leave me alone. This two thousand miles I roam. Just to make this dock my home. Now I'm just going to sit at the dock of a bay. Watching the tide roll away. Sitting on the dock of a bay. Wasting time.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 10.156,
+        "end": 36.143,
+        "text": " Sitting in the morning sun I'll be sitting when the evening comes Watching the ships roll in And then I'll watch them roll away again, yeah I'm sitting on the dock of the bay Watching the tide roll away",
+        "avg_logprob": -0.10626775720580058
+      },
+      {
+        "id": 2,
+        "start": 37.51,
+        "end": 60.241,
+        "text": " Sitting on the dock of the bay Wasting time I left my home in Georgia Headed for the Frisco Bay Cause I've had nothing to live for",
+        "avg_logprob": -0.15722655691206455
+      },
+      {
+        "id": 3,
+        "start": 60.612,
+        "end": 89.401,
+        "text": " It looks like nothing's gonna come my way So I'm just gonna sit on the dock of the bay Watching the tide roll away I'm sitting on the dock of the bay Wasting time Looks like nothing's gonna change",
+        "avg_logprob": -0.15737846692403157
+      },
+      {
+        "id": 4,
+        "start": 90.228,
+        "end": 116.03,
+        "text": " Everything still remains the same. I can't do what ten people tell me to do. So I guess I'll remain the same. Sitting here resting my bones. And this loneliness won't leave me alone. This two thousand miles I roam.",
+        "avg_logprob": -0.0853906226158142
+      },
+      {
+        "id": 5,
+        "start": 116.705,
+        "end": 136.769,
+        "text": " Just to make this dock my home. Now I'm just going to sit at the dock of a bay. Watching the tide roll away. Sitting on the dock of a bay. Wasting time.",
+        "avg_logprob": -0.11966463269256963
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "rTVjnBo96Ug",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/rTVjnBo96Ug.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5185744,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.264366,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:21:55Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,105 @@
+{
+  "corpus_id": "9SOryJvTAGs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/9SOryJvTAGs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/9SOryJvTAGs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/9SOryJvTAGs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You see a faded sign at the side of the road To the Love Shack I got me a Chrysler And it's about twenty So hurry up and bring your jukebox money The Love Shack is a little old place Where we can get together Love Shack, baby The Love Shack, baby Love Shack, baby, Love Shack All right, fools, the club rules at the Love Shack. We'll sit way back in the middle of a field, just a funky old shack. And I gotta get back. Love Shack is a little old place where we can get together. Love Shack, baby. Love Shack, baby. Love Shack, that's where it's at. Love Shack, that's where it's at. Huggin' and a-kissin', dancin' and a-lovin', wearin' it for nothin' cause it's harder than nothin'. Everybody's grooving, baby. Folks lining up outside just to get down. Everybody's moving. Everybody's grooving, baby. Fucking little shot. Fucking little shot. Hop in my Chrysler. It's as big as a whale and it's about to sound. And bring your jukebox money. The Love Shack is a little old place where we can get together. Love Shack, baby. The Love Shack, baby. Love Shack. I can't hear you! On the door, baby! On the door! On the door, baby! You're what? Love Shaq! Love Shaq! Ba-la-love Shaq! Love Shaq! Ba-la-love Shaq!",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 5.6,
+        "end": 8.266,
+        "text": " You see a faded sign at the side of the road",
+        "avg_logprob": -0.18196613962451616
+      },
+      {
+        "id": 2,
+        "start": 39.485,
+        "end": 65.877,
+        "text": " To the Love Shack I got me a Chrysler And it's about twenty So hurry up and bring your jukebox money The Love Shack is a little old place Where we can get together Love Shack, baby The Love Shack, baby Love Shack, baby, Love Shack",
+        "avg_logprob": -0.12355090749840583
+      },
+      {
+        "id": 3,
+        "start": 72.661,
+        "end": 85.773,
+        "text": " All right, fools, the club rules at the Love Shack. We'll sit way back in the middle of a field, just a funky old shack. And I gotta get back.",
+        "avg_logprob": -0.2912660179994045
+      },
+      {
+        "id": 4,
+        "start": 99.661,
+        "end": 128.264,
+        "text": " Love Shack is a little old place where we can get together. Love Shack, baby. Love Shack, baby. Love Shack, that's where it's at. Love Shack, that's where it's at. Huggin' and a-kissin', dancin' and a-lovin', wearin' it for nothin' cause it's harder than nothin'.",
+        "avg_logprob": -0.12433307599730609
+      },
+      {
+        "id": 5,
+        "start": 137.528,
+        "end": 161.677,
+        "text": " Everybody's grooving, baby. Folks lining up outside just to get down. Everybody's moving. Everybody's grooving, baby. Fucking little shot. Fucking little shot. Hop in my Chrysler. It's as big as a whale and it's about to sound.",
+        "avg_logprob": -0.0989583364704199
+      },
+      {
+        "id": 6,
+        "start": 167.836,
+        "end": 186.787,
+        "text": " And bring your jukebox money. The Love Shack is a little old place where we can get together. Love Shack, baby. The Love Shack, baby. Love Shack.",
+        "avg_logprob": -0.1675876466239371
+      },
+      {
+        "id": 7,
+        "start": 205.467,
+        "end": 229.598,
+        "text": " I can't hear you! On the door, baby! On the door! On the door, baby! You're what?",
+        "avg_logprob": -0.22887731260723537
+      },
+      {
+        "id": 8,
+        "start": 236.332,
+        "end": 245.191,
+        "text": " Love Shaq! Love Shaq! Ba-la-love Shaq! Love Shaq! Ba-la-love Shaq!",
+        "avg_logprob": -0.24609375
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "9SOryJvTAGs",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/9SOryJvTAGs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8275298,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.414506,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:22:01Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,112 @@
+{
+  "corpus_id": "uSD4vsh1zDA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uSD4vsh1zDA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/uSD4vsh1zDA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/uSD4vsh1zDA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I got a feeling That tonight's gonna be a good night That tonight's gonna be a good night That tonight's gonna be a good, good night I got a feeling That tonight's gonna be a good night That tonight's gonna be a good night That tonight's gonna be a good night That tonight's gonna be a good night Be there That tonight's gonna be a good night. That tonight's gonna be a good night. That tonight's gonna be a good, good night. Tonight's the night. Let's live it up. I got my money. Let's bid it up. Go out and smash it. Lock on my car. Jump out that sofa. Let's kick it off. I know tonight. I feel stressed out, I won't let it go Let's go way out of space, I'm losing all control Fill up my cup, Mazel Tov Look at her dancing, just take it off Let's paint the town, we'll shut it down Let's burn the roof, and then we'll do it again Let's live it up and do it, and do it, and do it, do it, do it Let's do it, let's do it, let's do it, cause I got a feeling That tonight's gonna be a good night That tonight's gonna be a good night That tonight's gonna be a good, good night That tonight's gonna be a good night. That tonight's gonna be a good night. That tonight's gonna be a good, good night. Tonight's the night. Let's live it up. I got my money. Let's spin it up. Go out and smash it. Like oh my god. Jump out that sofa. Let's get it. Fill up my cup. Mazel tov Look at her dancing Just take it off Let's paint the town We'll shut it down Let's burn the roof And then we'll do it again Let's do it, let's do it, let's do it, let's do it And do it, and do it, let's live it up And do it, and do it, and do it, and do it, and do it Let's do it, let's do it, let's do it, do it, do it Here we come Here we go, we gotta rock. Easy come, easy go, now we on top. Feel the shot, body rock, rock it, don't stop. Round and round, up and down, all round the clock. Monday, Tuesday, Wednesday, and Thursday. Friday, Saturday, Saturday, and Sunday. Get, get, get, get, get with us. You know what we say, say, party on. That tonight's gonna be a good night That tonight's gonna be a good night That tonight's gonna be a good, good night That tonight's gonna be a good night",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 30.136,
+        "end": 59.245,
+        "text": " I got a feeling That tonight's gonna be a good night That tonight's gonna be a good night That tonight's gonna be a good, good night I got a feeling That tonight's gonna be a good night That tonight's gonna be a good night That tonight's gonna be a good night",
+        "avg_logprob": -0.0785222482883324
+      },
+      {
+        "id": 2,
+        "start": 64.088,
+        "end": 76.492,
+        "text": " That tonight's gonna be a good night Be there",
+        "avg_logprob": -0.24875711310993542
+      },
+      {
+        "id": 3,
+        "start": 79.09,
+        "end": 107.744,
+        "text": " That tonight's gonna be a good night. That tonight's gonna be a good night. That tonight's gonna be a good, good night. Tonight's the night. Let's live it up. I got my money. Let's bid it up. Go out and smash it. Lock on my car. Jump out that sofa. Let's kick it off. I know tonight.",
+        "avg_logprob": -0.13181090412231591
+      },
+      {
+        "id": 4,
+        "start": 113.026,
+        "end": 136.651,
+        "text": " I feel stressed out, I won't let it go Let's go way out of space, I'm losing all control Fill up my cup, Mazel Tov Look at her dancing, just take it off Let's paint the town, we'll shut it down Let's burn the roof, and then we'll do it again",
+        "avg_logprob": -0.13164645077577278
+      },
+      {
+        "id": 5,
+        "start": 141.983,
+        "end": 164.68,
+        "text": " Let's live it up and do it, and do it, and do it, do it, do it Let's do it, let's do it, let's do it, cause I got a feeling That tonight's gonna be a good night That tonight's gonna be a good night That tonight's gonna be a good, good night",
+        "avg_logprob": -0.0931838794031005
+      },
+      {
+        "id": 6,
+        "start": 169.017,
+        "end": 198.11,
+        "text": " That tonight's gonna be a good night. That tonight's gonna be a good night. That tonight's gonna be a good, good night. Tonight's the night. Let's live it up. I got my money. Let's spin it up. Go out and smash it. Like oh my god. Jump out that sofa. Let's get it. Fill up my cup.",
+        "avg_logprob": -0.11117788576162778
+      },
+      {
+        "id": 7,
+        "start": 198.11,
+        "end": 227.05,
+        "text": " Mazel tov Look at her dancing Just take it off Let's paint the town We'll shut it down Let's burn the roof And then we'll do it again Let's do it, let's do it, let's do it, let's do it And do it, and do it, let's live it up And do it, and do it, and do it, and do it, and do it Let's do it, let's do it, let's do it, do it, do it Here we come",
+        "avg_logprob": -0.08493406045327492
+      },
+      {
+        "id": 8,
+        "start": 227.05,
+        "end": 252.802,
+        "text": " Here we go, we gotta rock. Easy come, easy go, now we on top. Feel the shot, body rock, rock it, don't stop. Round and round, up and down, all round the clock. Monday, Tuesday, Wednesday, and Thursday. Friday, Saturday, Saturday, and Sunday. Get, get, get, get, get with us. You know what we say, say, party on.",
+        "avg_logprob": -0.16290837492455135
+      },
+      {
+        "id": 9,
+        "start": 259.079,
+        "end": 284.763,
+        "text": " That tonight's gonna be a good night That tonight's gonna be a good night That tonight's gonna be a good, good night That tonight's gonna be a good night",
+        "avg_logprob": -0.19207588604518344
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "uSD4vsh1zDA",
+    "uploader": "Black Eyed Peas",
+    "audio_file": "corpus/01_music_videos_audio/audio/uSD4vsh1zDA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9327442,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.419464,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:19:52Z"
+  },
+  "status": "success",
+  "error": null
+}

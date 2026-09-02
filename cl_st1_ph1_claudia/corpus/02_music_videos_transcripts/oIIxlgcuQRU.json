@@ -1,0 +1,84 @@
+{
+  "corpus_id": "oIIxlgcuQRU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oIIxlgcuQRU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/oIIxlgcuQRU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/oIIxlgcuQRU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Let's get a real lockup up there, please. Guys, stop working for just a second. Rolling, rolling. Ready? House lights. Stage. Action, Nick. Roll playback. Oh say, say, say, oh say, say, say Don't stray Well, my kind's your kind I'll stay the same Pack up Don't stray Oh, say, say, say Oh, say, say, say Wait I'm swaying Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 23.909,
+        "text": " Let's get a real lockup up there, please. Guys, stop working for just a second. Rolling, rolling. Ready? House lights. Stage. Action, Nick. Roll playback.",
+        "avg_logprob": -0.19140624403953552
+      },
+      {
+        "id": 2,
+        "start": 64.038,
+        "end": 73.555,
+        "text": " Oh say, say, say, oh say, say, say",
+        "avg_logprob": -0.24972098001411983
+      },
+      {
+        "id": 3,
+        "start": 100.049,
+        "end": 115.642,
+        "text": " Don't stray Well, my kind's your kind I'll stay the same Pack up Don't stray Oh, say, say, say Oh, say, say, say Wait",
+        "avg_logprob": -0.15277778315875265
+      },
+      {
+        "id": 4,
+        "start": 190.229,
+        "end": 191.663,
+        "text": " I'm swaying",
+        "avg_logprob": -1.09609375
+      },
+      {
+        "id": 5,
+        "start": 230.729,
+        "end": 232.349,
+        "text": " Thank you.",
+        "avg_logprob": -0.4895019382238388
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "oIIxlgcuQRU",
+    "uploader": "yeahyeahyeahsmusic",
+    "audio_file": "corpus/01_music_videos_audio/audio/oIIxlgcuQRU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8328798,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.967782,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:53:25Z"
+  },
+  "status": "success",
+  "error": null
+}

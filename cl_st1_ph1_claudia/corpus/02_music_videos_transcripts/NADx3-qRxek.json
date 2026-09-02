@@ -1,0 +1,77 @@
+{
+  "corpus_id": "NADx3-qRxek",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/NADx3-qRxek.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/NADx3-qRxek.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/NADx3-qRxek.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I may not always love you But long as there are stars above you You never need to doubt it I'll make you so sure about it God only knows what I'd be without you God only knows what I need. God only knows what I'd be without you If you should ever leave me The light would still go on, believe me The world could show nothing to me So what good would living do me? God only knows what I'd be without you God only knows what I'd be without you. God only knows what I'd be without you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 18.188,
+        "end": 37.51,
+        "text": " I may not always love you But long as there are stars above you You never need to doubt it I'll make you so sure about it God only knows what I'd be without you",
+        "avg_logprob": -0.07139185521947711
+      },
+      {
+        "id": 2,
+        "start": 44.362,
+        "end": 62.384,
+        "text": " God only knows what I need.",
+        "avg_logprob": -0.38623046875
+      },
+      {
+        "id": 3,
+        "start": 90.16,
+        "end": 117.076,
+        "text": " God only knows what I'd be without you If you should ever leave me The light would still go on, believe me The world could show nothing to me So what good would living do me? God only knows what I'd be without you",
+        "avg_logprob": -0.0784040202899855
+      },
+      {
+        "id": 4,
+        "start": 122.054,
+        "end": 149.729,
+        "text": " God only knows what I'd be without you. God only knows what I'd be without you.",
+        "avg_logprob": -0.21540179139091856
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "NADx3-qRxek",
+    "uploader": "The Beach Boys",
+    "audio_file": "corpus/01_music_videos_audio/audio/NADx3-qRxek.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5657574,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.574648,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:18:53Z"
+  },
+  "status": "success",
+  "error": null
+}

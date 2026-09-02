@@ -1,0 +1,105 @@
+{
+  "corpus_id": "fV8vB1BB2qc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/fV8vB1BB2qc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/fV8vB1BB2qc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/fV8vB1BB2qc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Okay, so you secured the back and you secured all the windows? Great job, guys. Ms. Sparks, you're perfectly safe now. Actually, I feel very safe. Why don't I show you how this works? Push this button and you punch in any number that you feel comfortable with. That's it, it's easy. Okay, thank you. Duane, can I offer you something to drink? Listen, I really would love to, but I have some other jobs to attend to. Maybe another time? Okay. I mean, I do know your goal. Hey, if you ever need me, I mean, for the system that is, just give me a call. Okay. All right? Thank you. Don't forget it. We're gonna celebrate All through the night Pour the wine Light the fire Girl, your wish is my command I submit When you want me to And I'll hold you tight Baby, all through the night I'll make love to you When you want me to And I will not let go Till you tell me to Go relax Let's go slow, I ain't got nowhere to go I'm just gon' concentrate on you Girl, are you ready? It's gon' be a long night for me Throw your clothes on the floor I'm gonna take my clothes off too I've made plans to be with you Girl, whatever you're with me, you know I can do I'll make love to you like you want me to And I'll hold you tight all through the night I'll make love to you when you want me to Maybe tonight is your night And I will fill your eyes Just make a wish on your night Anything that you ask I will give you the love of your life When you want me to And I will not let go Till you tell me to I'll make love to you Like you want me to And I'll hold you tight Baby, all through the night I'll make love to you When you want me to And I will not let go Till you tell me to",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.246,
+        "end": 24.972,
+        "text": " Okay, so you secured the back and you secured all the windows? Great job, guys. Ms. Sparks, you're perfectly safe now. Actually, I feel very safe. Why don't I show you how this works? Push this button and you punch in any number that you feel comfortable with. That's it, it's easy. Okay, thank you. Duane, can I offer you something to drink?",
+        "avg_logprob": -0.08885595990323472
+      },
+      {
+        "id": 2,
+        "start": 26.322,
+        "end": 43.315,
+        "text": " Listen, I really would love to, but I have some other jobs to attend to. Maybe another time? Okay. I mean, I do know your goal. Hey, if you ever need me, I mean, for the system that is, just give me a call. Okay. All right? Thank you. Don't forget it.",
+        "avg_logprob": -0.08839285810078894
+      },
+      {
+        "id": 3,
+        "start": 62.317,
+        "end": 81.031,
+        "text": " We're gonna celebrate All through the night Pour the wine Light the fire Girl, your wish is my command I submit",
+        "avg_logprob": -0.3089192596574624
+      },
+      {
+        "id": 4,
+        "start": 92.776,
+        "end": 116.738,
+        "text": " When you want me to And I'll hold you tight Baby, all through the night I'll make love to you When you want me to And I will not let go Till you tell me to Go relax",
+        "avg_logprob": -0.19494047938358217
+      },
+      {
+        "id": 5,
+        "start": 117.262,
+        "end": 144.093,
+        "text": " Let's go slow, I ain't got nowhere to go I'm just gon' concentrate on you Girl, are you ready? It's gon' be a long night for me Throw your clothes on the floor I'm gonna take my clothes off too",
+        "avg_logprob": -0.1524969351057913
+      },
+      {
+        "id": 6,
+        "start": 144.953,
+        "end": 171.059,
+        "text": " I've made plans to be with you Girl, whatever you're with me, you know I can do I'll make love to you like you want me to And I'll hold you tight all through the night I'll make love to you when you want me to",
+        "avg_logprob": -0.17766203648514217
+      },
+      {
+        "id": 7,
+        "start": 173.455,
+        "end": 197.198,
+        "text": " Maybe tonight is your night And I will fill your eyes Just make a wish on your night Anything that you ask I will give you the love of your life",
+        "avg_logprob": -0.1890869177877903
+      },
+      {
+        "id": 8,
+        "start": 213.365,
+        "end": 241.208,
+        "text": " When you want me to And I will not let go Till you tell me to I'll make love to you Like you want me to And I'll hold you tight Baby, all through the night I'll make love to you When you want me to And I will not let go Till you tell me to",
+        "avg_logprob": -0.0918598813155005
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "fV8vB1BB2qc",
+    "uploader": "Boyz II Men",
+    "audio_file": "corpus/01_music_videos_audio/audio/fV8vB1BB2qc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8320624,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.395228,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:17:09Z"
+  },
+  "status": "success",
+  "error": null
+}

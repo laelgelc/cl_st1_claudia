@@ -1,0 +1,98 @@
+{
+  "corpus_id": "JkRKT6T0QLg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/JkRKT6T0QLg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/JkRKT6T0QLg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/JkRKT6T0QLg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "So we're here doing a video which is kind of interesting because we're doing a video, making a video of making a video. You know, there's lots of things going on at the same time. It's not like the normal kind of promo clip. And I'm just trying to make you see She's the kind of girl you dream of Dream of keeping hold of You better forget it You'll never get it She will play around and leave you Leave you and deceive you She's beneath the lava, she'll get a hold on you, believe it Like no other, before you know it you'll be on your knees She's an easy lover She'll take your heart but you won't feel it She's like no other And I'm just trying to make you see You're the one that wants to hold her Hold her and control her You better forget it You'll never get it All right, are you ready? Here we go! Go! Let me see, wait. Wait, I'm trying to figure out how to... Wait, wait, wait. Believe it, believe it You're not the only one can see it Believe it, believe it Try to make you see",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 10.443,
+        "text": " So we're here doing a video which is kind of interesting because we're doing a video, making a video of making a video. You know, there's lots of things going on at the same time. It's not like the normal kind of promo clip.",
+        "avg_logprob": -0.09772858879080525
+      },
+      {
+        "id": 2,
+        "start": 50.47,
+        "end": 75.395,
+        "text": " And I'm just trying to make you see She's the kind of girl you dream of Dream of keeping hold of You better forget it You'll never get it She will play around and leave you Leave you and deceive you",
+        "avg_logprob": -0.02134331530994839
+      },
+      {
+        "id": 3,
+        "start": 84.524,
+        "end": 111.625,
+        "text": " She's beneath the lava, she'll get a hold on you, believe it Like no other, before you know it you'll be on your knees",
+        "avg_logprob": -0.244077617122281
+      },
+      {
+        "id": 4,
+        "start": 113.127,
+        "end": 138.878,
+        "text": " She's an easy lover She'll take your heart but you won't feel it She's like no other And I'm just trying to make you see You're the one that wants to hold her Hold her and control her You better forget it You'll never get it",
+        "avg_logprob": -0.08478008997109202
+      },
+      {
+        "id": 5,
+        "start": 139.452,
+        "end": 167.414,
+        "text": " All right, are you ready? Here we go! Go! Let me see, wait. Wait, I'm trying to figure out how to... Wait, wait, wait.",
+        "avg_logprob": -0.32896960103834
+      },
+      {
+        "id": 6,
+        "start": 211.272,
+        "end": 216.993,
+        "text": " Believe it, believe it You're not the only one can see it Believe it, believe it",
+        "avg_logprob": -0.34374999105930326
+      },
+      {
+        "id": 7,
+        "start": 251.333,
+        "end": 253.409,
+        "text": " Try to make you see",
+        "avg_logprob": -0.4218750198682149
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "JkRKT6T0QLg",
+    "uploader": "Philip Bailey",
+    "audio_file": "corpus/01_music_videos_audio/audio/JkRKT6T0QLg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9180320,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.882648,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:16:36Z"
+  },
+  "status": "success",
+  "error": null
+}

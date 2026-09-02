@@ -1,0 +1,84 @@
+{
+  "corpus_id": "yQOBUrRaPU0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yQOBUrRaPU0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/yQOBUrRaPU0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/yQOBUrRaPU0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I still can't turn away Cause all the dreams you never thought you'd lose Tossed along the way I never knew their names Don't belong to no one, that's a shame You could hide beside me, maybe for a while And I won't tell no one your name And I won't tell no one your name you lose yourself somewhere out there did you get to be a star don't it make you sad to know that life is more than who And I won't tell no one your name I think about you all the time But I don't need the same It's lonely where you are Come back down And I won't tell me your name",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 17.362,
+        "end": 33.95,
+        "text": " I still can't turn away Cause all the dreams you never thought you'd lose Tossed along the way",
+        "avg_logprob": -0.0668308436870575
+      },
+      {
+        "id": 2,
+        "start": 55.617,
+        "end": 80.592,
+        "text": " I never knew their names Don't belong to no one, that's a shame You could hide beside me, maybe for a while And I won't tell no one your name And I won't tell no one your name",
+        "avg_logprob": -0.05516493121782939
+      },
+      {
+        "id": 3,
+        "start": 106.495,
+        "end": 124.923,
+        "text": " you lose yourself somewhere out there did you get to be a star don't it make you sad to know that life is more than who",
+        "avg_logprob": -0.19656807769622123
+      },
+      {
+        "id": 4,
+        "start": 133.023,
+        "end": 156.31,
+        "text": " And I won't tell no one your name",
+        "avg_logprob": -0.2810546815395355
+      },
+      {
+        "id": 5,
+        "start": 209.382,
+        "end": 233.564,
+        "text": " I think about you all the time But I don't need the same It's lonely where you are Come back down And I won't tell me your name",
+        "avg_logprob": -0.07354736351408064
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "yQOBUrRaPU0",
+    "uploader": "Goo Goo Dolls",
+    "audio_file": "corpus/01_music_videos_audio/audio/yQOBUrRaPU0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7718762,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.886365,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:07:08Z"
+  },
+  "status": "success",
+  "error": null
+}

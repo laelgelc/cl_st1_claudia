@@ -1,0 +1,91 @@
+{
+  "corpus_id": "dBrRBZy8OTs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/dBrRBZy8OTs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/dBrRBZy8OTs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/dBrRBZy8OTs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "T-Pain. Young Jock. She's snappin'. Yeah, snap your fingers. Please do. Kind of big music, nappy boy I know the club goes at three What's the chance until you rollin' with me? You gon' see On that Patron, you should get like me I'ma buy you a train Won't you meet me at the bar, respect big pimpin' Tell me how you feel, mama, tell me what you sippin' A certified dime piece, deserve Louie one three One fifty a shot, three for you and three for me I'm checkin' your body language, I love the conversation And when you lick your lips, I get a tinglin' sensation I got tips and you stay in the mood All I need is bout an hour Better yet, maybe two Let me take you where I live Ferrari switch gears When I whisper in your ear Your legs hit the chandelier Passion fruit and sex all in the atmosphere I'ma let T-Pain sing it So he can make it clear We in the bed line Oh, oh, oh, oh, oh, oh",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 2.326,
+        "end": 20.618,
+        "text": " T-Pain. Young Jock. She's snappin'. Yeah, snap your fingers. Please do.",
+        "avg_logprob": -0.4224999904632568
+      },
+      {
+        "id": 2,
+        "start": 32.532,
+        "end": 41.307,
+        "text": " Kind of big music, nappy boy I know the club goes at three What's the chance until you rollin' with me?",
+        "avg_logprob": -0.24344308567898615
+      },
+      {
+        "id": 3,
+        "start": 90.92,
+        "end": 97.484,
+        "text": " You gon' see On that Patron, you should get like me I'ma buy you a train",
+        "avg_logprob": -0.16122158752246338
+      },
+      {
+        "id": 4,
+        "start": 119.253,
+        "end": 138.322,
+        "text": " Won't you meet me at the bar, respect big pimpin' Tell me how you feel, mama, tell me what you sippin' A certified dime piece, deserve Louie one three One fifty a shot, three for you and three for me I'm checkin' your body language, I love the conversation And when you lick your lips, I get a tinglin' sensation",
+        "avg_logprob": -0.1833526293436686
+      },
+      {
+        "id": 5,
+        "start": 138.322,
+        "end": 156.023,
+        "text": " I got tips and you stay in the mood All I need is bout an hour Better yet, maybe two Let me take you where I live Ferrari switch gears When I whisper in your ear Your legs hit the chandelier Passion fruit and sex all in the atmosphere I'ma let T-Pain sing it So he can make it clear",
+        "avg_logprob": -0.21557971014492755
+      },
+      {
+        "id": 6,
+        "start": 219.187,
+        "end": 227.472,
+        "text": " We in the bed line Oh, oh, oh, oh, oh, oh",
+        "avg_logprob": -0.42440257352941174
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "dBrRBZy8OTs",
+    "uploader": "T Pain",
+    "audio_file": "corpus/01_music_videos_audio/audio/dBrRBZy8OTs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7371764,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.286101,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:17:56Z"
+  },
+  "status": "success",
+  "error": null
+}

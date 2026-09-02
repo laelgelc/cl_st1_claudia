@@ -1,0 +1,119 @@
+{
+  "corpus_id": "EmEnpQ5yr3o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/EmEnpQ5yr3o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/EmEnpQ5yr3o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/EmEnpQ5yr3o.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "No chocolate-covered candy hearts to give away No first of spring, no song to sing In fact, here's just another ordinary No wedding Saturday within the month of June But what it is, is something true Made up of these three words that I must say to you I just called to say I just called to say how much I care I just called to say I love you And I mean it from the bottom of my heart No summer's high No warm July No harvest moon to light One tender August night No autumn breeze No falling leaves Not even time for birds to fly To southern skies no halloween no giving thanks to all the christmas joy you bring but what is to fill your heart like no three words could ever do I just called to say I love you I just called to say how much I care about you I just called And I mean it from the bottom of my heart I just called to say I love you I just called to say how much I care I do I just called to say I need it from the bottom of my heart. Of my heart. Of my heart. I'll do anything to serve. I just want to say how much I care about you. I just want to say I love you. And I need you. I just want to say I'm just going to say how much I care I do I'm just going to say",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 10,
+    "segments": [
+      {
+        "id": 1,
+        "start": 15.775,
+        "end": 37.325,
+        "text": " No chocolate-covered candy hearts to give away No first of spring, no song to sing In fact, here's just another ordinary",
+        "avg_logprob": -0.17968750425747462
+      },
+      {
+        "id": 2,
+        "start": 49.508,
+        "end": 79.124,
+        "text": " No wedding Saturday within the month of June But what it is, is something true Made up of these three words that I must say to you I just called to say",
+        "avg_logprob": -0.1227022045675446
+      },
+      {
+        "id": 3,
+        "start": 83.562,
+        "end": 112.047,
+        "text": " I just called to say how much I care I just called to say I love you And I mean it from the bottom of my heart No summer's high",
+        "avg_logprob": -0.07696532900445163
+      },
+      {
+        "id": 4,
+        "start": 112.807,
+        "end": 140.498,
+        "text": " No warm July No harvest moon to light One tender August night No autumn breeze No falling leaves Not even time for birds to fly To southern skies",
+        "avg_logprob": -0.1287042025862069
+      },
+      {
+        "id": 5,
+        "start": 143.57,
+        "end": 160.225,
+        "text": " no halloween no giving thanks to all the christmas joy you bring but what is",
+        "avg_logprob": -0.3122943953463906
+      },
+      {
+        "id": 6,
+        "start": 167.684,
+        "end": 195.292,
+        "text": " to fill your heart like no three words could ever do I just called to say I love you I just called to say how much I care about you I just called",
+        "avg_logprob": -0.10161994375726756
+      },
+      {
+        "id": 7,
+        "start": 201.755,
+        "end": 231.033,
+        "text": " And I mean it from the bottom of my heart I just called to say I love you I just called to say how much I care I do I just called to say",
+        "avg_logprob": -0.09313615815980093
+      },
+      {
+        "id": 8,
+        "start": 236.686,
+        "end": 261.526,
+        "text": " I need it from the bottom of my heart. Of my heart. Of my heart. I'll do anything to serve.",
+        "avg_logprob": -0.33864184067799497
+      },
+      {
+        "id": 9,
+        "start": 299.275,
+        "end": 328.503,
+        "text": " I just want to say how much I care about you. I just want to say I love you. And I need you. I just want to say",
+        "avg_logprob": -0.41064452938735485
+      },
+      {
+        "id": 10,
+        "start": 332.603,
+        "end": 345.563,
+        "text": " I'm just going to say how much I care I do I'm just going to say",
+        "avg_logprob": -0.28289473056793213
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "EmEnpQ5yr3o",
+    "uploader": "Retrospective Soundtrack",
+    "audio_file": "corpus/01_music_videos_audio/audio/EmEnpQ5yr3o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 12069996,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.471708,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:11:22Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,105 @@
+{
+  "corpus_id": "hT_nvWreIhg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hT_nvWreIhg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hT_nvWreIhg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hT_nvWreIhg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Lately, I've been, I've been losing sleep Dreaming about the things that we could be But baby, I've been, I've been praying hard Said no more counting dollars, we'll be counting stars Yeah, we'll be counting stars across the line in my face is flashing signs seek it out and ye shall find old but I'm not that old young but I'm not that bold and I don't think the world is sold I'm just doing what we're told I feel something so right doing the wrong thing I feel something so wrong doing the right thing The thing that kills me makes me feel alive Lately I've been, I've been losing sleep Dreaming about the things that we could be But baby I've been, I've been praying hard Said no more counting dollars, we'll be counting stars Lately I've been, I've been losing sleep Dreaming about the things that we could be Love, and I feel it burn Down this river every turn Hope is our four-letter word Make that money, watch it burn Old, but I'm not that old Young, but I'm not that bold And I don't think the world is sold I'm just doing what we're told And I feel something so real Everything that drowns me makes me wanna fly Lately I've been, I've been losing sleep Dreaming about the things that we could be But baby, I've been, I've been praying hard Said no more counting dollars, we'll be counting stars Lately I've been, I've been losing sleep No more counting dollars We'll be, we'll be counting stars Take that money, watch it burn Sink in the river, the lessons I learned Take that money, watch it burn Sink in the river, the lessons I learned Take that money, watch it burn Sink in the river, the lessons I learned Everything that kills me makes me feel alive lately Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 22.323,
+        "text": " Lately, I've been, I've been losing sleep Dreaming about the things that we could be But baby, I've been, I've been praying hard Said no more counting dollars, we'll be counting stars Yeah, we'll be counting stars",
+        "avg_logprob": -0.02492112351151613
+      },
+      {
+        "id": 2,
+        "start": 40.733,
+        "end": 68.054,
+        "text": " across the line in my face is flashing signs seek it out and ye shall find old but I'm not that old young but I'm not that bold and I don't think the world is sold I'm just doing what we're told I feel something so right doing the wrong thing I feel something so wrong doing the right thing",
+        "avg_logprob": -0.12322443226973216
+      },
+      {
+        "id": 3,
+        "start": 74.652,
+        "end": 101.5,
+        "text": " The thing that kills me makes me feel alive Lately I've been, I've been losing sleep Dreaming about the things that we could be But baby I've been, I've been praying hard Said no more counting dollars, we'll be counting stars Lately I've been, I've been losing sleep Dreaming about the things that we could be",
+        "avg_logprob": -0.1082356743928459
+      },
+      {
+        "id": 4,
+        "start": 116.654,
+        "end": 136.482,
+        "text": " Love, and I feel it burn Down this river every turn Hope is our four-letter word Make that money, watch it burn Old, but I'm not that old Young, but I'm not that bold And I don't think the world is sold I'm just doing what we're told And I feel something so real",
+        "avg_logprob": -0.11055871562072725
+      },
+      {
+        "id": 5,
+        "start": 144.397,
+        "end": 168.595,
+        "text": " Everything that drowns me makes me wanna fly Lately I've been, I've been losing sleep Dreaming about the things that we could be But baby, I've been, I've been praying hard Said no more counting dollars, we'll be counting stars Lately I've been, I've been losing sleep",
+        "avg_logprob": -0.09167480701580644
+      },
+      {
+        "id": 6,
+        "start": 176.273,
+        "end": 203.915,
+        "text": " No more counting dollars We'll be, we'll be counting stars Take that money, watch it burn Sink in the river, the lessons I learned Take that money, watch it burn Sink in the river, the lessons I learned Take that money, watch it burn Sink in the river, the lessons I learned Everything that kills me",
+        "avg_logprob": -0.12556611627772235
+      },
+      {
+        "id": 7,
+        "start": 205.18,
+        "end": 225.025,
+        "text": " makes me feel alive lately",
+        "avg_logprob": -0.569335917631785
+      },
+      {
+        "id": 8,
+        "start": 240.719,
+        "end": 252.16,
+        "text": " Thank you.",
+        "avg_logprob": -0.8735351264476776
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "hT_nvWreIhg",
+    "uploader": "OneRepublic",
+    "audio_file": "corpus/01_music_videos_audio/audio/hT_nvWreIhg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9059204,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.412308,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:07:06Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,70 @@
+{
+  "corpus_id": "fqng9NDqKB8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/fqng9NDqKB8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/fqng9NDqKB8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/fqng9NDqKB8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I know what you do. You should not change my mind I know what you're doing And it's not gonna work this I know what you're doing, baby I know why you call my name I know why you say you love me But I can't say the same I can recognize that sometimes You know I've changed my mind",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 77.993,
+        "end": 79.394,
+        "text": " I know what you do.",
+        "avg_logprob": -0.17522321002823965
+      },
+      {
+        "id": 2,
+        "start": 119.405,
+        "end": 129.935,
+        "text": " You should not change my mind I know what you're doing And it's not gonna work this",
+        "avg_logprob": -0.2560546875
+      },
+      {
+        "id": 3,
+        "start": 175.784,
+        "end": 200.911,
+        "text": " I know what you're doing, baby I know why you call my name I know why you say you love me But I can't say the same I can recognize that sometimes You know I've changed my mind",
+        "avg_logprob": -0.15479651786560236
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "fqng9NDqKB8",
+    "uploader": "DionneFarrisVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/fqng9NDqKB8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7186748,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.006199,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:06:34Z"
+  },
+  "status": "success",
+  "error": null
+}

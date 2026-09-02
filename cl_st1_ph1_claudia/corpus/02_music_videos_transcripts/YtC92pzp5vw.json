@@ -1,0 +1,84 @@
+{
+  "corpus_id": "YtC92pzp5vw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/YtC92pzp5vw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/YtC92pzp5vw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/YtC92pzp5vw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "What up, bro? Sierra, Sierra! What? Jessie, Fang's on the phone! Hello. Hey, Cece. What up? We're going to the car wash tonight, baby. We're going to get blinged up. All right, I'm going to see you up there. Sure enough. Hey, hey, make sure you stay out of my room. Fine. I got a sick reputation for handling broads. All I need is me a few seconds more, then it's a wrap. Tell the lady, bring my lap. And I ain't coming back, so you can put it caught right there. I'm the truth, and I ain't got nothing to prove. And you can ask anybody, because they seem to do it. Barricades, I run right through them. I'm used to them. Throw all the dirt you want. There's no use. Still won't have a pent up in a fabulous room. I'm back, picking out a basket of fruit. I love you, boy. Yeah, freaking Petey love you, too. You know how I do it. I'm not being too dramatic, it's just how I gotta have it bad is bad is when you capable of beating the bad i've been working at it ever since i came to this planet ain't quite there yet but i'm getting better at it matter of fact let me tell it to you one more game all i got to do is tell the girl who i am ain't there a chick in here that i can't have you're insinuating that i'm high but these goodies boy are I'm not changing stories, just respect the play I'm calling.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 4.182,
+        "end": 22.981,
+        "text": " What up, bro? Sierra, Sierra! What? Jessie, Fang's on the phone! Hello. Hey, Cece. What up? We're going to the car wash tonight, baby. We're going to get blinged up. All right, I'm going to see you up there. Sure enough. Hey, hey, make sure you stay out of my room. Fine.",
+        "avg_logprob": -0.19193672839506173
+      },
+      {
+        "id": 2,
+        "start": 28.246,
+        "end": 56.191,
+        "text": " I got a sick reputation for handling broads. All I need is me a few seconds more, then it's a wrap. Tell the lady, bring my lap. And I ain't coming back, so you can put it caught right there. I'm the truth, and I ain't got nothing to prove. And you can ask anybody, because they seem to do it. Barricades, I run right through them. I'm used to them. Throw all the dirt you want. There's no use. Still won't have a pent up in a fabulous room. I'm back, picking out a basket of fruit. I love you, boy. Yeah, freaking Petey love you, too. You know how I do it.",
+        "avg_logprob": -0.12859786017552802
+      },
+      {
+        "id": 3,
+        "start": 100.285,
+        "end": 122.527,
+        "text": " I'm not being too dramatic, it's just how I gotta have it",
+        "avg_logprob": -0.35717773251235485
+      },
+      {
+        "id": 4,
+        "start": 162.166,
+        "end": 184.002,
+        "text": " bad is bad is when you capable of beating the bad i've been working at it ever since i came to this planet ain't quite there yet but i'm getting better at it matter of fact let me tell it to you one more game all i got to do is tell the girl who i am ain't there a chick in here that i can't have you're insinuating that i'm high but these goodies boy are",
+        "avg_logprob": -0.11871408182999184
+      },
+      {
+        "id": 5,
+        "start": 193.537,
+        "end": 199.021,
+        "text": " I'm not changing stories, just respect the play I'm calling.",
+        "avg_logprob": -0.23398438294728596
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "YtC92pzp5vw",
+    "uploader": "Ciara",
+    "audio_file": "corpus/01_music_videos_audio/audio/YtC92pzp5vw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7582044,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.566787,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:07:51Z"
+  },
+  "status": "success",
+  "error": null
+}

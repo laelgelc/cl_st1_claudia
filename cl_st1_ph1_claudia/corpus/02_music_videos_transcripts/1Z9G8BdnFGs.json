@@ -1,0 +1,105 @@
+{
+  "corpus_id": "1Z9G8BdnFGs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/1Z9G8BdnFGs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/1Z9G8BdnFGs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/1Z9G8BdnFGs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Is connecting with hate Here I go and I don't know why I flow so ceaselessly Could it be he's taking over me? I'm dancing back but having fun spinning Some strange music draws me in Makes me come on like some heroin She is sublimation, she Is concentrating on he The chosen machine And I go and I don't know why Aspen says ceaselessly Could it be he's taking over me? In Banford, headin' for a spin Substage music draws me in Makes me come out like some hero Is recreation She, intoxicated by thee She, has the slow sensation That he, is levitating with she And I cool out in Hawaii I spin so ceaselessly Till I lose my sense of gravity I'm dancing barefoot in mid-ice men Some strange music draws me in Makes me come on like some heroine A lot of our life sweats in the dark like a vase The mystery of childbirth, of childhood itself Brave visitations, what is it that calls us? Why must we pray screaming? Why must not death be redefined? We shut our eyes, we stretch out our arms And we're all in a pane of glass An asphyxiation, a fix on anything The line of life, the limb of the tree, the hands of he, and the promise that she is blessed among women.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 25.006,
+        "end": 52.225,
+        "text": " Is connecting with hate Here I go and I don't know why I flow so ceaselessly Could it be he's taking over me? I'm dancing back but having fun spinning",
+        "avg_logprob": -0.24547698152692696
+      },
+      {
+        "id": 2,
+        "start": 52.597,
+        "end": 74.365,
+        "text": " Some strange music draws me in Makes me come on like some heroin She is sublimation, she",
+        "avg_logprob": -0.14053199972425187
+      },
+      {
+        "id": 3,
+        "start": 79.495,
+        "end": 99.02,
+        "text": " Is concentrating on he The chosen machine And I go and I don't know why Aspen says ceaselessly Could it be he's taking over me?",
+        "avg_logprob": -0.27888257575757575
+      },
+      {
+        "id": 4,
+        "start": 104.504,
+        "end": 119.017,
+        "text": " In Banford, headin' for a spin Substage music draws me in Makes me come out like some hero",
+        "avg_logprob": -0.4111328162252903
+      },
+      {
+        "id": 5,
+        "start": 152.851,
+        "end": 181.403,
+        "text": " Is recreation She, intoxicated by thee She, has the slow sensation That he, is levitating with she And I cool out in Hawaii I spin so ceaselessly Till I lose my sense of gravity",
+        "avg_logprob": -0.2444957277991555
+      },
+      {
+        "id": 6,
+        "start": 185.318,
+        "end": 202.008,
+        "text": " I'm dancing barefoot in mid-ice men Some strange music draws me in Makes me come on like some heroine",
+        "avg_logprob": -0.17421874523162842
+      },
+      {
+        "id": 7,
+        "start": 211.39,
+        "end": 240.01,
+        "text": " A lot of our life sweats in the dark like a vase The mystery of childbirth, of childhood itself Brave visitations, what is it that calls us? Why must we pray screaming? Why must not death be redefined? We shut our eyes, we stretch out our arms And we're all in a pane of glass An asphyxiation, a fix on anything",
+        "avg_logprob": -0.16971629014924952
+      },
+      {
+        "id": 8,
+        "start": 240.01,
+        "end": 252.92,
+        "text": " The line of life, the limb of the tree, the hands of he, and the promise that she is blessed among women.",
+        "avg_logprob": -0.11559606812618396
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "1Z9G8BdnFGs",
+    "uploader": "Robert Allen",
+    "audio_file": "corpus/01_music_videos_audio/audio/1Z9G8BdnFGs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8290902,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.68652,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:57:20Z"
+  },
+  "status": "success",
+  "error": null
+}

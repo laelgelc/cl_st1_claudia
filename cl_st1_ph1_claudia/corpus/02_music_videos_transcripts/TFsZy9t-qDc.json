@@ -1,0 +1,70 @@
+{
+  "corpus_id": "TFsZy9t-qDc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/TFsZy9t-qDc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/TFsZy9t-qDc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/TFsZy9t-qDc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Rockin' around the Christmas tree at the Christmas party hop Mistletoe hung where you can see every couple tries to stop Rockin' around the Christmas tree, let the Christmas spirit ring Later we'll have some pumpkin pie and we'll do some caroling You will get a sentimental feeling when you hear voices singing, let's be jolly. Deck the halls with boughs of holly, rocking around the Christmas tree, have a happy holiday. Everyone dancing merrily in the new old-fashioned way. You will get a sentimental feeling when you hear Voices singing, let's be jolly Deck the halls with boughs of holly Rockin' around the Christmas tree Have a happy holiday Everyone dancin' merrily in the new, oh",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 7.895,
+        "end": 33.477,
+        "text": " Rockin' around the Christmas tree at the Christmas party hop Mistletoe hung where you can see every couple tries to stop Rockin' around the Christmas tree, let the Christmas spirit ring Later we'll have some pumpkin pie and we'll do some caroling",
+        "avg_logprob": -0.04376446773056631
+      },
+      {
+        "id": 2,
+        "start": 34.827,
+        "end": 60.477,
+        "text": " You will get a sentimental feeling when you hear voices singing, let's be jolly. Deck the halls with boughs of holly, rocking around the Christmas tree, have a happy holiday. Everyone dancing merrily in the new old-fashioned way.",
+        "avg_logprob": -0.12426297057349726
+      },
+      {
+        "id": 3,
+        "start": 87.832,
+        "end": 115.22,
+        "text": " You will get a sentimental feeling when you hear Voices singing, let's be jolly Deck the halls with boughs of holly Rockin' around the Christmas tree Have a happy holiday Everyone dancin' merrily in the new, oh",
+        "avg_logprob": -0.13534007411377103
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "TFsZy9t-qDc",
+    "uploader": "Brenda Lee",
+    "audio_file": "corpus/01_music_videos_audio/audio/TFsZy9t-qDc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4123200,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.273263,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:05:10Z"
+  },
+  "status": "success",
+  "error": null
+}

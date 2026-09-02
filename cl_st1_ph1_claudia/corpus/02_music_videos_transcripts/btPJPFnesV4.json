@@ -1,0 +1,84 @@
+{
+  "corpus_id": "btPJPFnesV4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/btPJPFnesV4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/btPJPFnesV4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/btPJPFnesV4.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Bye. Bye. Bye. Bye. Rising up to the challenge of our rival And the last known survivor stalks his prey in the night And is watching us all with the eye of the tiger Face to face, out in the heat Hanging tough, staying firm We take to the street for the kill, with the skill to survive. It's the eye of the tiger, it's the thrill of the fight, rising up to the challenge of our rival. And the last known survivor stalks his prey in the night, and he's watching us. We'll be right back.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 17.868,
+        "end": 20.77,
+        "text": " Bye.",
+        "avg_logprob": -0.9537760416666666
+      },
+      {
+        "id": 2,
+        "start": 58.807,
+        "end": 80.778,
+        "text": " Bye. Bye. Bye.",
+        "avg_logprob": -0.6551339456013271
+      },
+      {
+        "id": 3,
+        "start": 87.815,
+        "end": 113.583,
+        "text": " Rising up to the challenge of our rival And the last known survivor stalks his prey in the night And is watching us all with the eye of the tiger Face to face, out in the heat Hanging tough, staying firm",
+        "avg_logprob": -0.2046535390874614
+      },
+      {
+        "id": 4,
+        "start": 116.789,
+        "end": 138.541,
+        "text": " We take to the street for the kill, with the skill to survive. It's the eye of the tiger, it's the thrill of the fight, rising up to the challenge of our rival. And the last known survivor stalks his prey in the night, and he's watching us.",
+        "avg_logprob": -0.14830728769302368
+      },
+      {
+        "id": 5,
+        "start": 160.394,
+        "end": 175.177,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.5686383758272443
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "btPJPFnesV4",
+    "uploader": "Survivor Band",
+    "audio_file": "corpus/01_music_videos_audio/audio/btPJPFnesV4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7836162,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.871961,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:05:19Z"
+  },
+  "status": "success",
+  "error": null
+}

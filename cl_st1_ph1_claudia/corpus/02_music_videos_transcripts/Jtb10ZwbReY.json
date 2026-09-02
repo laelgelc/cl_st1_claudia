@@ -1,0 +1,105 @@
+{
+  "corpus_id": "Jtb10ZwbReY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Jtb10ZwbReY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Jtb10ZwbReY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Jtb10ZwbReY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Thank you. sit in judgment of all wrong they decide and the shotgun sings the song I tip my hat to the new constitution take a bow for the new revolution smile and grin at the change all around pick up my guitar and play just like yesterday then I'll We don't get fooled again Tip my hat to the new constitution Think of my for the new revolution Smile and grin at the change all around Pick up my guitar and play Just like yesterday myself and my family aside. If we happen to be left out for life, I'll get all my papers and smile at the sky. Oh, I know that the hypnotized never the street to me Don't get fooled. Boss Same as the old boss",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 9.346,
+        "end": 12.535,
+        "text": " Thank you.",
+        "avg_logprob": -0.7001953125
+      },
+      {
+        "id": 2,
+        "start": 61.962,
+        "end": 90.987,
+        "text": " sit in judgment of all wrong they decide and the shotgun sings the song I tip my hat to the new constitution take a bow for the new revolution smile and grin at the change all around pick up my guitar and play just like yesterday then I'll",
+        "avg_logprob": -0.15335938036441804
+      },
+      {
+        "id": 3,
+        "start": 97.889,
+        "end": 100.336,
+        "text": " We don't get fooled again",
+        "avg_logprob": -0.1019810289144516
+      },
+      {
+        "id": 4,
+        "start": 142.608,
+        "end": 159.415,
+        "text": " Tip my hat to the new constitution Think of my for the new revolution Smile and grin at the change all around Pick up my guitar and play Just like yesterday",
+        "avg_logprob": -0.14575195126235485
+      },
+      {
+        "id": 5,
+        "start": 205.045,
+        "end": 217.938,
+        "text": " myself and my family aside. If we happen to be left out for life, I'll get all my papers and smile at the sky. Oh, I know that the hypnotized never",
+        "avg_logprob": -0.24239308818390495
+      },
+      {
+        "id": 6,
+        "start": 277.591,
+        "end": 284.054,
+        "text": " the street to me",
+        "avg_logprob": -0.97421875
+      },
+      {
+        "id": 7,
+        "start": 329.718,
+        "end": 330.967,
+        "text": " Don't get fooled.",
+        "avg_logprob": -0.3723958383003871
+      },
+      {
+        "id": 8,
+        "start": 473.763,
+        "end": 477.982,
+        "text": " Boss Same as the old boss",
+        "avg_logprob": -0.6350446598870414
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Jtb10ZwbReY",
+    "uploader": "TheWho",
+    "audio_file": "corpus/01_music_videos_audio/audio/Jtb10ZwbReY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 16459868,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 28.078753,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:01:21Z"
+  },
+  "status": "success",
+  "error": null
+}

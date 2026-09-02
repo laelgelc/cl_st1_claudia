@@ -1,0 +1,105 @@
+{
+  "corpus_id": "aWUWC21_HE8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/aWUWC21_HE8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/aWUWC21_HE8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/aWUWC21_HE8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Ladies and gentlemen, Frank Ocean. A tornado flew around my room before you came. Excuse the mess you made. Usually doesn't rain in Southern California, much like Arizona. My eyes don't shed tears before they pour when I'm thinking about you. Oh, no, no, no. Thinking about you. You, no, no, no. Thinking about you. Do you think about me still? Or do you not think so far ahead? Because I've been thinking about forever. Ooh. Or do you not think so far ahead? Because I've been thinking about forever. Ooh. No, I don't like you. I just thought you were cool enough to kick it. Got a beach house I could sell you an item. Think I don't love you. I just thought you were cute. That's why I kissed you. Fighter jets, I don't get to fly. I'm thinking about you. Oh, no, no, no. Thinking about you. You, no, no, no. Thinking about you. Do you think about me still? Or do you not think so far ahead? Because I've been thinking about forever. Ooh. Or do you not think so far ahead? Hey. Because I've been thinking about forever. And I remember how could I forget how you feel? You know you were my first time, a new feel. It won't ever get old, not in my soul, not in my spirit, keep it alive. We'll go down this road till it turns from color to black and white. Oh, do you not think so far ahead? Because I've been thinking about forever. Oh, do you not think so far? I've been thinking about you",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 4.469,
+        "end": 6.511,
+        "text": " Ladies and gentlemen, Frank Ocean.",
+        "avg_logprob": -0.027496336493641138
+      },
+      {
+        "id": 2,
+        "start": 22.964,
+        "end": 50.656,
+        "text": " A tornado flew around my room before you came. Excuse the mess you made. Usually doesn't rain in Southern California, much like Arizona. My eyes don't shed tears before they pour when I'm thinking about you. Oh, no, no, no. Thinking about you. You, no, no, no. Thinking about you. Do you think about me still?",
+        "avg_logprob": -0.07606907992770798
+      },
+      {
+        "id": 3,
+        "start": 52.9,
+        "end": 82.617,
+        "text": " Or do you not think so far ahead? Because I've been thinking about forever. Ooh. Or do you not think so far ahead? Because I've been thinking about forever. Ooh.",
+        "avg_logprob": -0.13872195589236724
+      },
+      {
+        "id": 4,
+        "start": 84.052,
+        "end": 111.98,
+        "text": " No, I don't like you. I just thought you were cool enough to kick it. Got a beach house I could sell you an item. Think I don't love you. I just thought you were cute. That's why I kissed you. Fighter jets, I don't get to fly. I'm thinking about you. Oh, no, no, no. Thinking about you. You, no, no, no. Thinking about you. Do you think about me still?",
+        "avg_logprob": -0.10755997324230696
+      },
+      {
+        "id": 5,
+        "start": 114.342,
+        "end": 138.558,
+        "text": " Or do you not think so far ahead? Because I've been thinking about forever. Ooh. Or do you not think so far ahead? Hey. Because I've been thinking about forever.",
+        "avg_logprob": -0.13441505951759142
+      },
+      {
+        "id": 6,
+        "start": 143.62,
+        "end": 165.794,
+        "text": " And I remember how could I forget how you feel? You know you were my first time, a new feel. It won't ever get old, not in my soul, not in my spirit, keep it alive.",
+        "avg_logprob": -0.10017360846201578
+      },
+      {
+        "id": 7,
+        "start": 168.089,
+        "end": 193.942,
+        "text": " We'll go down this road till it turns from color to black and white. Oh, do you not think so far ahead? Because I've been thinking about forever. Oh, do you not think so far?",
+        "avg_logprob": -0.13822797787460414
+      },
+      {
+        "id": 8,
+        "start": 198.278,
+        "end": 199.882,
+        "text": " I've been thinking about you",
+        "avg_logprob": -0.7438616241727557
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "aWUWC21_HE8",
+    "uploader": "I am bald so what?",
+    "audio_file": "corpus/01_music_videos_audio/audio/aWUWC21_HE8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6978696,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.613342,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:14:59Z"
+  },
+  "status": "success",
+  "error": null
+}

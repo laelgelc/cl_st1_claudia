@@ -1,0 +1,91 @@
+{
+  "corpus_id": "8XNaPX6MKlU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8XNaPX6MKlU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/8XNaPX6MKlU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/8XNaPX6MKlU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Chemistry was crazy from the get-go Neither one of us knew why We didn't build nothing all the night, cause a love like this takes some time People swore it off as a phase, said we can't see that Now from top to bottom, they see that we did that It's so true that we've been through it, but we got real See baby, we've been too strong for too long And I can't be without you baby Cause I can't sleep without you baby Anybody who's ever loved you know just what I feel Too hard to fake it, nothing can replace it Call the radio if you just can't be without you baby But still I wanna ask you, would you lie? Make me cry? Do something behind my back and then try to cover it up? Well, neither would I, baby My love is only yapping up I'll be faithful Just what I feel, too hard to fake it Nothing can replace it, call the radio If you just can't be without your baby See this is real talk, come on always stay Or don't believe this ain't for you No, this ain't for you Hands up, you got it deep in your heart And deep down you know that it's true Come on, come on, come on Well, let me see you put your hands up Hands up Fellas, tell your lady she's the one Fellas, tell your lady she's the one Oh, put your hands up Hands up Ladies, let him know he's got your love Look him right in his eyes And tell him we've been too strong for too long And I can't be without you",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 29.41,
+        "end": 38.86,
+        "text": " Chemistry was crazy from the get-go Neither one of us knew why",
+        "avg_logprob": -0.2046874980131785
+      },
+      {
+        "id": 2,
+        "start": 39.282,
+        "end": 63.818,
+        "text": " We didn't build nothing all the night, cause a love like this takes some time People swore it off as a phase, said we can't see that Now from top to bottom, they see that we did that It's so true that we've been through it, but we got real See baby, we've been too strong for too long And I can't be without you baby",
+        "avg_logprob": -0.15160206148896035
+      },
+      {
+        "id": 3,
+        "start": 67.261,
+        "end": 84.085,
+        "text": " Cause I can't sleep without you baby Anybody who's ever loved you know just what I feel Too hard to fake it, nothing can replace it Call the radio if you just can't be without you baby",
+        "avg_logprob": -0.06594121917372658
+      },
+      {
+        "id": 4,
+        "start": 89.857,
+        "end": 108.065,
+        "text": " But still I wanna ask you, would you lie? Make me cry? Do something behind my back and then try to cover it up? Well, neither would I, baby My love is only yapping up I'll be faithful",
+        "avg_logprob": -0.1918218047060865
+      },
+      {
+        "id": 5,
+        "start": 127.252,
+        "end": 143.435,
+        "text": " Just what I feel, too hard to fake it Nothing can replace it, call the radio If you just can't be without your baby See this is real talk, come on always stay",
+        "avg_logprob": -0.2177220430029066
+      },
+      {
+        "id": 6,
+        "start": 152.378,
+        "end": 181.471,
+        "text": " Or don't believe this ain't for you No, this ain't for you Hands up, you got it deep in your heart And deep down you know that it's true Come on, come on, come on Well, let me see you put your hands up Hands up Fellas, tell your lady she's the one Fellas, tell your lady she's the one Oh, put your hands up Hands up Ladies, let him know he's got your love Look him right in his eyes And tell him we've been too strong for too long And I can't be without you",
+        "avg_logprob": -0.09010858113987971
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "8XNaPX6MKlU",
+    "uploader": "Mary J Blige",
+    "audio_file": "corpus/01_music_videos_audio/audio/8XNaPX6MKlU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7919384,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.677335,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:04:44Z"
+  },
+  "status": "success",
+  "error": null
+}

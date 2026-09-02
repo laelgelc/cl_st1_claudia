@@ -1,0 +1,70 @@
+{
+  "corpus_id": "Q8Tiz6INF7I",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Q8Tiz6INF7I.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Q8Tiz6INF7I.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Q8Tiz6INF7I.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Well, I guess if you said so, I'd better have to pay my thanks and go. That's right, hit the roof and don't come back no more, no more, no more. Hit the roof and don't come back no more. What'd you say? Hit the roof and down. You must be joking. What you trying to do to me? Well, can't we talk it over? I thought we had a better understanding. Oh, baby, don't be so chitty. Yeah, yeah.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 76.677,
+        "end": 93.603,
+        "text": " Well, I guess if you said so, I'd better have to pay my thanks and go. That's right, hit the roof and don't come back no more, no more, no more. Hit the roof and don't come back no more. What'd you say? Hit the roof and down.",
+        "avg_logprob": -0.2500000144354999
+      },
+      {
+        "id": 2,
+        "start": 101.078,
+        "end": 113.431,
+        "text": " You must be joking. What you trying to do to me? Well, can't we talk it over? I thought we had a better understanding. Oh, baby, don't be so chitty.",
+        "avg_logprob": -0.16545758786655607
+      },
+      {
+        "id": 3,
+        "start": 130.002,
+        "end": 133.529,
+        "text": " Yeah, yeah.",
+        "avg_logprob": -0.2986328125
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Q8Tiz6INF7I",
+    "uploader": "Andres Trevino",
+    "audio_file": "corpus/01_music_videos_audio/audio/Q8Tiz6INF7I.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4458310,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.286882,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:15:15Z"
+  },
+  "status": "success",
+  "error": null
+}

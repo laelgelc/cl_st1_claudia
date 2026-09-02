@@ -1,0 +1,91 @@
+{
+  "corpus_id": "nlcIKh6sBtc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nlcIKh6sBtc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/nlcIKh6sBtc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/nlcIKh6sBtc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I've never seen a diamond in the flesh. I cut my teeth on wedding rings. In a torn up town, no postcode envy. But every song's like gold teeth, gray goose dripping in the bathroom, blood stains, ball gowns, trash in the hotel room. We don't care. We're driving Cadillacs in our dreams. But everybody's like crystal Maybach, diamonds on your timepiece, jet planes, islands, tigers on a gold leash. We don't care. We aren't caught up in your love affair. And we'll never be wrong. it's a one in our blood that kind of looks just ain't for us we crave a different kind of We count our dollars on the train to the party. And everyone who knows us knows that we're fine with this. We didn't come for money. But every song's like gold teeth, gray goose dripping in the bathroom, blood stains, ball gowns, trash We crave a different kind of And we'll never be royals It's a run in our blood That kind of lux just ain't for us We crave a different kind of buzz Let me be your ruler You can call me queen bee And baby I'll rule Let me live that fantasy",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 10.645,
+        "end": 18.61,
+        "text": " I've never seen a diamond in the flesh. I cut my teeth on wedding rings.",
+        "avg_logprob": -0.12828947838984037
+      },
+      {
+        "id": 2,
+        "start": 27.419,
+        "end": 57.22,
+        "text": " In a torn up town, no postcode envy. But every song's like gold teeth, gray goose dripping in the bathroom, blood stains, ball gowns, trash in the hotel room. We don't care. We're driving Cadillacs in our dreams. But everybody's like crystal Maybach, diamonds on your timepiece, jet planes, islands, tigers on a gold leash. We don't care. We aren't caught up in your love affair. And we'll never be wrong.",
+        "avg_logprob": -0.07797181723164577
+      },
+      {
+        "id": 3,
+        "start": 58.165,
+        "end": 66.4,
+        "text": " it's a one in our blood that kind of looks just ain't for us we crave a different kind of",
+        "avg_logprob": -0.18189538691354834
+      },
+      {
+        "id": 4,
+        "start": 89.738,
+        "end": 112.216,
+        "text": " We count our dollars on the train to the party. And everyone who knows us knows that we're fine with this. We didn't come for money. But every song's like gold teeth, gray goose dripping in the bathroom, blood stains, ball gowns, trash",
+        "avg_logprob": -0.13174716125835073
+      },
+      {
+        "id": 5,
+        "start": 121.21,
+        "end": 139.823,
+        "text": " We crave a different kind of",
+        "avg_logprob": -0.43052453654153006
+      },
+      {
+        "id": 6,
+        "start": 174.299,
+        "end": 198.228,
+        "text": " And we'll never be royals It's a run in our blood That kind of lux just ain't for us We crave a different kind of buzz Let me be your ruler You can call me queen bee And baby I'll rule Let me live that fantasy",
+        "avg_logprob": -0.11876502403846154
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "nlcIKh6sBtc",
+    "uploader": "Lorde",
+    "audio_file": "corpus/01_music_videos_audio/audio/nlcIKh6sBtc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6404328,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.332062,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:19:34Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,84 @@
+{
+  "corpus_id": "tUwLPuc1WSo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/tUwLPuc1WSo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/tUwLPuc1WSo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/tUwLPuc1WSo.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Yummy, yummy, yummy, I got love in my tummy And I feel like I'm lovin' you Love you's such a sweet thing, good enough to eat Thing and it's just what I'm gonna do Who'll love to hold you? Who'll love to kiss you? Who'll love my loving soul? Who'll love you sweeter, sweeter than sugar? Who'll love, I won't let you go. And honey, I love you. Yummy, yummy, yummy, I got love in my tummy that your love can't satisfy. Love is such a sweet thing, good enough to eat a thing, and a sweet thing that ain't no lie. I love it to hold you, I love it to kiss you, oh love, I love it so. Sweet thing Yummy, yummy Sweet thing Sweet thing Yummy, yummy Sweet thing",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 28.516,
+        "text": " Yummy, yummy, yummy, I got love in my tummy And I feel like I'm lovin' you Love you's such a sweet thing, good enough to eat Thing and it's just what I'm gonna do",
+        "avg_logprob": -0.12196180489328172
+      },
+      {
+        "id": 2,
+        "start": 29.798,
+        "end": 45.256,
+        "text": " Who'll love to hold you? Who'll love to kiss you? Who'll love my loving soul? Who'll love you sweeter, sweeter than sugar? Who'll love, I won't let you go.",
+        "avg_logprob": -0.12400072674418605
+      },
+      {
+        "id": 3,
+        "start": 67.345,
+        "end": 85.199,
+        "text": " And honey, I love you.",
+        "avg_logprob": -0.43408203125
+      },
+      {
+        "id": 4,
+        "start": 95.628,
+        "end": 118.342,
+        "text": " Yummy, yummy, yummy, I got love in my tummy that your love can't satisfy. Love is such a sweet thing, good enough to eat a thing, and a sweet thing that ain't no lie. I love it to hold you, I love it to kiss you, oh love, I love it so.",
+        "avg_logprob": -0.10588304958108699
+      },
+      {
+        "id": 5,
+        "start": 119.388,
+        "end": 145.156,
+        "text": " Sweet thing Yummy, yummy Sweet thing Sweet thing Yummy, yummy Sweet thing",
+        "avg_logprob": -0.23854167461395265
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "tUwLPuc1WSo",
+    "uploader": "Charlie Perez",
+    "audio_file": "corpus/01_music_videos_audio/audio/tUwLPuc1WSo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4702026,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 36.776935,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:08:28Z"
+  },
+  "status": "success",
+  "error": null
+}

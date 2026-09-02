@@ -1,0 +1,84 @@
+{
+  "corpus_id": "IRqUUaM8tnI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/IRqUUaM8tnI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/IRqUUaM8tnI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/IRqUUaM8tnI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Who's speaking out from under a stairway Calling a name that's lighter than air Who's bending down to give me a rainbow Everyone knows it's windy Who's tripping down the streets of the city Smiling at everybody she sees Who's reaching out to capture a moment Everyone knows it's windy Windy has stormy eyes That flash at the sound of light And Windy has wings to fly And Windy has stormy eyes that flash at the sound of light. And Windy has wings to fly. Who's tripping down the streets of the city Smiling at everybody she sees Who's reaching out to capture a moment Everyone knows it's windy Who's tripping down the streets of the city Smiling at everybody she sees Who's reaching out to capture a moment Everyone knows it's windy We'll be right back.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 21.935,
+        "end": 50.47,
+        "text": " Who's speaking out from under a stairway Calling a name that's lighter than air Who's bending down to give me a rainbow Everyone knows it's windy Who's tripping down the streets of the city Smiling at everybody she sees Who's reaching out to capture a moment Everyone knows it's windy",
+        "avg_logprob": -0.08363217115402222
+      },
+      {
+        "id": 2,
+        "start": 54.976,
+        "end": 65.337,
+        "text": " Windy has stormy eyes That flash at the sound of light And Windy has wings to fly",
+        "avg_logprob": -0.19047619331450688
+      },
+      {
+        "id": 3,
+        "start": 90.785,
+        "end": 100.673,
+        "text": " And Windy has stormy eyes that flash at the sound of light. And Windy has wings to fly.",
+        "avg_logprob": -0.11547851531455915
+      },
+      {
+        "id": 4,
+        "start": 109.887,
+        "end": 136.6,
+        "text": " Who's tripping down the streets of the city Smiling at everybody she sees Who's reaching out to capture a moment Everyone knows it's windy Who's tripping down the streets of the city Smiling at everybody she sees Who's reaching out to capture a moment Everyone knows it's windy",
+        "avg_logprob": -0.062367582725266275
+      },
+      {
+        "id": 5,
+        "start": 153.644,
+        "end": 177.843,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.5864955527441842
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "IRqUUaM8tnI",
+    "uploader": "Smurfstools Oldies Music Time Machine",
+    "audio_file": "corpus/01_music_videos_audio/audio/IRqUUaM8tnI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5780918,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 31.895937,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:13:07Z"
+  },
+  "status": "success",
+  "error": null
+}

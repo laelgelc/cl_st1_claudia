@@ -1,0 +1,77 @@
+{
+  "corpus_id": "2nEfuE8Pw4U",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/2nEfuE8Pw4U.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/2nEfuE8Pw4U.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/2nEfuE8Pw4U.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "My heart is crying Lonely till it drops My pillow's never dry Lonely till it drops Come home, come home Just sail away, sail away My heart is crying, lonely teardrops. My pills never dry, lonely teardrops. Come home, come home. Give me another chance for high romance Come on and tell me that one day you'll return Cause every day that you've been gone away You know my heart does nothing but burn Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 11.033,
+        "end": 36.532,
+        "text": " My heart is crying Lonely till it drops My pillow's never dry Lonely till it drops Come home, come home Just sail away, sail away",
+        "avg_logprob": -0.14049899674231006
+      },
+      {
+        "id": 2,
+        "start": 45.492,
+        "end": 64.493,
+        "text": " My heart is crying, lonely teardrops. My pills never dry, lonely teardrops. Come home, come home.",
+        "avg_logprob": -0.09823495535938828
+      },
+      {
+        "id": 3,
+        "start": 82.735,
+        "end": 110.09,
+        "text": " Give me another chance for high romance Come on and tell me that one day you'll return Cause every day that you've been gone away You know my heart does nothing but burn",
+        "avg_logprob": -0.12662760499450895
+      },
+      {
+        "id": 4,
+        "start": 119.776,
+        "end": 133.816,
+        "text": " Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh.",
+        "avg_logprob": -0.49164872333921233
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "2nEfuE8Pw4U",
+    "uploader": "Electra",
+    "audio_file": "corpus/01_music_videos_audio/audio/2nEfuE8Pw4U.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4967292,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.699185,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:57:41Z"
+  },
+  "status": "success",
+  "error": null
+}

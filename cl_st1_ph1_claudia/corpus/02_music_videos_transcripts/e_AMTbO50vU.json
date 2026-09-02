@@ -1,0 +1,84 @@
+{
+  "corpus_id": "e_AMTbO50vU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/e_AMTbO50vU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/e_AMTbO50vU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/e_AMTbO50vU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Have a holly jolly Christmas It's the best time of the year I don't know if there'll be snow But have a cup of cheer Have a holly jolly Christmas And when you walk down the street Say hello to friends you know And everyone you meet Ho, ho, the mistletoe hung where you can see. Somebody waits for you, kiss her once for me. Have a holly jolly Christmas, and in case you didn't hear. Oh, by golly, have a holly jolly Christmas this year. Have a holly jolly Christmas. It's the best time of the year. Have a holly jolly Christmas when you walk down the street. Say hello to friends you know and everyone you meet Ho, ho, the mistletoe hung where you can see Somebody waits for you, kiss her once for me Have a holly jolly Christmas and in case you didn't hear Oh, by golly, have a holly jolly Christmas this year",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 20.534,
+        "end": 47.281,
+        "text": " Have a holly jolly Christmas It's the best time of the year I don't know if there'll be snow But have a cup of cheer Have a holly jolly Christmas And when you walk down the street Say hello to friends you know And everyone you meet",
+        "avg_logprob": -0.039240057089112025
+      },
+      {
+        "id": 2,
+        "start": 48.378,
+        "end": 68.088,
+        "text": " Ho, ho, the mistletoe hung where you can see. Somebody waits for you, kiss her once for me. Have a holly jolly Christmas, and in case you didn't hear.",
+        "avg_logprob": -0.1065848216059662
+      },
+      {
+        "id": 3,
+        "start": 68.915,
+        "end": 95.155,
+        "text": " Oh, by golly, have a holly jolly Christmas this year. Have a holly jolly Christmas. It's the best time of the year. Have a holly jolly Christmas when you walk down the street.",
+        "avg_logprob": -0.0546061210334301
+      },
+      {
+        "id": 4,
+        "start": 96.32,
+        "end": 122.797,
+        "text": " Say hello to friends you know and everyone you meet Ho, ho, the mistletoe hung where you can see Somebody waits for you, kiss her once for me Have a holly jolly Christmas and in case you didn't hear",
+        "avg_logprob": -0.09798177191987634
+      },
+      {
+        "id": 5,
+        "start": 123.32,
+        "end": 130.728,
+        "text": " Oh, by golly, have a holly jolly Christmas this year",
+        "avg_logprob": -0.1370849646627903
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "e_AMTbO50vU",
+    "uploader": "Christmas Music",
+    "audio_file": "corpus/01_music_videos_audio/audio/e_AMTbO50vU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4560848,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.011931,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:05:06Z"
+  },
+  "status": "success",
+  "error": null
+}

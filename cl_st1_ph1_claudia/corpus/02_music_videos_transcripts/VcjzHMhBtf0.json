@@ -1,0 +1,105 @@
+{
+  "corpus_id": "VcjzHMhBtf0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/VcjzHMhBtf0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/VcjzHMhBtf0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/VcjzHMhBtf0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Just a small town girl Livin' in a lonely world She took the midnight train goin' anywhere Just a city boy Born and raised right here in Houston He took the midnight train goin' anywhere Near A singer in a smoky room Smell the wine and cheap perfume Oh, the smile they can share the night you go People Living just to find their motion Highly Everybody, one for three Had anything to roll the dice Just one more time Some will win, some will lose Some are gonna sing the blues And I don't need no medical Come on, DC. Strangers waiting, whooping our mama. There's shadows searching in the night. Streetlights, people are aloof. Don't stop believing Hold on to that feeling Sweet life Don't stop believing Hold on each step to your feeling Stay like Don't stop",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 18.56,
+        "end": 48.428,
+        "text": " Just a small town girl Livin' in a lonely world She took the midnight train goin' anywhere Just a city boy Born and raised right here in Houston He took the midnight train goin' anywhere Near",
+        "avg_logprob": -0.15596417392172465
+      },
+      {
+        "id": 2,
+        "start": 64.527,
+        "end": 75.665,
+        "text": " A singer in a smoky room Smell the wine and cheap perfume Oh, the smile they can share the night you go",
+        "avg_logprob": -0.2955228376847047
+      },
+      {
+        "id": 3,
+        "start": 96.387,
+        "end": 103.407,
+        "text": " People Living just to find their motion Highly",
+        "avg_logprob": -0.8359374761581421
+      },
+      {
+        "id": 4,
+        "start": 127.808,
+        "end": 151.535,
+        "text": " Everybody, one for three Had anything to roll the dice Just one more time Some will win, some will lose Some are gonna sing the blues And I don't need no medical",
+        "avg_logprob": -0.3257378563284874
+      },
+      {
+        "id": 5,
+        "start": 153.678,
+        "end": 175.953,
+        "text": " Come on, DC. Strangers waiting, whooping our mama. There's shadows searching in the night. Streetlights, people are aloof.",
+        "avg_logprob": -0.4727822542190552
+      },
+      {
+        "id": 6,
+        "start": 186.078,
+        "end": 210.58,
+        "text": " Don't stop believing Hold on to that feeling Sweet life",
+        "avg_logprob": -0.22981770088275275
+      },
+      {
+        "id": 7,
+        "start": 218.647,
+        "end": 241.057,
+        "text": " Don't stop believing Hold on each step to your feeling Stay like",
+        "avg_logprob": -0.582589294229235
+      },
+      {
+        "id": 8,
+        "start": 247.267,
+        "end": 248.971,
+        "text": " Don't stop",
+        "avg_logprob": -0.3374023362994194
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "VcjzHMhBtf0",
+    "uploader": "journey",
+    "audio_file": "corpus/01_music_videos_audio/audio/VcjzHMhBtf0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8052388,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 11.01994,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:21:39Z"
+  },
+  "status": "success",
+  "error": null
+}

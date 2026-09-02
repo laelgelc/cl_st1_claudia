@@ -1,0 +1,105 @@
+{
+  "corpus_id": "nW9Cu6GYqxo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nW9Cu6GYqxo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/nW9Cu6GYqxo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/nW9Cu6GYqxo.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Turn down the lights Turn down the bed Turn down these voices Inside my head Lay down with me Tell me no lies Just hold me close Don't patronize Don't patronize Cause I can't make you love me if you don't You can't make your heart feel something it won't Here in the dark, in these final hours Cause I can't make you love me If you don't I close my eyes And I'll do what's right Just give me till then You can make your heart feel something it won't Here in the dark, in these final hours I will lay down my heart and I'll feel the power I can't make you love me You're trying to make me",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 17.007,
+        "end": 44.564,
+        "text": " Turn down the lights Turn down the bed Turn down these voices",
+        "avg_logprob": -0.08203125
+      },
+      {
+        "id": 2,
+        "start": 45.172,
+        "end": 67.312,
+        "text": " Inside my head Lay down with me Tell me no lies Just hold me close Don't patronize Don't patronize",
+        "avg_logprob": -0.10319010633975267
+      },
+      {
+        "id": 3,
+        "start": 73.42,
+        "end": 97.973,
+        "text": " Cause I can't make you love me if you don't You can't make your heart feel something it won't Here in the dark, in these final hours",
+        "avg_logprob": -0.11203835227272728
+      },
+      {
+        "id": 4,
+        "start": 112.317,
+        "end": 140.532,
+        "text": " Cause I can't make you love me If you don't I close my eyes",
+        "avg_logprob": -0.08806295955882353
+      },
+      {
+        "id": 5,
+        "start": 156.31,
+        "end": 163.499,
+        "text": " And I'll do what's right Just give me till then",
+        "avg_logprob": -0.11530949289982136
+      },
+      {
+        "id": 6,
+        "start": 186.247,
+        "end": 209.939,
+        "text": " You can make your heart feel something it won't Here in the dark, in these final hours I will lay down my heart and I'll feel the power",
+        "avg_logprob": -0.12347412062808871
+      },
+      {
+        "id": 7,
+        "start": 217.263,
+        "end": 220.267,
+        "text": " I can't make you love me",
+        "avg_logprob": -0.19458007253706455
+      },
+      {
+        "id": 8,
+        "start": 256.21,
+        "end": 258.539,
+        "text": " You're trying to make me",
+        "avg_logprob": -0.5496651956013271
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "nW9Cu6GYqxo",
+    "uploader": "TheBonnieRaitt",
+    "audio_file": "corpus/01_music_videos_audio/audio/nW9Cu6GYqxo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9116418,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.216718,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:57:06Z"
+  },
+  "status": "success",
+  "error": null
+}

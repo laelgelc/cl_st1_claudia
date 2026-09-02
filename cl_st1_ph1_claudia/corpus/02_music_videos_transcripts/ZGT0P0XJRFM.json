@@ -1,0 +1,140 @@
+{
+  "corpus_id": "ZGT0P0XJRFM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ZGT0P0XJRFM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ZGT0P0XJRFM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ZGT0P0XJRFM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "To the point where I'm no fun anymore I am sorry Sometimes it hurts so badly I must cry out loud I am lonely I am yours. You are mine. You are what you are. Give back your heart. Remember what we've said and done and felt about each other. If we'd have mercy. Don't let the past Remind us of what we are not now. I am not dreaming. I am yours. You are mine. You are what you are. You make it hard. Tearing yourself away from me now You are free And I am crying This does not mean I don't love you I do That's forever You're set for always I am yours You are mine You are what you are You make it hard Something inside Is telling me that I've got your secret Are you still listening? Here is the lock And left at the key to your heart And I love you I am yours, you are mine You are what you are You make it hard And you make it hard And you make it hard And you make it hard Sunday in the afternoon What have you got to lose? Tuesday morning Please be gone I'm tired of What have you got to lose? Can I tell it like it is? Listen to me, baby. It's my heart that's a suffering incident. That's what I have to lose. What have I got to lose? Will you come see me Thursdays and Saturdays? What have you got to lose? Just not from Canary. Move it, throw, take, swallow. Sing the song, don't be long. Drill me to the marrow. Voices of the angels ring around the moonlight, asking me since she's so free, how can you catch the sparrow? Lazy little teen living Losing love, lying empty Change my life, make it right Be my lady Thank you for watching!",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 13,
+    "segments": [
+      {
+        "id": 1,
+        "start": 11.86,
+        "end": 35.873,
+        "text": " To the point where I'm no fun anymore I am sorry Sometimes it hurts so badly I must cry out loud I am lonely",
+        "avg_logprob": -0.16256009156887347
+      },
+      {
+        "id": 2,
+        "start": 36.143,
+        "end": 61.642,
+        "text": " I am yours. You are mine. You are what you are. Give back your heart. Remember what we've said and done and felt about each other. If we'd have mercy. Don't let the past",
+        "avg_logprob": -0.16432883895256303
+      },
+      {
+        "id": 3,
+        "start": 62.165,
+        "end": 79.867,
+        "text": " Remind us of what we are not now. I am not dreaming. I am yours. You are mine. You are what you are. You make it hard.",
+        "avg_logprob": -0.0678571424313954
+      },
+      {
+        "id": 4,
+        "start": 89.975,
+        "end": 119.692,
+        "text": " Tearing yourself away from me now You are free And I am crying This does not mean I don't love you I do That's forever You're set for always I am yours You are mine You are what you are",
+        "avg_logprob": -0.1612847195731269
+      },
+      {
+        "id": 5,
+        "start": 120.35,
+        "end": 148.025,
+        "text": " You make it hard Something inside Is telling me that I've got your secret Are you still listening? Here is the lock And left at the key to your heart And I love you",
+        "avg_logprob": -0.07574957689723454
+      },
+      {
+        "id": 6,
+        "start": 149.138,
+        "end": 169.726,
+        "text": " I am yours, you are mine You are what you are You make it hard And you make it hard And you make it hard And you make it hard",
+        "avg_logprob": -0.11895751976408064
+      },
+      {
+        "id": 7,
+        "start": 178.096,
+        "end": 207.458,
+        "text": " Sunday in the afternoon What have you got to lose? Tuesday morning Please be gone I'm tired of",
+        "avg_logprob": -0.1245349645614624
+      },
+      {
+        "id": 8,
+        "start": 211.002,
+        "end": 232.214,
+        "text": " What have you got to lose? Can I tell it like it is? Listen to me, baby. It's my heart that's a suffering incident. That's what I have to lose.",
+        "avg_logprob": -0.12685547322034835
+      },
+      {
+        "id": 9,
+        "start": 251.975,
+        "end": 277.726,
+        "text": " What have I got to lose? Will you come see me Thursdays and Saturdays? What have you got to lose?",
+        "avg_logprob": -0.07008713884995534
+      },
+      {
+        "id": 10,
+        "start": 309.265,
+        "end": 321.466,
+        "text": " Just not from Canary. Move it, throw, take, swallow. Sing the song, don't be long. Drill me to the marrow.",
+        "avg_logprob": -0.2797851637005806
+      },
+      {
+        "id": 11,
+        "start": 337.295,
+        "end": 350.474,
+        "text": " Voices of the angels ring around the moonlight, asking me since she's so free, how can you catch the sparrow?",
+        "avg_logprob": -0.13932291004392836
+      },
+      {
+        "id": 12,
+        "start": 365.628,
+        "end": 379.128,
+        "text": " Lazy little teen living Losing love, lying empty Change my life, make it right Be my lady",
+        "avg_logprob": -0.4058948741717772
+      },
+      {
+        "id": 13,
+        "start": 402.736,
+        "end": 415.763,
+        "text": " Thank you for watching!",
+        "avg_logprob": -1.0944010814030964
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "ZGT0P0XJRFM",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/ZGT0P0XJRFM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 14212176,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 37.281904,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:53:54Z"
+  },
+  "status": "success",
+  "error": null
+}

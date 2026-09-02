@@ -1,0 +1,91 @@
+{
+  "corpus_id": "EPo5wWmKEaI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/EPo5wWmKEaI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/EPo5wWmKEaI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/EPo5wWmKEaI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Me not working hard. Yeah, right. Picture that with a Kodak. Or better yet, go to Times Square, take a picture of me with a Kodak. Took my life from negative to positive. I just want y'all to know that. And tonight, let's enjoy life. Pitbull, Nia, Neo, that's right. Tonight, I will know I love you tonight. Give me everything tonight. We might not get tomorrow. Let's do it tonight. Let's do it tonight. Excuse me, excuse me. tonight give me everything tonight for all we know we might not get tomorrow let's do it I don't give money like secrets. Put it on my life, baby. I make it feel right, baby. Can't promise tomorrow, but I promise tonight, dolly. We might not get tomorrow. Let's do it tonight.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.74,
+        "end": 23.504,
+        "text": " Me not working hard. Yeah, right. Picture that with a Kodak. Or better yet, go to Times Square, take a picture of me with a Kodak. Took my life from negative to positive. I just want y'all to know that. And tonight, let's enjoy life. Pitbull, Nia, Neo, that's right. Tonight, I will know I love you tonight. Give me everything tonight.",
+        "avg_logprob": -0.09726991938365685
+      },
+      {
+        "id": 2,
+        "start": 24.466,
+        "end": 38.287,
+        "text": " We might not get tomorrow. Let's do it tonight. Let's do it tonight.",
+        "avg_logprob": -0.28453946113586426
+      },
+      {
+        "id": 3,
+        "start": 67.902,
+        "end": 83.613,
+        "text": " Excuse me, excuse me.",
+        "avg_logprob": -0.5292968579701015
+      },
+      {
+        "id": 4,
+        "start": 100.252,
+        "end": 111.49,
+        "text": " tonight give me everything tonight for all we know we might not get tomorrow let's do it",
+        "avg_logprob": -0.1803042731787029
+      },
+      {
+        "id": 5,
+        "start": 155.146,
+        "end": 164.849,
+        "text": " I don't give money like secrets. Put it on my life, baby. I make it feel right, baby. Can't promise tomorrow, but I promise tonight, dolly.",
+        "avg_logprob": -0.23581414473684212
+      },
+      {
+        "id": 6,
+        "start": 180.863,
+        "end": 199.19,
+        "text": " We might not get tomorrow. Let's do it tonight.",
+        "avg_logprob": -0.3539663369839008
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "EPo5wWmKEaI",
+    "uploader": "Pitbull",
+    "audio_file": "corpus/01_music_videos_audio/audio/EPo5wWmKEaI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8523474,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.007499,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:10:30Z"
+  },
+  "status": "success",
+  "error": null
+}

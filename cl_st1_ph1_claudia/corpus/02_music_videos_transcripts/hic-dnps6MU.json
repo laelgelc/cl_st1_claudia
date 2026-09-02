@@ -1,0 +1,70 @@
+{
+  "corpus_id": "hic-dnps6MU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hic-dnps6MU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hic-dnps6MU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hic-dnps6MU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Just some friends of mine that say, hey, what's the matter, man? Why, we're coming around at 12 o'clock with some Puerto Rican girls that just dying to meet you. We're going to bring a case of wine, you know. We're going to mess some food around like we used to. Walking Central Park, singing after dark. People think I'm crazy. Shuffling on my feet, shuffling through the street. What's the matter with you, boy? Sometime, sometime, I sing to myself. time.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 72.661,
+        "end": 90.768,
+        "text": " Just some friends of mine that say, hey, what's the matter, man? Why, we're coming around at 12 o'clock with some Puerto Rican girls that just dying to meet you. We're going to bring a case of wine, you know. We're going to mess some food around like we used to.",
+        "avg_logprob": -0.2624081005068386
+      },
+      {
+        "id": 2,
+        "start": 138.524,
+        "end": 163.634,
+        "text": " Walking Central Park, singing after dark. People think I'm crazy. Shuffling on my feet, shuffling through the street. What's the matter with you, boy? Sometime, sometime, I sing to myself.",
+        "avg_logprob": -0.16512043898304304
+      },
+      {
+        "id": 3,
+        "start": 224.823,
+        "end": 225.498,
+        "text": " time.",
+        "avg_logprob": -0.9153645833333334
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "hic-dnps6MU",
+    "uploader": "The Rolling Stones",
+    "audio_file": "corpus/01_music_videos_audio/audio/hic-dnps6MU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8007804,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.6349,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:15:22Z"
+  },
+  "status": "success",
+  "error": null
+}

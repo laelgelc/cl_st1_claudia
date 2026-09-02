@@ -1,0 +1,84 @@
+{
+  "corpus_id": "puM1k-S86nE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/puM1k-S86nE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/puM1k-S86nE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/puM1k-S86nE.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "This old world starts getting me down And people are just too much for me to face I climb way up to the top of the stairs And all my cares just drift right into space On the roof it's peaceful as can be world below can't bother me let me tell you now when i come home feeling tired and lonely i go up where the air is fresh and sweet i get away from the hustling crowd and all that rat race noise down in the street Up on the roof, the only place I know Where you just have to wish to make it so Let's go up on the roof Up on the roof And darling, you can share it all with me I keep on telling you right smack dab in the middle of town I found a paradise that's trouble-proof The world starts getting you down. There's room in a fortune. Up on the roof. Up on the roof. Up on the roof. Oh, come on, baby. Oh, come on, honey. Everything is all right.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 6.528,
+        "end": 33.663,
+        "text": " This old world starts getting me down And people are just too much for me to face I climb way up to the top of the stairs And all my cares just drift right into space On the roof it's peaceful as can be",
+        "avg_logprob": -0.10130774148780367
+      },
+      {
+        "id": 2,
+        "start": 38.776,
+        "end": 65.624,
+        "text": " world below can't bother me let me tell you now when i come home feeling tired and lonely i go up where the air is fresh and sweet i get away from the hustling crowd and all that rat race noise down in the street",
+        "avg_logprob": -0.08317057120924194
+      },
+      {
+        "id": 3,
+        "start": 69.522,
+        "end": 86.87,
+        "text": " Up on the roof, the only place I know Where you just have to wish to make it so Let's go up on the roof Up on the roof",
+        "avg_logprob": -0.16174316499382257
+      },
+      {
+        "id": 4,
+        "start": 104.707,
+        "end": 125.024,
+        "text": " And darling, you can share it all with me I keep on telling you right smack dab in the middle of town I found a paradise that's trouble-proof",
+        "avg_logprob": -0.15968276515151514
+      },
+      {
+        "id": 5,
+        "start": 129.665,
+        "end": 152.952,
+        "text": " The world starts getting you down. There's room in a fortune. Up on the roof. Up on the roof. Up on the roof. Oh, come on, baby. Oh, come on, honey. Everything is all right.",
+        "avg_logprob": -0.15672831146084532
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "puM1k-S86nE",
+    "uploader": "Jack Gauntt",
+    "audio_file": "corpus/01_music_videos_audio/audio/puM1k-S86nE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4992554,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.852266,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:01:48Z"
+  },
+  "status": "success",
+  "error": null
+}

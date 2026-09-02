@@ -1,0 +1,91 @@
+{
+  "corpus_id": "wvkzoqQ5Oak",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wvkzoqQ5Oak.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/wvkzoqQ5Oak.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/wvkzoqQ5Oak.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "prison Lord help me get away cause only you can save me now from this misery I've been lost in my own place and I'm getting weary how far is heaven and I know that I need to change my ways of living. How far is heaven? Lord, can you tell me? I've been locked up way too long in this crazy world. How far is How far is heaven? I just gotta know how far, yeah. Tú que estás en alto cielo, échame tu bendición Cause I know there's a better place than this place I'm living in How far is heaven? I just gotta know I'm for you Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 32.87,
+        "end": 62.013,
+        "text": " prison Lord help me get away cause only you can save me now from this misery I've been lost in my own place and I'm getting weary how far is heaven and I",
+        "avg_logprob": -0.1071506045344803
+      },
+      {
+        "id": 2,
+        "start": 63.295,
+        "end": 91.747,
+        "text": " know that I need to change my ways of living. How far is heaven? Lord, can you tell me? I've been locked up way too long in this crazy world. How far is",
+        "avg_logprob": -0.07773437853902579
+      },
+      {
+        "id": 3,
+        "start": 106.107,
+        "end": 111.76,
+        "text": " How far is heaven? I just gotta know how far, yeah.",
+        "avg_logprob": -0.22369791865348815
+      },
+      {
+        "id": 4,
+        "start": 136.735,
+        "end": 158.757,
+        "text": " Tú que estás en alto cielo, échame tu bendición Cause I know there's a better place than this place I'm living in How far is heaven?",
+        "avg_logprob": -0.19543087121212122
+      },
+      {
+        "id": 5,
+        "start": 171.886,
+        "end": 176.476,
+        "text": " I just gotta know I'm for you",
+        "avg_logprob": -0.4674479166666667
+      },
+      {
+        "id": 6,
+        "start": 216.453,
+        "end": 219.49,
+        "text": " Thank you.",
+        "avg_logprob": -0.650390625
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "wvkzoqQ5Oak",
+    "uploader": "Los Lonely Boys",
+    "audio_file": "corpus/01_music_videos_audio/audio/wvkzoqQ5Oak.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7434180,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.052484,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:05:01Z"
+  },
+  "status": "success",
+  "error": null
+}

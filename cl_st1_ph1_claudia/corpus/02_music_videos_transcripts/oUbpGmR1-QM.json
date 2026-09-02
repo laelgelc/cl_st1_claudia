@@ -1,0 +1,98 @@
+{
+  "corpus_id": "oUbpGmR1-QM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oUbpGmR1-QM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/oUbpGmR1-QM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/oUbpGmR1-QM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Even if the sky falls down So come on and fly with me As we make our great escape So baby don't worry You are my only You won't be lonely Even if the sky is falling down You'll be my only No need to worry Baby are you down, down, down? Even if the sky is falling down, just let it be Come on and bring your body next to me I'll take you away, ayy Turn this place into our private getaway So leave it behind, cause we have a night to get away So come on and fly with me As we make our great escape So why don't we run away Don't worry You are my only You won't be lonely Even if the sky Even if the sky is falling down like she's supposed to be She gets down for me, down like her temperature Cause to me she's zero degrees, she called over freeze I got that girl from overseas, now she's my Miss America Now can I be her soldier, please? I'm fighting for this girl on a battlefield of love Don't they look like baby cupids sending arrows from above? Don't you ever leave the side of me Indefinitely, not probably And honestly, I'm down like the economy Baby, don't walk away You are my only You won't be lonely Even if the sky is falling Even if the sky is",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 19.893,
+        "end": 24.466,
+        "text": " Even if the sky falls down",
+        "avg_logprob": -0.6729910714285714
+      },
+      {
+        "id": 2,
+        "start": 53.963,
+        "end": 76.205,
+        "text": " So come on and fly with me As we make our great escape So baby don't worry You are my only You won't be lonely Even if the sky is falling down You'll be my only No need to worry Baby are you down, down, down?",
+        "avg_logprob": -0.09242335074352769
+      },
+      {
+        "id": 3,
+        "start": 88.861,
+        "end": 110.444,
+        "text": " Even if the sky is falling down, just let it be Come on and bring your body next to me I'll take you away, ayy Turn this place into our private getaway So leave it behind, cause we have a night to get away",
+        "avg_logprob": -0.10738358193752813
+      },
+      {
+        "id": 4,
+        "start": 112.098,
+        "end": 126.813,
+        "text": " So come on and fly with me As we make our great escape So why don't we run away Don't worry You are my only You won't be lonely Even if the sky",
+        "avg_logprob": -0.14727618243243243
+      },
+      {
+        "id": 5,
+        "start": 147.012,
+        "end": 164.005,
+        "text": " Even if the sky is falling down like she's supposed to be She gets down for me, down like her temperature Cause to me she's zero degrees, she called over freeze I got that girl from overseas, now she's my Miss America Now can I be her soldier, please?",
+        "avg_logprob": -0.13153286252556176
+      },
+      {
+        "id": 6,
+        "start": 164.005,
+        "end": 186.01,
+        "text": " I'm fighting for this girl on a battlefield of love Don't they look like baby cupids sending arrows from above? Don't you ever leave the side of me Indefinitely, not probably And honestly, I'm down like the economy Baby, don't walk away You are my only You won't be lonely Even if the sky is falling",
+        "avg_logprob": -0.1792410690869604
+      },
+      {
+        "id": 7,
+        "start": 205.349,
+        "end": 206.952,
+        "text": " Even if the sky is",
+        "avg_logprob": -0.3375650942325592
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "oUbpGmR1-QM",
+    "uploader": "jayseanworldwide",
+    "audio_file": "corpus/01_music_videos_audio/audio/oUbpGmR1-QM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7099068,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.373488,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:06:50Z"
+  },
+  "status": "success",
+  "error": null
+}

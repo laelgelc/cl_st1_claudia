@@ -1,0 +1,84 @@
+{
+  "corpus_id": "A8eWaR8ONvw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/A8eWaR8ONvw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/A8eWaR8ONvw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/A8eWaR8ONvw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Chestnuts roasting on an open fire Jack Frost nipping at your nose Yuletide carols Being sung by a choir And folks dressed up like Eskimos Everybody needs a turkey and some mistletoe Help to make the season bright Tiny tots with their eyes all aglow We'll find it hard to sleep tonight They know that Santa's on his way He's loaded lots of toys and goodies on his sleigh And every mother's child is gonna spy To see if reindeer really know how to fly And so I'm offering this simple phrase To kids from one to ninety-two Although it's been said many times, many ways Merry Christmas to you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.537,
+        "end": 28.01,
+        "text": " Chestnuts roasting on an open fire Jack Frost nipping at your nose Yuletide carols",
+        "avg_logprob": -0.054222469528516136
+      },
+      {
+        "id": 2,
+        "start": 28.634,
+        "end": 56.242,
+        "text": " Being sung by a choir And folks dressed up like Eskimos Everybody needs a turkey and some mistletoe Help to make the season bright Tiny tots with their eyes all aglow",
+        "avg_logprob": -0.09052998391357628
+      },
+      {
+        "id": 3,
+        "start": 56.967,
+        "end": 86.802,
+        "text": " We'll find it hard to sleep tonight They know that Santa's on his way He's loaded lots of toys and goodies on his sleigh And every mother's child is gonna spy To see if reindeer really know how to fly",
+        "avg_logprob": -0.05685292224845161
+      },
+      {
+        "id": 4,
+        "start": 88.473,
+        "end": 113.33,
+        "text": " And so I'm offering this simple phrase To kids from one to ninety-two Although it's been said many times, many ways Merry Christmas",
+        "avg_logprob": -0.12493265086206896
+      },
+      {
+        "id": 5,
+        "start": 113.819,
+        "end": 118.915,
+        "text": " to you.",
+        "avg_logprob": -0.4274902492761612
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "A8eWaR8ONvw",
+    "uploader": "Nat King Cole",
+    "audio_file": "corpus/01_music_videos_audio/audio/A8eWaR8ONvw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3979792,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.291809,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:05:08Z"
+  },
+  "status": "success",
+  "error": null
+}

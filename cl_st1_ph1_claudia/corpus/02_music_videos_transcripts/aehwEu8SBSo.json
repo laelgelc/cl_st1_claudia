@@ -1,0 +1,119 @@
+{
+  "corpus_id": "aehwEu8SBSo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/aehwEu8SBSo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/aehwEu8SBSo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/aehwEu8SBSo.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Say you are my friend When I was down you just stood there grinning You got a lot of nerve to say you got a helping hand to lend You just want to be on the side that's winning You say I let you down, you know it's not like that If you're so hurt, why then don't you show it? You say you've lost your faith But that's not where it's at You have no faith to lose And you know it. I know the reason that you talk behind my back. I used to be among the crowd you're in with. Do you take me for such a fool To think I'd make contact With one who tries to hide What he don't know to begin with You see me on the street You always act surprised You say how are you, good luck, but you don't mean it When you know as well as me, you'd rather see me paralyzed Why don't you just come out once and scream it No, I do not feel that good when I see the heartbreaks you embrace If I was a master thief, perhaps I'd rob them And though I know you're dissatisfied with your position and your place Don't you understand it's not my problem I wish that for just one time you could stand inside my shoes And just for that one moment, I could be you. Yes, I wish that for just one time, you could stand inside my shoes. You'd know what I'd dream. Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 10,
+    "segments": [
+      {
+        "id": 1,
+        "start": 13.818,
+        "end": 35.165,
+        "text": " Say you are my friend When I was down you just stood there grinning You got a lot of nerve to say you got a helping hand to lend",
+        "avg_logprob": -0.12071572244167328
+      },
+      {
+        "id": 2,
+        "start": 36.346,
+        "end": 60.882,
+        "text": " You just want to be on the side that's winning You say I let you down, you know it's not like that If you're so hurt, why then don't you show it?",
+        "avg_logprob": -0.06547851841896772
+      },
+      {
+        "id": 3,
+        "start": 63.278,
+        "end": 74.5,
+        "text": " You say you've lost your faith But that's not where it's at You have no faith to lose",
+        "avg_logprob": -0.05397727306593548
+      },
+      {
+        "id": 4,
+        "start": 74.939,
+        "end": 93.67,
+        "text": " And you know it. I know the reason that you talk behind my back. I used to be among the crowd you're in with.",
+        "avg_logprob": -0.0669787166447475
+      },
+      {
+        "id": 5,
+        "start": 98.024,
+        "end": 122.577,
+        "text": " Do you take me for such a fool To think I'd make contact With one who tries to hide What he don't know to begin with You see me on the street You always act surprised",
+        "avg_logprob": -0.09500200014847976
+      },
+      {
+        "id": 6,
+        "start": 123.556,
+        "end": 148.683,
+        "text": " You say how are you, good luck, but you don't mean it When you know as well as me, you'd rather see me paralyzed Why don't you just come out once and scream it",
+        "avg_logprob": -0.10975609465343196
+      },
+      {
+        "id": 7,
+        "start": 150.472,
+        "end": 166.874,
+        "text": " No, I do not feel that good when I see the heartbreaks you embrace If I was a master thief, perhaps I'd rob them",
+        "avg_logprob": -0.1010237099795506
+      },
+      {
+        "id": 8,
+        "start": 166.874,
+        "end": 193.115,
+        "text": " And though I know you're dissatisfied with your position and your place Don't you understand it's not my problem I wish that for just one time you could stand inside my shoes",
+        "avg_logprob": -0.09670608188654925
+      },
+      {
+        "id": 9,
+        "start": 193.115,
+        "end": 214.006,
+        "text": " And just for that one moment, I could be you. Yes, I wish that for just one time, you could stand inside my shoes. You'd know what I'd dream.",
+        "avg_logprob": -0.09842721863012564
+      },
+      {
+        "id": 10,
+        "start": 226.207,
+        "end": 242.947,
+        "text": " Thank you.",
+        "avg_logprob": -0.5278320461511612
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "aehwEu8SBSo",
+    "uploader": "Bob Dylan",
+    "audio_file": "corpus/01_music_videos_audio/audio/aehwEu8SBSo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7962480,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.789833,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:00:03Z"
+  },
+  "status": "success",
+  "error": null
+}

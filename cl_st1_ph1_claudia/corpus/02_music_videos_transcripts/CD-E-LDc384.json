@@ -1,0 +1,84 @@
+{
+  "corpus_id": "CD-E-LDc384",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CD-E-LDc384.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/CD-E-LDc384.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/CD-E-LDc384.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Forget my son to include everyone I tuck you in, warm within, keep you free from And up to never, never land Something's wrong, shut the light, heavy thoughts to the night Dreams of war, dreams of lies, dreams of dragon's fire And of things that will fade Sleep with one eye open, gripping your pillow tight Exit light, enter night Take my hand But still baby, don't say a word And never mind that noise you heard It's just the peace under your bed And your closet in your head Exit light End of night Grain of sand Exit light End of night Take my hand Off to Never Never Land",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 76.036,
+        "end": 84.473,
+        "text": " Forget my son to include everyone I tuck you in, warm within, keep you free from",
+        "avg_logprob": -0.3044819110318234
+      },
+      {
+        "id": 2,
+        "start": 105.736,
+        "end": 129.665,
+        "text": " And up to never, never land Something's wrong, shut the light, heavy thoughts to the night",
+        "avg_logprob": -0.3030133815038772
+      },
+      {
+        "id": 3,
+        "start": 133.343,
+        "end": 159.196,
+        "text": " Dreams of war, dreams of lies, dreams of dragon's fire And of things that will fade Sleep with one eye open, gripping your pillow tight Exit light, enter night Take my hand",
+        "avg_logprob": -0.27695312574505804
+      },
+      {
+        "id": 4,
+        "start": 223.928,
+        "end": 253.763,
+        "text": " But still baby, don't say a word And never mind that noise you heard It's just the peace under your bed And your closet in your head Exit light End of night Grain of sand Exit light",
+        "avg_logprob": -0.12384587966582992
+      },
+      {
+        "id": 5,
+        "start": 254.86,
+        "end": 265.238,
+        "text": " End of night Take my hand Off to Never Never Land",
+        "avg_logprob": -0.3232421899835269
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "CD-E-LDc384",
+    "uploader": "Metallica",
+    "audio_file": "corpus/01_music_videos_audio/audio/CD-E-LDc384.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10590606,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.043763,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:55:32Z"
+  },
+  "status": "success",
+  "error": null
+}

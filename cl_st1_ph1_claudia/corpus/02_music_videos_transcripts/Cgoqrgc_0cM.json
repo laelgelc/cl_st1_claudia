@@ -1,0 +1,105 @@
+{
+  "corpus_id": "Cgoqrgc_0cM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Cgoqrgc_0cM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Cgoqrgc_0cM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Cgoqrgc_0cM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Big pimpin', spinnin', cheatin'. Cheat, cheat, cheat, cheat, cheat. You know I love them, hug them, love them, leave them, but I don't trust or need them. Take them out the hood, keep them lookin' good. With diamond cuts, gotta freeze them. First time they fuss, I'm breezin'. Talk about, what's the reasons? I'm a pimp in every sense of the word, why am I better trust and believe them? In the cup where I keep them, till I need to work, till I I got no patience and I hate waiting. Let's ride. It's just that. You know what? Big Southern rap here from Sario. Come straight up out the black barrio. Make some meal and ball for sorry. Now sit back and be my scenario. Oops, my bad, that's my scenario. No, I can't f***ing scare it. Now every time, every place, everywhere we go, you gonna stop pointing and say, there he goes. Now you f***ing know we carry more f***ing than a little bit. We don't pull it out. And if you catch a lick when I spit, then it won't be a little hit. Go read a book, you'll live. We'll be right back. We'll be right back. We'll be right back. We call it buck. Everybody want a ball. At the mall, you be up, watch them fall. With y'all. If I wasn't rapping, baby, I would still be riding Mercedes. Coming down to Sippin' Daily. No rec tech, why they pay me? Now, what y'all know about the Jetsons, boys? Coming down to Candy Tarts. Smoking? No. On the canopy, my stamina be Enough for Pamela Anderson Lee Made my money too long for gambling with me But I'm still sittin' on blades, spittin' that vase Sittin' on the corner of my block hustlin' Gettin' off, double what I paid Gettin' it right through customs In a cell by the night, it's actually a wipe Look, I got so many But the man found out in the land, me in jail for life But I'm still big pimpin', spin the cheese With Bun B, Pimp C, and Timothy We got chicks in the back of the truck Laughin' it up, Jigga Man, that's what's up We be",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 6.055,
+        "end": 31.115,
+        "text": " Big pimpin', spinnin', cheatin'. Cheat, cheat, cheat, cheat, cheat. You know I love them, hug them, love them, leave them, but I don't trust or need them. Take them out the hood, keep them lookin' good. With diamond cuts, gotta freeze them. First time they fuss, I'm breezin'. Talk about, what's the reasons? I'm a pimp in every sense of the word, why am I better trust and believe them? In the cup where I keep them, till I need to work, till I",
+        "avg_logprob": -0.16585553315330726
+      },
+      {
+        "id": 2,
+        "start": 33.815,
+        "end": 57.068,
+        "text": " I got no patience and I hate waiting. Let's ride.",
+        "avg_logprob": -0.46791294642857145
+      },
+      {
+        "id": 3,
+        "start": 78.382,
+        "end": 95.476,
+        "text": " It's just that.",
+        "avg_logprob": -0.701171855131785
+      },
+      {
+        "id": 4,
+        "start": 96.927,
+        "end": 119.472,
+        "text": " You know what? Big Southern rap here from Sario. Come straight up out the black barrio. Make some meal and ball for sorry. Now sit back and be my scenario. Oops, my bad, that's my scenario. No, I can't f***ing scare it. Now every time, every place, everywhere we go, you gonna stop pointing and say, there he goes. Now you f***ing know we carry more f***ing than a little bit. We don't pull it out. And if you catch a lick when I spit, then it won't be a little hit. Go read a book, you'll live.",
+        "avg_logprob": -0.21698777836964542
+      },
+      {
+        "id": 5,
+        "start": 121.177,
+        "end": 141.443,
+        "text": " We'll be right back. We'll be right back.",
+        "avg_logprob": -0.43750000916994536
+      },
+      {
+        "id": 6,
+        "start": 142.152,
+        "end": 154.117,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.41796875851494925
+      },
+      {
+        "id": 7,
+        "start": 181.64,
+        "end": 209.315,
+        "text": " We call it buck. Everybody want a ball. At the mall, you be up, watch them fall. With y'all. If I wasn't rapping, baby, I would still be riding Mercedes. Coming down to Sippin' Daily. No rec tech, why they pay me? Now, what y'all know about the Jetsons, boys? Coming down to Candy Tarts. Smoking? No.",
+        "avg_logprob": -0.3821022690019824
+      },
+      {
+        "id": 8,
+        "start": 236.872,
+        "end": 264.867,
+        "text": " On the canopy, my stamina be Enough for Pamela Anderson Lee Made my money too long for gambling with me But I'm still sittin' on blades, spittin' that vase Sittin' on the corner of my block hustlin' Gettin' off, double what I paid Gettin' it right through customs In a cell by the night, it's actually a wipe Look, I got so many But the man found out in the land, me in jail for life But I'm still big pimpin', spin the cheese With Bun B, Pimp C, and Timothy We got chicks in the back of the truck Laughin' it up, Jigga Man, that's what's up We be",
+        "avg_logprob": -0.18040707354482852
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Cgoqrgc_0cM",
+    "uploader": "JAŸ-Z",
+    "audio_file": "corpus/01_music_videos_audio/audio/Cgoqrgc_0cM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9823048,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.287588,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:13:18Z"
+  },
+  "status": "success",
+  "error": null
+}

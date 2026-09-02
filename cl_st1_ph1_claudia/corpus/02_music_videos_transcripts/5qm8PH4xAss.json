@@ -1,0 +1,77 @@
+{
+  "corpus_id": "5qm8PH4xAss",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/5qm8PH4xAss.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/5qm8PH4xAss.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/5qm8PH4xAss.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "She done been zoned up When I roll 20 deep, it's always drama in the club Now that I roll with Dre, everybody show me love I'm fully focused, man. My money on my mind. Got a meal out the bill and I'm My cars, my clothes, my shoes, whoop on me I done came up and I ain't changing You should love it, way more than you hate it Oh, you mad? I thought that you'd be happy I made it I'm that cat by the bar, toastin' to the good life Moved out the hood, now you tryna pull me back, guy My joint get to pumpin' in the club, it's on, I'm with my And if they hate them, let them hate them while the money pile up. Or we can go upside their head with a bottle of bug. Come on.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 80.44,
+        "end": 86.937,
+        "text": " She done been zoned up When I roll 20 deep, it's always drama in the club Now that I roll with Dre, everybody show me love",
+        "avg_logprob": -0.29208670700750045
+      },
+      {
+        "id": 2,
+        "start": 111.035,
+        "end": 116.08,
+        "text": " I'm fully focused, man. My money on my mind. Got a meal out the bill and I'm",
+        "avg_logprob": -0.38858695652173914
+      },
+      {
+        "id": 3,
+        "start": 149.982,
+        "end": 168.19,
+        "text": " My cars, my clothes, my shoes, whoop on me I done came up and I ain't changing You should love it, way more than you hate it Oh, you mad? I thought that you'd be happy I made it I'm that cat by the bar, toastin' to the good life Moved out the hood, now you tryna pull me back, guy My joint get to pumpin' in the club, it's on, I'm with my",
+        "avg_logprob": -0.17123067501893977
+      },
+      {
+        "id": 4,
+        "start": 178.467,
+        "end": 184.643,
+        "text": " And if they hate them, let them hate them while the money pile up. Or we can go upside their head with a bottle of bug. Come on.",
+        "avg_logprob": -0.19649621212121213
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "5qm8PH4xAss",
+    "uploader": "50 Cent",
+    "audio_file": "corpus/01_music_videos_audio/audio/5qm8PH4xAss.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7934244,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.806252,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:21:27Z"
+  },
+  "status": "success",
+  "error": null
+}

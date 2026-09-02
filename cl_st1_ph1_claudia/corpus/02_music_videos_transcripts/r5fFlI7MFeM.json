@@ -1,0 +1,63 @@
+{
+  "corpus_id": "r5fFlI7MFeM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/r5fFlI7MFeM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/r5fFlI7MFeM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/r5fFlI7MFeM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "They say we're young and we don't know We won't find out until we grow Well, I don't know if all that's true You got me, baby, I got you Babe I got you, babe I got you, babe Say our love won't pay the rent. We'll return our monies all we spent. I guess that's so. We don't have a plot. But at least I'm sure of all the things we got. Babe, I got you, babe. I got you, babe.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 2,
+    "segments": [
+      {
+        "id": 1,
+        "start": 4.537,
+        "end": 32.262,
+        "text": " They say we're young and we don't know We won't find out until we grow Well, I don't know if all that's true You got me, baby, I got you Babe I got you, babe I got you, babe",
+        "avg_logprob": -0.10195312201976776
+      },
+      {
+        "id": 2,
+        "start": 34.422,
+        "end": 61.017,
+        "text": " Say our love won't pay the rent. We'll return our monies all we spent. I guess that's so. We don't have a plot. But at least I'm sure of all the things we got. Babe, I got you, babe. I got you, babe.",
+        "avg_logprob": -0.19583333507180214
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "r5fFlI7MFeM",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/r5fFlI7MFeM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 2102134,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 9.579071,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:12:29Z"
+  },
+  "status": "success",
+  "error": null
+}

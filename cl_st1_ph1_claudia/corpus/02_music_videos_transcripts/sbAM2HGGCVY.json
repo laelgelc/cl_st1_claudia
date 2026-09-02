@@ -1,0 +1,112 @@
+{
+  "corpus_id": "sbAM2HGGCVY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/sbAM2HGGCVY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/sbAM2HGGCVY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/sbAM2HGGCVY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You know, the carrying on the family tradition, Nancy Sinatra has unbelievably, because it happened just once, not very many times in her career, Nancy Sinatra has come up with the number one record in the country. And I'm going to ask her to sing it, not only for me, but for her father in Jilly or down in Miami Beach tonight. And the number is, These Boots Are Made For Walking. She has a golden record because she sold over a million copies of this. Let's have a wonderful welcome for Nancy Sinatra. Thank you. Ah, you've been a messin' where you shouldn't have been a messin' And now someone else is gettin' all your best And these boots are made for walkin' And that's just what they'll do One of these days these boots are gonna walk all over you Yeah. You keep lying when you ought to be true. I'm gonna walk all over you Now you keep playin' the way you should be playin' And you keep thinkin' that you'll never get burned Ha! And what he knows, you ain't had the time to learn. Now my boots are made for walking, and that's just what they're gonna do. One of these days, these boots are gonna walk all over you. Congratulations Congratulations on your record You know, when you were singing there I was thinking years and years ago when my daughter was going to UCLA I called up your father, Frank and asked him if he'd go over to UCLA and appear at an affair for her. And Frank has often told me that she was standing there reading, you know, doing her lessons, standing under a lamp on the campus when he showed up. And now here tonight, I'm introducing you and... It's all in the family, right? It really is all in the family. Let's have a wonderful hand for a final moment. Come here, Nancy Sinatra. They will never forget me. Here, now. Thank you. Goodbye.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.2,
+        "end": 25.141,
+        "text": " You know, the carrying on the family tradition, Nancy Sinatra has unbelievably, because it happened just once, not very many times in her career, Nancy Sinatra has come up with the number one record in the country. And I'm going to ask her to sing it, not only for me, but for her father in Jilly or down in Miami Beach tonight. And the number is, These Boots Are Made For Walking.",
+        "avg_logprob": -0.12078651953279303
+      },
+      {
+        "id": 2,
+        "start": 25.58,
+        "end": 43.467,
+        "text": " She has a golden record because she sold over a million copies of this. Let's have a wonderful welcome for Nancy Sinatra. Thank you.",
+        "avg_logprob": -0.10898437201976777
+      },
+      {
+        "id": 3,
+        "start": 54.571,
+        "end": 77.032,
+        "text": " Ah, you've been a messin' where you shouldn't have been a messin' And now someone else is gettin' all your best And these boots are made for walkin' And that's just what they'll do One of these days these boots are gonna walk all over you",
+        "avg_logprob": -0.08606991702217166
+      },
+      {
+        "id": 4,
+        "start": 81.908,
+        "end": 92.523,
+        "text": " Yeah. You keep lying when you ought to be true.",
+        "avg_logprob": -0.22175480769230768
+      },
+      {
+        "id": 5,
+        "start": 117.785,
+        "end": 142.017,
+        "text": " I'm gonna walk all over you Now you keep playin' the way you should be playin' And you keep thinkin' that you'll never get burned Ha!",
+        "avg_logprob": -0.15896267568071684
+      },
+      {
+        "id": 6,
+        "start": 146.219,
+        "end": 163.955,
+        "text": " And what he knows, you ain't had the time to learn. Now my boots are made for walking, and that's just what they're gonna do. One of these days, these boots are gonna walk all over you.",
+        "avg_logprob": -0.0984873686065065
+      },
+      {
+        "id": 7,
+        "start": 169.169,
+        "end": 198.329,
+        "text": " Congratulations Congratulations on your record You know, when you were singing there I was thinking years and years ago when my daughter was going to UCLA I called up your father, Frank",
+        "avg_logprob": -0.13482142686843873
+      },
+      {
+        "id": 8,
+        "start": 198.734,
+        "end": 217.634,
+        "text": " and asked him if he'd go over to UCLA and appear at an affair for her. And Frank has often told me that she was standing there reading, you know, doing her lessons, standing under a lamp on the campus when he showed up. And now here tonight, I'm introducing you and... It's all in the family, right? It really is all in the family. Let's have a wonderful hand for a final moment.",
+        "avg_logprob": -0.07682291492819786
+      },
+      {
+        "id": 9,
+        "start": 226.426,
+        "end": 231.134,
+        "text": " Come here, Nancy Sinatra. They will never forget me. Here, now. Thank you. Goodbye.",
+        "avg_logprob": -0.31640624222548114
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "sbAM2HGGCVY",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/sbAM2HGGCVY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7518886,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.929376,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:19:38Z"
+  },
+  "status": "success",
+  "error": null
+}

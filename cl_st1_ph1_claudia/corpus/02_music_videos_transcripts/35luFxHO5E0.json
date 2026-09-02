@@ -1,0 +1,77 @@
+{
+  "corpus_id": "35luFxHO5E0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/35luFxHO5E0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/35luFxHO5E0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/35luFxHO5E0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Well, she's walking through the clouds with a circus mind that's running Butterflies and zebras and moonbeams And fairy tales That's all she ever thinks of Riding with the wind When I'm sad She comes to me With a thousand smiles It's alright, she said, it's alright Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 17.429,
+        "end": 45.323,
+        "text": " Well, she's walking through the clouds with a circus mind that's running",
+        "avg_logprob": -0.16430663410574198
+      },
+      {
+        "id": 2,
+        "start": 48.766,
+        "end": 76.12,
+        "text": " Butterflies and zebras and moonbeams And fairy tales That's all she ever thinks of Riding with the wind When I'm sad She comes to me With a thousand smiles",
+        "avg_logprob": -0.10752744690791981
+      },
+      {
+        "id": 3,
+        "start": 82.162,
+        "end": 85.891,
+        "text": " It's alright, she said, it's alright",
+        "avg_logprob": -0.19637783819978888
+      },
+      {
+        "id": 4,
+        "start": 122.341,
+        "end": 146.472,
+        "text": " Thank you.",
+        "avg_logprob": -0.55517578125
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "35luFxHO5E0",
+    "uploader": "Jimi Hendrix",
+    "audio_file": "corpus/01_music_videos_audio/audio/35luFxHO5E0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4687908,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.277146,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:34Z"
+  },
+  "status": "success",
+  "error": null
+}

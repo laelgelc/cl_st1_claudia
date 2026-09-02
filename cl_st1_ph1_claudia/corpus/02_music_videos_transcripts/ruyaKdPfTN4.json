@@ -1,0 +1,105 @@
+{
+  "corpus_id": "ruyaKdPfTN4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ruyaKdPfTN4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ruyaKdPfTN4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ruyaKdPfTN4.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You know I'd fall apart without you I don't know how you do what you do Cause everything that don't make sense about me Makes sense when I'm with you Like everything that's green girl I need you But it's more than one and one makes two Put aside the math and the logic of it You gotta know you want it too Cause I wanna wrap you up Wanna kiss your lips I wanna make you feel wanted You might wanna hold your hand forever And never let you forget it Yeah, I wanna make you feel wanted Anyone can tell you you're pretty And you get that all the time I know you do. But your beauty's deeper than the makeup. And I want to show you what I see tonight. When I wrap you up, when I kiss your lips, I want to make you feel. I want to call you mine. Want to hold your hand forever. Never let you forget it. Cause baby I want to make you feel wanted. As good as you make me feel. I want to make you feel. I just wanna Wanna kiss your lips I wanna make you feel wanted And I wanna call you mine Wanna hold your hand forever And never let you forget it Yeah, I wanna make you feel wanted You'll always be one with us",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 12.907,
+        "end": 39.097,
+        "text": " You know I'd fall apart without you I don't know how you do what you do Cause everything that don't make sense about me Makes sense when I'm with you Like everything that's green girl I need you",
+        "avg_logprob": -0.08216441947628152
+      },
+      {
+        "id": 2,
+        "start": 40.109,
+        "end": 67.43,
+        "text": " But it's more than one and one makes two Put aside the math and the logic of it You gotta know you want it too Cause I wanna wrap you up Wanna kiss your lips I wanna make you feel wanted",
+        "avg_logprob": -0.08175872196984846
+      },
+      {
+        "id": 3,
+        "start": 69.961,
+        "end": 99.509,
+        "text": " You might wanna hold your hand forever And never let you forget it Yeah, I wanna make you feel wanted Anyone can tell you you're pretty And you get that all the time",
+        "avg_logprob": -0.1633029513888889
+      },
+      {
+        "id": 4,
+        "start": 101.095,
+        "end": 122.105,
+        "text": " I know you do. But your beauty's deeper than the makeup. And I want to show you what I see tonight. When I wrap you up, when I kiss your lips, I want to make you feel.",
+        "avg_logprob": -0.16310763359069824
+      },
+      {
+        "id": 5,
+        "start": 125.108,
+        "end": 147.535,
+        "text": " I want to call you mine. Want to hold your hand forever. Never let you forget it. Cause baby I want to make you feel wanted. As good as you make me feel. I want to make you feel.",
+        "avg_logprob": -0.18783967456092004
+      },
+      {
+        "id": 6,
+        "start": 152.48,
+        "end": 176.341,
+        "text": " I just wanna",
+        "avg_logprob": -0.63134765625
+      },
+      {
+        "id": 7,
+        "start": 177.86,
+        "end": 201.907,
+        "text": " Wanna kiss your lips I wanna make you feel wanted And I wanna call you mine Wanna hold your hand forever And never let you forget it Yeah, I wanna make you feel wanted",
+        "avg_logprob": -0.14040798362758425
+      },
+      {
+        "id": 8,
+        "start": 216.503,
+        "end": 222.022,
+        "text": " You'll always be one with us",
+        "avg_logprob": -0.4584960788488388
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "ruyaKdPfTN4",
+    "uploader": "Hunter Hayes",
+    "audio_file": "corpus/01_music_videos_audio/audio/ruyaKdPfTN4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7684584,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.252561,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:04:47Z"
+  },
+  "status": "success",
+  "error": null
+}

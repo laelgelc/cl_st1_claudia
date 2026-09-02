@@ -1,0 +1,105 @@
+{
+  "corpus_id": "VUjdiDeJ0xg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/VUjdiDeJ0xg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/VUjdiDeJ0xg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/VUjdiDeJ0xg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Throw my hands up in the air sometimes Sayin' ayo, gotta let go I wanna celebrate and live my life Sayin' ayo, baby let's go I came to dance, dance, dance, dance I hit the floor cause that's my plans, plans, plans, plans I'm wearing all my favorite brands, brands, brands, brands Give me some space with both my hands, hands, hands, hands I throw my hands up in the air sometimes Saying ayo, got an echo We gon' rock this club, we gon' go all night We gon' light it up, like it's dynamite Cause I told you once, now I told you twice We gon' light it up, like it's dynamite I came to move, move Move, move, move. Get out the way of me and my crew, crew, crew, crew. I'm in the club so I'm gonna do, do, do, do. Just what the f*** came here to do, do, do. I throw my hands up in the air sometimes Saying ayo, gotta let go We gonna rock this club, we gonna go all night We gonna light it up, like it's dynamite Cause I told you once, now I told you twice We gonna light it up, like it's dynamite I just want it all, I'm gonna put my hands in the air Hands in the air, put your hands in the air I throw my hands up in the air sometimes, saying ayo, gotta lay Baby let's go Cause we gon' rock this club We gon' go all night We gon' light it up Like it's dynamite Cause I told you once Now I told you twice We gon' light it up Like it's dynamite",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 32.887,
+        "end": 62.671,
+        "text": " Throw my hands up in the air sometimes Sayin' ayo, gotta let go I wanna celebrate and live my life Sayin' ayo, baby let's go I came to dance, dance, dance, dance I hit the floor cause that's my plans, plans, plans, plans I'm wearing all my favorite brands, brands, brands, brands Give me some space with both my hands, hands, hands, hands",
+        "avg_logprob": -0.07767600780245902
+      },
+      {
+        "id": 2,
+        "start": 72.391,
+        "end": 79.529,
+        "text": " I throw my hands up in the air sometimes Saying ayo, got an echo",
+        "avg_logprob": -0.16544117647058823
+      },
+      {
+        "id": 3,
+        "start": 81.132,
+        "end": 104.977,
+        "text": " We gon' rock this club, we gon' go all night We gon' light it up, like it's dynamite Cause I told you once, now I told you twice We gon' light it up, like it's dynamite I came to move, move",
+        "avg_logprob": -0.14971590854904868
+      },
+      {
+        "id": 4,
+        "start": 104.977,
+        "end": 117.633,
+        "text": " Move, move, move. Get out the way of me and my crew, crew, crew, crew. I'm in the club so I'm gonna do, do, do, do. Just what the f*** came here to do, do, do.",
+        "avg_logprob": -0.09382234044648984
+      },
+      {
+        "id": 5,
+        "start": 127.42,
+        "end": 135.807,
+        "text": " I throw my hands up in the air sometimes Saying ayo, gotta let go",
+        "avg_logprob": -0.21955422794117646
+      },
+      {
+        "id": 6,
+        "start": 136.837,
+        "end": 159.888,
+        "text": " We gonna rock this club, we gonna go all night We gonna light it up, like it's dynamite Cause I told you once, now I told you twice We gonna light it up, like it's dynamite",
+        "avg_logprob": -0.1343750066227383
+      },
+      {
+        "id": 7,
+        "start": 185.453,
+        "end": 210.547,
+        "text": " I just want it all, I'm gonna put my hands in the air Hands in the air, put your hands in the air I throw my hands up in the air sometimes, saying ayo, gotta lay",
+        "avg_logprob": -0.22801599183747934
+      },
+      {
+        "id": 8,
+        "start": 216.166,
+        "end": 236.669,
+        "text": " Baby let's go Cause we gon' rock this club We gon' go all night We gon' light it up Like it's dynamite Cause I told you once Now I told you twice We gon' light it up Like it's dynamite",
+        "avg_logprob": -0.07992187157273292
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "VUjdiDeJ0xg",
+    "uploader": "Taio Cruz",
+    "audio_file": "corpus/01_music_videos_audio/audio/VUjdiDeJ0xg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7989228,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.189244,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:12:19Z"
+  },
+  "status": "success",
+  "error": null
+}

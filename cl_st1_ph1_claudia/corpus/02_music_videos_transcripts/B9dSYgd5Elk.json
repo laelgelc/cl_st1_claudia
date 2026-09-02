@@ -1,0 +1,91 @@
+{
+  "corpus_id": "B9dSYgd5Elk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/B9dSYgd5Elk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/B9dSYgd5Elk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/B9dSYgd5Elk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Vroom. In the time of my life Let's make some music, make some money, find some more You and the island and the cocaine and the elegant cars This is our decision To live fast and die young We've got the vision But what else can we do? Get jobs and offices and wake up for the morning news Forget about our mothers and our friends We're fated to pretend I'll miss the playgrounds and the animals and digging up worms I'll miss the comfort of my mother and the weight of the world I'll miss my sister, miss my father, miss my dog Everything was running for us We'll choke on our vomit And that will be the end We were fated to",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.82,
+        "end": 2.9,
+        "text": " Vroom.",
+        "avg_logprob": -1.0205078423023224
+      },
+      {
+        "id": 2,
+        "start": 31.722,
+        "end": 41.999,
+        "text": " In the time of my life Let's make some music, make some money, find some more",
+        "avg_logprob": -0.19902344271540642
+      },
+      {
+        "id": 3,
+        "start": 57.659,
+        "end": 74.078,
+        "text": " You and the island and the cocaine and the elegant cars This is our decision To live fast and die young We've got the vision",
+        "avg_logprob": -0.21195022927390206
+      },
+      {
+        "id": 4,
+        "start": 87.292,
+        "end": 114.106,
+        "text": " But what else can we do? Get jobs and offices and wake up for the morning news Forget about our mothers and our friends We're fated to pretend",
+        "avg_logprob": -0.12109375
+      },
+      {
+        "id": 5,
+        "start": 130.66,
+        "end": 156.496,
+        "text": " I'll miss the playgrounds and the animals and digging up worms I'll miss the comfort of my mother and the weight of the world I'll miss my sister, miss my father, miss my dog",
+        "avg_logprob": -0.06507241144412901
+      },
+      {
+        "id": 6,
+        "start": 197.485,
+        "end": 217.82,
+        "text": " Everything was running for us We'll choke on our vomit And that will be the end We were fated to",
+        "avg_logprob": -0.35326087474823
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "B9dSYgd5Elk",
+    "uploader": "MGMT",
+    "audio_file": "corpus/01_music_videos_audio/audio/B9dSYgd5Elk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8279756,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 32.30464,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:55:16Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,98 @@
+{
+  "corpus_id": "snPDoXl9ZPs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/snPDoXl9ZPs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/snPDoXl9ZPs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/snPDoXl9ZPs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "That girl's that one with the deep thick cellophane straight breath so correct. Red dogs under a She looks so good that he gets down in bed. She's watching the detectives. Ooh, he's so cute. She's watching the detectives when they shoot, shoot, shoot, shoot. They beat him up until the teardrops start. But he can't do Long shot at that jumping sign. Invisible shivers run down my spine. Cut the baby taking off her clothes. Close up of the sign that says we never close. You snatch a chew and you match a cigarette. She pulls her eyes out with her face like a magnet. I don't know how much more of this I can't. She's watching the detectives. Oh, he's so cute. She's watching the detectives. Now, fear is here to stay. Love is here forever. They call it instant chess. When it's past the legal limit, someone's scratching at the window. I wonder who is the third detective from the check if you belong to the parents who are ready to hear the rest about their daughter's disappearance. So it really took a miracle to get you to stay. It only took my little fingers to blow you away. Just like watching the detectives Get so angry when the teardrops start But you can't move it cause you got no cards Watching the detectives It's just like watching the detectives Watching the detectives Thank you. Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 6.95,
+        "end": 33.494,
+        "text": " That girl's that one with the deep thick cellophane straight breath so correct. Red dogs under a",
+        "avg_logprob": -0.5387074080380526
+      },
+      {
+        "id": 2,
+        "start": 36.633,
+        "end": 64.24,
+        "text": " She looks so good that he gets down in bed. She's watching the detectives. Ooh, he's so cute. She's watching the detectives when they shoot, shoot, shoot, shoot. They beat him up until the teardrops start. But he can't do",
+        "avg_logprob": -0.10358297439484761
+      },
+      {
+        "id": 3,
+        "start": 71.817,
+        "end": 99.492,
+        "text": " Long shot at that jumping sign. Invisible shivers run down my spine. Cut the baby taking off her clothes. Close up of the sign that says we never close. You snatch a chew and you match a cigarette. She pulls her eyes out with her face like a magnet. I don't know how much more of this I can't.",
+        "avg_logprob": -0.1497579271524725
+      },
+      {
+        "id": 4,
+        "start": 103.036,
+        "end": 118.966,
+        "text": " She's watching the detectives. Oh, he's so cute. She's watching the detectives.",
+        "avg_logprob": -0.22958097200502048
+      },
+      {
+        "id": 5,
+        "start": 139.823,
+        "end": 166.132,
+        "text": " Now, fear is here to stay. Love is here forever. They call it instant chess. When it's past the legal limit, someone's scratching at the window. I wonder who is the third detective from the check if you belong to the parents who are ready to hear the rest about their daughter's disappearance. So it really took a miracle to get you to stay. It only took my little fingers to blow you away.",
+        "avg_logprob": -0.196839085940657
+      },
+      {
+        "id": 6,
+        "start": 174.721,
+        "end": 202.43,
+        "text": " Just like watching the detectives Get so angry when the teardrops start But you can't move it cause you got no cards Watching the detectives It's just like watching the detectives Watching the detectives",
+        "avg_logprob": -0.15098111088885818
+      },
+      {
+        "id": 7,
+        "start": 209.99,
+        "end": 219.457,
+        "text": " Thank you. Thank you.",
+        "avg_logprob": -0.7946428401129586
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "snPDoXl9ZPs",
+    "uploader": "Elvis Costello",
+    "audio_file": "corpus/01_music_videos_audio/audio/snPDoXl9ZPs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7021792,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.445016,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:38Z"
+  },
+  "status": "success",
+  "error": null
+}

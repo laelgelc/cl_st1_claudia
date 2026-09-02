@@ -1,0 +1,84 @@
+{
+  "corpus_id": "RgoscpHvtQY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/RgoscpHvtQY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/RgoscpHvtQY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/RgoscpHvtQY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Something to play with Go and find yourself a toy Baby, my time is too expensive And I'm not a little boy If you are serious Don't play with my heart, it makes me furious But if you want me to love you Then, baby, I will Girl, you know I will Don't be ashamed, let your conscience be your guide But I know deep down inside of me I believe you love me, forget your foolish pride life is too short to have sorrow you may be here today and gone tomorrow you might as well get what you want so go on and live baby go on and live tell it I'm nothing to play with. Go and find yourself a toy. But I'll tell it like it is. My time is too expensive. And I'm not your little boy. Tell it like it is.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 7.338,
+        "end": 30.001,
+        "text": " Something to play with Go and find yourself a toy Baby, my time is too expensive And I'm not a little boy",
+        "avg_logprob": -0.059843748807907104
+      },
+      {
+        "id": 2,
+        "start": 38.354,
+        "end": 64.662,
+        "text": " If you are serious Don't play with my heart, it makes me furious But if you want me to love you Then, baby, I will Girl, you know I will",
+        "avg_logprob": -0.13389756282170615
+      },
+      {
+        "id": 3,
+        "start": 68.645,
+        "end": 91.612,
+        "text": " Don't be ashamed, let your conscience be your guide But I know deep down inside of me I believe you love me, forget your foolish pride",
+        "avg_logprob": -0.04153645833333333
+      },
+      {
+        "id": 4,
+        "start": 99.374,
+        "end": 127.673,
+        "text": " life is too short to have sorrow you may be here today and gone tomorrow you might as well get what you want so go on and live baby go on and live tell it",
+        "avg_logprob": -0.1013454877667957
+      },
+      {
+        "id": 5,
+        "start": 131.065,
+        "end": 158.791,
+        "text": " I'm nothing to play with. Go and find yourself a toy. But I'll tell it like it is. My time is too expensive. And I'm not your little boy. Tell it like it is.",
+        "avg_logprob": -0.09818891994655132
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "RgoscpHvtQY",
+    "uploader": "Aaron Neville",
+    "audio_file": "corpus/01_music_videos_audio/audio/RgoscpHvtQY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5310574,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 22.523835,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:02Z"
+  },
+  "status": "success",
+  "error": null
+}

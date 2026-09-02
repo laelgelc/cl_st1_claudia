@@ -1,0 +1,84 @@
+{
+  "corpus_id": "N_OG8CyKXO0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/N_OG8CyKXO0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/N_OG8CyKXO0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/N_OG8CyKXO0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Jingle bell, jingle bell, jingle bell rock. Jingle bells swing and jingle bells ring. Snowing and blowing, a full show's of fun. Now the jingle hop has begun. Jingle bell time Dancing and prancing In jingle bell square In the frosty air What a bright time It's the right time To rock the night away Jingle bell time Is a swell time to go gliding into one horse sleigh. Giddy up, jingle horse, pick up your feet. Jingle up around the clock. Mix and a-mingle in the jingling feet. That's Jingle bell, jingle bell, jingle bell rock. Jingle bell chime in jingle bell time. Dancing and prancing in jingle bell square. In the frosty air. What a bright time, it's the right time to rock the night away. Jingle bell time is a swell time To go glidin' in the one-horse sleigh Giddy-up, jingle horse, pick up your feet Jingle around the clock Mix and a-mingle in the jinglin' feet That's the jingle bell, that's the jingle bell That's the jingle bell",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.352,
+        "end": 22.677,
+        "text": " Jingle bell, jingle bell, jingle bell rock. Jingle bells swing and jingle bells ring. Snowing and blowing, a full show's of fun. Now the jingle hop has begun.",
+        "avg_logprob": -0.14521484076976776
+      },
+      {
+        "id": 2,
+        "start": 29.832,
+        "end": 51.719,
+        "text": " Jingle bell time Dancing and prancing In jingle bell square In the frosty air What a bright time It's the right time To rock the night away Jingle bell time Is a swell time",
+        "avg_logprob": -0.05844726702198386
+      },
+      {
+        "id": 3,
+        "start": 52.192,
+        "end": 68.678,
+        "text": " to go gliding into one horse sleigh. Giddy up, jingle horse, pick up your feet. Jingle up around the clock. Mix and a-mingle in the jingling feet. That's",
+        "avg_logprob": -0.12449048945437306
+      },
+      {
+        "id": 4,
+        "start": 72.037,
+        "end": 93.721,
+        "text": " Jingle bell, jingle bell, jingle bell rock. Jingle bell chime in jingle bell time. Dancing and prancing in jingle bell square. In the frosty air. What a bright time, it's the right time to rock the night away.",
+        "avg_logprob": -0.09097055317117618
+      },
+      {
+        "id": 5,
+        "start": 95.645,
+        "end": 122.24,
+        "text": " Jingle bell time is a swell time To go glidin' in the one-horse sleigh Giddy-up, jingle horse, pick up your feet Jingle around the clock Mix and a-mingle in the jinglin' feet That's the jingle bell, that's the jingle bell That's the jingle bell",
+        "avg_logprob": -0.11628170549005702
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "N_OG8CyKXO0",
+    "uploader": "Elwood Yodogawa",
+    "audio_file": "corpus/01_music_videos_audio/audio/N_OG8CyKXO0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4149206,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.797581,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:05:09Z"
+  },
+  "status": "success",
+  "error": null
+}

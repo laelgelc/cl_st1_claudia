@@ -1,0 +1,84 @@
+{
+  "corpus_id": "0iLcqaIS-48",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/0iLcqaIS-48.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/0iLcqaIS-48.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/0iLcqaIS-48.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Thank you. I walk 47 miles above water. I use a cobra snake for a necktie. I got a brand new house on the roadside made from rattlesnake hide. I got a brand new chimney made on top, made out of a human skull. Now come on, take a little walk with me, Arlene, and tell me, who do you love? Who do you love? Who do you love? Who do you love? Who do you love? Who do you love? Tombstone hand and a graveyard mind Just 22 and I don't mind dying Who do you love? Who do you love? Who do you love? Who do you love? I rode around the town, used a rattlesnake whip Takin' these odds, they don't give me no lift The night was dark when the sky was blue Down the alley an ice wagon flew Hit a bump and somebody screamed You should have heard just what I see Who do you love? Who do you love? Who do you love? Who do you love? Arlene took me by my hand She said, oh wee boy, you know I understand Who do you love? Who do you love? Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 5.212,
+        "end": 14.645,
+        "text": " Thank you.",
+        "avg_logprob": -0.7939453125
+      },
+      {
+        "id": 2,
+        "start": 20.72,
+        "end": 37.628,
+        "text": " I walk 47 miles above water. I use a cobra snake for a necktie. I got a brand new house on the roadside made from rattlesnake hide. I got a brand new chimney made on top, made out of a human skull. Now come on, take a little walk with me, Arlene, and tell me, who do you love?",
+        "avg_logprob": -0.10237418753760201
+      },
+      {
+        "id": 3,
+        "start": 38.152,
+        "end": 65.81,
+        "text": " Who do you love? Who do you love? Who do you love? Who do you love? Who do you love? Tombstone hand and a graveyard mind Just 22 and I don't mind dying Who do you love? Who do you love? Who do you love? Who do you love? I rode around the town, used a rattlesnake whip Takin' these odds, they don't give me no lift",
+        "avg_logprob": -0.14017600814501444
+      },
+      {
+        "id": 4,
+        "start": 103.981,
+        "end": 129.665,
+        "text": " The night was dark when the sky was blue Down the alley an ice wagon flew Hit a bump and somebody screamed You should have heard just what I see Who do you love? Who do you love? Who do you love? Who do you love? Arlene took me by my hand She said, oh wee boy, you know I understand Who do you love? Who do you love?",
+        "avg_logprob": -0.16702927667883377
+      },
+      {
+        "id": 5,
+        "start": 143.738,
+        "end": 147.029,
+        "text": " Thank you.",
+        "avg_logprob": -0.62548828125
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "0iLcqaIS-48",
+    "uploader": "Bo Diddley - Topic",
+    "audio_file": "corpus/01_music_videos_audio/audio/0iLcqaIS-48.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4788218,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.507897,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:01:23Z"
+  },
+  "status": "success",
+  "error": null
+}

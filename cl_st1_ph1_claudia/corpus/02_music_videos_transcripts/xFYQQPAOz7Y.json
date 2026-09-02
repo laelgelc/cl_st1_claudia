@@ -1,0 +1,112 @@
+{
+  "corpus_id": "xFYQQPAOz7Y",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/xFYQQPAOz7Y.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/xFYQQPAOz7Y.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/xFYQQPAOz7Y.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Look, if you had one shot, one opportunity, seize everything you ever wanted. Just let it slip, yo His palms are sweaty, knees weak, arms are heavy There's vomit on his sweater already, mom's spaghetti He's nervous, been on the surface, he looks calm and ready to drop bombs But he keeps on forgetting what he wrote down The whole crowd goes so loud, he opens his mouth But the words won't come out, he's choking how Everybody's choking now, the clock's run out Time's up, over, plow, snap back to reality Oh, there goes gravity, oh up daddy's he know he won't have it he knows his whole back city's roast it don't matter he's dope he knows that but he's broke he's so stagnant he knows when he goes back to this mobile home that's when it's back to the lab again yo this old rap city better go capture this moment and hope it don't you better lose yourself in the music the moment you own it you better never let it go you only get one shot do not miss your chance to blow this opportunity comes once in a lifetime you better You only get one shot, do not miss your chance to blow This opportunity comes once in a lifetime, you better soar He's grown farther from home. He's no father. He goes home and barely knows his own daughter. Behold your nose, cause here goes the cold water. He don't want him no more. He's cold prodder. They moved on to the next moan. Who flows? He knows Dove and so not a. So this soap opera is told. It unfolds. I suppose it's so partner, but the beat goes on. Da-da-da-da-da-da-da-da. It's nothing to music. You only get one shot, do not miss your chance to blow This opportunity burns once in a lifetime You better lose yourself in the music The moment you own it, you better never let it go You only get one shot, do not miss your chance to blow This opportunity burns once in a lifetime No more games, I'ma change what you call rage Tear this **** and roof off like Tudor's cage I was playing in the beginning, the mood all changed I've been chewed up and spit out and booed offstage Life of my family, cause man, these proof stamps don't buy diapers. And there's no movie, there's no Makai Pfeiffer. This is my life and these times are so hard. And it's getting even harder trying to feed and water my seed. snail i've got to formulate a plot or end up in jail a shot success is my only option failure's not mama love you but this trail has got to go i cannot grow old in salem's lot so here i go it's my shot feet fail me not this may be the only opportunity that i got you better lose yourself in the music the moment you own it you better never let it go you only get one shot do not miss your chance to blow stop lose yourself in the music the moment you own it you better never let it go you only get one shot do not miss your chance to blow this opportunity comes once in a lifetime",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 31.891,
+        "end": 45.712,
+        "text": " Look, if you had one shot, one opportunity, seize everything you ever wanted.",
+        "avg_logprob": -0.17567273643281725
+      },
+      {
+        "id": 2,
+        "start": 51.179,
+        "end": 79.478,
+        "text": " Just let it slip, yo His palms are sweaty, knees weak, arms are heavy There's vomit on his sweater already, mom's spaghetti He's nervous, been on the surface, he looks calm and ready to drop bombs But he keeps on forgetting what he wrote down The whole crowd goes so loud, he opens his mouth But the words won't come out, he's choking how Everybody's choking now, the clock's run out Time's up, over, plow, snap back to reality Oh, there goes gravity, oh",
+        "avg_logprob": -0.0894820635655412
+      },
+      {
+        "id": 3,
+        "start": 82.702,
+        "end": 110.174,
+        "text": " up daddy's he know he won't have it he knows his whole back city's roast it don't matter he's dope he knows that but he's broke he's so stagnant he knows when he goes back to this mobile home that's when it's back to the lab again yo this old rap city better go capture this moment and hope it don't you better lose yourself in the music the moment you own it you better never let it go you only get one shot do not miss your chance to blow this opportunity comes once in a lifetime you better",
+        "avg_logprob": -0.09981863519975118
+      },
+      {
+        "id": 4,
+        "start": 114.798,
+        "end": 121.48,
+        "text": " You only get one shot, do not miss your chance to blow This opportunity comes once in a lifetime, you better soar",
+        "avg_logprob": -0.16376201349955338
+      },
+      {
+        "id": 5,
+        "start": 143.823,
+        "end": 167.684,
+        "text": " He's grown farther from home. He's no father. He goes home and barely knows his own daughter. Behold your nose, cause here goes the cold water. He don't want him no more. He's cold prodder. They moved on to the next moan. Who flows? He knows Dove and so not a. So this soap opera is told. It unfolds. I suppose it's so partner, but the beat goes on. Da-da-da-da-da-da-da-da. It's nothing to music.",
+        "avg_logprob": -0.2609105742183225
+      },
+      {
+        "id": 6,
+        "start": 170.418,
+        "end": 199.696,
+        "text": " You only get one shot, do not miss your chance to blow This opportunity burns once in a lifetime You better lose yourself in the music The moment you own it, you better never let it go You only get one shot, do not miss your chance to blow This opportunity burns once in a lifetime No more games, I'ma change what you call rage Tear this **** and roof off like Tudor's cage I was playing in the beginning, the mood all changed I've been chewed up and spit out and booed offstage",
+        "avg_logprob": -0.13082386065613139
+      },
+      {
+        "id": 7,
+        "start": 213.331,
+        "end": 226.983,
+        "text": " Life of my family, cause man, these proof stamps don't buy diapers. And there's no movie, there's no Makai Pfeiffer. This is my life and these times are so hard. And it's getting even harder trying to feed and water my seed.",
+        "avg_logprob": -0.20422149541085227
+      },
+      {
+        "id": 8,
+        "start": 237.597,
+        "end": 264.192,
+        "text": " snail i've got to formulate a plot or end up in jail a shot success is my only option failure's not mama love you but this trail has got to go i cannot grow old in salem's lot so here i go it's my shot feet fail me not this may be the only opportunity that i got you better lose yourself in the music the moment you own it you better never let it go you only get one shot do not miss your chance to blow stop",
+        "avg_logprob": -0.10172697399791918
+      },
+      {
+        "id": 9,
+        "start": 266.723,
+        "end": 277.574,
+        "text": " lose yourself in the music the moment you own it you better never let it go you only get one shot do not miss your chance to blow this opportunity comes once in a lifetime",
+        "avg_logprob": -0.11924913049572045
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "xFYQQPAOz7Y",
+    "uploader": "EminemMusic",
+    "audio_file": "corpus/01_music_videos_audio/audio/xFYQQPAOz7Y.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10479894,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.765247,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:18:10Z"
+  },
+  "status": "success",
+  "error": null
+}

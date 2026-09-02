@@ -1,0 +1,70 @@
+{
+  "corpus_id": "zO6D_BAuYCI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/zO6D_BAuYCI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/zO6D_BAuYCI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/zO6D_BAuYCI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "We'll be right back. And get on my tracks And see each other Take a long ride On my blue and white Until I'm ready Ready to do the thing all over again This thing Called love And I just Can't handle it This thing Called love Yeah, yeah.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 14.763,
+        "end": 43.433,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.7075892686843872
+      },
+      {
+        "id": 2,
+        "start": 108.065,
+        "end": 131.69,
+        "text": " And get on my tracks And see each other Take a long ride On my blue and white Until I'm ready Ready to do the thing all over again This thing Called love And I just Can't handle it This thing Called love",
+        "avg_logprob": -0.43410325503867603
+      },
+      {
+        "id": 3,
+        "start": 145.105,
+        "end": 149.847,
+        "text": " Yeah, yeah.",
+        "avg_logprob": -0.81953125
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "zO6D_BAuYCI",
+    "uploader": "Queen Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/zO6D_BAuYCI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5589958,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.601567,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:11:08Z"
+  },
+  "status": "success",
+  "error": null
+}

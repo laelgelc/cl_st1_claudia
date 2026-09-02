@@ -1,0 +1,84 @@
+{
+  "corpus_id": "WrsFXgQk5UI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/WrsFXgQk5UI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/WrsFXgQk5UI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/WrsFXgQk5UI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I don't really care if you cry I don't really should've never lied Should've saw the way she looked me in my eyes She said, baby, I am not afraid to die Push me to the edge, all my friends are dead Push me to the edge, all my friends are dead Push me to the edge, all my friends are dead Push me to the edge Phantom that's all red, inside all white My bralette, I'm mad, her bralette, her mad now Everybody got the same swag now, all the way to that hot chat now Stacking my bands all the way to the top, all the way to my best following, no Every time that you leave your spot, your girlfriend call me like, come on over I like the way that she treat me, gon' leave, you won't leave me, I call it that casino She's like, I'm insane Daddy, not your swag, that's what you figure on Y'all these niggas wanna take my kid on Red on, and it's done, red on Yo, man some, lil' nigga, ten some Fast car, nice car, red some, yeah You're the worst I cannot die because it's my universe I don't really care if you cry I'm the real, you shouldn't have to lie Should've saw the way she looked me in my eyes She said, baby, I am not afraid to die Push me to the edge All my friends are dead Push me to the edge All my friends are dead Push me to the edge All my friends are dead Push me to the edge No, no, no. If you don't call, I'll call the police. No, no, no. Stop it. No, no, no. Stop it. We'll call the police. We'll call the police.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 59.009,
+        "end": 84.71,
+        "text": " I don't really care if you cry I don't really should've never lied Should've saw the way she looked me in my eyes She said, baby, I am not afraid to die Push me to the edge, all my friends are dead Push me to the edge, all my friends are dead Push me to the edge, all my friends are dead Push me to the edge Phantom that's all red, inside all white",
+        "avg_logprob": -0.1158248546511628
+      },
+      {
+        "id": 2,
+        "start": 87.578,
+        "end": 105.01,
+        "text": " My bralette, I'm mad, her bralette, her mad now Everybody got the same swag now, all the way to that hot chat now Stacking my bands all the way to the top, all the way to my best following, no Every time that you leave your spot, your girlfriend call me like, come on over I like the way that she treat me, gon' leave, you won't leave me, I call it that casino She's like, I'm insane",
+        "avg_logprob": -0.1706373721066088
+      },
+      {
+        "id": 3,
+        "start": 143.873,
+        "end": 160.073,
+        "text": " Daddy, not your swag, that's what you figure on Y'all these niggas wanna take my kid on Red on, and it's done, red on Yo, man some, lil' nigga, ten some Fast car, nice car, red some, yeah",
+        "avg_logprob": -0.27762278116175104
+      },
+      {
+        "id": 4,
+        "start": 176.83,
+        "end": 205.788,
+        "text": " You're the worst I cannot die because it's my universe I don't really care if you cry I'm the real, you shouldn't have to lie Should've saw the way she looked me in my eyes She said, baby, I am not afraid to die Push me to the edge All my friends are dead Push me to the edge All my friends are dead Push me to the edge All my friends are dead Push me to the edge",
+        "avg_logprob": -0.10173806514632835
+      },
+      {
+        "id": 5,
+        "start": 213.415,
+        "end": 224.452,
+        "text": " No, no, no. If you don't call, I'll call the police. No, no, no. Stop it. No, no, no. Stop it. We'll call the police. We'll call the police.",
+        "avg_logprob": -0.4521683576155682
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "WrsFXgQk5UI",
+    "uploader": "LIL UZI VERT",
+    "audio_file": "corpus/01_music_videos_audio/audio/WrsFXgQk5UI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8198022,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.089104,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:13:31Z"
+  },
+  "status": "success",
+  "error": null
+}

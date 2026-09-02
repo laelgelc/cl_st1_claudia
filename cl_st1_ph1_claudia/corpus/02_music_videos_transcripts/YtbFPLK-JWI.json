@@ -1,0 +1,91 @@
+{
+  "corpus_id": "YtbFPLK-JWI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/YtbFPLK-JWI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/YtbFPLK-JWI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/YtbFPLK-JWI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "My girl's like candy, a candy queen. She loves me high up off my feet. She's so fine as can be. I know this girl is just me. Candy girl, you're all my world. You look so sweet, you're a special treat. Candy girl, all I want to say, when you're with me, you're riding on my day. Do you really love me? Don't you really care? Do you really need me? And will you always? And I want you to say I need your love She's bad, she's bad, I know she's bad. She walks so fast, she looks so sweet. She makes my heart just skip a beat. My girl's the best and that's no lie. She tells me that I'm her only guy. That might be true, but my girl's a joy. She don't play around, she's right to the point. My girl's like candy, a candy tree. She knocks me high up on my feet. Oh, candy! Forget it. Your face or dream. Forget it all. You're all I want. I need your love. Each and every day. You're everything, everything, everything to me. Candy dog, you're all my love. I need your love each and every day. Candy dog, all I want to say. You're everything, everything, everything to me. Candy dog.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 11.253,
+        "end": 38.472,
+        "text": " My girl's like candy, a candy queen. She loves me high up off my feet. She's so fine as can be. I know this girl is just me. Candy girl, you're all my world. You look so sweet, you're a special treat. Candy girl, all I want to say, when you're with me, you're riding on my day.",
+        "avg_logprob": -0.18659855731022665
+      },
+      {
+        "id": 2,
+        "start": 41.375,
+        "end": 68.088,
+        "text": " Do you really love me? Don't you really care? Do you really need me? And will you always?",
+        "avg_logprob": -0.25830078125
+      },
+      {
+        "id": 3,
+        "start": 97.197,
+        "end": 102.952,
+        "text": " And I want you to say I need your love",
+        "avg_logprob": -0.31871448863636365
+      },
+      {
+        "id": 4,
+        "start": 118.612,
+        "end": 143.384,
+        "text": " She's bad, she's bad, I know she's bad. She walks so fast, she looks so sweet. She makes my heart just skip a beat. My girl's the best and that's no lie. She tells me that I'm her only guy. That might be true, but my girl's a joy. She don't play around, she's right to the point. My girl's like candy, a candy tree. She knocks me high up on my feet. Oh, candy!",
+        "avg_logprob": -0.1250758445957332
+      },
+      {
+        "id": 5,
+        "start": 148.447,
+        "end": 177.826,
+        "text": " Forget it. Your face or dream. Forget it all. You're all I want. I need your love. Each and every day.",
+        "avg_logprob": -0.2653555911162804
+      },
+      {
+        "id": 6,
+        "start": 182.956,
+        "end": 207.222,
+        "text": " You're everything, everything, everything to me. Candy dog, you're all my love. I need your love each and every day. Candy dog, all I want to say. You're everything, everything, everything to me. Candy dog.",
+        "avg_logprob": -0.15303308472913854
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "YtbFPLK-JWI",
+    "uploader": "New Edition",
+    "audio_file": "corpus/01_music_videos_audio/audio/YtbFPLK-JWI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7049286,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.554129,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:11:53Z"
+  },
+  "status": "success",
+  "error": null
+}

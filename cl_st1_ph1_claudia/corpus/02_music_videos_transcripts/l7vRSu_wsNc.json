@@ -1,0 +1,84 @@
+{
+  "corpus_id": "l7vRSu_wsNc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/l7vRSu_wsNc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/l7vRSu_wsNc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/l7vRSu_wsNc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "He told me several times that he didn't She had the nerve to ask me if I planned to do her any harm. Clouds in her mix She wasn't too bright But I could tell when she kissed me She knew how to get a kiss She wore a raspberry beret The kind you find in a second-hand store Raspberry beret And if it was warm She wouldn't wear much more Raspberry beret The rain sounds so cool when it hits the barn roof, and the horses wonder who you are. The thunder jams out for the lightning seas, and you feel like a moving star. This ain't the first time you've made the greatest, but I'll tell you, if I had the chance to do it all again. The girl is fine as she was then",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 79.343,
+        "end": 81.824,
+        "text": " He told me several times that he didn't",
+        "avg_logprob": -0.18925780802965164
+      },
+      {
+        "id": 2,
+        "start": 117.211,
+        "end": 137.731,
+        "text": " She had the nerve to ask me if I planned to do her any harm.",
+        "avg_logprob": -0.43704044117647056
+      },
+      {
+        "id": 3,
+        "start": 148.008,
+        "end": 176.932,
+        "text": " Clouds in her mix She wasn't too bright But I could tell when she kissed me She knew how to get a kiss She wore a raspberry beret The kind you find in a second-hand store Raspberry beret And if it was warm She wouldn't wear much more Raspberry beret",
+        "avg_logprob": -0.14499470541032694
+      },
+      {
+        "id": 4,
+        "start": 182.382,
+        "end": 205.822,
+        "text": " The rain sounds so cool when it hits the barn roof, and the horses wonder who you are. The thunder jams out for the lightning seas, and you feel like a moving star. This ain't the first time you've made the greatest, but I'll tell you, if I had the chance to do it all again.",
+        "avg_logprob": -0.21289063179317644
+      },
+      {
+        "id": 5,
+        "start": 209.18,
+        "end": 212.47,
+        "text": " The girl is fine as she was then",
+        "avg_logprob": -0.5542534722222222
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "l7vRSu_wsNc",
+    "uploader": "Prince",
+    "audio_file": "corpus/01_music_videos_audio/audio/l7vRSu_wsNc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8339944,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.445452,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:11:31Z"
+  },
+  "status": "success",
+  "error": null
+}

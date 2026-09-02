@@ -1,0 +1,91 @@
+{
+  "corpus_id": "0CFuCYNx-1g",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/0CFuCYNx-1g.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/0CFuCYNx-1g.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/0CFuCYNx-1g.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Very superstitious Seven years of bad luck with the things in your past. When you believe in things that you don't understand and you suffer. Keep me in deep sleep Keep me going strong You don't wanna save me Sad is my song When you believe in things you don't understand It's the most dishonest way Very superstitious Nothing more to say Things that you don't understand",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 30.423,
+        "end": 33.325,
+        "text": " Very superstitious",
+        "avg_logprob": -0.25048828125
+      },
+      {
+        "id": 2,
+        "start": 59.178,
+        "end": 75.479,
+        "text": " Seven years of bad luck with the things in your past. When you believe in things that you don't understand and you suffer.",
+        "avg_logprob": -0.1290509303410848
+      },
+      {
+        "id": 3,
+        "start": 106.85,
+        "end": 129.935,
+        "text": " Keep me in deep sleep Keep me going strong You don't wanna save me Sad is my song When you believe in things you don't understand",
+        "avg_logprob": -0.2354525800408988
+      },
+      {
+        "id": 4,
+        "start": 134.66,
+        "end": 137.14,
+        "text": " It's the most dishonest way",
+        "avg_logprob": -0.8256835862994194
+      },
+      {
+        "id": 5,
+        "start": 163.297,
+        "end": 170.165,
+        "text": " Very superstitious Nothing more to say",
+        "avg_logprob": -0.258056640625
+      },
+      {
+        "id": 6,
+        "start": 202.885,
+        "end": 205.703,
+        "text": " Things that you don't understand",
+        "avg_logprob": -0.23535155398505075
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "0CFuCYNx-1g",
+    "uploader": "lozzagermain",
+    "audio_file": "corpus/01_music_videos_audio/audio/0CFuCYNx-1g.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8549480,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.724049,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:02:18Z"
+  },
+  "status": "success",
+  "error": null
+}

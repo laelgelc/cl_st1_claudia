@@ -1,0 +1,91 @@
+{
+  "corpus_id": "N_MqfF0WBsU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/N_MqfF0WBsU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/N_MqfF0WBsU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/N_MqfF0WBsU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Dirty old river, must you keep rolling, flowing into the night People so busy, make me feel dizzy, taxi lights shine so bright As long as I gaze up Waterloo sunset I am in paradise La la la Every day I look at the world From my window La la la But chilly chilly is the evening time Waterloo sunset time Waterloo sunset time Every Friday night But I am so lazy Don't want to wonder I stay at home at night But I don't Feel afraid As long as I gaze on Waterloo sunset I am in paradise Waterloo sunset's fine Millions of people swarming like flies round Waterloo underground But Terry and Julie pass over the river Only for safe and sound ¶¶ ¶¶ Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 12.468,
+        "end": 34.405,
+        "text": " Dirty old river, must you keep rolling, flowing into the night People so busy, make me feel dizzy, taxi lights shine so bright",
+        "avg_logprob": -0.13207165742742605
+      },
+      {
+        "id": 2,
+        "start": 43.99,
+        "end": 72.88,
+        "text": " As long as I gaze up Waterloo sunset I am in paradise La la la Every day I look at the world From my window La la la But chilly chilly is the evening time Waterloo sunset time Waterloo sunset time",
+        "avg_logprob": -0.10937500132454767
+      },
+      {
+        "id": 3,
+        "start": 78.837,
+        "end": 108.419,
+        "text": " Every Friday night But I am so lazy Don't want to wonder I stay at home at night But I don't Feel afraid As long as I gaze on Waterloo sunset I am in paradise",
+        "avg_logprob": -0.056790866530858554
+      },
+      {
+        "id": 4,
+        "start": 125.277,
+        "end": 150.303,
+        "text": " Waterloo sunset's fine Millions of people swarming like flies round Waterloo underground But Terry and Julie pass over the river Only for safe and sound",
+        "avg_logprob": -0.22766112862154841
+      },
+      {
+        "id": 5,
+        "start": 160.04,
+        "end": 176.965,
+        "text": " ¶¶ ¶¶",
+        "avg_logprob": -0.5855034722222222
+      },
+      {
+        "id": 6,
+        "start": 190.87,
+        "end": 191.579,
+        "text": " Thank you.",
+        "avg_logprob": -0.7343750149011612
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "N_MqfF0WBsU",
+    "uploader": "The Kinks",
+    "audio_file": "corpus/01_music_videos_audio/audio/N_MqfF0WBsU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6244574,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.937477,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:02:21Z"
+  },
+  "status": "success",
+  "error": null
+}

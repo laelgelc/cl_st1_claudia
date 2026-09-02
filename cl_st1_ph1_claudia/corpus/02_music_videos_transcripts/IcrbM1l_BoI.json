@@ -1,0 +1,105 @@
+{
+  "corpus_id": "IcrbM1l_BoI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/IcrbM1l_BoI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/IcrbM1l_BoI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/IcrbM1l_BoI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Feeling my way through the darkness Guided by a beating heart I can't tell where the journey will end But I know where to start They tell me I'm too young to understand They say I'm caught up in a dream Life will pass me by if I don't open up my eyes. Well, that's fine by me. So wake me up when it's all over. When I'm wiser and I'm older. All this time I was finding myself and I didn't know I was lost. So wake me up when it's all over. The others, they don't like us. Yeah, I know. Why? I tried carrying the weight of the world But I only have two hands Hope I get the chance to travel the world But I don't have any plans Wish that I could stay forever this young Not afraid to close my eyes life's a game made for everyone and love is I didn't know I was lost. I didn't know I was lost. I didn't know I was lost. I didn't know. Get up. Pack your things. Where are we going? Somewhere we belong. Thank you. Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 8.485,
+        "end": 30.49,
+        "text": " Feeling my way through the darkness Guided by a beating heart I can't tell where the journey will end But I know where to start They tell me I'm too young to understand They say I'm caught up in a dream",
+        "avg_logprob": -0.044200067691828895
+      },
+      {
+        "id": 2,
+        "start": 31.739,
+        "end": 56.765,
+        "text": " Life will pass me by if I don't open up my eyes. Well, that's fine by me. So wake me up when it's all over. When I'm wiser and I'm older. All this time I was finding myself and I didn't know I was lost. So wake me up when it's all over.",
+        "avg_logprob": -0.04393116093200186
+      },
+      {
+        "id": 3,
+        "start": 63.143,
+        "end": 78.179,
+        "text": " The others, they don't like us. Yeah, I know. Why?",
+        "avg_logprob": -0.07433363970588236
+      },
+      {
+        "id": 4,
+        "start": 120.67,
+        "end": 143.063,
+        "text": " I tried carrying the weight of the world But I only have two hands Hope I get the chance to travel the world But I don't have any plans Wish that I could stay forever this young Not afraid to close my eyes",
+        "avg_logprob": -0.06957465608914694
+      },
+      {
+        "id": 5,
+        "start": 143.975,
+        "end": 161.896,
+        "text": " life's a game made for everyone and love is",
+        "avg_logprob": -0.26615765961733734
+      },
+      {
+        "id": 6,
+        "start": 182.77,
+        "end": 207.34,
+        "text": " I didn't know I was lost. I didn't know I was lost. I didn't know I was lost. I didn't know. Get up. Pack your things. Where are we going? Somewhere we belong.",
+        "avg_logprob": -0.12398097178210384
+      },
+      {
+        "id": 7,
+        "start": 239.183,
+        "end": 241.006,
+        "text": " Thank you.",
+        "avg_logprob": -0.7519530951976776
+      },
+      {
+        "id": 8,
+        "start": 270.47,
+        "end": 272.528,
+        "text": " Thank you.",
+        "avg_logprob": -0.5820312649011612
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "IcrbM1l_BoI",
+    "uploader": "Avicii",
+    "audio_file": "corpus/01_music_videos_audio/audio/IcrbM1l_BoI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8720378,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.127232,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:07:12Z"
+  },
+  "status": "success",
+  "error": null
+}

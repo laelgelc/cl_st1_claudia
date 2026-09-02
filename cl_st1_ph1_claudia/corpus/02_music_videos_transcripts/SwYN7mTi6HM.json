@@ -1,0 +1,91 @@
+{
+  "corpus_id": "SwYN7mTi6HM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/SwYN7mTi6HM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/SwYN7mTi6HM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/SwYN7mTi6HM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Wow. I've seen the toughest around. And I know, baby, just how you feel. You've got to roll with the punches and get to what's real. I can't just sit and stand here. I've got my back against the wrecking machine. I eat the worst that you see. Can't you see what I mean? Might as well jump, jump Might as well jump Go ahead and jump, jump Go ahead and jump Who said that? Baby, how you been? Can't you see what I mean? Might as well jump, jump Go ahead and jump Might as well jump, jump Thank you. Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 2.984,
+        "end": 12.029,
+        "text": " Wow.",
+        "avg_logprob": -1.1321614583333333
+      },
+      {
+        "id": 2,
+        "start": 39.653,
+        "end": 67.666,
+        "text": " I've seen the toughest around. And I know, baby, just how you feel. You've got to roll with the punches and get to what's real. I can't just sit and stand here. I've got my back against the wrecking machine. I eat the worst that you see.",
+        "avg_logprob": -0.14541331270048696
+      },
+      {
+        "id": 3,
+        "start": 69.168,
+        "end": 94.919,
+        "text": " Can't you see what I mean? Might as well jump, jump Might as well jump Go ahead and jump, jump Go ahead and jump Who said that? Baby, how you been?",
+        "avg_logprob": -0.16085736797406122
+      },
+      {
+        "id": 4,
+        "start": 115.017,
+        "end": 130.087,
+        "text": " Can't you see what I mean? Might as well jump, jump Go ahead and jump Might as well jump, jump",
+        "avg_logprob": -0.174375
+      },
+      {
+        "id": 5,
+        "start": 186.247,
+        "end": 190.55,
+        "text": " Thank you.",
+        "avg_logprob": -0.5351562649011612
+      },
+      {
+        "id": 6,
+        "start": 232.788,
+        "end": 236.551,
+        "text": " Thank you.",
+        "avg_logprob": -0.4792480319738388
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "SwYN7mTi6HM",
+    "uploader": "Van Halen",
+    "audio_file": "corpus/01_music_videos_audio/audio/SwYN7mTi6HM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7758144,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.901158,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:16:43Z"
+  },
+  "status": "success",
+  "error": null
+}

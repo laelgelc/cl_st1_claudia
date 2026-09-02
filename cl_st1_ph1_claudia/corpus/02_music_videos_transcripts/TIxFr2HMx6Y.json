@@ -1,0 +1,91 @@
+{
+  "corpus_id": "TIxFr2HMx6Y",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/TIxFr2HMx6Y.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/TIxFr2HMx6Y.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/TIxFr2HMx6Y.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "The gypsy woman told my mother, before I was born, I got a boy child coming. He's going to be a son of a gun. He's going to make pretty women jump and shout. Then they will want to know what this is all about. I got a black cat bone. I got a mojo too. I got the John the Conqueror. I'm gonna mess with you. I'm gonna make you guys lead me by my hand. Then the world will know the hoochie-coochie man. But you know him. Everybody knows him. On the seven hours On the seven days On the seven months The seven doctors say He was born for good luck And that you see I got $700 Don't you mess with me, but you know him Everybody knows him Well, you know the hoochie-coochie man Everybody knows I'm here",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 9.447,
+        "end": 34.557,
+        "text": " The gypsy woman told my mother, before I was born, I got a boy child coming. He's going to be a son of a gun. He's going to make pretty women jump and shout. Then they will want to know what this is all about.",
+        "avg_logprob": -0.12848011363636364
+      },
+      {
+        "id": 2,
+        "start": 47.888,
+        "end": 74.112,
+        "text": " I got a black cat bone. I got a mojo too. I got the John the Conqueror. I'm gonna mess with you.",
+        "avg_logprob": -0.14112902745123831
+      },
+      {
+        "id": 3,
+        "start": 76.171,
+        "end": 95.392,
+        "text": " I'm gonna make you guys lead me by my hand. Then the world will know the hoochie-coochie man. But you know him. Everybody knows him.",
+        "avg_logprob": -0.22550675192394773
+      },
+      {
+        "id": 4,
+        "start": 101.618,
+        "end": 127.538,
+        "text": " On the seven hours On the seven days On the seven months The seven doctors say",
+        "avg_logprob": -0.087890625
+      },
+      {
+        "id": 5,
+        "start": 129.378,
+        "end": 158.251,
+        "text": " He was born for good luck And that you see I got $700 Don't you mess with me, but you know him Everybody knows him Well, you know the hoochie-coochie man",
+        "avg_logprob": -0.16508556441182182
+      },
+      {
+        "id": 6,
+        "start": 159.55,
+        "end": 162.402,
+        "text": " Everybody knows I'm here",
+        "avg_logprob": -0.21321614583333334
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "TIxFr2HMx6Y",
+    "uploader": "Classic Mood Experience",
+    "audio_file": "corpus/01_music_videos_audio/audio/TIxFr2HMx6Y.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5537944,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.792395,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:59:39Z"
+  },
+  "status": "success",
+  "error": null
+}

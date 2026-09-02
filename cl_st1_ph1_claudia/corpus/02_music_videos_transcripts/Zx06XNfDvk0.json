@@ -1,0 +1,91 @@
+{
+  "corpus_id": "Zx06XNfDvk0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Zx06XNfDvk0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Zx06XNfDvk0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Zx06XNfDvk0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "when you're alone and life is making you lonely you can always go downtown when you've got worries all the noise and the hurry seems to help i know downtown just listen to the music from the The lights are much brighter there. You can't forget all your troubles. Forget all your cares. Don't hang around and let your problems surround you. There are movie shows downtown. Maybe you know some little places to go to where they never close downtown. Just listen to the rhythm of a gentle ball. happy again the lights are much brighter there you can't forget all your troubles forget all your cares help and understand you someone who is just like you and needs a gentle hand to guide them along so maybe i'll see you there we can't forget all our troubles forget all our cares so go downtown things will be great when you're downtown don't wait a minute more downtown We'll be right back.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 8.823,
+        "end": 27.065,
+        "text": " when you're alone and life is making you lonely you can always go downtown when you've got worries all the noise and the hurry seems to help i know downtown just listen to the music from the",
+        "avg_logprob": -0.11289062462747097
+      },
+      {
+        "id": 2,
+        "start": 30.271,
+        "end": 42.472,
+        "text": " The lights are much brighter there. You can't forget all your troubles. Forget all your cares.",
+        "avg_logprob": -0.1612723157519386
+      },
+      {
+        "id": 3,
+        "start": 63.329,
+        "end": 82.145,
+        "text": " Don't hang around and let your problems surround you. There are movie shows downtown. Maybe you know some little places to go to where they never close downtown. Just listen to the rhythm of a gentle ball.",
+        "avg_logprob": -0.1316315406976744
+      },
+      {
+        "id": 4,
+        "start": 86.92,
+        "end": 97.45,
+        "text": " happy again the lights are much brighter there you can't forget all your troubles forget all your cares",
+        "avg_logprob": -0.2546874910593033
+      },
+      {
+        "id": 5,
+        "start": 135.065,
+        "end": 160.023,
+        "text": " help and understand you someone who is just like you and needs a gentle hand to guide them along so maybe i'll see you there we can't forget all our troubles forget all our cares so go downtown things will be great when you're downtown don't wait a minute more downtown",
+        "avg_logprob": -0.06769670705710139
+      },
+      {
+        "id": 6,
+        "start": 179.058,
+        "end": 181.606,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.5837053401129586
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Zx06XNfDvk0",
+    "uploader": "AL NUCAHC",
+    "audio_file": "corpus/01_music_videos_audio/audio/Zx06XNfDvk0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5810640,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.738971,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:15:51Z"
+  },
+  "status": "success",
+  "error": null
+}

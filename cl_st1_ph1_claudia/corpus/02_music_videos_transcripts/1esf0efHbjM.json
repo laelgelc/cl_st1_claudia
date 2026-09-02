@@ -1,0 +1,98 @@
+{
+  "corpus_id": "1esf0efHbjM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/1esf0efHbjM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/1esf0efHbjM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/1esf0efHbjM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "People keep on learning Soldiers Keep on warrin' Whoa Keep on turnin' Cause it won't be too long Powers Keep on lyin' All your people keep on dying. Whoa, keep on turning. I'm so darn glad he let me try it again Cause my last time on earth I lived a whole world of sin I'm so glad that I know more than I knew then Gonna keep on trying until I reach my highest ground Teachers Keep on teaching Preachers keep on preaching Words keep on turning Doesn't bother me too long Lovers keep on loving Believers, keep on believing Sleepers, just stop sleeping Cause it won't be too long I'm so glad that he let me try it again. Cause my last time on earth, I left a hole in the sand. I'm so glad that I know more than I knew then. Gonna keep on trying till I die.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 28.499,
+        "text": " People keep on learning",
+        "avg_logprob": -0.337890625
+      },
+      {
+        "id": 2,
+        "start": 31.317,
+        "end": 59.92,
+        "text": " Soldiers Keep on warrin' Whoa Keep on turnin' Cause it won't be too long Powers Keep on lyin'",
+        "avg_logprob": -0.22178820106718275
+      },
+      {
+        "id": 3,
+        "start": 62.131,
+        "end": 75.293,
+        "text": " All your people keep on dying. Whoa, keep on turning.",
+        "avg_logprob": -0.37025668365614756
+      },
+      {
+        "id": 4,
+        "start": 85.182,
+        "end": 113.262,
+        "text": " I'm so darn glad he let me try it again Cause my last time on earth I lived a whole world of sin I'm so glad that I know more than I knew then Gonna keep on trying until I reach my highest ground Teachers Keep on teaching",
+        "avg_logprob": -0.1737132376315547
+      },
+      {
+        "id": 5,
+        "start": 115.895,
+        "end": 143.84,
+        "text": " Preachers keep on preaching Words keep on turning Doesn't bother me too long Lovers keep on loving",
+        "avg_logprob": -0.24218748645348984
+      },
+      {
+        "id": 6,
+        "start": 146.573,
+        "end": 162.571,
+        "text": " Believers, keep on believing Sleepers, just stop sleeping Cause it won't be too long",
+        "avg_logprob": -0.18066406697034837
+      },
+      {
+        "id": 7,
+        "start": 169.321,
+        "end": 183.597,
+        "text": " I'm so glad that he let me try it again. Cause my last time on earth, I left a hole in the sand. I'm so glad that I know more than I knew then. Gonna keep on trying till I die.",
+        "avg_logprob": -0.2350127599677261
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "1esf0efHbjM",
+    "uploader": "Stevie Wonder",
+    "audio_file": "corpus/01_music_videos_audio/audio/1esf0efHbjM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7123588,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.77798,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:58:53Z"
+  },
+  "status": "success",
+  "error": null
+}

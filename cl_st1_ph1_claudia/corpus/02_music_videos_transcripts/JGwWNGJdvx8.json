@@ -1,0 +1,112 @@
+{
+  "corpus_id": "JGwWNGJdvx8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/JGwWNGJdvx8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/JGwWNGJdvx8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/JGwWNGJdvx8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "The club isn't the best place to find a lover, so the bar is where I go. Me and my friends sat at the table doing shots, tripping fast and then we talk slow. Come over and start up a conversation with just me, and trust me, I'll give it a chance. Now take my hand, stop it, pan the man on the juke. And we start to dance and I'm singing like girl, you know, I want your love your love was handmade for somebody like me Come on now follow my lead. I may be crazy. Don't mind me say boy Let's not talk too much grab on my waist and put that body down on me, I'm coming now, follow my lead, I'm coming now, follow my lead, I'm in love with the shape of you, we push and pull like a magnet do, although my heart is falling too, I'm in love with your body, and last night you were in my room, and now my bedsheets smell like you, everyday discovering something brand new, I'm in love with your I'm in love with your body We're everyday discovering something brand new I'm in love with the shape of you When we came, we let the story begin We're going out on our first date You and me are thrifty, so go all you can eat Fill up your bag and I'll fill up the plate We talk for hours and now it's about the sweet and the sour And how your family's doing okay I'm leaving, getting a taxi Kissing the backseat, tell the driver make the radio play And I'm singing like You know I want your love Your love was handmade for somebody like me Come on now, follow my lead I may be crazy, don't mind me Say boy, let's not talk too much Grab on my waist I'm in love with the shape of you We push and pull like a magnet do Although my heart is falling too I'm in love with your body Last night you were in my room And now my bedsheets smell like you Every day discovering something brand new I'm in love with your body I'm in love with the shape of you Come on, be my baby, come on I'm in love with the shape of you You push and pull like a magnet do Although my heart is falling too I'm in love with your body Last night you were in my room And by my bed she smelled like you Everyday discovering something brand new I'm in love with your body with your body everyday discovery something brand new I'm in love with the shape of you",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 15.691,
+        "end": 33.089,
+        "text": " The club isn't the best place to find a lover, so the bar is where I go. Me and my friends sat at the table doing shots, tripping fast and then we talk slow. Come over and start up a conversation with just me, and trust me, I'll give it a chance. Now take my hand, stop it, pan the man on the juke.",
+        "avg_logprob": -0.12509889391404164
+      },
+      {
+        "id": 2,
+        "start": 33.089,
+        "end": 50.774,
+        "text": " And we start to dance and I'm singing like girl, you know, I want your love your love was handmade for somebody like me Come on now follow my lead. I may be crazy. Don't mind me say boy Let's not talk too much grab on my waist and put that body down",
+        "avg_logprob": -0.2603739890895906
+      },
+      {
+        "id": 3,
+        "start": 50.774,
+        "end": 75.496,
+        "text": " on me, I'm coming now, follow my lead, I'm coming now, follow my lead, I'm in love with the shape of you, we push and pull like a magnet do, although my heart is falling too, I'm in love with your body, and last night you were in my room, and now my bedsheets smell like you, everyday discovering something brand new, I'm in love with your",
+        "avg_logprob": -0.08396192665757804
+      },
+      {
+        "id": 4,
+        "start": 89.553,
+        "end": 116.519,
+        "text": " I'm in love with your body We're everyday discovering something brand new I'm in love with the shape of you When we came, we let the story begin We're going out on our first date You and me are thrifty, so go all you can eat Fill up your bag and I'll fill up the plate We talk for hours and now it's about the sweet and the sour And how your family's doing okay I'm leaving, getting a taxi Kissing the backseat, tell the driver make the radio play And I'm singing like",
+        "avg_logprob": -0.15737612370972162
+      },
+      {
+        "id": 5,
+        "start": 116.519,
+        "end": 129.631,
+        "text": " You know I want your love Your love was handmade for somebody like me Come on now, follow my lead I may be crazy, don't mind me Say boy, let's not talk too much Grab on my waist",
+        "avg_logprob": -0.1459517086094076
+      },
+      {
+        "id": 6,
+        "start": 131.757,
+        "end": 155.551,
+        "text": " I'm in love with the shape of you We push and pull like a magnet do Although my heart is falling too I'm in love with your body Last night you were in my room And now my bedsheets smell like you Every day discovering something brand new I'm in love with your body",
+        "avg_logprob": -0.14687500496705372
+      },
+      {
+        "id": 7,
+        "start": 170.08,
+        "end": 185.774,
+        "text": " I'm in love with the shape of you Come on, be my baby, come on",
+        "avg_logprob": -0.3449835494944924
+      },
+      {
+        "id": 8,
+        "start": 198.312,
+        "end": 217.55,
+        "text": " I'm in love with the shape of you You push and pull like a magnet do Although my heart is falling too I'm in love with your body Last night you were in my room And by my bed she smelled like you Everyday discovering something brand new I'm in love with your body",
+        "avg_logprob": -0.1957165950845028
+      },
+      {
+        "id": 9,
+        "start": 231.235,
+        "end": 238.171,
+        "text": " with your body everyday discovery something brand new I'm in love with the shape of you",
+        "avg_logprob": -0.1944444469279713
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "JGwWNGJdvx8",
+    "uploader": "Ed Sheeran",
+    "audio_file": "corpus/01_music_videos_audio/audio/JGwWNGJdvx8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8424650,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.897284,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:16:39Z"
+  },
+  "status": "success",
+  "error": null
+}

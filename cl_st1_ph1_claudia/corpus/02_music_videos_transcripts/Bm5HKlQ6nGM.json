@@ -1,0 +1,77 @@
+{
+  "corpus_id": "Bm5HKlQ6nGM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Bm5HKlQ6nGM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Bm5HKlQ6nGM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Bm5HKlQ6nGM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Well, it's one for the money, two for the show Three to get it ready, now go, cat, go But don't you step on my boot, please, you Well, you can do anything, but lay off of my boot, please, you Well, you can knock me down or step on my face Slam to my name or a little bit of plays Or do anything that you want to do But, ah, ah, honey, lay off of my shoes And don't you step on my boot, please, you You can burn my house, steal my car, drink my liquor from an old fruit jar. Do anything that you want to do. Honey, lay home for One for the money, two for the show You get ready to go, can't go without you Well, you can do anything But they all come out blue suede shoes Blue, blue, blue suede shoes Blue, blue, blue suede shoes, yeah Blue, blue, blue suede shoes, baby Blue, blue, blue suede shoes You can do anything But they all come out blue suede shoes",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 12.502,
+        "end": 41.324,
+        "text": " Well, it's one for the money, two for the show Three to get it ready, now go, cat, go But don't you step on my boot, please, you Well, you can do anything, but lay off of my boot, please, you Well, you can knock me down or step on my face Slam to my name or a little bit of plays Or do anything that you want to do But, ah, ah, honey, lay off of my shoes And don't you step on my boot, please, you",
+        "avg_logprob": -0.15090090465975237
+      },
+      {
+        "id": 2,
+        "start": 42.691,
+        "end": 72.391,
+        "text": " You can burn my house, steal my car, drink my liquor from an old fruit jar. Do anything that you want to do. Honey, lay home for",
+        "avg_logprob": -0.2824337121212121
+      },
+      {
+        "id": 3,
+        "start": 74.399,
+        "end": 103.525,
+        "text": " One for the money, two for the show You get ready to go, can't go without you",
+        "avg_logprob": -0.3865327437718709
+      },
+      {
+        "id": 4,
+        "start": 106.968,
+        "end": 127.943,
+        "text": " Well, you can do anything But they all come out blue suede shoes Blue, blue, blue suede shoes Blue, blue, blue suede shoes, yeah Blue, blue, blue suede shoes, baby Blue, blue, blue suede shoes You can do anything But they all come out blue suede shoes",
+        "avg_logprob": -0.17319711538461538
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Bm5HKlQ6nGM",
+    "uploader": "Yelserp22",
+    "audio_file": "corpus/01_music_videos_audio/audio/Bm5HKlQ6nGM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4237628,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 29.085443,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:54:00Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,77 @@
+{
+  "corpus_id": "ZTt649Hvtxs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ZTt649Hvtxs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ZTt649Hvtxs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ZTt649Hvtxs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "How about it, gang, for Harold Melvin and the mighty Blue Notes. We loved each other, we just couldn't get along Take a good look at me, I'm in business Was this real love? The love I loved Was gonna be love The love I loved I will never You know never Love again I can't remember nothing, no, no, no For the good time we used to share My love, I'm so sad and lonely But without you my life is so dead I'm sorry to say You go your way and I'll go my way It hurts deep inside",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 4.317,
+        "text": " How about it, gang, for Harold Melvin and the mighty Blue Notes.",
+        "avg_logprob": -0.15303308823529413
+      },
+      {
+        "id": 2,
+        "start": 79.175,
+        "end": 105.685,
+        "text": " We loved each other, we just couldn't get along Take a good look at me, I'm in business",
+        "avg_logprob": -0.2211277238700701
+      },
+      {
+        "id": 3,
+        "start": 111.507,
+        "end": 138.862,
+        "text": " Was this real love? The love I loved Was gonna be love The love I loved I will never You know never Love again I can't remember nothing, no, no, no",
+        "avg_logprob": -0.2970861389830306
+      },
+      {
+        "id": 4,
+        "start": 139.79,
+        "end": 162.082,
+        "text": " For the good time we used to share My love, I'm so sad and lonely But without you my life is so dead I'm sorry to say You go your way and I'll go my way It hurts deep inside",
+        "avg_logprob": -0.1501736044883728
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "ZTt649Hvtxs",
+    "uploader": "Philadelphia International Records",
+    "audio_file": "corpus/01_music_videos_audio/audio/ZTt649Hvtxs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6538818,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.827518,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:08:16Z"
+  },
+  "status": "success",
+  "error": null
+}

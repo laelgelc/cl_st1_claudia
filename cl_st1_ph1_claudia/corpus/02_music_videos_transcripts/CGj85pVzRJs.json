@@ -1,0 +1,84 @@
+{
+  "corpus_id": "CGj85pVzRJs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CGj85pVzRJs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/CGj85pVzRJs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/CGj85pVzRJs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "When I find myself in times of trouble Mother Mary comes to me Speaking words of wisdom, let it be And in my hour of darkness She is standing right in front of me Speaking words of wisdom, let it be Let it be, let it be, let it be, let it be Whisper words of wisdom, let it be And when the broken hearted people living in the world agree There will be an answer, let it be For though they may be parted, there is still a chance that they will see There will be an answer, let it be Let it be Let it be Whisper words of wisdom Let it be Let it be when the night is cloudy there is still a light that shines on me shine until tomorrow let it be i wake up to the sound of music mother mary comes to me",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 14.543,
+        "end": 26.457,
+        "text": " When I find myself in times of trouble Mother Mary comes to me Speaking words of wisdom, let it be",
+        "avg_logprob": -0.07266512445428154
+      },
+      {
+        "id": 2,
+        "start": 27.487,
+        "end": 52.276,
+        "text": " And in my hour of darkness She is standing right in front of me Speaking words of wisdom, let it be Let it be, let it be, let it be, let it be Whisper words of wisdom, let it be",
+        "avg_logprob": -0.0950797900874564
+      },
+      {
+        "id": 3,
+        "start": 53.457,
+        "end": 78.348,
+        "text": " And when the broken hearted people living in the world agree There will be an answer, let it be For though they may be parted, there is still a chance that they will see There will be an answer, let it be",
+        "avg_logprob": -0.07670084883769353
+      },
+      {
+        "id": 4,
+        "start": 94.919,
+        "end": 115.962,
+        "text": " Let it be Let it be Whisper words of wisdom Let it be Let it be",
+        "avg_logprob": -0.17154947916666666
+      },
+      {
+        "id": 5,
+        "start": 162.638,
+        "end": 182.551,
+        "text": " when the night is cloudy there is still a light that shines on me shine until tomorrow let it be i wake up to the sound of music mother mary comes to me",
+        "avg_logprob": -0.04492187350988388
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "CGj85pVzRJs",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/CGj85pVzRJs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7770032,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.267261,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:53:24Z"
+  },
+  "status": "success",
+  "error": null
+}

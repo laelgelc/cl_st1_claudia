@@ -1,0 +1,147 @@
+{
+  "corpus_id": "mcCK99wHrk0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/mcCK99wHrk0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/mcCK99wHrk0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/mcCK99wHrk0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Here's Wonder Mike, Hank, and Master G, the Sugarhill Gang. Now what you hear is not a test. I'm rapping to the beat. And me, the groove, and my friends are going to try to move your feet. You see, I am Wonder Mike, and I like to say hello. the boogie to the boogie say up jump the boogie to the bang bang boogie let's rock you don't stop rock the rhythm that'll make your body rock well so far you've heard my voice but I brought two friends along and next on the mic is my man Hank come on Hank sing that song check it out when I'm pimp the dimp the ladies pimp the women fight for my dear life but I'm the grand master with the three emcees that shop the house for the young ladies and when you come inside into the front You do the freak spank, you do the bump, and when the sucker emcees try to prove a point, we'll check this trio. And when the serious join us from sun to sun and from day to day, I sit down and write a brand new rhyme because they say that miracles never cease. I've created a devastating masterpiece. I'm going to rock the mic so you can't resist. Everybody! I said it was like this when I was coming home late one dark afternoon. Reporter stopped me for an interview. She said she's heard stories and she's heard I said, by the way, baby, what's your name? Said, I go by the name Lois Lane. You could be my boyfriend, you surely can. Just let me quit my boyfriend called Superman. I said, he's a fairy, I do suppose, flying through the air in pantyhose. He may be very sexy or even cute, but he looks like a sucker in a blue and red suit. I said, you need a man who's got finesse and his whole name across his chest. He may be able to fly all through the night, but can he rock a party till the early light? He can satisfy you with his little worm, but I can rush you out with my super sperm. I go do it. I go do it. I go do it, do it, do it. And I'm here, and I'm there. I'm Big Bang Hank, I'm everywhere. Don't care, let's do it. I don't stop, y'all. I take a talk, y'all. You don't stop. I go hotel, motel. And what you gonna do today? If I don't get a fly girl, I'm gonna get some smack to drive off in a deaf O.J. Everybody go hotel, motel, Holiday Inn. You say, if your girl starts acting up, then you take a friend. I say, skip, guys, what can I say? I can't fit them all inside my O.J., so I just take half and bust them out. I give the rest to Matthew, so he can shock the house. I said a M-A-S, a T-E-R, a G with a double E. I said I'd go by the unforgettable name of the man they call a Master G. Well, my name is known all over the world by all the foxes, ladies, and the pretty girls. I'm going down in history as the baddest rapper there ever could be. Now I'm feeling the highs and you're feeling the lows. While you're sitting and you're sitting, then damn, they start doing the freak. I said, bam, I ride it out of your seat. Then you throw your hands high in the air. You rock it to the middle, shake it there with air. You rock it to the beat without a care. Who's the short shot MCs for the affair? Now, I'm not as tall as the rest of the gang, but I rap to the beat just the same. I got a little face and a pair of eyes. All I'm here to do, ladies, is hypnotize. Singing on and on and on and on and on. The beat don't stop until I break it down. I'm gonna Come on, girls, get on the floor. Come on, y'all, give me what you got, because I'm guaranteed to make you rock. I said, one, two, three, four. Tell me, wonder, Mike, what are you waiting for? Say the hip hop, the hippie to the hippie, the hip, hip, hop, and you don't stop. Rock it to the bang, bang, the boogie. Say up, jump, the boogie to the rhythm of the boogie to beat. Skiddle-a-bee-bop, we rock a Scooby-Doo. And guess what? America, we love you. Because you rock and roll with us so much so you can rock till you're 101 years old. I don't mean to brag. I don't mean to boast. But we're like hot Butter on a breakfast toast. Rock it out. Ba-ba-ba-ba. Ba-ba-ba-ba to the boogie, then bang-bang the boogie to the beat. Beat is so unique. Come on, everybody, and dance to the beat. Have you ever went over a friend's house to eat, and the food just ain't no good? I mean, the macaroni's soggy, the peas are mushed, and the chicken tastes like wood. So you try to play it off like you think you can by saying that you're full. And then your friend says, mama, he's just being polite. He ain't finished, uh-uh, that's it. So your heart starts pumping, and you think of a lie, and you say that you already ate. And your friend says, ma'am, there's plenty of food, certainly pile some more on your plate. But while the sticky food's steaming, your mind starts to dream another moment, it's time to leave. And then you look at your plate, and your chicken's slowly rotting into something that looks like cheese. Oh, so you say, that's it, I got to leave this place, I don't care what these people think. I'm just sitting here making myself nauseous with this ugly food that stinks. Oh, so you bust out the door while it's still closed, still sick from the food you ate. And then you run to the store for quick relief from a bottle of K.O. Pectate. And then you call your friend two weeks later to see how he has been. And he says, I understand about the food, babe, but, bubba, we're still friends. With a hip hop, the hippie to the hippie, the hip hip hopper, you don't stop the rocker to the bang bang boogie. Say, up, jump the boogie to the rhythm of the boogie to beat.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 14,
+    "segments": [
+      {
+        "id": 1,
+        "start": 2.157,
+        "end": 27.267,
+        "text": " Here's Wonder Mike, Hank, and Master G, the Sugarhill Gang. Now what you hear is not a test. I'm rapping to the beat. And me, the groove, and my friends are going to try to move your feet. You see, I am Wonder Mike, and I like to say hello.",
+        "avg_logprob": -0.13056344606659628
+      },
+      {
+        "id": 2,
+        "start": 32.684,
+        "end": 58.958,
+        "text": " the boogie to the boogie say up jump the boogie to the bang bang boogie let's rock you don't stop rock the rhythm that'll make your body rock well so far you've heard my voice but I brought two friends along and next on the mic is my man Hank come on Hank sing that song check it out when I'm pimp the dimp the ladies pimp the women fight for my dear life but I'm the grand master with the three emcees that shop the house for the young ladies and when you come inside into the front",
+        "avg_logprob": -0.1417119624822036
+      },
+      {
+        "id": 3,
+        "start": 58.958,
+        "end": 83.478,
+        "text": " You do the freak spank, you do the bump, and when the sucker emcees try to prove a point, we'll check this trio. And when the serious join us from sun to sun and from day to day, I sit down and write a brand new rhyme because they say that miracles never cease. I've created a devastating masterpiece. I'm going to rock the mic so you can't resist. Everybody! I said it was like this when I was coming home late one dark afternoon. Reporter stopped me for an interview. She said she's heard stories and she's heard",
+        "avg_logprob": -0.18359375198682149
+      },
+      {
+        "id": 4,
+        "start": 83.478,
+        "end": 98.581,
+        "text": " I said, by the way, baby, what's your name? Said, I go by the name Lois Lane.",
+        "avg_logprob": -0.2537560004454393
+      },
+      {
+        "id": 5,
+        "start": 98.581,
+        "end": 127.724,
+        "text": " You could be my boyfriend, you surely can. Just let me quit my boyfriend called Superman. I said, he's a fairy, I do suppose, flying through the air in pantyhose. He may be very sexy or even cute, but he looks like a sucker in a blue and red suit. I said, you need a man who's got finesse and his whole name across his chest. He may be able to fly all through the night, but can he rock a party till the early light? He can satisfy you with his little worm, but I can rush you out with my super sperm. I go do it. I go do it. I go do it, do it, do it.",
+        "avg_logprob": -0.10894982871555146
+      },
+      {
+        "id": 6,
+        "start": 127.724,
+        "end": 131.926,
+        "text": " And I'm here, and I'm there. I'm Big Bang Hank, I'm everywhere.",
+        "avg_logprob": -0.15318080073311216
+      },
+      {
+        "id": 7,
+        "start": 135.52,
+        "end": 165.44,
+        "text": " Don't care, let's do it. I don't stop, y'all. I take a talk, y'all. You don't stop. I go hotel, motel. And what you gonna do today? If I don't get a fly girl, I'm gonna get some smack to drive off in a deaf O.J. Everybody go hotel, motel, Holiday Inn. You say, if your girl starts acting up, then you take a friend. I say, skip, guys, what can I say? I can't fit them all inside my O.J., so I just take half and bust them out. I give the rest to Matthew, so he can shock the house.",
+        "avg_logprob": -0.13056507563754305
+      },
+      {
+        "id": 8,
+        "start": 165.44,
+        "end": 184.981,
+        "text": " I said a M-A-S, a T-E-R, a G with a double E. I said I'd go by the unforgettable name of the man they call a Master G. Well, my name is known all over the world by all the foxes, ladies, and the pretty girls. I'm going down in history as the baddest rapper there ever could be. Now I'm feeling the highs and you're feeling the lows.",
+        "avg_logprob": -0.10779587805588195
+      },
+      {
+        "id": 9,
+        "start": 189.065,
+        "end": 215.187,
+        "text": " While you're sitting and you're sitting, then damn, they start doing the freak. I said, bam, I ride it out of your seat. Then you throw your hands high in the air. You rock it to the middle, shake it there with air. You rock it to the beat without a care. Who's the short shot MCs for the affair? Now, I'm not as tall as the rest of the gang, but I rap to the beat just the same. I got a little face and a pair of eyes. All I'm here to do, ladies, is hypnotize. Singing on and on and on and on and on. The beat don't stop until I break it down.",
+        "avg_logprob": -0.2037671290031851
+      },
+      {
+        "id": 10,
+        "start": 238.171,
+        "end": 242.052,
+        "text": " I'm gonna",
+        "avg_logprob": -0.6005859375
+      },
+      {
+        "id": 11,
+        "start": 251.03,
+        "end": 280.915,
+        "text": " Come on, girls, get on the floor. Come on, y'all, give me what you got, because I'm guaranteed to make you rock. I said, one, two, three, four. Tell me, wonder, Mike, what are you waiting for? Say the hip hop, the hippie to the hippie, the hip, hip, hop, and you don't stop. Rock it to the bang, bang, the boogie. Say up, jump, the boogie to the rhythm of the boogie to beat. Skiddle-a-bee-bop, we rock a Scooby-Doo. And guess what? America, we love you. Because you rock and roll with us so much so you can rock till you're 101 years old. I don't mean to brag. I don't mean to boast. But we're like hot",
+        "avg_logprob": -0.15925481227728036
+      },
+      {
+        "id": 12,
+        "start": 280.915,
+        "end": 310.902,
+        "text": " Butter on a breakfast toast. Rock it out. Ba-ba-ba-ba. Ba-ba-ba-ba to the boogie, then bang-bang the boogie to the beat. Beat is so unique. Come on, everybody, and dance to the beat. Have you ever went over a friend's house to eat, and the food just ain't no good? I mean, the macaroni's soggy, the peas are mushed, and the chicken tastes like wood. So you try to play it off like you think you can by saying that you're full. And then your friend says, mama, he's just being polite. He ain't finished, uh-uh, that's it. So your heart starts pumping, and you think of a lie, and you say that you already ate.",
+        "avg_logprob": -0.12694156522581562
+      },
+      {
+        "id": 13,
+        "start": 310.902,
+        "end": 335.793,
+        "text": " And your friend says, ma'am, there's plenty of food, certainly pile some more on your plate. But while the sticky food's steaming, your mind starts to dream another moment, it's time to leave. And then you look at your plate, and your chicken's slowly rotting into something that looks like cheese. Oh, so you say, that's it, I got to leave this place, I don't care what these people think. I'm just sitting here making myself nauseous with this ugly food that stinks. Oh, so you bust out the door while it's still closed, still sick from the food you ate.",
+        "avg_logprob": -0.08264802698802232
+      },
+      {
+        "id": 14,
+        "start": 335.793,
+        "end": 356.583,
+        "text": " And then you run to the store for quick relief from a bottle of K.O. Pectate. And then you call your friend two weeks later to see how he has been. And he says, I understand about the food, babe, but, bubba, we're still friends. With a hip hop, the hippie to the hippie, the hip hip hopper, you don't stop the rocker to the bang bang boogie. Say, up, jump the boogie to the rhythm of the boogie to beat.",
+        "avg_logprob": -0.14138550673965858
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "mcCK99wHrk0",
+    "uploader": "Sugarhill Records",
+    "audio_file": "corpus/01_music_videos_audio/audio/mcCK99wHrk0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 12029130,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 8.129822,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:20:01Z"
+  },
+  "status": "success",
+  "error": null
+}

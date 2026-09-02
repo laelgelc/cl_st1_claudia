@@ -1,0 +1,91 @@
+{
+  "corpus_id": "-DQdB7dTm1A",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/-DQdB7dTm1A.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/-DQdB7dTm1A.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/-DQdB7dTm1A.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "In a white room with black curtains near the station Black roof country, no gold pavements In your dark eyes You said no strings could secure Just beginning the party. She was kindness in the hard crowd. I'll sleep in this place with the lonely crowd",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 11.472,
+        "end": 37.105,
+        "text": " In a white room with black curtains near the station Black roof country, no gold pavements",
+        "avg_logprob": -0.16827713502080818
+      },
+      {
+        "id": 2,
+        "start": 46.15,
+        "end": 48.547,
+        "text": " In your dark eyes",
+        "avg_logprob": -0.1517578125
+      },
+      {
+        "id": 3,
+        "start": 80.727,
+        "end": 83.765,
+        "text": " You said no strings could secure",
+        "avg_logprob": -0.10030692177159446
+      },
+      {
+        "id": 4,
+        "start": 111.237,
+        "end": 113.802,
+        "text": " Just beginning",
+        "avg_logprob": -0.3665364583333333
+      },
+      {
+        "id": 5,
+        "start": 159.297,
+        "end": 165.406,
+        "text": " the party. She was kindness in the hard crowd.",
+        "avg_logprob": -0.3269856845339139
+      },
+      {
+        "id": 6,
+        "start": 187.58,
+        "end": 203.24,
+        "text": " I'll sleep in this place with the lonely crowd",
+        "avg_logprob": -0.35919744860042224
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "-DQdB7dTm1A",
+    "uploader": "Cream - Band",
+    "audio_file": "corpus/01_music_videos_audio/audio/-DQdB7dTm1A.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9612768,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 46.674236,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:18Z"
+  },
+  "status": "success",
+  "error": null
+}

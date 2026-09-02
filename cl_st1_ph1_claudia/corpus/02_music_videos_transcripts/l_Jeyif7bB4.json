@@ -1,0 +1,98 @@
+{
+  "corpus_id": "l_Jeyif7bB4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/l_Jeyif7bB4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/l_Jeyif7bB4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/l_Jeyif7bB4.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Back in effect with me, Westwood, living large. And it's time to bring the noise. A video produced and directed by Dominic Savage and Oscar Unison from the National Film School. The new kings of rap, Public Enemy. How low can you go? Death roll? What a brother no Once again back is the incredible Rhyme Animal, the uncannable The public enemy number one Five votes that freeze They sell cause a brother like me said, well, Farrakhan's a prophet and I think you want to listen to what he can say to you. What you ought to do is follow for now. Hell of the people say, make a miracle. Keep up the lyrical. Black is back all in. We're going to win. Check it out. Yeah, yo, come on. Here we go again. Turn it up. Bring the noise. Turn it up. Yo, Chuck, this ain't we do black, man. Bring the noise. And the lies are so dope Listen for lessons I'm saying inside music That the critics are all blasting me for They'll never care for the brothers and sisters Why cause the country has us up for the war We got to get them straight Come on now Get from in front of me, the crowd runs with me, my DJ has warm exacts, I call him Norm, you know, he can cut a record from side to side, so what the ride, the glide, what should be safer than a suicide? Soul control beat is the father of your rock and roll, music's for watching, for witching, you call a band man, making a music of music, but you can't do it, you know, you call them demos, but we ride limos too. What you gonna do, rap is not afraid of you, beat is for Sonny Bono, beat is for your co-owner, run the MC first, and a DJ could be a band, stand in the zone, be B and LL is well held. Watch this for end drag. Still it can rock felt. Ever forever. Universal it will sell. Time for me to exit. Terminator exit. Respect is due. The P.E. Posse out of Strong Island. That's the conscious brother Chuck D, Flavor Flav, Terminate X, Professor Griff, and the security of the first world. And they'll be in the UK in June on tour with Run DMC.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 10.696,
+        "text": " Back in effect with me, Westwood, living large. And it's time to bring the noise. A video produced and directed by Dominic Savage and Oscar Unison from the National Film School. The new kings of rap, Public Enemy.",
+        "avg_logprob": -0.10874999925494194
+      },
+      {
+        "id": 2,
+        "start": 14.341,
+        "end": 31.503,
+        "text": " How low can you go? Death roll? What a brother no Once again back is the incredible Rhyme Animal, the uncannable The public enemy number one Five votes that freeze",
+        "avg_logprob": -0.42639802788433273
+      },
+      {
+        "id": 3,
+        "start": 38.573,
+        "end": 66.94,
+        "text": " They sell cause a brother like me said, well, Farrakhan's a prophet and I think you want to listen to what he can say to you. What you ought to do is follow for now. Hell of the people say, make a miracle. Keep up the lyrical. Black is back all in. We're going to win. Check it out. Yeah, yo, come on. Here we go again. Turn it up. Bring the noise. Turn it up. Yo, Chuck, this ain't we do black, man. Bring the noise.",
+        "avg_logprob": -0.15678418395865676
+      },
+      {
+        "id": 4,
+        "start": 79.057,
+        "end": 91.105,
+        "text": " And the lies are so dope Listen for lessons I'm saying inside music That the critics are all blasting me for They'll never care for the brothers and sisters Why cause the country has us up for the war We got to get them straight Come on now",
+        "avg_logprob": -0.21093750701231115
+      },
+      {
+        "id": 5,
+        "start": 112.672,
+        "end": 140.532,
+        "text": " Get from in front of me, the crowd runs with me, my DJ has warm exacts, I call him Norm, you know, he can cut a record from side to side, so what the ride, the glide, what should be safer than a suicide? Soul control beat is the father of your rock and roll, music's for watching, for witching, you call a band man, making a music of music, but you can't do it, you know, you call them demos, but we ride limos too. What you gonna do, rap is not afraid of you, beat is for Sonny Bono, beat is for your co-owner, run the MC first, and a DJ could be a band, stand in the zone, be",
+        "avg_logprob": -0.19187898241030943
+      },
+      {
+        "id": 6,
+        "start": 142.456,
+        "end": 150.877,
+        "text": " B and LL is well held. Watch this for end drag. Still it can rock felt. Ever forever. Universal it will sell. Time for me to exit. Terminator exit.",
+        "avg_logprob": -0.4206730692814558
+      },
+      {
+        "id": 7,
+        "start": 172.375,
+        "end": 185.133,
+        "text": " Respect is due. The P.E. Posse out of Strong Island. That's the conscious brother Chuck D, Flavor Flav, Terminate X, Professor Griff, and the security of the first world. And they'll be in the UK in June on tour with Run DMC.",
+        "avg_logprob": -0.08773053522969855
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "l_Jeyif7bB4",
+    "uploader": "TheOriginal808beats",
+    "audio_file": "corpus/01_music_videos_audio/audio/l_Jeyif7bB4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5923582,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.74637,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:00:52Z"
+  },
+  "status": "success",
+  "error": null
+}

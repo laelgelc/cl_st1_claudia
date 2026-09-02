@@ -1,0 +1,84 @@
+{
+  "corpus_id": "gZXjFV8nT4E",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/gZXjFV8nT4E.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/gZXjFV8nT4E.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/gZXjFV8nT4E.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Greg. You are the sunshine of my life. That's why I'll always be around. Yeah. If you are the apple of my eye, you are. Forever you'll stay in my heart. I feel like this is the beginning, yeah. Though I've loved you for a million years, And if I thought our love wasn't there, I'd find myself drowning in my own tears. Whoa, whoa, whoa, you're the sunshine of my life. Yeah. So I'll always stay around. Mm, mm, yeah, yeah. of my life forever you'd stay in my home you must have known that I was wrong that's why you came to my rescue and I know inside of you. Whoa, whoa.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.217,
+        "end": 29.579,
+        "text": " Greg. You are the sunshine of my life. That's why I'll always be around. Yeah.",
+        "avg_logprob": -0.12650922685861588
+      },
+      {
+        "id": 2,
+        "start": 31.84,
+        "end": 57.777,
+        "text": " If you are the apple of my eye, you are. Forever you'll stay in my heart. I feel like this is the beginning, yeah. Though I've loved you for a million years,",
+        "avg_logprob": -0.14748475900510463
+      },
+      {
+        "id": 3,
+        "start": 61.338,
+        "end": 88.895,
+        "text": " And if I thought our love wasn't there, I'd find myself drowning in my own tears. Whoa, whoa, whoa, you're the sunshine of my life. Yeah. So I'll always stay around. Mm, mm, yeah, yeah.",
+        "avg_logprob": -0.20643029533899748
+      },
+      {
+        "id": 4,
+        "start": 91.983,
+        "end": 119.523,
+        "text": " of my life forever you'd stay in my home you must have known that I was wrong that's why you came to my rescue and I know",
+        "avg_logprob": -0.29947918057441714
+      },
+      {
+        "id": 5,
+        "start": 127.184,
+        "end": 132.719,
+        "text": " inside of you. Whoa, whoa.",
+        "avg_logprob": -0.7786458333333334
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "gZXjFV8nT4E",
+    "uploader": "Harry Varthakouris",
+    "audio_file": "corpus/01_music_videos_audio/audio/gZXjFV8nT4E.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6649530,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.972237,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:20:41Z"
+  },
+  "status": "success",
+  "error": null
+}

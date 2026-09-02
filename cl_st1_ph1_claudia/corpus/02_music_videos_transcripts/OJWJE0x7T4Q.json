@@ -1,0 +1,105 @@
+{
+  "corpus_id": "OJWJE0x7T4Q",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/OJWJE0x7T4Q.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/OJWJE0x7T4Q.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/OJWJE0x7T4Q.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "um If you just lay down your tracks You could have an airplane flying If you bring your blue sky back All you do is call me I'll be anything you need Up and down, all around the bend You could have fun, the car bumping There's amusement never ends I wanna be a sledgehammer Why don't you call my name? Hold up your beer, sledgehammer This will be my testimony Show me round your fruitcake Cause I will be your honey Any sweet as can be I wanna be Your stage hammer Why don't you call my name You better call the stage hammer This could be my testimony I'm your stage Let there be no doubt about it Speech Speech Shed my skin. Shed my skin. This is the new stuff. This is the new stuff. I go dancing in. We go dancing in. Won't you show for me? Show for me. I will show for you. Show for you. Show for me. Come on",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 14.459,
+        "end": 28.769,
+        "text": " um",
+        "avg_logprob": -1.4208984375
+      },
+      {
+        "id": 2,
+        "start": 67.008,
+        "end": 88.186,
+        "text": " If you just lay down your tracks You could have an airplane flying If you bring your blue sky back All you do is call me I'll be anything you need",
+        "avg_logprob": -0.06995738636363637
+      },
+      {
+        "id": 3,
+        "start": 96.809,
+        "end": 122.071,
+        "text": " Up and down, all around the bend You could have fun, the car bumping There's amusement never ends I wanna be a sledgehammer Why don't you call my name?",
+        "avg_logprob": -0.23910361646037354
+      },
+      {
+        "id": 4,
+        "start": 123.961,
+        "end": 148.733,
+        "text": " Hold up your beer, sledgehammer This will be my testimony Show me round your fruitcake Cause I will be your honey",
+        "avg_logprob": -0.3100961446762085
+      },
+      {
+        "id": 5,
+        "start": 157.762,
+        "end": 185.639,
+        "text": " Any sweet as can be I wanna be Your stage hammer Why don't you call my name You better call the stage hammer This could be my testimony I'm your stage",
+        "avg_logprob": -0.20174631914671728
+      },
+      {
+        "id": 6,
+        "start": 188.947,
+        "end": 196.152,
+        "text": " Let there be no doubt about it Speech Speech",
+        "avg_logprob": -0.2644531220197678
+      },
+      {
+        "id": 7,
+        "start": 227.776,
+        "end": 254.27,
+        "text": " Shed my skin. Shed my skin. This is the new stuff. This is the new stuff. I go dancing in. We go dancing in. Won't you show for me? Show for me. I will show for you. Show for you. Show for me.",
+        "avg_logprob": -0.2064924599795506
+      },
+      {
+        "id": 8,
+        "start": 265.829,
+        "end": 277.81,
+        "text": " Come on",
+        "avg_logprob": -0.8138020833333334
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "OJWJE0x7T4Q",
+    "uploader": "Peter Gabriel",
+    "audio_file": "corpus/01_music_videos_audio/audio/OJWJE0x7T4Q.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11041632,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.195917,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:13:20Z"
+  },
+  "status": "success",
+  "error": null
+}

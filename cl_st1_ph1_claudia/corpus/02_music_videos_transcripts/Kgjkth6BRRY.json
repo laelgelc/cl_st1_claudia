@@ -1,0 +1,84 @@
+{
+  "corpus_id": "Kgjkth6BRRY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Kgjkth6BRRY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Kgjkth6BRRY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Kgjkth6BRRY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Get in really close. Aw, super kawaii. Gwen! Uh-huh, this my shit. All the girls dump your feet like this. Few times I've been around that joke, so it's I heard that you were talking shh And you didn't think that I would hear it People hear you talking like that Getting everybody fired up So I'm ready to attack Gonna lead the fight Gonna get a touchdown Gonna take you out That's right, put your pom-poms down Getting everybody fired up A few times I've been around that track So it's not just gonna happen like that Cause it ain't no hollaback girl It ain't no hollaback girl A few times I've been around that track So that's right, dude, meet me at the bleachers No principals, no student teachers Both of us wanna be the winner But there can only be one So I'm gonna fight, gonna give it my all Gonna make you fall, gonna suck it to you That's right, I'm the last one standing Another one bites the dust A few times I've been around that track So it's not just gonna happen like that Cause there ain't no hollering back, girl There ain't no hollering back, girl A few times I've been around that track So it's not just gonna happen like that B-A-N-A-N-A-S This shit is bananas B-A-N-A-N-A-S This shit is bananas B-A-N-A-N-A-S This shit is bananas B-A-N-A-N-A-S A few times I've been around that track So it's not just gonna happen like this Cause there ain't no hollaback girl There ain't no hollaback girl A few times I've been around that track So it's not just gonna happen Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.297,
+        "end": 15.708,
+        "text": " Get in really close. Aw, super kawaii. Gwen! Uh-huh, this my shit. All the girls dump your feet like this. Few times I've been around that joke, so it's",
+        "avg_logprob": -0.2736110978656345
+      },
+      {
+        "id": 2,
+        "start": 46.218,
+        "end": 75.952,
+        "text": " I heard that you were talking shh And you didn't think that I would hear it People hear you talking like that Getting everybody fired up So I'm ready to attack Gonna lead the fight Gonna get a touchdown Gonna take you out That's right, put your pom-poms down Getting everybody fired up A few times I've been around that track So it's not just gonna happen like that Cause it ain't no hollaback girl It ain't no hollaback girl A few times I've been around that track",
+        "avg_logprob": -0.08940972394689366
+      },
+      {
+        "id": 3,
+        "start": 99.475,
+        "end": 129.344,
+        "text": " So that's right, dude, meet me at the bleachers No principals, no student teachers Both of us wanna be the winner But there can only be one So I'm gonna fight, gonna give it my all Gonna make you fall, gonna suck it to you That's right, I'm the last one standing Another one bites the dust A few times I've been around that track So it's not just gonna happen like that Cause there ain't no hollering back, girl There ain't no hollering back, girl A few times I've been around that track So it's not just gonna happen like that",
+        "avg_logprob": -0.059058778874930884
+      },
+      {
+        "id": 4,
+        "start": 154.505,
+        "end": 182.551,
+        "text": " B-A-N-A-N-A-S This shit is bananas B-A-N-A-N-A-S This shit is bananas B-A-N-A-N-A-S This shit is bananas B-A-N-A-N-A-S A few times I've been around that track So it's not just gonna happen like this Cause there ain't no hollaback girl There ain't no hollaback girl A few times I've been around that track So it's not just gonna happen",
+        "avg_logprob": -0.06187102593228978
+      },
+      {
+        "id": 5,
+        "start": 205.012,
+        "end": 205.754,
+        "text": " Thank you.",
+        "avg_logprob": -0.826171875
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Kgjkth6BRRY",
+    "uploader": "Gwen Stefani",
+    "audio_file": "corpus/01_music_videos_audio/audio/Kgjkth6BRRY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6725320,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.106456,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:13:09Z"
+  },
+  "status": "success",
+  "error": null
+}

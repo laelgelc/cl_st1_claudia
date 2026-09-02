@@ -1,0 +1,91 @@
+{
+  "corpus_id": "nkXyreJV604",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nkXyreJV604.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/nkXyreJV604.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/nkXyreJV604.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "And here's to you, Mrs. Robinson. Jesus loves you more than you will know. Whoa, whoa, whoa. God bless you, please, Mrs. Robinson. Heaven holds a place for those who pray. And here's to you, Mrs. Robinson Jesus loves you more than you will know God bless you, please, Mrs. Robinson. Heaven holds a place for those who pray. Hey, hey, hey. Hey, hey, hey. It's a little secret, just the Robinsons are there. Most of all, you've got to hide it from the kids. Cuckoo, ca-choo, Mrs. Robinson. Jesus loves you more than you will know. Whoa, whoa, whoa. God bless you, please, Mrs. Robinson. Heaven holds a place for those who pray. on a sofa on a Sunday afternoon. Going to the candidates' debate. Laugh about it, shout about it, when you've got to choose. Every way you look at it, you lose. Where have you gone, Jordan Maggio? Our nation turns its That you say, Mrs. Robinson Joe to Joe has left and gone away",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 33.359,
+        "end": 50.268,
+        "text": " And here's to you, Mrs. Robinson. Jesus loves you more than you will know. Whoa, whoa, whoa. God bless you, please, Mrs. Robinson. Heaven holds a place for those who pray.",
+        "avg_logprob": -0.04952256911330753
+      },
+      {
+        "id": 2,
+        "start": 62.063,
+        "end": 89.89,
+        "text": " And here's to you, Mrs. Robinson Jesus loves you more than you will know",
+        "avg_logprob": -0.1789279513888889
+      },
+      {
+        "id": 3,
+        "start": 93.603,
+        "end": 105.432,
+        "text": " God bless you, please, Mrs. Robinson. Heaven holds a place for those who pray. Hey, hey, hey. Hey, hey, hey.",
+        "avg_logprob": -0.046539308270439506
+      },
+      {
+        "id": 4,
+        "start": 122.341,
+        "end": 149.881,
+        "text": " It's a little secret, just the Robinsons are there. Most of all, you've got to hide it from the kids. Cuckoo, ca-choo, Mrs. Robinson. Jesus loves you more than you will know. Whoa, whoa, whoa. God bless you, please, Mrs. Robinson. Heaven holds a place for those who pray.",
+        "avg_logprob": -0.0786903804462207
+      },
+      {
+        "id": 5,
+        "start": 160.799,
+        "end": 187.478,
+        "text": " on a sofa on a Sunday afternoon. Going to the candidates' debate. Laugh about it, shout about it, when you've got to choose. Every way you look at it, you lose. Where have you gone, Jordan Maggio? Our nation turns its",
+        "avg_logprob": -0.15894885713403875
+      },
+      {
+        "id": 6,
+        "start": 193.385,
+        "end": 199.966,
+        "text": " That you say, Mrs. Robinson Joe to Joe has left and gone away",
+        "avg_logprob": -0.33105469308793545
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "nkXyreJV604",
+    "uploader": "05vs1 ",
+    "audio_file": "corpus/01_music_videos_audio/audio/nkXyreJV604.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7473560,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.477524,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:14:29Z"
+  },
+  "status": "success",
+  "error": null
+}

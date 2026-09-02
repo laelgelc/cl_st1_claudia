@@ -1,0 +1,84 @@
+{
+  "corpus_id": "Trj_rKK_ai8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Trj_rKK_ai8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Trj_rKK_ai8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Trj_rKK_ai8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "That girl's gonna make me fall. Bye. Bye. Bye. We'll be right back. We'll be right back. To make you take your clothes off and go dancing in the rain. To make you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 12.485,
+        "end": 21.192,
+        "text": " That girl's gonna make me fall.",
+        "avg_logprob": -0.2771267361111111
+      },
+      {
+        "id": 2,
+        "start": 30.322,
+        "end": 44.48,
+        "text": " Bye. Bye. Bye.",
+        "avg_logprob": -0.7706473384584699
+      },
+      {
+        "id": 3,
+        "start": 89.62,
+        "end": 107.255,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.5343191793986729
+      },
+      {
+        "id": 4,
+        "start": 116.249,
+        "end": 122.729,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.4589843579701015
+      },
+      {
+        "id": 5,
+        "start": 150.623,
+        "end": 156.749,
+        "text": " To make you take your clothes off and go dancing in the rain. To make you.",
+        "avg_logprob": -0.19037828319951108
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Trj_rKK_ai8",
+    "uploader": "Ricky Martin",
+    "audio_file": "corpus/01_music_videos_audio/audio/Trj_rKK_ai8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6981668,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 47.582263,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:17:15Z"
+  },
+  "status": "success",
+  "error": null
+}

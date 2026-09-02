@@ -1,0 +1,77 @@
+{
+  "corpus_id": "nm6DO_7px1I",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nm6DO_7px1I.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/nm6DO_7px1I.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/nm6DO_7px1I.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I got the power! Power! Power! Hey! Yeah! Like the thunder, the whiff, I snap Attack, thrust the bat In this thing called rap Feel it like it's double, round double On the heavenly level, bang the bass Turn up the sound I'm the lyrical Jesse J. Say I'm fresh when my voice goes through the rest of the mic. Propose that I am holy. Copy written lyrics only can be stolen if they are snapped. Don't need the police to try to save them. Your voice will see. So be. Stay off my back. Or I will attack. And you don't want that. I've got the power. My voice won't stew the rest of the life. For folks that I am holding. Copywritten lyrics only can be stolen if they all snap. Don't need the police to try to save them. Your voice will sing. So please stay off my back or I will attack. And you don't want that.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.465,
+        "end": 29.815,
+        "text": " I got the power! Power! Power! Hey! Yeah! Like the thunder, the whiff, I snap Attack, thrust the bat In this thing called rap Feel it like it's double, round double On the heavenly level, bang the bass Turn up the sound",
+        "avg_logprob": -0.5306818420236761
+      },
+      {
+        "id": 2,
+        "start": 33.528,
+        "end": 38.995,
+        "text": " I'm the lyrical Jesse J.",
+        "avg_logprob": -0.5937499880790711
+      },
+      {
+        "id": 3,
+        "start": 120.097,
+        "end": 143.3,
+        "text": " Say I'm fresh when my voice goes through the rest of the mic. Propose that I am holy. Copy written lyrics only can be stolen if they are snapped. Don't need the police to try to save them. Your voice will see. So be. Stay off my back. Or I will attack. And you don't want that. I've got the power.",
+        "avg_logprob": -0.3386769356665673
+      },
+      {
+        "id": 4,
+        "start": 187.124,
+        "end": 202.565,
+        "text": " My voice won't stew the rest of the life. For folks that I am holding. Copywritten lyrics only can be stolen if they all snap. Don't need the police to try to save them. Your voice will sing. So please stay off my back or I will attack. And you don't want that.",
+        "avg_logprob": -0.2620192307692308
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "nm6DO_7px1I",
+    "uploader": "SNAP!",
+    "audio_file": "corpus/01_music_videos_audio/audio/nm6DO_7px1I.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7350958,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.275806,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:15:28Z"
+  },
+  "status": "success",
+  "error": null
+}

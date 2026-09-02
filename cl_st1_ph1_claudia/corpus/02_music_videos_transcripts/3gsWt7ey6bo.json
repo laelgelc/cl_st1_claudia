@@ -1,0 +1,77 @@
+{
+  "corpus_id": "3gsWt7ey6bo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/3gsWt7ey6bo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/3gsWt7ey6bo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/3gsWt7ey6bo.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "So mess up, I want you here In my room, I want you here Now we're gonna be face to face Now I wanna be your dog Now I wanna be your dog And now I'm ready to feel your hand And lose my heart on the burning sand And now I wanna be your dog And now I wanna be your Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 32.026,
+        "end": 51.854,
+        "text": " So mess up, I want you here In my room, I want you here Now we're gonna be face to face",
+        "avg_logprob": -0.16125
+      },
+      {
+        "id": 2,
+        "start": 64.561,
+        "end": 73.37,
+        "text": " Now I wanna be your dog Now I wanna be your dog",
+        "avg_logprob": -0.34585335621467006
+      },
+      {
+        "id": 3,
+        "start": 119.422,
+        "end": 141.865,
+        "text": " And now I'm ready to feel your hand And lose my heart on the burning sand And now I wanna be your dog And now I wanna be your",
+        "avg_logprob": -0.15297379224531113
+      },
+      {
+        "id": 4,
+        "start": 182.753,
+        "end": 188.592,
+        "text": " Thank you.",
+        "avg_logprob": -0.5957031100988388
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "3gsWt7ey6bo",
+    "uploader": "The Stooges - Topic",
+    "audio_file": "corpus/01_music_videos_audio/audio/3gsWt7ey6bo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6034294,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 26.809821,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:54:17Z"
+  },
+  "status": "success",
+  "error": null
+}

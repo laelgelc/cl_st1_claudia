@@ -1,0 +1,91 @@
+{
+  "corpus_id": "TJAfLE39ZZ8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/TJAfLE39ZZ8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/TJAfLE39ZZ8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/TJAfLE39ZZ8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "With his same old same bed. We only said goodbye with words I died a hundred times You go back to her and I go back to I go back to us I love you much It's not enough is like a pipe and I'm a tiny penny rolling up the walls inside we only said goodbye with words I died a hundred times you go back We already said goodbye Blast Blast Blast Blast Blast I know better I know better We only said goodbye with words I died a hundred times You go back to her and I'll go back to her We only said goodbye with words I died a hundred times",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 23.96,
+        "end": 28.28,
+        "text": " With his same old same bed.",
+        "avg_logprob": -0.4311523549258709
+      },
+      {
+        "id": 2,
+        "start": 78.719,
+        "end": 106.478,
+        "text": " We only said goodbye with words I died a hundred times You go back to her and I go back to I go back to us I love you much It's not enough",
+        "avg_logprob": -0.09034597873687744
+      },
+      {
+        "id": 3,
+        "start": 114.865,
+        "end": 138.862,
+        "text": " is like a pipe and I'm a tiny penny rolling up the walls inside we only said goodbye with words I died a hundred times you go back",
+        "avg_logprob": -0.1910156304637591
+      },
+      {
+        "id": 4,
+        "start": 144.785,
+        "end": 147.215,
+        "text": " We already said goodbye",
+        "avg_logprob": -0.3078125
+      },
+      {
+        "id": 5,
+        "start": 173.354,
+        "end": 202.328,
+        "text": " Blast Blast Blast Blast Blast I know better I know better",
+        "avg_logprob": -0.28791360294117646
+      },
+      {
+        "id": 6,
+        "start": 202.666,
+        "end": 226.527,
+        "text": " We only said goodbye with words I died a hundred times You go back to her and I'll go back to her We only said goodbye with words I died a hundred times",
+        "avg_logprob": -0.11618303614003318
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "TJAfLE39ZZ8",
+    "uploader": "Amy Winehouse",
+    "audio_file": "corpus/01_music_videos_audio/audio/TJAfLE39ZZ8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7683096,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.839253,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:03:49Z"
+  },
+  "status": "success",
+  "error": null
+}

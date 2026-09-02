@@ -1,0 +1,112 @@
+{
+  "corpus_id": "Bm5iA4Zupek",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Bm5iA4Zupek.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Bm5iA4Zupek.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Bm5iA4Zupek.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You've been putting up with my stitches way too long I'm so gifted at finding what I don't like the most So I think it's time for us to have a toast. Let's have a toast for the douchebags. Let's have a toast for the scumbags. Every one of them that I know. Let's have a toast for the jerkos. Gotta never take work off. Baby, I got a plan. Run away fast as you can. Find pictures in my email I sent this girl a picture of my, hey I don't know what it is with females But I'm not too good at that, hey See I can have me a good girl And still be addicted to them hood rats And I just blame everything on you At least you know that's what I'm good at And I always find, yeah I always find Yeah I always find something wrong You've been putting up with my issues way too long I'm so gifted at finding what I don't like the most So I think it's time for us to have a toast Let's have a toast for the douchebags Let's have a toast for the Let's have a toast for the scumbags Every one of them that I know Let's have a toast for the jerk-offs That'll never take work off Baby, I got a plan Run away fast as you can Run away from it, baby Run away, run away from me baby Run away, did I make you get crazy? Just run away, did you know I'm playing? Run away as fast as you can Run away from me baby Run away, run away from me baby Run away, then I'm about to get crazy. Why can't she just run away? Baby, I got a plan. Run away as fast as you can. 24-7, 365, Jesus stays on my mind. Ah, ah, ah. I did it, alright, alright, I admit it. Now pick your next move, you can leave or live with it. It could buy cream with that mother off top off. Split and go where? Back to wearing knockoffs. Ha, knock it off. Neiman's, shop it off. Let's talk over my ties. Waitress, top it off. Floors like oaks just wanna fly in your Freddy loafers. You can't blame them, they ain't never seen Versace sofas. Every bag, every blouse, every bracelet comes with a price tag. Baby, face it. You should leave if you can't accept the basics. Plenty of dwarves in a baller looking matrix. Invisibly set, the Rolex is faceless. I'm just young, rich, and tasteless. P.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 86.06,
+        "end": 95.257,
+        "text": " You've been putting up with my stitches way too long I'm so gifted at finding what I don't like the most",
+        "avg_logprob": -0.12039062976837159
+      },
+      {
+        "id": 2,
+        "start": 97.028,
+        "end": 122.206,
+        "text": " So I think it's time for us to have a toast. Let's have a toast for the douchebags. Let's have a toast for the scumbags. Every one of them that I know. Let's have a toast for the jerkos. Gotta never take work off. Baby, I got a plan. Run away fast as you can.",
+        "avg_logprob": -0.03560494102940366
+      },
+      {
+        "id": 3,
+        "start": 123.32,
+        "end": 150.505,
+        "text": " Find pictures in my email I sent this girl a picture of my, hey I don't know what it is with females But I'm not too good at that, hey See I can have me a good girl And still be addicted to them hood rats And I just blame everything on you At least you know that's what I'm good at And I always find, yeah I always find Yeah I always find something wrong",
+        "avg_logprob": -0.10556175621847312
+      },
+      {
+        "id": 4,
+        "start": 152.21,
+        "end": 161.66,
+        "text": " You've been putting up with my issues way too long I'm so gifted at finding what I don't like the most",
+        "avg_logprob": -0.09953124761581421
+      },
+      {
+        "id": 5,
+        "start": 163.195,
+        "end": 191.748,
+        "text": " So I think it's time for us to have a toast Let's have a toast for the douchebags Let's have a toast for the Let's have a toast for the scumbags Every one of them that I know Let's have a toast for the jerk-offs That'll never take work off Baby, I got a plan Run away fast as you can Run away from it, baby",
+        "avg_logprob": -0.07826967739764555
+      },
+      {
+        "id": 6,
+        "start": 191.748,
+        "end": 219.136,
+        "text": " Run away, run away from me baby Run away, did I make you get crazy? Just run away, did you know I'm playing? Run away as fast as you can Run away from me baby Run away, run away from me baby",
+        "avg_logprob": -0.23578124344348908
+      },
+      {
+        "id": 7,
+        "start": 220.638,
+        "end": 238.036,
+        "text": " Run away, then I'm about to get crazy. Why can't she just run away? Baby, I got a plan. Run away as fast as you can. 24-7, 365, Jesus stays on my mind. Ah, ah, ah.",
+        "avg_logprob": -0.17718160714743272
+      },
+      {
+        "id": 8,
+        "start": 238.036,
+        "end": 265.93,
+        "text": " I did it, alright, alright, I admit it. Now pick your next move, you can leave or live with it. It could buy cream with that mother off top off. Split and go where? Back to wearing knockoffs. Ha, knock it off. Neiman's, shop it off. Let's talk over my ties. Waitress, top it off. Floors like oaks just wanna fly in your Freddy loafers. You can't blame them, they ain't never seen Versace sofas. Every bag, every blouse, every bracelet comes with a price tag. Baby, face it.",
+        "avg_logprob": -0.18184055235442215
+      },
+      {
+        "id": 9,
+        "start": 265.93,
+        "end": 277.135,
+        "text": " You should leave if you can't accept the basics. Plenty of dwarves in a baller looking matrix. Invisibly set, the Rolex is faceless. I'm just young, rich, and tasteless. P.",
+        "avg_logprob": -0.15340169767538706
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Bm5iA4Zupek",
+    "uploader": "Kanye West",
+    "audio_file": "corpus/01_music_videos_audio/audio/Bm5iA4Zupek.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8893506,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 7.26864,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:02:36Z"
+  },
+  "status": "success",
+  "error": null
+}

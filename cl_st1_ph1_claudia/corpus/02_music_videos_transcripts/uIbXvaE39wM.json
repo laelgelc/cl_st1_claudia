@@ -1,0 +1,98 @@
+{
+  "corpus_id": "uIbXvaE39wM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uIbXvaE39wM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/uIbXvaE39wM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/uIbXvaE39wM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I know there's pain Why do you lock yourself up in these chains? No one can change your life except for you Don't ever let anyone step all over you Just open your heart and your mind Is it really fair to feel This way inside Some day somebody's gonna make you wanna turn around and say goodbye Until then, baby, are you gonna let them hold you down and make you cry? Don't you know, don't you know Things could change, things could go your way If you hold on for one more day If you hold on for one more day Hold on for one more day It's time to change your mind, now, now Someday somebody's gonna make you wanna turn around and say goodbye Until then, baby, are you gonna let them hold you down and make you cry? Don't you know, don't you know Things could change, things could go your way If you hold on Hold on for one more day Can you hold on for one more day? Things will go your way Hold on for one more day I know that there is pain But you hold on for one more day And break free from the chains Yeah, I know that there is pain, but you hold on for one more day and you break free, break from the chains. Someday somebody's gonna make you wanna turn around and say goodbye. Until then, baby, are you gonna let them hold you down and make you cry? Don't you know, don't you know, things have changed, things are going your way. Throw you away",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 13.835,
+        "end": 42.961,
+        "text": " I know there's pain Why do you lock yourself up in these chains? No one can change your life except for you Don't ever let anyone step all over you Just open your heart and your mind Is it really fair to feel",
+        "avg_logprob": -0.044672541320323944
+      },
+      {
+        "id": 2,
+        "start": 43.417,
+        "end": 70.248,
+        "text": " This way inside Some day somebody's gonna make you wanna turn around and say goodbye Until then, baby, are you gonna let them hold you down and make you cry? Don't you know, don't you know Things could change, things could go your way If you hold on for one more day If you hold on for one more day",
+        "avg_logprob": -0.14368206089821414
+      },
+      {
+        "id": 3,
+        "start": 74.433,
+        "end": 76.643,
+        "text": " Hold on for one more day",
+        "avg_logprob": -0.08300781037126269
+      },
+      {
+        "id": 4,
+        "start": 112.621,
+        "end": 132.955,
+        "text": " It's time to change your mind, now, now Someday somebody's gonna make you wanna turn around and say goodbye Until then, baby, are you gonna let them hold you down and make you cry? Don't you know, don't you know Things could change, things could go your way If you hold on",
+        "avg_logprob": -0.18653846153846154
+      },
+      {
+        "id": 5,
+        "start": 134.103,
+        "end": 157.07,
+        "text": " Hold on for one more day Can you hold on for one more day? Things will go your way Hold on for one more day I know that there is pain But you hold on for one more day And break free from the chains",
+        "avg_logprob": -0.17087765894037613
+      },
+      {
+        "id": 6,
+        "start": 157.829,
+        "end": 181.252,
+        "text": " Yeah, I know that there is pain, but you hold on for one more day and you break free, break from the chains. Someday somebody's gonna make you wanna turn around and say goodbye. Until then, baby, are you gonna let them hold you down and make you cry? Don't you know, don't you know, things have changed, things are going your way.",
+        "avg_logprob": -0.1321289125829935
+      },
+      {
+        "id": 7,
+        "start": 199.831,
+        "end": 201.063,
+        "text": " Throw you away",
+        "avg_logprob": -0.5820312649011612
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "uIbXvaE39wM",
+    "uploader": "Wilson Phillips",
+    "audio_file": "corpus/01_music_videos_audio/audio/uIbXvaE39wM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7053000,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.44729,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:13:03Z"
+  },
+  "status": "success",
+  "error": null
+}

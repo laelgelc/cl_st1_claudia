@@ -1,0 +1,84 @@
+{
+  "corpus_id": "pBkHHoOIIn8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/pBkHHoOIIn8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/pBkHHoOIIn8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/pBkHHoOIIn8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Keep my hands on myself Think I'll dust them off Put them back up on the shelf Kiss my little baby girl as a knee Am I coming out of left field? Ooh, I'm a rebel just for kicks now I've been feeling it since 1966 now Might be over now, but I feel it now Let me kick it like it's 1986 now Might be over now, but I feel it still Got another mouth to feed Leave it with a baby's ear, mama call a grave digger Gone with the fallen leaves Am I coming out of left feet? Ooh, I'm a rebel just for kicks now I've been feeling it since 1966 now We could fight a war for peace Give in to that easy living Goodbye to my hopes and dreams Your lover's an abyss for my heart to eclipse now Might be over now, but I feel it still Ooh, I'm a rebel just for kicks now I've been feeling it since 1966 now Fight back! Fight back! Fight back!",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 13.615,
+        "end": 35.637,
+        "text": " Keep my hands on myself Think I'll dust them off Put them back up on the shelf Kiss my little baby girl as a knee Am I coming out of left field? Ooh, I'm a rebel just for kicks now I've been feeling it since 1966 now Might be over now, but I feel it now",
+        "avg_logprob": -0.22358630526633488
+      },
+      {
+        "id": 2,
+        "start": 41.813,
+        "end": 69.387,
+        "text": " Let me kick it like it's 1986 now Might be over now, but I feel it still Got another mouth to feed Leave it with a baby's ear, mama call a grave digger Gone with the fallen leaves Am I coming out of left feet? Ooh, I'm a rebel just for kicks now I've been feeling it since 1966 now",
+        "avg_logprob": -0.1368303575686046
+      },
+      {
+        "id": 3,
+        "start": 79.343,
+        "end": 95.392,
+        "text": " We could fight a war for peace Give in to that easy living Goodbye to my hopes and dreams",
+        "avg_logprob": -0.36054688692092896
+      },
+      {
+        "id": 4,
+        "start": 127.066,
+        "end": 142.135,
+        "text": " Your lover's an abyss for my heart to eclipse now Might be over now, but I feel it still Ooh, I'm a rebel just for kicks now I've been feeling it since 1966 now",
+        "avg_logprob": -0.10661204413669866
+      },
+      {
+        "id": 5,
+        "start": 158.183,
+        "end": 169.979,
+        "text": " Fight back! Fight back! Fight back!",
+        "avg_logprob": -0.4136718660593033
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "pBkHHoOIIn8",
+    "uploader": "Portugal. The Man",
+    "audio_file": "corpus/01_music_videos_audio/audio/pBkHHoOIIn8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5447294,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.62292,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:04:23Z"
+  },
+  "status": "success",
+  "error": null
+}

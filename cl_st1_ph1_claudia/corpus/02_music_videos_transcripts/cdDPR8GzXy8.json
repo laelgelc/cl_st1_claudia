@@ -1,0 +1,84 @@
+{
+  "corpus_id": "cdDPR8GzXy8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/cdDPR8GzXy8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/cdDPR8GzXy8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/cdDPR8GzXy8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Maybe I'm amazed at the way you love me all the time Maybe I'm afraid of the way I love you Maybe I'm amazed at the way you pulled me out of time You hung me on a line Maybe I'm amazed at the way Baby, won't you help? that he doesn't really understand. Baby, I'm a man. Baby, you're the only one who doesn't ever help me. Baby, won't you help me to understand? Baby, I'm amazed the way you're with me. Baby, I'm amazed at the way you help me sing my song. Right me when I'm wrong. Baby, I'm amazed at the way I breathe. Oh, oh, oh",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 18.307,
+        "end": 41.341,
+        "text": " Maybe I'm amazed at the way you love me all the time Maybe I'm afraid of the way I love you Maybe I'm amazed at the way you pulled me out of time You hung me on a line Maybe I'm amazed at the way",
+        "avg_logprob": -0.13578124731779098
+      },
+      {
+        "id": 2,
+        "start": 63.278,
+        "end": 65.506,
+        "text": " Baby, won't you help?",
+        "avg_logprob": -0.3815918080508709
+      },
+      {
+        "id": 3,
+        "start": 107.288,
+        "end": 131.808,
+        "text": " that he doesn't really understand. Baby, I'm a man. Baby, you're the only one who doesn't ever help me. Baby, won't you help me to understand? Baby, I'm amazed the way you're with me.",
+        "avg_logprob": -0.1689644566937989
+      },
+      {
+        "id": 4,
+        "start": 139.958,
+        "end": 151.94,
+        "text": " Baby, I'm amazed at the way you help me sing my song. Right me when I'm wrong. Baby, I'm amazed at the way I breathe.",
+        "avg_logprob": -0.21863511511508157
+      },
+      {
+        "id": 5,
+        "start": 178.282,
+        "end": 181.64,
+        "text": " Oh, oh, oh",
+        "avg_logprob": -1.0930989185969036
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "cdDPR8GzXy8",
+    "uploader": "PAUL McCARTNEY",
+    "audio_file": "corpus/01_music_videos_audio/audio/cdDPR8GzXy8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7454242,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.356545,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:57Z"
+  },
+  "status": "success",
+  "error": null
+}

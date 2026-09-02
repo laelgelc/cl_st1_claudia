@@ -1,0 +1,70 @@
+{
+  "corpus_id": "-tJYN-eG1zk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/-tJYN-eG1zk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/-tJYN-eG1zk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/-tJYN-eG1zk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "We will, we will rock you. We will, we will rock you. You're a young man, hot man, shouting in the street Gonna take on the world someday You got blood on your face, a big disgrace Waving your banner all over the place We will, we will rock you Sing it! Bleeding with your eyes gonna make you zombie someday. You got mud on your face. Big disgrace. Somebody better put your bag into your place. We will, we will rock you. Sing it. We will, we will rock you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 19.572,
+        "end": 39.62,
+        "text": " We will, we will rock you. We will, we will rock you.",
+        "avg_logprob": -0.2522977941176471
+      },
+      {
+        "id": 2,
+        "start": 42.202,
+        "end": 59.178,
+        "text": " You're a young man, hot man, shouting in the street Gonna take on the world someday You got blood on your face, a big disgrace Waving your banner all over the place We will, we will rock you Sing it!",
+        "avg_logprob": -0.09000651336585481
+      },
+      {
+        "id": 3,
+        "start": 67.717,
+        "end": 87.14,
+        "text": " Bleeding with your eyes gonna make you zombie someday. You got mud on your face. Big disgrace. Somebody better put your bag into your place. We will, we will rock you. Sing it. We will, we will rock you.",
+        "avg_logprob": -0.11671874910593033
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "-tJYN-eG1zk",
+    "uploader": "Queen Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/-tJYN-eG1zk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4303014,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.472819,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:12:32Z"
+  },
+  "status": "success",
+  "error": null
+}

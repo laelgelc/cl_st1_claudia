@@ -1,0 +1,119 @@
+{
+  "corpus_id": "IwOfCgkyEj0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/IwOfCgkyEj0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/IwOfCgkyEj0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/IwOfCgkyEj0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Part of the time you dressed so fine Through the bumps of time in your prime Then you People call, say beware doll You're bound to fall, you thought they were all Kidding you You used to laugh about Everybody that was hanging out Now you don't talk so loud Now you don't seem so proud About having to be scrounging Your decks with me on Complete unknown Like a rolling stone Oh, you've gone to the finest school All right, Miss Lowly But you know you only used to get Juiced in it Nobody's ever taught you how to live out on the street And now you're gonna have to get used to it You say you never compromise With a mystery tramp But now you realize He's not selling any alibis As you stare into the vacuum of his eyes And say, do you want to make a deal? You never turned around to see the frowns on the jugglers and the clowns when they all did tricks for you. You never understood that it ain't no good. You shouldn't let other people get your kicks for you. You used to ride on a groomed horse with your diplomat who carried on his shoulder a Siamese cat. Ain't it hard when you discover that he really wasn't wearing Princess on the steeple and all the pretty people They're all drinking thinking that they got it made Exchanging all precious gifts But you better take your diamond ring You better pawn it, babe You used to be So amused at Napoleon and Rex and the language that he used. Go to him now, he calls you, you can't refuse. When you ain't got nothing, you got nothing to lose. You're invisible now, you got no secrets to conceal. Like a rolling stone",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 10,
+    "segments": [
+      {
+        "id": 1,
+        "start": 12.299,
+        "end": 36.818,
+        "text": " Part of the time you dressed so fine Through the bumps of time in your prime Then you People call, say beware doll You're bound to fall, you thought they were all Kidding you You used to laugh about",
+        "avg_logprob": -0.2690972169240316
+      },
+      {
+        "id": 2,
+        "start": 37.443,
+        "end": 58.503,
+        "text": " Everybody that was hanging out Now you don't talk so loud Now you don't seem so proud About having to be scrounging Your decks with me on",
+        "avg_logprob": -0.17614745534956455
+      },
+      {
+        "id": 3,
+        "start": 74.855,
+        "end": 100.859,
+        "text": " Complete unknown Like a rolling stone Oh, you've gone to the finest school All right, Miss Lowly But you know you only used to get Juiced in it",
+        "avg_logprob": -0.2254135976819431
+      },
+      {
+        "id": 4,
+        "start": 102.732,
+        "end": 112.182,
+        "text": " Nobody's ever taught you how to live out on the street And now you're gonna have to get used to it",
+        "avg_logprob": -0.054443358443677425
+      },
+      {
+        "id": 5,
+        "start": 115.034,
+        "end": 138.254,
+        "text": " You say you never compromise With a mystery tramp But now you realize He's not selling any alibis As you stare into the vacuum of his eyes And say, do you want to make a deal?",
+        "avg_logprob": -0.13448660253059297
+      },
+      {
+        "id": 6,
+        "start": 179.53,
+        "end": 197.958,
+        "text": " You never turned around to see the frowns on the jugglers and the clowns when they all did tricks for you. You never understood that it ain't no good. You shouldn't let other people get your kicks for you.",
+        "avg_logprob": -0.061835936307907104
+      },
+      {
+        "id": 7,
+        "start": 201.029,
+        "end": 218.495,
+        "text": " You used to ride on a groomed horse with your diplomat who carried on his shoulder a Siamese cat. Ain't it hard when you discover that he really wasn't wearing",
+        "avg_logprob": -0.2224506649531816
+      },
+      {
+        "id": 8,
+        "start": 267.618,
+        "end": 289.707,
+        "text": " Princess on the steeple and all the pretty people They're all drinking thinking that they got it made Exchanging all precious gifts But you better take your diamond ring You better pawn it, babe You used to be",
+        "avg_logprob": -0.1301780578701995
+      },
+      {
+        "id": 9,
+        "start": 290.703,
+        "end": 313.754,
+        "text": " So amused at Napoleon and Rex and the language that he used. Go to him now, he calls you, you can't refuse. When you ain't got nothing, you got nothing to lose. You're invisible now, you got no secrets to conceal.",
+        "avg_logprob": -0.1030815998437228
+      },
+      {
+        "id": 10,
+        "start": 335.978,
+        "end": 358.642,
+        "text": " Like a rolling stone",
+        "avg_logprob": -0.678515625
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "IwOfCgkyEj0",
+    "uploader": "Bob Dylan",
+    "audio_file": "corpus/01_music_videos_audio/audio/IwOfCgkyEj0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11517918,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.468443,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:02:14Z"
+  },
+  "status": "success",
+  "error": null
+}

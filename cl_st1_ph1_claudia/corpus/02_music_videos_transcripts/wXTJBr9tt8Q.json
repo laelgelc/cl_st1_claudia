@@ -1,0 +1,84 @@
+{
+  "corpus_id": "wXTJBr9tt8Q",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wXTJBr9tt8Q.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/wXTJBr9tt8Q.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/wXTJBr9tt8Q.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Thank you. Thank you very much. We'd like to carry on now with a song from our new album in England, and it'll be out in America shortly. And it's a song featuring just Paul, and it's called Yesterday. Yesterday All my troubles seem so far Now it looks as though they're here to stay Oh, I believe in yesterday suddenly I'm not half the man I used to be There's a shadow hanging over me Oh, yesterday came suddenly had to go I don't know she wouldn't say I said something wrong now I long for yesterday yesterday love was such an easy game to play now I need a place to hide away oh I'd be And yesterday, why she had to go I don't know, she wouldn't say I said something wrong, now I know For yesterday, yesterday Love was such an easy game to play Now I need a place to hide away Oh, I believe in yesterday",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 4.705,
+        "end": 31.385,
+        "text": " Thank you. Thank you very much. We'd like to carry on now with a song from our new album in England, and it'll be out in America shortly. And it's a song featuring just Paul, and it's called Yesterday. Yesterday All my troubles seem so far",
+        "avg_logprob": -0.10334429929130956
+      },
+      {
+        "id": 2,
+        "start": 34.0,
+        "end": 59.161,
+        "text": " Now it looks as though they're here to stay Oh, I believe in yesterday suddenly I'm not half the man I used to be There's a shadow hanging over me Oh, yesterday came suddenly",
+        "avg_logprob": -0.09086914099752903
+      },
+      {
+        "id": 3,
+        "start": 62.367,
+        "end": 92.236,
+        "text": " had to go I don't know she wouldn't say I said something wrong now I long for yesterday yesterday love was such an easy game to play now I need a place to hide away oh I'd be",
+        "avg_logprob": -0.16694568168549312
+      },
+      {
+        "id": 4,
+        "start": 93.434,
+        "end": 122.56,
+        "text": " And yesterday, why she had to go I don't know, she wouldn't say I said something wrong, now I know For yesterday, yesterday Love was such an easy game to play",
+        "avg_logprob": -0.1615954017952869
+      },
+      {
+        "id": 5,
+        "start": 122.881,
+        "end": 135.537,
+        "text": " Now I need a place to hide away Oh, I believe in yesterday",
+        "avg_logprob": -0.16731770634651183
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "wXTJBr9tt8Q",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/wXTJBr9tt8Q.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4892244,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.04658,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:20:13Z"
+  },
+  "status": "success",
+  "error": null
+}

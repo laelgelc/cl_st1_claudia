@@ -1,0 +1,77 @@
+{
+  "corpus_id": "wtqdAX07dc4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wtqdAX07dc4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/wtqdAX07dc4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/wtqdAX07dc4.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I've begun to feel so strange every time I speak your name. That's funny. You say that you are so helpless too, that you don't know what to do. Each night I pray there will never come a day when you up and take And I wonder what it is I feel for you. You'll always be the only one for me Meeting you was my destiny You can be sure I will never let you down When you need me I'll be around And darling you'll always be the only one for me Heaven made you special And darling, you've always been the only one for me. Heaven made you mine.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 32.009,
+        "end": 58.992,
+        "text": " I've begun to feel so strange every time I speak your name. That's funny. You say that you are so helpless too, that you don't know what to do. Each night I pray there will never come a day when you up and take",
+        "avg_logprob": -0.08368389609341438
+      },
+      {
+        "id": 2,
+        "start": 64.662,
+        "end": 68.965,
+        "text": " And I wonder what it is I feel for you.",
+        "avg_logprob": -0.15250650669137636
+      },
+      {
+        "id": 3,
+        "start": 106.36,
+        "end": 134.069,
+        "text": " You'll always be the only one for me Meeting you was my destiny You can be sure I will never let you down When you need me I'll be around And darling you'll always be the only one for me Heaven made you special",
+        "avg_logprob": -0.04003906319849193
+      },
+      {
+        "id": 4,
+        "start": 190.803,
+        "end": 196.945,
+        "text": " And darling, you've always been the only one for me. Heaven made you mine.",
+        "avg_logprob": -0.14216694549510353
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "wtqdAX07dc4",
+    "uploader": "Louis De Nennie",
+    "audio_file": "corpus/01_music_videos_audio/audio/wtqdAX07dc4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7880746,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.780547,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:16:00Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,98 @@
+{
+  "corpus_id": "iP6XpLQM2Cs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/iP6XpLQM2Cs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/iP6XpLQM2Cs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/iP6XpLQM2Cs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Hello. Wake up in the morning feeling like P. Diddy. Grab my glasses, I'm out the door. I'm gonna hit this city. Before I leave, brush my teeth with a bottle of Jack. Cause when I leave for the night, I ain't coming back. I'm talking pedicure on our toes, toes. Trying on all our clothes, clothes. Boys blowing up our phones, phones. Drop top in Just trying to get a little bit tipsy. Don't stop. Urban unless they look like Mick Jagger I'm talking about everybody getting crunk, crunk Boys try to touch my junk, junk Gonna smack them if you getting too drunk, drunk Night, night, we going till they kick us out The police shut us down, down Police shut us down, down Popo shut us down Don't stop You build me up, you break me down My heart it pounds, yeah you got me With my hands up, you got me now You got that sound, yeah you got me You build me up, you break me down My heart it pounds, yeah you got me No, the party don't start till I walk in Don't start Let's see, my friend. What's up, my friend from La Corrita? A good one from this side.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 3.423,
+        "text": " Hello.",
+        "avg_logprob": -2.0078125
+      },
+      {
+        "id": 2,
+        "start": 9.835,
+        "end": 34.017,
+        "text": " Wake up in the morning feeling like P. Diddy. Grab my glasses, I'm out the door. I'm gonna hit this city. Before I leave, brush my teeth with a bottle of Jack. Cause when I leave for the night, I ain't coming back. I'm talking pedicure on our toes, toes. Trying on all our clothes, clothes. Boys blowing up our phones, phones. Drop top in",
+        "avg_logprob": -0.08971058255569501
+      },
+      {
+        "id": 3,
+        "start": 37.831,
+        "end": 42.556,
+        "text": " Just trying to get a little bit tipsy. Don't stop.",
+        "avg_logprob": -0.20833333134651183
+      },
+      {
+        "id": 4,
+        "start": 87.308,
+        "end": 106.428,
+        "text": " Urban unless they look like Mick Jagger I'm talking about everybody getting crunk, crunk Boys try to touch my junk, junk Gonna smack them if you getting too drunk, drunk Night, night, we going till they kick us out The police shut us down, down Police shut us down, down Popo shut us down Don't stop",
+        "avg_logprob": -0.21060267793280738
+      },
+      {
+        "id": 5,
+        "start": 139.334,
+        "end": 160.411,
+        "text": " You build me up, you break me down My heart it pounds, yeah you got me With my hands up, you got me now You got that sound, yeah you got me You build me up, you break me down My heart it pounds, yeah you got me",
+        "avg_logprob": -0.08238636390729384
+      },
+      {
+        "id": 6,
+        "start": 169.709,
+        "end": 174.468,
+        "text": " No, the party don't start till I walk in Don't start",
+        "avg_logprob": -0.19153645435969036
+      },
+      {
+        "id": 7,
+        "start": 208.657,
+        "end": 214.478,
+        "text": " Let's see, my friend. What's up, my friend from La Corrita? A good one from this side.",
+        "avg_logprob": -0.5972222045615867
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "iP6XpLQM2Cs",
+    "uploader": "kesha",
+    "audio_file": "corpus/01_music_videos_audio/audio/iP6XpLQM2Cs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6908850,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.682127,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:18:12Z"
+  },
+  "status": "success",
+  "error": null
+}

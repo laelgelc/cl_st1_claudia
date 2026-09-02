@@ -1,0 +1,112 @@
+{
+  "corpus_id": "JLYOOezs3DA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/JLYOOezs3DA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/JLYOOezs3DA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/JLYOOezs3DA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Get up, stand up, stand up for your right Get up, stand up, stand up for your right Get up, stand up, DJ, stand up for your right One more time Get up, stand up, DJ, don't give up the fight Stand up for your right You get up, you stand up Don't give up the fight Get up, stand up Stand up for your right You get up, stand up Don't give up the fight You get up, stand up Stand up for your right You get up, stand up Don't give up the fight Don't give up the fight Don't give up the fight Don't give up the fight Don't give up the fight, don't give up the fight, no Don't give up the fight, don't give up the fight Sick and tired of your hisses, kisses Time to go to heaven in a hisses, kisses We know and we understand Almighty God is a living man You can fool some people sometimes But you can't fool all the people all the time Now you see the light Stand up for your right Go, yo, go, yo, yo, yo. Children, stand up for your right. Stand up for your right. Stand up for your right. Stand up for your right. Most people think great God will come from the sky, take away everything, make everybody be high. And now you see the light You stand up for your right Get up, stand up What did you say? Stand up for your right One more time Get up, stand up What did you say? Don't give up the fight Don't give up the fight Don't give up the fight Don't give up the fight Don't give up the fight Oh, yo, yo, yo, yo. Oh, yo, yo, yo. Oh, yo. Oh, yo. Oh, yo, yo, yo, yo. Oh, yo, yo, yo, yo. Oh, yo. Oh, yo. Oh, yo, yo, yo, yo.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.807,
+        "end": 25.985,
+        "text": " Get up, stand up, stand up for your right Get up, stand up, stand up for your right Get up, stand up, DJ, stand up for your right One more time Get up, stand up, DJ, don't give up the fight",
+        "avg_logprob": -0.09404481188306268
+      },
+      {
+        "id": 2,
+        "start": 30.423,
+        "end": 46.015,
+        "text": " Stand up for your right You get up, you stand up Don't give up the fight Get up, stand up Stand up for your right",
+        "avg_logprob": -0.12964709051724138
+      },
+      {
+        "id": 3,
+        "start": 46.015,
+        "end": 73.741,
+        "text": " You get up, stand up Don't give up the fight You get up, stand up Stand up for your right You get up, stand up Don't give up the fight Don't give up the fight Don't give up the fight Don't give up the fight",
+        "avg_logprob": -0.06734664503622938
+      },
+      {
+        "id": 4,
+        "start": 77.943,
+        "end": 96.758,
+        "text": " Don't give up the fight, don't give up the fight, no Don't give up the fight, don't give up the fight Sick and tired of your hisses, kisses Time to go to heaven in a hisses, kisses",
+        "avg_logprob": -0.16246810737921266
+      },
+      {
+        "id": 5,
+        "start": 96.758,
+        "end": 120.738,
+        "text": " We know and we understand Almighty God is a living man You can fool some people sometimes But you can't fool all the people all the time Now you see the light Stand up for your right",
+        "avg_logprob": -0.15715144536434075
+      },
+      {
+        "id": 6,
+        "start": 136.786,
+        "end": 165.98,
+        "text": " Go, yo, go, yo, yo, yo. Children, stand up for your right. Stand up for your right. Stand up for your right. Stand up for your right. Most people think great God will come from the sky, take away everything, make everybody be high.",
+        "avg_logprob": -0.19041314114958552
+      },
+      {
+        "id": 7,
+        "start": 170.148,
+        "end": 188.474,
+        "text": " And now you see the light You stand up for your right Get up, stand up What did you say? Stand up for your right One more time Get up, stand up What did you say? Don't give up the fight",
+        "avg_logprob": -0.1889960157110336
+      },
+      {
+        "id": 8,
+        "start": 191.005,
+        "end": 214.276,
+        "text": " Don't give up the fight Don't give up the fight Don't give up the fight Don't give up the fight",
+        "avg_logprob": -0.2475
+      },
+      {
+        "id": 9,
+        "start": 258.337,
+        "end": 270.824,
+        "text": " Oh, yo, yo, yo, yo. Oh, yo, yo, yo. Oh, yo. Oh, yo. Oh, yo, yo, yo, yo. Oh, yo, yo, yo, yo. Oh, yo. Oh, yo. Oh, yo, yo, yo, yo.",
+        "avg_logprob": -0.17560096153846153
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "JLYOOezs3DA",
+    "uploader": "Bob Marley",
+    "audio_file": "corpus/01_music_videos_audio/audio/JLYOOezs3DA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8958152,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.676744,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:58:01Z"
+  },
+  "status": "success",
+  "error": null
+}

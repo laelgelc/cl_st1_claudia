@@ -1,0 +1,133 @@
+{
+  "corpus_id": "HL1UzIK-flA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/HL1UzIK-flA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/HL1UzIK-flA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/HL1UzIK-flA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Work, work, work, work, work, work You tell me I be work, work, work, work, work, work You see me do me da, da, da, da, da, da, da You tell me better work, work, work, work, work, work When you walk a line, line, line, line, line, line I'm in the cafe, man, ta, ta, ta, ta, ta, ta Drawing me a dessert, yeah Nothing to have you lurking Nobody text me in a crisis I believed all of your dreams like duration You took my heart, all my keys, all my passions You took my heart, all my sleep, all decorations You mistaken my love, I brought for you for foundation All that I wanted from you was to give me Something that I never had Something that you never seen Something that you never been But why you gotta act like nothing's wrong? Just get ready Beg you something, please Baby, don't you leave Don't leave me stuck here in the streets If I get another chance to I would never, no, never neglect you I mean, who am I to hold your past against you? I just hope that it gets to you I hope that you see this through I hope that you see this through What can I say? Please recognize It's in the domain Don't give that away to no one Long distance, I need you When I see potential, I just gotta see it through If you had a twin, I would still choose you I don't wanna rush into it if it's too soon But I know you need to get done, done, done, done If you come over Sorry if I'm way less friendly I got niggas tryna end me all, yeah I spilled all my emotions tonight, I'm sorry Rollin', rollin', rollin', rollin', rollin' How many more shots until you're rollin'? We just need a face-to-face You could pick the time and the place You would spend some time away Now you need to forward and give me all the work work Work, work, work, work, work, work You tell me I be work, work, work, work, work, work You see me do me dirt, dirt, dirt, dirt, dirt, dirt You tell me I better work, work, work, work, work, work When you walk your line, line, line, line, line, line I'm in the cafe, my time, time, time, time, time Drawing me a dessert, yeah Nothing to have you lurking I believed all of your dreams like duration You took my heart, all my keys, all my passions You took my heart, all my sleep, all my decorations You mistaken my love, I brought for you for foundation All that I wanted from you was to give me Something that I never had Something that you never seen Something that you never been But why you gotta act like nothing's wrong? Beg you something, please Baby, don't you leave Don't leave me stuck here in the streets If I get another chance to I would never, no, never neglect you I mean, who am I to hold your past against you? I just hope that it gets to you I hope that you see this through I hope that you see this through What can I say? Please recognize It's in me that slow the motion don't give that away to no one long distance i need you when i see potential i just gotta see it through if you had a twin i would still choose you i don't want to rush into it if it's too soon but i know you need to get done done done done if you come over sorry if i'm way less friendly i got niggas trying to end me oh yeah I spilled all my emotions tonight, I'm sorry Rollin', rollin', rollin', rollin', rollin' How many more shots until you're rollin'? We just need a face-to-face You could pick the time and the place You would spend some time away Now you need to forward and get me out",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 12,
+    "segments": [
+      {
+        "id": 1,
+        "start": 13.177,
+        "end": 39.451,
+        "text": " Work, work, work, work, work, work You tell me I be work, work, work, work, work, work You see me do me da, da, da, da, da, da, da You tell me better work, work, work, work, work, work When you walk a line, line, line, line, line, line I'm in the cafe, man, ta, ta, ta, ta, ta, ta Drawing me a dessert, yeah Nothing to have you lurking",
+        "avg_logprob": -0.19184028398659494
+      },
+      {
+        "id": 2,
+        "start": 47.973,
+        "end": 76.171,
+        "text": " Nobody text me in a crisis I believed all of your dreams like duration You took my heart, all my keys, all my passions You took my heart, all my sleep, all decorations You mistaken my love, I brought for you for foundation All that I wanted from you was to give me Something that I never had Something that you never seen Something that you never been But why you gotta act like nothing's wrong? Just get ready",
+        "avg_logprob": -0.2027658018572577
+      },
+      {
+        "id": 3,
+        "start": 93.181,
+        "end": 121.362,
+        "text": " Beg you something, please Baby, don't you leave Don't leave me stuck here in the streets If I get another chance to I would never, no, never neglect you I mean, who am I to hold your past against you? I just hope that it gets to you I hope that you see this through I hope that you see this through What can I say? Please recognize",
+        "avg_logprob": -0.06685126827487463
+      },
+      {
+        "id": 4,
+        "start": 126.982,
+        "end": 128.551,
+        "text": " It's in the domain",
+        "avg_logprob": -1.0807291666666667
+      },
+      {
+        "id": 5,
+        "start": 145.915,
+        "end": 171.852,
+        "text": " Don't give that away to no one Long distance, I need you When I see potential, I just gotta see it through If you had a twin, I would still choose you I don't wanna rush into it if it's too soon But I know you need to get done, done, done, done If you come over Sorry if I'm way less friendly I got niggas tryna end me all, yeah",
+        "avg_logprob": -0.0988051456563613
+      },
+      {
+        "id": 6,
+        "start": 172.375,
+        "end": 191.798,
+        "text": " I spilled all my emotions tonight, I'm sorry Rollin', rollin', rollin', rollin', rollin' How many more shots until you're rollin'? We just need a face-to-face You could pick the time and the place You would spend some time away Now you need to forward and give me all the work work",
+        "avg_logprob": -0.10189260920168648
+      },
+      {
+        "id": 7,
+        "start": 238.12,
+        "end": 264.344,
+        "text": " Work, work, work, work, work, work You tell me I be work, work, work, work, work, work You see me do me dirt, dirt, dirt, dirt, dirt, dirt You tell me I better work, work, work, work, work, work When you walk your line, line, line, line, line, line I'm in the cafe, my time, time, time, time, time Drawing me a dessert, yeah Nothing to have you lurking",
+        "avg_logprob": -0.19350961280556825
+      },
+      {
+        "id": 8,
+        "start": 274.705,
+        "end": 301.148,
+        "text": " I believed all of your dreams like duration You took my heart, all my keys, all my passions You took my heart, all my sleep, all my decorations You mistaken my love, I brought for you for foundation All that I wanted from you was to give me Something that I never had Something that you never seen Something that you never been But why you gotta act like nothing's wrong?",
+        "avg_logprob": -0.2191455767879003
+      },
+      {
+        "id": 9,
+        "start": 318.277,
+        "end": 346.559,
+        "text": " Beg you something, please Baby, don't you leave Don't leave me stuck here in the streets If I get another chance to I would never, no, never neglect you I mean, who am I to hold your past against you? I just hope that it gets to you I hope that you see this through I hope that you see this through What can I say? Please recognize",
+        "avg_logprob": -0.10022744989093346
+      },
+      {
+        "id": 10,
+        "start": 353.225,
+        "end": 353.9,
+        "text": " It's in me that",
+        "avg_logprob": -1.2298176685969036
+      },
+      {
+        "id": 11,
+        "start": 370.977,
+        "end": 397.302,
+        "text": " slow the motion don't give that away to no one long distance i need you when i see potential i just gotta see it through if you had a twin i would still choose you i don't want to rush into it if it's too soon but i know you need to get done done done done if you come over sorry if i'm way less friendly i got niggas trying to end me oh yeah",
+        "avg_logprob": -0.09182040554931364
+      },
+      {
+        "id": 12,
+        "start": 397.707,
+        "end": 416.405,
+        "text": " I spilled all my emotions tonight, I'm sorry Rollin', rollin', rollin', rollin', rollin' How many more shots until you're rollin'? We just need a face-to-face You could pick the time and the place You would spend some time away Now you need to forward and get me out",
+        "avg_logprob": -0.12396598738782547
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "HL1UzIK-flA",
+    "uploader": "Rihanna",
+    "audio_file": "corpus/01_music_videos_audio/audio/HL1UzIK-flA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 14531684,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 8.706901,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:11:16Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,126 @@
+{
+  "corpus_id": "mrudT410TAI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/mrudT410TAI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/mrudT410TAI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/mrudT410TAI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I heard he sang a good song. I heard he had a style. And so I came to see him to listen for a while. And there he was, this young boy, a stranger to my eyes, drumming my bed with his fingers, singing my life with his words, killing me softly with his song, killing me softly with his song, telling my whole life with his words, killing me softly. with this song. I felt all flushed with fever, embarrassed by the crowd. I felt he found my letters and read each one out loud. I prayed that he would finish, but he just kept right on, stropping my bed with his fingers. Singing my life with his words. Killing me softly with his song. Killing me softly with his song. Telling my whole life with his words. Killing me softly with his song. He sang as if he knew me In all my dark despair And then he looked right through me As if I wasn't there And he just kept on singing singing clear and strong, scrubbing my pain with his fingers, singing my life with his words, killing me softly with his song, killing me softly with his song, telling my whole life with his words, killing me softly with his song. Oh, oh, oh, oh La, la, la, la, la, la Oh, oh, oh, oh La La Strumming my bass Yeah, he was singing my life and killing me softly with his song, killing me softly with his song, telling my whole life with his words, killing me softly. He was scrubbing my bed with his fingers and singing my life with his words, killing me softly with his song, killing me softly with his song, telling my whole life with his words, killing me softly with his song. Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 11,
+    "segments": [
+      {
+        "id": 1,
+        "start": 17.513,
+        "end": 42.404,
+        "text": " I heard he sang a good song. I heard he had a style. And so I came to see him to listen for a while.",
+        "avg_logprob": -0.06010910560344827
+      },
+      {
+        "id": 2,
+        "start": 44.598,
+        "end": 73.471,
+        "text": " And there he was, this young boy, a stranger to my eyes, drumming my bed with his fingers, singing my life with his words, killing me softly with his song, killing me softly with his song, telling my whole life with his words, killing me softly.",
+        "avg_logprob": -0.14542214703141598
+      },
+      {
+        "id": 3,
+        "start": 74.146,
+        "end": 76.07,
+        "text": " with this song.",
+        "avg_logprob": -0.489453125
+      },
+      {
+        "id": 4,
+        "start": 79.917,
+        "end": 106.529,
+        "text": " I felt all flushed with fever, embarrassed by the crowd. I felt he found my letters and read each one out loud. I prayed that he would finish, but he just kept right on, stropping my bed with his fingers.",
+        "avg_logprob": -0.11312181122448979
+      },
+      {
+        "id": 5,
+        "start": 106.529,
+        "end": 127.268,
+        "text": " Singing my life with his words. Killing me softly with his song. Killing me softly with his song. Telling my whole life with his words. Killing me softly with his song.",
+        "avg_logprob": -0.035227704338911106
+      },
+      {
+        "id": 6,
+        "start": 130.829,
+        "end": 149.965,
+        "text": " He sang as if he knew me In all my dark despair And then he looked right through me As if I wasn't there And he just kept on singing",
+        "avg_logprob": -0.09118652669712901
+      },
+      {
+        "id": 7,
+        "start": 150.573,
+        "end": 178.501,
+        "text": " singing clear and strong, scrubbing my pain with his fingers, singing my life with his words, killing me softly with his song, killing me softly with his song, telling my whole life with his words, killing me softly with his song.",
+        "avg_logprob": -0.12843750447034835
+      },
+      {
+        "id": 8,
+        "start": 181.555,
+        "end": 210.293,
+        "text": " Oh, oh, oh, oh La, la, la, la, la, la Oh, oh, oh, oh La La Strumming my bass",
+        "avg_logprob": -0.2999526515151515
+      },
+      {
+        "id": 9,
+        "start": 211.441,
+        "end": 230.948,
+        "text": " Yeah, he was singing my life and killing me softly with his song, killing me softly with his song, telling my whole life with his words, killing me softly.",
+        "avg_logprob": -0.14944197109767368
+      },
+      {
+        "id": 10,
+        "start": 235.572,
+        "end": 259.973,
+        "text": " He was scrubbing my bed with his fingers and singing my life with his words, killing me softly with his song, killing me softly with his song, telling my whole life with his words, killing me softly with his song.",
+        "avg_logprob": -0.07650432339374055
+      },
+      {
+        "id": 11,
+        "start": 274.3,
+        "end": 275.043,
+        "text": " Thank you.",
+        "avg_logprob": -0.56689453125
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "mrudT410TAI",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/mrudT410TAI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8883104,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 26.174808,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:29Z"
+  },
+  "status": "success",
+  "error": null
+}

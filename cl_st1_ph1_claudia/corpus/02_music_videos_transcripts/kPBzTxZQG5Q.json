@@ -1,0 +1,91 @@
+{
+  "corpus_id": "kPBzTxZQG5Q",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/kPBzTxZQG5Q.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/kPBzTxZQG5Q.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/kPBzTxZQG5Q.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "A hundred days have made me older Since the last time that I saw your pretty face A thousand lies have made me colder And I don't think I can look at this the same But all the miles that separate Disappear now when I'm dreaming of your face I'm here without you, baby But you're still on my lonely mind I think about you, baby And I dream about you all the time I'm here without you, baby But you're still with me in my dreams And tonight, it's only you just keep rolling as the people leave their way to say hello. I've heard this life is overrated, but I hope that it gets better as we I'm here without you, baby But you're still on my lonely mind I think about you, baby And I dream about you all the time I'm here without you, baby But you're still with me in my dreams Cause tonight, girl, it's only you and me It's hard but it won't take away my love I'm here without you baby But you're still all my lonely",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 6.713,
+        "end": 29.748,
+        "text": " A hundred days have made me older Since the last time that I saw your pretty face A thousand lies have made me colder And I don't think I can look at this the same",
+        "avg_logprob": -0.05685177244044639
+      },
+      {
+        "id": 2,
+        "start": 35.03,
+        "end": 51.027,
+        "text": " But all the miles that separate Disappear now when I'm dreaming of your face I'm here without you, baby",
+        "avg_logprob": -0.1041406273841858
+      },
+      {
+        "id": 3,
+        "start": 51.702,
+        "end": 73.825,
+        "text": " But you're still on my lonely mind I think about you, baby And I dream about you all the time I'm here without you, baby But you're still with me in my dreams And tonight, it's only you",
+        "avg_logprob": -0.061565895119439
+      },
+      {
+        "id": 4,
+        "start": 87.983,
+        "end": 107.187,
+        "text": " just keep rolling as the people leave their way to say hello. I've heard this life is overrated, but I hope that it gets better as we",
+        "avg_logprob": -0.2199707026593387
+      },
+      {
+        "id": 5,
+        "start": 116.468,
+        "end": 140.87,
+        "text": " I'm here without you, baby But you're still on my lonely mind I think about you, baby And I dream about you all the time I'm here without you, baby But you're still with me in my dreams Cause tonight, girl, it's only you and me",
+        "avg_logprob": -0.10553728070175439
+      },
+      {
+        "id": 6,
+        "start": 162.031,
+        "end": 190.685,
+        "text": " It's hard but it won't take away my love I'm here without you baby But you're still all my lonely",
+        "avg_logprob": -0.16546875
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "kPBzTxZQG5Q",
+    "uploader": "3doorsdown",
+    "audio_file": "corpus/01_music_videos_audio/audio/kPBzTxZQG5Q.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7547120,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.608827,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:07:19Z"
+  },
+  "status": "success",
+  "error": null
+}

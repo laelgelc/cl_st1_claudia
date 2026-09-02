@@ -1,0 +1,91 @@
+{
+  "corpus_id": "gUPifXX0foU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/gUPifXX0foU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/gUPifXX0foU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/gUPifXX0foU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Hey Joe I said where you going with that gun in your hand? Hey Joe I said where you going with that gun in your hand? Boy, I'ma shoot my old lady You know I'm gonna mess around with another man Boy, I'ma shoot my old lady You know I'm gonna mess around with another man Now that ain't too good Hey, hey, hey, Joe I heard you shot your lady down, you shot her down Hey Joe, I said I heard you shot your lady down, you shot her down Yeah Yes I did, I shot her You know I caught a mess around town Yes, I did at the start You know I caught a mess around town And I gave it a gun Hey, hey, Joe, I said, where you gonna run to now, where you gonna go? Hey, hey, Joe, I said, where you gonna run to now, where you gonna go? Hey, I'm going without a cell. Goin' way down south Way down on Rockabilly Creek Ain't no one gonna find you Ain't no hangman's rope You ain't gonna put a rope around me You better believe it, baby I gotta go Hey, hey, hey, Joe You better run on down, you better Goodbye, everybody",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 7.27,
+        "end": 32.768,
+        "text": " Hey Joe I said where you going with that gun in your hand? Hey Joe I said where you going with that gun in your hand?",
+        "avg_logprob": -0.1609644334891747
+      },
+      {
+        "id": 2,
+        "start": 37.797,
+        "end": 62.553,
+        "text": " Boy, I'ma shoot my old lady You know I'm gonna mess around with another man Boy, I'ma shoot my old lady You know I'm gonna mess around with another man Now that ain't too good Hey, hey, hey, Joe",
+        "avg_logprob": -0.2074819765985012
+      },
+      {
+        "id": 3,
+        "start": 63.869,
+        "end": 88.658,
+        "text": " I heard you shot your lady down, you shot her down Hey Joe, I said I heard you shot your lady down, you shot her down Yeah Yes I did, I shot her You know I caught a mess around town",
+        "avg_logprob": -0.18461277303488358
+      },
+      {
+        "id": 4,
+        "start": 94.21,
+        "end": 101.618,
+        "text": " Yes, I did at the start You know I caught a mess around town And I gave it a gun",
+        "avg_logprob": -0.3432173430919647
+      },
+      {
+        "id": 5,
+        "start": 139.148,
+        "end": 162.487,
+        "text": " Hey, hey, Joe, I said, where you gonna run to now, where you gonna go? Hey, hey, Joe, I said, where you gonna run to now, where you gonna go? Hey, I'm going without a cell.",
+        "avg_logprob": -0.19426081988673943
+      },
+      {
+        "id": 6,
+        "start": 172.055,
+        "end": 200.641,
+        "text": " Goin' way down south Way down on Rockabilly Creek Ain't no one gonna find you Ain't no hangman's rope You ain't gonna put a rope around me You better believe it, baby I gotta go Hey, hey, hey, Joe You better run on down, you better Goodbye, everybody",
+        "avg_logprob": -0.33300780365243554
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "gUPifXX0foU",
+    "uploader": "Beat-Club",
+    "audio_file": "corpus/01_music_videos_audio/audio/gUPifXX0foU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8062046,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.717988,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:00:10Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,77 @@
+{
+  "corpus_id": "H9tEvfIsDyo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/H9tEvfIsDyo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/H9tEvfIsDyo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/H9tEvfIsDyo.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Just leave it. I just want your extra time, yo. Kiss, yes. I think I wanna dance. Maybe we could do the twirl. You don't have to be fresh to be my girl You don't have to be cool to rule my world I just want your head to turn your kiss",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 40.7,
+        "end": 41.982,
+        "text": " Just leave it.",
+        "avg_logprob": -0.46953125
+      },
+      {
+        "id": 2,
+        "start": 122.881,
+        "end": 138.153,
+        "text": " I just want your extra time, yo. Kiss, yes. I think I wanna dance.",
+        "avg_logprob": -0.4210937574505806
+      },
+      {
+        "id": 3,
+        "start": 171.025,
+        "end": 186.162,
+        "text": " Maybe we could do the twirl.",
+        "avg_logprob": -0.5208333333333334
+      },
+      {
+        "id": 4,
+        "start": 195.123,
+        "end": 223.777,
+        "text": " You don't have to be fresh to be my girl You don't have to be cool to rule my world I just want your head to turn your kiss",
+        "avg_logprob": -0.3024902418255806
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "H9tEvfIsDyo",
+    "uploader": "Prince",
+    "audio_file": "corpus/01_music_videos_audio/audio/H9tEvfIsDyo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7524086,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.118038,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:22:55Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,91 @@
+{
+  "corpus_id": "RBj2HN2uuNA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/RBj2HN2uuNA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/RBj2HN2uuNA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/RBj2HN2uuNA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Oh yes, I'm the great pretender Pretending that I'm doing well My need is such I pretend too much I'm lonely but no one can tell Oh, yes, I'm the great pretender, adrift in a world of my own. I play the game, but to my real shame, you've left me to dream all alone. Well, I feel what my heart can't conceal Yes, I'm the great pretender Just laughing and gay like a clown I seem to be what I'm not, you see I'm wearing my heart like a crown Pretending that you're still around A feeling of make believe Do you feel when I feel What my heart can't conceal? Yes, I'm the great pretender Just laughing and gay like a clown I seem to be what I'm not You see, I'm wearing my heart like a crown Pretending that you're still around",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 6.68,
+        "end": 31.132,
+        "text": " Oh yes, I'm the great pretender Pretending that I'm doing well My need is such I pretend too much I'm lonely but no one can tell",
+        "avg_logprob": -0.08866003787878787
+      },
+      {
+        "id": 2,
+        "start": 31.57,
+        "end": 54.638,
+        "text": " Oh, yes, I'm the great pretender, adrift in a world of my own. I play the game, but to my real shame, you've left me to dream all alone.",
+        "avg_logprob": -0.1095655487804878
+      },
+      {
+        "id": 3,
+        "start": 64.544,
+        "end": 81.976,
+        "text": " Well, I feel what my heart can't conceal Yes, I'm the great pretender Just laughing and gay like a clown",
+        "avg_logprob": -0.13454026327683374
+      },
+      {
+        "id": 4,
+        "start": 83.478,
+        "end": 100.1,
+        "text": " I seem to be what I'm not, you see I'm wearing my heart like a crown Pretending that you're still around",
+        "avg_logprob": -0.08253761850021503
+      },
+      {
+        "id": 5,
+        "start": 105.145,
+        "end": 128.213,
+        "text": " A feeling of make believe Do you feel when I feel What my heart can't conceal? Yes, I'm the great pretender Just laughing and gay like a clown",
+        "avg_logprob": -0.19186580663218217
+      },
+      {
+        "id": 6,
+        "start": 129.192,
+        "end": 150.269,
+        "text": " I seem to be what I'm not You see, I'm wearing my heart like a crown Pretending that you're still around",
+        "avg_logprob": -0.097077543536822
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "RBj2HN2uuNA",
+    "uploader": "Classic Hits Studio",
+    "audio_file": "corpus/01_music_videos_audio/audio/RBj2HN2uuNA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5357386,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.831633,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:43Z"
+  },
+  "status": "success",
+  "error": null
+}

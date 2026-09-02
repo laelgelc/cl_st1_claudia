@@ -1,0 +1,84 @@
+{
+  "corpus_id": "oBcXOmwq58U",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oBcXOmwq58U.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/oBcXOmwq58U.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/oBcXOmwq58U.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Going to the chapel and we're gonna get married Going to the chapel and we're gonna get married We really love you and we're gonna get married Going to the chapel as if they knew two days a day we'll say I do and we'll never be lonely anymore because we're Going to the chapel and you're gonna get married Gee, I really love you and you're gonna get married Going to the chapel The bells will ring, the sun will shine I wanna get married the trap of love.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.892,
+        "end": 27.47,
+        "text": " Going to the chapel and we're gonna get married Going to the chapel and we're gonna get married We really love you and we're gonna get married Going to the chapel",
+        "avg_logprob": -0.12332589285714286
+      },
+      {
+        "id": 2,
+        "start": 41.813,
+        "end": 62.941,
+        "text": " as if they knew two days a day we'll say I do and we'll never be lonely anymore because we're",
+        "avg_logprob": -0.2130533872793118
+      },
+      {
+        "id": 3,
+        "start": 71.952,
+        "end": 99.745,
+        "text": " Going to the chapel and you're gonna get married Gee, I really love you and you're gonna get married Going to the chapel The bells will ring, the sun will shine",
+        "avg_logprob": -0.21408420470025805
+      },
+      {
+        "id": 4,
+        "start": 129.952,
+        "end": 132.685,
+        "text": " I wanna get married",
+        "avg_logprob": -0.522265625
+      },
+      {
+        "id": 5,
+        "start": 158.2,
+        "end": 161.052,
+        "text": " the trap of love.",
+        "avg_logprob": -0.9244791666666666
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "oBcXOmwq58U",
+    "uploader": "The Dixie Cups - Topic",
+    "audio_file": "corpus/01_music_videos_audio/audio/oBcXOmwq58U.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5361102,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.225901,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:58:26Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,105 @@
+{
+  "corpus_id": "LOtkH5amC7s",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/LOtkH5amC7s.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/LOtkH5amC7s.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/LOtkH5amC7s.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Is Pharrell here? I don't know what you're talking about. All right, cool. Sexy. I don't want to sound full of myself for rude But you ain't looking at no other dudes Cause you love me I'm sorry baby So sexy So you think about a chance You find yourself trying to do my dance Maybe cause you love me I was gon' put your ass up I know that I'm carryin' on Never mind if I'm showin' off I was just frontin' You know I want you, babe I'm ready to bet it all Unless you don't care at all But you know I want you You should stop frontin', babe Tryna be the best girlfriend you could be Still you sneak and look at me Girl, I love it Tell her you gon' call my ass, how it was, and she's gon' love it Whoa, whoa, yeah, yeah So then we tried to slow down because you weren't used to how fast we touched Fast we touched Then we locked eyes And I knew I wasn't there and I was gon' fuck your ass up I know that I'm carrying on, never mind if I'm showing off. I was just frontin'. You know I want you, babe. I'm ready to bet it all, unless you don't care at all. But you know I want you. You should stop frontin', babe. Let me talk to her. I'ma keep it real. Every time your name was brought up, I would act all nonchalant in front of her audience. Like you was just another shorty, I put the naughty on. But truth be told, you threw me for a loop this whole. I'm too old to be fronting what I'm feeling. Then selling, acting like you ain't appealing when you are. Stepping like you ain't my only girl when you are. I'm ready to stop when you are. Carrying on, never mind if I'm showing off. I was just fronting. I'm ready to bet it all, unless you don't care at all. But you know I want you. You should stop frontin', babe. You like this for real Thank you baby Look I'm leaving now I'ma see you later I'ma sneak through your window",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 4.503,
+        "end": 22.441,
+        "text": " Is Pharrell here? I don't know what you're talking about. All right, cool. Sexy.",
+        "avg_logprob": -0.2148437547683716
+      },
+      {
+        "id": 2,
+        "start": 33.055,
+        "end": 49.12,
+        "text": " I don't want to sound full of myself for rude But you ain't looking at no other dudes Cause you love me I'm sorry baby So sexy So you think about a chance You find yourself trying to do my dance Maybe cause you love me",
+        "avg_logprob": -0.17484375059604645
+      },
+      {
+        "id": 3,
+        "start": 65.877,
+        "end": 95.813,
+        "text": " I was gon' put your ass up I know that I'm carryin' on Never mind if I'm showin' off I was just frontin' You know I want you, babe I'm ready to bet it all Unless you don't care at all But you know I want you You should stop frontin', babe Tryna be the best girlfriend you could be Still you sneak and look at me Girl, I love it",
+        "avg_logprob": -0.10795454689386216
+      },
+      {
+        "id": 4,
+        "start": 100.403,
+        "end": 125.378,
+        "text": " Tell her you gon' call my ass, how it was, and she's gon' love it Whoa, whoa, yeah, yeah So then we tried to slow down because you weren't used to how fast we touched Fast we touched Then we locked eyes And I knew I wasn't there and I was gon' fuck your ass up",
+        "avg_logprob": -0.2309283088235294
+      },
+      {
+        "id": 5,
+        "start": 126.475,
+        "end": 145.342,
+        "text": " I know that I'm carrying on, never mind if I'm showing off. I was just frontin'. You know I want you, babe. I'm ready to bet it all, unless you don't care at all. But you know I want you. You should stop frontin', babe.",
+        "avg_logprob": -0.08316532606559415
+      },
+      {
+        "id": 6,
+        "start": 161.795,
+        "end": 189.757,
+        "text": " Let me talk to her. I'ma keep it real. Every time your name was brought up, I would act all nonchalant in front of her audience. Like you was just another shorty, I put the naughty on. But truth be told, you threw me for a loop this whole. I'm too old to be fronting what I'm feeling. Then selling, acting like you ain't appealing when you are. Stepping like you ain't my only girl when you are. I'm ready to stop when you are. Carrying on, never mind if I'm showing off. I was just fronting.",
+        "avg_logprob": -0.08291903318780841
+      },
+      {
+        "id": 7,
+        "start": 192.524,
+        "end": 201.923,
+        "text": " I'm ready to bet it all, unless you don't care at all. But you know I want you. You should stop frontin', babe.",
+        "avg_logprob": -0.14831543620675802
+      },
+      {
+        "id": 8,
+        "start": 221.802,
+        "end": 238.745,
+        "text": " You like this for real Thank you baby Look I'm leaving now I'ma see you later I'ma sneak through your window",
+        "avg_logprob": -0.2818287169491803
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "LOtkH5amC7s",
+    "uploader": "Pharrell Williams",
+    "audio_file": "corpus/01_music_videos_audio/audio/LOtkH5amC7s.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7998146,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.323835,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:07:35Z"
+  },
+  "status": "success",
+  "error": null
+}

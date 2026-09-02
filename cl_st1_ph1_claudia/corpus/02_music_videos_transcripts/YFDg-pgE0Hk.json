@@ -1,0 +1,91 @@
+{
+  "corpus_id": "YFDg-pgE0Hk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/YFDg-pgE0Hk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/YFDg-pgE0Hk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/YFDg-pgE0Hk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Let you all see the love that's sleeping While my guitar gently weeps Love at the fall and I see it needs sweeping Still my guitar gently weeps Nobody told you how to run from your love I don't know how someone controlled you They bought and sold over you And I notice it's turning While my guitar gently weeps Every mistake we must surely be learning Still my guitar gently weeps You were coveted You were coveted too I don't know how You were coveted No one coveted you See the love flare that's sleeping While my guitar gently weeps And look at you all Still my guitar gently weeps Yeah! Yeah!",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 18.037,
+        "end": 47.635,
+        "text": " Let you all see the love that's sleeping While my guitar gently weeps Love at the fall and I see it needs sweeping Still my guitar gently weeps",
+        "avg_logprob": -0.2502441545948386
+      },
+      {
+        "id": 2,
+        "start": 55.735,
+        "end": 80.997,
+        "text": " Nobody told you how to run from your love I don't know how someone controlled you They bought and sold over you",
+        "avg_logprob": -0.16748047433793545
+      },
+      {
+        "id": 3,
+        "start": 85.84,
+        "end": 114.022,
+        "text": " And I notice it's turning While my guitar gently weeps Every mistake we must surely be learning Still my guitar gently weeps",
+        "avg_logprob": -0.10351562299407445
+      },
+      {
+        "id": 4,
+        "start": 155.703,
+        "end": 180.121,
+        "text": " You were coveted You were coveted too I don't know how You were coveted No one coveted you",
+        "avg_logprob": -0.2609049615760644
+      },
+      {
+        "id": 5,
+        "start": 186.871,
+        "end": 213.415,
+        "text": " See the love flare that's sleeping While my guitar gently weeps And look at you all Still my guitar gently weeps",
+        "avg_logprob": -0.11828124761581421
+      },
+      {
+        "id": 6,
+        "start": 234.695,
+        "end": 237.479,
+        "text": " Yeah! Yeah!",
+        "avg_logprob": -1.1578125
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "YFDg-pgE0Hk",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/YFDg-pgE0Hk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9129050,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.444658,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:01:18Z"
+  },
+  "status": "success",
+  "error": null
+}

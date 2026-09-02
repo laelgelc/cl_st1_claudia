@@ -1,0 +1,77 @@
+{
+  "corpus_id": "GMezwtB1oCU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/GMezwtB1oCU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/GMezwtB1oCU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/GMezwtB1oCU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Every day it's a getting closer Going faster than a roller coaster Love like yours will surely come my way Hey, hey, hey Every day it's a getting faster Everyone said go ahead and ask her Love like yours will surely come my way Hey, hey, hey Every day seems a little longer Every way love's a little stronger Come what may, do you ever long for True love from me? Every day it's a-getting closer Going faster than a roller coaster Love like yours will surely come my way Hey, hey, hey, hey Every day seems a little longer Every way, love's a little stronger Come what may, do you ever long for me every day it's a getting closer going faster than a roller coaster love like yours will surely come my way hey hey hey love like yours will surely come my way",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 4.267,
+        "end": 32.667,
+        "text": " Every day it's a getting closer Going faster than a roller coaster Love like yours will surely come my way Hey, hey, hey Every day it's a getting faster Everyone said go ahead and ask her Love like yours will surely come my way Hey, hey, hey",
+        "avg_logprob": -0.12434896412822935
+      },
+      {
+        "id": 2,
+        "start": 32.667,
+        "end": 60.663,
+        "text": " Every day seems a little longer Every way love's a little stronger Come what may, do you ever long for True love from me? Every day it's a-getting closer Going faster than a roller coaster Love like yours will surely come my way Hey, hey, hey, hey",
+        "avg_logprob": -0.14938038921561733
+      },
+      {
+        "id": 3,
+        "start": 88.928,
+        "end": 99.83,
+        "text": " Every day seems a little longer Every way, love's a little stronger Come what may, do you ever long for",
+        "avg_logprob": -0.1172688767934839
+      },
+      {
+        "id": 4,
+        "start": 101.348,
+        "end": 122.56,
+        "text": " me every day it's a getting closer going faster than a roller coaster love like yours will surely come my way hey hey hey love like yours will surely come my way",
+        "avg_logprob": -0.15130974659148386
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "GMezwtB1oCU",
+    "uploader": "nocturon",
+    "audio_file": "corpus/01_music_videos_audio/audio/GMezwtB1oCU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4129886,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.363717,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:59:22Z"
+  },
+  "status": "success",
+  "error": null
+}

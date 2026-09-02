@@ -1,0 +1,98 @@
+{
+  "corpus_id": "JIuYQ_4TcXg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/JIuYQ_4TcXg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/JIuYQ_4TcXg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/JIuYQ_4TcXg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Never ever gonna get it No, not this time No, you're never gonna get it My love Never ever gonna get it No, you're never gonna get it Ow! Never ever gonna get it Not this time No, you're never gonna get it My love Never ever gonna get it Ooh, pop! I remember how it used to be You never was this nice, you can't fool me. Now you're talking like you made a change. The more you talk, the more things sound the same. What makes you think you can just walk back into her life? Not this time, my lovin' Had your chance to make a change Not this time, my lovin' Had your chance to make a change Now you promise me the moment starts Save your life, you won't get very far Gave you many chances to make change The only last thing you changed was love to hate It doesn't matter what you do or what you say Not this time My love and me Had your chance to make a change Not this time My love and me Had your chance to make a change I give to the needy and not the greedy. Mm-hmm, that's right. Because you see, baby, you pop when you like it. Never gonna get it, never gonna get it",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 12.468,
+        "end": 34.861,
+        "text": " Never ever gonna get it No, not this time No, you're never gonna get it My love Never ever gonna get it No, you're never gonna get it Ow! Never ever gonna get it Not this time No, you're never gonna get it My love Never ever gonna get it Ooh, pop! I remember how it used to be",
+        "avg_logprob": -0.12120535394975117
+      },
+      {
+        "id": 2,
+        "start": 36.599,
+        "end": 54.082,
+        "text": " You never was this nice, you can't fool me. Now you're talking like you made a change. The more you talk, the more things sound the same. What makes you think you can just walk back into her life?",
+        "avg_logprob": -0.09944661458333333
+      },
+      {
+        "id": 3,
+        "start": 70.518,
+        "end": 94.008,
+        "text": " Not this time, my lovin' Had your chance to make a change Not this time, my lovin' Had your chance to make a change Now you promise me the moment starts",
+        "avg_logprob": -0.15933388001040408
+      },
+      {
+        "id": 4,
+        "start": 95.392,
+        "end": 113.667,
+        "text": " Save your life, you won't get very far Gave you many chances to make change The only last thing you changed was love to hate It doesn't matter what you do or what you say",
+        "avg_logprob": -0.14716796837747098
+      },
+      {
+        "id": 5,
+        "start": 129.952,
+        "end": 147.147,
+        "text": " Not this time My love and me Had your chance to make a change Not this time My love and me Had your chance to make a change",
+        "avg_logprob": -0.16190732142020917
+      },
+      {
+        "id": 6,
+        "start": 151.433,
+        "end": 160.782,
+        "text": " I give to the needy and not the greedy. Mm-hmm, that's right. Because you see, baby, you pop when you like it.",
+        "avg_logprob": -0.19495738636363635
+      },
+      {
+        "id": 7,
+        "start": 187.951,
+        "end": 196.979,
+        "text": " Never gonna get it, never gonna get it",
+        "avg_logprob": -0.38183594942092897
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "JIuYQ_4TcXg",
+    "uploader": "En Vogue",
+    "audio_file": "corpus/01_music_videos_audio/audio/JIuYQ_4TcXg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7978084,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.742012,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:08:15Z"
+  },
+  "status": "success",
+  "error": null
+}

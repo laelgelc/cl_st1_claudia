@@ -1,0 +1,84 @@
+{
+  "corpus_id": "3YxaaGgTQYM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/3YxaaGgTQYM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/3YxaaGgTQYM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/3YxaaGgTQYM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "How can you see into my eyes? Like open doors Leading you down into my core Will I become so numb? With another song Wake me up! I can't wake up! Save me! Wake me up! I can't wake up! Save me! I can't wake up I can't believe I couldn't see, kept in the dark, but you were there in front of me. I've been sleeping a thousand years, it seems, got to open my eyes to everything. Without a thought, without a voice, without a soul, don't let me die here. Bring me to life. Wake me up inside. I can't wake up. Wake me up inside. Save me. I can't wake up before I come undone Save me from the nothing I've become I've been living in line There's nothing left",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 17.969,
+        "end": 40.413,
+        "text": " How can you see into my eyes? Like open doors Leading you down into my core Will I become so numb? With another song",
+        "avg_logprob": -0.32338169855730875
+      },
+      {
+        "id": 2,
+        "start": 63.717,
+        "end": 80.575,
+        "text": " Wake me up! I can't wake up! Save me! Wake me up! I can't wake up! Save me!",
+        "avg_logprob": -0.1095920122332043
+      },
+      {
+        "id": 3,
+        "start": 112.992,
+        "end": 114.19,
+        "text": " I can't wake up",
+        "avg_logprob": -0.12011719246705373
+      },
+      {
+        "id": 4,
+        "start": 172.308,
+        "end": 197.536,
+        "text": " I can't believe I couldn't see, kept in the dark, but you were there in front of me. I've been sleeping a thousand years, it seems, got to open my eyes to everything. Without a thought, without a voice, without a soul, don't let me die here. Bring me to life. Wake me up inside. I can't wake up. Wake me up inside. Save me.",
+        "avg_logprob": -0.1539789313493773
+      },
+      {
+        "id": 5,
+        "start": 203.054,
+        "end": 221.144,
+        "text": " I can't wake up before I come undone Save me from the nothing I've become I've been living in line There's nothing left",
+        "avg_logprob": -0.2338362068965517
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "3YxaaGgTQYM",
+    "uploader": "Evanescence",
+    "audio_file": "corpus/01_music_videos_audio/audio/3YxaaGgTQYM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8125948,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.063648,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:05:29Z"
+  },
+  "status": "success",
+  "error": null
+}

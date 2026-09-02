@@ -1,0 +1,105 @@
+{
+  "corpus_id": "SgXSomPE_FY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/SgXSomPE_FY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/SgXSomPE_FY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/SgXSomPE_FY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Oh The thrill is gone The thrill is gone away The thrill is gone, baby The thrill is gone away Got me wrong, baby You'll be sorry someday The thrill is gone The thrill is gone away from me The thrill is gone, baby The thrill is gone away from me I wonder how I'll still live on But so lonely I'll be I'm free now, baby I'm free from this spell All I can do is wish you well. I'd like to thank you. I'd like to thank these three young men sitting down in front with me. They treat me so good, I begin to feel special. I said, they treat me so well, I feel special. Thank you. Thank you. God dog, boy. Boy, you sure don't play that thing like the ladies say, you play that thing.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 7.152,
+        "end": 31.722,
+        "text": " Oh",
+        "avg_logprob": -1.9599609375
+      },
+      {
+        "id": 2,
+        "start": 63.717,
+        "end": 91.527,
+        "text": " The thrill is gone The thrill is gone away The thrill is gone, baby The thrill is gone away Got me wrong, baby",
+        "avg_logprob": -0.06644381210207939
+      },
+      {
+        "id": 3,
+        "start": 93.518,
+        "end": 123.168,
+        "text": " You'll be sorry someday The thrill is gone The thrill is gone away from me The thrill is gone, baby The thrill is gone away from me",
+        "avg_logprob": -0.09576822618643442
+      },
+      {
+        "id": 4,
+        "start": 126.982,
+        "end": 147.012,
+        "text": " I wonder how I'll still live on But so lonely I'll be",
+        "avg_logprob": -0.403124992052714
+      },
+      {
+        "id": 5,
+        "start": 434.967,
+        "end": 441.869,
+        "text": " I'm free now, baby I'm free from this spell",
+        "avg_logprob": -0.13724459134615385
+      },
+      {
+        "id": 6,
+        "start": 463.587,
+        "end": 492.46,
+        "text": " All I can do is wish you well. I'd like to thank you. I'd like to thank these three young men sitting down in front with me. They treat me so good, I begin to feel special.",
+        "avg_logprob": -0.08255208200878567
+      },
+      {
+        "id": 7,
+        "start": 494.249,
+        "end": 515.545,
+        "text": " I said, they treat me so well, I feel special. Thank you. Thank you. God dog, boy.",
+        "avg_logprob": -0.2539062595367432
+      },
+      {
+        "id": 8,
+        "start": 528.37,
+        "end": 533.534,
+        "text": " Boy, you sure don't play that thing like the ladies say, you play that thing.",
+        "avg_logprob": -0.40234374403953554
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "SgXSomPE_FY",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/SgXSomPE_FY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 21302994,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.402167,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:00:25Z"
+  },
+  "status": "success",
+  "error": null
+}

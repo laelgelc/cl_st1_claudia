@@ -1,0 +1,119 @@
+{
+  "corpus_id": "oyEuk8j8imI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oyEuk8j8imI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/oyEuk8j8imI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/oyEuk8j8imI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "It's all based off of love. And love isn't do this for me and I'm going to do this for you. That's not what love is. Love is just I'm going to do this for you because I want to do this for you. For all the times that you ain't on my parade And all the claps you get in using my name You think you broke my heart, oh girl, for goodness sake You think I'm crying on my own while I ain't And I didn't wanna write a song Cause I didn't want anyone thinking I still care or don't But you still hit my phone up And baby I'll be moving on And I think it should be something I don't wanna hold back Maybe you should know that My mama don't like you and she likes everyone And I never like to admit that I was wrong And I've been so caught up in my job Didn't see what's going on but now I know I'm better sleeping on my own Cause if you like the way you look that much Oh baby, you should go and love yourself And if you think that I'm still holding on to something You should go and love yourself But when you told me that you hated my friends The only problem was with you and not them And every time you told me my opinion was wrong And tried to make me forget where I came from And I didn't wanna write a song Cause I didn't want anyone thinking I still care or don't But you still hit my phone up And baby I'll be moving on And I think you should be something I don't wanna hold back Maybe you should know that My mama don't like you and she likes everyone And I never like to admit that I was wrong And I've been so caught up in my job Didn't see what's going on but now I know I'm better sleeping on my own Cause if you like the way you look that much Oh baby, you should go and love yourself And if you think that I'm still holding on to something You should go and love yourself For all the times that you made me feel small I fell in love, now I feel nothing at all I never felt so low when I was vulnerable Was I a fool to let you break down my walls? Cause if you like the way you look that much Oh baby, you should go and love yourself And if you think that I'm still holding on to something You should go and love yourself Cause if you like the way you look that much Oh baby, you should go and love yourself If you think that I'm still holding on to something You should go and love yourself",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 10,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 9.683,
+        "text": " It's all based off of love. And love isn't do this for me and I'm going to do this for you. That's not what love is. Love is just I'm going to do this for you because I want to do this for you.",
+        "avg_logprob": -0.06199363398331183
+      },
+      {
+        "id": 2,
+        "start": 10.257,
+        "end": 38.708,
+        "text": " For all the times that you ain't on my parade And all the claps you get in using my name You think you broke my heart, oh girl, for goodness sake You think I'm crying on my own while I ain't And I didn't wanna write a song Cause I didn't want anyone thinking I still care or don't But you still hit my phone up",
+        "avg_logprob": -0.08270833273728688
+      },
+      {
+        "id": 3,
+        "start": 39.063,
+        "end": 64.443,
+        "text": " And baby I'll be moving on And I think it should be something I don't wanna hold back Maybe you should know that My mama don't like you and she likes everyone And I never like to admit that I was wrong And I've been so caught up in my job Didn't see what's going on but now I know",
+        "avg_logprob": -0.07328591217745596
+      },
+      {
+        "id": 4,
+        "start": 65.303,
+        "end": 85.655,
+        "text": " I'm better sleeping on my own Cause if you like the way you look that much Oh baby, you should go and love yourself And if you think that I'm still holding on to something You should go and love yourself",
+        "avg_logprob": -0.09201389220025805
+      },
+      {
+        "id": 5,
+        "start": 87.106,
+        "end": 115.54,
+        "text": " But when you told me that you hated my friends The only problem was with you and not them And every time you told me my opinion was wrong And tried to make me forget where I came from And I didn't wanna write a song Cause I didn't want anyone thinking I still care or don't But you still hit my phone up",
+        "avg_logprob": -0.05847886012976661
+      },
+      {
+        "id": 6,
+        "start": 115.861,
+        "end": 141.275,
+        "text": " And baby I'll be moving on And I think you should be something I don't wanna hold back Maybe you should know that My mama don't like you and she likes everyone And I never like to admit that I was wrong And I've been so caught up in my job Didn't see what's going on but now I know",
+        "avg_logprob": -0.0746851645743669
+      },
+      {
+        "id": 7,
+        "start": 142.102,
+        "end": 165.693,
+        "text": " I'm better sleeping on my own Cause if you like the way you look that much Oh baby, you should go and love yourself And if you think that I'm still holding on to something You should go and love yourself",
+        "avg_logprob": -0.09123264021343655
+      },
+      {
+        "id": 8,
+        "start": 171.869,
+        "end": 201.772,
+        "text": " For all the times that you made me feel small I fell in love, now I feel nothing at all I never felt so low when I was vulnerable Was I a fool to let you break down my walls?",
+        "avg_logprob": -0.054960030455921974
+      },
+      {
+        "id": 9,
+        "start": 202.058,
+        "end": 228.147,
+        "text": " Cause if you like the way you look that much Oh baby, you should go and love yourself And if you think that I'm still holding on to something You should go and love yourself Cause if you like the way you look that much Oh baby, you should go and love yourself",
+        "avg_logprob": -0.07408168964218675
+      },
+      {
+        "id": 10,
+        "start": 231.235,
+        "end": 239.69,
+        "text": " If you think that I'm still holding on to something You should go and love yourself",
+        "avg_logprob": -0.10508897652228673
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "oyEuk8j8imI",
+    "uploader": "Justin Bieber",
+    "audio_file": "corpus/01_music_videos_audio/audio/oyEuk8j8imI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8712948,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.038285,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:05:57Z"
+  },
+  "status": "success",
+  "error": null
+}

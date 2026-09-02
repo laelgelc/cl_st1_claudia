@@ -1,0 +1,77 @@
+{
+  "corpus_id": "hTWKbfoikeg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hTWKbfoikeg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hTWKbfoikeg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hTWKbfoikeg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Bring your friends as far to lose And to pretend she's all the more Wasn't what I'd do best Before this gift I've been blessed A little girl It's always been love And I forget just why I taste him Yeah, I guess he makes me smile I found it hard, it's hard to find the will It's stupid It can change",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 28.145,
+        "end": 36.751,
+        "text": " Bring your friends as far to lose And to pretend she's all the more",
+        "avg_logprob": -0.3291015699505806
+      },
+      {
+        "id": 2,
+        "start": 100.893,
+        "end": 114.089,
+        "text": " Wasn't what I'd do best Before this gift I've been blessed A little girl It's always been love",
+        "avg_logprob": -0.43580161747725116
+      },
+      {
+        "id": 3,
+        "start": 189.233,
+        "end": 203.932,
+        "text": " And I forget just why I taste him Yeah, I guess he makes me smile I found it hard, it's hard to find the will",
+        "avg_logprob": -0.16729526067602224
+      },
+      {
+        "id": 4,
+        "start": 230.51,
+        "end": 233.395,
+        "text": " It's stupid It can change",
+        "avg_logprob": -0.8091518027441842
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "hTWKbfoikeg",
+    "uploader": "Nirvana",
+    "audio_file": "corpus/01_music_videos_audio/audio/hTWKbfoikeg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8909110,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.081039,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:19:35Z"
+  },
+  "status": "success",
+  "error": null
+}

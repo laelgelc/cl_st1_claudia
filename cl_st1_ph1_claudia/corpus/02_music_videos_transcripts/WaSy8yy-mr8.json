@@ -1,0 +1,91 @@
+{
+  "corpus_id": "WaSy8yy-mr8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/WaSy8yy-mr8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/WaSy8yy-mr8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/WaSy8yy-mr8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Right now, he's probably slow dancing with a bleached blonde tramp and she's probably getting frisky Right now, he's probably buying her some fruity little drink cause she can't shoot whiskey Right now, he's probably up behind her with a blue stick showing her how to shoot a combo key into the side of his pretty little souped-up four-wheel drive. He called my name into his leather seats. I took a Louisville slugger to both headlights and lashed a home in all four tires. And maybe next time I'll think of Right now, she's probably up singing from a white trash version of Shania karaoke. Right now, she's probably saying I'm drunk and he's thinking that he's gonna get lucky. Right now, he's probably dabbing on three dollars worth of that bathroom hose. Keen to the sight of this pretty little souped-up four-wheel drive Carved my name into his leather seat I took a Louisville slugger to both headlights I flashed a hole in all four tires Maybe next time I'll think before he I might have saved a little trouble for the next girl Cause the next time that he cheats Oh, you know it won't be on me No I dug my key into the side of his pretty little souped-up four-wheel drive. I carved my name into his leather sheets. I took a loom and a slugger to both headlights. I smashed a hole in all four tires. And every next time I'll die.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 14.864,
+        "end": 34.979,
+        "text": " Right now, he's probably slow dancing with a bleached blonde tramp and she's probably getting frisky Right now, he's probably buying her some fruity little drink cause she can't shoot whiskey Right now, he's probably up behind her with a blue stick showing her how to shoot a combo",
+        "avg_logprob": -0.08455141129032258
+      },
+      {
+        "id": 2,
+        "start": 41.24,
+        "end": 62.198,
+        "text": " key into the side of his pretty little souped-up four-wheel drive. He called my name into his leather seats. I took a Louisville slugger to both headlights and lashed a home in all four tires. And maybe next time I'll think of",
+        "avg_logprob": -0.20103237192545617
+      },
+      {
+        "id": 3,
+        "start": 69.944,
+        "end": 88.658,
+        "text": " Right now, she's probably up singing from a white trash version of Shania karaoke. Right now, she's probably saying I'm drunk and he's thinking that he's gonna get lucky. Right now, he's probably dabbing on three dollars worth of that bathroom hose.",
+        "avg_logprob": -0.07901589598572045
+      },
+      {
+        "id": 4,
+        "start": 96.37,
+        "end": 118.392,
+        "text": " Keen to the sight of this pretty little souped-up four-wheel drive Carved my name into his leather seat I took a Louisville slugger to both headlights I flashed a hole in all four tires Maybe next time I'll think before he",
+        "avg_logprob": -0.17592592123481962
+      },
+      {
+        "id": 5,
+        "start": 122.577,
+        "end": 139.756,
+        "text": " I might have saved a little trouble for the next girl Cause the next time that he cheats Oh, you know it won't be on me No",
+        "avg_logprob": -0.1446572571031509
+      },
+      {
+        "id": 6,
+        "start": 147.147,
+        "end": 168.73,
+        "text": " I dug my key into the side of his pretty little souped-up four-wheel drive. I carved my name into his leather sheets. I took a loom and a slugger to both headlights. I smashed a hole in all four tires. And every next time I'll die.",
+        "avg_logprob": -0.15829918325924483
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "WaSy8yy-mr8",
+    "uploader": "Carrie Underwood",
+    "audio_file": "corpus/01_music_videos_audio/audio/WaSy8yy-mr8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6339684,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.564131,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:10:56Z"
+  },
+  "status": "success",
+  "error": null
+}

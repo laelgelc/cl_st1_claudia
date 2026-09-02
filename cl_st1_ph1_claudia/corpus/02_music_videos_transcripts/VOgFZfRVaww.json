@@ -1,0 +1,77 @@
+{
+  "corpus_id": "VOgFZfRVaww",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/VOgFZfRVaww.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/VOgFZfRVaww.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/VOgFZfRVaww.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Imagine there's no heaven It's easy if you try No hell below us Above us only sky Isn't hard to do. Nothing to kill or die for. And no religion, too. Imagine all the people. But I'm not the only one I hope someday you'll join us And the world will be as one Imagine no possessions I wonder if you can No need for greed or hunger Our brotherhood",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 7.051,
+        "end": 36.717,
+        "text": " Imagine there's no heaven It's easy if you try No hell below us Above us only sky",
+        "avg_logprob": -0.05502929575741291
+      },
+      {
+        "id": 2,
+        "start": 59.212,
+        "end": 80.525,
+        "text": " Isn't hard to do. Nothing to kill or die for. And no religion, too. Imagine all the people.",
+        "avg_logprob": -0.1740625047683716
+      },
+      {
+        "id": 3,
+        "start": 97.552,
+        "end": 125.463,
+        "text": " But I'm not the only one I hope someday you'll join us And the world will be as one Imagine no possessions I wonder if you can",
+        "avg_logprob": -0.06940104266007742
+      },
+      {
+        "id": 4,
+        "start": 127.403,
+        "end": 135.908,
+        "text": " No need for greed or hunger Our brotherhood",
+        "avg_logprob": -0.17558593153953553
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "VOgFZfRVaww",
+    "uploader": "johnlennon",
+    "audio_file": "corpus/01_music_videos_audio/audio/VOgFZfRVaww.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6216338,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.612006,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:02:28Z"
+  },
+  "status": "success",
+  "error": null
+}

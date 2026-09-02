@@ -1,0 +1,91 @@
+{
+  "corpus_id": "S28tILqie1o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/S28tILqie1o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/S28tILqie1o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/S28tILqie1o.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Cupid, draw back your bow and let your arrow go straight to my lover's heart for me, for me. Cupid, please hear my cry and let your arrow fly straight to my lover's heart for me. I don't mean to bother you, but I'm in distress. There's danger of me losing all of my happiness. For I love a girl who doesn't know I exist. And this you can fix. So Cupid. Go straight to my lover's heart for me Nobody but me Cupid, please hear my cry And let your arrow fly Straight to my lover's heart for me Cupid, if your arrow make her love strong for me I promise I will love her until eternity I know between the two of us her heart we can steal Help me if you will So, Cupid, draw back your bow And let your arrow go Straight to my lover's heart for me Cupid, please hear my cry and let your arrow fly straight to my lover's heart for me. Now, Cupid, don't you hear me calling you? I need you. Cupid, help me. Thank you, baby.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 9.008,
+        "end": 36.97,
+        "text": " Cupid, draw back your bow and let your arrow go straight to my lover's heart for me, for me. Cupid, please hear my cry and let your arrow fly straight to my lover's heart for me.",
+        "avg_logprob": -0.04521908845914447
+      },
+      {
+        "id": 2,
+        "start": 40.008,
+        "end": 57.71,
+        "text": " I don't mean to bother you, but I'm in distress. There's danger of me losing all of my happiness. For I love a girl who doesn't know I exist. And this you can fix. So Cupid.",
+        "avg_logprob": -0.09985351329669356
+      },
+      {
+        "id": 3,
+        "start": 62.62,
+        "end": 85.773,
+        "text": " Go straight to my lover's heart for me Nobody but me Cupid, please hear my cry And let your arrow fly Straight to my lover's heart for me",
+        "avg_logprob": -0.1534090909090909
+      },
+      {
+        "id": 4,
+        "start": 87.798,
+        "end": 116.367,
+        "text": " Cupid, if your arrow make her love strong for me I promise I will love her until eternity I know between the two of us her heart we can steal Help me if you will So, Cupid, draw back your bow And let your arrow go Straight to my lover's heart for me",
+        "avg_logprob": -0.06705728868643443
+      },
+      {
+        "id": 5,
+        "start": 120.417,
+        "end": 146.472,
+        "text": " Cupid, please hear my cry and let your arrow fly straight to my lover's heart for me. Now, Cupid, don't you hear me calling you? I need you. Cupid, help me.",
+        "avg_logprob": -0.06684027777777778
+      },
+      {
+        "id": 6,
+        "start": 149.729,
+        "end": 152.108,
+        "text": " Thank you, baby.",
+        "avg_logprob": -0.7675781349341074
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "S28tILqie1o",
+    "uploader": "GoLittleSlowly",
+    "audio_file": "corpus/01_music_videos_audio/audio/S28tILqie1o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5083948,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.900886,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:54:33Z"
+  },
+  "status": "success",
+  "error": null
+}

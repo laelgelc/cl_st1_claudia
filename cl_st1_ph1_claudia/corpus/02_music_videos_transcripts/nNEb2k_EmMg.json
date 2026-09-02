@@ -1,0 +1,63 @@
+{
+  "corpus_id": "nNEb2k_EmMg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nNEb2k_EmMg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/nNEb2k_EmMg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/nNEb2k_EmMg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I think you've got to slow down Before you start to flow away I think you're headed for a breakdown Oh, will you catch him on the rebound? Will you marry for the money? Take the lover in the afternoon Feel your innocence slipping away Don't believe it's coming back soon",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 2,
+    "segments": [
+      {
+        "id": 1,
+        "start": 37.105,
+        "end": 47.062,
+        "text": " I think you've got to slow down Before you start to flow away I think you're headed for a breakdown",
+        "avg_logprob": -0.119225540238878
+      },
+      {
+        "id": 2,
+        "start": 143.941,
+        "end": 163.212,
+        "text": " Oh, will you catch him on the rebound? Will you marry for the money? Take the lover in the afternoon Feel your innocence slipping away Don't believe it's coming back soon",
+        "avg_logprob": -0.10742187661093634
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "nNEb2k_EmMg",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/nNEb2k_EmMg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7418576,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.033404,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:08:58Z"
+  },
+  "status": "success",
+  "error": null
+}

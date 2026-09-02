@@ -1,0 +1,112 @@
+{
+  "corpus_id": "pOKESEtmhis",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/pOKESEtmhis.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/pOKESEtmhis.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/pOKESEtmhis.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "just before our love got lost you said i am as constant as a northern star and i said constant in the darkness where's that if you want me i'll be in the bar on the back of a cartoon coaster In the blue TV screen light I drew a map of Canada Oh, Canada With your face sketched on it twice Oh, you're in my bloodline Holy wine, you taste so bitter Oh, I could drink a case of you And I would still be on my feet I would still be on my feet I live in a box of pain I'm frightened by the devil And I'm drawn to those ones that ain't afraid I remember the time that you told me He said, love is touching souls. Surely you touch mine, because part of you pours out on me in these lines from time to time. Oh, you are in my bloodline Only wine is so bitter But you're so sweet Oh, I could drink a case of you And I would still be on my feet Oh, I would still be on my feet I met a woman. She had a mouth like yours. She knew your life. She knew your devils and your deeds. And she said, go to him. Stay with him if you can. But be prepared to bleed. Open your eyes and blend your mouth. You're so bitter, baby, bitter but you're sweet Oh, I could drink a case of you And I would still love you on my feet I would still be on my feet Ooh. Ooh.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 20.905,
+        "end": 44.817,
+        "text": " just before our love got lost you said i am as constant as a northern star and i said constant in the darkness where's that if you want me i'll be in the bar on the back of a cartoon coaster",
+        "avg_logprob": -0.13423296030272136
+      },
+      {
+        "id": 2,
+        "start": 47.922,
+        "end": 76.205,
+        "text": " In the blue TV screen light I drew a map of Canada Oh, Canada With your face sketched on it twice Oh, you're in my bloodline Holy wine, you taste so bitter",
+        "avg_logprob": -0.1701722725843772
+      },
+      {
+        "id": 3,
+        "start": 77.183,
+        "end": 93.181,
+        "text": " Oh, I could drink a case of you And I would still be on my feet I would still be on my feet",
+        "avg_logprob": -0.23593750476837158
+      },
+      {
+        "id": 4,
+        "start": 115.068,
+        "end": 139.334,
+        "text": " I live in a box of pain I'm frightened by the devil And I'm drawn to those ones that ain't afraid I remember the time that you told me",
+        "avg_logprob": -0.11600378787878787
+      },
+      {
+        "id": 5,
+        "start": 139.975,
+        "end": 154.589,
+        "text": " He said, love is touching souls. Surely you touch mine, because part of you pours out on me in these lines from time to time.",
+        "avg_logprob": -0.21005543970292614
+      },
+      {
+        "id": 6,
+        "start": 158.167,
+        "end": 186.972,
+        "text": " Oh, you are in my bloodline Only wine is so bitter But you're so sweet Oh, I could drink a case of you And I would still be on my feet Oh, I would still be on my feet",
+        "avg_logprob": -0.18680555952919853
+      },
+      {
+        "id": 7,
+        "start": 203.223,
+        "end": 230.999,
+        "text": " I met a woman. She had a mouth like yours. She knew your life. She knew your devils and your deeds. And she said, go to him. Stay with him if you can. But be prepared to bleed. Open your eyes and blend your mouth.",
+        "avg_logprob": -0.18568638978259905
+      },
+      {
+        "id": 8,
+        "start": 232.872,
+        "end": 257.375,
+        "text": " You're so bitter, baby, bitter but you're sweet Oh, I could drink a case of you And I would still love you on my feet I would still be on my feet",
+        "avg_logprob": -0.21042352444247195
+      },
+      {
+        "id": 9,
+        "start": 262.606,
+        "end": 266.69,
+        "text": " Ooh. Ooh.",
+        "avg_logprob": -1.0546875
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "pOKESEtmhis",
+    "uploader": "tee cee",
+    "audio_file": "corpus/01_music_videos_audio/audio/pOKESEtmhis.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8897222,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 27.17041,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:02:39Z"
+  },
+  "status": "success",
+  "error": null
+}

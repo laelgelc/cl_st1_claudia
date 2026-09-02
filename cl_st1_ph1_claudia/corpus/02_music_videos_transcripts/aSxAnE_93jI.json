@@ -1,0 +1,84 @@
+{
+  "corpus_id": "aSxAnE_93jI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/aSxAnE_93jI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/aSxAnE_93jI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/aSxAnE_93jI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Gone are the dark clouds that had me blind It's gonna be a bright, bright, sunshinin' day It's gonna be a bright, bright, sunshinin' day I think I can make it now, the pain is gone All of the bad feelings have disappeared Here is that rainbow I've been praying for It's gonna be a bright, bright sunshine Look all around, there's nothing but blue skies Look straight ahead, nothing but blue sky. I can see clearly now the rain has gone. I can see all obstacles in my way Gone are the dark clouds that had me blind It's gonna be a bright, bright, bright, sunshiny day Oh, it's gonna be a bright, bright, sunshiny day It's gonna be so bright. Oh, yeah. Oh, what a bright, bright sunshine in it. Oh, yeah. Yeah.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 22.525,
+        "end": 50.707,
+        "text": " Gone are the dark clouds that had me blind It's gonna be a bright, bright, sunshinin' day It's gonna be a bright, bright, sunshinin' day I think I can make it now, the pain is gone",
+        "avg_logprob": -0.10250000223517418
+      },
+      {
+        "id": 2,
+        "start": 52.327,
+        "end": 81.622,
+        "text": " All of the bad feelings have disappeared Here is that rainbow I've been praying for It's gonna be a bright, bright sunshine Look all around, there's nothing but blue skies",
+        "avg_logprob": -0.1365017311440574
+      },
+      {
+        "id": 3,
+        "start": 84.98,
+        "end": 112.334,
+        "text": " Look straight ahead, nothing but blue sky. I can see clearly now the rain has gone.",
+        "avg_logprob": -0.16093749478459357
+      },
+      {
+        "id": 4,
+        "start": 116.182,
+        "end": 143.063,
+        "text": " I can see all obstacles in my way Gone are the dark clouds that had me blind It's gonna be a bright, bright, bright, sunshiny day Oh, it's gonna be a bright, bright, sunshiny day",
+        "avg_logprob": -0.12483724020421505
+      },
+      {
+        "id": 5,
+        "start": 145.055,
+        "end": 164.123,
+        "text": " It's gonna be so bright. Oh, yeah. Oh, what a bright, bright sunshine in it. Oh, yeah. Yeah.",
+        "avg_logprob": -0.2191540968829188
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "aSxAnE_93jI",
+    "uploader": "The Midnight Special",
+    "audio_file": "corpus/01_music_videos_audio/audio/aSxAnE_93jI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5852992,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.548902,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:17:43Z"
+  },
+  "status": "success",
+  "error": null
+}

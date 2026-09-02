@@ -1,0 +1,84 @@
+{
+  "corpus_id": "WrMGGouem3c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/WrMGGouem3c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/WrMGGouem3c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/WrMGGouem3c.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Because I love you too much baby Why can't you see? We're suspicious minds And we can build our dreams On suspicious minds So if an old friend I know Stopped by to say hello Would I still see suspicion in you? We're suspicious minds And we can't build our dreams We're suspicious minds What I've said Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 13.852,
+        "end": 23.892,
+        "text": " Because I love you too much baby Why can't you see?",
+        "avg_logprob": -0.17243302932807378
+      },
+      {
+        "id": 2,
+        "start": 43.349,
+        "end": 68.375,
+        "text": " We're suspicious minds And we can build our dreams On suspicious minds So if an old friend I know Stopped by to say hello Would I still see suspicion in you?",
+        "avg_logprob": -0.14453124489103045
+      },
+      {
+        "id": 3,
+        "start": 93.586,
+        "end": 103.812,
+        "text": " We're suspicious minds And we can't build our dreams We're suspicious minds",
+        "avg_logprob": -0.38964844308793545
+      },
+      {
+        "id": 4,
+        "start": 162.757,
+        "end": 164.832,
+        "text": " What I've said",
+        "avg_logprob": -0.55
+      },
+      {
+        "id": 5,
+        "start": 228.755,
+        "end": 231.151,
+        "text": " Thank you.",
+        "avg_logprob": -0.271728515625
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "WrMGGouem3c",
+    "uploader": "Elvis Presley",
+    "audio_file": "corpus/01_music_videos_audio/audio/WrMGGouem3c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7521858,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.407138,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:11:29Z"
+  },
+  "status": "success",
+  "error": null
+}

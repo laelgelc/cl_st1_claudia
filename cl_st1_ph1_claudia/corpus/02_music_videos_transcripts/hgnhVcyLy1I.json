@@ -1,0 +1,98 @@
+{
+  "corpus_id": "hgnhVcyLy1I",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hgnhVcyLy1I.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hgnhVcyLy1I.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hgnhVcyLy1I.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Yo, where we at, man? Where baby doll come from? Put this funny looking shirt on. I don't know, man, but I'm going to go and check you out, man. Where's Lionel at, man? I got to talk to him about something. Oh, yeah. Back to the video. I sense something strange in my mind Situation is Let's cure it cause we're running out of time It's all so Relationships they seem from the start Before I step to meet my girl You know, cause in some way moving it slow looking for a mellow fellow like to vote getting paid late so better lay low scheming on hot money and the whole shit the low pro should be cut like an afro so what you saying huh she's winning with you but i know she's a loser how did you know me and the crew used to do her Now you know. Yo slick blow. Miss her, kiss her, love her Fat girl is crazy Poison. Poison.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 23.639,
+        "end": 47.281,
+        "text": " Yo, where we at, man? Where baby doll come from? Put this funny looking shirt on. I don't know, man, but I'm going to go and check you out, man. Where's Lionel at, man? I got to talk to him about something. Oh, yeah. Back to the video.",
+        "avg_logprob": -0.13924632111892982
+      },
+      {
+        "id": 2,
+        "start": 51.196,
+        "end": 73.606,
+        "text": " I sense something strange in my mind Situation is Let's cure it cause we're running out of time It's all so Relationships they seem from the start",
+        "avg_logprob": -0.14318848075345159
+      },
+      {
+        "id": 3,
+        "start": 120.333,
+        "end": 129.057,
+        "text": " Before I step to meet my girl You know, cause in some way",
+        "avg_logprob": -0.39739583333333334
+      },
+      {
+        "id": 4,
+        "start": 155.483,
+        "end": 171.43,
+        "text": " moving it slow looking for a mellow fellow like to vote getting paid late so better lay low scheming on hot money and the whole shit the low pro should be cut like an afro so what you saying huh she's winning with you but i know she's a loser how did you know me and the crew used to do her",
+        "avg_logprob": -0.1484375046018292
+      },
+      {
+        "id": 5,
+        "start": 207.965,
+        "end": 227.472,
+        "text": " Now you know. Yo slick blow.",
+        "avg_logprob": -0.4739583333333333
+      },
+      {
+        "id": 6,
+        "start": 240.179,
+        "end": 245.663,
+        "text": " Miss her, kiss her, love her Fat girl is crazy",
+        "avg_logprob": -0.17863582189266497
+      },
+      {
+        "id": 7,
+        "start": 273.372,
+        "end": 291.412,
+        "text": " Poison. Poison.",
+        "avg_logprob": -0.6813616071428571
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "hgnhVcyLy1I",
+    "uploader": "Bell Biv Devoe",
+    "audio_file": "corpus/01_music_videos_audio/audio/hgnhVcyLy1I.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9470104,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.323411,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:21:31Z"
+  },
+  "status": "success",
+  "error": null
+}

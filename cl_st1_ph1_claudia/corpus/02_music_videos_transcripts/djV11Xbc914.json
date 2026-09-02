@@ -1,0 +1,77 @@
+{
+  "corpus_id": "djV11Xbc914",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/djV11Xbc914.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/djV11Xbc914.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/djV11Xbc914.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I don't know what to say, I'll say it anyway Today is another day to fight It's so needless to say I'm all descended, so far I'll be Stolen away Stolen, but life is okay Stay up for me It's no better to be safe than sorry I say, yeah, he's delightful, just to play my worries away. You're all the things I've got to remember, he's shying away. Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 40.16,
+        "end": 48.209,
+        "text": " I don't know what to say, I'll say it anyway Today is another day to fight",
+        "avg_logprob": -0.23554686829447746
+      },
+      {
+        "id": 2,
+        "start": 76.508,
+        "end": 93.907,
+        "text": " It's so needless to say I'm all descended, so far I'll be Stolen away Stolen, but life is okay Stay up for me It's no better to be safe than sorry",
+        "avg_logprob": -0.40053353077027853
+      },
+      {
+        "id": 3,
+        "start": 157.947,
+        "end": 169.979,
+        "text": " I say, yeah, he's delightful, just to play my worries away. You're all the things I've got to remember, he's shying away.",
+        "avg_logprob": -0.23058363313184066
+      },
+      {
+        "id": 4,
+        "start": 215.795,
+        "end": 219.862,
+        "text": " Thank you.",
+        "avg_logprob": -0.6162109225988388
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "djV11Xbc914",
+    "uploader": "a-ha",
+    "audio_file": "corpus/01_music_videos_audio/audio/djV11Xbc914.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7808670,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.154157,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:22:30Z"
+  },
+  "status": "success",
+  "error": null
+}

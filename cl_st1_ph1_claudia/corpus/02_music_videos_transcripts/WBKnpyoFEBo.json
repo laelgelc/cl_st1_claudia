@@ -1,0 +1,77 @@
+{
+  "corpus_id": "WBKnpyoFEBo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/WBKnpyoFEBo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/WBKnpyoFEBo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/WBKnpyoFEBo.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Hey, um, it's me Call me when you can Tell me how I'm supposed to breathe with no air Tell me how I'm supposed to breathe with no air Can't live, can't breathe with no air Stop it whenever you ain't there There's no air, no air Happy House, what's in the window? You got me out here in the water so deep Tell me how you gon' be without me If you ain't here, I just can't breathe There's no end, no end",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 28.668,
+        "text": " Hey, um, it's me Call me when you can Tell me how I'm supposed to breathe with no air",
+        "avg_logprob": -0.1652018272628387
+      },
+      {
+        "id": 2,
+        "start": 79.462,
+        "end": 91.679,
+        "text": " Tell me how I'm supposed to breathe with no air Can't live, can't breathe with no air Stop it whenever you ain't there There's no air, no air",
+        "avg_logprob": -0.1227213525109821
+      },
+      {
+        "id": 3,
+        "start": 151.771,
+        "end": 153.661,
+        "text": " Happy House, what's in the window?",
+        "avg_logprob": -0.7113281071186066
+      },
+      {
+        "id": 4,
+        "start": 247.84,
+        "end": 270.47,
+        "text": " You got me out here in the water so deep Tell me how you gon' be without me If you ain't here, I just can't breathe There's no end, no end",
+        "avg_logprob": -0.1643708912949813
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "WBKnpyoFEBo",
+    "uploader": "Jordin Sparks",
+    "audio_file": "corpus/01_music_videos_audio/audio/WBKnpyoFEBo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9213014,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.508158,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:09:32Z"
+  },
+  "status": "success",
+  "error": null
+}

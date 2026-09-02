@@ -1,0 +1,84 @@
+{
+  "corpus_id": "CaCSuzR4DwM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CaCSuzR4DwM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/CaCSuzR4DwM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/CaCSuzR4DwM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I see trees of green Red roses too I see them bloom For me and you And I think to myself What a wonderful world I see skies of blue, clouds of white, bright blessed days, dark sacred nights. And I think to myself, what a wonderful day. The colors of the rainbow so pretty in the skies Also on the faces of people going by I see friends shaking hands saying, how do you do? They're really saying, I love you. I hear babies crying. I watch them grow. They'll learn much more than I'll ever know. And I think to myself What a wonderful world Yes, I think to myself What a wonderful world",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 29.815,
+        "text": " I see trees of green Red roses too I see them bloom For me and you And I think to myself What a wonderful world",
+        "avg_logprob": -0.10877403502280895
+      },
+      {
+        "id": 2,
+        "start": 33.983,
+        "end": 55.685,
+        "text": " I see skies of blue, clouds of white, bright blessed days, dark sacred nights. And I think to myself, what a wonderful day.",
+        "avg_logprob": -0.12695312400658926
+      },
+      {
+        "id": 3,
+        "start": 62.975,
+        "end": 75.985,
+        "text": " The colors of the rainbow so pretty in the skies Also on the faces of people going by",
+        "avg_logprob": -0.18400493107343974
+      },
+      {
+        "id": 4,
+        "start": 76.66,
+        "end": 105.314,
+        "text": " I see friends shaking hands saying, how do you do? They're really saying, I love you. I hear babies crying. I watch them grow. They'll learn much more than I'll ever know.",
+        "avg_logprob": -0.09225109115589497
+      },
+      {
+        "id": 5,
+        "start": 105.972,
+        "end": 130.475,
+        "text": " And I think to myself What a wonderful world Yes, I think to myself What a wonderful world",
+        "avg_logprob": -0.08496093899011611
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "CaCSuzR4DwM",
+    "uploader": "Louis Armstrong",
+    "audio_file": "corpus/01_music_videos_audio/audio/CaCSuzR4DwM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4655958,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.954572,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:14:02Z"
+  },
+  "status": "success",
+  "error": null
+}

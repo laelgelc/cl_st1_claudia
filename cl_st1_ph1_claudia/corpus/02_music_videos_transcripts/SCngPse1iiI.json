@@ -1,0 +1,77 @@
+{
+  "corpus_id": "SCngPse1iiI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/SCngPse1iiI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/SCngPse1iiI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/SCngPse1iiI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Didn't I give you nearly everything that a woman possibly can? Honey, you know I did. And each time I tell myself that I, well, I think I've had enough. Well, I'm gonna show you, baby, that a woman can't be tough. I want you to come on. A piece of my heart now baby Well you know you got it If it makes you feel good Oh yes indeed You're out on the streets looking good And baby deep down in your heart I guess you know that it ain't right Come on, come on, come on, come on, yeah Take another little piece of my heart now, baby Take another little bit of my heart now, yeah Take another little piece of my heart now, baby Well, you know you got it, John, if it makes you feel good I need you to come",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 36.667,
+        "end": 55.432,
+        "text": " Didn't I give you nearly everything that a woman possibly can? Honey, you know I did. And each time I tell myself that I, well, I think I've had enough. Well, I'm gonna show you, baby, that a woman can't be tough. I want you to come on.",
+        "avg_logprob": -0.19396972004324198
+      },
+      {
+        "id": 2,
+        "start": 74.568,
+        "end": 99.104,
+        "text": " A piece of my heart now baby Well you know you got it If it makes you feel good Oh yes indeed You're out on the streets looking good And baby deep down in your heart I guess you know that it ain't right",
+        "avg_logprob": -0.17004653938273165
+      },
+      {
+        "id": 3,
+        "start": 120.248,
+        "end": 148.97,
+        "text": " Come on, come on, come on, come on, yeah Take another little piece of my heart now, baby Take another little bit of my heart now, yeah Take another little piece of my heart now, baby Well, you know you got it, John, if it makes you feel good",
+        "avg_logprob": -0.17552083532015483
+      },
+      {
+        "id": 4,
+        "start": 184.88,
+        "end": 185.842,
+        "text": " I need you to come",
+        "avg_logprob": -0.574218730131785
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "SCngPse1iiI",
+    "uploader": "Janis Joplin",
+    "audio_file": "corpus/01_music_videos_audio/audio/SCngPse1iiI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8174246,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.791547,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:49Z"
+  },
+  "status": "success",
+  "error": null
+}

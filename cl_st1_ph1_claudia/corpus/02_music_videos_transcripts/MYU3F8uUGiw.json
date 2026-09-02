@@ -1,0 +1,91 @@
+{
+  "corpus_id": "MYU3F8uUGiw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/MYU3F8uUGiw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/MYU3F8uUGiw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/MYU3F8uUGiw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "But those around you crawled They crawled out of the woodwork And they whispered into your brain They set you on the treadmill And they made you change your name And it seems to me You lived your life like a candle in the wind Never knowing who to cling to when the rain set in And I would have liked to know you but I was just a kid Oh, the press still hounded you All the papers had to say Was that Marilyn was found in the news You lived your life like a candle in the wind Never knowing who to cling to When the rain set in And I would have liked to know you But I was just a kid Your candle burned out long before The young man in the 22nd row He sees you as something more than sexual More than just our Marilyn Monroe And it seems to me you lived your life Like a candle in the wind Never knowing who to cling to When the rain set in But I was just a kid The candle burned out long before The legend ever did The candle burned out",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 16.67,
+        "end": 45.07,
+        "text": " But those around you crawled They crawled out of the woodwork And they whispered into your brain They set you on the treadmill And they made you change your name And it seems to me You lived your life like a candle in the wind",
+        "avg_logprob": -0.09789062395691872
+      },
+      {
+        "id": 2,
+        "start": 45.627,
+        "end": 59.195,
+        "text": " Never knowing who to cling to when the rain set in And I would have liked to know you but I was just a kid",
+        "avg_logprob": -0.15204326751140448
+      },
+      {
+        "id": 3,
+        "start": 82.28,
+        "end": 106.478,
+        "text": " Oh, the press still hounded you All the papers had to say Was that Marilyn was found in the news",
+        "avg_logprob": -0.23726222826086957
+      },
+      {
+        "id": 4,
+        "start": 110.107,
+        "end": 134.39,
+        "text": " You lived your life like a candle in the wind Never knowing who to cling to When the rain set in And I would have liked to know you But I was just a kid Your candle burned out long before",
+        "avg_logprob": -0.1475074379926636
+      },
+      {
+        "id": 5,
+        "start": 168.393,
+        "end": 194.33,
+        "text": " The young man in the 22nd row He sees you as something more than sexual More than just our Marilyn Monroe And it seems to me you lived your life Like a candle in the wind Never knowing who to cling to When the rain set in",
+        "avg_logprob": -0.08641581875937325
+      },
+      {
+        "id": 6,
+        "start": 199.173,
+        "end": 213.635,
+        "text": " But I was just a kid The candle burned out long before The legend ever did The candle burned out",
+        "avg_logprob": -0.24739583333333334
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "MYU3F8uUGiw",
+    "uploader": "Elton John",
+    "audio_file": "corpus/01_music_videos_audio/audio/MYU3F8uUGiw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7325696,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 25.70675,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:47Z"
+  },
+  "status": "success",
+  "error": null
+}

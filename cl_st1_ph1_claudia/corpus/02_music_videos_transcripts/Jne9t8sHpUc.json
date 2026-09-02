@@ -1,0 +1,91 @@
+{
+  "corpus_id": "Jne9t8sHpUc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Jne9t8sHpUc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Jne9t8sHpUc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Jne9t8sHpUc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "an old man turned 98 he won the lottery and died the next day it's a black fly in your chardonnay it's a death row pardon two minutes too late and isn't it ironic don't you think it's like rain That you just didn't take And who would have thought It figures Mr. Play-it-safe Was afraid to fly He packed his suitcase And kissed his kids goodbye He waited his whole damn life To take that flight And as the plane crashed down He thought, well listen to this now don't you think? It's like rain on your wedding day. It's a free ride on your already paid good advice that you just didn't take. And who Everything's gone wrong and everything blows up in your face Traffic jam when you're already late And no smoking sign on your cigarette break It's like ten thousand spoons When all you need is a knife It's meeting the man of my dreams And then meeting his beautiful wife And isn't it ironic? Don't you think? A little too ironic And yeah, I really do think That you just didn't take And who would have thought it figures And yeah, life is a funny way of sticking up on you Life is a funny, funny way of helping you out",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 16.096,
+        "end": 43.872,
+        "text": " an old man turned 98 he won the lottery and died the next day it's a black fly in your chardonnay it's a death row pardon two minutes too late and isn't it ironic don't you think it's like rain",
+        "avg_logprob": -0.12388392857142858
+      },
+      {
+        "id": 2,
+        "start": 57.642,
+        "end": 87.477,
+        "text": " That you just didn't take And who would have thought It figures Mr. Play-it-safe Was afraid to fly He packed his suitcase And kissed his kids goodbye He waited his whole damn life To take that flight And as the plane crashed down He thought, well listen to this now",
+        "avg_logprob": -0.20881885694245161
+      },
+      {
+        "id": 3,
+        "start": 91.949,
+        "end": 112.233,
+        "text": " don't you think? It's like rain on your wedding day. It's a free ride on your already paid good advice that you just didn't take. And who",
+        "avg_logprob": -0.20781249914850508
+      },
+      {
+        "id": 4,
+        "start": 132.196,
+        "end": 150.539,
+        "text": " Everything's gone wrong and everything blows up in your face Traffic jam when you're already late And no smoking sign on your cigarette break",
+        "avg_logprob": -0.20746527998535721
+      },
+      {
+        "id": 5,
+        "start": 150.826,
+        "end": 173.692,
+        "text": " It's like ten thousand spoons When all you need is a knife It's meeting the man of my dreams And then meeting his beautiful wife And isn't it ironic? Don't you think? A little too ironic And yeah, I really do think",
+        "avg_logprob": -0.09156250014901161
+      },
+      {
+        "id": 6,
+        "start": 188.592,
+        "end": 215.322,
+        "text": " That you just didn't take And who would have thought it figures And yeah, life is a funny way of sticking up on you Life is a funny, funny way of helping you out",
+        "avg_logprob": -0.2374588878531205
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Jne9t8sHpUc",
+    "uploader": "Alanis Morissette",
+    "audio_file": "corpus/01_music_videos_audio/audio/Jne9t8sHpUc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7888176,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.917553,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:15:39Z"
+  },
+  "status": "success",
+  "error": null
+}

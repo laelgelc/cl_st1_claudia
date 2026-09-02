@@ -1,0 +1,84 @@
+{
+  "corpus_id": "OblL026SvD4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/OblL026SvD4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/OblL026SvD4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/OblL026SvD4.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "That we've been together I need the other one to hold you Make you feel, make you feel better It's not a walk in the park To love each other But when our fingers interlock Can't deny, can't deny I'm still into you I should be over all the butterflies But I'm into you, I'm into you And baby, even on our worst nights I'm into you, I'm into you Let them wonder how we got this far Cause I don't really need to wonder at all After all this time When I first met your mother And on the drive back to my house I told you that, I told you that I loved ya You felt the weight of the world fall off your shoulder And to your favorite song we sang along to the start of the road I'm still into you I should be over all the perfect Some things just, some things just make sense And one of those is you and I Some things just, some things just make sense And even after all this time I'm into you Baby, not a day goes by that I'm not into you I should be",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 14.459,
+        "end": 36.16,
+        "text": " That we've been together I need the other one to hold you Make you feel, make you feel better It's not a walk in the park To love each other But when our fingers interlock Can't deny, can't deny",
+        "avg_logprob": -0.08153257629972824
+      },
+      {
+        "id": 2,
+        "start": 40.852,
+        "end": 69.573,
+        "text": " I'm still into you I should be over all the butterflies But I'm into you, I'm into you And baby, even on our worst nights I'm into you, I'm into you Let them wonder how we got this far Cause I don't really need to wonder at all After all this time",
+        "avg_logprob": -0.053521925283055154
+      },
+      {
+        "id": 3,
+        "start": 80.98,
+        "end": 104.167,
+        "text": " When I first met your mother And on the drive back to my house I told you that, I told you that I loved ya You felt the weight of the world fall off your shoulder And to your favorite song we sang along to the start of the road",
+        "avg_logprob": -0.1547476024581836
+      },
+      {
+        "id": 4,
+        "start": 108.757,
+        "end": 115.237,
+        "text": " I'm still into you I should be over all the perfect",
+        "avg_logprob": -0.2038762065080496
+      },
+      {
+        "id": 5,
+        "start": 154.167,
+        "end": 181.15,
+        "text": " Some things just, some things just make sense And one of those is you and I Some things just, some things just make sense And even after all this time I'm into you Baby, not a day goes by that I'm not into you I should be",
+        "avg_logprob": -0.1164504700111893
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "OblL026SvD4",
+    "uploader": "Paramore",
+    "audio_file": "corpus/01_music_videos_audio/audio/OblL026SvD4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7046312,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.75181,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:13:41Z"
+  },
+  "status": "success",
+  "error": null
+}

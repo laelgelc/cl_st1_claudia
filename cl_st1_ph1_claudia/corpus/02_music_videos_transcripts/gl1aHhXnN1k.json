@@ -1,0 +1,98 @@
+{
+  "corpus_id": "gl1aHhXnN1k",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/gl1aHhXnN1k.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/gl1aHhXnN1k.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/gl1aHhXnN1k.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "One time on Twitter, I heard Ariana was pregnant, so I got pregnant so we could be pregnant at the same time. Turns out it was just a rumor. Ariana Grande told me my hair looked sexy pushed back. She's not wrong. Ariana broke off an engagement, so I found a guy to propose to me, and I broke off an engagement. I heard she's a lesbian now, and dating some chick called Aubrey. It's fucking sick. I heard if you record her snoring and play it backwards, it sounds like Fantasia. Ariana says, honest to God, knock me out. So I decided to punch myself in the face. It was awesome. Thought I'd end up with Sean, but he wasn't a match. Wrote some songs about Ricky. Now I listen and laugh, even almost I'm so thankful. Wish I could say thank you to Malcolm. Cause he was an angel. One taught me love. One taught me patience. And one taught me pain. Now I'm so amazed. I've loved and I've lost. That's not what I see. Look what I got. I'll be thanking my dad Cause she grew from the drama Only wanna do it He was really cute, you know? He was really cute. Yeah. And it was really big. Well, I've only gone out with one guy that had a big front tooth. And I liked it, because he never got anything stuck in the front teeth. But have you ever gone out with someone that had no teeth at all? No. Thank you, next bitch.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.588,
+        "end": 27.537,
+        "text": " One time on Twitter, I heard Ariana was pregnant, so I got pregnant so we could be pregnant at the same time. Turns out it was just a rumor. Ariana Grande told me my hair looked sexy pushed back. She's not wrong. Ariana broke off an engagement, so I found a guy to propose to me, and I broke off an engagement. I heard she's a lesbian now, and dating some chick called Aubrey.",
+        "avg_logprob": -0.07483321629213484
+      },
+      {
+        "id": 2,
+        "start": 28.178,
+        "end": 57.018,
+        "text": " It's fucking sick. I heard if you record her snoring and play it backwards, it sounds like Fantasia. Ariana says, honest to God, knock me out. So I decided to punch myself in the face. It was awesome. Thought I'd end up with Sean, but he wasn't a match. Wrote some songs about Ricky. Now I listen and laugh, even almost",
+        "avg_logprob": -0.07680663987994193
+      },
+      {
+        "id": 3,
+        "start": 58.621,
+        "end": 80.069,
+        "text": " I'm so thankful. Wish I could say thank you to Malcolm. Cause he was an angel. One taught me love. One taught me patience. And one taught me pain. Now I'm so amazed. I've loved and I've lost. That's not what I see. Look what I got.",
+        "avg_logprob": -0.12487599395570301
+      },
+      {
+        "id": 4,
+        "start": 168.393,
+        "end": 173.759,
+        "text": " I'll be thanking my dad Cause she grew from the drama Only wanna do it",
+        "avg_logprob": -0.2536764705882353
+      },
+      {
+        "id": 5,
+        "start": 202.565,
+        "end": 230.999,
+        "text": " He was really cute, you know? He was really cute. Yeah. And it was really big. Well, I've only gone out with one guy that had a big front tooth. And I liked it, because he never got anything stuck in the front teeth. But have you ever gone out with someone that had no teeth at all?",
+        "avg_logprob": -0.1017857120505401
+      },
+      {
+        "id": 6,
+        "start": 232.062,
+        "end": 236.146,
+        "text": " No.",
+        "avg_logprob": -0.3219401041666667
+      },
+      {
+        "id": 7,
+        "start": 322.597,
+        "end": 324.014,
+        "text": " Thank you, next bitch.",
+        "avg_logprob": -0.12151228104318891
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "gl1aHhXnN1k",
+    "uploader": "Ariana Grande",
+    "audio_file": "corpus/01_music_videos_audio/audio/gl1aHhXnN1k.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10577976,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.08591,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:21:16Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,98 @@
+{
+  "corpus_id": "hQugcviHDTA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hQugcviHDTA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hQugcviHDTA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hQugcviHDTA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You're just too good to be true Can't take my eyes off of you You'd be like heaven to touch I wanna hold you so much At long last love has arrived And I thank God I'm alive You're just too good to be true I can't take my eyes off you Pardon the way that I stare There's nothing else to compare The sight of you leaves me weak There are no words left to speak But if you feel like I feel Please let me know that it's real You're just too good to be true Can't take my eyes off you i love you baby and if it's quite all right i need you baby to warm the lonely night i love you baby trust in me when i say oh pretty baby don't bring me down i pray oh pretty baby now that i've found you stay and let me love you baby let me love You're just too good to be true Can't take my eyes off of you You'd be like heaven to touch I wanna hold you so much At long last love has arrived And I thank God I'm alive You're just too good to be true Can't take my eyes off you I love you, baby And if it's quite all right I need you, baby To warm the lonely night I love you, baby Trust in me when I say Oh pretty baby, don't bring me down I pray Oh pretty baby, now that I've found you stay Oh pretty baby, trust in me when I say",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 11.894,
+        "end": 38.033,
+        "text": " You're just too good to be true Can't take my eyes off of you You'd be like heaven to touch I wanna hold you so much At long last love has arrived And I thank God I'm alive You're just too good to be true",
+        "avg_logprob": -0.05074295343137255
+      },
+      {
+        "id": 2,
+        "start": 38.995,
+        "end": 57.473,
+        "text": " I can't take my eyes off you Pardon the way that I stare There's nothing else to compare The sight of you leaves me weak There are no words left to speak",
+        "avg_logprob": -0.07103794813156128
+      },
+      {
+        "id": 3,
+        "start": 58.435,
+        "end": 72.475,
+        "text": " But if you feel like I feel Please let me know that it's real You're just too good to be true Can't take my eyes off you",
+        "avg_logprob": -0.07951108678694695
+      },
+      {
+        "id": 4,
+        "start": 90.329,
+        "end": 119.067,
+        "text": " i love you baby and if it's quite all right i need you baby to warm the lonely night i love you baby trust in me when i say oh pretty baby don't bring me down i pray oh pretty baby now that i've found you stay and let me love you baby let me love",
+        "avg_logprob": -0.09029947829743226
+      },
+      {
+        "id": 5,
+        "start": 121.295,
+        "end": 148.396,
+        "text": " You're just too good to be true Can't take my eyes off of you You'd be like heaven to touch I wanna hold you so much At long last love has arrived And I thank God I'm alive You're just too good to be true",
+        "avg_logprob": -0.05016850636285894
+      },
+      {
+        "id": 6,
+        "start": 148.733,
+        "end": 176.476,
+        "text": " Can't take my eyes off you I love you, baby And if it's quite all right I need you, baby To warm the lonely night I love you, baby Trust in me when I say",
+        "avg_logprob": -0.08398437645377183
+      },
+      {
+        "id": 7,
+        "start": 177.117,
+        "end": 191.427,
+        "text": " Oh pretty baby, don't bring me down I pray Oh pretty baby, now that I've found you stay Oh pretty baby, trust in me when I say",
+        "avg_logprob": -0.10002367424242424
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "hQugcviHDTA",
+    "uploader": "Frankie Valli and the Four Seasons",
+    "audio_file": "corpus/01_music_videos_audio/audio/hQugcviHDTA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6240860,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 9.759992,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:18:06Z"
+  },
+  "status": "success",
+  "error": null
+}

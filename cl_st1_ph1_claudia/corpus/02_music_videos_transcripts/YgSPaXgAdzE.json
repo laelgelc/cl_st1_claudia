@@ -1,0 +1,91 @@
+{
+  "corpus_id": "YgSPaXgAdzE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/YgSPaXgAdzE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/YgSPaXgAdzE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/YgSPaXgAdzE.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "eyeballs. Spray paint the vegetables, dog food skulls with the beefcake pantyhose. Kill the headlights and put it in neutral. Start car flaming with a loser in the cruise control. Babies in Reno with the vitamin D. Got a couple of couches, sleep on the love seat. Someone came saying I'm insane to complain about a shotgun wedding and a stain on my shirt. Don't believe everything that you breathe. You get a parking violation Who would stand to burn down a trailer park? Yo. Cut it. I'm a loser baby. So why don't you kill me? I'm a loser baby. So why don't you kill me? Because one's got a weasel and other's got a flag One's on the pole, shove the other in the bag With the rerun shows and the cocaine nose jug The daytime crap of the folk singer's club He hung himself with a guitar string A slab of turkey neck and it's hanging from a pigeon wing Gotta get right if you can't relate Trade the cash for the beat, for the body, for the hate And my time is a piece of wax Falling on a termite It's choking on the splinters So I'm a loser baby I'm a driver. I'm a winner. Things are going to change. I can feel it. I'm a loser, baby. So why don't you kill me? I can't believe this. I'm a loser, baby. I'm a loser baby So why don't you kill me? So why? I'm a loser baby So why don't you kill me?",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 29.039,
+        "end": 54.908,
+        "text": " eyeballs. Spray paint the vegetables, dog food skulls with the beefcake pantyhose. Kill the headlights and put it in neutral. Start car flaming with a loser in the cruise control. Babies in Reno with the vitamin D. Got a couple of couches, sleep on the love seat. Someone came saying I'm insane to complain about a shotgun wedding and a stain on my shirt. Don't believe everything that you breathe. You get a parking violation",
+        "avg_logprob": -0.10799153591506183
+      },
+      {
+        "id": 2,
+        "start": 60.393,
+        "end": 89.772,
+        "text": " Who would stand to burn down a trailer park? Yo. Cut it. I'm a loser baby. So why don't you kill me? I'm a loser baby. So why don't you kill me?",
+        "avg_logprob": -0.21573153138160706
+      },
+      {
+        "id": 3,
+        "start": 95.527,
+        "end": 124.552,
+        "text": " Because one's got a weasel and other's got a flag One's on the pole, shove the other in the bag With the rerun shows and the cocaine nose jug The daytime crap of the folk singer's club He hung himself with a guitar string A slab of turkey neck and it's hanging from a pigeon wing Gotta get right if you can't relate Trade the cash for the beat, for the body, for the hate And my time is a piece of wax Falling on a termite It's choking on the splinters So",
+        "avg_logprob": -0.12279829877344045
+      },
+      {
+        "id": 4,
+        "start": 139.013,
+        "end": 142.709,
+        "text": " I'm a loser baby",
+        "avg_logprob": -0.10221354042490323
+      },
+      {
+        "id": 5,
+        "start": 174.957,
+        "end": 198.667,
+        "text": " I'm a driver. I'm a winner. Things are going to change. I can feel it. I'm a loser, baby. So why don't you kill me? I can't believe this. I'm a loser, baby.",
+        "avg_logprob": -0.13140624940395354
+      },
+      {
+        "id": 6,
+        "start": 206.817,
+        "end": 226.24,
+        "text": " I'm a loser baby So why don't you kill me? So why? I'm a loser baby So why don't you kill me?",
+        "avg_logprob": -0.20937500248352686
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "YgSPaXgAdzE",
+    "uploader": "Beck",
+    "audio_file": "corpus/01_music_videos_audio/audio/YgSPaXgAdzE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7433436,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 23.002276,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:00:07Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,91 @@
+{
+  "corpus_id": "XPpTgCho5ZA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/XPpTgCho5ZA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/XPpTgCho5ZA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/XPpTgCho5ZA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Call for me, she said goodbye I tried my best to feed her appetite. Keep her coming every night. So hard to keep her satisfied. Oh, kept playing love like it was just a game. Pretending to feel the same. Turn around and leave. Every is just you I know She said goodbye too many times before Her heart is breaking in front of me Too many times before My heart is breaking in front of me She said goodbye Too many times before This love has taken its toll on me She said goodbye Too many times before My heart is breaking in front of me Cause I won't say goodbye anymore",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 44.969,
+        "end": 48.648,
+        "text": " Call for me, she said goodbye",
+        "avg_logprob": -0.2915039025247097
+      },
+      {
+        "id": 2,
+        "start": 72.087,
+        "end": 89.519,
+        "text": " I tried my best to feed her appetite. Keep her coming every night. So hard to keep her satisfied. Oh, kept playing love like it was just a game. Pretending to feel the same. Turn around and leave.",
+        "avg_logprob": -0.14993351317466574
+      },
+      {
+        "id": 3,
+        "start": 123.151,
+        "end": 139.942,
+        "text": " Every is just you I know",
+        "avg_logprob": -0.8510044813156128
+      },
+      {
+        "id": 4,
+        "start": 145.983,
+        "end": 157.795,
+        "text": " She said goodbye too many times before Her heart is breaking in front of me",
+        "avg_logprob": -0.34619140438735485
+      },
+      {
+        "id": 5,
+        "start": 169.76,
+        "end": 197.654,
+        "text": " Too many times before My heart is breaking in front of me She said goodbye Too many times before This love has taken its toll on me She said goodbye Too many times before My heart is breaking in front of me",
+        "avg_logprob": -0.06849564022796098
+      },
+      {
+        "id": 6,
+        "start": 199.291,
+        "end": 203.088,
+        "text": " Cause I won't say goodbye anymore",
+        "avg_logprob": -0.3857421763241291
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "XPpTgCho5ZA",
+    "uploader": "Maroon 5",
+    "audio_file": "corpus/01_music_videos_audio/audio/XPpTgCho5ZA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6570026,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.911898,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:09:14Z"
+  },
+  "status": "success",
+  "error": null
+}

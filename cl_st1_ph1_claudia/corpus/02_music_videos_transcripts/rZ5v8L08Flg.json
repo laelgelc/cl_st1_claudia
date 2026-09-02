@@ -1,0 +1,84 @@
+{
+  "corpus_id": "rZ5v8L08Flg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/rZ5v8L08Flg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/rZ5v8L08Flg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/rZ5v8L08Flg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I'm breaking rocks in the hot sun I fought the law and the law won I fought the law and the law won I needed money cause I had none I fought the law and the law won I fought the law and the Bye. Bye. Bye. arriving people with a six gun I fought the law and the I won I fought the law and the I miss my baby and I'm good fun I fought the law and the law won I fought the law and the law won I left my baby and it feels so bad I guess my race is run Well she's the best girl I've ever had I fought the law and the Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 10.105,
+        "end": 34.979,
+        "text": " I'm breaking rocks in the hot sun I fought the law and the law won I fought the law and the law won I needed money cause I had none I fought the law and the law won I fought the law and the",
+        "avg_logprob": -0.14699388781319495
+      },
+      {
+        "id": 2,
+        "start": 42.725,
+        "end": 57.592,
+        "text": " Bye. Bye. Bye.",
+        "avg_logprob": -0.6986607313156128
+      },
+      {
+        "id": 3,
+        "start": 79.158,
+        "end": 88.81,
+        "text": " arriving people with a six gun I fought the law and the I won I fought the law and the",
+        "avg_logprob": -0.2466517970675514
+      },
+      {
+        "id": 4,
+        "start": 94.733,
+        "end": 122.543,
+        "text": " I miss my baby and I'm good fun I fought the law and the law won I fought the law and the law won I left my baby and it feels so bad I guess my race is run Well she's the best girl I've ever had I fought the law and the",
+        "avg_logprob": -0.11136238825948615
+      },
+      {
+        "id": 5,
+        "start": 133.057,
+        "end": 133.934,
+        "text": " Thank you.",
+        "avg_logprob": -0.5854492038488388
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "rZ5v8L08Flg",
+    "uploader": "The Bobby Fuller Four - Topic",
+    "audio_file": "corpus/01_music_videos_audio/audio/rZ5v8L08Flg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4435276,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.890129,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:00:31Z"
+  },
+  "status": "success",
+  "error": null
+}

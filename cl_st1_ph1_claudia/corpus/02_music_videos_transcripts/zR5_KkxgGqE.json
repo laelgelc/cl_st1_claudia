@@ -1,0 +1,77 @@
+{
+  "corpus_id": "zR5_KkxgGqE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/zR5_KkxgGqE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/zR5_KkxgGqE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/zR5_KkxgGqE.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I know you got a man but this is what you should say You're the baddest little thing that I ever seen don't stress don't stress don't stress just turn them to the left don't stress don't stress don't She gonna sing it. She gonna sing it. Girl, you gonna sing it.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 20.568,
+        "end": 34.76,
+        "text": " I know you got a man but this is what you should say",
+        "avg_logprob": -0.3189174234867096
+      },
+      {
+        "id": 2,
+        "start": 86.127,
+        "end": 89.536,
+        "text": " You're the baddest little thing that I ever seen",
+        "avg_logprob": -0.3131510366996129
+      },
+      {
+        "id": 3,
+        "start": 127.673,
+        "end": 142.439,
+        "text": " don't stress don't stress don't stress just turn them to the left don't stress don't stress don't",
+        "avg_logprob": -0.2534179824093978
+      },
+      {
+        "id": 4,
+        "start": 201.282,
+        "end": 205.265,
+        "text": " She gonna sing it. She gonna sing it. Girl, you gonna sing it.",
+        "avg_logprob": -0.3472222155994839
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "zR5_KkxgGqE",
+    "uploader": "HollywoodRecordsVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/zR5_KkxgGqE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7036654,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.923106,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:06:02Z"
+  },
+  "status": "success",
+  "error": null
+}

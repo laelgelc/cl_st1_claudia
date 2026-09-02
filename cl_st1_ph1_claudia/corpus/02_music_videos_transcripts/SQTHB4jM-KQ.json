@@ -1,0 +1,112 @@
+{
+  "corpus_id": "SQTHB4jM-KQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/SQTHB4jM-KQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/SQTHB4jM-KQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/SQTHB4jM-KQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "It's easy to do The things you wanted I bought them for you Priceless lady, you know who I am. You know I can't let you slide through my hands. horses couldn't drag me away wild wild horses couldn't drag me away I watched you suffer Now you decided to show me the same. Could make me feel bitter But I don't have much time Fate has been broken Tears must be cried Let's do some living After we We'll ride them someday Wild horses couldn't drag me away Wild, wild horses, we'll ride them someday Let's hear it.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 23.521,
+        "end": 47.146,
+        "text": " It's easy to do The things you wanted I bought them for you",
+        "avg_logprob": -0.26614583333333336
+      },
+      {
+        "id": 2,
+        "start": 51.55,
+        "end": 76.07,
+        "text": " Priceless lady, you know who I am. You know I can't let you slide through my hands.",
+        "avg_logprob": -0.095703127173086
+      },
+      {
+        "id": 3,
+        "start": 81.554,
+        "end": 110.309,
+        "text": " horses couldn't drag me away wild wild horses couldn't drag me away I watched you suffer",
+        "avg_logprob": -0.10587993264198303
+      },
+      {
+        "id": 4,
+        "start": 114.477,
+        "end": 131.555,
+        "text": " Now you decided to show me the same.",
+        "avg_logprob": -0.3066406220197678
+      },
+      {
+        "id": 5,
+        "start": 147.839,
+        "end": 152.26,
+        "text": " Could make me feel bitter",
+        "avg_logprob": -0.23111979166666666
+      },
+      {
+        "id": 6,
+        "start": 227.371,
+        "end": 255.113,
+        "text": " But I don't have much time Fate has been broken Tears must be cried Let's do some living After we",
+        "avg_logprob": -0.14534505580862364
+      },
+      {
+        "id": 7,
+        "start": 278.857,
+        "end": 281.928,
+        "text": " We'll ride them someday",
+        "avg_logprob": -0.1149088516831398
+      },
+      {
+        "id": 8,
+        "start": 313.501,
+        "end": 336.535,
+        "text": " Wild horses couldn't drag me away Wild, wild horses, we'll ride them someday",
+        "avg_logprob": -0.23502604415019354
+      },
+      {
+        "id": 9,
+        "start": 342.509,
+        "end": 345.192,
+        "text": " Let's hear it.",
+        "avg_logprob": -0.2652994791666667
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "SQTHB4jM-KQ",
+    "uploader": "The Rolling Stones",
+    "audio_file": "corpus/01_music_videos_audio/audio/SQTHB4jM-KQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11166462,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.96833,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:57:01Z"
+  },
+  "status": "success",
+  "error": null
+}

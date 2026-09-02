@@ -1,0 +1,98 @@
+{
+  "corpus_id": "1v4twH9KbnU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/1v4twH9KbnU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/1v4twH9KbnU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/1v4twH9KbnU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "🎵 🎵 Because all of your hope is gone And your life is filled with much confusion Until happiness is just an illusion And your world around is crumbling down Darling, reach out Come on girl, reach out for me Reach out for me I'll be thine with a love that will shelter you I'll be thine with a love that will see you through When you feel lost and about to give up Cause your blessing just ain't good enough And you feel the world has blown cold And you're tripping out all on your own. And you need a hand to hold. Darling. Come on, girl. Reach out for me. Reach out. Be there to cherish and care I can tell the way you hang your head You're without love now, now you're afraid And through your tears you look around But there's no peace of mind to be found I know what you're thinking, you're alone now No love of your own, but darling Reach out, come on girl, reach out for me Reach out Just look over your shoulder! I'll be there To give you all the love you need",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.335,
+        "end": 7.709,
+        "text": " 🎵 🎵",
+        "avg_logprob": -1.6731770833333333
+      },
+      {
+        "id": 2,
+        "start": 18.847,
+        "end": 42.758,
+        "text": " Because all of your hope is gone And your life is filled with much confusion Until happiness is just an illusion And your world around is crumbling down Darling, reach out Come on girl, reach out for me Reach out for me",
+        "avg_logprob": -0.1261039402173913
+      },
+      {
+        "id": 3,
+        "start": 48.547,
+        "end": 75.682,
+        "text": " I'll be thine with a love that will shelter you I'll be thine with a love that will see you through When you feel lost and about to give up Cause your blessing just ain't good enough And you feel the world has blown cold",
+        "avg_logprob": -0.16452205531737385
+      },
+      {
+        "id": 4,
+        "start": 76.39,
+        "end": 90.751,
+        "text": " And you're tripping out all on your own. And you need a hand to hold. Darling. Come on, girl. Reach out for me. Reach out.",
+        "avg_logprob": -0.19988839711461748
+      },
+      {
+        "id": 5,
+        "start": 104.302,
+        "end": 108.487,
+        "text": " Be there to cherish and care",
+        "avg_logprob": -0.7845981972558158
+      },
+      {
+        "id": 6,
+        "start": 126.323,
+        "end": 154.673,
+        "text": " I can tell the way you hang your head You're without love now, now you're afraid And through your tears you look around But there's no peace of mind to be found I know what you're thinking, you're alone now No love of your own, but darling Reach out, come on girl, reach out for me Reach out",
+        "avg_logprob": -0.11588541796241981
+      },
+      {
+        "id": 7,
+        "start": 157.559,
+        "end": 167.077,
+        "text": " Just look over your shoulder! I'll be there To give you all the love you need",
+        "avg_logprob": -0.22800164316829882
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "1v4twH9KbnU",
+    "uploader": "Four Tops",
+    "audio_file": "corpus/01_music_videos_audio/audio/1v4twH9KbnU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5749710,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.546855,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:03:48Z"
+  },
+  "status": "success",
+  "error": null
+}

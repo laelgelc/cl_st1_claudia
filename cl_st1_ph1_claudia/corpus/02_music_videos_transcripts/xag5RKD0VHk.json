@@ -1,0 +1,77 @@
+{
+  "corpus_id": "xag5RKD0VHk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/xag5RKD0VHk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/xag5RKD0VHk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/xag5RKD0VHk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Somebody that just loves to learn And another child grows up to be Somebody you just love to burn Mom loves the both of them You see it's in the blood It's a family affair. It's a family affair. It's a family affair. But you're still checking each other out And nobody wants to blow And nobody wants to be left out You can't leave cause your heart is there But you, you can't stay cause you've been somewhere else You can't cry cause you look broke down But you're crying anyway cause you're all broke down It's a family affair It's a family affair It's a family affair",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 27.082,
+        "end": 47.804,
+        "text": " Somebody that just loves to learn And another child grows up to be Somebody you just love to burn Mom loves the both of them You see it's in the blood",
+        "avg_logprob": -0.15625
+      },
+      {
+        "id": 2,
+        "start": 52.478,
+        "end": 65.692,
+        "text": " It's a family affair. It's a family affair. It's a family affair.",
+        "avg_logprob": -0.21504934053671987
+      },
+      {
+        "id": 3,
+        "start": 94.75,
+        "end": 105.77,
+        "text": " But you're still checking each other out And nobody wants to blow And nobody wants to be left out",
+        "avg_logprob": -0.19047619331450688
+      },
+      {
+        "id": 4,
+        "start": 106.158,
+        "end": 129.344,
+        "text": " You can't leave cause your heart is there But you, you can't stay cause you've been somewhere else You can't cry cause you look broke down But you're crying anyway cause you're all broke down It's a family affair It's a family affair It's a family affair",
+        "avg_logprob": -0.06782057945584428
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "xag5RKD0VHk",
+    "uploader": "Sly & The Family Stone",
+    "audio_file": "corpus/01_music_videos_audio/audio/xag5RKD0VHk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5985254,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.180362,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:03:08Z"
+  },
+  "status": "success",
+  "error": null
+}

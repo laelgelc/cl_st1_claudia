@@ -1,0 +1,91 @@
+{
+  "corpus_id": "TUVcZfQe-Kw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/TUVcZfQe-Kw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/TUVcZfQe-Kw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/TUVcZfQe-Kw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You want me, I want you baby My sugar boo, I'm levitating The Milky Way, we're renegading Yeah, yeah, yeah, yeah, yeah I got you, moonlight You're my starlight I need you, all night Come on dance with me, I'm levitating You I'm one of the greatest, ain't no debatin' on it I'm still levitated, I'm heavily medicated Ironic I gave him love and they end up hatin' on me She told me she love me and she been waitin' Fightin' hard for your lovin', I'm runnin' thin on my patience Needin' someone to hug, even took it back to the basics You see what you got me out here doin'? Might've blew me off, but can't nobody stop the movin'? Uh-uh, let's go Left foot, right foot levitatin' Pop stars, do a leaper with the baby I had to lace my shoes for all the blessings I was chasin' If I ever slip, I fall into a better situation So catch up, go put some cheese on it Get out and get your bread They always leaving you far, but you run together Weight of the world on my shoulders, I kept my head up Now baby stand up, cause girl you You want me, I want you baby My sugar boo, I'm levitating The Milky Way, we're renegading Yeah, yeah, yeah, yeah, yeah I got you, moonlight You're my starlight I need you, all night Come on dance with me, I'm levitating You You can fly away with me tonight You can fly away with me tonight Baby, let me take you for a ride My love is like a rocket when you blast off And I'm feeling so electric, I'm so awesome And even if I wanted to, I can't stop My love is like a rocket when you blast off And I'm feeling so electric, I'm so awesome You want me, I want you baby My sugar boo, I'm levitating The Milky Way, we're renegading I got you, moonlight You're my starlight I need you, all night Come on dance with me, I'm levitating You can fly away with me tonight You can fly away with me tonight Baby let me take you for a ride You can fly away with me tonight Baby, let me take you for a ride Yeah, yeah, yeah, yeah, yeah I got you, moonlight You're my starlight I need you all night Come on, dance with me I'm levitating",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 22.525,
+        "end": 43.518,
+        "text": " You want me, I want you baby My sugar boo, I'm levitating The Milky Way, we're renegading Yeah, yeah, yeah, yeah, yeah I got you, moonlight You're my starlight I need you, all night Come on dance with me, I'm levitating You",
+        "avg_logprob": -0.15209961589425802
+      },
+      {
+        "id": 2,
+        "start": 52.225,
+        "end": 82.212,
+        "text": " I'm one of the greatest, ain't no debatin' on it I'm still levitated, I'm heavily medicated Ironic I gave him love and they end up hatin' on me She told me she love me and she been waitin' Fightin' hard for your lovin', I'm runnin' thin on my patience Needin' someone to hug, even took it back to the basics You see what you got me out here doin'? Might've blew me off, but can't nobody stop the movin'? Uh-uh, let's go Left foot, right foot levitatin' Pop stars, do a leaper with the baby I had to lace my shoes for all the blessings I was chasin' If I ever slip, I fall into a better situation So catch up, go put some cheese on it Get out and get your bread",
+        "avg_logprob": -0.07329074635031474
+      },
+      {
+        "id": 3,
+        "start": 82.212,
+        "end": 108.638,
+        "text": " They always leaving you far, but you run together Weight of the world on my shoulders, I kept my head up Now baby stand up, cause girl you You want me, I want you baby My sugar boo, I'm levitating The Milky Way, we're renegading Yeah, yeah, yeah, yeah, yeah I got you, moonlight You're my starlight I need you, all night Come on dance with me, I'm levitating You",
+        "avg_logprob": -0.12384868326940035
+      },
+      {
+        "id": 4,
+        "start": 125.48,
+        "end": 147.215,
+        "text": " You can fly away with me tonight You can fly away with me tonight Baby, let me take you for a ride My love is like a rocket when you blast off And I'm feeling so electric, I'm so awesome And even if I wanted to, I can't stop My love is like a rocket when you blast off And I'm feeling so electric, I'm so awesome",
+        "avg_logprob": -0.140016229121716
+      },
+      {
+        "id": 5,
+        "start": 154.808,
+        "end": 180.138,
+        "text": " You want me, I want you baby My sugar boo, I'm levitating The Milky Way, we're renegading I got you, moonlight You're my starlight I need you, all night Come on dance with me, I'm levitating You can fly away with me tonight You can fly away with me tonight Baby let me take you for a ride",
+        "avg_logprob": -0.08208264694794228
+      },
+      {
+        "id": 6,
+        "start": 184.576,
+        "end": 201.248,
+        "text": " You can fly away with me tonight Baby, let me take you for a ride Yeah, yeah, yeah, yeah, yeah I got you, moonlight You're my starlight I need you all night Come on, dance with me I'm levitating",
+        "avg_logprob": -0.1355168197590571
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "TUVcZfQe-Kw",
+    "uploader": "Dua Lipa",
+    "audio_file": "corpus/01_music_videos_audio/audio/TUVcZfQe-Kw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7365076,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.375859,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:14:49Z"
+  },
+  "status": "success",
+  "error": null
+}

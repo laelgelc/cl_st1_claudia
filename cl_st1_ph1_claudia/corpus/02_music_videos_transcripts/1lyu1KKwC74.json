@@ -1,0 +1,112 @@
+{
+  "corpus_id": "1lyu1KKwC74",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/1lyu1KKwC74.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/1lyu1KKwC74.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/1lyu1KKwC74.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Thank you. Symphony, that's life. Trying to make ends meet. You slip to money, then you die. The one that takes you to the places where all the pain's due No change, I can't change, I can't change, I can't change, but I'm here in my mold. I am here in my mold, but I'm a million different people from one day to the next. I can't change my mold, no, no. Tonight I'm on my knees, yeah I need to hear some sounds That recognize the pain in me, yeah I let the melody shine Let it cleanse my mind I feel free now There's nobody singing to me now. No change, I can't change. I can change, I can change. But I'm here in my moment. I am here in my moment. And I'm a million different people from one day to the next. I can't change my moment. No, no, no. I can change it, you know I can change it Cause it's a bittersweet symphony that's like Trying to make ends meet Trying to find someone in need I can't change, I can't change, I can't change, I can't change, but I'm here in my mode, I am here in my mode, and I'm a million different people from one death to the next, I can't change my mode, no, no. Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 5.735,
+        "end": 21.412,
+        "text": " Thank you.",
+        "avg_logprob": -0.7651366889476776
+      },
+      {
+        "id": 2,
+        "start": 38.894,
+        "end": 53.407,
+        "text": " Symphony, that's life. Trying to make ends meet. You slip to money, then you die.",
+        "avg_logprob": -0.22443181547251614
+      },
+      {
+        "id": 3,
+        "start": 69.691,
+        "end": 75.547,
+        "text": " The one that takes you to the places where all the pain's due",
+        "avg_logprob": -0.2752604166666667
+      },
+      {
+        "id": 4,
+        "start": 81.2,
+        "end": 100.387,
+        "text": " No change, I can't change, I can't change, I can't change, but I'm here in my mold. I am here in my mold, but I'm a million different people from one day to the next. I can't change my mold, no, no.",
+        "avg_logprob": -0.07786016822871515
+      },
+      {
+        "id": 5,
+        "start": 117.194,
+        "end": 143.603,
+        "text": " Tonight I'm on my knees, yeah I need to hear some sounds That recognize the pain in me, yeah I let the melody shine Let it cleanse my mind I feel free now",
+        "avg_logprob": -0.13460726834632256
+      },
+      {
+        "id": 6,
+        "start": 150.877,
+        "end": 179.446,
+        "text": " There's nobody singing to me now. No change, I can't change. I can change, I can change. But I'm here in my moment. I am here in my moment. And I'm a million different people from one day to the next. I can't change my moment. No, no, no.",
+        "avg_logprob": -0.09147621535543185
+      },
+      {
+        "id": 7,
+        "start": 182.939,
+        "end": 209.973,
+        "text": " I can change it, you know I can change it Cause it's a bittersweet symphony that's like Trying to make ends meet Trying to find someone in need",
+        "avg_logprob": -0.2752232125827244
+      },
+      {
+        "id": 8,
+        "start": 215.913,
+        "end": 234.982,
+        "text": " I can't change, I can't change, I can't change, I can't change, but I'm here in my mode, I am here in my mode, and I'm a million different people from one death to the next, I can't change my mode, no, no.",
+        "avg_logprob": -0.08465676034083132
+      },
+      {
+        "id": 9,
+        "start": 271.212,
+        "end": 275.482,
+        "text": " Thank you.",
+        "avg_logprob": -0.6333007961511612
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "1lyu1KKwC74",
+    "uploader": "The Verve",
+    "audio_file": "corpus/01_music_videos_audio/audio/1lyu1KKwC74.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8814744,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 25.873052,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:01Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,91 @@
+{
+  "corpus_id": "8mGBaXPlri8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8mGBaXPlri8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/8mGBaXPlri8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/8mGBaXPlri8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Running through my head All the things she said Running through my head Asking for help, it's only because Being with you has opened my eyes Could I ever believe such a perfect surprise? I keep asking myself, wondering how I keep closing my eyes, but I can't block you out Wanna fly to a place where it's just you and me Nobody else, so we can be free Nobody else, so we can be free All the things you said, all the things you said Running through my head, running through my head Running through my head, running through my head Don't look at a party tonight I'm all mixed up, feeling cornered and rushed They say it's my fault, but I wonder so much When I fly away, but the sun will rain Coming over my face, where she will be ashamed When I stop and stare, don't worry in me Cause I'm feeling for her, what she's feeling for me I can try to pretend, I can try to forget But it's driving me crazy Tell me, what do you see? Yes, I lost my mind Daddy, looking at me Will I ever be free? Have I crossed the line? All the things you said Running through my head All the pictures and, all the pictures and, all the pictures and, all the pictures and...",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 26.373,
+        "end": 31.756,
+        "text": " Running through my head All the things she said Running through my head",
+        "avg_logprob": -0.1932198628783226
+      },
+      {
+        "id": 2,
+        "start": 46.572,
+        "end": 73.623,
+        "text": " Asking for help, it's only because Being with you has opened my eyes Could I ever believe such a perfect surprise? I keep asking myself, wondering how I keep closing my eyes, but I can't block you out Wanna fly to a place where it's just you and me Nobody else, so we can be free Nobody else, so we can be free All the things you said, all the things you said Running through my head, running through my head Running through my head, running through my head",
+        "avg_logprob": -0.11938713664568744
+      },
+      {
+        "id": 3,
+        "start": 78.382,
+        "end": 80.727,
+        "text": " Don't look at a party tonight",
+        "avg_logprob": -0.97412109375
+      },
+      {
+        "id": 4,
+        "start": 110.512,
+        "end": 129.614,
+        "text": " I'm all mixed up, feeling cornered and rushed They say it's my fault, but I wonder so much When I fly away, but the sun will rain Coming over my face, where she will be ashamed When I stop and stare, don't worry in me Cause I'm feeling for her, what she's feeling for me I can try to pretend, I can try to forget But it's driving me crazy",
+        "avg_logprob": -0.15946691456963033
+      },
+      {
+        "id": 5,
+        "start": 166.013,
+        "end": 190.887,
+        "text": " Tell me, what do you see? Yes, I lost my mind Daddy, looking at me Will I ever be free? Have I crossed the line? All the things you said Running through my head",
+        "avg_logprob": -0.16663490272149806
+      },
+      {
+        "id": 6,
+        "start": 206.311,
+        "end": 214.023,
+        "text": " All the pictures and, all the pictures and, all the pictures and, all the pictures and...",
+        "avg_logprob": -0.35360864230564665
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "8mGBaXPlri8",
+    "uploader": "tatu",
+    "audio_file": "corpus/01_music_videos_audio/audio/8mGBaXPlri8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7249906,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.694057,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:09:43Z"
+  },
+  "status": "success",
+  "error": null
+}

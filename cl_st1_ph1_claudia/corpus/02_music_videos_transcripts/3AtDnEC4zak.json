@@ -1,0 +1,98 @@
+{
+  "corpus_id": "3AtDnEC4zak",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/3AtDnEC4zak.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/3AtDnEC4zak.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/3AtDnEC4zak.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "We don't talk anymore We don't talk anymore We don't talk anymore Like we used to do We don't love anymore What was all of it for? used to do I just heard you found the one you've been looking you've been looking for I wish I would have known that wasn't me cause even after all this time I still wonder why I can't move on just the way you did so easily I don't know what kind of dress you're wearing tonight If he's holding on to you so tight The way I did before I overdo Should've known your love was a game Now I can't get you out of my brain Oh, it's such a shame But I'm just Should've known your love was a game Now I can't get you out of my brain Oh, it's such a shame But we don't talk anymore We don't talk anymore We don't talk anymore Like we used to do We don't laugh anymore What was all of it for? We don't talk anymore The kind of dress you're wearing tonight If he's giving it to you just right The way I did before I overdosed, should've known your love was a game Now I can't get you out of my brain Oh, it's such a shame That we don't talk anymore We don't talk anymore We don't talk anymore We don't talk anymore Like we used to do We don't talk anymore",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 4.216,
+        "end": 18.543,
+        "text": " We don't talk anymore We don't talk anymore We don't talk anymore Like we used to do We don't love anymore What was all of it for?",
+        "avg_logprob": -0.10239109848484848
+      },
+      {
+        "id": 2,
+        "start": 20.821,
+        "end": 41.273,
+        "text": " used to do I just heard you found the one you've been looking you've been looking for I wish I would have known that wasn't me cause even after all this time I still wonder why I can't move on just the way you did so easily",
+        "avg_logprob": -0.07865083962678909
+      },
+      {
+        "id": 3,
+        "start": 43.653,
+        "end": 61.709,
+        "text": " I don't know what kind of dress you're wearing tonight If he's holding on to you so tight The way I did before I overdo Should've known your love was a game Now I can't get you out of my brain Oh, it's such a shame",
+        "avg_logprob": -0.18267045996405862
+      },
+      {
+        "id": 4,
+        "start": 85.621,
+        "end": 97.332,
+        "text": " But I'm just",
+        "avg_logprob": -0.602734375
+      },
+      {
+        "id": 5,
+        "start": 111.49,
+        "end": 135.453,
+        "text": " Should've known your love was a game Now I can't get you out of my brain Oh, it's such a shame But we don't talk anymore We don't talk anymore We don't talk anymore Like we used to do We don't laugh anymore What was all of it for? We don't talk anymore",
+        "avg_logprob": -0.08062744187191129
+      },
+      {
+        "id": 6,
+        "start": 159.685,
+        "end": 183.597,
+        "text": " The kind of dress you're wearing tonight If he's giving it to you just right The way I did before I overdosed, should've known your love was a game Now I can't get you out of my brain Oh, it's such a shame That we don't talk anymore We don't talk anymore We don't talk anymore",
+        "avg_logprob": -0.12706802062251987
+      },
+      {
+        "id": 7,
+        "start": 189.166,
+        "end": 216.841,
+        "text": " We don't talk anymore Like we used to do We don't talk anymore",
+        "avg_logprob": -0.43847654946148396
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "3AtDnEC4zak",
+    "uploader": "Charlie Puth",
+    "audio_file": "corpus/01_music_videos_audio/audio/3AtDnEC4zak.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7376222,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.457703,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:12:31Z"
+  },
+  "status": "success",
+  "error": null
+}

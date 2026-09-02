@@ -1,0 +1,91 @@
+{
+  "corpus_id": "LzGBQerkvWs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/LzGBQerkvWs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/LzGBQerkvWs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/LzGBQerkvWs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "time i was on my way thanks to you i'm much obliged such a pleasant stay but now it's time for me to go Sometimes I grow so tired But I know I've got one thing I've got to do I ran along And now the time, the time is now To save myself The time has come to be gone Though I healthily drank a thousand times It's time to ramble on Lines of tale that can't be told My freedom I hold dear How years ago in days of old When magic filled the air Just in the darkest depths of mordor I met a girl so fair The golem at the evil war crept up and slipped away with her, her, her, her, yeah. Baby, baby, baby, baby, baby, baby, baby",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 25.023,
+        "end": 43.653,
+        "text": " time i was on my way thanks to you i'm much obliged such a pleasant stay but now it's time for me to go",
+        "avg_logprob": -0.15523726520714937
+      },
+      {
+        "id": 2,
+        "start": 62.468,
+        "end": 75.935,
+        "text": " Sometimes I grow so tired But I know I've got one thing I've got to do I ran along And now the time, the time is now To save myself",
+        "avg_logprob": -0.21541819195537007
+      },
+      {
+        "id": 3,
+        "start": 89.654,
+        "end": 105.888,
+        "text": " The time has come to be gone Though I healthily drank a thousand times It's time to ramble on",
+        "avg_logprob": -0.17798913173053577
+      },
+      {
+        "id": 4,
+        "start": 156.26,
+        "end": 181.353,
+        "text": " Lines of tale that can't be told My freedom I hold dear How years ago in days of old When magic filled the air Just in the darkest depths of mordor I met a girl so fair",
+        "avg_logprob": -0.16434151750235332
+      },
+      {
+        "id": 5,
+        "start": 184.829,
+        "end": 194.465,
+        "text": " The golem at the evil war crept up and slipped away with her, her, her, her, yeah.",
+        "avg_logprob": -0.22171875
+      },
+      {
+        "id": 6,
+        "start": 230.358,
+        "end": 248.785,
+        "text": " Baby, baby, baby, baby, baby, baby, baby",
+        "avg_logprob": -0.3791852614709309
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "LzGBQerkvWs",
+    "uploader": "Led Zeppelin",
+    "audio_file": "corpus/01_music_videos_audio/audio/LzGBQerkvWs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8770162,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 26.555037,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:54:11Z"
+  },
+  "status": "success",
+  "error": null
+}

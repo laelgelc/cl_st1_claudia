@@ -1,0 +1,70 @@
+{
+  "corpus_id": "nagjPyNMu9Q",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nagjPyNMu9Q.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/nagjPyNMu9Q.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/nagjPyNMu9Q.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Here is, from Wales, Tom Jones and He's Magnificent. It's not unusual to be loved by anyone It's not unusual to have fun with anyone But when I see you hanging about with anyone No matter what you say You find it happen all the time And that love can never do What you want it to Why can't this crazy love be mine? It's not unusual to be mad with anyone It's not unusual to be sad with anyone it's not unusual to find that",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.47,
+        "end": 22.897,
+        "text": " Here is, from Wales, Tom Jones and He's Magnificent. It's not unusual to be loved by anyone It's not unusual to have fun with anyone But when I see you hanging about with anyone",
+        "avg_logprob": -0.09547601709532183
+      },
+      {
+        "id": 2,
+        "start": 28.28,
+        "end": 56.326,
+        "text": " No matter what you say You find it happen all the time And that love can never do What you want it to Why can't this crazy love be mine? It's not unusual to be mad with anyone It's not unusual to be sad with anyone",
+        "avg_logprob": -0.10746016952337004
+      },
+      {
+        "id": 3,
+        "start": 57.541,
+        "end": 74.5,
+        "text": " it's not unusual to find that",
+        "avg_logprob": -0.6982422098517418
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "nagjPyNMu9Q",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/nagjPyNMu9Q.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 2707710,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 9.415207,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:10:34Z"
+  },
+  "status": "success",
+  "error": null
+}

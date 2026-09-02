@@ -1,0 +1,84 @@
+{
+  "corpus_id": "V5YxtweUxrA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/V5YxtweUxrA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/V5YxtweUxrA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/V5YxtweUxrA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Remember, I love you. I know you love me too. I wish you didn't have to go now. Write to me. And I know Oh no Oh no Oh no no no no no Walking in the sand Walking hand in hand The night was so exciting The smile was so inviting Then he touched my cheek Remember, we're the spirit. Then he touched my cheek With his pinky teeth Walking in the sand Walking hand in hand The night was so exciting",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 6.038,
+        "end": 17.311,
+        "text": " Remember, I love you. I know you love me too. I wish you didn't have to go now. Write to me.",
+        "avg_logprob": -0.05953543446958065
+      },
+      {
+        "id": 2,
+        "start": 60.393,
+        "end": 89.215,
+        "text": " And I know Oh no Oh no Oh no no no no no Walking in the sand Walking hand in hand The night was so exciting The smile was so inviting Then he touched my cheek",
+        "avg_logprob": -0.12700591699497119
+      },
+      {
+        "id": 3,
+        "start": 90.363,
+        "end": 93.046,
+        "text": " Remember, we're the spirit.",
+        "avg_logprob": -0.3818359412252903
+      },
+      {
+        "id": 4,
+        "start": 132.753,
+        "end": 151.163,
+        "text": " Then he touched my cheek With his pinky teeth",
+        "avg_logprob": -0.5718750178813934
+      },
+      {
+        "id": 5,
+        "start": 167.735,
+        "end": 176.78,
+        "text": " Walking in the sand Walking hand in hand The night was so exciting",
+        "avg_logprob": -0.21400669642857142
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "V5YxtweUxrA",
+    "uploader": "Seedy Jeezus",
+    "audio_file": "corpus/01_music_videos_audio/audio/V5YxtweUxrA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5870082,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.307477,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:55:41Z"
+  },
+  "status": "success",
+  "error": null
+}

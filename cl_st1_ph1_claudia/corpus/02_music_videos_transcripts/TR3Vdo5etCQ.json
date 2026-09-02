@@ -1,0 +1,98 @@
+{
+  "corpus_id": "TR3Vdo5etCQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/TR3Vdo5etCQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/TR3Vdo5etCQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/TR3Vdo5etCQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "We used to be together everyday together always I really feel that I'm losing my best friend I can't believe this could be the end It looks as though you're letting go And if it's real, well I don't want to know Don't speak, I know just what you're saying So please stop explaining Don't tell me cause it hurts Don't speak, I know what you're thinking I don't need your reasons But somewhere altogether, mighty frightening As we talk, we fall, you and I With my head in my hands, I sit and cry Don't speak, I know just what you said So please Don't tell me cause it hurts, no, no, no Don't speak, I know what you're thinking And I don't need your reasons Don't tell me cause it hurts It's all ending, you gotta stop I can see it's dying on me Don't speak I know just what you're saying So please stop explaining Don't tell me So please stop explaining to the girls.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 39.35,
+        "end": 67.21,
+        "text": " We used to be together everyday together always I really feel that I'm losing my best friend I can't believe this could be the end It looks as though you're letting go",
+        "avg_logprob": -0.10297309296826522
+      },
+      {
+        "id": 2,
+        "start": 67.7,
+        "end": 94.497,
+        "text": " And if it's real, well I don't want to know Don't speak, I know just what you're saying So please stop explaining Don't tell me cause it hurts Don't speak, I know what you're thinking I don't need your reasons",
+        "avg_logprob": -0.10644531049407445
+      },
+      {
+        "id": 3,
+        "start": 105.196,
+        "end": 130.087,
+        "text": " But somewhere altogether, mighty frightening As we talk, we fall, you and I With my head in my hands, I sit and cry Don't speak, I know just what you said So please",
+        "avg_logprob": -0.37753905951976774
+      },
+      {
+        "id": 4,
+        "start": 132.331,
+        "end": 153.897,
+        "text": " Don't tell me cause it hurts, no, no, no Don't speak, I know what you're thinking And I don't need your reasons Don't tell me cause it hurts It's all ending, you gotta stop",
+        "avg_logprob": -0.10725204144483028
+      },
+      {
+        "id": 5,
+        "start": 190.988,
+        "end": 206.176,
+        "text": " I can see it's dying on me Don't speak I know just what you're saying So please stop explaining Don't tell me",
+        "avg_logprob": -0.23177082781438474
+      },
+      {
+        "id": 6,
+        "start": 226.274,
+        "end": 230.375,
+        "text": " So please stop explaining",
+        "avg_logprob": -0.243359375
+      },
+      {
+        "id": 7,
+        "start": 280.983,
+        "end": 282.333,
+        "text": " to the girls.",
+        "avg_logprob": -1.090625
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "TR3Vdo5etCQ",
+    "uploader": "No Doubt",
+    "audio_file": "corpus/01_music_videos_audio/audio/TR3Vdo5etCQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9632830,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.598371,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:07:17Z"
+  },
+  "status": "success",
+  "error": null
+}

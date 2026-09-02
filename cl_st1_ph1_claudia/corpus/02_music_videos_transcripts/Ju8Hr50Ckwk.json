@@ -1,0 +1,98 @@
+{
+  "corpus_id": "Ju8Hr50Ckwk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Ju8Hr50Ckwk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Ju8Hr50Ckwk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Ju8Hr50Ckwk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Some people live for the fortune Some people live just for the fame Some people live for the power, yeah Some people live just to play the game Some people think that the physical things Heavy fall But that life's a bore So fall Some people search for a fountain. The promise is forever young. Some people need three dozen roses. And that's the only way to prove you love them. cares for me. Some people want it all, but I don't want nothing at all. If it ain't you, baby, if I ain't got it, you, baby. Some people want diamond rings, some just want everything, but everything means nothing if I ain't If I ain't got you baby Some people want diamond rings Some just want everything But everything means nothing If I ain't got you baby Let me get my carpet dirty with those big ass feet.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.284,
+        "end": 27.858,
+        "text": " Some people live for the fortune",
+        "avg_logprob": -0.08537946428571429
+      },
+      {
+        "id": 2,
+        "start": 29.832,
+        "end": 52.883,
+        "text": " Some people live just for the fame Some people live for the power, yeah Some people live just to play the game Some people think that the physical things",
+        "avg_logprob": -0.06123992223893442
+      },
+      {
+        "id": 3,
+        "start": 60.747,
+        "end": 66.4,
+        "text": " Heavy fall But that life's a bore So fall",
+        "avg_logprob": -0.4161931709809737
+      },
+      {
+        "id": 4,
+        "start": 96.657,
+        "end": 118.527,
+        "text": " Some people search for a fountain. The promise is forever young. Some people need three dozen roses. And that's the only way to prove you love them.",
+        "avg_logprob": -0.09114583333333333
+      },
+      {
+        "id": 5,
+        "start": 138.203,
+        "end": 165.625,
+        "text": " cares for me. Some people want it all, but I don't want nothing at all. If it ain't you, baby, if I ain't got it, you, baby. Some people want diamond rings, some just want everything, but everything means nothing if I ain't",
+        "avg_logprob": -0.11920797336718132
+      },
+      {
+        "id": 6,
+        "start": 175.143,
+        "end": 190.33,
+        "text": " If I ain't got you baby Some people want diamond rings Some just want everything But everything means nothing If I ain't got you baby",
+        "avg_logprob": -0.20228795068604605
+      },
+      {
+        "id": 7,
+        "start": 205.13,
+        "end": 208.167,
+        "text": " Let me get my carpet dirty with those big ass feet.",
+        "avg_logprob": -0.21334135073881882
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Ju8Hr50Ckwk",
+    "uploader": "Alicia Keys",
+    "audio_file": "corpus/01_music_videos_audio/audio/Ju8Hr50Ckwk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6709716,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.881552,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:09:44Z"
+  },
+  "status": "success",
+  "error": null
+}

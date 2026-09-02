@@ -1,0 +1,70 @@
+{
+  "corpus_id": "sR85q5jmu20",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/sR85q5jmu20.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/sR85q5jmu20.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/sR85q5jmu20.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "This will be an everlasting love. The one I've waited for This will be The first time anyone Has loved me I'm so glad You found me in time And I'm so glad that You rectified my mind This will be An everlasting love for me Loving you Is so kind of wonderful Because you've shown me You've given me the thrill of a lifetime and made me believe you've got more thrills to spare. Oh, this will be an everlasting love. Oh, yes, it will now. You've got a lot of sunshine.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 14.392,
+        "end": 38.303,
+        "text": " This will be an everlasting love.",
+        "avg_logprob": -0.5205078348517418
+      },
+      {
+        "id": 2,
+        "start": 38.793,
+        "end": 68.695,
+        "text": " The one I've waited for This will be The first time anyone Has loved me I'm so glad You found me in time And I'm so glad that You rectified my mind This will be An everlasting love for me Loving you Is so kind of wonderful Because you've shown me",
+        "avg_logprob": -0.1084321084721335
+      },
+      {
+        "id": 3,
+        "start": 71.108,
+        "end": 91.763,
+        "text": " You've given me the thrill of a lifetime and made me believe you've got more thrills to spare. Oh, this will be an everlasting love. Oh, yes, it will now. You've got a lot of sunshine.",
+        "avg_logprob": -0.11775715881958604
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "sR85q5jmu20",
+    "uploader": "NatalieColeMusic",
+    "audio_file": "corpus/01_music_videos_audio/audio/sR85q5jmu20.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5195404,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.295413,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:12:56Z"
+  },
+  "status": "success",
+  "error": null
+}

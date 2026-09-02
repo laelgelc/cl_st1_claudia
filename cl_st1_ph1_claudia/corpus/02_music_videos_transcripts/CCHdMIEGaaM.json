@@ -1,0 +1,112 @@
+{
+  "corpus_id": "CCHdMIEGaaM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CCHdMIEGaaM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/CCHdMIEGaaM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/CCHdMIEGaaM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "The legend of the phoenix All ends with beginnings What keeps the planet sinning? The force from the beginning Love We've come too far To give up who we are So let's She's up all night to the sun I'm up all night to get sun She's up all night for good fun I'm up all night to get lucky We're up all night to the sun We're up all night to get sun We're up all night for good fun Present has no rhythm Your gift keeps on giving What is this I'm feeling? If you wanna leave, I'm with it We've come too far to give up to the stars. She's up all night to the sun I'm up all night to get sun She's up all night for good fun I'm up all night to get lucky We're up all night to the sun We're up all night to get sun We're up all night for good fun We're up all night to get lucky We're up all night to get lucky We're up all night to get lucky We're up all night to get lucky We're up all night to get lucky We're up all night to get Night again Night again Night again Night again We're up all night to get lucky. We're up all night to get lucky. We're up all night to get lucky. We're up all night to get lucky. We're up all night to get lucky. We're up all night to get lucky. She's up all night to the sun I'm up all night to get sun She's up all night for good fun I'm up all night to get lucky We're up all night to the sun We're up all night to get sun We're up all night for good fun We're up all night to get lucky We're up all night to get lucky We're up all night to get lucky We're up all night to get lucky We're up all night to get lucky",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 15.708,
+        "end": 42.725,
+        "text": " The legend of the phoenix All ends with beginnings What keeps the planet sinning? The force from the beginning Love We've come too far To give up who we are So let's",
+        "avg_logprob": -0.25160256257423985
+      },
+      {
+        "id": 2,
+        "start": 46.336,
+        "end": 71.227,
+        "text": " She's up all night to the sun I'm up all night to get sun She's up all night for good fun I'm up all night to get lucky We're up all night to the sun We're up all night to get sun We're up all night for good fun",
+        "avg_logprob": -0.12595943609873453
+      },
+      {
+        "id": 3,
+        "start": 81.908,
+        "end": 104.116,
+        "text": " Present has no rhythm Your gift keeps on giving What is this I'm feeling? If you wanna leave, I'm with it We've come too far to give up",
+        "avg_logprob": -0.17945771576727138
+      },
+      {
+        "id": 4,
+        "start": 112.655,
+        "end": 115.608,
+        "text": " to the stars.",
+        "avg_logprob": -0.44140625
+      },
+      {
+        "id": 5,
+        "start": 116.131,
+        "end": 142.844,
+        "text": " She's up all night to the sun I'm up all night to get sun She's up all night for good fun I'm up all night to get lucky We're up all night to the sun We're up all night to get sun We're up all night for good fun We're up all night to get lucky We're up all night to get lucky We're up all night to get lucky We're up all night to get lucky We're up all night to get lucky We're up all night to get",
+        "avg_logprob": -0.04345702981719604
+      },
+      {
+        "id": 6,
+        "start": 142.844,
+        "end": 150.809,
+        "text": " Night again Night again Night again Night again",
+        "avg_logprob": -0.4275173611111111
+      },
+      {
+        "id": 7,
+        "start": 151.973,
+        "end": 177.472,
+        "text": " We're up all night to get lucky. We're up all night to get lucky. We're up all night to get lucky. We're up all night to get lucky. We're up all night to get lucky. We're up all night to get lucky.",
+        "avg_logprob": -0.19247158819978888
+      },
+      {
+        "id": 8,
+        "start": 183.597,
+        "end": 213.28,
+        "text": " She's up all night to the sun I'm up all night to get sun She's up all night for good fun I'm up all night to get lucky We're up all night to the sun We're up all night to get sun We're up all night for good fun We're up all night to get lucky We're up all night to get lucky We're up all night to get lucky We're up all night to get lucky",
+        "avg_logprob": -0.06223665596394057
+      },
+      {
+        "id": 9,
+        "start": 213.28,
+        "end": 221.482,
+        "text": " We're up all night to get lucky",
+        "avg_logprob": -0.13834635416666666
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "CCHdMIEGaaM",
+    "uploader": "convar HUN",
+    "audio_file": "corpus/01_music_videos_audio/audio/CCHdMIEGaaM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7929042,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.775387,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:19:11Z"
+  },
+  "status": "success",
+  "error": null
+}

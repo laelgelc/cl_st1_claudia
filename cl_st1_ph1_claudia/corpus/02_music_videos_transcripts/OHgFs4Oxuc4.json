@@ -1,0 +1,77 @@
+{
+  "corpus_id": "OHgFs4Oxuc4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/OHgFs4Oxuc4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/OHgFs4Oxuc4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/OHgFs4Oxuc4.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "And peek through the blind And ask him to tell me what was on his mind But honey, yeah If you want to stay with me, I was clean as green and so hard pressed. I called the woman that I loved best. I finally got my baby about a half past three. She said I'd like to know what you want with me. If you want to get along with me, she screamed and said, what's wrong with you? From this day on, our romance is through. I said, tell me, baby, face to face, how could another man take my place? She said, money, honey, money, honey. If you wanna get along with me",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 13.143,
+        "end": 22.39,
+        "text": " And peek through the blind And ask him to tell me what was on his mind But honey, yeah",
+        "avg_logprob": -0.17782737811406454
+      },
+      {
+        "id": 2,
+        "start": 29.748,
+        "end": 48.496,
+        "text": " If you want to stay with me, I was clean as green and so hard pressed. I called the woman that I loved best. I finally got my baby about a half past three. She said I'd like to know what you want with me.",
+        "avg_logprob": -0.11981670529796527
+      },
+      {
+        "id": 3,
+        "start": 59.279,
+        "end": 85.385,
+        "text": " If you want to get along with me, she screamed and said, what's wrong with you? From this day on, our romance is through. I said, tell me, baby, face to face, how could another man take my place? She said, money, honey, money, honey.",
+        "avg_logprob": -0.09419102498119877
+      },
+      {
+        "id": 4,
+        "start": 152.412,
+        "end": 156.428,
+        "text": " If you wanna get along with me",
+        "avg_logprob": -0.09686279017478228
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "OHgFs4Oxuc4",
+    "uploader": "TheRocknRolllChannel",
+    "audio_file": "corpus/01_music_videos_audio/audio/OHgFs4Oxuc4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5650144,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.582483,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:59:07Z"
+  },
+  "status": "success",
+  "error": null
+}

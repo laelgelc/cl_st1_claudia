@@ -1,0 +1,91 @@
+{
+  "corpus_id": "oKOtzIo-uYw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oKOtzIo-uYw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/oKOtzIo-uYw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/oKOtzIo-uYw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "strumming my pain with his fingers singing my life with his words killing me softly with his song killing me softly with his song telling my whole life with his words killing me softly with his soul. Yo, this is Wyclef, refugee cat. Prizewell. Little bass sitting up here on the bass. While I'm on this roast, I got my girl Elle. And so I came to see him and listen for a while And there he was, this young boy Stranger to my eyes I felt he found my letters in red Telling my whole life with his words Killing me softly with his song So I said, whoa, whoa With you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.672,
+        "end": 29.984,
+        "text": " strumming my pain with his fingers singing my life with his words killing me softly with his song killing me softly with his song telling my whole life with his words killing me softly",
+        "avg_logprob": -0.09689670263065232
+      },
+      {
+        "id": 2,
+        "start": 30.794,
+        "end": 51.095,
+        "text": " with his soul. Yo, this is Wyclef, refugee cat. Prizewell. Little bass sitting up here on the bass. While I'm on this roast, I got my girl Elle.",
+        "avg_logprob": -0.35518291519909373
+      },
+      {
+        "id": 3,
+        "start": 67.632,
+        "end": 88.152,
+        "text": " And so I came to see him and listen for a while And there he was, this young boy Stranger to my eyes",
+        "avg_logprob": -0.0778245166517221
+      },
+      {
+        "id": 4,
+        "start": 134.795,
+        "end": 141.443,
+        "text": " I felt he found my letters in red",
+        "avg_logprob": -0.2134331597222222
+      },
+      {
+        "id": 5,
+        "start": 176.29,
+        "end": 199.342,
+        "text": " Telling my whole life with his words Killing me softly with his song So I said, whoa, whoa",
+        "avg_logprob": -0.3695652070252792
+      },
+      {
+        "id": 6,
+        "start": 250.422,
+        "end": 253.139,
+        "text": " With you.",
+        "avg_logprob": -1.1357421576976776
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "oKOtzIo-uYw",
+    "uploader": "Fugees",
+    "audio_file": "corpus/01_music_videos_audio/audio/oKOtzIo-uYw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8127434,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.670254,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:18:38Z"
+  },
+  "status": "success",
+  "error": null
+}

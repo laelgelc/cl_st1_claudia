@@ -1,0 +1,105 @@
+{
+  "corpus_id": "FrLequ6dUdM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/FrLequ6dUdM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/FrLequ6dUdM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/FrLequ6dUdM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "A scrub is a guy that thinks he's fly and is also known as a buster. Always checking out what he wants and just sits on his bus. Side of his best friend's ride Trying to holler at me I don't want no scrub The scrub is a guy that can't get no love From me Hanging out the passenger side of his best friend's ride Trying to holler at me best friends ride, trying to holler at me. I don't want no scrub, scrub is a guy that can't get no love from me. Picking up the passenger side of his best friends ride, trying to holler at me. If you don't have a car and you're walking, oh yes son, I'm talking to you. If you're living home with your mama, oh yes son, I'm talking to you. If you have a short lift but you don't show love, oh yes son, I'm talking to you. If you wanna get with Scrum Scrum Scrum Hanging on the passenger side of his best friend's ride Trying to holla at me If you can't spatially expand my horizons Then it leaves you in a class with scrubs never rising I don't find it surprising if you don't have the G's To please me and bounce from here to the coast of overseas So, let me give you something to think about Inundate your mind with intentions to turn you out Can't forget to focus on the picture in front of me Do it clear as DVD on digital TV screens Satisfy my ass diamond like precision insatiable is what I envision Bye. Bye. Bye. Bye. Bye. Bye.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 19.083,
+        "end": 28.162,
+        "text": " A scrub is a guy that thinks he's fly and is also known as a buster. Always checking out what he wants and just sits on his bus.",
+        "avg_logprob": -0.21638257575757575
+      },
+      {
+        "id": 2,
+        "start": 46.859,
+        "end": 60.916,
+        "text": " Side of his best friend's ride Trying to holler at me I don't want no scrub The scrub is a guy that can't get no love From me Hanging out the passenger side of his best friend's ride Trying to holler at me",
+        "avg_logprob": -0.11557904528636559
+      },
+      {
+        "id": 3,
+        "start": 88.996,
+        "end": 117.903,
+        "text": " best friends ride, trying to holler at me. I don't want no scrub, scrub is a guy that can't get no love from me. Picking up the passenger side of his best friends ride, trying to holler at me. If you don't have a car and you're walking, oh yes son, I'm talking to you. If you're living home with your mama, oh yes son, I'm talking to you. If you have a short lift but you don't show love, oh yes son, I'm talking to you. If you wanna get with",
+        "avg_logprob": -0.11835937810440858
+      },
+      {
+        "id": 4,
+        "start": 123.961,
+        "end": 132.095,
+        "text": " Scrum Scrum Scrum",
+        "avg_logprob": -0.8956473214285714
+      },
+      {
+        "id": 5,
+        "start": 159.145,
+        "end": 184.677,
+        "text": " Hanging on the passenger side of his best friend's ride Trying to holla at me If you can't spatially expand my horizons Then it leaves you in a class with scrubs never rising I don't find it surprising if you don't have the G's To please me and bounce from here to the coast of overseas So, let me give you something to think about Inundate your mind with intentions to turn you out Can't forget to focus on the picture in front of me Do it clear as DVD on digital TV screens Satisfy my ass",
+        "avg_logprob": -0.16419955421435206
+      },
+      {
+        "id": 6,
+        "start": 189.149,
+        "end": 191.562,
+        "text": " diamond like precision insatiable is what I envision",
+        "avg_logprob": -0.3004261309450323
+      },
+      {
+        "id": 7,
+        "start": 213.095,
+        "end": 235.471,
+        "text": " Bye. Bye. Bye.",
+        "avg_logprob": -0.7857143027441842
+      },
+      {
+        "id": 8,
+        "start": 237.732,
+        "end": 246.052,
+        "text": " Bye. Bye. Bye.",
+        "avg_logprob": -0.6718750170298985
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "FrLequ6dUdM",
+    "uploader": "TLC",
+    "audio_file": "corpus/01_music_videos_audio/audio/FrLequ6dUdM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7989972,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.975781,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:22:41Z"
+  },
+  "status": "success",
+  "error": null
+}

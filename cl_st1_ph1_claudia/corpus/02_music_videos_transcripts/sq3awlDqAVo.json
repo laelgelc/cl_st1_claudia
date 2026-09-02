@@ -1,0 +1,84 @@
+{
+  "corpus_id": "sq3awlDqAVo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/sq3awlDqAVo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/sq3awlDqAVo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/sq3awlDqAVo.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I think about you day and night. It's only right to think about the girl you love and hold her tight. So happy together. If I should call you up, invest a dime, and you say you belong to me, it leaves my mind. Imagine how the world could be so very See me lovin' nobody but you for all my life When you're with me, baby, the skies will be blue for all my life Me and you, and you and me No matter how they toss the dice It had to be the only one for me Is you and you for me So happy together Can't see me loving nobody but you For all my life When you're with me, baby The skies will be blue For all my life Me and you, and you and me No matter how they toss the dice It had to be The only one for me is you And you for me So happy together No matter how they toss the dice, it had to be The only one for me is you, and you for me So happy together So happy together And how is the weather? So happy together We're happy together So happy So happy together So happy together",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 10.493,
+        "end": 33.983,
+        "text": " I think about you day and night. It's only right to think about the girl you love and hold her tight. So happy together. If I should call you up, invest a dime, and you say you belong to me, it leaves my mind. Imagine how the world could be so very",
+        "avg_logprob": -0.09426229312771657
+      },
+      {
+        "id": 2,
+        "start": 40.919,
+        "end": 70.602,
+        "text": " See me lovin' nobody but you for all my life When you're with me, baby, the skies will be blue for all my life Me and you, and you and me No matter how they toss the dice It had to be the only one for me Is you and you for me So happy together",
+        "avg_logprob": -0.1371527716280922
+      },
+      {
+        "id": 3,
+        "start": 72.323,
+        "end": 101.095,
+        "text": " Can't see me loving nobody but you For all my life When you're with me, baby The skies will be blue For all my life Me and you, and you and me No matter how they toss the dice It had to be The only one for me is you And you for me So happy together",
+        "avg_logprob": -0.0956401224097898
+      },
+      {
+        "id": 4,
+        "start": 124.501,
+        "end": 154.167,
+        "text": " No matter how they toss the dice, it had to be The only one for me is you, and you for me So happy together So happy together And how is the weather? So happy together We're happy together So happy",
+        "avg_logprob": -0.08551290501718936
+      },
+      {
+        "id": 5,
+        "start": 162.436,
+        "end": 168.41,
+        "text": " So happy together So happy together",
+        "avg_logprob": -0.3738839200564793
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "sq3awlDqAVo",
+    "uploader": "Stereo Classics",
+    "audio_file": "corpus/01_music_videos_audio/audio/sq3awlDqAVo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5600360,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.675871,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:14:57Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,105 @@
+{
+  "corpus_id": "CuUm8L6fUN8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CuUm8L6fUN8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/CuUm8L6fUN8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/CuUm8L6fUN8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Thank you. I'm just beginning The pen's in my hand Ending unplanned Staring at the blank page before you Open up the dirty window Let the sun illuminate the words that you cannot find Reaching for something in the distance So close you can almost taste it Release your inhibitions Feel the rain on your skin You can let it in No one else, no one else Can speak the words on your lips Trench yourself in words unspoken Live your life with arms wide open Today is where your book begins The rest is still unwritten You know this bit? Our brave tradition Sometimes my tries are outside the lines. Oh. We've been caught in the distance to not make mistakes. But I can't live that way. No, no, no. Oh, staring at the blank page before you open up the dirty window. Let the sun illuminate the whites that Your inhibitions Feel the rain on your skin No one else can feel it for you Only you can let it in No one else, no one else Can speak the words on your lips Dredge yourself in words unspoken Live your life with us wide open Today is where your book begins Feel the rain on your skin No one else can feel it for you Only you can let it in Where your book begins The rest is still unwritten Feel the rain on your skin. No one else can feel it for you. Only you can let it in. No one else, no one else can speak the words on your lips. Put yourself in words unspoken. Live your life with arms wide open. Today is where your love begins. Feel the rain on your skin. Let it in. No one else, no one else can speak of it. On your lips spread yourself in words unspoken. Live your life with arms wide open. Today is where your book begins.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 11.135,
+        "end": 12.502,
+        "text": " Thank you.",
+        "avg_logprob": -0.7827148139476776
+      },
+      {
+        "id": 2,
+        "start": 55.567,
+        "end": 85.013,
+        "text": " I'm just beginning The pen's in my hand Ending unplanned Staring at the blank page before you Open up the dirty window Let the sun illuminate the words that you cannot find Reaching for something in the distance So close you can almost taste it Release your inhibitions Feel the rain on your skin",
+        "avg_logprob": -0.09703621126356579
+      },
+      {
+        "id": 3,
+        "start": 87.393,
+        "end": 116.013,
+        "text": " You can let it in No one else, no one else Can speak the words on your lips Trench yourself in words unspoken Live your life with arms wide open Today is where your book begins The rest is still unwritten You know this bit? Our brave tradition",
+        "avg_logprob": -0.1473011304031719
+      },
+      {
+        "id": 4,
+        "start": 116.249,
+        "end": 139.942,
+        "text": " Sometimes my tries are outside the lines. Oh. We've been caught in the distance to not make mistakes. But I can't live that way. No, no, no. Oh, staring at the blank page before you open up the dirty window. Let the sun illuminate the whites that",
+        "avg_logprob": -0.1803385468820731
+      },
+      {
+        "id": 5,
+        "start": 147.687,
+        "end": 175.042,
+        "text": " Your inhibitions Feel the rain on your skin No one else can feel it for you Only you can let it in No one else, no one else Can speak the words on your lips Dredge yourself in words unspoken Live your life with us wide open Today is where your book begins Feel the rain on your skin No one else can feel it for you Only you can let it in",
+        "avg_logprob": -0.08125000158324838
+      },
+      {
+        "id": 6,
+        "start": 185.825,
+        "end": 190.077,
+        "text": " Where your book begins The rest is still unwritten",
+        "avg_logprob": -0.3403764150359414
+      },
+      {
+        "id": 7,
+        "start": 220.132,
+        "end": 249.815,
+        "text": " Feel the rain on your skin. No one else can feel it for you. Only you can let it in. No one else, no one else can speak the words on your lips. Put yourself in words unspoken. Live your life with arms wide open. Today is where your love begins. Feel the rain on your skin.",
+        "avg_logprob": -0.11220561464627583
+      },
+      {
+        "id": 8,
+        "start": 254.641,
+        "end": 268.478,
+        "text": " Let it in. No one else, no one else can speak of it. On your lips spread yourself in words unspoken. Live your life with arms wide open. Today is where your book begins.",
+        "avg_logprob": -0.246729641459709
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "CuUm8L6fUN8",
+    "uploader": "Natasha Bedingfield",
+    "audio_file": "corpus/01_music_videos_audio/audio/CuUm8L6fUN8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9643232,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.68165,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:21:05Z"
+  },
+  "status": "success",
+  "error": null
+}

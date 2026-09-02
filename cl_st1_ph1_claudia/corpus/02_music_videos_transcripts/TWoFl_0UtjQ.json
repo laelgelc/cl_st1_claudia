@@ -1,0 +1,91 @@
+{
+  "corpus_id": "TWoFl_0UtjQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/TWoFl_0UtjQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/TWoFl_0UtjQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/TWoFl_0UtjQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Hey, where did we go? Days when the rains came. Down in the hollow, playing a new game. Laughing and running, hey, hey. Skipping and jumping. In the misty morning fog with our hearts thumping and you. And whatever happened to Tuesday and so slow Going down the old mine with a transistor radio Standing in the sunlight laughing Hiding high at a rainbow's wall Slipping and sliding All along the waterfall with you My brown eyed girl You, my brown eyed girl Do you remember when We used to sing Sha la la la la la la la la la la la la la la la Just like that Sha la la la la la la La-di-da, la-di-da So hard to find my way Now that I'm all on my own I saw you just the other day My, you have grown Cast my memory back, my lord. Sometimes I overcome thinking about it. Making love in the green grass. Behind the stadium with you. My bright-eyed girl. You, my bright-eyed girl. Do you remember when we used to sing? Shut up, love. Bye. Bye.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 14.763,
+        "end": 40.278,
+        "text": " Hey, where did we go? Days when the rains came. Down in the hollow, playing a new game. Laughing and running, hey, hey. Skipping and jumping. In the misty morning fog with our hearts thumping and you.",
+        "avg_logprob": -0.16712622315275902
+      },
+      {
+        "id": 2,
+        "start": 48.361,
+        "end": 74.045,
+        "text": " And whatever happened to Tuesday and so slow Going down the old mine with a transistor radio Standing in the sunlight laughing Hiding high at a rainbow's wall Slipping and sliding",
+        "avg_logprob": -0.2339409664273262
+      },
+      {
+        "id": 3,
+        "start": 75.26,
+        "end": 102.563,
+        "text": " All along the waterfall with you My brown eyed girl You, my brown eyed girl Do you remember when We used to sing Sha la la la la la la la la la la la la la la la Just like that Sha la la la la la la",
+        "avg_logprob": -0.27505897351031033
+      },
+      {
+        "id": 4,
+        "start": 104.167,
+        "end": 131.622,
+        "text": " La-di-da, la-di-da So hard to find my way Now that I'm all on my own I saw you just the other day My, you have grown",
+        "avg_logprob": -0.1444284535552326
+      },
+      {
+        "id": 5,
+        "start": 132.044,
+        "end": 161.018,
+        "text": " Cast my memory back, my lord. Sometimes I overcome thinking about it. Making love in the green grass. Behind the stadium with you. My bright-eyed girl. You, my bright-eyed girl. Do you remember when we used to sing? Shut up, love.",
+        "avg_logprob": -0.21820175647735596
+      },
+      {
+        "id": 6,
+        "start": 162.47,
+        "end": 183.142,
+        "text": " Bye. Bye.",
+        "avg_logprob": -0.763671875
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "TWoFl_0UtjQ",
+    "uploader": "Raúl Vera Santos",
+    "audio_file": "corpus/01_music_videos_audio/audio/TWoFl_0UtjQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5922096,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.847005,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:21:02Z"
+  },
+  "status": "success",
+  "error": null
+}

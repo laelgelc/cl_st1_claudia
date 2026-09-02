@@ -1,0 +1,84 @@
+{
+  "corpus_id": "4l5t1FUscUI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4l5t1FUscUI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/4l5t1FUscUI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/4l5t1FUscUI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I want him And I need him And someday, someway I'll meet him I'll be certain he's my guy. A lot of things he'll like. Though sometimes we'll fight I won't really care And I know it's gonna be alright No, he'll never do Bobby No, it isn't him, too They would never No, they'd never, never, ever Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 6.781,
+        "end": 36.498,
+        "text": " I want him And I need him And someday, someway I'll meet him",
+        "avg_logprob": -0.22403492647058823
+      },
+      {
+        "id": 2,
+        "start": 48.53,
+        "end": 55.617,
+        "text": " I'll be certain he's my guy. A lot of things he'll like.",
+        "avg_logprob": -0.2730034722222222
+      },
+      {
+        "id": 3,
+        "start": 91.072,
+        "end": 111.305,
+        "text": " Though sometimes we'll fight I won't really care And I know it's gonna be alright",
+        "avg_logprob": -0.33141447995838363
+      },
+      {
+        "id": 4,
+        "start": 134.98,
+        "end": 148.632,
+        "text": " No, he'll never do Bobby No, it isn't him, too They would never No, they'd never, never, ever",
+        "avg_logprob": -0.26157923468521665
+      },
+      {
+        "id": 5,
+        "start": 186.314,
+        "end": 187.613,
+        "text": " Thank you.",
+        "avg_logprob": -0.9892577826976776
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "4l5t1FUscUI",
+    "uploader": "The Ronettes",
+    "audio_file": "corpus/01_music_videos_audio/audio/4l5t1FUscUI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6345628,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.346849,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:58:44Z"
+  },
+  "status": "success",
+  "error": null
+}

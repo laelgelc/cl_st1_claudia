@@ -1,0 +1,84 @@
+{
+  "corpus_id": "znDgBy2mHbc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/znDgBy2mHbc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/znDgBy2mHbc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/znDgBy2mHbc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "To your life There's no turning back Even while we sleep We will find you Acting on your best behavior Turn your back on Mother Nature Everybody wants to move It's the start of freedom and of pleasure Nothing ever lasts forever Everybody wants to rule the world There's a room where the light won't bind you Holding hands while the walls come tumbling down When they do, I'll be right behind you So glad we met So sad they had to fade it Everybody wants to Everybody wants to be Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 30.035,
+        "end": 56.478,
+        "text": " To your life There's no turning back Even while we sleep We will find you Acting on your best behavior Turn your back on Mother Nature Everybody wants to move",
+        "avg_logprob": -0.12115478329360485
+      },
+      {
+        "id": 2,
+        "start": 82.972,
+        "end": 110.258,
+        "text": " It's the start of freedom and of pleasure Nothing ever lasts forever Everybody wants to rule the world There's a room where the light won't bind you Holding hands while the walls come tumbling down When they do, I'll be right behind you So glad we met",
+        "avg_logprob": -0.19618055527960812
+      },
+      {
+        "id": 3,
+        "start": 112.03,
+        "end": 120.063,
+        "text": " So sad they had to fade it Everybody wants to",
+        "avg_logprob": -0.2674005790190263
+      },
+      {
+        "id": 4,
+        "start": 175.497,
+        "end": 180.037,
+        "text": " Everybody wants to be",
+        "avg_logprob": -0.68203125
+      },
+      {
+        "id": 5,
+        "start": 244.702,
+        "end": 250.979,
+        "text": " Thank you.",
+        "avg_logprob": -0.6235351413488388
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "znDgBy2mHbc",
+    "uploader": "Tears For Fears",
+    "audio_file": "corpus/01_music_videos_audio/audio/znDgBy2mHbc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8036784,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.243253,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:22:26Z"
+  },
+  "status": "success",
+  "error": null
+}

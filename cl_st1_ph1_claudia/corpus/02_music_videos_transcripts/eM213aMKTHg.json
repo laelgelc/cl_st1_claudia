@@ -1,0 +1,98 @@
+{
+  "corpus_id": "eM213aMKTHg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/eM213aMKTHg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/eM213aMKTHg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/eM213aMKTHg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Sorry, Mr. Cole, but just leave a message after the beep. Hey, uh, it's me. Just been thinking about everything tonight. And, uh, I don't know. I just miss you so much. Picture perfect memories scattered all around the floor Reaching for the phone cause I can't fight it anymore And I wonder if I ever crossed your mind For me it happens all the time It's a quarter after one, I'm all alone and I need you now Said I wouldn't call but I lost all control and I need you now And I don't know how I can do without Another shot of whiskey, can't stop looking at the door Wishing you'd come sweeping in the way you did before And I wonder if I ever cross your mind For me it happens all the time It's a quarter after one, I'm a little drunk and I need you now Said I wouldn't call but I lost all control and I need you now And I don't Guess I'd rather hurt than feel nothing at all It's a quarter after one I'm all alone and I need you now And I said I wouldn't call But I'm a little drunk and I need you now And I don't know how I can do without I just need you now I just need you",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 4.334,
+        "end": 17.581,
+        "text": " Sorry, Mr. Cole, but just leave a message after the beep. Hey, uh, it's me. Just been thinking about everything tonight. And, uh, I don't know. I just miss you so much.",
+        "avg_logprob": -0.15267620188124637
+      },
+      {
+        "id": 2,
+        "start": 37.814,
+        "end": 67.345,
+        "text": " Picture perfect memories scattered all around the floor Reaching for the phone cause I can't fight it anymore And I wonder if I ever crossed your mind For me it happens all the time",
+        "avg_logprob": -0.05122994208658064
+      },
+      {
+        "id": 3,
+        "start": 68.459,
+        "end": 90.346,
+        "text": " It's a quarter after one, I'm all alone and I need you now Said I wouldn't call but I lost all control and I need you now And I don't know how I can do without",
+        "avg_logprob": -0.05394345184876805
+      },
+      {
+        "id": 4,
+        "start": 102.074,
+        "end": 131.369,
+        "text": " Another shot of whiskey, can't stop looking at the door Wishing you'd come sweeping in the way you did before And I wonder if I ever cross your mind For me it happens all the time",
+        "avg_logprob": -0.0694550319415767
+      },
+      {
+        "id": 5,
+        "start": 132.331,
+        "end": 151.315,
+        "text": " It's a quarter after one, I'm a little drunk and I need you now Said I wouldn't call but I lost all control and I need you now And I don't",
+        "avg_logprob": -0.0739548166055937
+      },
+      {
+        "id": 6,
+        "start": 174.535,
+        "end": 200.455,
+        "text": " Guess I'd rather hurt than feel nothing at all It's a quarter after one I'm all alone and I need you now And I said I wouldn't call But I'm a little drunk and I need you now",
+        "avg_logprob": -0.07102272473275661
+      },
+      {
+        "id": 7,
+        "start": 201.468,
+        "end": 217.33,
+        "text": " And I don't know how I can do without I just need you now I just need you",
+        "avg_logprob": -0.10683594048023223
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "eM213aMKTHg",
+    "uploader": "Lady A",
+    "audio_file": "corpus/01_music_videos_audio/audio/eM213aMKTHg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8677282,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.132149,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:12:42Z"
+  },
+  "status": "success",
+  "error": null
+}

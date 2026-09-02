@@ -1,0 +1,91 @@
+{
+  "corpus_id": "H77fRz1rybs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/H77fRz1rybs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/H77fRz1rybs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/H77fRz1rybs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "This is a man's world But it wouldn't be nothing, nothing Without a woman or a girl You see, man made the cars To take us over the road Man made the train To carry the heavy load Man made the electrolyte To take us out of the dark Man made the boat for the water Like Noah made the ark. This is a man's, man's, man's world. But it wouldn't be nothing, nothing without a woman or a girl. Man thinks about a little bit of baby girls and a baby boy. You know that man makes money It wouldn't be nothing, nothing, not one little thing without a woman or a girl. He's lost in the wilderness. He's lost in bitterness. Get in the mess now!",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 14.425,
+        "end": 42.32,
+        "text": " This is a man's world But it wouldn't be nothing, nothing Without a woman or a girl You see, man made the cars",
+        "avg_logprob": -0.17047990698899543
+      },
+      {
+        "id": 2,
+        "start": 43.417,
+        "end": 69.286,
+        "text": " To take us over the road Man made the train To carry the heavy load Man made the electrolyte To take us out of the dark Man made the boat for the water",
+        "avg_logprob": -0.07756696769169398
+      },
+      {
+        "id": 3,
+        "start": 70.94,
+        "end": 99.087,
+        "text": " Like Noah made the ark. This is a man's, man's, man's world. But it wouldn't be nothing, nothing without a woman or a girl. Man thinks about a little bit of baby girls and a baby boy.",
+        "avg_logprob": -0.11120854591836735
+      },
+      {
+        "id": 4,
+        "start": 107.255,
+        "end": 119.523,
+        "text": " You know that man makes money",
+        "avg_logprob": -0.4182477593421936
+      },
+      {
+        "id": 5,
+        "start": 131.234,
+        "end": 157.323,
+        "text": " It wouldn't be nothing, nothing, not one little thing without a woman or a girl. He's lost in the wilderness. He's lost in bitterness.",
+        "avg_logprob": -0.1425189393939394
+      },
+      {
+        "id": 6,
+        "start": 162.183,
+        "end": 163.516,
+        "text": " Get in the mess now!",
+        "avg_logprob": -0.8816964626312256
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "H77fRz1rybs",
+    "uploader": "James Brown",
+    "audio_file": "corpus/01_music_videos_audio/audio/H77fRz1rybs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5287540,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.669218,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:01:39Z"
+  },
+  "status": "success",
+  "error": null
+}

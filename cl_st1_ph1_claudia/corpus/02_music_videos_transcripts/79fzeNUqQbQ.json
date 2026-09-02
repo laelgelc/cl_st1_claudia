@@ -1,0 +1,105 @@
+{
+  "corpus_id": "79fzeNUqQbQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/79fzeNUqQbQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/79fzeNUqQbQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/79fzeNUqQbQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "life is a mystery everyone must stand alone i hear you call my name and it feels like Boys. It's like an angel sighing I have no choice I hear your voice Feels like flying I close my eyes Oh God, I think I'm falling Out of the sky I close my eyes Take you there like a child You whisper softly to me You're in control just like a child Now I'm dancing, it's like a dream No end and no beginning. You're here with me. It's like a dream. I wanna take you there Just like a prayer Your voice can take me there Just like a muse to me You are a mystery Just like a dream You are not what you see Just like a prayer Like a prayer Your voice can take me there Just like a muse to me You are a mystery Just like",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 14.324,
+        "end": 32.009,
+        "text": " life is a mystery everyone must stand alone i hear you call my name and it feels like",
+        "avg_logprob": -0.08634868656334124
+      },
+      {
+        "id": 2,
+        "start": 61.118,
+        "end": 63.127,
+        "text": " Boys.",
+        "avg_logprob": -1.3170572916666667
+      },
+      {
+        "id": 3,
+        "start": 63.886,
+        "end": 91.358,
+        "text": " It's like an angel sighing I have no choice I hear your voice Feels like flying I close my eyes Oh God, I think I'm falling Out of the sky I close my eyes",
+        "avg_logprob": -0.09855769383601654
+      },
+      {
+        "id": 4,
+        "start": 109.516,
+        "end": 132.112,
+        "text": " Take you there like a child You whisper softly to me You're in control just like a child Now I'm dancing, it's like a dream",
+        "avg_logprob": -0.10989583556850752
+      },
+      {
+        "id": 5,
+        "start": 132.112,
+        "end": 143.907,
+        "text": " No end and no beginning. You're here with me. It's like a dream.",
+        "avg_logprob": -0.26110197995838363
+      },
+      {
+        "id": 6,
+        "start": 168.14,
+        "end": 171.076,
+        "text": " I wanna take you there",
+        "avg_logprob": -0.14746093501647314
+      },
+      {
+        "id": 7,
+        "start": 204.944,
+        "end": 219.625,
+        "text": " Just like a prayer Your voice can take me there Just like a muse to me You are a mystery Just like a dream You are not what you see Just like a prayer",
+        "avg_logprob": -0.09893973512308939
+      },
+      {
+        "id": 8,
+        "start": 257.392,
+        "end": 266.234,
+        "text": " Like a prayer Your voice can take me there Just like a muse to me You are a mystery Just like",
+        "avg_logprob": -0.28675426271828736
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "79fzeNUqQbQ",
+    "uploader": "Madonna",
+    "audio_file": "corpus/01_music_videos_audio/audio/79fzeNUqQbQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10798658,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.26213,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:23:04Z"
+  },
+  "status": "success",
+  "error": null
+}

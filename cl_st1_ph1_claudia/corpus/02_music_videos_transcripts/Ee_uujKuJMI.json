@@ -1,0 +1,63 @@
+{
+  "corpus_id": "Ee_uujKuJMI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Ee_uujKuJMI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Ee_uujKuJMI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Ee_uujKuJMI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "All across the alien nation Everything isn't meant to be okay Television dreams of tomorrow We're not the ones meant to follow But it's enough to argue To a new kind of tension All across the alien nation Everything is meant to be okay Don't be trying to change our tomorrow We're not the ones we're meant to follow",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 2,
+    "segments": [
+      {
+        "id": 1,
+        "start": 33.072,
+        "end": 49.66,
+        "text": " All across the alien nation Everything isn't meant to be okay Television dreams of tomorrow We're not the ones meant to follow But it's enough to argue",
+        "avg_logprob": -0.2071572551804204
+      },
+      {
+        "id": 2,
+        "start": 142.979,
+        "end": 158.69,
+        "text": " To a new kind of tension All across the alien nation Everything is meant to be okay Don't be trying to change our tomorrow We're not the ones we're meant to follow",
+        "avg_logprob": -0.2443576397167312
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Ee_uujKuJMI",
+    "uploader": "Green Day",
+    "audio_file": "corpus/01_music_videos_audio/audio/Ee_uujKuJMI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5806182,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 23.841223,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:54:02Z"
+  },
+  "status": "success",
+  "error": null
+}

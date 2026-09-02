@@ -1,0 +1,105 @@
+{
+  "corpus_id": "vk6014HuxcE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/vk6014HuxcE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/vk6014HuxcE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/vk6014HuxcE.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I'm up at Brooklyn, now I'm down in Tribeca, right next to the Nero, but I'll be hood forever, I'm the new Sinatra, and since I made it here, I can make it anywhere, yeah they love me everywhere, I used to cop in Harlem, all of my Dominicanos, right there up on Broadway, pulled me back to that McDonald's, took it to my stash spot, 560 State Street, catch me in the kitchen like the Simmons whipping pastry, cruising down A Street, off White Lexus, driving so slow but BK is from Texas me I'm out that bad style home of that boy Biggie now I live on Billboard and I brought my boys with me say what up to Tata still sippin' my top sittin' courtside nicks and nets give me high five I be spiked out I could trip a referee tell by my attitude that I'm most definitely from You should know I bleed blue, but I ain't a crypto, but I got a gang of walking with my click. So welcome to the middle. We'll be right back. Paying LeBron, I'm paying Dwayne Bway. Three dice, Elo. Three cards, Marley. Labor Day parade, rest in peace, Bob Marley. Statue of Liberty. Long live the World Trade. Long live the King, yo. I'm from the Empire State, that's it. girls need blinders so they can step out of bounds quick the sidelines is lined with casualties who sip the life casually then gradually become worse don't fight the apple eve caught up in the in crowd now you're in style and in the winter gets cold in vogue with your skin out city of sin is the pity on the whim good girls going bad the city's filled with them mommy took a bus trip now she got a bust out everybody ride her just like a bus route hell married to the city you're a virgin and jesus Can't save you, life starts when the church in. Came here for school, graduated to the high life. Ballplayers, rap stars, addicted to the limelight. MDMA got you feeling like a champion. The city never sleeps, better slip you an Ambien. Put your lighters in the air",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 11.202,
+        "end": 36.228,
+        "text": " I'm up at Brooklyn, now I'm down in Tribeca, right next to the Nero, but I'll be hood forever, I'm the new Sinatra, and since I made it here, I can make it anywhere, yeah they love me everywhere, I used to cop in Harlem, all of my Dominicanos, right there up on Broadway, pulled me back to that McDonald's, took it to my stash spot, 560 State Street, catch me in the kitchen like the Simmons whipping pastry, cruising down A Street, off White Lexus, driving",
+        "avg_logprob": -0.10454184391488464
+      },
+      {
+        "id": 2,
+        "start": 36.228,
+        "end": 55.955,
+        "text": " so slow but BK is from Texas me I'm out that bad style home of that boy Biggie now I live on Billboard and I brought my boys with me say what up to Tata still sippin' my top sittin' courtside nicks and nets give me high five I be spiked out I could trip a referee tell by my attitude that I'm most definitely from",
+        "avg_logprob": -0.19921874701976777
+      },
+      {
+        "id": 3,
+        "start": 75.682,
+        "end": 95.037,
+        "text": " You should know I bleed blue, but I ain't a crypto, but I got a gang of walking with my click. So welcome to the middle.",
+        "avg_logprob": -0.332275384105742
+      },
+      {
+        "id": 4,
+        "start": 97.45,
+        "end": 113.667,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.6886160884584699
+      },
+      {
+        "id": 5,
+        "start": 113.667,
+        "end": 128.045,
+        "text": " Paying LeBron, I'm paying Dwayne Bway. Three dice, Elo. Three cards, Marley. Labor Day parade, rest in peace, Bob Marley. Statue of Liberty. Long live the World Trade. Long live the King, yo. I'm from the Empire State, that's it.",
+        "avg_logprob": -0.13890166054753697
+      },
+      {
+        "id": 6,
+        "start": 156.766,
+        "end": 186.567,
+        "text": " girls need blinders so they can step out of bounds quick the sidelines is lined with casualties who sip the life casually then gradually become worse don't fight the apple eve caught up in the in crowd now you're in style and in the winter gets cold in vogue with your skin out city of sin is the pity on the whim good girls going bad the city's filled with them mommy took a bus trip now she got a bust out everybody ride her just like a bus route hell married to the city you're a virgin and jesus",
+        "avg_logprob": -0.14105503930958038
+      },
+      {
+        "id": 7,
+        "start": 186.567,
+        "end": 200.337,
+        "text": " Can't save you, life starts when the church in. Came here for school, graduated to the high life. Ballplayers, rap stars, addicted to the limelight. MDMA got you feeling like a champion. The city never sleeps, better slip you an Ambien.",
+        "avg_logprob": -0.14949682051852597
+      },
+      {
+        "id": 8,
+        "start": 228.08,
+        "end": 237.732,
+        "text": " Put your lighters in the air",
+        "avg_logprob": -0.4777832254767418
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "vk6014HuxcE",
+    "uploader": "JAŸ-Z",
+    "audio_file": "corpus/01_music_videos_audio/audio/vk6014HuxcE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9020566,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.949003,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:19:21Z"
+  },
+  "status": "success",
+  "error": null
+}

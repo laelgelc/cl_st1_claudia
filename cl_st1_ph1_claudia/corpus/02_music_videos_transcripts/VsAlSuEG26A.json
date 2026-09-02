@@ -1,0 +1,70 @@
+{
+  "corpus_id": "VsAlSuEG26A",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/VsAlSuEG26A.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/VsAlSuEG26A.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/VsAlSuEG26A.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "one two three o'clock four o'clock rock five six seven o'clock eight o'clock rock nine ten eleven o'clock twelve o'clock rock we're gonna rock around the clock tonight Three and four, if the band slows down, we'll yell. When the chimes ring five, six, and seven, we'll be right at seven.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 11.877,
+        "text": " one two three o'clock four o'clock rock five six seven o'clock eight o'clock rock nine ten eleven o'clock twelve o'clock rock we're gonna rock around the clock tonight",
+        "avg_logprob": -0.10518973001411983
+      },
+      {
+        "id": 2,
+        "start": 28.111,
+        "end": 31.013,
+        "text": " Three and four, if the band slows down, we'll yell.",
+        "avg_logprob": -0.5208333492279053
+      },
+      {
+        "id": 3,
+        "start": 56.613,
+        "end": 62.097,
+        "text": " When the chimes ring five, six, and seven, we'll be right at seven.",
+        "avg_logprob": -0.20195311903953553
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "VsAlSuEG26A",
+    "uploader": "OLD TAPES",
+    "audio_file": "corpus/01_music_videos_audio/audio/VsAlSuEG26A.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3874282,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.262386,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:00:53Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,91 @@
+{
+  "corpus_id": "Zv8czIoAw5w",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Zv8czIoAw5w.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Zv8czIoAw5w.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Zv8czIoAw5w.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Oh my love My darling I've hungered for your touch A long lonely time And I goes by so slowly and time can do so much for you still more I need your love I need your love God, speed your love to me Lonely rivers flow to the sea, to the sea To the open arms of the sea, yeah Lonely riverside, wait for me, wait for me I'll be coming home, wait for me I'm hungry, hungry for your touch Hold on, you're retired How much are you to me? I need your love. I need your love.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 29.528,
+        "text": " Oh my love My darling I've hungered for your touch A long lonely time And I",
+        "avg_logprob": -0.19202302788433276
+      },
+      {
+        "id": 2,
+        "start": 31.958,
+        "end": 60.848,
+        "text": " goes by so slowly and time can do so much for you still more I need your love",
+        "avg_logprob": -0.18729440632619357
+      },
+      {
+        "id": 3,
+        "start": 64.915,
+        "end": 92.827,
+        "text": " I need your love God, speed your love to me Lonely rivers flow to the sea, to the sea",
+        "avg_logprob": -0.1834239091562188
+      },
+      {
+        "id": 4,
+        "start": 93.468,
+        "end": 113.718,
+        "text": " To the open arms of the sea, yeah Lonely riverside, wait for me, wait for me I'll be coming home, wait for me",
+        "avg_logprob": -0.10779989823218315
+      },
+      {
+        "id": 5,
+        "start": 125.767,
+        "end": 138.862,
+        "text": " I'm hungry, hungry for your touch Hold on, you're retired",
+        "avg_logprob": -0.36223957141240437
+      },
+      {
+        "id": 6,
+        "start": 158.605,
+        "end": 187.529,
+        "text": " How much are you to me? I need your love. I need your love.",
+        "avg_logprob": -0.3339843733443154
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Zv8czIoAw5w",
+    "uploader": "The Righteous Brothers - Topic",
+    "audio_file": "corpus/01_music_videos_audio/audio/Zv8czIoAw5w.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6836032,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.98906,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:20Z"
+  },
+  "status": "success",
+  "error": null
+}

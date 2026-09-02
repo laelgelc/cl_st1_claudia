@@ -1,0 +1,91 @@
+{
+  "corpus_id": "IxuThNgl3YA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/IxuThNgl3YA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/IxuThNgl3YA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/IxuThNgl3YA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Thanks. Remember in the end, nobody wins unless everybody wins. Come one time! Cases on highway lines One wheel fuel injected When did love begin? I want beer and drink I wanna guard your dreams and face Just wrap your face around these velvet wings Just wrap your hands across my inches Together we could break this trap Run till we drop Baby, we'll never go back Whoa, walk with me in the wild Girl, I'm just Find out how it feels I wanna know if love is wild I wanna know Beyond the palace, heavy palindromes, the street and the boulevard. The girls comb their hair in rearview mirrors, the boys try to look so hard. The amusement park, glasses full of stars, kids are running on the beach in the midst. I want to die watching the old street tonight. Baby, we live with the sadness I love you with all the madness in my soul Whoa, someday, girl, I don't know when We're gonna get to that place we really wanna go We'll walk in the sun, rock till there's clouds like us",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 8.502,
+        "end": 15.978,
+        "text": " Thanks. Remember in the end, nobody wins unless everybody wins. Come one time!",
+        "avg_logprob": -0.3266059011220932
+      },
+      {
+        "id": 2,
+        "start": 44.108,
+        "end": 48.715,
+        "text": " Cases on highway lines One wheel fuel injected",
+        "avg_logprob": -0.696484386920929
+      },
+      {
+        "id": 3,
+        "start": 78.702,
+        "end": 107.98,
+        "text": " When did love begin? I want beer and drink I wanna guard your dreams and face Just wrap your face around these velvet wings Just wrap your hands across my inches Together we could break this trap Run till we drop Baby, we'll never go back Whoa, walk with me in the wild Girl, I'm just",
+        "avg_logprob": -0.34523808861535693
+      },
+      {
+        "id": 4,
+        "start": 111.254,
+        "end": 116.62,
+        "text": " Find out how it feels I wanna know if love is wild I wanna know",
+        "avg_logprob": -0.2519531361758709
+      },
+      {
+        "id": 5,
+        "start": 151.214,
+        "end": 174.704,
+        "text": " Beyond the palace, heavy palindromes, the street and the boulevard. The girls comb their hair in rearview mirrors, the boys try to look so hard. The amusement park, glasses full of stars, kids are running on the beach in the midst. I want to die watching the old street tonight.",
+        "avg_logprob": -0.37286933172832837
+      },
+      {
+        "id": 6,
+        "start": 227.843,
+        "end": 249.46,
+        "text": " Baby, we live with the sadness I love you with all the madness in my soul Whoa, someday, girl, I don't know when We're gonna get to that place we really wanna go We'll walk in the sun, rock till there's clouds like us",
+        "avg_logprob": -0.2463831079226953
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "IxuThNgl3YA",
+    "uploader": "Bruce Springsteen",
+    "audio_file": "corpus/01_music_videos_audio/audio/IxuThNgl3YA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10658224,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.057206,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:02:41Z"
+  },
+  "status": "success",
+  "error": null
+}

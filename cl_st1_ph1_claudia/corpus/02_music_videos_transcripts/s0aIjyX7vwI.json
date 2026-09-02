@@ -1,0 +1,84 @@
+{
+  "corpus_id": "s0aIjyX7vwI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/s0aIjyX7vwI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/s0aIjyX7vwI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/s0aIjyX7vwI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "It could be a spoon full of diamond. Could be a spoon full of gold. Just a little spoon of your precious love. Satisfy my soul. A man lies about a little. Some up cries about a little. Some up dies about a little spoon. Everything fight about a spoon That spoon, that spoon, that spoon It could be a spoon full of coffee Could be a spoon full of tea But a little spoon of your precious love is good enough for me. Men lie about that. Some of them cry about that. Some of them cry about that. But everything's fine about a spoon. That spoon, that spoon. It could be a spoon full of water Saved from the desert sand One, one spoon of little 45. Save you from another man. A man lies about that. Some of them cries about that. Some of them dies about that. Everybody fighting about a spoon. That spoon, that spoon.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 17.227,
+        "end": 44.581,
+        "text": " It could be a spoon full of diamond. Could be a spoon full of gold. Just a little spoon of your precious love. Satisfy my soul. A man lies about a little. Some up cries about a little. Some up dies about a little spoon.",
+        "avg_logprob": -0.129545457796617
+      },
+      {
+        "id": 2,
+        "start": 45.965,
+        "end": 65.928,
+        "text": " Everything fight about a spoon That spoon, that spoon, that spoon It could be a spoon full of coffee Could be a spoon full of tea",
+        "avg_logprob": -0.10668103756575749
+      },
+      {
+        "id": 3,
+        "start": 66.232,
+        "end": 91.662,
+        "text": " But a little spoon of your precious love is good enough for me. Men lie about that. Some of them cry about that. Some of them cry about that. But everything's fine about a spoon. That spoon, that spoon.",
+        "avg_logprob": -0.12801107205450535
+      },
+      {
+        "id": 4,
+        "start": 104.858,
+        "end": 125.277,
+        "text": " It could be a spoon full of water Saved from the desert sand",
+        "avg_logprob": -0.215234371026357
+      },
+      {
+        "id": 5,
+        "start": 126.509,
+        "end": 151.467,
+        "text": " One, one spoon of little 45. Save you from another man. A man lies about that. Some of them cries about that. Some of them dies about that. Everybody fighting about a spoon. That spoon, that spoon.",
+        "avg_logprob": -0.24534574087629926
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "s0aIjyX7vwI",
+    "uploader": "buckinny",
+    "audio_file": "corpus/01_music_videos_audio/audio/s0aIjyX7vwI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5342526,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.67279,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:59:45Z"
+  },
+  "status": "success",
+  "error": null
+}

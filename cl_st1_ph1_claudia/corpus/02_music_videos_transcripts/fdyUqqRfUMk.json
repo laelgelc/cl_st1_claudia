@@ -1,0 +1,91 @@
+{
+  "corpus_id": "fdyUqqRfUMk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/fdyUqqRfUMk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/fdyUqqRfUMk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/fdyUqqRfUMk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "And to know that the man has got to deal with it I don't care what they say I'm not about to pay nobody's way Cause it's all about the dog in me I wanna freak in the morning and freak in the evening Just for me, if you are that kind of man Cause I'm that kind of girl I got a freaky secret everybody's saying Cause we don't give a damn about a thing Cause I will be a freak until the day, until the dawn Moving kind of slow, you gotta keep it up, now there you go. That's just one thing that a man must do. I'm packing all the flavor you need, I got your sugar. Just for me, if you are that kind of man Cause I'm that kind of girl I've got a freaky secret everybody's saying Cause we don't give a damn about a thing Cause I will be a freak until the day, until the dawn And we can go all through the night to the early morn Come on and I will take you around the hood Until the day, until the day All through the night, to the early morning The bells on the house can't hear me The morning I will take to around the world On against the lean And maybe it won't any time of day",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 25.799,
+        "end": 45.492,
+        "text": " And to know that the man has got to deal with it I don't care what they say I'm not about to pay nobody's way Cause it's all about the dog in me I wanna freak in the morning and freak in the evening",
+        "avg_logprob": -0.15035077017180773
+      },
+      {
+        "id": 2,
+        "start": 50.977,
+        "end": 66.94,
+        "text": " Just for me, if you are that kind of man Cause I'm that kind of girl I got a freaky secret everybody's saying Cause we don't give a damn about a thing Cause I will be a freak until the day, until the dawn",
+        "avg_logprob": -0.1290594391963061
+      },
+      {
+        "id": 3,
+        "start": 85.57,
+        "end": 99.121,
+        "text": " Moving kind of slow, you gotta keep it up, now there you go. That's just one thing that a man must do. I'm packing all the flavor you need, I got your sugar.",
+        "avg_logprob": -0.21856399057876497
+      },
+      {
+        "id": 4,
+        "start": 114.899,
+        "end": 139.975,
+        "text": " Just for me, if you are that kind of man Cause I'm that kind of girl I've got a freaky secret everybody's saying Cause we don't give a damn about a thing Cause I will be a freak until the day, until the dawn And we can go all through the night to the early morn Come on and I will take you around the hood",
+        "avg_logprob": -0.15135417064030965
+      },
+      {
+        "id": 5,
+        "start": 149.324,
+        "end": 151.231,
+        "text": " Until the day, until the day",
+        "avg_logprob": -0.3574218675494194
+      },
+      {
+        "id": 6,
+        "start": 217.06,
+        "end": 229.227,
+        "text": " All through the night, to the early morning The bells on the house can't hear me The morning I will take to around the world On against the lean And maybe it won't any time of day",
+        "avg_logprob": -0.5278201219512195
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "fdyUqqRfUMk",
+    "uploader": "UPROXX",
+    "audio_file": "corpus/01_music_videos_audio/audio/fdyUqqRfUMk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7876286,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.012954,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:11:10Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,84 @@
+{
+  "corpus_id": "Y-9Y4CCIWnM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Y-9Y4CCIWnM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Y-9Y4CCIWnM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Y-9Y4CCIWnM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "music music Deep down in Louisiana, close to New Orleans Way back up in the woods among the evergreens There stood a log cabin made of earth and wood Where lived a country boy named Johnny B. Goode Who never ever learned to read or write so well But he could play a guitar just like a ring in a bell Go, go, go Go Johnny, go, go Go Johnny, go, go Go Johnny, go, go Johnny be good He used to carry his guitar in a gunny sack Go sit beneath a tree by the railroad track Ball engine, everything flittin' in the shade Strummin' with the rhythm that the drivers made When people passin' by, they would stop and say Oh my, what that little country boy could play Go, go Go, Johnny, go, go Go, Johnny, go, go Go, Johnny, go, go Go, Johnny, go, go His mother told him someday you will be a man And you will be the leader of a big old band Many people coming from miles around To hear you play your music when the sun go down Maybe someday your name will be in light saying Johnny be good tonight Go, go, go Johnny go Go, go, go Johnny go Go, go, go Johnny go Go, go, go Johnny go Go",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.993,
+        "end": 2.883,
+        "text": " music music",
+        "avg_logprob": -1.9622395833333333
+      },
+      {
+        "id": 2,
+        "start": 18.07,
+        "end": 36.852,
+        "text": " Deep down in Louisiana, close to New Orleans Way back up in the woods among the evergreens There stood a log cabin made of earth and wood Where lived a country boy named Johnny B. Goode Who never ever learned to read or write so well But he could play a guitar just like a ring in a bell Go, go, go",
+        "avg_logprob": -0.08459821247628757
+      },
+      {
+        "id": 3,
+        "start": 38.641,
+        "end": 50.403,
+        "text": " Go Johnny, go, go Go Johnny, go, go Go Johnny, go, go Johnny be good",
+        "avg_logprob": -0.17382813041860407
+      },
+      {
+        "id": 4,
+        "start": 51.871,
+        "end": 81.082,
+        "text": " He used to carry his guitar in a gunny sack Go sit beneath a tree by the railroad track Ball engine, everything flittin' in the shade Strummin' with the rhythm that the drivers made When people passin' by, they would stop and say Oh my, what that little country boy could play Go, go Go, Johnny, go, go Go, Johnny, go, go Go, Johnny, go, go Go, Johnny, go, go",
+        "avg_logprob": -0.14322916589056453
+      },
+      {
+        "id": 5,
+        "start": 121.312,
+        "end": 151.214,
+        "text": " His mother told him someday you will be a man And you will be the leader of a big old band Many people coming from miles around To hear you play your music when the sun go down Maybe someday your name will be in light saying Johnny be good tonight Go, go, go Johnny go Go, go, go Johnny go Go, go, go Johnny go Go, go, go Johnny go Go",
+        "avg_logprob": -0.10233410346655199
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Y-9Y4CCIWnM",
+    "uploader": "Chuck Berry",
+    "audio_file": "corpus/01_music_videos_audio/audio/Y-9Y4CCIWnM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5202092,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.192836,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:02:45Z"
+  },
+  "status": "success",
+  "error": null
+}

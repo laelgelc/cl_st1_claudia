@@ -1,0 +1,84 @@
+{
+  "corpus_id": "ZSM3w1v-A_Y",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ZSM3w1v-A_Y.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ZSM3w1v-A_Y.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ZSM3w1v-A_Y.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I'm holding on your rope, got me ten feet off the ground And I'm hearing what you say, but I just can't make a sound You tell me that you need me, then you go and cut me down But wait, you tell me that you're sorry, didn't think I'd turn around And say that it's too late to apologize I loved you with a fire in, now it's turning blue And you said, sorry like an angel, heaven let me think was you But I'm afraid, it's too late to apologize, it's too late Jai Holdin' on your own, got me ten feet off the ground",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 17.007,
+        "end": 30.018,
+        "text": " I'm holding on your rope, got me ten feet off the ground And I'm hearing what you say, but I just can't make a sound",
+        "avg_logprob": -0.13218246160014982
+      },
+      {
+        "id": 2,
+        "start": 33.427,
+        "end": 52.647,
+        "text": " You tell me that you need me, then you go and cut me down But wait, you tell me that you're sorry, didn't think I'd turn around And say that it's too late to apologize",
+        "avg_logprob": -0.11319040455097376
+      },
+      {
+        "id": 3,
+        "start": 88.895,
+        "end": 111.305,
+        "text": " I loved you with a fire in, now it's turning blue And you said, sorry like an angel, heaven let me think was you But I'm afraid, it's too late to apologize, it's too late",
+        "avg_logprob": -0.14401041136847603
+      },
+      {
+        "id": 4,
+        "start": 142.709,
+        "end": 144.38,
+        "text": " Jai",
+        "avg_logprob": -1.6640625
+      },
+      {
+        "id": 5,
+        "start": 174.012,
+        "end": 181.792,
+        "text": " Holdin' on your own, got me ten feet off the ground",
+        "avg_logprob": -0.2408854087193807
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "ZSM3w1v-A_Y",
+    "uploader": "Timbaland",
+    "audio_file": "corpus/01_music_videos_audio/audio/ZSM3w1v-A_Y.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6039496,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.172553,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:07:23Z"
+  },
+  "status": "success",
+  "error": null
+}

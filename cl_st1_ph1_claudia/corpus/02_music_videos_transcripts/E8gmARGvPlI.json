@@ -1,0 +1,91 @@
+{
+  "corpus_id": "E8gmARGvPlI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/E8gmARGvPlI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/E8gmARGvPlI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/E8gmARGvPlI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I'll give it to someone special Last Christmas I gave you my heart But the very next day you gave it away This year to save me from tears I'll give it to someone special With a note saying, I love you, I meant it Now I know what a fool I've been But if you kissed me now, I know you'd fool me again Last Christmas, I gave you my heart But the very next day, you gave it away This year, to save me from tears I'll give it to someone special Last Christmas, I gave you my heart But the very next day, you gave it away This year, to save your tears I'll give it to someone special I'm hiding from you and your soul of ice My God, I thought you were someone to rely on Me, I guess I was a shoulder to cry on A face on a lover with a fire in his heart A man undercover but you told me You'll never fool me again Last Christmas I gave you my heart But the very next day you gave it away This year to save me from tears I'll give it to someone special Last Christmas I gave you my heart I'll give it to someone, I'll give it to someone",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 32.144,
+        "end": 52.31,
+        "text": " I'll give it to someone special Last Christmas I gave you my heart But the very next day you gave it away This year to save me from tears I'll give it to someone special",
+        "avg_logprob": -0.08634868715154498
+      },
+      {
+        "id": 2,
+        "start": 94.683,
+        "end": 124.265,
+        "text": " With a note saying, I love you, I meant it Now I know what a fool I've been But if you kissed me now, I know you'd fool me again Last Christmas, I gave you my heart But the very next day, you gave it away This year, to save me from tears I'll give it to someone special",
+        "avg_logprob": -0.06685914898264235
+      },
+      {
+        "id": 3,
+        "start": 126.02,
+        "end": 142.523,
+        "text": " Last Christmas, I gave you my heart But the very next day, you gave it away This year, to save your tears I'll give it to someone special",
+        "avg_logprob": -0.09878077651515152
+      },
+      {
+        "id": 4,
+        "start": 166.705,
+        "end": 187.546,
+        "text": " I'm hiding from you and your soul of ice My God, I thought you were someone to rely on Me, I guess I was a shoulder to cry on A face on a lover with a fire in his heart A man undercover but you told me",
+        "avg_logprob": -0.09137561508253508
+      },
+      {
+        "id": 5,
+        "start": 194.667,
+        "end": 219.558,
+        "text": " You'll never fool me again Last Christmas I gave you my heart But the very next day you gave it away This year to save me from tears I'll give it to someone special Last Christmas I gave you my heart",
+        "avg_logprob": -0.07936789552596482
+      },
+      {
+        "id": 6,
+        "start": 236.062,
+        "end": 250.777,
+        "text": " I'll give it to someone, I'll give it to someone",
+        "avg_logprob": -0.21456473427159445
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "E8gmARGvPlI",
+    "uploader": "WHAM!",
+    "audio_file": "corpus/01_music_videos_audio/audio/E8gmARGvPlI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8909854,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 61.271425,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:53:08Z"
+  },
+  "status": "success",
+  "error": null
+}

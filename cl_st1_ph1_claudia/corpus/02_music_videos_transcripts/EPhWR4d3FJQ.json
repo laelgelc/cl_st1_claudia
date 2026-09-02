@@ -1,0 +1,84 @@
+{
+  "corpus_id": "EPhWR4d3FJQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/EPhWR4d3FJQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/EPhWR4d3FJQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/EPhWR4d3FJQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "That's gonna be too much till you spend half your life just to cover it up now. Born in the USA. I was born in the USA. I was born in the USA. Born in the USA. Now, got in a little hometown jam. So they pull her out the window. that don't kill the yellow man. We'll be right back. We'll be right back. We'll be right back.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 34.22,
+        "end": 62.705,
+        "text": " That's gonna be too much till you spend half your life just to cover it up now. Born in the USA. I was born in the USA. I was born in the USA. Born in the USA. Now, got in a little hometown jam. So they pull her out the window.",
+        "avg_logprob": -0.2228483606557377
+      },
+      {
+        "id": 2,
+        "start": 68.78,
+        "end": 71.362,
+        "text": " that don't kill the yellow man.",
+        "avg_logprob": -0.3450520833333333
+      },
+      {
+        "id": 3,
+        "start": 93.485,
+        "end": 102.327,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.5820312329701015
+      },
+      {
+        "id": 4,
+        "start": 152.851,
+        "end": 164.41,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.5161830527441842
+      },
+      {
+        "id": 5,
+        "start": 247.216,
+        "end": 276.663,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.39676339285714285
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "EPhWR4d3FJQ",
+    "uploader": "Bruce Springsteen",
+    "audio_file": "corpus/01_music_videos_audio/audio/EPhWR4d3FJQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9065892,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.052344,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:58:33Z"
+  },
+  "status": "success",
+  "error": null
+}

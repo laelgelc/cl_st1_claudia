@@ -1,0 +1,105 @@
+{
+  "corpus_id": "MSRcC626prw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/MSRcC626prw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/MSRcC626prw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/MSRcC626prw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Oh, my God. I wish it didn't have to be this way. I really do. But sometimes in life, we have to protect our own heart, even if it means ripping it out of our chest. Au revoir, mon amour. Even though it's salty Hate to see you with some other blood, know you happy Hate to see you happy if I'm not the one driving I'm so mature, I'm so mature, I'm so mature Ain't got me a therapist to tell me there's other men I ain't no one, I just want you If I can't have you, no one should have mine My life in my hands Not the best idea His new girlfriend's next house I get the sense that it's a lost cause. I get the sense that you might really love her. The sex gon' be evidence. The sex is evidence. I tried to ask you what you know, but it's a crime of passion. But damn, you was out of reach. You was at the farmer's market with your perfect peach. Now I'm in the basement, planning on my base. And all you million face dogs, I've been taking over a beach. I'm so much for you. I'm so much for you. I'm so much for you. I love you, you know. It's the time of the summer. And I just want you. If I can have you. I might kill my list, not the best idea. Please make off with me. I did all of this over I did it all for us I did it all for love I did all of this on no drugs I did it all of this over Don't you know I did it all for us I just killed my ex, not the best idea Killed his girlfriend next time I get here I just killed my ex, I still love him though Rather be in hell than alone You push me past my own capacity, boy Permission to crash, collect",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 5.971,
+        "end": 12.434,
+        "text": " Oh, my God.",
+        "avg_logprob": -0.9707031647364298
+      },
+      {
+        "id": 2,
+        "start": 27.824,
+        "end": 36.413,
+        "text": " I wish it didn't have to be this way. I really do. But sometimes in life, we have to protect our own heart, even if it means ripping it out of our chest. Au revoir, mon amour.",
+        "avg_logprob": -0.05773925936470429
+      },
+      {
+        "id": 3,
+        "start": 72.644,
+        "end": 100.943,
+        "text": " Even though it's salty Hate to see you with some other blood, know you happy Hate to see you happy if I'm not the one driving I'm so mature, I'm so mature, I'm so mature Ain't got me a therapist to tell me there's other men I ain't no one, I just want you If I can't have you, no one should have mine My life in my hands Not the best idea His new girlfriend's next house",
+        "avg_logprob": -0.15799534986627864
+      },
+      {
+        "id": 4,
+        "start": 113.954,
+        "end": 143.924,
+        "text": " I get the sense that it's a lost cause. I get the sense that you might really love her. The sex gon' be evidence. The sex is evidence. I tried to ask you what you know, but it's a crime of passion. But damn, you was out of reach. You was at the farmer's market with your perfect peach. Now I'm in the basement, planning on my base. And all you million face dogs, I've been taking over a beach. I'm so much for you. I'm so much for you. I'm so much for you. I love you, you know. It's the time of the summer. And I just want you. If I can have you.",
+        "avg_logprob": -0.2512668806153375
+      },
+      {
+        "id": 5,
+        "start": 146.911,
+        "end": 153.796,
+        "text": " I might kill my list, not the best idea. Please make off with me.",
+        "avg_logprob": -0.6167534622881148
+      },
+      {
+        "id": 6,
+        "start": 173.708,
+        "end": 189.706,
+        "text": " I did all of this over I did it all for us I did it all for love I did all of this on no drugs I did it all of this over Don't you know I did it all for us",
+        "avg_logprob": -0.16051136736165394
+      },
+      {
+        "id": 7,
+        "start": 190.668,
+        "end": 214.242,
+        "text": " I just killed my ex, not the best idea Killed his girlfriend next time I get here I just killed my ex, I still love him though Rather be in hell than alone",
+        "avg_logprob": -0.24704391891891891
+      },
+      {
+        "id": 8,
+        "start": 226.477,
+        "end": 235.538,
+        "text": " You push me past my own capacity, boy Permission to crash, collect",
+        "avg_logprob": -0.20288086496293545
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "MSRcC626prw",
+    "uploader": "SZA",
+    "audio_file": "corpus/01_music_videos_audio/audio/MSRcC626prw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8824404,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 22.188599,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:15:59Z"
+  },
+  "status": "success",
+  "error": null
+}

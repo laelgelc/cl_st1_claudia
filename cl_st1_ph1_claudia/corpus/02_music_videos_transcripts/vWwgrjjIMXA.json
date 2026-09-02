@@ -1,0 +1,91 @@
+{
+  "corpus_id": "vWwgrjjIMXA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/vWwgrjjIMXA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/vWwgrjjIMXA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/vWwgrjjIMXA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "How many roads must a man walk down before you call him a man? Yes, and how many seas must a white dove sail before she sleeps in the sand? Yes, and how many times must a cannonball fly before they four have a band? The answer my friend is a blowin' in the wind The answer is blowin' in the wind How many years must a mountain exist before it is washed to the sea? Yes and how many years can some people exist before they're allowed to be free? Yes and how many times must a man turn his head And pretend that he just doesn't see The answer my friend is a blowin' in the wind The answer is blowin' in the wind How many times must a man look up before he can really see the sky? Isn't how many years must one man have before he can hear a people cry? Yes, and how many deaths will it take? Tell you no, too many people have died. The ants are my friends. They're blowing in the wind. The ants.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.162,
+        "end": 30.777,
+        "text": " How many roads must a man walk down before you call him a man? Yes, and how many seas must a white dove sail before she sleeps in the sand? Yes, and how many times must a cannonball fly before they four have a band?",
+        "avg_logprob": -0.15136718692687842
+      },
+      {
+        "id": 2,
+        "start": 32.448,
+        "end": 43.754,
+        "text": " The answer my friend is a blowin' in the wind The answer is blowin' in the wind",
+        "avg_logprob": -0.12606534361839294
+      },
+      {
+        "id": 3,
+        "start": 48.968,
+        "end": 77.825,
+        "text": " How many years must a mountain exist before it is washed to the sea? Yes and how many years can some people exist before they're allowed to be free? Yes and how many times must a man turn his head",
+        "avg_logprob": -0.0851384966888211
+      },
+      {
+        "id": 4,
+        "start": 78.314,
+        "end": 103.238,
+        "text": " And pretend that he just doesn't see The answer my friend is a blowin' in the wind The answer is blowin' in the wind",
+        "avg_logprob": -0.14453125596046448
+      },
+      {
+        "id": 5,
+        "start": 103.508,
+        "end": 122.695,
+        "text": " How many times must a man look up before he can really see the sky? Isn't how many years must one man have before he can hear a people cry?",
+        "avg_logprob": -0.09972426361020874
+      },
+      {
+        "id": 6,
+        "start": 123.742,
+        "end": 140.971,
+        "text": " Yes, and how many deaths will it take? Tell you no, too many people have died. The ants are my friends. They're blowing in the wind. The ants.",
+        "avg_logprob": -0.2751266763016984
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "vWwgrjjIMXA",
+    "uploader": "Bob Dylan",
+    "audio_file": "corpus/01_music_videos_audio/audio/vWwgrjjIMXA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4988840,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 6.270393,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:04:17Z"
+  },
+  "status": "success",
+  "error": null
+}

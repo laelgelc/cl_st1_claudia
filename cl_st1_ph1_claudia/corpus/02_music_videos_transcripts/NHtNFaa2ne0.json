@@ -1,0 +1,77 @@
+{
+  "corpus_id": "NHtNFaa2ne0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/NHtNFaa2ne0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/NHtNFaa2ne0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/NHtNFaa2ne0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You say that you love me All of the time You say that you need me You'll always be mine I'm feeling Always the truth I'm feeling Glad all over, yes I'm Glad all over, baby I'm Glad all over, glad you're mine All the girls may try to take me away But you know, if by your side I will stay, I'll stay All of our lives now, till the end of time Because this love now, is only yours and mine And I'll be there now Try to take me away But you know it's by your side I'll stay All of us now Till the end of time Because this love now Is only yours and mine And I'm feeling",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 10.122,
+        "end": 25.124,
+        "text": " You say that you love me All of the time You say that you need me You'll always be mine I'm feeling",
+        "avg_logprob": -0.105234375
+      },
+      {
+        "id": 2,
+        "start": 49.238,
+        "end": 70.366,
+        "text": " Always the truth I'm feeling Glad all over, yes I'm Glad all over, baby I'm Glad all over, glad you're mine All the girls may try to take me away",
+        "avg_logprob": -0.1961348621468795
+      },
+      {
+        "id": 3,
+        "start": 73.724,
+        "end": 94.598,
+        "text": " But you know, if by your side I will stay, I'll stay All of our lives now, till the end of time Because this love now, is only yours and mine And I'll be there now",
+        "avg_logprob": -0.16297238787939383
+      },
+      {
+        "id": 4,
+        "start": 110.528,
+        "end": 136.82,
+        "text": " Try to take me away But you know it's by your side I'll stay All of us now Till the end of time Because this love now Is only yours and mine And I'm feeling",
+        "avg_logprob": -0.2105368543893863
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "NHtNFaa2ne0",
+    "uploader": "jarichards99utube",
+    "audio_file": "corpus/01_music_videos_audio/audio/NHtNFaa2ne0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5476272,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.809245,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:07:44Z"
+  },
+  "status": "success",
+  "error": null
+}

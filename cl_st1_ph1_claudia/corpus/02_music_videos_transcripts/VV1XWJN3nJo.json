@@ -1,0 +1,105 @@
+{
+  "corpus_id": "VV1XWJN3nJo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/VV1XWJN3nJo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/VV1XWJN3nJo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/VV1XWJN3nJo.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I thought I saw a man born to lie He was warm, he came around like he was dignified He showed me what it was to cry Well, you couldn't be that man I adore You don't seem to know, you seem to care what your heart is for I don't know him anymore There's nothing where he used to lie Our conversation has worn dry That's what's going on Nothing's fine, I'm torn I'm all out of faith This is how I feel I'm cold and I am changed Lying naked on the floor Illusion never changed I'm wide awake and I can see the perfect sky is tall You're a little late, I'm already tall So I guess the fortune teller's right Should've seen just what was there and not some holy light To crawl beneath my veins And now I don't care I have no luck I don't miss it all that much There's just so many things That I can't touch I'm torn I'm all out of faith This is how I feel I'm cold and I am shamed Lying naked on the floor Illusion never changed Bye. Bye. There's nothing where he used to lie. My inspiration has run dry. That's what's going on. Nothing's what I'm taught. I'm all out of faith. This is how I feel. I'm cold and I am shamed. Lying naked on the floor. Illusion never changed into something new. Sky is tall, I'm all out of faith This is how I feel I'm cold and I'm ashamed Bound and broken on the floor You're a little late Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 13.21,
+        "end": 37.831,
+        "text": " I thought I saw a man born to lie He was warm, he came around like he was dignified He showed me what it was to cry Well, you couldn't be that man I adore You don't seem to know, you seem to care what your heart is for",
+        "avg_logprob": -0.12520926472331798
+      },
+      {
+        "id": 2,
+        "start": 38.827,
+        "end": 64.325,
+        "text": " I don't know him anymore There's nothing where he used to lie Our conversation has worn dry That's what's going on Nothing's fine, I'm torn I'm all out of faith This is how I feel I'm cold and I am changed Lying naked on the floor Illusion never changed",
+        "avg_logprob": -0.06903176424933262
+      },
+      {
+        "id": 3,
+        "start": 65.219,
+        "end": 92.708,
+        "text": " I'm wide awake and I can see the perfect sky is tall You're a little late, I'm already tall So I guess the fortune teller's right Should've seen just what was there and not some holy light",
+        "avg_logprob": -0.14678820106718277
+      },
+      {
+        "id": 4,
+        "start": 93.502,
+        "end": 118.949,
+        "text": " To crawl beneath my veins And now I don't care I have no luck I don't miss it all that much There's just so many things That I can't touch I'm torn I'm all out of faith This is how I feel I'm cold and I am shamed Lying naked on the floor Illusion never changed",
+        "avg_logprob": -0.08238106009675496
+      },
+      {
+        "id": 5,
+        "start": 122.577,
+        "end": 127.64,
+        "text": " Bye. Bye.",
+        "avg_logprob": -0.7640625
+      },
+      {
+        "id": 6,
+        "start": 150.877,
+        "end": 175.818,
+        "text": " There's nothing where he used to lie. My inspiration has run dry. That's what's going on. Nothing's what I'm taught. I'm all out of faith. This is how I feel. I'm cold and I am shamed. Lying naked on the floor. Illusion never changed into something new.",
+        "avg_logprob": -0.07812499888797304
+      },
+      {
+        "id": 7,
+        "start": 179.952,
+        "end": 193.655,
+        "text": " Sky is tall, I'm all out of faith This is how I feel I'm cold and I'm ashamed Bound and broken on the floor You're a little late",
+        "avg_logprob": -0.09782365901129586
+      },
+      {
+        "id": 8,
+        "start": 235.673,
+        "end": 243.267,
+        "text": " Thank you.",
+        "avg_logprob": -0.57861328125
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "VV1XWJN3nJo",
+    "uploader": "Natalie Imbruglia",
+    "audio_file": "corpus/01_music_videos_audio/audio/VV1XWJN3nJo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7784150,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.04933,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:12:26Z"
+  },
+  "status": "success",
+  "error": null
+}

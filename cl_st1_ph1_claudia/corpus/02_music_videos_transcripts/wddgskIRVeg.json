@@ -1,0 +1,105 @@
+{
+  "corpus_id": "wddgskIRVeg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wddgskIRVeg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/wddgskIRVeg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/wddgskIRVeg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "What's the sense in sharing this one and only life Ending up just another lost and lonely wife You count up the years and they will be filled with tears Love only breaks up to start over again. You'll get the babies, but you won't have your man. While he's busy loving every woman that he can. Say I'm gonna leave a hundred times a day. It's easier said than done when you just can't break away. When you just can't break away. Young hearts run free, but they'll never be hung up, hung up like my man and me. My man and me. Ooh, young hearts, to yourself be true. Don't be no fool when love really don't love you. It's high time now, just one crack at life Who wants to live it in trouble and strife? My mind must be free to learn all I can about me I'm gonna love me for the rest of my days Encourage the babies every time they say Self-reservation is what's really going on today Run free They'll never be hung up Hung up like my man and me You and me Ooh, young hearts Be yourself, be true Don't be no fool when love really don't love you Run free, they'll never be hung up, hung up like my man and me My man and me Your heart, to yourself be true, don't be no fool when love really don't love you Don't love you Ooh, your heart Run free They'll never be hung up Hung up like my man and me My man and me Ooh, your heart",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 9.481,
+        "end": 25.445,
+        "text": " What's the sense in sharing this one and only life Ending up just another lost and lonely wife You count up the years and they will be filled with tears",
+        "avg_logprob": -0.09031723484848485
+      },
+      {
+        "id": 2,
+        "start": 25.917,
+        "end": 52.107,
+        "text": " Love only breaks up to start over again. You'll get the babies, but you won't have your man. While he's busy loving every woman that he can. Say I'm gonna leave a hundred times a day. It's easier said than done when you just can't break away. When you just can't break away.",
+        "avg_logprob": -0.06238511237589752
+      },
+      {
+        "id": 3,
+        "start": 53.339,
+        "end": 78.685,
+        "text": " Young hearts run free, but they'll never be hung up, hung up like my man and me. My man and me. Ooh, young hearts, to yourself be true. Don't be no fool when love really don't love you.",
+        "avg_logprob": -0.10507812783122063
+      },
+      {
+        "id": 4,
+        "start": 86.87,
+        "end": 101.585,
+        "text": " It's high time now, just one crack at life Who wants to live it in trouble and strife? My mind must be free to learn all I can about me",
+        "avg_logprob": -0.07868303656578064
+      },
+      {
+        "id": 5,
+        "start": 103.171,
+        "end": 116.992,
+        "text": " I'm gonna love me for the rest of my days Encourage the babies every time they say Self-reservation is what's really going on today",
+        "avg_logprob": -0.10137349126800414
+      },
+      {
+        "id": 6,
+        "start": 130.981,
+        "end": 156.361,
+        "text": " Run free They'll never be hung up Hung up like my man and me You and me Ooh, young hearts Be yourself, be true Don't be no fool when love really don't love you",
+        "avg_logprob": -0.16816406473517417
+      },
+      {
+        "id": 7,
+        "start": 173.32,
+        "end": 196.253,
+        "text": " Run free, they'll never be hung up, hung up like my man and me My man and me Your heart, to yourself be true, don't be no fool when love really don't love you",
+        "avg_logprob": -0.12388392679748081
+      },
+      {
+        "id": 8,
+        "start": 200.033,
+        "end": 221.633,
+        "text": " Don't love you Ooh, your heart Run free They'll never be hung up Hung up like my man and me My man and me Ooh, your heart",
+        "avg_logprob": -0.16394043574109674
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "wddgskIRVeg",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/wddgskIRVeg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7119874,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.006089,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:09:40Z"
+  },
+  "status": "success",
+  "error": null
+}

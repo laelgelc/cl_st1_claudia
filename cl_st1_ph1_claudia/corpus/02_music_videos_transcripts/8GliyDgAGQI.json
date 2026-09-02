@@ -1,0 +1,119 @@
+{
+  "corpus_id": "8GliyDgAGQI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8GliyDgAGQI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/8GliyDgAGQI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/8GliyDgAGQI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Yes, this is DJ Charmaine Champagne. And this is your Chronic Down radio station. So you've got to be listening to the Chronic. These are sounds from the brothers out of the Denver camp. Something real and funky. So let me put this whip in your ears. Lock it up. Lock it up. Lock it up. Lock it up. Lock it up. Lock it up. Lock it up. Come on in, baby. Hey, Snoopy! Hey, I done told you kids about running this damn house. You break up, you know you can't pay for it. Hope you picking them up to find a job. Yeah, we're going to work so we can grow up and be just like you. Hey, y'all going to the picnic today? Yeah, thought you knew. Hey, Snoop! What up? Hey, what's up, bro? One, two, three, and to the four Snoop Doggy Dog and Dr. Dre is at the door Ready to make an entrance, so back on up Before I have to pull the strap off the cut Give me the microphone first so I can bust like a bubble Compton and Long Beach together, now you know you in trouble Cause ain't nothing but a G thing, baby Too low-def G, so we crazy Death row is the label that pays, man Unfadable, so please don't try to fade this But back to the lecture at hand Perfection is perfected, so I'm a lad, I'm understandin' From a young G's perspective And before me dig out a trick, I have to find a contraceptive You never know, she could be earnin' a man and learnin' a man And at the same time burnin' a man Now if she burnin', I'ma chill for a minute Cause ain't no lovin' good enough to get burned while I'm offended And that's realer than real deal, holy field And now you hookers and hoes know how I feel Well, if it's good enough to get from proper chunk I take a small piece of some of that funky stuff It's like this and like that and like this and uh It's like that and like this and like that and uh It's like this and like that and like this and uh Dre creep to the mic like a fan uh Well I'm peepin' and I'm creepin' and I'm creepin' But I damn near got caught Cause my beeper kept beepin' Now it's time for me to make my impression felt So sit back relax and strap on your seatbelt You never been on a ride like this before What if I do so who can rap and control the maestro At the same time with the dope rhyme that I kicked You know and I know I force them on funky shit. To add to my collection, this election symbolizes don't take a toke but don't choke. If you do, you have no clue of what me and my homie Snoop Dogg came to do. It's like this and like that and like this, Anna. It's like that and like this and like that, Anna. It's like this and we ain't got no love for those. So just chill till the next episode. Falling back on that ass, what a hellified gangsta lean. Getting funky on the mic like a old batch of collard green. It's the capital S-O-S impression, double O-P, D-O-double G-Y-D-O-double G, you see. Showing much flex when it's time to wreck a mic. Pimping hoes and clacking a grip like my name was Dolomite. Yeah, and it don't quit. I think they in the mood for another one of those G hits. So Trey, what up? We gotta give them what they want We gotta break them off something And it's gotta be bumpin' City of Compton It's where it takes place, so I'll nash your attention Mobbin' with the dog pound Droppin' the folky tracks, it's makin' the suckers just mumble When I'm on the mic, it's like a cookie, they all crumble Try to get close and you're bound to get smacked My little homie Snoop Doggy Dogg has got my back Never let me slip, cause if I slip, then I'm slippin' But if I We'll be right back. So just chill till the next episode.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 10,
+    "segments": [
+      {
+        "id": 1,
+        "start": 2.09,
+        "end": 28.043,
+        "text": " Yes, this is DJ Charmaine Champagne. And this is your Chronic Down radio station. So you've got to be listening to the Chronic. These are sounds from the brothers out of the Denver camp. Something real and funky. So let me put this whip in your ears. Lock it up. Lock it up. Lock it up. Lock it up. Lock it up. Lock it up. Lock it up. Come on in, baby. Hey, Snoopy!",
+        "avg_logprob": -0.23546875163912773
+      },
+      {
+        "id": 2,
+        "start": 29.545,
+        "end": 51.989,
+        "text": " Hey, I done told you kids about running this damn house. You break up, you know you can't pay for it. Hope you picking them up to find a job. Yeah, we're going to work so we can grow up and be just like you. Hey, y'all going to the picnic today? Yeah, thought you knew. Hey, Snoop! What up? Hey, what's up, bro?",
+        "avg_logprob": -0.183061076158827
+      },
+      {
+        "id": 3,
+        "start": 56.967,
+        "end": 84.625,
+        "text": " One, two, three, and to the four Snoop Doggy Dog and Dr. Dre is at the door Ready to make an entrance, so back on up Before I have to pull the strap off the cut Give me the microphone first so I can bust like a bubble Compton and Long Beach together, now you know you in trouble Cause ain't nothing but a G thing, baby Too low-def G, so we crazy Death row is the label that pays, man Unfadable, so please don't try to fade this But back to the lecture at hand",
+        "avg_logprob": -0.13981680803257843
+      },
+      {
+        "id": 4,
+        "start": 84.625,
+        "end": 112.402,
+        "text": " Perfection is perfected, so I'm a lad, I'm understandin' From a young G's perspective And before me dig out a trick, I have to find a contraceptive You never know, she could be earnin' a man and learnin' a man And at the same time burnin' a man Now if she burnin', I'ma chill for a minute Cause ain't no lovin' good enough to get burned while I'm offended And that's realer than real deal, holy field And now you hookers and hoes know how I feel Well, if it's good enough to get from proper chunk I take a small piece of some of that funky stuff",
+        "avg_logprob": -0.10085227272727272
+      },
+      {
+        "id": 5,
+        "start": 112.402,
+        "end": 140.633,
+        "text": " It's like this and like that and like this and uh It's like that and like this and like that and uh It's like this and like that and like this and uh Dre creep to the mic like a fan uh Well I'm peepin' and I'm creepin' and I'm creepin' But I damn near got caught Cause my beeper kept beepin' Now it's time for me to make my impression felt So sit back relax and strap on your seatbelt You never been on a ride like this before What if I do so who can rap and control the maestro At the same time with the dope rhyme that I kicked",
+        "avg_logprob": -0.1262922874070648
+      },
+      {
+        "id": 6,
+        "start": 140.633,
+        "end": 163.415,
+        "text": " You know and I know I force them on funky shit. To add to my collection, this election symbolizes don't take a toke but don't choke. If you do, you have no clue of what me and my homie Snoop Dogg came to do. It's like this and like that and like this, Anna. It's like that and like this and like that, Anna. It's like this and we ain't got no love for those. So just chill till the next episode.",
+        "avg_logprob": -0.12730654988970075
+      },
+      {
+        "id": 7,
+        "start": 172.713,
+        "end": 195.106,
+        "text": " Falling back on that ass, what a hellified gangsta lean. Getting funky on the mic like a old batch of collard green. It's the capital S-O-S impression, double O-P, D-O-double G-Y-D-O-double G, you see. Showing much flex when it's time to wreck a mic. Pimping hoes and clacking a grip like my name was Dolomite. Yeah, and it don't quit. I think they in the mood for another one of those G hits. So Trey, what up?",
+        "avg_logprob": -0.1483759800280173
+      },
+      {
+        "id": 8,
+        "start": 195.106,
+        "end": 221.515,
+        "text": " We gotta give them what they want We gotta break them off something And it's gotta be bumpin' City of Compton It's where it takes place, so I'll nash your attention Mobbin' with the dog pound Droppin' the folky tracks, it's makin' the suckers just mumble When I'm on the mic, it's like a cookie, they all crumble Try to get close and you're bound to get smacked My little homie Snoop Doggy Dogg has got my back Never let me slip, cause if I slip, then I'm slippin' But if I",
+        "avg_logprob": -0.13159179326612502
+      },
+      {
+        "id": 9,
+        "start": 221.515,
+        "end": 236.568,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.5555245706013271
+      },
+      {
+        "id": 10,
+        "start": 236.568,
+        "end": 254.843,
+        "text": " So just chill till the next episode.",
+        "avg_logprob": -0.3109809027777778
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "8GliyDgAGQI",
+    "uploader": "Dr. Dre",
+    "audio_file": "corpus/01_music_videos_audio/audio/8GliyDgAGQI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9116418,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.453133,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:21:53Z"
+  },
+  "status": "success",
+  "error": null
+}

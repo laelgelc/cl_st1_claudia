@@ -1,0 +1,91 @@
+{
+  "corpus_id": "Qol952UDurQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Qol952UDurQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Qol952UDurQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Qol952UDurQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I know you send me Darling, you send me Honest you do, honest you do, honest you do You thrill me I know you, you At first I thought it was infatuation But ooh, it's lasted so long Now I find myself wanting To marry you and take you home You, you, you send me Send me, I know you Send me, honest you do Send me, whenever I'm with you I know, I know, I know when I'm near Honest you do, honest you do I know, I know, I know when you hold me Whenever you kiss me Honest you do At first I thought it was infatuation It's lasted so long Now I find myself wanting To marry you and take you home I know, I know, I know You, you, you send me I know you send me Send me honest, you do",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 5.347,
+        "end": 27.031,
+        "text": " I know you send me Darling, you send me Honest you do, honest you do, honest you do You thrill me I know you, you",
+        "avg_logprob": -0.20740926746399171
+      },
+      {
+        "id": 2,
+        "start": 39.974,
+        "end": 65.371,
+        "text": " At first I thought it was infatuation But ooh, it's lasted so long Now I find myself wanting To marry you and take you home You, you, you send me",
+        "avg_logprob": -0.18950591055122581
+      },
+      {
+        "id": 3,
+        "start": 67.48,
+        "end": 90.042,
+        "text": " Send me, I know you Send me, honest you do Send me, whenever I'm with you I know, I know, I know when I'm near",
+        "avg_logprob": -0.19211647727272727
+      },
+      {
+        "id": 4,
+        "start": 94.733,
+        "end": 124.568,
+        "text": " Honest you do, honest you do I know, I know, I know when you hold me Whenever you kiss me Honest you do At first I thought it was infatuation",
+        "avg_logprob": -0.13075658443726992
+      },
+      {
+        "id": 5,
+        "start": 125.429,
+        "end": 149.695,
+        "text": " It's lasted so long Now I find myself wanting To marry you and take you home I know, I know, I know You, you, you send me I know you send me",
+        "avg_logprob": -0.13651315632619357
+      },
+      {
+        "id": 6,
+        "start": 152.395,
+        "end": 156.023,
+        "text": " Send me honest, you do",
+        "avg_logprob": -0.29743304422923494
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Qol952UDurQ",
+    "uploader": "Sam Cooke",
+    "audio_file": "corpus/01_music_videos_audio/audio/Qol952UDurQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5269708,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.991968,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:01:46Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,77 @@
+{
+  "corpus_id": "HIWY8UyW9bw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/HIWY8UyW9bw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/HIWY8UyW9bw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/HIWY8UyW9bw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I ain't got time to take a fast train Lonely days are gone, I'm a-goin' home My baby just wrote me a letter I don't care how much money I gotta spend Got to get back to my baby again Lonely days are gone, I'm a-goin' home My baby just wrote me a letter When she wrote me a letter Said she couldn't live without me no more Listen mister, can't you see I got to get back to my baby once more Anyway, yeah, give me a ticket for an aeroplane Ain't got time to take a fast train Lonely days are gone, I'm a-goin' home She wrote me a letter, said she couldn't live without me no more Listen mister, can't you see I got to get back to my baby once more Anyway, yeah, got a ticket for an aeroplane Ain't got time to take a fast train Lonely days are gone, I'm a-goin' home Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 7.625,
+        "end": 30.743,
+        "text": " I ain't got time to take a fast train Lonely days are gone, I'm a-goin' home My baby just wrote me a letter I don't care how much money I gotta spend Got to get back to my baby again Lonely days are gone, I'm a-goin' home My baby just wrote me a letter",
+        "avg_logprob": -0.08098591801146386
+      },
+      {
+        "id": 2,
+        "start": 32.853,
+        "end": 57.457,
+        "text": " When she wrote me a letter Said she couldn't live without me no more Listen mister, can't you see I got to get back to my baby once more Anyway, yeah, give me a ticket for an aeroplane Ain't got time to take a fast train Lonely days are gone, I'm a-goin' home",
+        "avg_logprob": -0.13620924604111823
+      },
+      {
+        "id": 3,
+        "start": 62.384,
+        "end": 86.667,
+        "text": " She wrote me a letter, said she couldn't live without me no more Listen mister, can't you see I got to get back to my baby once more Anyway, yeah, got a ticket for an aeroplane Ain't got time to take a fast train Lonely days are gone, I'm a-goin' home",
+        "avg_logprob": -0.15016085150487282
+      },
+      {
+        "id": 4,
+        "start": 107.795,
+        "end": 110.225,
+        "text": " Thank you.",
+        "avg_logprob": -0.8749999701976776
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "HIWY8UyW9bw",
+    "uploader": "vinylsolution",
+    "audio_file": "corpus/01_music_videos_audio/audio/HIWY8UyW9bw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3590440,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 9.323646,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:11:41Z"
+  },
+  "status": "success",
+  "error": null
+}

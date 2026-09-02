@@ -1,0 +1,77 @@
+{
+  "corpus_id": "Dy4HA3vUv2c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Dy4HA3vUv2c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Dy4HA3vUv2c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Dy4HA3vUv2c.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "No, do the wind music music She ran to him They looked back and said goodbye Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 28.921,
+        "end": 33.848,
+        "text": " No, do the wind",
+        "avg_logprob": -0.9459635615348816
+      },
+      {
+        "id": 2,
+        "start": 157.913,
+        "end": 160.732,
+        "text": " music music",
+        "avg_logprob": -1.3248697916666667
+      },
+      {
+        "id": 3,
+        "start": 252.413,
+        "end": 257.527,
+        "text": " She ran to him They looked back and said goodbye",
+        "avg_logprob": -0.3053977272727273
+      },
+      {
+        "id": 4,
+        "start": 299.731,
+        "end": 305.232,
+        "text": " Thank you.",
+        "avg_logprob": -0.5336914211511612
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Dy4HA3vUv2c",
+    "uploader": "BLUE OYSTER CULT",
+    "audio_file": "corpus/01_music_videos_audio/audio/Dy4HA3vUv2c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9887692,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.238927,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:55:39Z"
+  },
+  "status": "success",
+  "error": null
+}

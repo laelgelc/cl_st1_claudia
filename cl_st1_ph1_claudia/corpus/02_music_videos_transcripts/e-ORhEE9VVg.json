@@ -1,0 +1,105 @@
+{
+  "corpus_id": "e-ORhEE9VVg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/e-ORhEE9VVg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/e-ORhEE9VVg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/e-ORhEE9VVg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "where you been I could show you incredible things magic madness heaven sin saw you there and I thought oh my god look at that face you look like my next mistake love's a game wanna play new money student Let's be friends, I'm dying to see how this one ends Grab your passport in my hand I can make the bad guys good for a weekend So it's gonna be forever Or it's gonna go down in flames You can tell me when it's over If the high was worth the pain Got a long list of excuses We'll take this way too far It'll leave you breathless Or with a nasty scar Cherry lips, crystal skies I could show you incredible things Stolen kisses, pretty lies You're the king, baby, I'm your queen Find out what you want Be that girl for a month Wait, the worst is yet to come Oh no Screaming, crying, perfect storms I can make all the tables turn Rose garden filled with thorns Keep you second guessing like Oh my god, who is she? I get drunk on jealousy But you'll come back each time you leave Cause darling I'm a nightmare dressed like a daydream It'll leave you breathless Or with a nasty scar Got a long list of ex-lovers They'll tell you I'm insane But I've got a blank space, baby And I'll write your name Boys only want love if it's torture Don't say I didn't say I didn't warn ya Boys only want love if it's torture Don't say I didn't say I didn't warn ya It'll leave you breathless, or with a nasty scar Got a long list of ex-lovers, they'll tell you I'm insane But I've got a blank space, baby And I'll write your name",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 9.717,
+        "end": 30.524,
+        "text": " where you been I could show you incredible things magic madness heaven sin saw you there and I thought oh my god look at that face you look like my next mistake love's a game wanna play new money student",
+        "avg_logprob": -0.20628720202616282
+      },
+      {
+        "id": 2,
+        "start": 38.894,
+        "end": 59.87,
+        "text": " Let's be friends, I'm dying to see how this one ends Grab your passport in my hand I can make the bad guys good for a weekend So it's gonna be forever Or it's gonna go down in flames You can tell me when it's over If the high was worth the pain Got a long list of excuses",
+        "avg_logprob": -0.08090672393639882
+      },
+      {
+        "id": 3,
+        "start": 71.024,
+        "end": 78.972,
+        "text": " We'll take this way too far It'll leave you breathless Or with a nasty scar",
+        "avg_logprob": -0.21011513471603394
+      },
+      {
+        "id": 4,
+        "start": 93.687,
+        "end": 110.545,
+        "text": " Cherry lips, crystal skies I could show you incredible things Stolen kisses, pretty lies You're the king, baby, I'm your queen Find out what you want Be that girl for a month Wait, the worst is yet to come",
+        "avg_logprob": -0.051106770212451615
+      },
+      {
+        "id": 5,
+        "start": 112.115,
+        "end": 133.765,
+        "text": " Oh no Screaming, crying, perfect storms I can make all the tables turn Rose garden filled with thorns Keep you second guessing like Oh my god, who is she? I get drunk on jealousy But you'll come back each time you leave Cause darling I'm a nightmare dressed like a daydream",
+        "avg_logprob": -0.11536038390571071
+      },
+      {
+        "id": 6,
+        "start": 157.88,
+        "end": 171.7,
+        "text": " It'll leave you breathless Or with a nasty scar Got a long list of ex-lovers They'll tell you I'm insane But I've got a blank space, baby",
+        "avg_logprob": -0.045713682029698346
+      },
+      {
+        "id": 7,
+        "start": 172.105,
+        "end": 192.203,
+        "text": " And I'll write your name Boys only want love if it's torture Don't say I didn't say I didn't warn ya Boys only want love if it's torture Don't say I didn't say I didn't warn ya",
+        "avg_logprob": -0.06038065064460673
+      },
+      {
+        "id": 8,
+        "start": 218.09,
+        "end": 233.716,
+        "text": " It'll leave you breathless, or with a nasty scar Got a long list of ex-lovers, they'll tell you I'm insane But I've got a blank space, baby And I'll write your name",
+        "avg_logprob": -0.09444444179534912
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "e-ORhEE9VVg",
+    "uploader": "Taylor Swift",
+    "audio_file": "corpus/01_music_videos_audio/audio/e-ORhEE9VVg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8719636,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.583511,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:17:50Z"
+  },
+  "status": "success",
+  "error": null
+}

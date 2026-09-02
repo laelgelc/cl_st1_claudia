@@ -1,0 +1,84 @@
+{
+  "corpus_id": "Fmfi3UbDPnQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Fmfi3UbDPnQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Fmfi3UbDPnQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Fmfi3UbDPnQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Bye. You should have heard him just around bed. Rats you up, I love your dance so good. Rats you up, just like a young boy should. Cold English mud runs hot. Lady of the house wondering where it's gonna stop. I thought, no, that it's doing all right. You should have heard it just around bed time. Bounce you up. I come, you dance, don't go. Bounce you up. Just like a gumball show. I bet your mother would have kept your queen And all aboard when she took state I know you, boy, but I know that I You should have heard me just around midnight Bantua, I've come to tell you some good Bantua, I've come to show you It's like a young boy, I say",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 9.65,
+        "end": 10.46,
+        "text": " Bye.",
+        "avg_logprob": -0.9889322916666666
+      },
+      {
+        "id": 2,
+        "start": 42.387,
+        "end": 58.84,
+        "text": " You should have heard him just around bed. Rats you up, I love your dance so good. Rats you up, just like a young boy should.",
+        "avg_logprob": -0.4611672662636813
+      },
+      {
+        "id": 3,
+        "start": 68.324,
+        "end": 93.89,
+        "text": " Cold English mud runs hot. Lady of the house wondering where it's gonna stop. I thought, no, that it's doing all right. You should have heard it just around bed time. Bounce you up. I come, you dance, don't go. Bounce you up. Just like a gumball show.",
+        "avg_logprob": -0.42164521927342696
+      },
+      {
+        "id": 4,
+        "start": 134.896,
+        "end": 163.364,
+        "text": " I bet your mother would have kept your queen And all aboard when she took state I know you, boy, but I know that I You should have heard me just around midnight Bantua, I've come to tell you some good Bantua, I've come to show you",
+        "avg_logprob": -0.5094288690336819
+      },
+      {
+        "id": 5,
+        "start": 175.818,
+        "end": 184.238,
+        "text": " It's like a young boy, I say",
+        "avg_logprob": -0.6878906428813935
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Fmfi3UbDPnQ",
+    "uploader": "The Rolling Stones",
+    "audio_file": "corpus/01_music_videos_audio/audio/Fmfi3UbDPnQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6483832,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 45.733718,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:55:20Z"
+  },
+  "status": "success",
+  "error": null
+}

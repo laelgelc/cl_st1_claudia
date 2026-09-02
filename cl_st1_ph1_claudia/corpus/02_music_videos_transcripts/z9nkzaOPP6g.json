@@ -1,0 +1,70 @@
+{
+  "corpus_id": "z9nkzaOPP6g",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/z9nkzaOPP6g.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/z9nkzaOPP6g.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/z9nkzaOPP6g.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "to stay out with your fancy friends. To the girl I used to know You let your mind out somewhere down the road Like a snake in the grass One of these days You're gonna break your glass Don't bring me down",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 40.565,
+        "end": 43.18,
+        "text": " to stay out with your fancy friends.",
+        "avg_logprob": -0.4118923611111111
+      },
+      {
+        "id": 2,
+        "start": 82.735,
+        "end": 89.755,
+        "text": " To the girl I used to know You let your mind out somewhere down the road",
+        "avg_logprob": -0.31686580882352944
+      },
+      {
+        "id": 3,
+        "start": 152.041,
+        "end": 159.466,
+        "text": " Like a snake in the grass One of these days You're gonna break your glass Don't bring me down",
+        "avg_logprob": -0.15047940544106744
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "z9nkzaOPP6g",
+    "uploader": "ELO",
+    "audio_file": "corpus/01_music_videos_audio/audio/z9nkzaOPP6g.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7799754,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.65453,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:16:17Z"
+  },
+  "status": "success",
+  "error": null
+}

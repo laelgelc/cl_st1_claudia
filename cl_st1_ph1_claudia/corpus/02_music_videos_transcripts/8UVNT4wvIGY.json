@@ -1,0 +1,91 @@
+{
+  "corpus_id": "8UVNT4wvIGY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8UVNT4wvIGY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/8UVNT4wvIGY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/8UVNT4wvIGY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Now and then I think of when we were together Like when you said you felt so happy you could die I told myself that you were right for me But felt so lonely in your company But that was love I had to make, I still remember Like resignation to the end, always the end. So when we found that we could not make sense, well, you said that we would still be friends. But I'll admit that I was glad it was over. But you didn't have to come. I don't even need your love But you treat me like a stranger And I feel so rough No, you didn't have to stoop so low Have your friends collect your records And they'll change your number Guess that I don't need that though Now you're just somebody that I used to know Now you're just somebody that I used to know was always something that I'd done. But I don't want to live that way, leading into every word you say. You said that you could let it go, and I wouldn't catch you hung up on somebody that you used to know. But you didn't have to. Treat me like a stranger and I feel so rough When you did it at the store I'm so low Have your friends collect your records and then change your number Guess that I don't need that though Now you're just somebody that I used to know Somebody that I used to know Somebody that I used to know I used to know somebody",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 19.218,
+        "end": 45.29,
+        "text": " Now and then I think of when we were together Like when you said you felt so happy you could die I told myself that you were right for me But felt so lonely in your company But that was love I had to make, I still remember",
+        "avg_logprob": -0.08359375029802323
+      },
+      {
+        "id": 2,
+        "start": 71.041,
+        "end": 95.527,
+        "text": " Like resignation to the end, always the end. So when we found that we could not make sense, well, you said that we would still be friends. But I'll admit that I was glad it was over. But you didn't have to come.",
+        "avg_logprob": -0.0746609703549799
+      },
+      {
+        "id": 3,
+        "start": 101.872,
+        "end": 128.939,
+        "text": " I don't even need your love But you treat me like a stranger And I feel so rough No, you didn't have to stoop so low Have your friends collect your records And they'll change your number Guess that I don't need that though Now you're just somebody that I used to know Now you're just somebody that I used to know",
+        "avg_logprob": -0.12103873344374375
+      },
+      {
+        "id": 4,
+        "start": 161.812,
+        "end": 184.171,
+        "text": " was always something that I'd done. But I don't want to live that way, leading into every word you say. You said that you could let it go, and I wouldn't catch you hung up on somebody that you used to know. But you didn't have to.",
+        "avg_logprob": -0.13887391984462738
+      },
+      {
+        "id": 5,
+        "start": 193.503,
+        "end": 219.558,
+        "text": " Treat me like a stranger and I feel so rough When you did it at the store I'm so low Have your friends collect your records and then change your number Guess that I don't need that though Now you're just somebody that I used to know Somebody that I used to know Somebody that I used to know",
+        "avg_logprob": -0.15984623536231027
+      },
+      {
+        "id": 6,
+        "start": 232.72,
+        "end": 238.61,
+        "text": " I used to know somebody",
+        "avg_logprob": -0.5553385615348816
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "8UVNT4wvIGY",
+    "uploader": "Gotye",
+    "audio_file": "corpus/01_music_videos_audio/audio/8UVNT4wvIGY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7806442,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.619149,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:21:43Z"
+  },
+  "status": "success",
+  "error": null
+}

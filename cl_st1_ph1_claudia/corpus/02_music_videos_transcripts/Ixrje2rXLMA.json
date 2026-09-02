@@ -1,0 +1,91 @@
+{
+  "corpus_id": "Ixrje2rXLMA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Ixrje2rXLMA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Ixrje2rXLMA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Ixrje2rXLMA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Jolene, Jolene, Jolene, Jolene, I'm begging of you, please don't take my man. Jolene, Jolene, Jolene, Jolene, please don't take him just because you can. Your beauty is beyond compare With flaming locks of auburn hair With ivory skin and eyes of emerald green Your smile is like a breath of spring Your voice is soft like summer rain And I cannot compete with you, Jolene He talks about you in his sleep and there's nothing I can do to keep from crying when he calls your name Jolene. And I can easily understand how you could easily take my man but you don't know what he means to me Jolene. Jolene, Jolene, I'm begging of you, please don't take my man Jolene, Jolene, Jolene, Jolene Please don't take him just cause you can You could have your choice of man that I could never love again He's the only one for me, Jolene I had to have this talk with you My happiness depends on you And whatever you decide to do, Jolene Jolene, Jolene, Jolene, Jolene I'm begging of you, please don't take my man Jolene, Jolene, Jolene, Jolene, please don't take him even though you can.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 9.532,
+        "end": 29.765,
+        "text": " Jolene, Jolene, Jolene, Jolene, I'm begging of you, please don't take my man. Jolene, Jolene, Jolene, Jolene, please don't take him just because you can.",
+        "avg_logprob": -0.036725725180336406
+      },
+      {
+        "id": 2,
+        "start": 33.443,
+        "end": 52.782,
+        "text": " Your beauty is beyond compare With flaming locks of auburn hair With ivory skin and eyes of emerald green Your smile is like a breath of spring Your voice is soft like summer rain And I cannot compete with you, Jolene",
+        "avg_logprob": -0.042114257579669356
+      },
+      {
+        "id": 3,
+        "start": 55.297,
+        "end": 73.522,
+        "text": " He talks about you in his sleep and there's nothing I can do to keep from crying when he calls your name Jolene. And I can easily understand how you could easily take my man but you don't know what he means to me Jolene.",
+        "avg_logprob": -0.050817418567560335
+      },
+      {
+        "id": 4,
+        "start": 79.613,
+        "end": 108.52,
+        "text": " Jolene, Jolene, I'm begging of you, please don't take my man Jolene, Jolene, Jolene, Jolene Please don't take him just cause you can You could have your choice of man that I could never love again He's the only one for me, Jolene",
+        "avg_logprob": -0.05915987362032351
+      },
+      {
+        "id": 5,
+        "start": 112.047,
+        "end": 132.567,
+        "text": " I had to have this talk with you My happiness depends on you And whatever you decide to do, Jolene Jolene, Jolene, Jolene, Jolene I'm begging of you, please don't take my man",
+        "avg_logprob": -0.05438112672053132
+      },
+      {
+        "id": 6,
+        "start": 134.795,
+        "end": 144.464,
+        "text": " Jolene, Jolene, Jolene, Jolene, please don't take him even though you can.",
+        "avg_logprob": -0.09794560240374671
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Ixrje2rXLMA",
+    "uploader": "Dolly Parton",
+    "audio_file": "corpus/01_music_videos_audio/audio/Ixrje2rXLMA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5220668,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.724018,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:03:24Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,70 @@
+{
+  "corpus_id": "skdE0KAFCEA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/skdE0KAFCEA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/skdE0KAFCEA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/skdE0KAFCEA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "They're all revved up and ready to go They're bumping into straight lines They're going through a tight one They keep to losing their minds The blitzkrieg puffs They're piling in the back seats They're generating hits They're playing to the back feet The blitzkrieg puffs Hey, oh, let's go Shoot them in the back now What they want, I don't know They're all ripped up and ready to go Performing in a straight line Let's go!",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 63.633,
+        "end": 92.287,
+        "text": " They're all revved up and ready to go They're bumping into straight lines They're going through a tight one They keep to losing their minds The blitzkrieg puffs They're piling in the back seats They're generating hits They're playing to the back feet The blitzkrieg puffs Hey, oh, let's go Shoot them in the back now",
+        "avg_logprob": -0.35779273283632496
+      },
+      {
+        "id": 2,
+        "start": 93.198,
+        "end": 100.268,
+        "text": " What they want, I don't know They're all ripped up and ready to go Performing in a straight line",
+        "avg_logprob": -0.15266926834980646
+      },
+      {
+        "id": 3,
+        "start": 127.808,
+        "end": 128.855,
+        "text": " Let's go!",
+        "avg_logprob": -0.19853515625
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "skdE0KAFCEA",
+    "uploader": "Ramones",
+    "audio_file": "corpus/01_music_videos_audio/audio/skdE0KAFCEA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4303014,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.667814,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:03:25Z"
+  },
+  "status": "success",
+  "error": null
+}

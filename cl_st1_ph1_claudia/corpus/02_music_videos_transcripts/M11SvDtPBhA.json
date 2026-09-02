@@ -1,0 +1,77 @@
+{
+  "corpus_id": "M11SvDtPBhA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/M11SvDtPBhA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/M11SvDtPBhA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/M11SvDtPBhA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Welcome to the land of fame excess Am I gonna fit in? Jumped in the cab, here I am for the first time Look to my right and I see the Hollywood sign This is all so crazy Everybody seems so famous My tummy's turning and I'm feeling kinda homesick Take it to the club in my taxi cab Everybody's looking at me now Like, who's that chick that's rocking kicks? She gotta be from out of town So hard with my girls all around me There's definitely not a Nashville party Cause all I see are stilettos I guess I never got the memo My tummy's spinning and I'm feeling kinda homesick Too much pressure and I'm nervous That's when the DJ dropped my favorite tune And the Britney song was on And the Britney song was on And the Britney song was on The DJ plays my",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 15.522,
+        "end": 33.005,
+        "text": " Welcome to the land of fame excess Am I gonna fit in? Jumped in the cab, here I am for the first time Look to my right and I see the Hollywood sign This is all so crazy Everybody seems so famous My tummy's turning and I'm feeling kinda homesick",
+        "avg_logprob": -0.08710252088412904
+      },
+      {
+        "id": 2,
+        "start": 70.653,
+        "end": 99.442,
+        "text": " Take it to the club in my taxi cab Everybody's looking at me now Like, who's that chick that's rocking kicks? She gotta be from out of town So hard with my girls all around me There's definitely not a Nashville party Cause all I see are stilettos I guess I never got the memo My tummy's spinning and I'm feeling kinda homesick Too much pressure and I'm nervous That's when the DJ dropped my favorite tune And the Britney song was on",
+        "avg_logprob": -0.14253826089659516
+      },
+      {
+        "id": 3,
+        "start": 100.201,
+        "end": 104.302,
+        "text": " And the Britney song was on And the Britney song was on",
+        "avg_logprob": -0.1637620238157419
+      },
+      {
+        "id": 4,
+        "start": 143.519,
+        "end": 146.557,
+        "text": " The DJ plays my",
+        "avg_logprob": -0.55859375
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "M11SvDtPBhA",
+    "uploader": "HollywoodRecordsVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/M11SvDtPBhA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6630212,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.036631,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:20:55Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,98 @@
+{
+  "corpus_id": "rjOhZZyn30k",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/rjOhZZyn30k.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/rjOhZZyn30k.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/rjOhZZyn30k.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Three little birds sat on my window and they told me I don't need to worry. Summer came like cinnamon, so sweet. Little girls double dutch on the concrete. Maybe sometimes we got it wrong, but it's all right. The more things seem to change, the more they stay the same. Don't you hesitate. Go put your records on. Tell me your favorite song. You go ahead, let your hair down. Sapphire and faded jeans. I hope you get your dreams. Just go ahead. You're gonna find yourself somewhere, somehow. Blue as the sky, somber and lonely. Sipping tea in a bar by the roadside. Just relax, just relax. Don't you like those other boys? But it's alright The more you stay the same The more they seem to change Don't you think it's strange? Girl, put your records on Tell me your favorite song You go ahead, let your head We'll see you next time. Just go ahead and let your hair down People let your hair down Girl, put your records on Tell me your favorite song You go ahead and let your hair down Sapphire and faded cheese I hope you get your dreams Just go ahead and let your hair down Ooh, you're gonna find yourself somewhere Somehow.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 15.995,
+        "end": 43.94,
+        "text": " Three little birds sat on my window and they told me I don't need to worry. Summer came like cinnamon, so sweet. Little girls double dutch on the concrete. Maybe sometimes we got it wrong, but it's all right.",
+        "avg_logprob": -0.08087531644470837
+      },
+      {
+        "id": 2,
+        "start": 45.07,
+        "end": 71.817,
+        "text": " The more things seem to change, the more they stay the same. Don't you hesitate. Go put your records on. Tell me your favorite song. You go ahead, let your hair down. Sapphire and faded jeans. I hope you get your dreams. Just go ahead.",
+        "avg_logprob": -0.11254041218038263
+      },
+      {
+        "id": 3,
+        "start": 75.901,
+        "end": 96.117,
+        "text": " You're gonna find yourself somewhere, somehow. Blue as the sky, somber and lonely. Sipping tea in a bar by the roadside. Just relax, just relax. Don't you like those other boys?",
+        "avg_logprob": -0.13333333730697633
+      },
+      {
+        "id": 4,
+        "start": 109.82,
+        "end": 130.88,
+        "text": " But it's alright The more you stay the same The more they seem to change Don't you think it's strange? Girl, put your records on Tell me your favorite song You go ahead, let your head",
+        "avg_logprob": -0.0840752211421035
+      },
+      {
+        "id": 5,
+        "start": 148.531,
+        "end": 167.06,
+        "text": " We'll see you next time.",
+        "avg_logprob": -0.6362304538488388
+      },
+      {
+        "id": 6,
+        "start": 182.247,
+        "end": 211.762,
+        "text": " Just go ahead and let your hair down People let your hair down Girl, put your records on Tell me your favorite song You go ahead and let your hair down Sapphire and faded cheese I hope you get your dreams Just go ahead and let your hair down Ooh, you're gonna find yourself somewhere",
+        "avg_logprob": -0.16015625198682149
+      },
+      {
+        "id": 7,
+        "start": 213.213,
+        "end": 215.086,
+        "text": " Somehow.",
+        "avg_logprob": -0.4762369791666667
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "rjOhZZyn30k",
+    "uploader": "Corinne Bailey Rae",
+    "audio_file": "corpus/01_music_videos_audio/audio/rjOhZZyn30k.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7501796,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.848319,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:15:37Z"
+  },
+  "status": "success",
+  "error": null
+}

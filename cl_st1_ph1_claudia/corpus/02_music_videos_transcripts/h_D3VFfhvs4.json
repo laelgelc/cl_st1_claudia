@@ -1,0 +1,112 @@
+{
+  "corpus_id": "h_D3VFfhvs4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/h_D3VFfhvs4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/h_D3VFfhvs4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/h_D3VFfhvs4.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Thank you. Are you walking? Are you walking, Annie? Annie, are you walking? Are you okay? Are you okay? You've been hit by, you've been hit by a smooth He's leaving no clues, they're behind him And they have no way of knowing You've been hit by, you've been hit by Are you okay? Are you okay? Are you okay? Are you okay? Are you okay? I'll tell him everything he knows. Oh yeah, right, you show me. Okay, sure, hold this. You wish you could do better You wish you could do better You wish you could do better You can run it, you can run it. You can run it, you can run it. You can run it, you can run it.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 5.414,
+        "end": 23.96,
+        "text": " Thank you.",
+        "avg_logprob": -0.92138671875
+      },
+      {
+        "id": 2,
+        "start": 117.481,
+        "end": 121.97,
+        "text": " Are you walking? Are you walking, Annie? Annie, are you walking?",
+        "avg_logprob": -0.2858455882352941
+      },
+      {
+        "id": 3,
+        "start": 170.283,
+        "end": 176.408,
+        "text": " Are you okay? Are you okay? You've been hit by, you've been hit by a smooth",
+        "avg_logprob": -0.2684659090909091
+      },
+      {
+        "id": 4,
+        "start": 202.733,
+        "end": 207.02,
+        "text": " He's leaving no clues, they're behind him And they have no way of knowing",
+        "avg_logprob": -0.3135850694444444
+      },
+      {
+        "id": 5,
+        "start": 242.474,
+        "end": 245.815,
+        "text": " You've been hit by, you've been hit by",
+        "avg_logprob": -0.365234375
+      },
+      {
+        "id": 6,
+        "start": 358.642,
+        "end": 383.903,
+        "text": " Are you okay? Are you okay? Are you okay? Are you okay? Are you okay?",
+        "avg_logprob": -0.23958333900996617
+      },
+      {
+        "id": 7,
+        "start": 443.843,
+        "end": 449.193,
+        "text": " I'll tell him everything he knows. Oh yeah, right, you show me. Okay, sure, hold this.",
+        "avg_logprob": -0.155625
+      },
+      {
+        "id": 8,
+        "start": 496.291,
+        "end": 516.828,
+        "text": " You wish you could do better You wish you could do better You wish you could do better",
+        "avg_logprob": -0.6204769925067299
+      },
+      {
+        "id": 9,
+        "start": 540.048,
+        "end": 563.842,
+        "text": " You can run it, you can run it. You can run it, you can run it. You can run it, you can run it.",
+        "avg_logprob": -0.5181451574448617
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "h_D3VFfhvs4",
+    "uploader": "Michael Jackson",
+    "audio_file": "corpus/01_music_videos_audio/audio/h_D3VFfhvs4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 18109414,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 39.238719,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:52:59Z"
+  },
+  "status": "success",
+  "error": null
+}

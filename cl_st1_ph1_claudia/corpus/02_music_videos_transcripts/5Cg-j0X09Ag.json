@@ -1,0 +1,105 @@
+{
+  "corpus_id": "5Cg-j0X09Ag",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/5Cg-j0X09Ag.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/5Cg-j0X09Ag.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/5Cg-j0X09Ag.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Busted flat in Baton Rouge, waiting for a train. And I was feeling near as faded as my jeans. Bobby thumbed a diesel down just before it rained. And rode us all the way to New Orleans. Out of my dirty red bandana, I was playing soft while Bobby sang the blues. Windshield whoppers slapping time, I was holding Bobby's tandem hat. We sang every song that Javi knew. Freedom is just another word for nothing left to lose. Nothing. free Feeling good was easy love when he sang a blues Feeling good was good enough for me Good enough for me and my Bobby From the Kentucky coal mine to the California sun Bobby shared the secrets of my soul All kinds of weather do everything we're done. Yeah, Bobby, baby, kept me from the cold. One day up near Salina Sloan, I let him slip away. He's looking for that home, and I hope he finds it. But I trade all of my tomorrows for one single yesterday to be holding Bobby's body next to mine. Freedom is just another word for nothing left to lose Nothing, that's all that Bobby left me And feeling good was easy when he sang the blues Feeling good was good enough for me Good enough for me and my Bobby La, la, la, la, la, la. And I bobbed along to Bobby McGee, yeah And I bobbed along to Bobby McGee, yeah And I called up my lover, called up my man I said I called up my lover just the best I can Come on, and I bobbed along, and I bobbed with McGee, yeah Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 6.19,
+        "end": 25.546,
+        "text": " Busted flat in Baton Rouge, waiting for a train. And I was feeling near as faded as my jeans. Bobby thumbed a diesel down just before it rained. And rode us all the way to New Orleans.",
+        "avg_logprob": -0.11846127717391304
+      },
+      {
+        "id": 2,
+        "start": 29.883,
+        "end": 54.689,
+        "text": " Out of my dirty red bandana, I was playing soft while Bobby sang the blues. Windshield whoppers slapping time, I was holding Bobby's tandem hat. We sang every song that Javi knew. Freedom is just another word for nothing left to lose. Nothing.",
+        "avg_logprob": -0.23841594673436264
+      },
+      {
+        "id": 3,
+        "start": 56.528,
+        "end": 86.11,
+        "text": " free Feeling good was easy love when he sang a blues Feeling good was good enough for me Good enough for me and my Bobby From the Kentucky coal mine to the California sun Bobby shared the secrets of my soul",
+        "avg_logprob": -0.15085564908527194
+      },
+      {
+        "id": 4,
+        "start": 88.118,
+        "end": 116.452,
+        "text": " All kinds of weather do everything we're done. Yeah, Bobby, baby, kept me from the cold. One day up near Salina Sloan, I let him slip away. He's looking for that home, and I hope he finds it. But I trade all of my tomorrows for one single yesterday to be holding Bobby's body next to mine.",
+        "avg_logprob": -0.16781249324480693
+      },
+      {
+        "id": 5,
+        "start": 117.228,
+        "end": 141.73,
+        "text": " Freedom is just another word for nothing left to lose Nothing, that's all that Bobby left me And feeling good was easy when he sang the blues Feeling good was good enough for me Good enough for me and my Bobby",
+        "avg_logprob": -0.16255326264283873
+      },
+      {
+        "id": 6,
+        "start": 145.426,
+        "end": 158.656,
+        "text": " La, la, la, la, la, la.",
+        "avg_logprob": -0.6132812316601093
+      },
+      {
+        "id": 7,
+        "start": 170.654,
+        "end": 193.553,
+        "text": " And I bobbed along to Bobby McGee, yeah And I bobbed along to Bobby McGee, yeah And I called up my lover, called up my man I said I called up my lover just the best I can Come on, and I bobbed along, and I bobbed with McGee, yeah",
+        "avg_logprob": -0.2690429692156613
+      },
+      {
+        "id": 8,
+        "start": 261.239,
+        "end": 261.88,
+        "text": " Thank you.",
+        "avg_logprob": -0.6416015625
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "5Cg-j0X09Ag",
+    "uploader": "Janis Joplin",
+    "audio_file": "corpus/01_music_videos_audio/audio/5Cg-j0X09Ag.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8657964,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.606956,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:01:05Z"
+  },
+  "status": "success",
+  "error": null
+}

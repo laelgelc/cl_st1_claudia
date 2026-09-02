@@ -1,0 +1,84 @@
+{
+  "corpus_id": "G7KNmW9a75Y",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/G7KNmW9a75Y.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/G7KNmW9a75Y.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/G7KNmW9a75Y.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "We were good, we were cold, kind of dream that can't be sold. We were right till we weren't, built a home and watched it burn. I sell flowers Write my name in the sand Talk to myself for hours Say things you don't understand I can take myself dancing And I can hold my own hand Yeah, I can love me better than you can Cherry rain, match the roses that you lay No remorse, no regret, I forgive every word I didn't want to fight Started to cry but then remembered I I can buy myself flowers Write my name in the sand Talk to myself for hours Say things you don't understand I can take myself dancing Yeah, I can love me better than you can Can't love me better, I can't love me better, baby",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 4.233,
+        "end": 23.47,
+        "text": " We were good, we were cold, kind of dream that can't be sold. We were right till we weren't, built a home and watched it burn.",
+        "avg_logprob": -0.10345817729830742
+      },
+      {
+        "id": 2,
+        "start": 34.574,
+        "end": 62.452,
+        "text": " I sell flowers Write my name in the sand Talk to myself for hours Say things you don't understand I can take myself dancing And I can hold my own hand Yeah, I can love me better than you can",
+        "avg_logprob": -0.16560683278150337
+      },
+      {
+        "id": 3,
+        "start": 70.99,
+        "end": 83.022,
+        "text": " Cherry rain, match the roses that you lay No remorse, no regret, I forgive every word",
+        "avg_logprob": -0.24014138040088473
+      },
+      {
+        "id": 4,
+        "start": 139.823,
+        "end": 168.055,
+        "text": " I didn't want to fight Started to cry but then remembered I I can buy myself flowers Write my name in the sand Talk to myself for hours Say things you don't understand I can take myself dancing",
+        "avg_logprob": -0.17540015825411168
+      },
+      {
+        "id": 5,
+        "start": 173.32,
+        "end": 192.473,
+        "text": " Yeah, I can love me better than you can Can't love me better, I can't love me better, baby",
+        "avg_logprob": -0.28828125
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "G7KNmW9a75Y",
+    "uploader": "MILEY",
+    "audio_file": "corpus/01_music_videos_audio/audio/G7KNmW9a75Y.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6451140,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.138089,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:10:46Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,105 @@
+{
+  "corpus_id": "UsqDoz2Co4o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/UsqDoz2Co4o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/UsqDoz2Co4o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/UsqDoz2Co4o.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "My love There's only you in my life The only thing that's right My first love You're every breath that I take You're every step I make And I, I want to share all my love with you No one else will do And your eyes, your eyes, your eyes They tell me how much you care You will always be My endless love Two hearts Two hearts that beat as one Our lives have just begun I'll hold you close in my arms I can't resist your charms Oh, you know I don't mind loving you You mean the world to me Oh, I know I found in you My endless love Oh, oh, oh, oh I'll be that moon for you I'm sure You know I don't mind Oh, you know I don't mind My love, my love, my endless love",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 5.549,
+        "end": 33.629,
+        "text": " My love There's only you in my life The only thing that's right My first love You're every breath that I take You're every step I make",
+        "avg_logprob": -0.08789062779396772
+      },
+      {
+        "id": 2,
+        "start": 35.975,
+        "end": 63.633,
+        "text": " And I, I want to share all my love with you No one else will do And your eyes, your eyes, your eyes They tell me how much you care",
+        "avg_logprob": -0.12350642812602661
+      },
+      {
+        "id": 3,
+        "start": 69.353,
+        "end": 99.239,
+        "text": " You will always be My endless love Two hearts Two hearts that beat as one Our lives have just begun",
+        "avg_logprob": -0.11997767857142858
+      },
+      {
+        "id": 4,
+        "start": 105.871,
+        "end": 116.857,
+        "text": " I'll hold you close in my arms I can't resist your charms",
+        "avg_logprob": -0.07057291865348816
+      },
+      {
+        "id": 5,
+        "start": 135.25,
+        "end": 162.082,
+        "text": " Oh, you know I don't mind loving you You mean the world to me Oh, I know I found in you My endless love",
+        "avg_logprob": -0.14941406728965895
+      },
+      {
+        "id": 6,
+        "start": 166.216,
+        "end": 181.859,
+        "text": " Oh, oh, oh, oh",
+        "avg_logprob": -0.5126953125
+      },
+      {
+        "id": 7,
+        "start": 194.026,
+        "end": 211.289,
+        "text": " I'll be that moon for you I'm sure You know I don't mind Oh, you know I don't mind",
+        "avg_logprob": -0.20593750476837158
+      },
+      {
+        "id": 8,
+        "start": 234.425,
+        "end": 260.176,
+        "text": " My love, my love, my endless love",
+        "avg_logprob": -0.15839844346046447
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "UsqDoz2Co4o",
+    "uploader": "lucio sampaio",
+    "audio_file": "corpus/01_music_videos_audio/audio/UsqDoz2Co4o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8513070,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.007108,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:05:20Z"
+  },
+  "status": "success",
+  "error": null
+}

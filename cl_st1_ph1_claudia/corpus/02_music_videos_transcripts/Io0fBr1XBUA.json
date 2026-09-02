@@ -1,0 +1,98 @@
+{
+  "corpus_id": "Io0fBr1XBUA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Io0fBr1XBUA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Io0fBr1XBUA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Io0fBr1XBUA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Crashing Hit a wall I need you right now Yeah, I need you right now So don't let me, don't let me, don't let me down I think I'm losing my mind now It's in my head, darling I hope that you'll be here when I need you the most Don't let me down, don't let me down, down, down Up and running and we're out of time I really thought you were on my side But now there's nobody by my side Don't let me Don't let me down, don't let me down I need you, I need you, I need you right now Yeah, I need you right now So don't let me, don't let me, don't let me down I think I'm losing my mind now, it's in my head Darling, I hope that you'll be here when I need you the most Don't let me down down down",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 18.087,
+        "end": 20.973,
+        "text": " Crashing Hit a wall",
+        "avg_logprob": -0.46875
+      },
+      {
+        "id": 2,
+        "start": 42.59,
+        "end": 58.148,
+        "text": " I need you right now Yeah, I need you right now So don't let me, don't let me, don't let me down I think I'm losing my mind now It's in my head, darling I hope that you'll be here when I need you the most",
+        "avg_logprob": -0.06092379385964912
+      },
+      {
+        "id": 3,
+        "start": 73.471,
+        "end": 86.802,
+        "text": " Don't let me down, don't let me down, down, down Up and running and we're out of time I really thought you were on my side But now there's nobody by my side",
+        "avg_logprob": -0.13614709784344928
+      },
+      {
+        "id": 4,
+        "start": 94.312,
+        "end": 113.465,
+        "text": " Don't let me",
+        "avg_logprob": -0.79453125
+      },
+      {
+        "id": 5,
+        "start": 133.715,
+        "end": 136.634,
+        "text": " Don't let me down, don't let me down",
+        "avg_logprob": -0.20979817335804304
+      },
+      {
+        "id": 6,
+        "start": 149.273,
+        "end": 166.03,
+        "text": " I need you, I need you, I need you right now Yeah, I need you right now So don't let me, don't let me, don't let me down I think I'm losing my mind now, it's in my head Darling, I hope that you'll be here when I need you the most",
+        "avg_logprob": -0.043708571712627556
+      },
+      {
+        "id": 7,
+        "start": 200.945,
+        "end": 203.83,
+        "text": " Don't let me down down down",
+        "avg_logprob": -0.3085937462747097
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Io0fBr1XBUA",
+    "uploader": "The Chainsmokers",
+    "audio_file": "corpus/01_music_videos_audio/audio/Io0fBr1XBUA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6972752,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.789584,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:05:42Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,91 @@
+{
+  "corpus_id": "yP4qdefD2To",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yP4qdefD2To.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/yP4qdefD2To.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/yP4qdefD2To.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I want to wake up where you are I won't say anything at all So why don't you smile? I love the life you kill The priest is on the phone Your father hit the wall Your mom disowned you Don't suppose I'll ever know To me to be a man Is something I can exchange I live around here I wanna wake up where you are I won't say anything at all Never dreamed to be complete Little pieces of the nothing that fall Oh, man What you're up around me What you feel is what you are dream to be complete little pieces of the nothing that falls all night turn around me what you feel is what you are And I'll do anything you ever dream to be complete. Yes, I'll do nothing but fall. And I'll do anything you ever dream to be complete. Yes, I'll do nothing but fall. All night. Well, just slide into my room. Just slide into my room. Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 9.97,
+        "end": 36.447,
+        "text": " I want to wake up where you are I won't say anything at all So why don't you smile?",
+        "avg_logprob": -0.17442256082659183
+      },
+      {
+        "id": 2,
+        "start": 57.777,
+        "end": 81.098,
+        "text": " I love the life you kill The priest is on the phone Your father hit the wall Your mom disowned you Don't suppose I'll ever know To me to be a man Is something I can exchange I live around here I wanna wake up where you are I won't say anything at all",
+        "avg_logprob": -0.16578389476921598
+      },
+      {
+        "id": 3,
+        "start": 95.037,
+        "end": 109.87,
+        "text": " Never dreamed to be complete Little pieces of the nothing that fall Oh, man What you're up around me What you feel is what you are",
+        "avg_logprob": -0.4202586289109855
+      },
+      {
+        "id": 4,
+        "start": 133.732,
+        "end": 148.126,
+        "text": " dream to be complete little pieces of the nothing that falls all night turn around me what you feel is what you are",
+        "avg_logprob": -0.4778645907839139
+      },
+      {
+        "id": 5,
+        "start": 169.0,
+        "end": 196.54,
+        "text": " And I'll do anything you ever dream to be complete. Yes, I'll do nothing but fall. And I'll do anything you ever dream to be complete. Yes, I'll do nothing but fall. All night. Well, just slide into my room. Just slide into my room.",
+        "avg_logprob": -0.22734374552965164
+      },
+      {
+        "id": 6,
+        "start": 207.256,
+        "end": 208.741,
+        "text": " Thank you.",
+        "avg_logprob": -0.6015624850988388
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "yP4qdefD2To",
+    "uploader": "Goo Goo Dolls",
+    "audio_file": "corpus/01_music_videos_audio/audio/yP4qdefD2To.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6820430,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.961428,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:07:09Z"
+  },
+  "status": "success",
+  "error": null
+}

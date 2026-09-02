@@ -1,0 +1,217 @@
+{
+  "corpus_id": "hUvcWXTIjcU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hUvcWXTIjcU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hUvcWXTIjcU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hUvcWXTIjcU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "They're selling postcards of the hanging They're painting the passports brown The beauty parlor is filled with sailors The circus is in town Here comes the blind commissioner They've got him in a trance One hand is tied to the tightrope walker The other is in his pants And the riot squad, they're restless They need somewhere to go As Lady and I look out tonight from Desolation Road Cinderella, she seems so easy It takes one to know one, she smiles And puts her hands in her back pocket Betty Davis style And in comes Romeo, he's moaning You belong to me, I believe And someone says you're in the wrong place, my friend You'd better leave And the only sound that's left After the ambulance is gone Is Cinderella sweeping up on Desolation Road? Now the moon is almost hidden The stars are beginning to hide The fortune telling lady Has even taken all her things inside All except for Cain and Abel And the hunchback of Notre Dame And everybody is making love or else expecting rain And the Good Samaritan, he's dressing, he's getting ready for the show He's going to the carnival tonight on Desolation Row Ophelia, she's neath the window For her I feel so afraid On her twenty-second birthday She already is an old maid To her death is quite romantic She wears an iron vest Her profession's her religion Her sin is her lifelessness And though her eyes are fixed upon Noah's great rainbow She spends her time peeking into desolation robe Einstein disguised as Robin Hood With his memories in our trunk passed this way an hour ago with his friend, a jealous monk. Now he looked so immaculately frightful as he bummed a cigarette. Then he went off sniffing drainpipes and reciting the alphabet. You would not think to look at him, but he was famous long ago for playing the electric violin on disc. Dr. Filth, he keeps his world inside of a leather cup But all his sexless patients, they are trying to blow it up Now here's Miss Some Local Loser She's in charge of the cyanide hole And she also keeps the cards that read Have mercy on his soul They all play on the penny whistle You can hear them blow If you lean your head out far enough from desolation Across the street they nailed the curtains They're getting ready for the feast The Phantom of the Opera In a perfect image of a priest Here are spoon-feeding Casanova To get him to feel more assured Then they'll kill him with self-confidence After poisoning him with words And the phantom shouting to skinny girls Get out of here if you don't know Casanova is just being punished For going to Desolation Road At midnight all the agents And the superhuman crew Come out and round up everyone That knows more than they do Then they bring them to the factory Where the heart attack machine Is strapped across their shoulders And then the kerosene Is brought down from the castles By insurance men who go Check to see that nobody is escaping To Desolation Row Phase B to Willow's Neptune The Titanic sails at dawn is shouting which side are you on and Ezra Pound and T.S. Eliot Fighting in the captain's tower While calypso singers laugh at them And fishermen hold flowers Between the windows of the sea Where lovely mermaids float And nobody has to think too much About desolation rules Yes, I received your letter yesterday About the time the door now broke When you asked me how I was doing Was that some kind of joke? All these people that you mention Yes, I know them, they're quite lame I had to rearrange their faces And give them all another name Right now, I can't read too good. Don't send me no more letters, no. Not unless you mail them from Desolation Road.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 24,
+    "segments": [
+      {
+        "id": 1,
+        "start": 9.346,
+        "end": 31.385,
+        "text": " They're selling postcards of the hanging They're painting the passports brown The beauty parlor is filled with sailors The circus is in town Here comes the blind commissioner",
+        "avg_logprob": -0.056784238118459195
+      },
+      {
+        "id": 2,
+        "start": 32.583,
+        "end": 53.947,
+        "text": " They've got him in a trance One hand is tied to the tightrope walker The other is in his pants And the riot squad, they're restless They need somewhere to go",
+        "avg_logprob": -0.05348557615891481
+      },
+      {
+        "id": 3,
+        "start": 55.027,
+        "end": 80.98,
+        "text": " As Lady and I look out tonight from Desolation Road Cinderella, she seems so easy It takes one to know one, she smiles And puts her hands in her back pocket",
+        "avg_logprob": -0.1281467080116272
+      },
+      {
+        "id": 4,
+        "start": 82.887,
+        "end": 112.587,
+        "text": " Betty Davis style And in comes Romeo, he's moaning You belong to me, I believe And someone says you're in the wrong place, my friend You'd better leave And the only sound that's left After the ambulance is gone",
+        "avg_logprob": -0.11702474113553762
+      },
+      {
+        "id": 5,
+        "start": 113.397,
+        "end": 139.115,
+        "text": " Is Cinderella sweeping up on Desolation Road? Now the moon is almost hidden The stars are beginning to hide The fortune telling lady",
+        "avg_logprob": -0.1455439770663226
+      },
+      {
+        "id": 6,
+        "start": 139.84,
+        "end": 152.615,
+        "text": " Has even taken all her things inside All except for Cain and Abel And the hunchback of Notre Dame",
+        "avg_logprob": -0.0968919830477756
+      },
+      {
+        "id": 7,
+        "start": 153.661,
+        "end": 180.475,
+        "text": " And everybody is making love or else expecting rain And the Good Samaritan, he's dressing, he's getting ready for the show He's going to the carnival tonight on Desolation Row",
+        "avg_logprob": -0.1384336919319339
+      },
+      {
+        "id": 8,
+        "start": 183.935,
+        "end": 205.214,
+        "text": " Ophelia, she's neath the window For her I feel so afraid On her twenty-second birthday She already is an old maid To her death is quite romantic",
+        "avg_logprob": -0.11618303614003318
+      },
+      {
+        "id": 9,
+        "start": 206.159,
+        "end": 235.775,
+        "text": " She wears an iron vest Her profession's her religion Her sin is her lifelessness And though her eyes are fixed upon Noah's great rainbow She spends her time peeking into desolation robe",
+        "avg_logprob": -0.07709960807114839
+      },
+      {
+        "id": 10,
+        "start": 241.478,
+        "end": 249.106,
+        "text": " Einstein disguised as Robin Hood With his memories in our trunk",
+        "avg_logprob": -0.08345853594633248
+      },
+      {
+        "id": 11,
+        "start": 250.49,
+        "end": 276.123,
+        "text": " passed this way an hour ago with his friend, a jealous monk. Now he looked so immaculately frightful as he bummed a cigarette. Then he went off sniffing drainpipes and reciting the alphabet.",
+        "avg_logprob": -0.12017951905727386
+      },
+      {
+        "id": 12,
+        "start": 276.393,
+        "end": 290.348,
+        "text": " You would not think to look at him, but he was famous long ago for playing the electric violin on disc.",
+        "avg_logprob": -0.13289388020833334
+      },
+      {
+        "id": 13,
+        "start": 297.807,
+        "end": 319.593,
+        "text": " Dr. Filth, he keeps his world inside of a leather cup But all his sexless patients, they are trying to blow it up Now here's Miss Some Local Loser",
+        "avg_logprob": -0.14041384490760597
+      },
+      {
+        "id": 14,
+        "start": 319.593,
+        "end": 349.107,
+        "text": " She's in charge of the cyanide hole And she also keeps the cards that read Have mercy on his soul They all play on the penny whistle You can hear them blow If you lean your head out far enough from desolation",
+        "avg_logprob": -0.07550698138297872
+      },
+      {
+        "id": 15,
+        "start": 354.811,
+        "end": 376.023,
+        "text": " Across the street they nailed the curtains They're getting ready for the feast The Phantom of the Opera In a perfect image of a priest Here are spoon-feeding Casanova",
+        "avg_logprob": -0.12968750425747463
+      },
+      {
+        "id": 16,
+        "start": 376.883,
+        "end": 388.966,
+        "text": " To get him to feel more assured Then they'll kill him with self-confidence After poisoning him with words",
+        "avg_logprob": -0.056463069705800575
+      },
+      {
+        "id": 17,
+        "start": 390.755,
+        "end": 416.624,
+        "text": " And the phantom shouting to skinny girls Get out of here if you don't know Casanova is just being punished For going to Desolation Road At midnight all the agents",
+        "avg_logprob": -0.11359797458390931
+      },
+      {
+        "id": 18,
+        "start": 417.147,
+        "end": 446.459,
+        "text": " And the superhuman crew Come out and round up everyone That knows more than they do Then they bring them to the factory Where the heart attack machine Is strapped across their shoulders And then the kerosene",
+        "avg_logprob": -0.04524739450287251
+      },
+      {
+        "id": 19,
+        "start": 447.455,
+        "end": 475.754,
+        "text": " Is brought down from the castles By insurance men who go Check to see that nobody is escaping To Desolation Row Phase B to Willow's Neptune The Titanic sails at dawn",
+        "avg_logprob": -0.17907072486061798
+      },
+      {
+        "id": 20,
+        "start": 477.492,
+        "end": 488.107,
+        "text": " is shouting which side are you on and Ezra Pound and T.S. Eliot",
+        "avg_logprob": -0.23458059367380643
+      },
+      {
+        "id": 21,
+        "start": 489.237,
+        "end": 518.515,
+        "text": " Fighting in the captain's tower While calypso singers laugh at them And fishermen hold flowers Between the windows of the sea Where lovely mermaids float And nobody has to think too much About desolation rules",
+        "avg_logprob": -0.09170809845355424
+      },
+      {
+        "id": 22,
+        "start": 574.253,
+        "end": 582.387,
+        "text": " Yes, I received your letter yesterday About the time the door now broke",
+        "avg_logprob": -0.19583333730697633
+      },
+      {
+        "id": 23,
+        "start": 582.775,
+        "end": 608.847,
+        "text": " When you asked me how I was doing Was that some kind of joke? All these people that you mention Yes, I know them, they're quite lame I had to rearrange their faces And give them all another name",
+        "avg_logprob": -0.06720525314184753
+      },
+      {
+        "id": 24,
+        "start": 609.185,
+        "end": 625.267,
+        "text": " Right now, I can't read too good. Don't send me no more letters, no. Not unless you mail them from Desolation Road.",
+        "avg_logprob": -0.07916259975172579
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "hUvcWXTIjcU",
+    "uploader": "Bob Dylan",
+    "audio_file": "corpus/01_music_videos_audio/audio/hUvcWXTIjcU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 21856558,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.307307,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:04:00Z"
+  },
+  "status": "success",
+  "error": null
+}

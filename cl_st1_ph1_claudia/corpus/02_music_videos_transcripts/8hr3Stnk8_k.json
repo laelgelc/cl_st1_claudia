@@ -1,0 +1,112 @@
+{
+  "corpus_id": "8hr3Stnk8_k",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8hr3Stnk8_k.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/8hr3Stnk8_k.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/8hr3Stnk8_k.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Oh, God said to Abraham, kill me a son. Abe said, man, you must be putting me on. God said, no. Abe said, what? God said, you can do what you want, Abe, but next time you see me coming, you better run. Well, Abe said, well, you want this killin' done Gotta turn around Highway 61 Well, Georgia Sam, he had a bloody nose. Welfare department, they wouldn't give him no clothes. He asked poor Howard, where can I go? Howard said, there's only one place I know. Sam said, tell me quick, man, I got to run. Oh, Howard just pointed with his gun And said, that way down Highway 61 Well, Mac the Finger said to Louis the King, I got 40 red, white, blue shoestrings and a thousand telephones that don't ring. Do you know where I can get rid of these things? And Louis the King said, let me think for a minute, son. And he said, yes, I think it can be easily done. Just take everything down to Highway 61. My daughter on the twelfth night Told her first father that things weren't right My complexion, she says, is much too white He said, come here and step into the light He says, hmm, you're right Let me tell the second mother this has been done But the second mother was with her seventh son And they were both out on Highway 61 Now the roving gambler, he was very bored, trying to create a next world war. He found a promoter who nearly fell off the floor. He said, I never engaged in this kind of thing before, but yes, I think it can be very easily done. We'll just put some bleachers out in the sun and have it on Highway 61.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 7.912,
+        "end": 25.394,
+        "text": " Oh, God said to Abraham, kill me a son. Abe said, man, you must be putting me on. God said, no. Abe said, what? God said, you can do what you want, Abe, but next time you see me coming, you better run.",
+        "avg_logprob": -0.0701138791391405
+      },
+      {
+        "id": 2,
+        "start": 30.743,
+        "end": 38.557,
+        "text": " Well, Abe said, well, you want this killin' done Gotta turn around Highway 61",
+        "avg_logprob": -0.29238281548023226
+      },
+      {
+        "id": 3,
+        "start": 43.889,
+        "end": 61.422,
+        "text": " Well, Georgia Sam, he had a bloody nose. Welfare department, they wouldn't give him no clothes. He asked poor Howard, where can I go? Howard said, there's only one place I know. Sam said, tell me quick, man, I got to run.",
+        "avg_logprob": -0.07623698016007742
+      },
+      {
+        "id": 4,
+        "start": 66.653,
+        "end": 74.618,
+        "text": " Oh, Howard just pointed with his gun And said, that way down Highway 61",
+        "avg_logprob": -0.19324448529411764
+      },
+      {
+        "id": 5,
+        "start": 79.546,
+        "end": 97.467,
+        "text": " Well, Mac the Finger said to Louis the King, I got 40 red, white, blue shoestrings and a thousand telephones that don't ring. Do you know where I can get rid of these things? And Louis the King said, let me think for a minute, son.",
+        "avg_logprob": -0.058235678883890314
+      },
+      {
+        "id": 6,
+        "start": 102.344,
+        "end": 109.735,
+        "text": " And he said, yes, I think it can be easily done. Just take everything down to Highway 61.",
+        "avg_logprob": -0.12941576216531836
+      },
+      {
+        "id": 7,
+        "start": 116.755,
+        "end": 146.202,
+        "text": " My daughter on the twelfth night Told her first father that things weren't right My complexion, she says, is much too white He said, come here and step into the light He says, hmm, you're right Let me tell the second mother this has been done But the second mother was with her seventh son And they were both out on Highway 61",
+        "avg_logprob": -0.1186655435610462
+      },
+      {
+        "id": 8,
+        "start": 154.927,
+        "end": 172.831,
+        "text": " Now the roving gambler, he was very bored, trying to create a next world war. He found a promoter who nearly fell off the floor. He said, I never engaged in this kind of thing before, but yes, I think it can be very easily done.",
+        "avg_logprob": -0.05387930983099444
+      },
+      {
+        "id": 9,
+        "start": 177.809,
+        "end": 203.712,
+        "text": " We'll just put some bleachers out in the sun and have it on Highway 61.",
+        "avg_logprob": -0.051269532426407464
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "8hr3Stnk8_k",
+    "uploader": "Bob Dylan",
+    "audio_file": "corpus/01_music_videos_audio/audio/8hr3Stnk8_k.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6636898,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.623992,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:22Z"
+  },
+  "status": "success",
+  "error": null
+}

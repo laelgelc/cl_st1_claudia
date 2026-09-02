@@ -1,0 +1,112 @@
+{
+  "corpus_id": "FGBhQbmPwH8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/FGBhQbmPwH8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/FGBhQbmPwH8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/FGBhQbmPwH8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "One more time I'm gonna celebrate it, oh yeah Don't stop the dancing One more time I'm gonna celebrate it, oh yeah Don't stop the dancing One more time I'm gonna celebrate it, oh yeah Don't stop the dancing One more time I'm gonna celebrate it, oh yeah One more time I know I'm just feeling Celebration tonight Celebrate Don't wait too late No We don't stop You can't stop We're gonna celebrate One more time One more time One more time A celebration You know we're gonna do it right tonight. Hey, just feel it. Music's got me feeling the need. Need. Yeah. Come on. All right. We're gonna celebrate one more time. Celebrate and dance so free. Music's got me feeling so free Celebrate and dance so free One more time Music's got me feeling so free We're gonna celebrate Celebrate and dance so free One more time Music's got me feeling so free We're gonna celebrate Celebrate and dance so free One more time Music's got me feeling so free We're gonna celebrate Celebrate and dance so free One more time, this got me feeling so free We're gonna celebrate, celebrate and dance so free One more time, this got me feeling so free We're gonna celebrate, celebrate and dance so free One more time, this got me feeling so free We're gonna celebrate, celebrate You just got me feeling so free We're gonna celebrate Celebrate and dance so free One more time You just got me feeling so free We're gonna celebrate Celebrate and dance so free One more time You just got me feeling so free We're gonna celebrate One more time You just got me feeling so free We're gonna celebrate Celebrate and dance so free free free",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 31.368,
+        "end": 33.511,
+        "text": " One more time",
+        "avg_logprob": -0.409423828125
+      },
+      {
+        "id": 2,
+        "start": 66.097,
+        "end": 95.543,
+        "text": " I'm gonna celebrate it, oh yeah Don't stop the dancing One more time I'm gonna celebrate it, oh yeah Don't stop the dancing One more time I'm gonna celebrate it, oh yeah Don't stop the dancing One more time I'm gonna celebrate it, oh yeah One more time",
+        "avg_logprob": -0.09843750161429246
+      },
+      {
+        "id": 3,
+        "start": 111.76,
+        "end": 138.727,
+        "text": " I know I'm just feeling Celebration tonight Celebrate",
+        "avg_logprob": -0.4114583233992259
+      },
+      {
+        "id": 4,
+        "start": 139.553,
+        "end": 168.477,
+        "text": " Don't wait too late No We don't stop You can't stop We're gonna celebrate One more time One more time One more time A celebration",
+        "avg_logprob": -0.1134114590783914
+      },
+      {
+        "id": 5,
+        "start": 168.95,
+        "end": 194.887,
+        "text": " You know we're gonna do it right tonight. Hey, just feel it. Music's got me feeling the need. Need. Yeah. Come on. All right. We're gonna celebrate one more time. Celebrate and dance so free.",
+        "avg_logprob": -0.2012500062584877
+      },
+      {
+        "id": 6,
+        "start": 196.439,
+        "end": 226.426,
+        "text": " Music's got me feeling so free Celebrate and dance so free One more time Music's got me feeling so free We're gonna celebrate Celebrate and dance so free One more time Music's got me feeling so free We're gonna celebrate Celebrate and dance so free One more time Music's got me feeling so free We're gonna celebrate Celebrate and dance so free",
+        "avg_logprob": -0.04639991493643941
+      },
+      {
+        "id": 7,
+        "start": 226.426,
+        "end": 247.823,
+        "text": " One more time, this got me feeling so free We're gonna celebrate, celebrate and dance so free One more time, this got me feeling so free We're gonna celebrate, celebrate and dance so free One more time, this got me feeling so free We're gonna celebrate, celebrate",
+        "avg_logprob": -0.12849506788086473
+      },
+      {
+        "id": 8,
+        "start": 251.114,
+        "end": 280.763,
+        "text": " You just got me feeling so free We're gonna celebrate Celebrate and dance so free One more time You just got me feeling so free We're gonna celebrate Celebrate and dance so free One more time You just got me feeling so free We're gonna celebrate One more time You just got me feeling so free We're gonna celebrate Celebrate and dance so free",
+        "avg_logprob": -0.06765408337944084
+      },
+      {
+        "id": 9,
+        "start": 283.514,
+        "end": 302.532,
+        "text": " free free",
+        "avg_logprob": -1.0963541666666667
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "FGBhQbmPwH8",
+    "uploader": "Daft Punk",
+    "audio_file": "corpus/01_music_videos_audio/audio/FGBhQbmPwH8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10286704,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.112306,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:17:22Z"
+  },
+  "status": "success",
+  "error": null
+}

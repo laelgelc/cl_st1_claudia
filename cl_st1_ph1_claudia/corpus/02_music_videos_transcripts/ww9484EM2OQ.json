@@ -1,0 +1,119 @@
+{
+  "corpus_id": "ww9484EM2OQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ww9484EM2OQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ww9484EM2OQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ww9484EM2OQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I let the sun beat down upon my face Stars to fill my dreams I'm a traveler of old time and space Top of days for which they sit in the way From tongues of living grace Songs caressed my ears Not a word I heard could I relate The story was quite clear Yeah! Turns to brown As the sun Fills the ground And my eyes Feel the same As I'm scared I love the storm who leaves no trace Like swords inside a dream Here's the path that led me to that place The yellow desert screen My shangri-la beneath the summer moon I will return again As the desert flows I endure Oh, father of the four winds, fill my sails, cross the sea on your ear. With no provision but an open face, Lord, restrict some fear. My baby, ooh, my baby, let me take you back Oh, come on, come on Oh, yeah.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 10,
+    "segments": [
+      {
+        "id": 1,
+        "start": 18.678,
+        "end": 32.026,
+        "text": " I let the sun beat down upon my face Stars to fill my dreams I'm a traveler of old time and space",
+        "avg_logprob": -0.2584635478754838
+      },
+      {
+        "id": 2,
+        "start": 45.391,
+        "end": 49.07,
+        "text": " Top of days for which they sit in the way",
+        "avg_logprob": -0.1878551190549677
+      },
+      {
+        "id": 3,
+        "start": 73.218,
+        "end": 88.237,
+        "text": " From tongues of living grace Songs caressed my ears Not a word I heard could I relate The story was quite clear",
+        "avg_logprob": -0.1591796906044086
+      },
+      {
+        "id": 4,
+        "start": 151.72,
+        "end": 153.847,
+        "text": " Yeah!",
+        "avg_logprob": -0.3837890625
+      },
+      {
+        "id": 5,
+        "start": 204.505,
+        "end": 231.539,
+        "text": " Turns to brown As the sun Fills the ground And my eyes Feel the same",
+        "avg_logprob": -0.3278952205882353
+      },
+      {
+        "id": 6,
+        "start": 238.323,
+        "end": 240.753,
+        "text": " As I'm scared",
+        "avg_logprob": -0.700390625
+      },
+      {
+        "id": 7,
+        "start": 278.215,
+        "end": 307.966,
+        "text": " I love the storm who leaves no trace Like swords inside a dream Here's the path that led me to that place The yellow desert screen My shangri-la beneath the summer moon I will return again As the desert flows I endure",
+        "avg_logprob": -0.22249348585804304
+      },
+      {
+        "id": 8,
+        "start": 331.49,
+        "end": 346.964,
+        "text": " Oh, father of the four winds, fill my sails, cross the sea on your ear. With no provision but an open face, Lord, restrict some fear.",
+        "avg_logprob": -0.27678571769169397
+      },
+      {
+        "id": 9,
+        "start": 466.895,
+        "end": 492.224,
+        "text": " My baby, ooh, my baby, let me take you back Oh, come on, come on",
+        "avg_logprob": -0.41555058388482957
+      },
+      {
+        "id": 10,
+        "start": 501.792,
+        "end": 504.475,
+        "text": " Oh, yeah.",
+        "avg_logprob": -0.579296875
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "ww9484EM2OQ",
+    "uploader": "Led Zeppelin",
+    "audio_file": "corpus/01_music_videos_audio/audio/ww9484EM2OQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 16549776,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 25.769751,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:01:14Z"
+  },
+  "status": "success",
+  "error": null
+}

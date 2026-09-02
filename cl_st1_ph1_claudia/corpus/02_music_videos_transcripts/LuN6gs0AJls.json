@@ -1,0 +1,98 @@
+{
+  "corpus_id": "LuN6gs0AJls",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/LuN6gs0AJls.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/LuN6gs0AJls.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/LuN6gs0AJls.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Making love to you was never second best I saw the world rushing all around your face Never really knowing it was always mesh and lace I'll stop the world and melt with you You've seen the difference and it's getting better all the time There's nothing you and I won't do I'll stop the world and melt with you Dream of better lives, the kind which never hates Wrapped in a state of imaginary grace I made a pilgrimage to save this human's race Never comprehending the race I've long gone by I'll stop the world and melt with you You've seen the difference and it's getting better all the time I'll stop the world and melt with you I've seen some changes, but it's getting better all the time. Stop the world and melt with you You've seen the difference and it's getting better all the time There's nothing you and I won't do I'll stop the world and melt.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 19.876,
+        "end": 40.733,
+        "text": " Making love to you was never second best I saw the world rushing all around your face Never really knowing it was always mesh and lace I'll stop the world and melt with you",
+        "avg_logprob": -0.0970052048150036
+      },
+      {
+        "id": 2,
+        "start": 43.94,
+        "end": 73.859,
+        "text": " You've seen the difference and it's getting better all the time There's nothing you and I won't do I'll stop the world and melt with you Dream of better lives, the kind which never hates Wrapped in a state of imaginary grace",
+        "avg_logprob": -0.09160539244904238
+      },
+      {
+        "id": 3,
+        "start": 74.652,
+        "end": 98.767,
+        "text": " I made a pilgrimage to save this human's race Never comprehending the race I've long gone by I'll stop the world and melt with you You've seen the difference and it's getting better all the time",
+        "avg_logprob": -0.07294694594172545
+      },
+      {
+        "id": 4,
+        "start": 105.196,
+        "end": 108.031,
+        "text": " I'll stop the world and melt with you",
+        "avg_logprob": -0.12207030951976776
+      },
+      {
+        "id": 5,
+        "start": 135.892,
+        "end": 148.818,
+        "text": " I've seen some changes, but it's getting better all the time.",
+        "avg_logprob": -0.27319335378706455
+      },
+      {
+        "id": 6,
+        "start": 185.386,
+        "end": 200.354,
+        "text": " Stop the world and melt with you You've seen the difference and it's getting better all the time There's nothing you and I won't do",
+        "avg_logprob": -0.0848307284216086
+      },
+      {
+        "id": 7,
+        "start": 220.756,
+        "end": 224.215,
+        "text": " I'll stop the world and melt.",
+        "avg_logprob": -0.5034722222222222
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "LuN6gs0AJls",
+    "uploader": "4AD",
+    "audio_file": "corpus/01_music_videos_audio/audio/LuN6gs0AJls.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7287800,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.322706,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:09:01Z"
+  },
+  "status": "success",
+  "error": null
+}

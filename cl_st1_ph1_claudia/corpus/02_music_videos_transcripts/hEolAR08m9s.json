@@ -1,0 +1,91 @@
+{
+  "corpus_id": "hEolAR08m9s",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hEolAR08m9s.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hEolAR08m9s.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hEolAR08m9s.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun Darling, come and go with me Come home with me, pray beyond the sea I need you darling, so come go with me Come, come, come, come into my heart Darling, we will never part I need you darling, so come go with me Yes, I need you, yes, I really need you Please say you'll never leave me We'll say you'll never, yes, you really never You'll never give me a chance Don't come, come, come, come into my heart No, darling, we will never part I need you, darling, so come go with me Let's go. Yes, I need you, yes, I really need you Please say you never leave me Please say you never, yes, you really never You never give me heartache Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 11.489,
+        "end": 30.524,
+        "text": " Dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun dun",
+        "avg_logprob": -0.45647320293244864
+      },
+      {
+        "id": 2,
+        "start": 31.621,
+        "end": 58.317,
+        "text": " Darling, come and go with me Come home with me, pray beyond the sea I need you darling, so come go with me Come, come, come, come into my heart Darling, we will never part I need you darling, so come go with me",
+        "avg_logprob": -0.20504127358490565
+      },
+      {
+        "id": 3,
+        "start": 58.317,
+        "end": 86.515,
+        "text": " Yes, I need you, yes, I really need you Please say you'll never leave me We'll say you'll never, yes, you really never You'll never give me a chance Don't come, come, come, come into my heart No, darling, we will never part I need you, darling, so come go with me",
+        "avg_logprob": -0.1310267801795687
+      },
+      {
+        "id": 4,
+        "start": 99.593,
+        "end": 110.208,
+        "text": " Let's go.",
+        "avg_logprob": -0.64140625
+      },
+      {
+        "id": 5,
+        "start": 116.198,
+        "end": 131.352,
+        "text": " Yes, I need you, yes, I really need you Please say you never leave me Please say you never, yes, you really never You never give me heartache",
+        "avg_logprob": -0.1943080382687705
+      },
+      {
+        "id": 6,
+        "start": 131.352,
+        "end": 156.648,
+        "text": " Thank you.",
+        "avg_logprob": -0.7158202975988388
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "hEolAR08m9s",
+    "uploader": "Oldies Zone",
+    "audio_file": "corpus/01_music_videos_audio/audio/hEolAR08m9s.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5170140,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.349828,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:54:21Z"
+  },
+  "status": "success",
+  "error": null
+}

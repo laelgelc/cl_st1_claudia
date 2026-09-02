@@ -1,0 +1,70 @@
+{
+  "corpus_id": "wXhTHyIgQ_U",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wXhTHyIgQ_U.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/wXhTHyIgQ_U.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/wXhTHyIgQ_U.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Bye. Don't understand what I'm going through It's only me What you got to lose? Make up your mind Tell me what are you gonna do? It's only me So I don't take the blame Run away, but we're running in circles Run away, run away, run away",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 6.106,
+        "end": 7.034,
+        "text": " Bye.",
+        "avg_logprob": -1.1399739583333333
+      },
+      {
+        "id": 2,
+        "start": 167.313,
+        "end": 179.783,
+        "text": " Don't understand what I'm going through It's only me What you got to lose? Make up your mind Tell me what are you gonna do? It's only me",
+        "avg_logprob": -0.08426339541162764
+      },
+      {
+        "id": 3,
+        "start": 203.78,
+        "end": 215.052,
+        "text": " So I don't take the blame Run away, but we're running in circles Run away, run away, run away",
+        "avg_logprob": -0.13718749523162843
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "wXhTHyIgQ_U",
+    "uploader": "Post Malone",
+    "audio_file": "corpus/01_music_videos_audio/audio/wXhTHyIgQ_U.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7243962,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.418931,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:16:47Z"
+  },
+  "status": "success",
+  "error": null
+}

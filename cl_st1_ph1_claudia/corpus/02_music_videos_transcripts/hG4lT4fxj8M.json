@@ -1,0 +1,84 @@
+{
+  "corpus_id": "hG4lT4fxj8M",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hG4lT4fxj8M.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hG4lT4fxj8M.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hG4lT4fxj8M.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I've been watching you for some time Can't stop staring at those ocean eyes Burning cities and napalm skies Fifteen flares inside those ocean eyes I'm scared I'm never falling from quite this high Falling into your ocean eyes Those ocean eyes I've been walking through Friends with time He left her lonely With a diamond mine And those ocean eyes No fire You really know how to make me cry When you give me those ocean eyes I'm scared I've never fallen from by the side Those ocean eyes I'm scared I've never fallen quite this high Falling into your ocean eyes Those ocean eyes",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 13.312,
+        "end": 38.05,
+        "text": " I've been watching you for some time Can't stop staring at those ocean eyes Burning cities and napalm skies Fifteen flares inside those ocean eyes",
+        "avg_logprob": -0.05352783331181854
+      },
+      {
+        "id": 2,
+        "start": 55.567,
+        "end": 75.614,
+        "text": " I'm scared I'm never falling from quite this high Falling into your ocean eyes Those ocean eyes I've been walking through",
+        "avg_logprob": -0.17082331558832756
+      },
+      {
+        "id": 3,
+        "start": 89.603,
+        "end": 117.7,
+        "text": " Friends with time He left her lonely With a diamond mine And those ocean eyes No fire You really know how to make me cry When you give me those ocean eyes I'm scared",
+        "avg_logprob": -0.1835937508278423
+      },
+      {
+        "id": 4,
+        "start": 122.24,
+        "end": 124.315,
+        "text": " I've never fallen from by the side",
+        "avg_logprob": -0.6354166666666666
+      },
+      {
+        "id": 5,
+        "start": 171.97,
+        "end": 190.955,
+        "text": " Those ocean eyes I'm scared I've never fallen quite this high Falling into your ocean eyes Those ocean eyes",
+        "avg_logprob": -0.1729789454004039
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "hG4lT4fxj8M",
+    "uploader": "Billie Eilish",
+    "audio_file": "corpus/01_music_videos_audio/audio/hG4lT4fxj8M.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6421418,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.512474,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:07:26Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,105 @@
+{
+  "corpus_id": "PLhphe6dC60",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/PLhphe6dC60.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/PLhphe6dC60.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/PLhphe6dC60.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "We'll be right back. It's just a chance to say Get out right now It's the end of you and me It's too late now I can't wait for you to be gone Cause I know about her And I wonder how I brought all the lies You said that you would treat me right But you was just a waste of time And I'm the one who didn't know the truth How could you ever be so cold To go behind my back and call my friend Boy, you must have gone and bumped your head Because you left a number on your phone Right now, it's the end of you and me. It's too late and I can't wait for you to be gone. You to be gone. I wanted you right here with me, but I have no choice. You gotta leave because my heart is breaking with every word I'm saying. Oh, I gave up everything I had on something that Now it's the end of you and me. It's too late and I can't wait for you to be gone. Cause I know about her and I wonder how I want all of that. Said that you would treat me right, that you was just a waste of time. Right now, it's the end of you and me It's too late now I can't wait for you to be gone Cause I know about her And I wonder how I brought all the lies I said that you would treat me right It's just a waste of time Yeah, now Get with me It's too late, too late She said that you would treat me right. That you was just a waste of time.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 21.091,
+        "end": 34.473,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.6824776615415301
+      },
+      {
+        "id": 2,
+        "start": 45.29,
+        "end": 69.775,
+        "text": " It's just a chance to say Get out right now It's the end of you and me It's too late now I can't wait for you to be gone Cause I know about her And I wonder how I brought all the lies You said that you would treat me right But you was just a waste of time",
+        "avg_logprob": -0.10357666108757257
+      },
+      {
+        "id": 3,
+        "start": 74.365,
+        "end": 91.73,
+        "text": " And I'm the one who didn't know the truth How could you ever be so cold To go behind my back and call my friend Boy, you must have gone and bumped your head Because you left a number on your phone",
+        "avg_logprob": -0.10835598182419072
+      },
+      {
+        "id": 4,
+        "start": 104.318,
+        "end": 114.578,
+        "text": " Right now, it's the end of you and me. It's too late and I can't wait for you to be gone. You to be gone.",
+        "avg_logprob": -0.1317471590909091
+      },
+      {
+        "id": 5,
+        "start": 118.73,
+        "end": 140.87,
+        "text": " I wanted you right here with me, but I have no choice. You gotta leave because my heart is breaking with every word I'm saying. Oh, I gave up everything I had on something that",
+        "avg_logprob": -0.1486280487804878
+      },
+      {
+        "id": 6,
+        "start": 160.833,
+        "end": 179.598,
+        "text": " Now it's the end of you and me. It's too late and I can't wait for you to be gone. Cause I know about her and I wonder how I want all of that. Said that you would treat me right, that you was just a waste of time.",
+        "avg_logprob": -0.13220635133570638
+      },
+      {
+        "id": 7,
+        "start": 181.943,
+        "end": 210.8,
+        "text": " Right now, it's the end of you and me It's too late now I can't wait for you to be gone Cause I know about her And I wonder how I brought all the lies I said that you would treat me right It's just a waste of time Yeah, now Get with me It's too late, too late",
+        "avg_logprob": -0.14522058451000383
+      },
+      {
+        "id": 8,
+        "start": 219.102,
+        "end": 238.981,
+        "text": " She said that you would treat me right. That you was just a waste of time.",
+        "avg_logprob": -0.3519736967588726
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "PLhphe6dC60",
+    "uploader": "Blackground Records 2.0",
+    "audio_file": "corpus/01_music_videos_audio/audio/PLhphe6dC60.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7799010,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.233545,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:14:53Z"
+  },
+  "status": "success",
+  "error": null
+}

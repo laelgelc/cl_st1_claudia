@@ -1,0 +1,84 @@
+{
+  "corpus_id": "QD8dZGZtGkA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/QD8dZGZtGkA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/QD8dZGZtGkA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/QD8dZGZtGkA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Arrested on charges of unemployment, he was sitting in the witness stand. The judge's wife called up the district attorney. She said, free that brown-eyed man. If you want your job, you better free that brown-eyed man. Flying across the desert in a TWA, I saw a woman walk across the sand. She'd been walking 30 miles en route to Bombay to meet a brown-eyed handsome man. Her destination was a brown-eyed handsome man. Way back in history, 3,000 years, in fact, ever since the world began, there's been a whole lot of good women shedding tears over a brown-eyed handsome man. It's a lot of trouble with a brown-eyed handsome man. music music Beautiful daughter couldn't make up her mind between a doctor and a lawyer man. Her mother told her darling go out and find yourself a brown eyed handsome man just like your daddy he's a brown eyed handsome man. Marlo Venus was a beautiful lass she had the world in the palm of her hand. She lost both her arms in a wrestling match to beat a brown eyed handsome man. She fought and won herself a brown eyed handsome man. Two, three, the count with nobody on. He hit a high fly into the stand. Round the third he was headed for home. It was a brown eyed handsome man that won the game. It was a brown eyed handsome man.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 4.672,
+        "end": 19.707,
+        "text": " Arrested on charges of unemployment, he was sitting in the witness stand. The judge's wife called up the district attorney. She said, free that brown-eyed man. If you want your job, you better free that brown-eyed man.",
+        "avg_logprob": -0.059457631065295294
+      },
+      {
+        "id": 2,
+        "start": 19.707,
+        "end": 46.792,
+        "text": " Flying across the desert in a TWA, I saw a woman walk across the sand. She'd been walking 30 miles en route to Bombay to meet a brown-eyed handsome man. Her destination was a brown-eyed handsome man. Way back in history, 3,000 years, in fact, ever since the world began, there's been a whole lot of good women shedding tears over a brown-eyed handsome man. It's a lot of trouble with a brown-eyed handsome man.",
+        "avg_logprob": -0.07124071811685467
+      },
+      {
+        "id": 3,
+        "start": 51.466,
+        "end": 54.335,
+        "text": " music music",
+        "avg_logprob": -1.6223958333333333
+      },
+      {
+        "id": 4,
+        "start": 84.001,
+        "end": 102.125,
+        "text": " Beautiful daughter couldn't make up her mind between a doctor and a lawyer man. Her mother told her darling go out and find yourself a brown eyed handsome man just like your daddy he's a brown eyed handsome man. Marlo Venus was a beautiful lass she had the world in the palm of her hand.",
+        "avg_logprob": -0.06518554757349193
+      },
+      {
+        "id": 5,
+        "start": 102.125,
+        "end": 123.522,
+        "text": " She lost both her arms in a wrestling match to beat a brown eyed handsome man. She fought and won herself a brown eyed handsome man. Two, three, the count with nobody on. He hit a high fly into the stand. Round the third he was headed for home. It was a brown eyed handsome man that won the game. It was a brown eyed handsome man.",
+        "avg_logprob": -0.05854552542721784
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "QD8dZGZtGkA",
+    "uploader": "Let's Rock!",
+    "audio_file": "corpus/01_music_videos_audio/audio/QD8dZGZtGkA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4465740,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 23.979579,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:09Z"
+  },
+  "status": "success",
+  "error": null
+}

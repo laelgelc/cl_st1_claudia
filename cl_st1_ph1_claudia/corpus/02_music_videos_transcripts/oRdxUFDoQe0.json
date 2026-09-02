@@ -1,0 +1,70 @@
+{
+  "corpus_id": "oRdxUFDoQe0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oRdxUFDoQe0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/oRdxUFDoQe0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/oRdxUFDoQe0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Really clear, so beat it Doesn't matter who's broke or right. Just feel it. Just feel it. Just feel it. Just feel it. They're out to get you, better leave while you can. You wanna be a boy, you wanna be a man. You wanna stay alive, get to do what you can. So feel it. Just feel it. Yeah, they'll kick you if they beat you. They'll tell you it's a bad song to beat it. But you wanna be bad, just beat it. Beat it. Beat it. Beat it. No one wants to beat it. Beat it. Show them how to fuck it. Show them to shut the fuck up. It doesn't matter who's fucked up.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 68.813,
+        "end": 71.108,
+        "text": " Really clear, so beat it",
+        "avg_logprob": -0.6383928741727557
+      },
+      {
+        "id": 2,
+        "start": 97.94,
+        "end": 121.109,
+        "text": " Doesn't matter who's broke or right. Just feel it. Just feel it. Just feel it. Just feel it. They're out to get you, better leave while you can. You wanna be a boy, you wanna be a man. You wanna stay alive, get to do what you can. So feel it. Just feel it.",
+        "avg_logprob": -0.15492958292155198
+      },
+      {
+        "id": 3,
+        "start": 127.302,
+        "end": 148.919,
+        "text": " Yeah, they'll kick you if they beat you. They'll tell you it's a bad song to beat it. But you wanna be bad, just beat it. Beat it. Beat it. Beat it. No one wants to beat it. Beat it. Show them how to fuck it. Show them to shut the fuck up. It doesn't matter who's fucked up.",
+        "avg_logprob": -0.25500800288640535
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "oRdxUFDoQe0",
+    "uploader": "Michael Jackson",
+    "audio_file": "corpus/01_music_videos_audio/audio/oRdxUFDoQe0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9557040,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.056064,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:16:26Z"
+  },
+  "status": "success",
+  "error": null
+}

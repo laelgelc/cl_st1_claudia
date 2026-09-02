@@ -1,0 +1,91 @@
+{
+  "corpus_id": "zUtnwcv-quE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/zUtnwcv-quE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/zUtnwcv-quE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/zUtnwcv-quE.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "What it is? All nice and decent, slip of the curl. This is Mr. Captain Sugar Ray riding through. Put your arms around me, baby. Put your arms around me, baby. I just want to fly. Put your arms around me, baby. We'll find out I'm told My mother, she told me so We'll be right back. Put your arms around me, baby Put your arms around me, baby We'll be right back.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.858,
+        "end": 5.633,
+        "text": " What it is? All nice and decent, slip of the curl. This is Mr. Captain Sugar Ray riding through.",
+        "avg_logprob": -0.1892187452316284
+      },
+      {
+        "id": 2,
+        "start": 41.56,
+        "end": 60.933,
+        "text": " Put your arms around me, baby. Put your arms around me, baby. I just want to fly. Put your arms around me, baby.",
+        "avg_logprob": -0.25932459100600214
+      },
+      {
+        "id": 3,
+        "start": 87.072,
+        "end": 91.51,
+        "text": " We'll find out I'm told My mother, she told me so",
+        "avg_logprob": -0.18190103967984517
+      },
+      {
+        "id": 4,
+        "start": 131.521,
+        "end": 137.68,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.5775669642857143
+      },
+      {
+        "id": 5,
+        "start": 163.448,
+        "end": 178.602,
+        "text": " Put your arms around me, baby Put your arms around me, baby",
+        "avg_logprob": -0.3677083214124044
+      },
+      {
+        "id": 6,
+        "start": 236.078,
+        "end": 239.47,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.5474330357142857
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "zUtnwcv-quE",
+    "uploader": "Sugar Ray Videos",
+    "audio_file": "corpus/01_music_videos_audio/audio/zUtnwcv-quE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8084338,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.011442,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:05:51Z"
+  },
+  "status": "success",
+  "error": null
+}

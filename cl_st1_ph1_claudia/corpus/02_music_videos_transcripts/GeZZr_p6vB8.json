@@ -1,0 +1,91 @@
+{
+  "corpus_id": "GeZZr_p6vB8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/GeZZr_p6vB8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/GeZZr_p6vB8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/GeZZr_p6vB8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "So hot in here So hot in here Like, good gracious, ass is bodacious, uh, flirtatious, trying to show patience, I'm waiting for the right time to shoot my steez, you know, waiting for the right time to flash them keys, and uh, I'm believing, please believe in, uh, me and the rest of my heathens, checking, got it locked at the top of the four seasons, penthouse, rooftop, birds I'm feeding, no deceiving, nothing up my sleeping, no teasing, I need Exit 106 and parked it Ashtray, good day, time to spark it Gucci collar for dollar, got out and walked it I speak in cause baby I can't talk it Whoa, sweat next, hot up in this joint Vocal, tank top on at this point Yeah, we're the winners so baby you can't lose I got secrets, can't leave Cancun So take it off like you're home alone You know dancing in front of the mirror while you're on the phone Checking your reflection and telling your best friend Like girl, I think my butt getting big It's getting hot in here Oh, no, the roof! The roof, the roof is on fire! The roof! The roof! The roof is on fire! The roof is on fire! We don't need no water, let the mother burn! Burn! Burn, mother, burn! Burn! Stop basing, time wasting, I got a friend with a It's getting hot in here. Let it hang on It's getting hot in here So take off all your clothes I am getting so hot I wanna dance right Let it hang on Mix a little bit of ah, ah",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 7.405,
+        "end": 11.81,
+        "text": " So hot in here So hot in here",
+        "avg_logprob": -0.2645399305555556
+      },
+      {
+        "id": 2,
+        "start": 32.853,
+        "end": 55.195,
+        "text": " Like, good gracious, ass is bodacious, uh, flirtatious, trying to show patience, I'm waiting for the right time to shoot my steez, you know, waiting for the right time to flash them keys, and uh, I'm believing, please believe in, uh, me and the rest of my heathens, checking, got it locked at the top of the four seasons, penthouse, rooftop, birds I'm feeding, no deceiving, nothing up my sleeping, no teasing, I need",
+        "avg_logprob": -0.16825809978224612
+      },
+      {
+        "id": 3,
+        "start": 96.286,
+        "end": 124.687,
+        "text": " Exit 106 and parked it Ashtray, good day, time to spark it Gucci collar for dollar, got out and walked it I speak in cause baby I can't talk it Whoa, sweat next, hot up in this joint Vocal, tank top on at this point Yeah, we're the winners so baby you can't lose I got secrets, can't leave Cancun So take it off like you're home alone You know dancing in front of the mirror while you're on the phone Checking your reflection and telling your best friend Like girl, I think my butt getting big It's getting hot in here",
+        "avg_logprob": -0.17618109555695
+      },
+      {
+        "id": 4,
+        "start": 160.85,
+        "end": 182.686,
+        "text": " Oh, no, the roof! The roof, the roof is on fire! The roof! The roof! The roof is on fire! The roof is on fire! We don't need no water, let the mother burn! Burn! Burn, mother, burn! Burn! Stop basing, time wasting, I got a friend with a",
+        "avg_logprob": -0.28013393155166083
+      },
+      {
+        "id": 5,
+        "start": 184.93,
+        "end": 199.156,
+        "text": " It's getting hot in here.",
+        "avg_logprob": -0.4277343861758709
+      },
+      {
+        "id": 6,
+        "start": 214.023,
+        "end": 226.088,
+        "text": " Let it hang on It's getting hot in here So take off all your clothes I am getting so hot I wanna dance right Let it hang on Mix a little bit of ah, ah",
+        "avg_logprob": -0.23848683779176913
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "GeZZr_p6vB8",
+    "uploader": "Nelly",
+    "audio_file": "corpus/01_music_videos_audio/audio/GeZZr_p6vB8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7840622,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.958069,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:16:52Z"
+  },
+  "status": "success",
+  "error": null
+}

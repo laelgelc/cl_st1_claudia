@@ -1,0 +1,84 @@
+{
+  "corpus_id": "K6qj09OHvjw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/K6qj09OHvjw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/K6qj09OHvjw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/K6qj09OHvjw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "and discipline remains mercifully. Yes, and neither would you, Derek, this star nonsense. No, it isn't. I'm sure of it. ? ? ? guitar solo So, so you think you can tell Heaven from hell Blue skies from pain Can you tell a green field From a cold steel rail A smile from a veil Do you think you can tell Did they get you to trade Your heroes for ghosts I wish you were here We're just two lost souls swimming in a fishbowl Year after year Running over the same old ground And have we found the same old fears",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 5.701,
+        "end": 25.698,
+        "text": " and discipline remains mercifully. Yes, and neither would you, Derek, this star nonsense. No, it isn't. I'm sure of it.",
+        "avg_logprob": -0.2802734300494194
+      },
+      {
+        "id": 2,
+        "start": 49.981,
+        "end": 76.643,
+        "text": " ? ? ?",
+        "avg_logprob": -0.6596679836511612
+      },
+      {
+        "id": 3,
+        "start": 77.133,
+        "end": 103.998,
+        "text": " guitar solo So, so you think you can tell Heaven from hell",
+        "avg_logprob": -0.18889509035008295
+      },
+      {
+        "id": 4,
+        "start": 105.5,
+        "end": 133.124,
+        "text": " Blue skies from pain Can you tell a green field From a cold steel rail A smile from a veil Do you think you can tell Did they get you to trade Your heroes for ghosts",
+        "avg_logprob": -0.10990286920521711
+      },
+      {
+        "id": 5,
+        "start": 198.498,
+        "end": 220.688,
+        "text": " I wish you were here We're just two lost souls swimming in a fishbowl Year after year Running over the same old ground And have we found the same old fears",
+        "avg_logprob": -0.14475447024617877
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "K6qj09OHvjw",
+    "uploader": "Pink Floyd",
+    "audio_file": "corpus/01_music_videos_audio/audio/K6qj09OHvjw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10875190,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.95142,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:57:32Z"
+  },
+  "status": "success",
+  "error": null
+}

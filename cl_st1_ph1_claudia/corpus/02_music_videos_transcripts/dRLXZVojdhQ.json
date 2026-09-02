@@ -1,0 +1,112 @@
+{
+  "corpus_id": "dRLXZVojdhQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/dRLXZVojdhQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/dRLXZVojdhQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/dRLXZVojdhQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Nobody feels any pain Tonight as I stand inside the rain Everybody knows that baby's got new clothes But lately I see her ribbons and her bows Have fallen from her curls she takes just like a woman yes she does she makes love just like a woman yes she does and she aches just like a woman but she breaks just like a little Queen Mary, she's my friend Yes, I believe I'll go see her again Nobody has to guess that baby can't be blessed Till she finally sees that she's like all the rest With her fog, her amphetamine and her pearls She takes just like a woman Yes, she makes love just like a woman Yes, she does and she aches just like a woman But she breaks just like a little girl It was raining from the first And I was dying there first So I came in here And your long time curse hurts But what's worse is this pain in here I can't stay in here Just can't fit Yes, I believe it's time for us to quit When we meet again, introduced as friends Please don't let on that you knew me when I was hungry and it was your world Are you fake just like a woman? Yes you do, you make love just like a woman Yes you do, then you ache just like a woman But you break just like a little",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 14.24,
+        "end": 44.041,
+        "text": " Nobody feels any pain Tonight as I stand inside the rain Everybody knows that baby's got new clothes But lately I see her ribbons and her bows Have fallen from her curls",
+        "avg_logprob": -0.062332586305482045
+      },
+      {
+        "id": 2,
+        "start": 45.003,
+        "end": 67.278,
+        "text": " she takes just like a woman yes she does she makes love just like a woman yes she does and she aches just like a woman but she breaks just like a little",
+        "avg_logprob": -0.11752232313156127
+      },
+      {
+        "id": 3,
+        "start": 74.939,
+        "end": 86.009,
+        "text": " Queen Mary, she's my friend Yes, I believe I'll go see her again",
+        "avg_logprob": -0.1199001736111111
+      },
+      {
+        "id": 4,
+        "start": 88.051,
+        "end": 110.933,
+        "text": " Nobody has to guess that baby can't be blessed Till she finally sees that she's like all the rest With her fog, her amphetamine and her pearls She takes just like a woman",
+        "avg_logprob": -0.09905849320766254
+      },
+      {
+        "id": 5,
+        "start": 111.811,
+        "end": 130.019,
+        "text": " Yes, she makes love just like a woman Yes, she does and she aches just like a woman But she breaks just like a little girl",
+        "avg_logprob": -0.10338541766007742
+      },
+      {
+        "id": 6,
+        "start": 135.807,
+        "end": 160.343,
+        "text": " It was raining from the first And I was dying there first So I came in here And your long time curse hurts But what's worse is this pain in here I can't stay in here",
+        "avg_logprob": -0.11718750305664845
+      },
+      {
+        "id": 7,
+        "start": 165.507,
+        "end": 174.485,
+        "text": " Just can't fit Yes, I believe it's time for us to quit",
+        "avg_logprob": -0.15258789528161287
+      },
+      {
+        "id": 8,
+        "start": 176.78,
+        "end": 205.18,
+        "text": " When we meet again, introduced as friends Please don't let on that you knew me when I was hungry and it was your world Are you fake just like a woman? Yes you do, you make love just like a woman",
+        "avg_logprob": -0.09697689958240675
+      },
+      {
+        "id": 9,
+        "start": 206.125,
+        "end": 216.47,
+        "text": " Yes you do, then you ache just like a woman But you break just like a little",
+        "avg_logprob": -0.1879111873476129
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "dRLXZVojdhQ",
+    "uploader": "Bob Dylan",
+    "audio_file": "corpus/01_music_videos_audio/audio/dRLXZVojdhQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9346018,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.742404,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:59:29Z"
+  },
+  "status": "success",
+  "error": null
+}

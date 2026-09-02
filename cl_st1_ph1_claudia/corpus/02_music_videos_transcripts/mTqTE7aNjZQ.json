@@ -1,0 +1,105 @@
+{
+  "corpus_id": "mTqTE7aNjZQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/mTqTE7aNjZQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/mTqTE7aNjZQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/mTqTE7aNjZQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Ladies and gentlemen, here's a great new group that's probably sold more hit records in the last year than we have. And also... You could say that about just about any group. Here's one of the many groups that have sold a lot more records than we have. Ladies and gentlemen, Looking Glass. Thank you. on a western bay and it serves a hundred ships a day though the sailors pass the time away talking about their homes there's a girl In this harbor town that she works In whiskey down to see Brandy Fetch a leather round She serves them whiskey and wine The sailor said, Brandy You're a fine, you're a fine, you're a fine You would be such a fine lass It's dear to save From the sea doesn't really change a locket bears the name of the man that branded love. He came on a summer's day bringing gifts. He followed the way, but he made it clear he couldn't stay. No harbor was his home. The sailor said, Brandy, you're a fine girl. We'd be such a fine pair But life, my lover, my lady Is a sailor Yeah, Brandon used to watch his eyes When he told his sailor's story She could feel the ocean falling right She saw his raging glory But he had always told her Brandy does her best to understand At night, when the bars close down Brandy walks through a silent town Loves a man who's not around She still can hear him say She hears him say, Brandy, you're mine But my life, my lover, my lady Is the same as any other friend",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.976,
+        "end": 20.635,
+        "text": " Ladies and gentlemen, here's a great new group that's probably sold more hit records in the last year than we have. And also... You could say that about just about any group. Here's one of the many groups that have sold a lot more records than we have. Ladies and gentlemen, Looking Glass. Thank you.",
+        "avg_logprob": -0.08249766813285316
+      },
+      {
+        "id": 2,
+        "start": 38.033,
+        "end": 54.402,
+        "text": " on a western bay and it serves a hundred ships a day though the sailors pass the time away talking about their homes there's a girl",
+        "avg_logprob": -0.23451450520328113
+      },
+      {
+        "id": 3,
+        "start": 54.402,
+        "end": 81.672,
+        "text": " In this harbor town that she works In whiskey down to see Brandy Fetch a leather round She serves them whiskey and wine The sailor said, Brandy You're a fine, you're a fine, you're a fine You would be such a fine lass It's dear to save From the sea",
+        "avg_logprob": -0.3823084701453486
+      },
+      {
+        "id": 4,
+        "start": 85.233,
+        "end": 92.54,
+        "text": " doesn't really change a locket",
+        "avg_logprob": -0.6821288987994194
+      },
+      {
+        "id": 5,
+        "start": 93.451,
+        "end": 117.481,
+        "text": " bears the name of the man that branded love. He came on a summer's day bringing gifts. He followed the way, but he made it clear he couldn't stay. No harbor was his home. The sailor said, Brandy, you're a fine girl.",
+        "avg_logprob": -0.18777901439794473
+      },
+      {
+        "id": 6,
+        "start": 119.877,
+        "end": 148.177,
+        "text": " We'd be such a fine pair But life, my lover, my lady Is a sailor Yeah, Brandon used to watch his eyes When he told his sailor's story She could feel the ocean falling right She saw his raging glory But he had always told her",
+        "avg_logprob": -0.2527488492153309
+      },
+      {
+        "id": 7,
+        "start": 152.986,
+        "end": 178.366,
+        "text": " Brandy does her best to understand At night, when the bars close down Brandy walks through a silent town Loves a man who's not around She still can hear him say She hears him say, Brandy, you're mine",
+        "avg_logprob": -0.1321614608168602
+      },
+      {
+        "id": 8,
+        "start": 181.994,
+        "end": 192.271,
+        "text": " But my life, my lover, my lady Is the same as any other friend",
+        "avg_logprob": -0.5579044117647058
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "mTqTE7aNjZQ",
+    "uploader": "Elliot Lurie",
+    "audio_file": "corpus/01_music_videos_audio/audio/mTqTE7aNjZQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6673308,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.869789,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:22:03Z"
+  },
+  "status": "success",
+  "error": null
+}

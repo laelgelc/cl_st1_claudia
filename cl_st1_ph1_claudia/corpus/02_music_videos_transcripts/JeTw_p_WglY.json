@@ -1,0 +1,77 @@
+{
+  "corpus_id": "JeTw_p_WglY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/JeTw_p_WglY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/JeTw_p_WglY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/JeTw_p_WglY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": ". . They say religion won't control, but we didn't want it on the high road. They say, fly to Amsterdam, the people of West Wimbledon. We'll be sold a bit of paper. They meant to spend a lot of money. Worry about it later. Oh, someone's really smart. Oh, what do you do? God, I don't trust you. We'll be right back.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.381,
+        "end": 8.671,
+        "text": " . .",
+        "avg_logprob": -1.3854166666666667
+      },
+      {
+        "id": 2,
+        "start": 26.862,
+        "end": 39.198,
+        "text": " They say religion won't control, but we didn't want it on the high road. They say, fly to Amsterdam, the people of West Wimbledon.",
+        "avg_logprob": -0.3917410578046526
+      },
+      {
+        "id": 3,
+        "start": 94.16,
+        "end": 115.76,
+        "text": " We'll be sold a bit of paper. They meant to spend a lot of money. Worry about it later. Oh, someone's really smart. Oh, what do you do? God, I don't trust you.",
+        "avg_logprob": -0.3276263437372573
+      },
+      {
+        "id": 4,
+        "start": 129.884,
+        "end": 131.521,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.6568080527441842
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "JeTw_p_WglY",
+    "uploader": "The Clash",
+    "audio_file": "corpus/01_music_videos_audio/audio/JeTw_p_WglY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7055230,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.098462,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:26Z"
+  },
+  "status": "success",
+  "error": null
+}

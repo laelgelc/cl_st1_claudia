@@ -1,0 +1,84 @@
+{
+  "corpus_id": "G91HxSde9FA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/G91HxSde9FA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/G91HxSde9FA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/G91HxSde9FA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "My Sherry, you're more have faith or sometimes on a crowded street I've been near you but you never noticed me my share of your love won't you tell me how could you ignore that behind that mirror I wish that you would. You'll see my face among the crowd Maybe someday I'll share your little distant place meets more, I wish that you were mine. La, la, la, la, la, la. La, la, la, la, la, la. La, la, la, la.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 32.482,
+        "end": 35.333,
+        "text": " My Sherry, you're more",
+        "avg_logprob": -0.7871093973517418
+      },
+      {
+        "id": 2,
+        "start": 62.823,
+        "end": 90.548,
+        "text": " have faith or sometimes on a crowded street I've been near you but you never noticed me my share of your love won't you tell me how could you ignore that behind that mirror",
+        "avg_logprob": -0.23416384974041501
+      },
+      {
+        "id": 3,
+        "start": 93.637,
+        "end": 95.223,
+        "text": " I wish that you would.",
+        "avg_logprob": -0.30273436648505075
+      },
+      {
+        "id": 4,
+        "start": 121.244,
+        "end": 134.423,
+        "text": " You'll see my face among the crowd Maybe someday I'll share your little distant place",
+        "avg_logprob": -0.1768663227558136
+      },
+      {
+        "id": 5,
+        "start": 149.662,
+        "end": 169.675,
+        "text": " meets more, I wish that you were mine. La, la, la, la, la, la. La, la, la, la, la, la. La, la, la, la.",
+        "avg_logprob": -0.20639534745105478
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "G91HxSde9FA",
+    "uploader": "Pegazusmart",
+    "audio_file": "corpus/01_music_videos_audio/audio/G91HxSde9FA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5809896,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.862989,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:10:23Z"
+  },
+  "status": "success",
+  "error": null
+}

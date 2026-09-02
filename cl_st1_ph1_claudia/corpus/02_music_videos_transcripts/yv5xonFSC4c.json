@@ -1,0 +1,105 @@
+{
+  "corpus_id": "yv5xonFSC4c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yv5xonFSC4c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/yv5xonFSC4c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/yv5xonFSC4c.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Old pirates, yes they rob I Sold I to the merchant ships Minutes after they took I From the bottomless pit But my hand was made strong By the hand of the Almighty Weave forward in this generation Triumphantly, won't you help to sing These songs of freedom, cause all I ever have Redemption songs, redemption songs Emancipate yourselves from mental slavery None but ourselves can free our minds Have no fear for atomic energy Cause none of them can stop the time How long shall they kill our prophets While we stand aside and look Some say it's just a part of it We've got to fulfill the book Won't you help to sing These songs of freedom, cause all I ever have Redemption songs, redemption songs, redemption songs Don't emancipate yourselves from mental slavery, none but ourselves can free our mind. Have no fear for atomic energy, cause none of them can stop the time. How long shall they kill our prophets While we stand aside and look Yes, some say it's just a part of it We've got to fulfill the book Won't you help to sing These songs of freedom Is all I ever had Redemption songs, all I ever had Redemption songs, these songs of freedom, songs of freedom",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 17.834,
+        "end": 47.72,
+        "text": " Old pirates, yes they rob I Sold I to the merchant ships Minutes after they took I From the bottomless pit But my hand was made strong By the hand of the Almighty Weave forward in this generation",
+        "avg_logprob": -0.14852833678556043
+      },
+      {
+        "id": 2,
+        "start": 48.8,
+        "end": 72.34,
+        "text": " Triumphantly, won't you help to sing These songs of freedom, cause all I ever have Redemption songs, redemption songs",
+        "avg_logprob": -0.11067708222954362
+      },
+      {
+        "id": 3,
+        "start": 74.517,
+        "end": 82.111,
+        "text": " Emancipate yourselves from mental slavery None but ourselves can free our minds",
+        "avg_logprob": -0.10711669921875
+      },
+      {
+        "id": 4,
+        "start": 82.769,
+        "end": 110.663,
+        "text": " Have no fear for atomic energy Cause none of them can stop the time How long shall they kill our prophets While we stand aside and look Some say it's just a part of it We've got to fulfill the book Won't you help to sing",
+        "avg_logprob": -0.10140624910593032
+      },
+      {
+        "id": 5,
+        "start": 112.925,
+        "end": 131.032,
+        "text": " These songs of freedom, cause all I ever have Redemption songs, redemption songs, redemption songs",
+        "avg_logprob": -0.2333984389901161
+      },
+      {
+        "id": 6,
+        "start": 150.438,
+        "end": 166.739,
+        "text": " Don't emancipate yourselves from mental slavery, none but ourselves can free our mind. Have no fear for atomic energy, cause none of them can stop the time.",
+        "avg_logprob": -0.12209821854318892
+      },
+      {
+        "id": 7,
+        "start": 166.739,
+        "end": 193.874,
+        "text": " How long shall they kill our prophets While we stand aside and look Yes, some say it's just a part of it We've got to fulfill the book Won't you help to sing These songs of freedom Is all I ever had",
+        "avg_logprob": -0.13198138614918323
+      },
+      {
+        "id": 8,
+        "start": 196.405,
+        "end": 214.478,
+        "text": " Redemption songs, all I ever had Redemption songs, these songs of freedom, songs of freedom",
+        "avg_logprob": -0.15011160146622432
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "yv5xonFSC4c",
+    "uploader": "Bob Marley",
+    "audio_file": "corpus/01_music_videos_audio/audio/yv5xonFSC4c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7543406,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.026396,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:02:56Z"
+  },
+  "status": "success",
+  "error": null
+}

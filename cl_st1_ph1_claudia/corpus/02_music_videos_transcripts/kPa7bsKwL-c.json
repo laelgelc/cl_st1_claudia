@@ -1,0 +1,98 @@
+{
+  "corpus_id": "kPa7bsKwL-c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/kPa7bsKwL-c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/kPa7bsKwL-c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/kPa7bsKwL-c.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I just woke up from a dream where you and I had to say goodbye. And I don't know what it all means. But since I survived, I realized wherever you go, that's where I'll follow. Nobody's promised tomorrow. And our time on earth was through I'd wanna hold you just for a while And die with a smile If the world was ending I'd wanna be next to you Lost in the words that we speak I don't even wanna do this anymore Cause you already know what you mean to me And our love's the only war we're fighting for Wherever you go, that's where I'll follow Nobody's promised tomorrow To you If the party was over and our time on earth was through I would hold you just for a while right next to you right next to you I'd wanna be next to you If the party was over and our time on earth was through I'd wanna hold you just for a while and die If the world was ending I'd wanna be next to you If the world was ending I'd wanna be next to you I'd wanna be next to you",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 11.455,
+        "end": 36.92,
+        "text": " I just woke up from a dream where you and I had to say goodbye. And I don't know what it all means. But since I survived, I realized wherever you go, that's where I'll follow. Nobody's promised tomorrow.",
+        "avg_logprob": -0.07589843690395355
+      },
+      {
+        "id": 2,
+        "start": 55.212,
+        "end": 78.787,
+        "text": " And our time on earth was through I'd wanna hold you just for a while And die with a smile If the world was ending I'd wanna be next to you",
+        "avg_logprob": -0.15130974659148386
+      },
+      {
+        "id": 3,
+        "start": 88.861,
+        "end": 114.646,
+        "text": " Lost in the words that we speak I don't even wanna do this anymore Cause you already know what you mean to me And our love's the only war we're fighting for Wherever you go, that's where I'll follow Nobody's promised tomorrow",
+        "avg_logprob": -0.12984374284744263
+      },
+      {
+        "id": 4,
+        "start": 127.235,
+        "end": 144.498,
+        "text": " To you If the party was over and our time on earth was through I would hold you just for a while",
+        "avg_logprob": -0.167119562625885
+      },
+      {
+        "id": 5,
+        "start": 158.369,
+        "end": 169.085,
+        "text": " right next to you right next to you",
+        "avg_logprob": -0.3036024305555556
+      },
+      {
+        "id": 6,
+        "start": 193.047,
+        "end": 214.715,
+        "text": " I'd wanna be next to you If the party was over and our time on earth was through I'd wanna hold you just for a while and die",
+        "avg_logprob": -0.22139616550937777
+      },
+      {
+        "id": 7,
+        "start": 218.495,
+        "end": 242.423,
+        "text": " If the world was ending I'd wanna be next to you If the world was ending I'd wanna be next to you I'd wanna be next to you",
+        "avg_logprob": -0.11425781180150807
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "kPa7bsKwL-c",
+    "uploader": "Lady Gaga",
+    "audio_file": "corpus/01_music_videos_audio/audio/kPa7bsKwL-c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8075422,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:52:43Z"
+  },
+  "status": "success",
+  "error": null
+}

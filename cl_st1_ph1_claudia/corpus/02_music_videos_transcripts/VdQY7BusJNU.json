@@ -1,0 +1,112 @@
+{
+  "corpus_id": "VdQY7BusJNU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/VdQY7BusJNU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/VdQY7BusJNU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/VdQY7BusJNU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I came to say goodbye. But why, Boris? Why? I've made up my mind. I'm going away. Then I should be alone. That journey into the desert you've spoken of, you will take it alone? What else can I do? Once you said to me that peace and happiness might be found there. You gave me hope. And now... Now we have to say goodbye. Goodbye. The clock tick and think of you Caught up in circles Confusion is nothing new Flashback, warm nights Almost left behind Suitcase of memories Time after sometimes Too far ahead You're calling to me I can't hear what you've said Then you say it goes wrong I fall behind The second hand unwinds Time after time, if you fall I will catch you, I'll be waiting Time after time, if you're lost you can look and you will find me Time after time, if you fall I will catch you, I'll be waiting Turn to cry Watching through windows You're wondering if I'm okay Secrets stolen From deep inside The drum beats out of time If you're lost you can look and you will find me Time after time Second hand unwind If you're lost you can look And you will find me Time after time If you fall I will catch you I'll be waiting Time after time If you're lost you can look And you will find me Time after time If you fall I will catch you I'll be waiting Time after time Time after time Time after time",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.702,
+        "end": 31.25,
+        "text": " I came to say goodbye. But why, Boris? Why? I've made up my mind. I'm going away. Then I should be alone. That journey into the desert you've spoken of, you will take it alone? What else can I do? Once you said to me that peace and happiness might be found there. You gave me hope.",
+        "avg_logprob": -0.060252570126154655
+      },
+      {
+        "id": 2,
+        "start": 31.773,
+        "end": 41.122,
+        "text": " And now... Now we have to say goodbye. Goodbye.",
+        "avg_logprob": -0.15369591346153846
+      },
+      {
+        "id": 3,
+        "start": 60.781,
+        "end": 86.684,
+        "text": " The clock tick and think of you Caught up in circles Confusion is nothing new Flashback, warm nights Almost left behind Suitcase of memories Time after sometimes",
+        "avg_logprob": -0.1807528409090909
+      },
+      {
+        "id": 4,
+        "start": 89.789,
+        "end": 110.242,
+        "text": " Too far ahead You're calling to me I can't hear what you've said Then you say it goes wrong I fall behind The second hand unwinds",
+        "avg_logprob": -0.16711425362154841
+      },
+      {
+        "id": 5,
+        "start": 116.03,
+        "end": 136.128,
+        "text": " Time after time, if you fall I will catch you, I'll be waiting Time after time, if you're lost you can look and you will find me Time after time, if you fall I will catch you, I'll be waiting",
+        "avg_logprob": -0.06979432641243448
+      },
+      {
+        "id": 6,
+        "start": 160.225,
+        "end": 187.192,
+        "text": " Turn to cry Watching through windows You're wondering if I'm okay Secrets stolen From deep inside The drum beats out of time If you're lost you can look and you will find me Time after time",
+        "avg_logprob": -0.16730183508337998
+      },
+      {
+        "id": 7,
+        "start": 225.65,
+        "end": 254.0,
+        "text": " Second hand unwind If you're lost you can look And you will find me Time after time If you fall I will catch you I'll be waiting Time after time If you're lost you can look And you will find me Time after time If you fall I will catch you I'll be waiting",
+        "avg_logprob": -0.0787109383692344
+      },
+      {
+        "id": 8,
+        "start": 254.995,
+        "end": 280.038,
+        "text": " Time after time",
+        "avg_logprob": -0.2836914137005806
+      },
+      {
+        "id": 9,
+        "start": 280.527,
+        "end": 287.497,
+        "text": " Time after time Time after time",
+        "avg_logprob": -0.17424665604318892
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "VdQY7BusJNU",
+    "uploader": "Cyndi Lauper",
+    "audio_file": "corpus/01_music_videos_audio/audio/VdQY7BusJNU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9505028,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.701535,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:19:26Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,70 @@
+{
+  "corpus_id": "HzZ_urpj4As",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/HzZ_urpj4As.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/HzZ_urpj4As.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/HzZ_urpj4As.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Women, you don't have that kind of knowledge. You understand? Look at that, look. Now that is a box. You can do that with others. You can do that with others. Look at Junior. What is Junior doing? I thought I told him to go home. What is he doing? Look at that. She's going to pass him up. Back up. Look at Junior. Look at Junior. You knock me off of my feet now, baby. I can't see.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 17.446,
+        "text": " Women, you don't have that kind of knowledge. You understand? Look at that, look. Now that is a box. You can do that with others. You can do that with others. Look at Junior. What is Junior doing? I thought I told him to go home. What is he doing? Look at that. She's going to pass him up. Back up. Look at Junior. Look at Junior.",
+        "avg_logprob": -0.20132901956295146
+      },
+      {
+        "id": 2,
+        "start": 63.295,
+        "end": 66.839,
+        "text": " You knock me off of my feet now, baby.",
+        "avg_logprob": -0.2892252629001935
+      },
+      {
+        "id": 3,
+        "start": 306.532,
+        "end": 308.894,
+        "text": " I can't see.",
+        "avg_logprob": -0.7278646032015482
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "HzZ_urpj4As",
+    "uploader": "Michael Jackson",
+    "audio_file": "corpus/01_music_videos_audio/audio/HzZ_urpj4As.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 12919290,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 33.97071,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:55:38Z"
+  },
+  "status": "success",
+  "error": null
+}

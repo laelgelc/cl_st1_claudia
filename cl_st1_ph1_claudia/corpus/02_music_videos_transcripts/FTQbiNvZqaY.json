@@ -1,0 +1,98 @@
+{
+  "corpus_id": "FTQbiNvZqaY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/FTQbiNvZqaY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/FTQbiNvZqaY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/FTQbiNvZqaY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I hear the drums echoing tonight And she hears only whispers of some quiet conversation She's coming in 12.30 flight The moonlit wings reflect the stars that guide me toward salvation I stopped an old man along the way hoping to find some old forgotten words or ancient melodies. He turned to me as if to say, Hurry boy, it's waiting there for you. Gonna take a lot to drag me away from you. There's nothing that a hundred men or more could ever do. I can surrender To the things we never had The wild dogs cry out in the night As they grow restless longing for some solitary comfort I know that I must do what's right Sure as Kilimanjaro rises Like Olympus above the Serengeti I seek to cure what's deep inside Frightened of this thing that I've become That a hundred men or more could ever do Hurry boys, she's waiting We do the things we never had",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 24.5,
+        "end": 50.673,
+        "text": " I hear the drums echoing tonight And she hears only whispers of some quiet conversation She's coming in 12.30 flight The moonlit wings reflect the stars that guide me toward salvation I stopped an old man along the way",
+        "avg_logprob": -0.10275136031534361
+      },
+      {
+        "id": 2,
+        "start": 51.415,
+        "end": 81.082,
+        "text": " hoping to find some old forgotten words or ancient melodies. He turned to me as if to say, Hurry boy, it's waiting there for you. Gonna take a lot to drag me away from you. There's nothing that a hundred men or more could ever do. I can surrender",
+        "avg_logprob": -0.14951508697764626
+      },
+      {
+        "id": 3,
+        "start": 86.887,
+        "end": 111.642,
+        "text": " To the things we never had The wild dogs cry out in the night As they grow restless longing for some solitary comfort",
+        "avg_logprob": -0.1749674535046021
+      },
+      {
+        "id": 4,
+        "start": 115.102,
+        "end": 133.208,
+        "text": " I know that I must do what's right Sure as Kilimanjaro rises Like Olympus above the Serengeti I seek to cure what's deep inside Frightened of this thing that I've become",
+        "avg_logprob": -0.07306462729519064
+      },
+      {
+        "id": 5,
+        "start": 142.76,
+        "end": 146.607,
+        "text": " That a hundred men or more could ever do",
+        "avg_logprob": -0.10507812649011612
+      },
+      {
+        "id": 6,
+        "start": 185.892,
+        "end": 187.597,
+        "text": " Hurry boys, she's waiting",
+        "avg_logprob": -0.45703125
+      },
+      {
+        "id": 7,
+        "start": 230.105,
+        "end": 232.535,
+        "text": " We do the things we never had",
+        "avg_logprob": -0.5800781026482582
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "FTQbiNvZqaY",
+    "uploader": "TOTO",
+    "audio_file": "corpus/01_music_videos_audio/audio/FTQbiNvZqaY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8685456,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.176937,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:19:47Z"
+  },
+  "status": "success",
+  "error": null
+}

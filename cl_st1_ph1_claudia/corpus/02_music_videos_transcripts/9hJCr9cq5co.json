@@ -1,0 +1,70 @@
+{
+  "corpus_id": "9hJCr9cq5co",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/9hJCr9cq5co.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/9hJCr9cq5co.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/9hJCr9cq5co.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "We've only just begun to live. White lace and promises. A kiss for luck and we're on our way. We've only begun. Horizon sun, we fly. We start out walking in love. Together And when the evening comes We smile So much of life and it We'll find a place where there's room to grow And yes, we've just begun",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 14.223,
+        "end": 41.982,
+        "text": " We've only just begun to live. White lace and promises. A kiss for luck and we're on our way. We've only begun. Horizon sun, we fly.",
+        "avg_logprob": -0.08452691034310394
+      },
+      {
+        "id": 2,
+        "start": 49.087,
+        "end": 52.681,
+        "text": " We start out walking in love.",
+        "avg_logprob": -0.4716796875
+      },
+      {
+        "id": 3,
+        "start": 88.017,
+        "end": 114.359,
+        "text": " Together And when the evening comes We smile So much of life and it We'll find a place where there's room to grow And yes, we've just begun",
+        "avg_logprob": -0.14985795454545456
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "9hJCr9cq5co",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/9hJCr9cq5co.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5655344,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.458434,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:53:33Z"
+  },
+  "status": "success",
+  "error": null
+}

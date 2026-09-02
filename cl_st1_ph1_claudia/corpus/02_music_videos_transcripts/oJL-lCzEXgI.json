@@ -1,0 +1,91 @@
+{
+  "corpus_id": "oJL-lCzEXgI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oJL-lCzEXgI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/oJL-lCzEXgI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/oJL-lCzEXgI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Back in the city, night is a wire Seen in the subway, up is the fire Woman, you want me, give me a sign And catch my breathing even closer behind I'm on the hunt, I'm after you Smell like a sound, I'm lost in a crowd And I'm hungry like the wolf Straddle the line, in discord and rhyme I'm on the hunt, I'm after you Mouth is alive, juice is like wine And I'm hungry like the wolf High blood drumming on your skin, it's so tight You feel my heat, I'm just a the ground, I'm on the hunt, I'm after you, I'm sent to the sound, I'm lost and I'm found, and I'm hungry like the wolf, it's hard on the mind, it's just gonna rhyme, I howl and I whine, I'm after you, mouth is alive, I'm running inside, and I'm hungry I'm on the hunt, I'm after you I smell like a sound, I'm lost and abound And I'm hungry like the wolf It's tight on the line, it's discordant rhyme I'm on the hunt, I'm after you Mouth is alive, juice is like wine Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 12.113,
+        "end": 34.456,
+        "text": " Back in the city, night is a wire Seen in the subway, up is the fire Woman, you want me, give me a sign And catch my breathing even closer behind",
+        "avg_logprob": -0.20249155727592674
+      },
+      {
+        "id": 2,
+        "start": 43.383,
+        "end": 68.881,
+        "text": " I'm on the hunt, I'm after you Smell like a sound, I'm lost in a crowd And I'm hungry like the wolf Straddle the line, in discord and rhyme I'm on the hunt, I'm after you Mouth is alive, juice is like wine And I'm hungry like the wolf",
+        "avg_logprob": -0.1214488646523519
+      },
+      {
+        "id": 3,
+        "start": 78.702,
+        "end": 96.792,
+        "text": " High blood drumming on your skin, it's so tight You feel my heat, I'm just a",
+        "avg_logprob": -0.253906248645349
+      },
+      {
+        "id": 4,
+        "start": 107.677,
+        "end": 133.242,
+        "text": " the ground, I'm on the hunt, I'm after you, I'm sent to the sound, I'm lost and I'm found, and I'm hungry like the wolf, it's hard on the mind, it's just gonna rhyme, I howl and I whine, I'm after you, mouth is alive, I'm running inside, and I'm hungry",
+        "avg_logprob": -0.16984577844669294
+      },
+      {
+        "id": 5,
+        "start": 169.405,
+        "end": 191.866,
+        "text": " I'm on the hunt, I'm after you I smell like a sound, I'm lost and abound And I'm hungry like the wolf It's tight on the line, it's discordant rhyme I'm on the hunt, I'm after you Mouth is alive, juice is like wine",
+        "avg_logprob": -0.1185963119639725
+      },
+      {
+        "id": 6,
+        "start": 202.598,
+        "end": 205.973,
+        "text": " Thank you.",
+        "avg_logprob": -0.580078125
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "oJL-lCzEXgI",
+    "uploader": "Duran Duran",
+    "audio_file": "corpus/01_music_videos_audio/audio/oJL-lCzEXgI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7116158,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.698023,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:16:50Z"
+  },
+  "status": "success",
+  "error": null
+}

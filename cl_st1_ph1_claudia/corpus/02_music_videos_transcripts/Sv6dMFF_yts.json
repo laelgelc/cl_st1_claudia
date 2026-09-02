@@ -1,0 +1,91 @@
+{
+  "corpus_id": "Sv6dMFF_yts",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Sv6dMFF_yts.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Sv6dMFF_yts.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Sv6dMFF_yts.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Give me a second. I need to get my story straight. My friends are in the bathroom getting higher than the Empire State. My lover, she's waiting for me just across the bar. My seat's been taken by some sunglasses asking about a scar. And I know I gave it to you months ago. I know you're trying to forget. But between the drinks and subtle things The holes are my apologies, you know I'm trying hard to take it back So if by the time the bar closes And you feel like falling down I'll carry you home Tonight We are young So let's set the world on fire Friends are bad, so let's raise it up Cause I found someone to carry me home Just carry me far into the light Just carry me far into the light Just carry me far into the light So come on, come and carry me home Tonight, we are young So let's set the world on fire So if by the time the bar closes and you feel like falling down I'll carry you home tonight",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 8.57,
+        "end": 32.043,
+        "text": " Give me a second. I need to get my story straight. My friends are in the bathroom getting higher than the Empire State. My lover, she's waiting for me just across the bar. My seat's been taken by some sunglasses asking about a scar. And I know I gave it to you months ago. I know you're trying to forget.",
+        "avg_logprob": -0.0764431402915054
+      },
+      {
+        "id": 2,
+        "start": 32.701,
+        "end": 60.933,
+        "text": " But between the drinks and subtle things The holes are my apologies, you know I'm trying hard to take it back So if by the time the bar closes And you feel like falling down I'll carry you home Tonight We are young So let's set the world on fire",
+        "avg_logprob": -0.0741477297110991
+      },
+      {
+        "id": 3,
+        "start": 102.412,
+        "end": 111.102,
+        "text": " Friends are bad, so let's raise it up Cause I found someone to carry me home",
+        "avg_logprob": -0.3404605263157895
+      },
+      {
+        "id": 4,
+        "start": 153.003,
+        "end": 171.92,
+        "text": " Just carry me far into the light Just carry me far into the light Just carry me far into the light",
+        "avg_logprob": -0.44992896779017016
+      },
+      {
+        "id": 5,
+        "start": 189.655,
+        "end": 206.108,
+        "text": " So come on, come and carry me home Tonight, we are young So let's set the world on fire",
+        "avg_logprob": -0.10776155215242635
+      },
+      {
+        "id": 6,
+        "start": 234.982,
+        "end": 246.271,
+        "text": " So if by the time the bar closes and you feel like falling down I'll carry you home tonight",
+        "avg_logprob": -0.07496279619988941
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Sv6dMFF_yts",
+    "uploader": "Fueled By Ramen",
+    "audio_file": "corpus/01_music_videos_audio/audio/Sv6dMFF_yts.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8073936,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.195507,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:14:16Z"
+  },
+  "status": "success",
+  "error": null
+}

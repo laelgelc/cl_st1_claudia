@@ -1,0 +1,98 @@
+{
+  "corpus_id": "AqPBfbLoF_M",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/AqPBfbLoF_M.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/AqPBfbLoF_M.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/AqPBfbLoF_M.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "For so long And if you feel Like I feel, baby Then come on Oh, come on Let's get it on Ah, baby Let's get it on Let's love, baby Let's get it on We've so much to give, understand each other Since we got to be here, let's live, I love you There's nothing wrong with me loving you, baby no no Yourself to me can never be wrong If the love is true or fake Don't you know how sweet and wonderful life can be Get it on with me I ain't gonna wear it I ain't gonna push I won't push you, baby So come on, come on, come on, come on, come on, baby Stop being around this fool What I'm talking about Come on, baby Hey, hey Let your love come out If you believe You know what I've been dreamin' of Don't you, baby? My whole body is feelin' alive I ain't gonna wait No, I ain't gonna push I won't push you, baby Threatening you, baby, I want to get it on You don't have to worry that it's wrong If the spirit moves you, let me groove Good, let your love come down Oh, get it on, come on, baby Do you know what I mean? I've been searching for you",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 10.949,
+        "end": 37.173,
+        "text": " For so long And if you feel Like I feel, baby Then come on Oh, come on Let's get it on Ah, baby Let's get it on Let's love, baby Let's get it on",
+        "avg_logprob": -0.12763444836749588
+      },
+      {
+        "id": 2,
+        "start": 52.934,
+        "end": 80.17,
+        "text": " We've so much to give, understand each other Since we got to be here, let's live, I love you There's nothing wrong with me loving you, baby no no",
+        "avg_logprob": -0.2212837805619111
+      },
+      {
+        "id": 3,
+        "start": 83.461,
+        "end": 102.158,
+        "text": " Yourself to me can never be wrong If the love is true or fake Don't you know how sweet and wonderful life can be",
+        "avg_logprob": -0.2828414307700263
+      },
+      {
+        "id": 4,
+        "start": 110.478,
+        "end": 135.25,
+        "text": " Get it on with me I ain't gonna wear it I ain't gonna push I won't push you, baby So come on, come on, come on, come on, come on, baby Stop being around this fool",
+        "avg_logprob": -0.2746263664701711
+      },
+      {
+        "id": 5,
+        "start": 147.451,
+        "end": 160.799,
+        "text": " What I'm talking about Come on, baby Hey, hey Let your love come out If you believe",
+        "avg_logprob": -0.17168899377187094
+      },
+      {
+        "id": 6,
+        "start": 188.491,
+        "end": 217.786,
+        "text": " You know what I've been dreamin' of Don't you, baby? My whole body is feelin' alive I ain't gonna wait No, I ain't gonna push I won't push you, baby",
+        "avg_logprob": -0.2924360842867331
+      },
+      {
+        "id": 7,
+        "start": 233.075,
+        "end": 259.501,
+        "text": " Threatening you, baby, I want to get it on You don't have to worry that it's wrong If the spirit moves you, let me groove Good, let your love come down Oh, get it on, come on, baby Do you know what I mean? I've been searching for you",
+        "avg_logprob": -0.20250495416777475
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "AqPBfbLoF_M",
+    "uploader": "Marvin Gaye",
+    "audio_file": "corpus/01_music_videos_audio/audio/AqPBfbLoF_M.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9406204,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.110142,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:00:45Z"
+  },
+  "status": "success",
+  "error": null
+}

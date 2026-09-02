@@ -1,0 +1,154 @@
+{
+  "corpus_id": "gYMkEMCHtJ4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/gYMkEMCHtJ4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/gYMkEMCHtJ4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/gYMkEMCHtJ4.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "it's like a jungle sometimes it makes me wonder how i keep from going under it's like a jungle sometimes it makes me wonder how i keep from going under Broken glass everywhere, people pissin' on the stage, you know they just don't care. I can't take the smell, can't take the noise, got no money to move out, I guess I got no choice. Rats in the front room, roadies in the back, junkies in the alley with a baseball bat. I tried to get away, but I couldn't get far, cause a man with a tow truck repossessed my car. Don't push me, cause I'm close to the edge. I'm trying not to lose my head. Ha ha ha. It's like a jungle sometimes, it makes me wonder how I keep from going under. Standing on the front stoop, hanging out the window, watching all the cars go by, roaring as the buses blow. Crazy lady, living in a bag, eating out of garbage pails, used to be a fag hag, such a dastard tangle, skipped a life in dangle, was hooked on print, just seemed to lost her senses. Down at the peep show, watching all the creeps, so she could tell her stories to the girls back home. She went to the city and got so social, did it? She had to get a picture, couldn't make it on her own. Don't push me. Cause I'm close to the edge, I'm trying not to lose my head It's like a jungle sometimes, it makes me wonder how I keep from going under It's like a jungle sometimes, it makes me wonder how I keep from going under My brother's doing fast on my mother's TV. Says she watches too much, it's just not healthy. All my children in the daytime, Dallas at night. Can't even see the game or the Sugar Ray fight. The bill collectors, they ring my phone and scare my wife when I'm not home. Got a bum education, double digit inflation. Can't take the train to the job, there's a strike at the station. Knee on King Kong, standing on my back, can't stop to turn around. Broke my sacroiliac, a mid-range migraine, cancer membrane. Sometimes I think I'm born insane, I swear I might hijack a plane. Don't push me. Cause I'm close to the edge I'm trying not to lose my head It's like a jungle sometimes It makes me wonder how I keep from going under It's like a jungle sometimes It makes me wonder how I keep from going under My son said, daddy, I don't want to go to school because the teacher's a jerk. He must think I'm a fool. And all the kids spoke reefer. I think it'd be cheaper if I just got a job, learned to be a street stripper. I danced to the beat, shut for my feet, wear a shirt and tie and run with the creeps because it's all about money. Ain't a damn thing funny. You got to have a con in this land of milk and honey. They pushed that girl in front of the train, took her to the doctor, sold her arm on the game. Stabbed that man right in his heart. Gave him a transplant for a brand new start. I can't walk through the park cause it's crazy after dark. Keep my hand on my gun cause they got me on the run. I feel like an outlaw. Broke my last pass jar. Hear them say, you want some more? Living on a seesaw. Don't push me cause I'm close to the edge. I'm trying not to lose my head. Say what? It's like a jungle sometimes. It makes me wonder how I keep from going under. It's like a jungle sometimes. It makes me wonder how I keep from going under. You play and where you stay looks like one great big alleyway. You'll admire all the number book takers, thugs, pimps, and pushers, and the big money makers. Driving big cars, spending 20s and 10s, and you want to grow up to be just like them. Smugglers, scramblers, burglars, gamblers, pickpocket peddlers, even panhandlers. You say, I'm cool. I'm no fool. But then you wind up dropping out of high school. Now you're unemployed, all non-void, walking around like your pretty boy Floyd turned stick up. But look what you done did Got sent up for an eight year bid Now your manhood is took and you're a Maytag Spend the next two years as an undercover fag Being used and abused to serve like hell Till one day you was found hung dead in a cell It was plain to see that your life was lost You was cold and your body swung back and forth But now your eyes sing the sad sad song Of how you lived so fast and died so young So don't push me cause I'm close to the edge I'm trying not to lose my head. It's like a jungle sometimes. It makes me wonder how I keep from going under. It's like a jungle sometimes. It makes me wonder how I keep from going under. Yo, Mel, you see that girl, man? Yo, that sound like cowboy. What's up, fool? Yo, what's up, money? Yo. Hey, where's Quill and Raheem at? So what's up for tonight, y'all? Yo, we can go down to the theater, man. Go check out Juba, man. Hey, yo, you know that girl Betty? Yeah, man. My mom got robbed, man. Not again. She got hurt. What just happened? What just happened? Get in the car. Get in the car. Get in the car.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 15,
+    "segments": [
+      {
+        "id": 1,
+        "start": 21.8,
+        "end": 32.92,
+        "text": " it's like a jungle sometimes it makes me wonder how i keep from going under it's like a jungle sometimes it makes me wonder how i keep from going under",
+        "avg_logprob": -0.08262310606060606
+      },
+      {
+        "id": 2,
+        "start": 43.535,
+        "end": 71.733,
+        "text": " Broken glass everywhere, people pissin' on the stage, you know they just don't care. I can't take the smell, can't take the noise, got no money to move out, I guess I got no choice. Rats in the front room, roadies in the back, junkies in the alley with a baseball bat. I tried to get away, but I couldn't get far, cause a man with a tow truck repossessed my car. Don't push me, cause I'm close to the edge. I'm trying not to lose my head. Ha ha ha.",
+        "avg_logprob": -0.07583841475529399
+      },
+      {
+        "id": 3,
+        "start": 71.733,
+        "end": 75.378,
+        "text": " It's like a jungle sometimes, it makes me wonder how I keep from going under.",
+        "avg_logprob": -0.13815789003121226
+      },
+      {
+        "id": 4,
+        "start": 76.559,
+        "end": 101.838,
+        "text": " Standing on the front stoop, hanging out the window, watching all the cars go by, roaring as the buses blow. Crazy lady, living in a bag, eating out of garbage pails, used to be a fag hag, such a dastard tangle, skipped a life in dangle, was hooked on print, just seemed to lost her senses. Down at the peep show, watching all the creeps, so she could tell her stories to the girls back home. She went to the city and got so social, did it? She had to get a picture, couldn't make it on her own. Don't push me.",
+        "avg_logprob": -0.1732742582906538
+      },
+      {
+        "id": 5,
+        "start": 101.838,
+        "end": 118.679,
+        "text": " Cause I'm close to the edge, I'm trying not to lose my head It's like a jungle sometimes, it makes me wonder how I keep from going under It's like a jungle sometimes, it makes me wonder how I keep from going under",
+        "avg_logprob": -0.06678921773153193
+      },
+      {
+        "id": 6,
+        "start": 119.438,
+        "end": 149.425,
+        "text": " My brother's doing fast on my mother's TV. Says she watches too much, it's just not healthy. All my children in the daytime, Dallas at night. Can't even see the game or the Sugar Ray fight. The bill collectors, they ring my phone and scare my wife when I'm not home. Got a bum education, double digit inflation. Can't take the train to the job, there's a strike at the station. Knee on King Kong, standing on my back, can't stop to turn around. Broke my sacroiliac, a mid-range migraine, cancer membrane. Sometimes I think I'm born insane, I swear I might hijack a plane. Don't push me.",
+        "avg_logprob": -0.051908555246839586
+      },
+      {
+        "id": 7,
+        "start": 149.425,
+        "end": 167.009,
+        "text": " Cause I'm close to the edge I'm trying not to lose my head It's like a jungle sometimes It makes me wonder how I keep from going under It's like a jungle sometimes It makes me wonder how I keep from going under",
+        "avg_logprob": -0.08911132890110214
+      },
+      {
+        "id": 8,
+        "start": 167.009,
+        "end": 191.056,
+        "text": " My son said, daddy, I don't want to go to school because the teacher's a jerk. He must think I'm a fool. And all the kids spoke reefer. I think it'd be cheaper if I just got a job, learned to be a street stripper. I danced to the beat, shut for my feet, wear a shirt and tie and run with the creeps because it's all about money. Ain't a damn thing funny. You got to have a con in this land of milk and honey. They pushed that girl in front of the train, took her to the doctor, sold her arm on the game.",
+        "avg_logprob": -0.0807291634493705
+      },
+      {
+        "id": 9,
+        "start": 191.056,
+        "end": 219.203,
+        "text": " Stabbed that man right in his heart. Gave him a transplant for a brand new start. I can't walk through the park cause it's crazy after dark. Keep my hand on my gun cause they got me on the run. I feel like an outlaw. Broke my last pass jar. Hear them say, you want some more? Living on a seesaw. Don't push me cause I'm close to the edge. I'm trying not to lose my head. Say what? It's like a jungle sometimes. It makes me wonder how I keep from going under.",
+        "avg_logprob": -0.06889204348414397
+      },
+      {
+        "id": 10,
+        "start": 220.03,
+        "end": 239.15,
+        "text": " It's like a jungle sometimes. It makes me wonder how I keep from going under.",
+        "avg_logprob": -0.28042763471603394
+      },
+      {
+        "id": 11,
+        "start": 239.15,
+        "end": 268.04,
+        "text": " You play and where you stay looks like one great big alleyway. You'll admire all the number book takers, thugs, pimps, and pushers, and the big money makers. Driving big cars, spending 20s and 10s, and you want to grow up to be just like them. Smugglers, scramblers, burglars, gamblers, pickpocket peddlers, even panhandlers. You say, I'm cool. I'm no fool. But then you wind up dropping out of high school. Now you're unemployed, all non-void, walking around like your pretty boy Floyd turned stick up.",
+        "avg_logprob": -0.08507582660326186
+      },
+      {
+        "id": 12,
+        "start": 268.04,
+        "end": 296.423,
+        "text": " But look what you done did Got sent up for an eight year bid Now your manhood is took and you're a Maytag Spend the next two years as an undercover fag Being used and abused to serve like hell Till one day you was found hung dead in a cell It was plain to see that your life was lost You was cold and your body swung back and forth But now your eyes sing the sad sad song Of how you lived so fast and died so young So don't push me cause I'm close to the edge",
+        "avg_logprob": -0.12012614624215923
+      },
+      {
+        "id": 13,
+        "start": 296.423,
+        "end": 314.952,
+        "text": " I'm trying not to lose my head. It's like a jungle sometimes. It makes me wonder how I keep from going under. It's like a jungle sometimes. It makes me wonder how I keep from going under. Yo, Mel, you see that girl, man? Yo, that sound like cowboy.",
+        "avg_logprob": -0.05017089773900807
+      },
+      {
+        "id": 14,
+        "start": 314.952,
+        "end": 331.507,
+        "text": " What's up, fool? Yo, what's up, money? Yo. Hey, where's Quill and Raheem at? So what's up for tonight, y'all? Yo, we can go down to the theater, man. Go check out Juba, man. Hey, yo, you know that girl Betty? Yeah, man. My mom got robbed, man. Not again. She got hurt. What just happened? What just happened?",
+        "avg_logprob": -0.233886723096172
+      },
+      {
+        "id": 15,
+        "start": 331.507,
+        "end": 346.762,
+        "text": " Get in the car. Get in the car. Get in the car.",
+        "avg_logprob": -0.36425781436264515
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "gYMkEMCHtJ4",
+    "uploader": "UPROXX",
+    "audio_file": "corpus/01_music_videos_audio/audio/gYMkEMCHtJ4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11619716,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.235311,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:03:16Z"
+  },
+  "status": "success",
+  "error": null
+}

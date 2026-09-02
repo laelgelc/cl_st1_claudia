@@ -1,0 +1,112 @@
+{
+  "corpus_id": "X53ZSxkQ3Ho",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/X53ZSxkQ3Ho.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/X53ZSxkQ3Ho.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/X53ZSxkQ3Ho.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Oh my god, Becky, look at her butt. It is so big. She looks like one of those rap guys' girlfriends. Who understands those rap guys? They only talk to her because she looks like a total prostitute, okay? I mean, her butt is just so big. I can't believe it's just so round. It's like out there. I mean, gross. Look, she's just so I like big butts and I cannot lie. You other brothers can't deny. Yeah, when a girl walks in with an itty bitty waist and a round thing in your face, you get sick. I'm tired of magazines. them round and big. And when I'm throwing a gig, I just can't help myself. I'm acting like an animal. Now here's my scandal. I want to get you home and up. Double up. I ain't talking about Playboy. The silicone parts are made for toys. I want them real thick and juicy. So find that juicy double. Mix-a-lots in trouble. Begging for a piece of that bubble. So I'm looking at rock videos. Not need bimbos walking like hoes. You can have them bimbos. I'll keep my women like Flo-Jo. A word to the thick soul sisters. I want to get with you. I won't cuss or hit you. But I got to be straight when I say I want to till the break of dawn. Baby, got it going on. A lot of simps won't like this song because them punk It's like they hit me with it And I'd rather stay and play Cause I'm long and I'm strong And I'm down to get the friction on So ladies, ladies Do you wanna roll my Mercedes? Then turn around, stick it out Even white boys got the shout Baby got back Baby got back Yeah baby When it comes to females Cosmo ain't got nothing to do with my selection 36, 24, 36. Only if she's 5'3\". So your girlfriend rolls a Honda, playing workout tapes by Fonda. But Fonda ain't got a motor in the back of her Honda. My anaconda don't want none unless you got buns, hun. You can do side bends or sit-ups, but please don't lose that butt. Some brothers want to play that hard roll and tell you that the butt ain't gold so they toss it and leave it and i pull up quick to retrieve it so cosmo says you're fat well i ain't down with that because your waist is small and your curves are kicking and i'm thinking about sticking to the beanpole dames in the magazines you ain't it miss thing give me a sister i can't resist the red beans and rice didn't miss her some knucklehead tried to diss because his girls are on my list he had game but he chose to hit him We'll be right back.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 28.651,
+        "text": " Oh my god, Becky, look at her butt. It is so big. She looks like one of those rap guys' girlfriends. Who understands those rap guys? They only talk to her because she looks like a total prostitute, okay? I mean, her butt is just so big. I can't believe it's just so round. It's like out there. I mean, gross. Look, she's just so",
+        "avg_logprob": -0.06483476788833223
+      },
+      {
+        "id": 2,
+        "start": 29.765,
+        "end": 38.388,
+        "text": " I like big butts and I cannot lie. You other brothers can't deny. Yeah, when a girl walks in with an itty bitty waist and a round thing in your face, you get sick.",
+        "avg_logprob": -0.12218387320984242
+      },
+      {
+        "id": 3,
+        "start": 52.36,
+        "end": 70.484,
+        "text": " I'm tired of magazines.",
+        "avg_logprob": -0.6785714456013271
+      },
+      {
+        "id": 4,
+        "start": 99.053,
+        "end": 108.672,
+        "text": " them round and big. And when I'm throwing a gig, I just can't help myself. I'm acting like an animal. Now here's my scandal. I want to get you home and up. Double up.",
+        "avg_logprob": -0.09561820765552313
+      },
+      {
+        "id": 5,
+        "start": 109.837,
+        "end": 139.621,
+        "text": " I ain't talking about Playboy. The silicone parts are made for toys. I want them real thick and juicy. So find that juicy double. Mix-a-lots in trouble. Begging for a piece of that bubble. So I'm looking at rock videos. Not need bimbos walking like hoes. You can have them bimbos. I'll keep my women like Flo-Jo. A word to the thick soul sisters. I want to get with you. I won't cuss or hit you. But I got to be straight when I say I want to till the break of dawn. Baby, got it going on. A lot of simps won't like this song because them punk",
+        "avg_logprob": -0.11947279215669956
+      },
+      {
+        "id": 6,
+        "start": 139.621,
+        "end": 169.591,
+        "text": " It's like they hit me with it And I'd rather stay and play Cause I'm long and I'm strong And I'm down to get the friction on So ladies, ladies Do you wanna roll my Mercedes? Then turn around, stick it out Even white boys got the shout Baby got back Baby got back Yeah baby When it comes to females Cosmo ain't got nothing to do with my selection",
+        "avg_logprob": -0.10628857730347434
+      },
+      {
+        "id": 7,
+        "start": 170.671,
+        "end": 194.279,
+        "text": " 36, 24, 36. Only if she's 5'3\". So your girlfriend rolls a Honda, playing workout tapes by Fonda. But Fonda ain't got a motor in the back of her Honda. My anaconda don't want none unless you got buns, hun. You can do side bends or sit-ups, but please don't lose that butt. Some brothers want to play that hard roll and tell you that the butt",
+        "avg_logprob": -0.11718750245623537
+      },
+      {
+        "id": 8,
+        "start": 194.279,
+        "end": 219.187,
+        "text": " ain't gold so they toss it and leave it and i pull up quick to retrieve it so cosmo says you're fat well i ain't down with that because your waist is small and your curves are kicking and i'm thinking about sticking to the beanpole dames in the magazines you ain't it miss thing give me a sister i can't resist the red beans and rice didn't miss her some knucklehead tried to diss because his girls are on my list he had game but he chose to hit him",
+        "avg_logprob": -0.060396634543744415
+      },
+      {
+        "id": 9,
+        "start": 220.216,
+        "end": 229.278,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.45396203654153006
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "X53ZSxkQ3Ho",
+    "uploader": "SirMixAlotChannel",
+    "audio_file": "corpus/01_music_videos_audio/audio/X53ZSxkQ3Ho.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8108858,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.585144,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:12:38Z"
+  },
+  "status": "success",
+  "error": null
+}

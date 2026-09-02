@@ -1,0 +1,84 @@
+{
+  "corpus_id": "Z7K5VCCdOEM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Z7K5VCCdOEM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Z7K5VCCdOEM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Z7K5VCCdOEM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "After all the jacks are in the boxes. And the clowns have all gone to bed. You can hear happiness staggering on downstream. Footprints dressed in red. And the wind whispers fear. A broom is drearily sweeping Up the broken pieces of yesterday's lining Somewhere a queen is weeping Somewhere a king has no wife And the wind The traffic lights, they turn on a blue tomorrow And shine the emptiness down on my bed The tiny island sets downstream Cause the life that lives is dead And the wind screams it has blown in the past and with this crush its old age and its wisdom it whispers no this will be the last",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 14.56,
+        "end": 41.915,
+        "text": " After all the jacks are in the boxes. And the clowns have all gone to bed. You can hear happiness staggering on downstream. Footprints dressed in red. And the wind whispers fear.",
+        "avg_logprob": -0.16796875709579104
+      },
+      {
+        "id": 2,
+        "start": 48.125,
+        "end": 72.391,
+        "text": " A broom is drearily sweeping Up the broken pieces of yesterday's lining Somewhere a queen is weeping Somewhere a king has no wife And the wind",
+        "avg_logprob": -0.16171875347693762
+      },
+      {
+        "id": 3,
+        "start": 87.46,
+        "end": 117.059,
+        "text": " The traffic lights, they turn on a blue tomorrow",
+        "avg_logprob": -0.24200994860042224
+      },
+      {
+        "id": 4,
+        "start": 118.612,
+        "end": 139.739,
+        "text": " And shine the emptiness down on my bed The tiny island sets downstream Cause the life that lives is dead And the wind screams",
+        "avg_logprob": -0.1892187452316284
+      },
+      {
+        "id": 5,
+        "start": 152.733,
+        "end": 167.768,
+        "text": " it has blown in the past and with this crush its old age and its wisdom it whispers no this will be the last",
+        "avg_logprob": -0.17472956902705705
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Z7K5VCCdOEM",
+    "uploader": "Jimi Hendrix",
+    "audio_file": "corpus/01_music_videos_audio/audio/Z7K5VCCdOEM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6423646,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.210381,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:14Z"
+  },
+  "status": "success",
+  "error": null
+}

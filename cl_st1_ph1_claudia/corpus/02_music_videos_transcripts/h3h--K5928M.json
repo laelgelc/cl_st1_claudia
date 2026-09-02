@@ -1,0 +1,84 @@
+{
+  "corpus_id": "h3h--K5928M",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/h3h--K5928M.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/h3h--K5928M.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/h3h--K5928M.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "can't explain a certain kind I'm feeling good now, yeah, but I'm busy in the head now. I'm feeling blue. The things you said, well, maybe they're true. Forget funny dreams again and again. I know what it means, but I think it's love trying to say to you when I feel blue, but I can't explain. Can't explain. Yeah, here's what I'll say, girl. now i'm feeling bad the things you said got me real mad i'm getting funny dreams again and again i know what it means but i can't explain my biggest love try to say it to you when i feel blue but i can't explain can't explain you give me one more can't explain it i said i can't explain",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 10.898,
+        "end": 15.218,
+        "text": " can't explain a certain kind",
+        "avg_logprob": -0.9715401445116315
+      },
+      {
+        "id": 2,
+        "start": 18.627,
+        "end": 43.99,
+        "text": " I'm feeling good now, yeah, but I'm busy in the head now. I'm feeling blue. The things you said, well, maybe they're true. Forget funny dreams again and again. I know what it means, but",
+        "avg_logprob": -0.29336733720740493
+      },
+      {
+        "id": 3,
+        "start": 45.779,
+        "end": 57.473,
+        "text": " I think it's love trying to say to you when I feel blue, but I can't explain. Can't explain. Yeah, here's what I'll say, girl.",
+        "avg_logprob": -0.21980573841043421
+      },
+      {
+        "id": 4,
+        "start": 67.48,
+        "end": 91.207,
+        "text": " now i'm feeling bad the things you said got me real mad i'm getting funny dreams again and again i know what it means but i can't explain my biggest love try to say it to you when i feel blue but i can't explain can't explain you give me one more",
+        "avg_logprob": -0.18116917820840045
+      },
+      {
+        "id": 5,
+        "start": 109.87,
+        "end": 121.396,
+        "text": " can't explain it i said i can't explain",
+        "avg_logprob": -0.43998580087314954
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "h3h--K5928M",
+    "uploader": "TheWho",
+    "audio_file": "corpus/01_music_videos_audio/audio/h3h--K5928M.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4014716,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.134186,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:13Z"
+  },
+  "status": "success",
+  "error": null
+}

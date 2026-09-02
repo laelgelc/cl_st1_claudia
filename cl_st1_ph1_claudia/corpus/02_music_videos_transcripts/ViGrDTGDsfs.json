@@ -1,0 +1,91 @@
+{
+  "corpus_id": "ViGrDTGDsfs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ViGrDTGDsfs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ViGrDTGDsfs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ViGrDTGDsfs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "so so Thank you. Thank you. Who's your black private dick? It's a sex machine, the hard shit. Damn right. Who is mad? Can we risk his neck for another man? Can you dig it? Who's the cat that won't come out when those days are all about? Right on. Listen to this cat shout to the bad mother. I'm talking about Shell. He's a complicated man, and no one understands him but his mama. Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 7.456,
+        "end": 30.423,
+        "text": " so so",
+        "avg_logprob": -0.966796875
+      },
+      {
+        "id": 2,
+        "start": 37.915,
+        "end": 48.412,
+        "text": " Thank you.",
+        "avg_logprob": -0.7812499701976776
+      },
+      {
+        "id": 3,
+        "start": 132.5,
+        "end": 134.93,
+        "text": " Thank you.",
+        "avg_logprob": -0.6298828125
+      },
+      {
+        "id": 4,
+        "start": 162.47,
+        "end": 185.217,
+        "text": " Who's your black private dick? It's a sex machine, the hard shit. Damn right. Who is mad? Can we risk his neck for another man? Can you dig it?",
+        "avg_logprob": -0.43669870725044835
+      },
+      {
+        "id": 5,
+        "start": 193.165,
+        "end": 215.12,
+        "text": " Who's the cat that won't come out when those days are all about? Right on. Listen to this cat shout to the bad mother. I'm talking about Shell. He's a complicated man, and no one understands him but his mama.",
+        "avg_logprob": -0.28339460784313725
+      },
+      {
+        "id": 6,
+        "start": 252.734,
+        "end": 266.639,
+        "text": " Thank you.",
+        "avg_logprob": -0.5913085788488388
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "ViGrDTGDsfs",
+    "uploader": "Rock & Roll Hall of Fame",
+    "audio_file": "corpus/01_music_videos_audio/audio/ViGrDTGDsfs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9276172,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.959147,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:13:23Z"
+  },
+  "status": "success",
+  "error": null
+}

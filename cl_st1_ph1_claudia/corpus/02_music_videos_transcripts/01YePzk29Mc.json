@@ -1,0 +1,84 @@
+{
+  "corpus_id": "01YePzk29Mc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/01YePzk29Mc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/01YePzk29Mc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/01YePzk29Mc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "He was Give him a great big kiss. Tell him that I love him. Tell him that I care. Tell him that I'll always be there. What color are his eyes? I don't know. He's always wearing shades. Is he tall? Well, I gotta look up. Yeah, right here he's bad. Eh, he's good bad, but he's not evil. Tell me more. Tell me more. Big fucking wedding. Tell me more. To match his eye anymore Dirty fingernails I'm gonna walk right up to him, give him a great big kiss. Jim, hooray for him! Jimmy O'Neal has boy appeal. He looks so cute in his low hair suit. He smiles so sweet and he looks so neat. His hair is so long and he looks so strong. His voice is so deep. And he is such a creep. All right, get out of here.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.499,
+        "end": 12.029,
+        "text": " He was",
+        "avg_logprob": -1.59765625
+      },
+      {
+        "id": 2,
+        "start": 36.008,
+        "end": 64.375,
+        "text": " Give him a great big kiss. Tell him that I love him. Tell him that I care. Tell him that I'll always be there. What color are his eyes? I don't know. He's always wearing shades. Is he tall? Well, I gotta look up. Yeah, right here he's bad. Eh, he's good bad, but he's not evil. Tell me more. Tell me more. Big fucking wedding. Tell me more.",
+        "avg_logprob": -0.11595394736842106
+      },
+      {
+        "id": 3,
+        "start": 64.932,
+        "end": 69.455,
+        "text": " To match his eye anymore Dirty fingernails",
+        "avg_logprob": -0.42851561307907104
+      },
+      {
+        "id": 4,
+        "start": 91.342,
+        "end": 96.218,
+        "text": " I'm gonna walk right up to him, give him a great big kiss.",
+        "avg_logprob": -0.2931985294117647
+      },
+      {
+        "id": 5,
+        "start": 110.343,
+        "end": 122.662,
+        "text": " Jim, hooray for him! Jimmy O'Neal has boy appeal. He looks so cute in his low hair suit. He smiles so sweet and he looks so neat. His hair is so long and he looks so strong. His voice is so deep. And he is such a creep. All right, get out of here.",
+        "avg_logprob": -0.14356883798820386
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "01YePzk29Mc",
+    "uploader": "ferstday",
+    "audio_file": "corpus/01_music_videos_audio/audio/01YePzk29Mc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3939668,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.350846,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:07:53Z"
+  },
+  "status": "success",
+  "error": null
+}

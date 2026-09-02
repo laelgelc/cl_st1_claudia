@@ -1,0 +1,84 @@
+{
+  "corpus_id": "5IsSpAOD6K8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/5IsSpAOD6K8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/5IsSpAOD6K8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/5IsSpAOD6K8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "And you may find yourself Living in a shotgun shack And you may find yourself In another part of the world And you may find yourself Behind the wheel of a large automobile And you may find yourself In a beautiful house With a beautiful wife And you may ask yourself And you may ask yourself, how do I work this? And you may ask yourself, where is that large automobile? And you may tell yourself, this is not my beautiful house. And you may tell yourself, this is not my beautiful wife. Same as it ever was You may ask yourself, what is that beautiful house? You may ask yourself, where does that highway go to? And you may ask yourself, am I right, am I wrong? And you may say to yourself, my God, what have I done? Same as it ever was. Same as it ever was. Look where my hand was. Time isn't holding up. Time isn't asking us. Same as it ever was. Same as it ever was. Same as it ever was. Same as it ever was. Same as it ever was. Same as it ever was.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 29.09,
+        "end": 50.217,
+        "text": " And you may find yourself Living in a shotgun shack And you may find yourself In another part of the world And you may find yourself Behind the wheel of a large automobile And you may find yourself In a beautiful house With a beautiful wife And you may ask yourself",
+        "avg_logprob": -0.06700721211158313
+      },
+      {
+        "id": 2,
+        "start": 64.409,
+        "end": 87.308,
+        "text": " And you may ask yourself, how do I work this? And you may ask yourself, where is that large automobile? And you may tell yourself, this is not my beautiful house. And you may tell yourself, this is not my beautiful wife.",
+        "avg_logprob": -0.08647365166860468
+      },
+      {
+        "id": 3,
+        "start": 103.863,
+        "end": 119.405,
+        "text": " Same as it ever was",
+        "avg_logprob": -0.21679687003294626
+      },
+      {
+        "id": 4,
+        "start": 136.499,
+        "end": 152.699,
+        "text": " You may ask yourself, what is that beautiful house? You may ask yourself, where does that highway go to? And you may ask yourself, am I right, am I wrong? And you may say to yourself, my God, what have I done?",
+        "avg_logprob": -0.05564563707360681
+      },
+      {
+        "id": 5,
+        "start": 188.862,
+        "end": 210.867,
+        "text": " Same as it ever was. Same as it ever was. Look where my hand was. Time isn't holding up. Time isn't asking us. Same as it ever was. Same as it ever was. Same as it ever was. Same as it ever was. Same as it ever was. Same as it ever was.",
+        "avg_logprob": -0.0952658590985768
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "5IsSpAOD6K8",
+    "uploader": "Talking Heads",
+    "audio_file": "corpus/01_music_videos_audio/audio/5IsSpAOD6K8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7191948,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.760114,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:02:43Z"
+  },
+  "status": "success",
+  "error": null
+}

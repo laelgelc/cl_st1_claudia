@@ -1,0 +1,77 @@
+{
+  "corpus_id": "vabnZ9-ex7o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/vabnZ9-ex7o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/vabnZ9-ex7o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/vabnZ9-ex7o.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Come as you are, as you were, as I want As a friend, as a known enemy Take your time, hurry up The choice is yours, don't be late Take a rest, as a friend Doused in mud, soaked in bleach As I want you to be As a trend, as a friend As I know Memoria Memoria Memoria Memoria Memoria Memoria Memoria When I swear and I don't",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.925,
+        "end": 24.466,
+        "text": " Come as you are, as you were, as I want",
+        "avg_logprob": -0.06223707703443674
+      },
+      {
+        "id": 2,
+        "start": 28.887,
+        "end": 45.391,
+        "text": " As a friend, as a known enemy Take your time, hurry up The choice is yours, don't be late Take a rest, as a friend",
+        "avg_logprob": -0.22202621063878458
+      },
+      {
+        "id": 3,
+        "start": 66.265,
+        "end": 92.084,
+        "text": " Doused in mud, soaked in bleach As I want you to be As a trend, as a friend As I know Memoria Memoria Memoria",
+        "avg_logprob": -0.1927923387096774
+      },
+      {
+        "id": 4,
+        "start": 153.34,
+        "end": 173.489,
+        "text": " Memoria Memoria Memoria Memoria When I swear and I don't",
+        "avg_logprob": -0.25854491628706455
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "vabnZ9-ex7o",
+    "uploader": "Nirvana",
+    "audio_file": "corpus/01_music_videos_audio/audio/vabnZ9-ex7o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7175602,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.908226,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:54:23Z"
+  },
+  "status": "success",
+  "error": null
+}

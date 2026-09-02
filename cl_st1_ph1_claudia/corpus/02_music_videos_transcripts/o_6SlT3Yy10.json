@@ -1,0 +1,91 @@
+{
+  "corpus_id": "o_6SlT3Yy10",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/o_6SlT3Yy10.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/o_6SlT3Yy10.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/o_6SlT3Yy10.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Boom, boom, boom, boom Gonna shoot you right down At all your feet Take you home with me Put you in my house Boom, boom, boom, boom I love to see you walk Up and down the floor When you're talking to me That baby talk I like it like that When you talk like that You knock me dead And on my feet Thank you. When she walk that walk And talk that talk And whisper in my ear Tell me she love me I love that talk That baby talk You knock me dead Hey! Hey! Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 2.039,
+        "end": 28.617,
+        "text": " Boom, boom, boom, boom Gonna shoot you right down At all your feet Take you home with me Put you in my house Boom, boom, boom, boom",
+        "avg_logprob": -0.0941521163810702
+      },
+      {
+        "id": 2,
+        "start": 29.883,
+        "end": 56.309,
+        "text": " I love to see you walk Up and down the floor When you're talking to me That baby talk I like it like that When you talk like that You knock me dead And on my feet",
+        "avg_logprob": -0.1678685882152655
+      },
+      {
+        "id": 3,
+        "start": 74.922,
+        "end": 77.774,
+        "text": " Thank you.",
+        "avg_logprob": -0.7187499850988388
+      },
+      {
+        "id": 4,
+        "start": 126.205,
+        "end": 147.755,
+        "text": " When she walk that walk And talk that talk And whisper in my ear Tell me she love me I love that talk That baby talk You knock me dead",
+        "avg_logprob": -0.13684476094861184
+      },
+      {
+        "id": 5,
+        "start": 182.467,
+        "end": 202.818,
+        "text": " Hey! Hey!",
+        "avg_logprob": -0.626953125
+      },
+      {
+        "id": 6,
+        "start": 252.076,
+        "end": 254.725,
+        "text": " Thank you.",
+        "avg_logprob": -0.6303711086511612
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "o_6SlT3Yy10",
+    "uploader": "John Lee Hooker Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/o_6SlT3Yy10.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8290160,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.615833,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:59:47Z"
+  },
+  "status": "success",
+  "error": null
+}

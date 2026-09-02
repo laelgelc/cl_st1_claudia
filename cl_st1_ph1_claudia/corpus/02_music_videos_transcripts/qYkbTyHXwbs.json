@@ -1,0 +1,84 @@
+{
+  "corpus_id": "qYkbTyHXwbs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/qYkbTyHXwbs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/qYkbTyHXwbs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/qYkbTyHXwbs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Jesse is a friend Yeah, I know he's been a good friend of mine But lately something's changed that ain't hard to define Jesse's got himself a girl and I wanna make her mine And she's watching him with those eyes And she's loving with that body, I just know it And he's holding her in his arms late, late at night No, I wish that I had Jessie's girl. I wish that I had Jessie's girl. Where can I find a woman like that? I'll play along with the charade. There doesn't seem to be a reason to change. You know, I feel so dirty when they start talking cute. I want to tell her that I love her, but the point is Cause she's watching him with those eyes And she's loving him with that body, I just know it And he's holding her in his arms late, late at night You know I wish that I had Jessie's girl I wish that I had Jessie's girl Where can I find a woman like that? Like Jessie's girl I wish that I had Jessie's girl And what she don't see in me I've been funny, I've been cool with the lines Ain't that the way love's supposed to be? Tell me, where can I find a woman I want Jessie's girl I wish that I had Jessie's girl I want Jessie's girl Where can I find a woman like that? Like Jessie's girl I wish that I had Jessie's girl I want Jessie's girl",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 6.038,
+        "end": 32.549,
+        "text": " Jesse is a friend Yeah, I know he's been a good friend of mine But lately something's changed that ain't hard to define Jesse's got himself a girl and I wanna make her mine And she's watching him with those eyes And she's loving with that body, I just know it And he's holding her in his arms late, late at night",
+        "avg_logprob": -0.07898116438356165
+      },
+      {
+        "id": 2,
+        "start": 33.123,
+        "end": 59.347,
+        "text": " No, I wish that I had Jessie's girl. I wish that I had Jessie's girl. Where can I find a woman like that? I'll play along with the charade. There doesn't seem to be a reason to change. You know, I feel so dirty when they start talking cute. I want to tell her that I love her, but the point is",
+        "avg_logprob": -0.05580357181561458
+      },
+      {
+        "id": 3,
+        "start": 60.477,
+        "end": 89.587,
+        "text": " Cause she's watching him with those eyes And she's loving him with that body, I just know it And he's holding her in his arms late, late at night You know I wish that I had Jessie's girl I wish that I had Jessie's girl Where can I find a woman like that? Like Jessie's girl I wish that I had Jessie's girl",
+        "avg_logprob": -0.07712204371755188
+      },
+      {
+        "id": 4,
+        "start": 110.647,
+        "end": 137.377,
+        "text": " And what she don't see in me I've been funny, I've been cool with the lines Ain't that the way love's supposed to be? Tell me, where can I find a woman",
+        "avg_logprob": -0.12938262485876317
+      },
+      {
+        "id": 5,
+        "start": 154.876,
+        "end": 178.737,
+        "text": " I want Jessie's girl I wish that I had Jessie's girl I want Jessie's girl Where can I find a woman like that? Like Jessie's girl I wish that I had Jessie's girl I want Jessie's girl",
+        "avg_logprob": -0.17118054893281726
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "qYkbTyHXwbs",
+    "uploader": "Rick Springfield",
+    "audio_file": "corpus/01_music_videos_audio/audio/qYkbTyHXwbs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6246804,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.302592,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:21:33Z"
+  },
+  "status": "success",
+  "error": null
+}

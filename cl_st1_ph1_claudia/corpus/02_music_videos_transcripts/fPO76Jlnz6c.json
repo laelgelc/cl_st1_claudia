@@ -1,0 +1,91 @@
+{
+  "corpus_id": "fPO76Jlnz6c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/fPO76Jlnz6c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/fPO76Jlnz6c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/fPO76Jlnz6c.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You wanna tell me what this is all about? As I walk through the valley of the shadow of death I take a look at my life and realize there's nothing left Cause I've been blastin' and laughin' so long that Even my mama thinks that my mind is gone But I ain't never crossed a man that didn't deserve it Me be treated like a punk, you know that's unheard of You better watch how you're talkin' and where you're walkin' Or you and your homies might be lyin' in chalk I really hate to trip, but I gotta lope As they croak, I see myself in the pistol smoke, fool I'm the kind of G the little homies wanna be Like on my knees in the night, saying prayers in the streetlight Them stayin' most of the night Look at the situation they got me facing. I can't live a normal life. I was raised by the state. So I gotta be down with the hood team. Too much television watching got me chasing dreams. I'm an educated fool with money on my mind. Got my 10 in my hand and a gleam in my eye. I'm a low-down gangster set tripping bankers. And my homies is down, so don't arouse my anger Fool, death ain't nothing but a heartbeat away I'm living life to a die, what can I say? I'm 23 now, but will I live to see 24? The way things is going, I don't know Tell me why are we Power and the money, money and the power Minute after minute, hour after hour Everybody's running, but half of them ain't looking It's going on in the kitchen, but I don't know what's kicking They say I got to learn, but nobody's here to teach me If they can't understand it, how can they reach me? I guess they can't, I guess they won't, I guess they front That's why I know my life is out of luck, fool You understand?",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 20.028,
+        "end": 22.373,
+        "text": " You wanna tell me what this is all about?",
+        "avg_logprob": -0.07426314055919647
+      },
+      {
+        "id": 2,
+        "start": 26.17,
+        "end": 50.116,
+        "text": " As I walk through the valley of the shadow of death I take a look at my life and realize there's nothing left Cause I've been blastin' and laughin' so long that Even my mama thinks that my mind is gone But I ain't never crossed a man that didn't deserve it Me be treated like a punk, you know that's unheard of You better watch how you're talkin' and where you're walkin' Or you and your homies might be lyin' in chalk",
+        "avg_logprob": -0.07713895978279484
+      },
+      {
+        "id": 3,
+        "start": 50.116,
+        "end": 64.915,
+        "text": " I really hate to trip, but I gotta lope As they croak, I see myself in the pistol smoke, fool I'm the kind of G the little homies wanna be Like on my knees in the night, saying prayers in the streetlight Them stayin' most of the night",
+        "avg_logprob": -0.16093749577800434
+      },
+      {
+        "id": 4,
+        "start": 86.043,
+        "end": 107.12,
+        "text": " Look at the situation they got me facing. I can't live a normal life. I was raised by the state. So I gotta be down with the hood team. Too much television watching got me chasing dreams. I'm an educated fool with money on my mind. Got my 10 in my hand and a gleam in my eye. I'm a low-down gangster set tripping bankers.",
+        "avg_logprob": -0.1270007683736522
+      },
+      {
+        "id": 5,
+        "start": 107.12,
+        "end": 124.062,
+        "text": " And my homies is down, so don't arouse my anger Fool, death ain't nothing but a heartbeat away I'm living life to a die, what can I say? I'm 23 now, but will I live to see 24? The way things is going, I don't know Tell me why are we",
+        "avg_logprob": -0.14737216360641248
+      },
+      {
+        "id": 6,
+        "start": 157.897,
+        "end": 183.715,
+        "text": " Power and the money, money and the power Minute after minute, hour after hour Everybody's running, but half of them ain't looking It's going on in the kitchen, but I don't know what's kicking They say I got to learn, but nobody's here to teach me If they can't understand it, how can they reach me? I guess they can't, I guess they won't, I guess they front That's why I know my life is out of luck, fool You understand?",
+        "avg_logprob": -0.04918840853045288
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "fPO76Jlnz6c",
+    "uploader": "Tommy Boy",
+    "audio_file": "corpus/01_music_videos_audio/audio/fPO76Jlnz6c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8198022,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.730278,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:17:42Z"
+  },
+  "status": "success",
+  "error": null
+}

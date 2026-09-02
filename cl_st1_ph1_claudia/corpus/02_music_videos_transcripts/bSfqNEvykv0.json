@@ -1,0 +1,91 @@
+{
+  "corpus_id": "bSfqNEvykv0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/bSfqNEvykv0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/bSfqNEvykv0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/bSfqNEvykv0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Oh, yeah. Oh, yeah. Everything, everything, everything gonna be all right this morning. Oh, yeah. When I was a young boy At the age of five My mother's child was gonna be The greatest man alive But now I'm a man Way past 21 I want you to believe me, baby Coochie coochie man Sittin' on the outside Just me and my mate Y'all know I'm made to moon, honey Come up two hours late The lion I shoot And will never miss But I make love to a woman She can't resist I think I'll go down To old Cassie's too I'm gonna bring back my second cousin That's little John the Conqueror Settin' out that line I can make love to your woman In five minutes time That mean man is boy Man I'm a full grown man Man I'm a natural born lover's man Man I'm a rolling stone I'm a man child I'm a hoochie-coochie man",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 2.039,
+        "end": 25.968,
+        "text": " Oh, yeah. Oh, yeah. Everything, everything, everything gonna be all right this morning. Oh, yeah.",
+        "avg_logprob": -0.1584375
+      },
+      {
+        "id": 2,
+        "start": 36.346,
+        "end": 58.469,
+        "text": " When I was a young boy At the age of five My mother's child was gonna be The greatest man alive But now I'm a man Way past 21 I want you to believe me, baby",
+        "avg_logprob": -0.16699218526482582
+      },
+      {
+        "id": 3,
+        "start": 116.924,
+        "end": 131.403,
+        "text": " Coochie coochie man Sittin' on the outside Just me and my mate Y'all know I'm made to moon, honey Come up two hours late",
+        "avg_logprob": -0.22086148487555013
+      },
+      {
+        "id": 4,
+        "start": 187.833,
+        "end": 212.167,
+        "text": " The lion I shoot And will never miss But I make love to a woman She can't resist I think I'll go down To old Cassie's too I'm gonna bring back my second cousin That's little John the Conqueror",
+        "avg_logprob": -0.19238280598074198
+      },
+      {
+        "id": 5,
+        "start": 216.723,
+        "end": 224.536,
+        "text": " Settin' out that line I can make love to your woman In five minutes time",
+        "avg_logprob": -0.24321545738922923
+      },
+      {
+        "id": 6,
+        "start": 250.861,
+        "end": 278.873,
+        "text": " That mean man is boy Man I'm a full grown man Man I'm a natural born lover's man Man I'm a rolling stone I'm a man child I'm a hoochie-coochie man",
+        "avg_logprob": -0.14018111472780054
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "bSfqNEvykv0",
+    "uploader": "MUDDYWATERSVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/bSfqNEvykv0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10540824,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.876504,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:59:31Z"
+  },
+  "status": "success",
+  "error": null
+}

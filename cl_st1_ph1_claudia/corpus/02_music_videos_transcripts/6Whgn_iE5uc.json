@@ -1,0 +1,98 @@
+{
+  "corpus_id": "6Whgn_iE5uc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/6Whgn_iE5uc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/6Whgn_iE5uc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/6Whgn_iE5uc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Oh, my God. And if you said this life ain't good enough I'd give my world to lift you up I could change my life to better soon I'll see you next time. And if you said this life ain't good enough, I'd give my world to lift you up. I could change my life to better suit. It's the same as the emotion that I get from you. You got the kind of love that left me so soon. Give me your heart and make it real or else forget about it. It's the same as the emotion that I get from you Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 8.654,
+        "end": 11.236,
+        "text": " Oh, my God.",
+        "avg_logprob": -0.9713541467984518
+      },
+      {
+        "id": 2,
+        "start": 50.825,
+        "end": 70.18,
+        "text": " And if you said this life ain't good enough I'd give my world to lift you up I could change my life to better soon",
+        "avg_logprob": -0.1835937537252903
+      },
+      {
+        "id": 3,
+        "start": 81.622,
+        "end": 94.936,
+        "text": " I'll see you next time.",
+        "avg_logprob": -0.6474609449505806
+      },
+      {
+        "id": 4,
+        "start": 136.28,
+        "end": 148.514,
+        "text": " And if you said this life ain't good enough, I'd give my world to lift you up. I could change my life to better suit.",
+        "avg_logprob": -0.1852318548387097
+      },
+      {
+        "id": 5,
+        "start": 159.145,
+        "end": 174.805,
+        "text": " It's the same as the emotion that I get from you. You got the kind of love that left me so soon. Give me your heart and make it real or else forget about it.",
+        "avg_logprob": -0.1999023411422968
+      },
+      {
+        "id": 6,
+        "start": 199.983,
+        "end": 205.383,
+        "text": " It's the same as the emotion that I get from you",
+        "avg_logprob": -0.11035156020751366
+      },
+      {
+        "id": 7,
+        "start": 248.903,
+        "end": 253.342,
+        "text": " Thank you.",
+        "avg_logprob": -0.5854492038488388
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "6Whgn_iE5uc",
+    "uploader": "Santana",
+    "audio_file": "corpus/01_music_videos_audio/audio/6Whgn_iE5uc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8196536,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.693476,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:16:29Z"
+  },
+  "status": "success",
+  "error": null
+}

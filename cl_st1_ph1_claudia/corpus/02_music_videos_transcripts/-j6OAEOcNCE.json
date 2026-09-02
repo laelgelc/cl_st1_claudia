@@ -1,0 +1,84 @@
+{
+  "corpus_id": "-j6OAEOcNCE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/-j6OAEOcNCE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/-j6OAEOcNCE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/-j6OAEOcNCE.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Will you be mine? My darling dear Love you all the time I'm just a fool A fool in love with you Earth angel, earth angel I'm just a fool, a fool in love with you I fell for you and I knew the vision of your love, loveliness Someday I'll be the vision of your happiness Oh Earth angel Earth angel Please be mine My darling dear Love you all the time I'm just a fool A fool in love I've got you in my heart Please be mine My darling dear Love you all the time I'm just a fool",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 10.797,
+        "end": 39.08,
+        "text": " Will you be mine? My darling dear Love you all the time I'm just a fool A fool in love with you Earth angel, earth angel",
+        "avg_logprob": -0.13541666368643443
+      },
+      {
+        "id": 2,
+        "start": 50.774,
+        "end": 76.137,
+        "text": " I'm just a fool, a fool in love with you I fell for you and I knew the vision of your love, loveliness",
+        "avg_logprob": -0.10762392549679198
+      },
+      {
+        "id": 3,
+        "start": 81.959,
+        "end": 110.647,
+        "text": " Someday I'll be the vision of your happiness Oh Earth angel Earth angel Please be mine My darling dear Love you all the time I'm just a fool A fool in love",
+        "avg_logprob": -0.16818575974967745
+      },
+      {
+        "id": 4,
+        "start": 113.431,
+        "end": 124.147,
+        "text": " I've got you in my heart",
+        "avg_logprob": -0.9404296725988388
+      },
+      {
+        "id": 5,
+        "start": 147.755,
+        "end": 163.297,
+        "text": " Please be mine My darling dear Love you all the time I'm just a fool",
+        "avg_logprob": -0.2782628676470588
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "-j6OAEOcNCE",
+    "uploader": "The Penguins - Topic",
+    "audio_file": "corpus/01_music_videos_audio/audio/-j6OAEOcNCE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5741538,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.612911,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:01:00Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,91 @@
+{
+  "corpus_id": "3GwjfUFyY6M",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/3GwjfUFyY6M.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/3GwjfUFyY6M.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/3GwjfUFyY6M.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "on right here. A celebration to last throughout the years. So bring your good times and your laughter too. We gonna celebrate your party with you. Come on now. We go celebrate and have a good time. It's time to come together. It's up to you. What's your pleasure? on right here A dedication to last throughout the years So bring your good times and your laughter too We gon' celebrate and party with you Come on now Celebration Let's all celebrate and have a good time Yeah, yeah Celebration We gon' celebrate and have a good time It's time to come together It's up to you, what's your pleasure? Let's celebrate, come on now. Celebrate good times, come on. Let's celebrate. We're gonna have a good time tonight. Let's celebrate, it's all right. We're gonna have a good time tonight. Let's celebrate, it's all right, baby. Let's celebrate.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 49.778,
+        "end": 66.029,
+        "text": " on right here. A celebration to last throughout the years. So bring your good times and your laughter too. We gonna celebrate your party with you. Come on now.",
+        "avg_logprob": -0.16383928997176034
+      },
+      {
+        "id": 2,
+        "start": 77.032,
+        "end": 89.637,
+        "text": " We go celebrate and have a good time. It's time to come together. It's up to you. What's your pleasure?",
+        "avg_logprob": -0.10037667197840554
+      },
+      {
+        "id": 3,
+        "start": 125.362,
+        "end": 149.56,
+        "text": " on right here A dedication to last throughout the years So bring your good times and your laughter too We gon' celebrate and party with you Come on now Celebration Let's all celebrate and have a good time Yeah, yeah Celebration",
+        "avg_logprob": -0.16530918123874258
+      },
+      {
+        "id": 4,
+        "start": 152.632,
+        "end": 165.237,
+        "text": " We gon' celebrate and have a good time It's time to come together It's up to you, what's your pleasure?",
+        "avg_logprob": -0.12398727514125683
+      },
+      {
+        "id": 5,
+        "start": 189.622,
+        "end": 216.892,
+        "text": " Let's celebrate, come on now. Celebrate good times, come on. Let's celebrate. We're gonna have a good time tonight. Let's celebrate, it's all right. We're gonna have a good time tonight. Let's celebrate, it's all right, baby.",
+        "avg_logprob": -0.11923993391505743
+      },
+      {
+        "id": 6,
+        "start": 224.553,
+        "end": 228.974,
+        "text": " Let's celebrate.",
+        "avg_logprob": -0.46640625
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "3GwjfUFyY6M",
+    "uploader": "KoolandthegangShow",
+    "audio_file": "corpus/01_music_videos_audio/audio/3GwjfUFyY6M.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8238146,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.740192,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:13:33Z"
+  },
+  "status": "success",
+  "error": null
+}

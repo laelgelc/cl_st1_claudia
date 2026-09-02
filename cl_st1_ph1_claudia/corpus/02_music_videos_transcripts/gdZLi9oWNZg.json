@@ -1,0 +1,70 @@
+{
+  "corpus_id": "gdZLi9oWNZg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/gdZLi9oWNZg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/gdZLi9oWNZg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/gdZLi9oWNZg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Cause I, I, I'm in the stars tonight So watch me bring the fire, set the night alight Shoes on, get up in the moon, cup of milk, let's rock and roll King Kong, kick the drum, rollin' on like I'm Rolling Stone Sing song when I'm walkin' home, jump up to the table, LeBron Ding dong, call me on my phone, iced tea and I'll get my bing-bong This is the day, heavy beat I set the night alight Cause I'm out, I'm in stars tonight So watch me bring the fire, set the night alight Shining through the city with a little fucking song Light it up like dynamite",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 23.96,
+        "end": 51.213,
+        "text": " Cause I, I, I'm in the stars tonight So watch me bring the fire, set the night alight Shoes on, get up in the moon, cup of milk, let's rock and roll King Kong, kick the drum, rollin' on like I'm Rolling Stone Sing song when I'm walkin' home, jump up to the table, LeBron Ding dong, call me on my phone, iced tea and I'll get my bing-bong This is the day, heavy beat",
+        "avg_logprob": -0.24100825049967137
+      },
+      {
+        "id": 2,
+        "start": 71.429,
+        "end": 73.623,
+        "text": " I set the night alight",
+        "avg_logprob": -0.5781250170298985
+      },
+      {
+        "id": 3,
+        "start": 167.228,
+        "end": 183.158,
+        "text": " Cause I'm out, I'm in stars tonight So watch me bring the fire, set the night alight Shining through the city with a little fucking song Light it up like dynamite",
+        "avg_logprob": -0.22576121336374527
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "gdZLi9oWNZg",
+    "uploader": "HYBE LABELS",
+    "audio_file": "corpus/01_music_videos_audio/audio/gdZLi9oWNZg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7149596,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.418139,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:10:58Z"
+  },
+  "status": "success",
+  "error": null
+}

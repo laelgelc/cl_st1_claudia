@@ -1,0 +1,112 @@
+{
+  "corpus_id": "Q0iqg2UanEc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Q0iqg2UanEc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Q0iqg2UanEc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Q0iqg2UanEc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I know you've deceived me, now here's a surprise I know that you have, cause there's magic in my eyes I can see for miles and miles and miles and miles and miles Oh yeah If you think that I don't know about the little tricks you play And never see you when deliberately you put things in my way Well here's a poke at you, you're gonna choke on it too You're gonna lose that smile because of the while I could see for miles and miles I could see for miles and miles I could see for miles and miles and miles and miles and miles You took advantage of my trust in you when I was so far I saw you holding lots of other guys and now you've got the nerve to say That you still want me Well that says maybe But you gotta stand trial Because all the while I could see for miles and miles I could see for miles and miles I could see for miles and miles and Miles and miles and miles Oh yeah I know you've deceived me, now here's a surprise I know that you have, cause there's magic in my eyes I can see for miles and miles and miles and miles and miles Oh yeah The Eiffel Tower and the Taj Mahal are mine to see on clear days. You thought that I would need a crystal ball to see right through the haze. When there's a poke at you, you're gonna choke on it too. You're gonna lose that smile because of the wire. I could see for miles and miles I could see for miles and miles I could see for miles and miles",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 10.51,
+        "end": 36.92,
+        "text": " I know you've deceived me, now here's a surprise I know that you have, cause there's magic in my eyes I can see for miles and miles and miles and miles and miles Oh yeah",
+        "avg_logprob": -0.10994664779523523
+      },
+      {
+        "id": 2,
+        "start": 40.177,
+        "end": 62.131,
+        "text": " If you think that I don't know about the little tricks you play And never see you when deliberately you put things in my way Well here's a poke at you, you're gonna choke on it too You're gonna lose that smile because of the while",
+        "avg_logprob": -0.08856670716061042
+      },
+      {
+        "id": 3,
+        "start": 63.059,
+        "end": 89.536,
+        "text": " I could see for miles and miles I could see for miles and miles I could see for miles and miles and miles and miles and miles You took advantage of my trust in you when I was so far",
+        "avg_logprob": -0.17578125
+      },
+      {
+        "id": 4,
+        "start": 92.962,
+        "end": 97.906,
+        "text": " I saw you holding lots of other guys and now you've got the nerve to say",
+        "avg_logprob": -0.17263454612758425
+      },
+      {
+        "id": 5,
+        "start": 99.543,
+        "end": 128.078,
+        "text": " That you still want me Well that says maybe But you gotta stand trial Because all the while I could see for miles and miles I could see for miles and miles I could see for miles and miles and Miles and miles and miles Oh yeah",
+        "avg_logprob": -0.13834635044137636
+      },
+      {
+        "id": 6,
+        "start": 149.054,
+        "end": 175.649,
+        "text": " I know you've deceived me, now here's a surprise I know that you have, cause there's magic in my eyes I can see for miles and miles and miles and miles and miles Oh yeah",
+        "avg_logprob": -0.09889481998071438
+      },
+      {
+        "id": 7,
+        "start": 178.282,
+        "end": 200.708,
+        "text": " The Eiffel Tower and the Taj Mahal are mine to see on clear days. You thought that I would need a crystal ball to see right through the haze. When there's a poke at you, you're gonna choke on it too. You're gonna lose that smile because of the wire.",
+        "avg_logprob": -0.16009424366648234
+      },
+      {
+        "id": 8,
+        "start": 201.063,
+        "end": 223.962,
+        "text": " I could see for miles and miles I could see for miles and miles",
+        "avg_logprob": -0.19934895237286884
+      },
+      {
+        "id": 9,
+        "start": 228.181,
+        "end": 254.438,
+        "text": " I could see for miles and miles",
+        "avg_logprob": -0.3010253831744194
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Q0iqg2UanEc",
+    "uploader": "The Best Of - Home Of Classic Music",
+    "audio_file": "corpus/01_music_videos_audio/audio/Q0iqg2UanEc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8415732,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 22.872801,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:59:00Z"
+  },
+  "status": "success",
+  "error": null
+}

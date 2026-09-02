@@ -1,0 +1,84 @@
+{
+  "corpus_id": "yKmKezVBdOQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yKmKezVBdOQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/yKmKezVBdOQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/yKmKezVBdOQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Oh, when the sun goes down, it burns the top of the roof. And your shoes get so hot, you wish your tired feet would. Down by the sea On a blanket with my babies Where I'll be Under the boardwalk Out of the sun Under the boardwalk We'll be having some fun Under the boardwalk People walking above Under the boardwalk We'll be falling in love Under the boardwalk, boardwalk In the park you hear the happy sound of the carousel You can almost taste the hot dogs, french fries they sell Under the boardwalk On a blanket with my baby is where I'll be Under the boardwalk Out of the sun Under the boardwalk We'll be having some fun Under the boardwalk People walking above Under the boardwalk We'll be falling in love Under the boardwalk On a blanket with my baby This is where I'll be Under the boardwalk Out of the sun Under the boardwalk We'll be having some fun Under the boardwalk People walking about Under the boardwalk We'll be falling in love Under the boardwalk",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.398,
+        "end": 20.18,
+        "text": " Oh, when the sun goes down, it burns the top of the roof. And your shoes get so hot, you wish your tired feet would.",
+        "avg_logprob": -0.18838205164478672
+      },
+      {
+        "id": 2,
+        "start": 24.972,
+        "end": 54.672,
+        "text": " Down by the sea On a blanket with my babies Where I'll be Under the boardwalk Out of the sun Under the boardwalk We'll be having some fun Under the boardwalk People walking above Under the boardwalk We'll be falling in love",
+        "avg_logprob": -0.0664062511920929
+      },
+      {
+        "id": 3,
+        "start": 54.858,
+        "end": 74.669,
+        "text": " Under the boardwalk, boardwalk In the park you hear the happy sound of the carousel You can almost taste the hot dogs, french fries they sell Under the boardwalk",
+        "avg_logprob": -0.12996198679949786
+      },
+      {
+        "id": 4,
+        "start": 82.482,
+        "end": 107.305,
+        "text": " On a blanket with my baby is where I'll be Under the boardwalk Out of the sun Under the boardwalk We'll be having some fun Under the boardwalk People walking above Under the boardwalk We'll be falling in love Under the boardwalk",
+        "avg_logprob": -0.09696691059598736
+      },
+      {
+        "id": 5,
+        "start": 133.124,
+        "end": 158.133,
+        "text": " On a blanket with my baby This is where I'll be Under the boardwalk Out of the sun Under the boardwalk We'll be having some fun Under the boardwalk People walking about Under the boardwalk We'll be falling in love Under the boardwalk",
+        "avg_logprob": -0.09284855855199006
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "yKmKezVBdOQ",
+    "uploader": "VDJ MikeyMike",
+    "audio_file": "corpus/01_music_videos_audio/audio/yKmKezVBdOQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5291998,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.429817,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:13:21Z"
+  },
+  "status": "success",
+  "error": null
+}

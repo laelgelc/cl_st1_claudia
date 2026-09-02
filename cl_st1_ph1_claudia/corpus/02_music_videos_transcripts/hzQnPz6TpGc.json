@@ -1,0 +1,112 @@
+{
+  "corpus_id": "hzQnPz6TpGc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hzQnPz6TpGc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hzQnPz6TpGc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hzQnPz6TpGc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You might like to hear something from us. Nice and easy. I'd like to do that for you. But there's one thing, you see. We never, ever do nothing nice and easy. We always do it. Nice and rough. And we're going to take the beginning of this song and we're going to do it, you say, easy. But then we're going to do the finish rough. It's the way we do Proud Mary. Rolling, rolling on a river. One more again. Say we rollin', rollin', rollin', rollin' on the river. Listen. I left a good job in the city. Workin' for the man every night and day. But I never lost one minute of sleep. And I was worried about the way that they might have been. But we will keep on turning. Proud Mary keep on burning. And we're rolling. Rolling. Rolling. Rolling low. Rolling. A lot of plates in Memphis Pumped a lot of pain down in New Orleans But I never saw the good side of the city Till I hitched a ride on the riverboat queen We will keep on turning And the primary keep on burning Rolling. Rolling, yeah. Rolling loud. Rolling on the river. Rolling on the river. I said rolling. Rolling. Rolling. Rolling loud. Rolling. a good job in the city working for the main every night and day and i never lost one minute of sleeping worrying about the way they might have me we'll keep on turning I cleaned a lot of plates and memories off And I pumped a lot of chain down in New Orleans But I never saw the good side of a city Till I hitched a ride on the river of green Big wheel keep on turning Yeah, yeah. If you come down to the river, bet you're going to find some people who live. You don't have to worry if you got no money. The people on the river are happy to give. They will keep on turning. Wow, Mary, keep on burning. Rolling, rolling, rolling on.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.217,
+        "end": 21.8,
+        "text": " You might like to hear something from us. Nice and easy. I'd like to do that for you. But there's one thing, you see. We never, ever do nothing nice and easy. We always do it.",
+        "avg_logprob": -0.1124501348809993
+      },
+      {
+        "id": 2,
+        "start": 21.8,
+        "end": 46.454,
+        "text": " Nice and rough. And we're going to take the beginning of this song and we're going to do it, you say, easy. But then we're going to do the finish rough. It's the way we do Proud Mary. Rolling, rolling on a river.",
+        "avg_logprob": -0.1158168870106078
+      },
+      {
+        "id": 3,
+        "start": 46.825,
+        "end": 69.337,
+        "text": " One more again. Say we rollin', rollin', rollin', rollin' on the river. Listen. I left a good job in the city. Workin' for the man every night and day.",
+        "avg_logprob": -0.1800347235467699
+      },
+      {
+        "id": 4,
+        "start": 70.484,
+        "end": 96.404,
+        "text": " But I never lost one minute of sleep. And I was worried about the way that they might have been. But we will keep on turning. Proud Mary keep on burning. And we're rolling. Rolling. Rolling. Rolling low. Rolling.",
+        "avg_logprob": -0.22549020016894622
+      },
+      {
+        "id": 5,
+        "start": 101.247,
+        "end": 129.142,
+        "text": " A lot of plates in Memphis Pumped a lot of pain down in New Orleans But I never saw the good side of the city Till I hitched a ride on the riverboat queen We will keep on turning And the primary keep on burning",
+        "avg_logprob": -0.1838329130289506
+      },
+      {
+        "id": 6,
+        "start": 132.01,
+        "end": 147.502,
+        "text": " Rolling. Rolling, yeah. Rolling loud. Rolling on the river. Rolling on the river. I said rolling. Rolling. Rolling. Rolling loud. Rolling.",
+        "avg_logprob": -0.22502367424242425
+      },
+      {
+        "id": 7,
+        "start": 169.658,
+        "end": 189.976,
+        "text": " a good job in the city working for the main every night and day and i never lost one minute of sleeping worrying about the way they might have me we'll keep on turning",
+        "avg_logprob": -0.3023003414273262
+      },
+      {
+        "id": 8,
+        "start": 194.718,
+        "end": 222.528,
+        "text": " I cleaned a lot of plates and memories off And I pumped a lot of chain down in New Orleans But I never saw the good side of a city Till I hitched a ride on the river of green Big wheel keep on turning",
+        "avg_logprob": -0.2531582472172189
+      },
+      {
+        "id": 9,
+        "start": 253.021,
+        "end": 273.862,
+        "text": " Yeah, yeah. If you come down to the river, bet you're going to find some people who live. You don't have to worry if you got no money. The people on the river are happy to give. They will keep on turning. Wow, Mary, keep on burning. Rolling, rolling, rolling on.",
+        "avg_logprob": -0.21408582222995473
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "hzQnPz6TpGc",
+    "uploader": "Beat-Club",
+    "audio_file": "corpus/01_music_videos_audio/audio/hzQnPz6TpGc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11589994,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.919576,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:09:49Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,91 @@
+{
+  "corpus_id": "KtlgYxa6BMU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/KtlgYxa6BMU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/KtlgYxa6BMU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/KtlgYxa6BMU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I am not the only traveler Who is not repaid his debt I've been searching for a trail to follow again Take me back to the night we met And then I can't tell myself What the hell I'm supposed to do And then I can tell myself Not to ride along with you I had all and then most of you, some and now none of you Take me back to the night I don't know what I'm supposed to do Haunted by the ghost of you Oh, take me back to the night we met When the night was full of When you had not touched me yet Oh, take me back to the night we met I had all and then most of you Some and now none of you Take me back to the night we met I don't know what I'm supposed to do Haunted by the ghost of you Take me back to the night with me guitar solo",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 15.1,
+        "end": 41.543,
+        "text": " I am not the only traveler Who is not repaid his debt",
+        "avg_logprob": -0.13190568664244243
+      },
+      {
+        "id": 2,
+        "start": 44.395,
+        "end": 71.007,
+        "text": " I've been searching for a trail to follow again Take me back to the night we met And then I can't tell myself What the hell I'm supposed to do",
+        "avg_logprob": -0.0609489905045313
+      },
+      {
+        "id": 3,
+        "start": 73.268,
+        "end": 98.598,
+        "text": " And then I can tell myself Not to ride along with you I had all and then most of you, some and now none of you Take me back to the night",
+        "avg_logprob": -0.18221508054172292
+      },
+      {
+        "id": 4,
+        "start": 102.698,
+        "end": 120.451,
+        "text": " I don't know what I'm supposed to do Haunted by the ghost of you Oh, take me back to the night we met When the night was full of",
+        "avg_logprob": -0.22713695247383678
+      },
+      {
+        "id": 5,
+        "start": 131.352,
+        "end": 157.711,
+        "text": " When you had not touched me yet Oh, take me back to the night we met I had all and then most of you Some and now none of you Take me back to the night we met",
+        "avg_logprob": -0.07285155951976777
+      },
+      {
+        "id": 6,
+        "start": 160.293,
+        "end": 189.858,
+        "text": " I don't know what I'm supposed to do Haunted by the ghost of you Take me back to the night with me guitar solo",
+        "avg_logprob": -0.12248884620411056
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "KtlgYxa6BMU",
+    "uploader": "Lord Huron",
+    "audio_file": "corpus/01_music_videos_audio/audio/KtlgYxa6BMU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6671822,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:52:40Z"
+  },
+  "status": "success",
+  "error": null
+}

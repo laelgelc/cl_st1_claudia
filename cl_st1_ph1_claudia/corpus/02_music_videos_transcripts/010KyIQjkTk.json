@@ -1,0 +1,70 @@
+{
+  "corpus_id": "010KyIQjkTk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/010KyIQjkTk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/010KyIQjkTk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/010KyIQjkTk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Cause I be kicking a fight, but that makes you wanna jump. How high? Real high. Cause I'm just a fly. A young, lovable, huggable type of guy. And everything is to the back with a little slack. Cause inside out, it's wicked and wicked and wicked and whack. I come stomping with something pumping to keep you jumping. R&B, rapping, warcraft is what I'm dumping. Ain't nothing soft about crisscross. I like my stuff knockin', knockin' I love it when the girls be like chokin', chokin' The D-A-W-D-Y-M-A-C, yeah, you know me I got you jumpin' and bumpin' and pumpin', movin' all around G in the mix, I'm with the six step back They try to step to the max, then they got jacked To the back, you be pourin' the gas, that coincidental Act like you know it, don't be claimin' that it's mental Two little kids with a flow you ain't never heard Ain't nothin' fake, you can understand every word As you listen to my smooth melody, the daddy makes a J-U-M-P Jump! Now, the formalities of this and that Is that crisscross ain't coming off wet And for all y'all suckers that don't know",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 28.718,
+        "end": 47.129,
+        "text": " Cause I be kicking a fight, but that makes you wanna jump. How high? Real high. Cause I'm just a fly. A young, lovable, huggable type of guy. And everything is to the back with a little slack. Cause inside out, it's wicked and wicked and wicked and whack. I come stomping with something pumping to keep you jumping. R&B, rapping, warcraft is what I'm dumping. Ain't nothing soft about crisscross.",
+        "avg_logprob": -0.18332302570343018
+      },
+      {
+        "id": 2,
+        "start": 68.088,
+        "end": 97.805,
+        "text": " I like my stuff knockin', knockin' I love it when the girls be like chokin', chokin' The D-A-W-D-Y-M-A-C, yeah, you know me I got you jumpin' and bumpin' and pumpin', movin' all around G in the mix, I'm with the six step back They try to step to the max, then they got jacked To the back, you be pourin' the gas, that coincidental Act like you know it, don't be claimin' that it's mental Two little kids with a flow you ain't never heard Ain't nothin' fake, you can understand every word As you listen to my smooth melody, the daddy makes a J-U-M-P Jump!",
+        "avg_logprob": -0.1393151140498544
+      },
+      {
+        "id": 3,
+        "start": 103.238,
+        "end": 123.522,
+        "text": " Now, the formalities of this and that Is that crisscross ain't coming off wet And for all y'all suckers that don't know",
+        "avg_logprob": -0.2193603552877903
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "010KyIQjkTk",
+    "uploader": "Kris Kross",
+    "audio_file": "corpus/01_music_videos_audio/audio/010KyIQjkTk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6321108,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.45559,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:12:01Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,77 @@
+{
+  "corpus_id": "0NKUpo_xKyQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/0NKUpo_xKyQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/0NKUpo_xKyQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/0NKUpo_xKyQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I had a way then Losing it all on my own I had a heart then But the queen has been overthrown And I'm not sleeping now The dark is too hard to beat And I'm not keeping up The strength I need to push me You show the lights that stop me turn to stone And I think back to when My brother and my sister slept In an unlawful place The only time I feel safe You show the light You show the nice ones",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 8.3,
+        "end": 35.165,
+        "text": " I had a way then Losing it all on my own I had a heart then But the queen has been overthrown And I'm not sleeping now The dark is too hard to beat And I'm not keeping up",
+        "avg_logprob": -0.06167534987131754
+      },
+      {
+        "id": 2,
+        "start": 36.397,
+        "end": 44.328,
+        "text": " The strength I need to push me You show the lights that stop me turn to stone",
+        "avg_logprob": -0.1398654563559426
+      },
+      {
+        "id": 3,
+        "start": 86.347,
+        "end": 105.533,
+        "text": " And I think back to when My brother and my sister slept In an unlawful place The only time I feel safe You show the light",
+        "avg_logprob": -0.2543103530489165
+      },
+      {
+        "id": 4,
+        "start": 152.243,
+        "end": 153.982,
+        "text": " You show the nice ones",
+        "avg_logprob": -0.5667317907015482
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "0NKUpo_xKyQ",
+    "uploader": "Ellie Goulding",
+    "audio_file": "corpus/01_music_videos_audio/audio/0NKUpo_xKyQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6839748,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.407212,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:06:27Z"
+  },
+  "status": "success",
+  "error": null
+}

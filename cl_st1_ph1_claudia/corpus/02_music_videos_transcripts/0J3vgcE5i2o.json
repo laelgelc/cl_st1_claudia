@@ -1,0 +1,98 @@
+{
+  "corpus_id": "0J3vgcE5i2o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/0J3vgcE5i2o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/0J3vgcE5i2o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/0J3vgcE5i2o.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Did I throw you off? Nope. Didn't think so. How you doing, young lady? The feeling that you're giving really drives me crazy. You don't have a play about the choke. I was had a lot for words first time that we spoke. You're looking for a girl that'll treat you right. You're looking for in the daytime with the light. You might be the type if I play my cards right. I'll find out by the end of the night. You expect me to just let you hit it But will you still respect me if you get it? All I can do is try, give me one chance The problem, I don't see the ring on your hand I'll be the first to admit it I'm curious about you, you seem so innocent You wanna get in my world, get lost in it Boy, I'm tired of running, let's walk for a minute Roses are red, some diamonds are blue Chivalry is dead, but you're still kinda cute Hey, I can't keep my mind off you Where you at, do you mind if I come through? I'm out of this world, come with me to my planet Get you on my level, do you think that you can handle it? They call me Thomas, last name Crown Recognize King, I'm a lay-by's down I'm a big girl, I can handle myself But if I get lonely, I'm in trouble I need your help. Pay attention to me. I don't talk for my health. I want you on my team. So does everybody else. Baby, we can keep it on the low. Let your guards down. Ain't nobody got enough. If you were the girl, I know what place we can go. What kind of girl do you take me for? A mischievous girl. Don't be mad, don't get mean. Don't get mad, don't be mean. Hey, don't be mad, don't get mean. Don't get mad, don't be mean. Wait, I don't mean no harm. I can see you with my t-shirt on. I can see you with nothing on. Feeling on me before you bring that on. Bring that on? You know what I mean. I'm a freak, you shouldn't say those things I'm only trying to get inside of your brain And see if you can work me the way you say It's okay, it's alright I got something that you gon' like Is it the truth or are you talking trash? Is the game MVP like Steve Nash? Yeah. Yeah.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.638,
+        "end": 20.213,
+        "text": " Did I throw you off? Nope. Didn't think so. How you doing, young lady? The feeling that you're giving really drives me crazy. You don't have a play about the choke. I was had a lot for words first time that we spoke. You're looking for a girl that'll treat you right. You're looking for in the daytime with the light. You might be the type if I play my cards right. I'll find out by the end of the night.",
+        "avg_logprob": -0.10682240423589649
+      },
+      {
+        "id": 2,
+        "start": 20.213,
+        "end": 38.557,
+        "text": " You expect me to just let you hit it But will you still respect me if you get it? All I can do is try, give me one chance The problem, I don't see the ring on your hand I'll be the first to admit it I'm curious about you, you seem so innocent You wanna get in my world, get lost in it Boy, I'm tired of running, let's walk for a minute",
+        "avg_logprob": -0.08719468681976714
+      },
+      {
+        "id": 3,
+        "start": 70.67,
+        "end": 90.7,
+        "text": " Roses are red, some diamonds are blue Chivalry is dead, but you're still kinda cute Hey, I can't keep my mind off you Where you at, do you mind if I come through? I'm out of this world, come with me to my planet Get you on my level, do you think that you can handle it? They call me Thomas, last name Crown Recognize King, I'm a lay-by's down I'm a big girl, I can handle myself But if I get lonely, I'm in trouble",
+        "avg_logprob": -0.1166992184173848
+      },
+      {
+        "id": 4,
+        "start": 90.7,
+        "end": 106.563,
+        "text": " I need your help. Pay attention to me. I don't talk for my health. I want you on my team. So does everybody else. Baby, we can keep it on the low. Let your guards down. Ain't nobody got enough. If you were the girl, I know what place we can go. What kind of girl do you take me for? A mischievous girl.",
+        "avg_logprob": -0.11461508846501024
+      },
+      {
+        "id": 5,
+        "start": 137.9,
+        "end": 157.002,
+        "text": " Don't be mad, don't get mean. Don't get mad, don't be mean. Hey, don't be mad, don't get mean. Don't get mad, don't be mean. Wait, I don't mean no harm. I can see you with my t-shirt on. I can see you with nothing on. Feeling on me before you bring that on. Bring that on? You know what I mean.",
+        "avg_logprob": -0.12682291037506527
+      },
+      {
+        "id": 6,
+        "start": 157.002,
+        "end": 172.763,
+        "text": " I'm a freak, you shouldn't say those things I'm only trying to get inside of your brain And see if you can work me the way you say It's okay, it's alright I got something that you gon' like Is it the truth or are you talking trash? Is the game MVP like Steve Nash?",
+        "avg_logprob": -0.18903882778955228
+      },
+      {
+        "id": 7,
+        "start": 207.577,
+        "end": 211.93,
+        "text": " Yeah. Yeah.",
+        "avg_logprob": -1.125
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "0J3vgcE5i2o",
+    "uploader": "Nelly Furtado",
+    "audio_file": "corpus/01_music_videos_audio/audio/0J3vgcE5i2o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7767060,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.971996,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:08:44Z"
+  },
+  "status": "success",
+  "error": null
+}

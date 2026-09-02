@@ -1,0 +1,77 @@
+{
+  "corpus_id": "uB1D9wWxd2w",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uB1D9wWxd2w.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/uB1D9wWxd2w.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/uB1D9wWxd2w.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Well I tried to tell you soon But I guess you didn't know As they say the story told Baby now I got the flow Cause I knew it from the start Baby when you broke my heart You're like a man Yes I try, yes I try You're like a man Even though you knew I'd die for you You're like a man Yes I c- You've lied to me, but you did, but you did You've lied to me, all this pain you said I'd never feel You've lied to me, but I do, but I do She said she'd never turn on me But I do",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 23.993,
+        "end": 38.422,
+        "text": " Well I tried to tell you soon But I guess you didn't know As they say the story told Baby now I got the flow Cause I knew it from the start Baby when you broke my heart",
+        "avg_logprob": -0.2093749947845936
+      },
+      {
+        "id": 2,
+        "start": 49.07,
+        "end": 61.861,
+        "text": " You're like a man Yes I try, yes I try You're like a man Even though you knew I'd die for you You're like a man Yes I c-",
+        "avg_logprob": -0.2519531258278423
+      },
+      {
+        "id": 3,
+        "start": 109.094,
+        "end": 123.59,
+        "text": " You've lied to me, but you did, but you did You've lied to me, all this pain you said I'd never feel You've lied to me, but I do, but I do",
+        "avg_logprob": -0.08789062482260522
+      },
+      {
+        "id": 4,
+        "start": 162.605,
+        "end": 183.901,
+        "text": " She said she'd never turn on me But I do",
+        "avg_logprob": -0.4505208407839139
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "uB1D9wWxd2w",
+    "uploader": "Mark Morrison",
+    "audio_file": "corpus/01_music_videos_audio/audio/uB1D9wWxd2w.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7235044,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.785718,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:12:54Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,84 @@
+{
+  "corpus_id": "mmo3HFa2vjg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/mmo3HFa2vjg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/mmo3HFa2vjg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/mmo3HFa2vjg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Playback. Playback. Playback. We got the fire. We are the same. No, we're not the same. Because we don't know the game. What we need is awareness. We can't get careless. You say, what is this? Have a lovely day. Was a hero to most, but he never meant shit to me And she's straight out racist, the sucker was simple and plain Motherfuckin' ninja, Wayne Cause I'm black and I'm pink, so ready to hype cause I'm amped Most of my heroes don't appear in those stamps Sample looks at you looking fine, nothing but redneck for 400 years if you text Don't worry, me, I'm the number one champ Damn it, my friends, you can spot me right here Hit it, let's get this Thank you. Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.672,
+        "end": 24.365,
+        "text": " Playback. Playback. Playback.",
+        "avg_logprob": -0.43320312201976774
+      },
+      {
+        "id": 2,
+        "start": 42.657,
+        "end": 43.72,
+        "text": " We got the fire.",
+        "avg_logprob": -0.3352864583333333
+      },
+      {
+        "id": 3,
+        "start": 77.639,
+        "end": 88.439,
+        "text": " We are the same. No, we're not the same. Because we don't know the game. What we need is awareness. We can't get careless. You say, what is this? Have a lovely day.",
+        "avg_logprob": -0.12041439909649931
+      },
+      {
+        "id": 4,
+        "start": 157.07,
+        "end": 181.336,
+        "text": " Was a hero to most, but he never meant shit to me And she's straight out racist, the sucker was simple and plain Motherfuckin' ninja, Wayne Cause I'm black and I'm pink, so ready to hype cause I'm amped Most of my heroes don't appear in those stamps Sample looks at you looking fine, nothing but redneck for 400 years if you text Don't worry, me, I'm the number one champ Damn it, my friends, you can spot me right here Hit it, let's get this",
+        "avg_logprob": -0.2647879325917789
+      },
+      {
+        "id": 5,
+        "start": 312.033,
+        "end": 315.458,
+        "text": " Thank you. Thank you.",
+        "avg_logprob": -0.9564731802259173
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "mmo3HFa2vjg",
+    "uploader": "Channel ZERO",
+    "audio_file": "corpus/01_music_videos_audio/audio/mmo3HFa2vjg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10190852,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.60093,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:02:10Z"
+  },
+  "status": "success",
+  "error": null
+}

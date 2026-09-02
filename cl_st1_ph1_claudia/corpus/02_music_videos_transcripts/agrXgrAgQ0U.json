@@ -1,0 +1,98 @@
+{
+  "corpus_id": "agrXgrAgQ0U",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/agrXgrAgQ0U.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/agrXgrAgQ0U.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/agrXgrAgQ0U.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "One, two, three, four. Da, da, da, da. The smell of your skin lingers on me now. You're probably on your flight back to your hometown. I need some shelter of my own protection, baby. Be with myself and center clarity, peace. And big girls don't cry Don't cry, don't cry, don't cry The path that I'm walking, I must go alone I must take the baby steps till I'm full grown, full grown Fairy tales don't always have a happy ending, do they? And I foresee the dark ahead if I stay. No schoolmate in the school yard We'll play Jackson, no cards I'll be your best friend And you'll be my Valentine Yes, you can hold my hand if you want to Cause I wanna hold yours too We'll be playmates and lovers It's getting late, it's dark outside I need to be with myself and sound Don't cry, don't cry, don't cry",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 27.655,
+        "end": 54.757,
+        "text": " One, two, three, four. Da, da, da, da. The smell of your skin lingers on me now. You're probably on your flight back to your hometown.",
+        "avg_logprob": -0.083784057925909
+      },
+      {
+        "id": 2,
+        "start": 56.039,
+        "end": 72.357,
+        "text": " I need some shelter of my own protection, baby. Be with myself and center clarity, peace.",
+        "avg_logprob": -0.07761346442358834
+      },
+      {
+        "id": 3,
+        "start": 106.057,
+        "end": 133.411,
+        "text": " And big girls don't cry Don't cry, don't cry, don't cry The path that I'm walking, I must go alone I must take the baby steps till I'm full grown, full grown",
+        "avg_logprob": -0.07108466743036758
+      },
+      {
+        "id": 4,
+        "start": 135.014,
+        "end": 149.138,
+        "text": " Fairy tales don't always have a happy ending, do they? And I foresee the dark ahead if I stay.",
+        "avg_logprob": -0.06156412698328495
+      },
+      {
+        "id": 5,
+        "start": 186.162,
+        "end": 214.529,
+        "text": " No schoolmate in the school yard We'll play Jackson, no cards I'll be your best friend And you'll be my Valentine Yes, you can hold my hand if you want to Cause I wanna hold yours too We'll be playmates and lovers",
+        "avg_logprob": -0.18030025211035036
+      },
+      {
+        "id": 6,
+        "start": 226.021,
+        "end": 233.665,
+        "text": " It's getting late, it's dark outside I need to be with myself and sound",
+        "avg_logprob": -0.2097439178162151
+      },
+      {
+        "id": 7,
+        "start": 271.803,
+        "end": 299.343,
+        "text": " Don't cry, don't cry, don't cry",
+        "avg_logprob": -0.4091796899835269
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "agrXgrAgQ0U",
+    "uploader": "Fergie",
+    "audio_file": "corpus/01_music_videos_audio/audio/agrXgrAgQ0U.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9826020,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.696994,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:06:24Z"
+  },
+  "status": "success",
+  "error": null
+}

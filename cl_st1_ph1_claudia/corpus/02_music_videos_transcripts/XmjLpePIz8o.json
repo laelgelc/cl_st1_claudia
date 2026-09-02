@@ -1,0 +1,98 @@
+{
+  "corpus_id": "XmjLpePIz8o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/XmjLpePIz8o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/XmjLpePIz8o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/XmjLpePIz8o.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "And this very exciting young performer joins us to do his big smash recording on the ABC Dunhill label. Let's get some hands together, gang, for Mr. Carl Colton. Thank you. Thank you. Did you realize Here I stand with my Everlasting love Need you by my side Girl, you'll be my bride You'll never be denied Everlasting love From the very start Open up your heart Be Hearts go astray, they be hurt when they go I went away just when you needed me so again Filled with regret, I come back begging you This love we must do Open up your eyes Then you'll realize Here I stand with my everlasting love Need you by my side Girl, you'll be my bride You'll never be denied Everlasting love From the very start Open up your heart Be a lasting part Thank you. We have our very own everlasting love. Did you realize? Here I stand with my everlasting love. Need you by my side. You're to be my bride. You'll never be denied. Everlasting love. From the very start. All the way up your heart.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 29.107,
+        "text": " And this very exciting young performer joins us to do his big smash recording on the ABC Dunhill label. Let's get some hands together, gang, for Mr. Carl Colton. Thank you. Thank you.",
+        "avg_logprob": -0.1469282697547566
+      },
+      {
+        "id": 2,
+        "start": 35.3,
+        "end": 54.47,
+        "text": " Did you realize Here I stand with my Everlasting love Need you by my side Girl, you'll be my bride You'll never be denied Everlasting love From the very start Open up your heart Be",
+        "avg_logprob": -0.22351372532728242
+      },
+      {
+        "id": 3,
+        "start": 65.776,
+        "end": 89.249,
+        "text": " Hearts go astray, they be hurt when they go I went away just when you needed me so again Filled with regret, I come back begging you",
+        "avg_logprob": -0.18420409550890326
+      },
+      {
+        "id": 4,
+        "start": 92.624,
+        "end": 121.379,
+        "text": " This love we must do Open up your eyes Then you'll realize Here I stand with my everlasting love Need you by my side Girl, you'll be my bride You'll never be denied Everlasting love From the very start Open up your heart Be a lasting part",
+        "avg_logprob": -0.1552181603773585
+      },
+      {
+        "id": 5,
+        "start": 134.407,
+        "end": 137.815,
+        "text": " Thank you.",
+        "avg_logprob": -0.55517578125
+      },
+      {
+        "id": 6,
+        "start": 155.872,
+        "end": 172.156,
+        "text": " We have our very own everlasting love.",
+        "avg_logprob": -0.4622395833333333
+      },
+      {
+        "id": 7,
+        "start": 182.078,
+        "end": 201.046,
+        "text": " Did you realize? Here I stand with my everlasting love. Need you by my side. You're to be my bride. You'll never be denied. Everlasting love. From the very start. All the way up your heart.",
+        "avg_logprob": -0.18180338107049465
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "XmjLpePIz8o",
+    "uploader": "MrHaagsesjonny1",
+    "audio_file": "corpus/01_music_videos_audio/audio/XmjLpePIz8o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6671078,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 6.409265,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:12:28Z"
+  },
+  "status": "success",
+  "error": null
+}

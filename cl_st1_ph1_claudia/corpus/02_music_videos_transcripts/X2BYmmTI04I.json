@@ -1,0 +1,91 @@
+{
+  "corpus_id": "X2BYmmTI04I",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/X2BYmmTI04I.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/X2BYmmTI04I.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/X2BYmmTI04I.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Simmer down, simmer down They say we're too young now To amount to anything else But look around We worked too damn hard for this Just to give it up now If you don't swim, you'll drown But don't move, honey You look so perfect standing there In my American apparel underwear And I know now That I'm so down Your lipstick stain isn't working for hot I got your name tattooed in an arrow heart And I know now That I'm so down Let's get out. Cause this deadbeat town's only here just to keep us down. While I was out. Living there in my American apparel underwear And I know now That I'm so Perfect standing there in my American apparel underwear And I know now that I'm so down Your lipstick stain is a work of art I got your name tattooed in an arrow heart And I know now But I'm so down Your lipstick stain is a work of art I got your name tattooed in an arrow heart",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 26.879,
+        "end": 56.697,
+        "text": " Simmer down, simmer down They say we're too young now To amount to anything else But look around We worked too damn hard for this Just to give it up now If you don't swim, you'll drown But don't move, honey You look so perfect standing there In my American apparel underwear And I know now That I'm so down",
+        "avg_logprob": -0.0826364472298555
+      },
+      {
+        "id": 2,
+        "start": 56.984,
+        "end": 68.813,
+        "text": " Your lipstick stain isn't working for hot I got your name tattooed in an arrow heart And I know now That I'm so down",
+        "avg_logprob": -0.16503906516092165
+      },
+      {
+        "id": 3,
+        "start": 82.33,
+        "end": 89.435,
+        "text": " Let's get out. Cause this deadbeat town's only here just to keep us down. While I was out.",
+        "avg_logprob": -0.1651562547683716
+      },
+      {
+        "id": 4,
+        "start": 106.833,
+        "end": 115.0,
+        "text": " Living there in my American apparel underwear And I know now That I'm so",
+        "avg_logprob": -0.40418198529411764
+      },
+      {
+        "id": 5,
+        "start": 141.848,
+        "end": 161.187,
+        "text": " Perfect standing there in my American apparel underwear And I know now that I'm so down Your lipstick stain is a work of art I got your name tattooed in an arrow heart And I know now",
+        "avg_logprob": -0.08455602134146341
+      },
+      {
+        "id": 6,
+        "start": 184.424,
+        "end": 194.684,
+        "text": " But I'm so down Your lipstick stain is a work of art I got your name tattooed in an arrow heart",
+        "avg_logprob": -0.21923827628294626
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "X2BYmmTI04I",
+    "uploader": "5SOS",
+    "audio_file": "corpus/01_music_videos_audio/audio/X2BYmmTI04I.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6995786,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.759283,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:10:36Z"
+  },
+  "status": "success",
+  "error": null
+}

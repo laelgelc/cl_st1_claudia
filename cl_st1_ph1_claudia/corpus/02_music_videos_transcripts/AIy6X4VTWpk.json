@@ -1,0 +1,84 @@
+{
+  "corpus_id": "AIy6X4VTWpk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/AIy6X4VTWpk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/AIy6X4VTWpk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/AIy6X4VTWpk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I've ever been lifted before. So keep it up, which is my desire, and I'll be at your side forevermore. You know your love, keep on lifting higher, higher and higher. I said your love, Disappointment was my close friend. But then you came and he soon departed. And you know he never showed his face again. That's why your love keeps on lifting me higher. Higher and higher. I said your love keeps on lifting me. I'm so glad I finally found you. Yes, that one in a million girls. And now with my loving arms around you, honey, I can stand up and face the world. Let me tell you, your love keeps on lifting me. Keep on lifting.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 23.217,
+        "end": 49.053,
+        "text": " I've ever been lifted before. So keep it up, which is my desire, and I'll be at your side forevermore. You know your love, keep on lifting higher, higher and higher. I said your love,",
+        "avg_logprob": -0.21409574468085107
+      },
+      {
+        "id": 2,
+        "start": 53.474,
+        "end": 66.704,
+        "text": " Disappointment was my close friend.",
+        "avg_logprob": -0.5058593630790711
+      },
+      {
+        "id": 3,
+        "start": 67.582,
+        "end": 94.379,
+        "text": " But then you came and he soon departed. And you know he never showed his face again. That's why your love keeps on lifting me higher. Higher and higher. I said your love keeps on lifting me.",
+        "avg_logprob": -0.09579190357842228
+      },
+      {
+        "id": 4,
+        "start": 118.342,
+        "end": 142.405,
+        "text": " I'm so glad I finally found you. Yes, that one in a million girls. And now with my loving arms around you, honey, I can stand up and face the world. Let me tell you, your love keeps on lifting me.",
+        "avg_logprob": -0.10891544322172801
+      },
+      {
+        "id": 5,
+        "start": 153.475,
+        "end": 175.109,
+        "text": " Keep on lifting.",
+        "avg_logprob": -0.68671875
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "AIy6X4VTWpk",
+    "uploader": "Joshua Ogle",
+    "audio_file": "corpus/01_music_videos_audio/audio/AIy6X4VTWpk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5672434,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.683898,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:13:27Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,77 @@
+{
+  "corpus_id": "lQtZUTRCLcY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/lQtZUTRCLcY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/lQtZUTRCLcY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/lQtZUTRCLcY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Well he walked up to me and he asked me if I wanted to die He looked kinda nice and so I said I might take a shot When he danced he held me tight And when he walked me home tonight All the stars were shining bright And then he kissed me To see him again I wanted to let him know That he was one of my friends I didn't know just what to do So I whispered I love you He said that he loved me too I almost. And then he asked me to be his bride And always be right by his side Felt so happy I almost cried And then he kissed me And then he kissed me And then he kissed me",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 8.367,
+        "end": 36.059,
+        "text": " Well he walked up to me and he asked me if I wanted to die He looked kinda nice and so I said I might take a shot When he danced he held me tight And when he walked me home tonight All the stars were shining bright And then he kissed me",
+        "avg_logprob": -0.0819589154863799
+      },
+      {
+        "id": 2,
+        "start": 41.138,
+        "end": 62.705,
+        "text": " To see him again I wanted to let him know That he was one of my friends I didn't know just what to do So I whispered I love you He said that he loved me too",
+        "avg_logprob": -0.13632812686264514
+      },
+      {
+        "id": 3,
+        "start": 89.789,
+        "end": 104.858,
+        "text": " I almost.",
+        "avg_logprob": -1.3750000298023224
+      },
+      {
+        "id": 4,
+        "start": 123.539,
+        "end": 152.024,
+        "text": " And then he asked me to be his bride And always be right by his side Felt so happy I almost cried And then he kissed me And then he kissed me And then he kissed me",
+        "avg_logprob": -0.13912259538968405
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "lQtZUTRCLcY",
+    "uploader": "Canal Sergio Alvarez",
+    "audio_file": "corpus/01_music_videos_audio/audio/lQtZUTRCLcY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4994784,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.802346,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:15:02Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,91 @@
+{
+  "corpus_id": "JRfuAukYTKg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/JRfuAukYTKg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/JRfuAukYTKg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/JRfuAukYTKg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You shot it Bulletproof, nothing to lose, fire away, fire away Ricochet, you take your aim, fire away, fire away But it's you who'll have further to fall Cause I'm haunted love Bulletproof, nothing to lose Fire away, fire away Ricochet, you take your aim Fire away, fire away Machine gun, firing at the ones who run Stoneheart, those bulletproof glasses Thanks for watching!",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 7.76,
+        "end": 16.872,
+        "text": " You shot it",
+        "avg_logprob": -0.5249023586511612
+      },
+      {
+        "id": 2,
+        "start": 46.775,
+        "end": 61.338,
+        "text": " Bulletproof, nothing to lose, fire away, fire away Ricochet, you take your aim, fire away, fire away",
+        "avg_logprob": -0.08278245536180642
+      },
+      {
+        "id": 3,
+        "start": 94.649,
+        "end": 103.154,
+        "text": " But it's you who'll have further to fall Cause I'm haunted love",
+        "avg_logprob": -0.36376954056322575
+      },
+      {
+        "id": 4,
+        "start": 122.982,
+        "end": 138.389,
+        "text": " Bulletproof, nothing to lose Fire away, fire away Ricochet, you take your aim Fire away, fire away",
+        "avg_logprob": -0.09228515656044085
+      },
+      {
+        "id": 5,
+        "start": 169.962,
+        "end": 179.328,
+        "text": " Machine gun, firing at the ones who run Stoneheart, those bulletproof glasses",
+        "avg_logprob": -0.4733455882352941
+      },
+      {
+        "id": 6,
+        "start": 226.983,
+        "end": 229.413,
+        "text": " Thanks for watching!",
+        "avg_logprob": -0.61015625
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "JRfuAukYTKg",
+    "uploader": "David Guetta",
+    "audio_file": "corpus/01_music_videos_audio/audio/JRfuAukYTKg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7849538,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.86675,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:15:29Z"
+  },
+  "status": "success",
+  "error": null
+}

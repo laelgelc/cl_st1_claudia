@@ -1,0 +1,77 @@
+{
+  "corpus_id": "kXreM7KOKAs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/kXreM7KOKAs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/kXreM7KOKAs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/kXreM7KOKAs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I've seen you with. I know you broke their hearts one after another, now bit by bit. You made them cry. And the poor girls cried. And they tried to keep you happy, just tried to keep you satisfied. Mr. Big Stuff, tell me, tell me, who do you think you are? Mr. Big Stuff. A poor guy that has a love that's true tell me why you are you You're never gonna get my love, Mr. Pizza. You're never gonna break my heart, Mr. Pizza. Who do you think you are? You're never gonna get my love. Who do you think you are? Who do you think you are? Tell me, tell me, Mr. Pizza. Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 61.473,
+        "end": 86.38,
+        "text": " I've seen you with. I know you broke their hearts one after another, now bit by bit. You made them cry. And the poor girls cried. And they tried to keep you happy, just tried to keep you satisfied. Mr. Big Stuff, tell me, tell me, who do you think you are? Mr. Big Stuff.",
+        "avg_logprob": -0.18683978999164744
+      },
+      {
+        "id": 2,
+        "start": 102.327,
+        "end": 106.327,
+        "text": " A poor guy that has a love that's true",
+        "avg_logprob": -0.24058948863636365
+      },
+      {
+        "id": 3,
+        "start": 142.338,
+        "end": 166.098,
+        "text": " tell me why you are you",
+        "avg_logprob": -0.6841517686843872
+      },
+      {
+        "id": 4,
+        "start": 185.572,
+        "end": 205.45,
+        "text": " You're never gonna get my love, Mr. Pizza. You're never gonna break my heart, Mr. Pizza. Who do you think you are? You're never gonna get my love. Who do you think you are? Who do you think you are? Tell me, tell me, Mr. Pizza. Thank you.",
+        "avg_logprob": -0.1565998072054849
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "kXreM7KOKAs",
+    "uploader": "Valdenir Chaves",
+    "audio_file": "corpus/01_music_videos_audio/audio/kXreM7KOKAs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6725320,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.197196,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:10:24Z"
+  },
+  "status": "success",
+  "error": null
+}

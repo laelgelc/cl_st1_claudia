@@ -1,0 +1,182 @@
+{
+  "corpus_id": "RciM7P9K3FA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/RciM7P9K3FA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/RciM7P9K3FA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/RciM7P9K3FA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Sing all the words with me all the way through if you want to, I don't care. Long, long time ago, I can still remember how that music used to make me smile. And I knew if I had my chance that I could make those people dance, that maybe they'd be happy for a while. But February made me shiver, With every paper I deliver, bad news on the doorstep. I couldn't take one more step. I can't remember if I cried when I read about his widowed bride. But something touched me deep inside the day the music died. So bye-bye, Miss American Pie. Drove my Chevy to the levee, but the levee was dry. Them good old boys are drinking whiskey and rye and singing, this'll be the day that I die. Did you write the book of love? And do you have faith in God above? If the Bible tells you so. Now do you believe in rock and roll? Can music save your mortal soul? And can you teach me how to dance real slow? I know that you're in love with him cause I saw you dancing in the gym. You both kicked off your shoes. Man, I dig those rhythm and blues. I was a lonely teenage drunken buck with a pink carnation and a pickup truck. But I knew I was out of luck today. The news. Here we go. I started singing. Bye, bye, Miss American Pie. Drove my Chevy to the levee, but the levee was dry. And good old boys are drinking whiskey and rye and singing, this will be the day. Spat on a rolling stone That's not how it used to be Why when the jester sang For the king and queen In a coat he borrowed From James Dean And a voice of it came From you and me And while the king was looking down The jester stole his corny crown The courtroom was adjourned No verdict was returned And while Lennon read a book on marks The quartet practiced in the park And we sang dirges in the dark The day the music died We were singing goodbye, bye, this American pie. I shoved it to the levee, but the levee was dry. Left good old boys drinking whiskey and rye. Singing this will be the day that I die. Helter skelter in the summer swelter The birds flew off with a fallout shelter Eight miles high and falling fast Landed foul on the grass The players tried for a forward pass With the jester on the sidelines in a cast Now the halftime air was sweet perfume While the sergeants played a marching tune We all got up to dance Oh, but Prince never got the chance Cause the players tried to take the field The marching band refused to yield Do you recall what was revealed the day? by Mr. American Pie. Oh, I'll show you to the levee, but the levee was dry. And the good old boys were drinking whiskey and rye and singing, this will be the day that I die. This will be the day that I die. Oh, and there we were all in one place, a generation lost in space with no time left to start again. So come on, Jack, be neutral, Jack, be quick Jack Glass sat on a candlestick Cause fire is the devil's only friend Oh, and as I watched him on the stage My hands were clenched in fists of rage No angel born in hell Would break that Satan's spell And as the flames climbed high into the night To light the sacrificial rite I saw Satan laughing with delight today He was humming bye-bye, Miss American Pie. Drove my Chevy to the levee, but the levee was dry. The good old boys were drinking whiskey and rye and singing Miss American Pie. I met a girl who sang the blues And I asked her for some happy news But she just smiled and turned away And I went down to the sacred store Where I'd heard the music years before But the men there said the music wouldn't play And in the streets the children screamed Lovers cried and the poets dreamed But not a word was spoken The church bells all were broken And the three men I admire most The Father, Son, and the Holy Ghost Why, they caught the last train for the coast The day the music died And they were singing I drove my Chevy to the levee, but the levee was dry. And them good old boys were drinking whiskey and rye and singing, this will be the day that I die. And good old boys are drinkin' whiskey and rye And singin' this lullaby",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 19,
+    "segments": [
+      {
+        "id": 1,
+        "start": 3.001,
+        "end": 32.684,
+        "text": " Sing all the words with me all the way through if you want to, I don't care. Long, long time ago, I can still remember how that music used to make me smile. And I knew if I had my chance that I could make those people dance, that maybe they'd be happy for a while. But February made me shiver,",
+        "avg_logprob": -0.10295376385727974
+      },
+      {
+        "id": 2,
+        "start": 32.92,
+        "end": 57.946,
+        "text": " With every paper I deliver, bad news on the doorstep. I couldn't take one more step. I can't remember if I cried when I read about his widowed bride. But something touched me deep inside the day the music died.",
+        "avg_logprob": -0.04679687641561031
+      },
+      {
+        "id": 3,
+        "start": 59.465,
+        "end": 77.69,
+        "text": " So bye-bye, Miss American Pie. Drove my Chevy to the levee, but the levee was dry. Them good old boys are drinking whiskey and rye and singing, this'll be the day that I die.",
+        "avg_logprob": -0.14461262710392475
+      },
+      {
+        "id": 4,
+        "start": 87.038,
+        "end": 110.731,
+        "text": " Did you write the book of love? And do you have faith in God above? If the Bible tells you so. Now do you believe in rock and roll? Can music save your mortal soul? And can you teach me how to dance real slow?",
+        "avg_logprob": -0.06520432577683376
+      },
+      {
+        "id": 5,
+        "start": 112.132,
+        "end": 139.081,
+        "text": " I know that you're in love with him cause I saw you dancing in the gym. You both kicked off your shoes. Man, I dig those rhythm and blues. I was a lonely teenage drunken buck with a pink carnation and a pickup truck. But I knew I was out of luck today. The news.",
+        "avg_logprob": -0.16998106331536264
+      },
+      {
+        "id": 6,
+        "start": 140.077,
+        "end": 155.905,
+        "text": " Here we go. I started singing. Bye, bye, Miss American Pie. Drove my Chevy to the levee, but the levee was dry. And good old boys are drinking whiskey and rye and singing, this will be the day.",
+        "avg_logprob": -0.11763822373289329
+      },
+      {
+        "id": 7,
+        "start": 168.173,
+        "end": 187.63,
+        "text": " Spat on a rolling stone That's not how it used to be Why when the jester sang For the king and queen In a coat he borrowed From James Dean And a voice of it came From you and me",
+        "avg_logprob": -0.1516335295005278
+      },
+      {
+        "id": 8,
+        "start": 189.925,
+        "end": 219.102,
+        "text": " And while the king was looking down The jester stole his corny crown The courtroom was adjourned No verdict was returned And while Lennon read a book on marks The quartet practiced in the park And we sang dirges in the dark The day the music died",
+        "avg_logprob": -0.10490057034925981
+      },
+      {
+        "id": 9,
+        "start": 220.165,
+        "end": 235.353,
+        "text": " We were singing goodbye, bye, this American pie. I shoved it to the levee, but the levee was dry. Left good old boys drinking whiskey and rye. Singing this will be the day that I die.",
+        "avg_logprob": -0.23404948227107525
+      },
+      {
+        "id": 10,
+        "start": 241.681,
+        "end": 266.723,
+        "text": " Helter skelter in the summer swelter The birds flew off with a fallout shelter Eight miles high and falling fast Landed foul on the grass The players tried for a forward pass With the jester on the sidelines in a cast",
+        "avg_logprob": -0.10983455999224793
+      },
+      {
+        "id": 11,
+        "start": 267.584,
+        "end": 294.382,
+        "text": " Now the halftime air was sweet perfume While the sergeants played a marching tune We all got up to dance Oh, but Prince never got the chance Cause the players tried to take the field The marching band refused to yield Do you recall what was revealed the day?",
+        "avg_logprob": -0.14396306763995778
+      },
+      {
+        "id": 12,
+        "start": 300.524,
+        "end": 330.19,
+        "text": " by Mr. American Pie. Oh, I'll show you to the levee, but the levee was dry. And the good old boys were drinking whiskey and rye and singing, this will be the day that I die. This will be the day that I die. Oh, and there we were all in one place, a generation lost in space with no time left to start again.",
+        "avg_logprob": -0.23263888594544965
+      },
+      {
+        "id": 13,
+        "start": 331.118,
+        "end": 355.368,
+        "text": " So come on, Jack, be neutral, Jack, be quick Jack Glass sat on a candlestick Cause fire is the devil's only friend Oh, and as I watched him on the stage My hands were clenched in fists of rage No angel born in hell",
+        "avg_logprob": -0.14588068127632142
+      },
+      {
+        "id": 14,
+        "start": 356.33,
+        "end": 371.433,
+        "text": " Would break that Satan's spell And as the flames climbed high into the night To light the sacrificial rite I saw Satan laughing with delight today",
+        "avg_logprob": -0.22083332935969036
+      },
+      {
+        "id": 15,
+        "start": 375.196,
+        "end": 389.658,
+        "text": " He was humming bye-bye, Miss American Pie. Drove my Chevy to the levee, but the levee was dry. The good old boys were drinking whiskey and rye and singing Miss American Pie.",
+        "avg_logprob": -0.22656250609592957
+      },
+      {
+        "id": 16,
+        "start": 398.956,
+        "end": 426.614,
+        "text": " I met a girl who sang the blues And I asked her for some happy news But she just smiled and turned away And I went down to the sacred store Where I'd heard the music years before But the men there said the music wouldn't play And in the streets the children screamed",
+        "avg_logprob": -0.06983278404202378
+      },
+      {
+        "id": 17,
+        "start": 427.255,
+        "end": 455.707,
+        "text": " Lovers cried and the poets dreamed But not a word was spoken The church bells all were broken And the three men I admire most The Father, Son, and the Holy Ghost Why, they caught the last train for the coast The day the music died And they were singing",
+        "avg_logprob": -0.11598011011427099
+      },
+      {
+        "id": 18,
+        "start": 458.997,
+        "end": 476.446,
+        "text": " I drove my Chevy to the levee, but the levee was dry. And them good old boys were drinking whiskey and rye and singing, this will be the day that I die.",
+        "avg_logprob": -0.2765625089406967
+      },
+      {
+        "id": 19,
+        "start": 489.254,
+        "end": 503.412,
+        "text": " And good old boys are drinkin' whiskey and rye And singin' this lullaby",
+        "avg_logprob": -0.62946427436102
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "RciM7P9K3FA",
+    "uploader": "BBC Politics",
+    "audio_file": "corpus/01_music_videos_audio/audio/RciM7P9K3FA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 17321792,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.502031,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:18:52Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,98 @@
+{
+  "corpus_id": "mzB1VGEGcSU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/mzB1VGEGcSU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/mzB1VGEGcSU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/mzB1VGEGcSU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I still see your shadows in my room Can't take back the love that I gave you It's to the point where I love and I hate you And I cannot change you, so I must replace you Easier said than done, I thought you I still see your shadows in my room Can't take back the love that I gave you It's to the point where I love and I hate you And I cannot change you, so I must replace you Easier said than done, I thought you were the one Listening to my heart instead of mine Falling and landing inside my grave I know that you want me dead I take prescriptions to make me feel a-okay I know it's all in my head I have these lucid dreams where I'll do it over again, I didn't want it to end I watched it blow in the wind, I should've listened to my friends You did shit in the past, but I wanted to last You were made out of plastic, fake I was tangled up in your drastic ways Who knew evil girls had the prettiest face? You gave me a heart that was full of mistakes I gave you my heart and you made it I still see your shadows in my room Can't take back the love that I gave you It's to the point where I love and I hate you replace you Easier said than done, I thought you were the one listening to my heart instead of my head You found another one, but I am the better one I won't let you forget me I still see your shadows in my room Can't take back the love that I gave you It's to the point where I love and I hate you And I cannot change you, so I must replace you Easier said than done, I thought you one but I am the better one I won't let you forget me",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 13.801,
+        "end": 38.202,
+        "text": " I still see your shadows in my room Can't take back the love that I gave you It's to the point where I love and I hate you And I cannot change you, so I must replace you Easier said than done, I thought you",
+        "avg_logprob": -0.07195925595713597
+      },
+      {
+        "id": 2,
+        "start": 45.475,
+        "end": 63.683,
+        "text": " I still see your shadows in my room Can't take back the love that I gave you It's to the point where I love and I hate you And I cannot change you, so I must replace you Easier said than done, I thought you were the one Listening to my heart instead of mine",
+        "avg_logprob": -0.11488217066545955
+      },
+      {
+        "id": 3,
+        "start": 71.581,
+        "end": 95.948,
+        "text": " Falling and landing inside my grave I know that you want me dead I take prescriptions to make me feel a-okay I know it's all in my head I have these lucid dreams where",
+        "avg_logprob": -0.1133765243902439
+      },
+      {
+        "id": 4,
+        "start": 115.54,
+        "end": 137.292,
+        "text": " I'll do it over again, I didn't want it to end I watched it blow in the wind, I should've listened to my friends You did shit in the past, but I wanted to last You were made out of plastic, fake I was tangled up in your drastic ways Who knew evil girls had the prettiest face? You gave me a heart that was full of mistakes I gave you my heart and you made it",
+        "avg_logprob": -0.09797054666212235
+      },
+      {
+        "id": 5,
+        "start": 139.975,
+        "end": 169.827,
+        "text": " I still see your shadows in my room Can't take back the love that I gave you It's to the point where I love and I hate you",
+        "avg_logprob": -0.0881426444938106
+      },
+      {
+        "id": 6,
+        "start": 171.683,
+        "end": 198.245,
+        "text": " replace you Easier said than done, I thought you were the one listening to my heart instead of my head You found another one, but I am the better one I won't let you forget me I still see your shadows in my room Can't take back the love that I gave you It's to the point where I love and I hate you And I cannot change you, so I must replace you Easier said than done, I thought you",
+        "avg_logprob": -0.07293097265474088
+      },
+      {
+        "id": 7,
+        "start": 202.936,
+        "end": 216.723,
+        "text": " one but I am the better one I won't let you forget me",
+        "avg_logprob": -0.23124999403953553
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "mzB1VGEGcSU",
+    "uploader": "Lyrical Lemonade",
+    "audio_file": "corpus/01_music_videos_audio/audio/mzB1VGEGcSU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7365076,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.715066,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:17:05Z"
+  },
+  "status": "success",
+  "error": null
+}

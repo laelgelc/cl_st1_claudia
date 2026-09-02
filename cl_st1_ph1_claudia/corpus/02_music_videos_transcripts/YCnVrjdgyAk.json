@@ -1,0 +1,91 @@
+{
+  "corpus_id": "YCnVrjdgyAk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/YCnVrjdgyAk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/YCnVrjdgyAk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/YCnVrjdgyAk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Steve said I could be his assistant harpeiji player Ain't no sunshine when she's gone It's not warm when she's away Ain't no sunshine when she's gone She's always gone too long Anytime she goes away One day this time when she's gone And no sunshine which is gold This house ain't no home Anytime she goes away And I know, I know, I know, I know, I know, I know, I know, I know, I know, I know, I know, I know, I know, I know, I know, I know, I know No sunshine Only Ain't no sunshine which is gone. In this house, there ain't no dawn. Anytime she goes away. Anytime she goes away. Anytime she goes away. Anytime that she goes away She goes away",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 5.448,
+        "end": 31.891,
+        "text": " Steve said I could be his assistant harpeiji player Ain't no sunshine when she's gone",
+        "avg_logprob": -0.2767578184604645
+      },
+      {
+        "id": 2,
+        "start": 35.317,
+        "end": 54.605,
+        "text": " It's not warm when she's away Ain't no sunshine when she's gone She's always gone too long Anytime she goes away One day this time when she's gone",
+        "avg_logprob": -0.35937498807907103
+      },
+      {
+        "id": 3,
+        "start": 64.055,
+        "end": 85.25,
+        "text": " And no sunshine which is gold This house ain't no home Anytime she goes away And I know, I know, I know, I know, I know, I know, I know, I know, I know, I know, I know, I know, I know, I know, I know, I know, I know",
+        "avg_logprob": -0.20576747046674
+      },
+      {
+        "id": 4,
+        "start": 86.903,
+        "end": 107.542,
+        "text": " No sunshine Only",
+        "avg_logprob": -0.6572265475988388
+      },
+      {
+        "id": 5,
+        "start": 110.663,
+        "end": 130.61,
+        "text": " Ain't no sunshine which is gone. In this house, there ain't no dawn. Anytime she goes away. Anytime she goes away. Anytime she goes away.",
+        "avg_logprob": -0.22001379027086146
+      },
+      {
+        "id": 6,
+        "start": 168.865,
+        "end": 176.223,
+        "text": " Anytime that she goes away She goes away",
+        "avg_logprob": -0.2113715277777778
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "YCnVrjdgyAk",
+    "uploader": "Greg",
+    "audio_file": "corpus/01_music_videos_audio/audio/YCnVrjdgyAk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6092252,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.579819,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:17:17Z"
+  },
+  "status": "success",
+  "error": null
+}

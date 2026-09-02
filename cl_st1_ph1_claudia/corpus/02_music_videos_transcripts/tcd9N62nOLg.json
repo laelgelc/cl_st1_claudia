@@ -1,0 +1,91 @@
+{
+  "corpus_id": "tcd9N62nOLg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/tcd9N62nOLg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/tcd9N62nOLg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/tcd9N62nOLg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "now if there's a smile on my face it's only there trying to fool the public but when it comes down to fooling you now honey that's quite a different subject don't let my glad expression give you Really I'm sad, oh sadder than sad You're gone and I'm hurting so bad Like a clown I pretend to be glad Now there's some sad things known to man But ain't too much sadder than the tears of a clown It's only to camouflage my sadness In order to shield my pride I've tried To cover this hurt with a show of gladness But don't let my show convince you That I've been happy since you decided to go Oh, I need you so Just like Polly Archie did I try to keep my sadness in Smiling in the public In my lonely room I cry the tears of a clown When there's no one around Oh yeah baby Now if there's a smile Don't let my bad expression give you the wrong impression Don't let this smile I wear make you think that I don't care",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 12.164,
+        "end": 34.473,
+        "text": " now if there's a smile on my face it's only there trying to fool the public but when it comes down to fooling you now honey that's quite a different subject don't let my glad expression give you",
+        "avg_logprob": -0.05433238678696481
+      },
+      {
+        "id": 2,
+        "start": 35.671,
+        "end": 60.511,
+        "text": " Really I'm sad, oh sadder than sad You're gone and I'm hurting so bad Like a clown I pretend to be glad Now there's some sad things known to man But ain't too much sadder than the tears of a clown",
+        "avg_logprob": -0.10328124821186066
+      },
+      {
+        "id": 3,
+        "start": 76.829,
+        "end": 101.399,
+        "text": " It's only to camouflage my sadness In order to shield my pride I've tried To cover this hurt with a show of gladness But don't let my show convince you That I've been happy since you decided to go Oh, I need you so",
+        "avg_logprob": -0.08907781950398988
+      },
+      {
+        "id": 4,
+        "start": 108.301,
+        "end": 136.837,
+        "text": " Just like Polly Archie did I try to keep my sadness in Smiling in the public",
+        "avg_logprob": -0.22265625
+      },
+      {
+        "id": 5,
+        "start": 138.727,
+        "end": 154.454,
+        "text": " In my lonely room I cry the tears of a clown When there's no one around Oh yeah baby Now if there's a smile",
+        "avg_logprob": -0.29427082229543616
+      },
+      {
+        "id": 6,
+        "start": 157.424,
+        "end": 178.147,
+        "text": " Don't let my bad expression give you the wrong impression Don't let this smile I wear make you think that I don't care",
+        "avg_logprob": -0.2387152844005161
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "tcd9N62nOLg",
+    "uploader": "moondoggy",
+    "audio_file": "corpus/01_music_videos_audio/audio/tcd9N62nOLg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5699928,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 10.999285,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:16:59Z"
+  },
+  "status": "success",
+  "error": null
+}

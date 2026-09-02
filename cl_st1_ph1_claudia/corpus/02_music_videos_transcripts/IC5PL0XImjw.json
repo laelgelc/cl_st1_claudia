@@ -1,0 +1,84 @@
+{
+  "corpus_id": "IC5PL0XImjw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/IC5PL0XImjw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/IC5PL0XImjw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/IC5PL0XImjw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Listen, baby Ain't no mountain high Ain't no valley low Ain't no river wide enough, baby If you need me, call me No matter where you are No matter how far Don't worry, baby Just call my name I'll be there in a hurry You don't have to worry Cause, baby, there ain't no mountain high enough Ain't no valley low enough Ain't no river wide enough To keep me from getting to you, baby Remember the day I set you free I told you you could always count on me, girl And from that day on, I made a vow I'll be there when you want me, someway, somehow Oh, baby, that ain't no mouth Ain't no river wide enough to keep me from getting to you, baby. Oh, no, darling. No wind, no rain. A winter's cold can't stop me, baby. No, no, baby. Cause you are my love. If you're ever in trouble, I'll be there on the double. miles apart. If you ever need a helping hand, I'll be there on the double as fast as I can. Don't you know that there ain't no mountain high enough, ain't no valley low enough, ain't no river wide enough to keep me from getting to you, babe. Don't you know that there ain't no mountain I think as far back as I can remember hearing music and hearing people sing and perform, I just knew that it's what I wanted to do, so I started singing in church.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 4.199,
+        "end": 34.186,
+        "text": " Listen, baby Ain't no mountain high Ain't no valley low Ain't no river wide enough, baby If you need me, call me No matter where you are No matter how far Don't worry, baby Just call my name I'll be there in a hurry You don't have to worry Cause, baby, there ain't no mountain high enough",
+        "avg_logprob": -0.05815361062405815
+      },
+      {
+        "id": 2,
+        "start": 34.186,
+        "end": 62.671,
+        "text": " Ain't no valley low enough Ain't no river wide enough To keep me from getting to you, baby Remember the day I set you free I told you you could always count on me, girl And from that day on, I made a vow I'll be there when you want me, someway, somehow Oh, baby, that ain't no mouth",
+        "avg_logprob": -0.0653754316477312
+      },
+      {
+        "id": 3,
+        "start": 68.965,
+        "end": 94.7,
+        "text": " Ain't no river wide enough to keep me from getting to you, baby. Oh, no, darling. No wind, no rain. A winter's cold can't stop me, baby. No, no, baby. Cause you are my love. If you're ever in trouble, I'll be there on the double.",
+        "avg_logprob": -0.15275185944429084
+      },
+      {
+        "id": 4,
+        "start": 103.525,
+        "end": 129.327,
+        "text": " miles apart. If you ever need a helping hand, I'll be there on the double as fast as I can. Don't you know that there ain't no mountain high enough, ain't no valley low enough, ain't no river wide enough to keep me from getting to you, babe. Don't you know that there ain't no mountain",
+        "avg_logprob": -0.09127421068473601
+      },
+      {
+        "id": 5,
+        "start": 137.832,
+        "end": 150.252,
+        "text": " I think as far back as I can remember hearing music and hearing people sing and perform, I just knew that it's what I wanted to do, so I started singing in church.",
+        "avg_logprob": -0.056589225209073016
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "IC5PL0XImjw",
+    "uploader": "Doc Rudy | Soul Studios",
+    "audio_file": "corpus/01_music_videos_audio/audio/IC5PL0XImjw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5225126,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.970915,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:22:07Z"
+  },
+  "status": "success",
+  "error": null
+}

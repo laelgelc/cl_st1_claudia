@@ -1,0 +1,91 @@
+{
+  "corpus_id": "vRFo72wuU6w",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/vRFo72wuU6w.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/vRFo72wuU6w.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/vRFo72wuU6w.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "so When I die and you lay me to rest Gonna go to the place that's the best When I lay me down to die Going up to the spirit in the sky Going up to the spirit in the sky It's where I'm gonna go when I die When I die and you lay me to rest I'm gonna go to the place that's the best We'll be right back. Bye. I've been a sinner. I never sinned. I've got a friend in Jesus. So you know that when I die, he's going to set me up with the spirit in the sky. Oh, set me up with the spirit in the sky. That's where I'm going to go when I die. When I die and I'm able to rest, I'm going to go to the place that's the best. ¶¶ ¶¶",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.284,
+        "end": 13.295,
+        "text": " so",
+        "avg_logprob": -1.2373046875
+      },
+      {
+        "id": 2,
+        "start": 31.385,
+        "end": 60.089,
+        "text": " When I die and you lay me to rest Gonna go to the place that's the best When I lay me down to die Going up to the spirit in the sky Going up to the spirit in the sky It's where I'm gonna go when I die When I die and you lay me to rest I'm gonna go to the place that's the best",
+        "avg_logprob": -0.08127169869840145
+      },
+      {
+        "id": 3,
+        "start": 76.357,
+        "end": 105.179,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.5786830186843872
+      },
+      {
+        "id": 4,
+        "start": 137.495,
+        "end": 139.958,
+        "text": " Bye.",
+        "avg_logprob": -1.0625
+      },
+      {
+        "id": 5,
+        "start": 150.404,
+        "end": 179.378,
+        "text": " I've been a sinner. I never sinned. I've got a friend in Jesus. So you know that when I die, he's going to set me up with the spirit in the sky. Oh, set me up with the spirit in the sky. That's where I'm going to go when I die. When I die and I'm able to rest, I'm going to go to the place that's the best.",
+        "avg_logprob": -0.12254213215260024
+      },
+      {
+        "id": 6,
+        "start": 179.378,
+        "end": 208.589,
+        "text": " ¶¶ ¶¶",
+        "avg_logprob": -0.4930555555555556
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "vRFo72wuU6w",
+    "uploader": "Polydor 1000",
+    "audio_file": "corpus/01_music_videos_audio/audio/vRFo72wuU6w.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7500310,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 25.144016,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:57:03Z"
+  },
+  "status": "success",
+  "error": null
+}

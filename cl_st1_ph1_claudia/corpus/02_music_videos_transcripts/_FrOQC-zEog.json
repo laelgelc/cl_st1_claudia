@@ -1,0 +1,112 @@
+{
+  "corpus_id": "_FrOQC-zEog",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/_FrOQC-zEog.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/_FrOQC-zEog.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/_FrOQC-zEog.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Time to go! Hello, is there anybody in there? Just nod if you can hear me. Is there anyone home? Come on, come down. Relax I need some information first Just the basic facts Can you show me where it hurts? There is no pain, you are receding A distant ship smoke on the horizon You are only coming through in waves Your lips move but I can't hear what you're saying When I was a child I had a fever My hands felt just like two That feeling once again I can't explain You will not understand This is not how I am I have become comfortably I'm a little sick Can you stand up? I do believe it's looking good That'll keep you going for the show Come on, it's time to go There is no pain in my receding A distant ship smoke on the horizon You are only coming through in waves Though your lips move but I can't hear what you say When I was a child I caught a fleeting glimpse I cannot put my finger on it now The child is grown, the dream is gone I have become comfortably numb Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 10.477,
+        "end": 14.105,
+        "text": " Time to go!",
+        "avg_logprob": -0.283203125
+      },
+      {
+        "id": 2,
+        "start": 41.746,
+        "end": 58.823,
+        "text": " Hello, is there anybody in there? Just nod if you can hear me. Is there anyone home? Come on, come down.",
+        "avg_logprob": -0.10825892511223044
+      },
+      {
+        "id": 3,
+        "start": 71.868,
+        "end": 99.695,
+        "text": " Relax I need some information first Just the basic facts Can you show me where it hurts? There is no pain, you are receding A distant ship smoke on the horizon",
+        "avg_logprob": -0.13649553741727558
+      },
+      {
+        "id": 4,
+        "start": 102.277,
+        "end": 128.163,
+        "text": " You are only coming through in waves Your lips move but I can't hear what you're saying When I was a child I had a fever My hands felt just like two",
+        "avg_logprob": -0.08554687244551522
+      },
+      {
+        "id": 5,
+        "start": 133.664,
+        "end": 155.062,
+        "text": " That feeling once again I can't explain You will not understand This is not how I am I have become comfortably",
+        "avg_logprob": -0.22078803959100143
+      },
+      {
+        "id": 6,
+        "start": 212.403,
+        "end": 235.049,
+        "text": " I'm a little sick Can you stand up? I do believe it's looking good That'll keep you going for the show Come on, it's time to go There is no pain in my receding",
+        "avg_logprob": -0.18926711806229182
+      },
+      {
+        "id": 7,
+        "start": 238.728,
+        "end": 266.42,
+        "text": " A distant ship smoke on the horizon You are only coming through in waves Though your lips move but I can't hear what you say When I was a child I caught a fleeting glimpse",
+        "avg_logprob": -0.10433799244071308
+      },
+      {
+        "id": 8,
+        "start": 279.228,
+        "end": 299.292,
+        "text": " I cannot put my finger on it now The child is grown, the dream is gone I have become comfortably numb",
+        "avg_logprob": -0.17026154243427774
+      },
+      {
+        "id": 9,
+        "start": 409.975,
+        "end": 412.996,
+        "text": " Thank you.",
+        "avg_logprob": -0.5678710788488388
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "_FrOQC-zEog",
+    "uploader": "HELLOSEMPA",
+    "audio_file": "corpus/01_music_videos_audio/audio/_FrOQC-zEog.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 13249198,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.421241,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:57:34Z"
+  },
+  "status": "success",
+  "error": null
+}

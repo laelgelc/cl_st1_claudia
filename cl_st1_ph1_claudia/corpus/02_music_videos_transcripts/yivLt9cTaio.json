@@ -1,0 +1,112 @@
+{
+  "corpus_id": "yivLt9cTaio",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yivLt9cTaio.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/yivLt9cTaio.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/yivLt9cTaio.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "There used to be a graying tower alone on the sea You became the light on the dark side of me But did you know that when it snows, my eyes become loud and the light that you shine can't be seen? To a kiss from a rose on the grave. Ooh, the more I get, I feel stranger, it feels, yeah. And now that your rose is in bloom, a light hits the gloom on me. There is so much a man can tell you, so much he can say You remain my power, my pleasure, my pain. Baby, to me you're like a grown addiction that I can't allow. Won't you tell me it's unhealthy, baby? Did you know that when it snows, my eyes become large and the light that you shine can't be seen? Baby, I reckon, baby, Now that your rose is in bloom, a light hits the gloom on the grave. I've been kissed by a rose on the grave I've been kissed by a rose on the grave I've been kissed by a rose on the grave There is so much a man can tell me so much My power, my pleasure, my pain To me you're like a grown addiction that I can't deny Now won't you tell me is that healthy baby But did you know that when it's night My eyes become large and the light that you shine can't be seen Now that your rose is in bloom, a light hits the gloom of your bed. Yes, I can pay you to a kiss by the rose.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 29.444,
+        "text": " There used to be a graying tower alone on the sea You became the light on the dark side of me",
+        "avg_logprob": -0.10427988806496495
+      },
+      {
+        "id": 2,
+        "start": 31.385,
+        "end": 45.593,
+        "text": " But did you know that when it snows, my eyes become loud and the light that you shine can't be seen?",
+        "avg_logprob": -0.24083534685465005
+      },
+      {
+        "id": 3,
+        "start": 50.167,
+        "end": 66.805,
+        "text": " To a kiss from a rose on the grave. Ooh, the more I get, I feel stranger, it feels, yeah. And now that your rose is in bloom, a light hits the gloom on me.",
+        "avg_logprob": -0.1684027738041348
+      },
+      {
+        "id": 4,
+        "start": 75.783,
+        "end": 81.689,
+        "text": " There is so much a man can tell you, so much he can say",
+        "avg_logprob": -0.120849609375
+      },
+      {
+        "id": 5,
+        "start": 82.246,
+        "end": 111.743,
+        "text": " You remain my power, my pleasure, my pain. Baby, to me you're like a grown addiction that I can't allow. Won't you tell me it's unhealthy, baby? Did you know that when it snows, my eyes become large and the light that you shine can't be seen? Baby, I reckon, baby,",
+        "avg_logprob": -0.15089285054377147
+      },
+      {
+        "id": 6,
+        "start": 114.14,
+        "end": 128.973,
+        "text": " Now that your rose is in bloom, a light hits the gloom on the grave.",
+        "avg_logprob": -0.1629317465581392
+      },
+      {
+        "id": 7,
+        "start": 144.65,
+        "end": 169.338,
+        "text": " I've been kissed by a rose on the grave I've been kissed by a rose on the grave I've been kissed by a rose on the grave There is so much a man can tell me so much",
+        "avg_logprob": -0.15941220309053147
+      },
+      {
+        "id": 8,
+        "start": 171.194,
+        "end": 195.916,
+        "text": " My power, my pleasure, my pain To me you're like a grown addiction that I can't deny Now won't you tell me is that healthy baby But did you know that when it's night My eyes become large and the light that you shine can't be seen",
+        "avg_logprob": -0.1078835208307613
+      },
+      {
+        "id": 9,
+        "start": 204.033,
+        "end": 221.431,
+        "text": " Now that your rose is in bloom, a light hits the gloom of your bed. Yes, I can pay you to a kiss by the rose.",
+        "avg_logprob": -0.3222656352445483
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "yivLt9cTaio",
+    "uploader": "Music Guide",
+    "audio_file": "corpus/01_music_videos_audio/audio/yivLt9cTaio.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7194920,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.896274,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:13:12Z"
+  },
+  "status": "success",
+  "error": null
+}

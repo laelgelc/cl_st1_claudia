@@ -1,0 +1,91 @@
+{
+  "corpus_id": "Gw7gNf_9njs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Gw7gNf_9njs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Gw7gNf_9njs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Gw7gNf_9njs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Marianne and Wanda were the best of friends All through their high school days Both members of the 4-H club Both active in the FFA After graduation Marianne went out Looking for a bright new world Wanda looked all around this town Wanda started getting abused. She put on dark glasses, long-sleeved blouses, and makeup to cover her bruise. Well, she finally got the nerve to file for divorce. She let the law take it from there. But Earl walked right through that restraining order and put her in it. Mary Ann flew in from Atlanta on a red-eye midnight flight She held Wanda's hand and they worked out a plan And it didn't take them long to decide That Earl had to die Na-na-na-na-na The cops came by to bring Earl in They searched the house high and low Then they tipped their hats and said thank you ladies If you hear from him let us know Well the weeks went by and spring turned He was a missing person who nobody missed at all So the girls bought some land at a roadside stand Out on Highway 109 They sell Tennessee ham and strawberry jam And they don't lose any sleep at night Cause Earl had to die Good, let's go for a ride",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 16.501,
+        "end": 43.703,
+        "text": " Marianne and Wanda were the best of friends All through their high school days Both members of the 4-H club Both active in the FFA After graduation Marianne went out Looking for a bright new world Wanda looked all around this town",
+        "avg_logprob": -0.08062499806284905
+      },
+      {
+        "id": 2,
+        "start": 53.187,
+        "end": 77.74,
+        "text": " Wanda started getting abused. She put on dark glasses, long-sleeved blouses, and makeup to cover her bruise. Well, she finally got the nerve to file for divorce. She let the law take it from there. But Earl walked right through that restraining order and put her in it.",
+        "avg_logprob": -0.10366586538461539
+      },
+      {
+        "id": 3,
+        "start": 83.005,
+        "end": 101.483,
+        "text": " Mary Ann flew in from Atlanta on a red-eye midnight flight She held Wanda's hand and they worked out a plan And it didn't take them long to decide That Earl had to die Na-na-na-na-na",
+        "avg_logprob": -0.15178571915139957
+      },
+      {
+        "id": 4,
+        "start": 122.155,
+        "end": 152.108,
+        "text": " The cops came by to bring Earl in They searched the house high and low Then they tipped their hats and said thank you ladies If you hear from him let us know Well the weeks went by and spring turned",
+        "avg_logprob": -0.13372092953948087
+      },
+      {
+        "id": 5,
+        "start": 158.335,
+        "end": 183.766,
+        "text": " He was a missing person who nobody missed at all So the girls bought some land at a roadside stand Out on Highway 109 They sell Tennessee ham and strawberry jam And they don't lose any sleep at night Cause Earl had to die",
+        "avg_logprob": -0.091796875
+      },
+      {
+        "id": 6,
+        "start": 207.678,
+        "end": 210.108,
+        "text": " Good, let's go for a ride",
+        "avg_logprob": -0.287109375
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Gw7gNf_9njs",
+    "uploader": "The Chicks",
+    "audio_file": "corpus/01_music_videos_audio/audio/Gw7gNf_9njs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8258208,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.015139,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:15:26Z"
+  },
+  "status": "success",
+  "error": null
+}

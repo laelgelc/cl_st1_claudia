@@ -1,0 +1,77 @@
+{
+  "corpus_id": "R4GLAKEjU4w",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/R4GLAKEjU4w.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/R4GLAKEjU4w.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/R4GLAKEjU4w.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Don't know much about history Don't know much biology Don't know much about a science book Don't know much about the French I took But I do know that I love you And I know that if you love me too What a wonderful world this would be Don't know much about geography Don't know much trigonometry Don't know much about algebra Don't know what a slide rule is for But I do know one and one is two And if this one could be with you What a wonderful world this would be Now, I don't claim to be an A student But I'm trying to be For maybe by being an A student, baby, I can win your love for me. Don't know much about history. Don't know much biology. Don't know much about a science book. Don't know much about the French I took. but i do know that",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 5.245,
+        "end": 33.612,
+        "text": " Don't know much about history Don't know much biology Don't know much about a science book Don't know much about the French I took But I do know that I love you And I know that if you love me too What a wonderful world this would be Don't know much about geography",
+        "avg_logprob": -0.06647245712199454
+      },
+      {
+        "id": 2,
+        "start": 35.266,
+        "end": 63.43,
+        "text": " Don't know much trigonometry Don't know much about algebra Don't know what a slide rule is for But I do know one and one is two And if this one could be with you What a wonderful world this would be Now, I don't claim to be an A student But I'm trying to be",
+        "avg_logprob": -0.11486816592514515
+      },
+      {
+        "id": 3,
+        "start": 64.595,
+        "end": 86.92,
+        "text": " For maybe by being an A student, baby, I can win your love for me. Don't know much about history. Don't know much biology. Don't know much about a science book. Don't know much about the French I took.",
+        "avg_logprob": -0.06514246411183301
+      },
+      {
+        "id": 4,
+        "start": 99.695,
+        "end": 119.135,
+        "text": " but i do know that",
+        "avg_logprob": -0.5504557490348816
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "R4GLAKEjU4w",
+    "uploader": "Sam Cooke",
+    "audio_file": "corpus/01_music_videos_audio/audio/R4GLAKEjU4w.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4192302,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.010021,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:17:13Z"
+  },
+  "status": "success",
+  "error": null
+}

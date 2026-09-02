@@ -1,0 +1,105 @@
+{
+  "corpus_id": "pIgZ7gMze7A",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/pIgZ7gMze7A.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/pIgZ7gMze7A.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/pIgZ7gMze7A.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Chitterbug You put the boom boom into my heart You say my soul's got heart when your lovin' starts Chitterbug into my brain Goes to bang bang bang till my feet do the same But something's buggin' me, something ain't right My best friend told me what you did last night You left me sleepin' in my bed I was dreamin' but I should've been with you instead Wake me up Don't leave me hanging on like a yo-yo. Wake me up before you go-go. I don't want to miss it when you hit that high. Wake me up before you go-go. Cause I'm not planning on going solo. Wake me up before you go-go. Take me dancing tonight. You put the great skies out of my way You make the sunshine brighter than Doris Day Turn the bright spark into a flame My beats per minute have never been the same Cause you're my lady, I'm your fool It makes me crazy when you Wake me up before you go, go. We'll go dancing tomorrow night It's cold out there but it's warm in bed They can dance, we'll stay home instead Wake me up before you go-go Don't leave me hanging on like a yo-yo Wake me up before you go-go I don't wanna miss you when you hit that high Wake me up before you go-go Cause I'm not planning on going solo Wake me up before you go-go I'll take you dancing tonight Wake me up before you go-go Don't you dare to leave me hanging on like a yo-yo Don't let me go Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 9.397,
+        "end": 37.831,
+        "text": " Chitterbug You put the boom boom into my heart You say my soul's got heart when your lovin' starts Chitterbug into my brain Goes to bang bang bang till my feet do the same But something's buggin' me, something ain't right My best friend told me what you did last night You left me sleepin' in my bed I was dreamin' but I should've been with you instead Wake me up",
+        "avg_logprob": -0.17301615704311413
+      },
+      {
+        "id": 2,
+        "start": 39.89,
+        "end": 59.87,
+        "text": " Don't leave me hanging on like a yo-yo. Wake me up before you go-go. I don't want to miss it when you hit that high. Wake me up before you go-go. Cause I'm not planning on going solo. Wake me up before you go-go. Take me dancing tonight.",
+        "avg_logprob": -0.08208955468526527
+      },
+      {
+        "id": 3,
+        "start": 69.607,
+        "end": 88.186,
+        "text": " You put the great skies out of my way You make the sunshine brighter than Doris Day Turn the bright spark into a flame My beats per minute have never been the same Cause you're my lady, I'm your fool It makes me crazy when you",
+        "avg_logprob": -0.10049019520189248
+      },
+      {
+        "id": 4,
+        "start": 100.015,
+        "end": 116.485,
+        "text": " Wake me up before you go, go.",
+        "avg_logprob": -0.3667968839406967
+      },
+      {
+        "id": 5,
+        "start": 143.333,
+        "end": 154.808,
+        "text": " We'll go dancing tomorrow night It's cold out there but it's warm in bed They can dance, we'll stay home instead",
+        "avg_logprob": -0.2148437444810514
+      },
+      {
+        "id": 6,
+        "start": 165.98,
+        "end": 194.482,
+        "text": " Wake me up before you go-go Don't leave me hanging on like a yo-yo Wake me up before you go-go I don't wanna miss you when you hit that high Wake me up before you go-go Cause I'm not planning on going solo Wake me up before you go-go I'll take you dancing tonight Wake me up before you go-go Don't you dare to leave me hanging on like a yo-yo",
+        "avg_logprob": -0.0802712944837717
+      },
+      {
+        "id": 7,
+        "start": 196.979,
+        "end": 198.582,
+        "text": " Don't let me go",
+        "avg_logprob": -0.832031269868215
+      },
+      {
+        "id": 8,
+        "start": 226.612,
+        "end": 227.135,
+        "text": " Thank you.",
+        "avg_logprob": -0.5625
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "pIgZ7gMze7A",
+    "uploader": "WHAM!",
+    "audio_file": "corpus/01_music_videos_audio/audio/pIgZ7gMze7A.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7461672,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.676595,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:14:31Z"
+  },
+  "status": "success",
+  "error": null
+}

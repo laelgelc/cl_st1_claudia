@@ -1,0 +1,84 @@
+{
+  "corpus_id": "Tqc_EhmL8-E",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Tqc_EhmL8-E.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Tqc_EhmL8-E.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Tqc_EhmL8-E.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "It's your thing. Do what you want to do. I can't tell you who to sock it to. It's your thing. Do what you want to do. I can't tell you who to sock it to. If you want me to love you, Just as bad as I do Makes me no difference now Who you give your thing to Oh, it's your thing Do what you wanna do I can't tell you Who to talk you to It's your thing Do what you wanna do now I can't tell you Who to talk you to Do what you want to do. I can't tell you who to talk to. Hit me bad. It's your thing. Do what you want to do. I can't tell you who to talk to. I'm not trying to run your life. Do what's right Or give your love care To whomever you choose How can you lose With the stuff you use? Now, it's your thing Do what you wanna do I can tell you Who does I get to It's your thing, yeah Do what you wanna do I can't tell you who to talk to",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 11.388,
+        "end": 33.359,
+        "text": " It's your thing. Do what you want to do. I can't tell you who to sock it to. It's your thing. Do what you want to do. I can't tell you who to sock it to. If you want me to love you,",
+        "avg_logprob": -0.09204545454545454
+      },
+      {
+        "id": 2,
+        "start": 43.18,
+        "end": 72.931,
+        "text": " Just as bad as I do Makes me no difference now Who you give your thing to Oh, it's your thing Do what you wanna do I can't tell you Who to talk you to It's your thing Do what you wanna do now I can't tell you Who to talk you to",
+        "avg_logprob": -0.13691737995309344
+      },
+      {
+        "id": 3,
+        "start": 95.493,
+        "end": 118.797,
+        "text": " Do what you want to do. I can't tell you who to talk to. Hit me bad. It's your thing. Do what you want to do. I can't tell you who to talk to. I'm not trying to run your life.",
+        "avg_logprob": -0.1276533063852562
+      },
+      {
+        "id": 4,
+        "start": 122.729,
+        "end": 150.691,
+        "text": " Do what's right Or give your love care To whomever you choose How can you lose With the stuff you use? Now, it's your thing Do what you wanna do I can tell you Who does I get to It's your thing, yeah Do what you wanna do",
+        "avg_logprob": -0.2236842063435337
+      },
+      {
+        "id": 5,
+        "start": 151.501,
+        "end": 166.368,
+        "text": " I can't tell you who to talk to",
+        "avg_logprob": -0.4835937559604645
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Tqc_EhmL8-E",
+    "uploader": "The Isley Brothers",
+    "audio_file": "corpus/01_music_videos_audio/audio/Tqc_EhmL8-E.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5420544,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 22.84693,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:53:55Z"
+  },
+  "status": "success",
+  "error": null
+}

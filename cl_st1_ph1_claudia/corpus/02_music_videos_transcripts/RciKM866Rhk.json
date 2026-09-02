@@ -1,0 +1,70 @@
+{
+  "corpus_id": "RciKM866Rhk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/RciKM866Rhk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/RciKM866Rhk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/RciKM866Rhk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "They gave him Friday off, they were like, you better be back here at 7.30 on Monday. Children growing, women producing, men go working, some go stealing. Everyone's got to make a living. From the block where everybody Air Force out With a new white tee, you fresh, not phony with us Make the money, get the mansion, bring the homies with us It take hard work to cash checks So don't be fooled by the rocks that I got they assets You get back what you put out Even if you take the good route Can't count the hood out After a while you'll know who to blend with Just keep it real with the ones you came in with Best thing to do is stay low",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 19.471,
+        "end": 44.26,
+        "text": " They gave him Friday off, they were like, you better be back here at 7.30 on Monday. Children growing, women producing, men go working, some go stealing. Everyone's got to make a living.",
+        "avg_logprob": -0.18732639418707953
+      },
+      {
+        "id": 2,
+        "start": 63.346,
+        "end": 71.159,
+        "text": " From the block where everybody Air Force out With a new white tee, you fresh, not phony with us Make the money, get the mansion, bring the homies with us",
+        "avg_logprob": -0.18253800997862946
+      },
+      {
+        "id": 3,
+        "start": 166.452,
+        "end": 183.412,
+        "text": " It take hard work to cash checks So don't be fooled by the rocks that I got they assets You get back what you put out Even if you take the good route Can't count the hood out After a while you'll know who to blend with Just keep it real with the ones you came in with Best thing to do is stay low",
+        "avg_logprob": -0.08922101146932962
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "RciKM866Rhk",
+    "uploader": "Jennifer Lopez",
+    "audio_file": "corpus/01_music_videos_audio/audio/RciKM866Rhk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7334612,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.161133,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:12:57Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,98 @@
+{
+  "corpus_id": "yNHdPPJGowY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yNHdPPJGowY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/yNHdPPJGowY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/yNHdPPJGowY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "But then he laughed all night about his suicide I'd kick it in the head when he was twenty-five Speed jive, don't want to stay alive When you're twenty-five And when he's stealing clothes for marks and sparks And Freddy's got spots for ripping off the stars From his face, funky little boat race The television man is crazy, sent with juvenile delinquent wrecks. Oh, man, I need to be when I got T-Rex. I want to hear you I want to see you I want to talk to you All of you And my brother's back at home with his beetles and his stones. We never got it off on that revolution stove. What a drag. Too many snacks. And I drunk a lot of wine and I'm feeling fine. Gotta raise some caps a bit. Oh, is there concrete all around? Or is it in my... Hey dudes! Who are ya? Stand up! I wanna hear ya! I wanna see ya! All the young dudes. What dudes? Carry the news. Let's hear the news. Come on. Do, do, do, do. I want to catch you. Are you bringing it down? Because I want it. I want it right here. Bring it. Come on. Bring it. Here you go. I've wanted to do this for years. There you go. Happy to see you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 13.885,
+        "end": 38.0,
+        "text": " But then he laughed all night about his suicide I'd kick it in the head when he was twenty-five Speed jive, don't want to stay alive When you're twenty-five And when he's stealing clothes for marks and sparks And Freddy's got spots for ripping off the stars From his face, funky little boat race",
+        "avg_logprob": -0.18854944029850745
+      },
+      {
+        "id": 2,
+        "start": 38.0,
+        "end": 49.39,
+        "text": " The television man is crazy, sent with juvenile delinquent wrecks. Oh, man, I need to be when I got T-Rex.",
+        "avg_logprob": -0.12963867094367743
+      },
+      {
+        "id": 3,
+        "start": 71.632,
+        "end": 92.894,
+        "text": " I want to hear you I want to see you I want to talk to you All of you",
+        "avg_logprob": -0.23398437425494195
+      },
+      {
+        "id": 4,
+        "start": 95.392,
+        "end": 117.65,
+        "text": " And my brother's back at home with his beetles and his stones. We never got it off on that revolution stove. What a drag. Too many snacks. And I drunk a lot of wine and I'm feeling fine. Gotta raise some caps a bit. Oh, is there concrete all around? Or is it in my...",
+        "avg_logprob": -0.13131893711055026
+      },
+      {
+        "id": 5,
+        "start": 125.547,
+        "end": 147.451,
+        "text": " Hey dudes! Who are ya? Stand up! I wanna hear ya! I wanna see ya!",
+        "avg_logprob": -0.2697172619047619
+      },
+      {
+        "id": 6,
+        "start": 154.1,
+        "end": 163.077,
+        "text": " All the young dudes. What dudes? Carry the news. Let's hear the news. Come on. Do, do, do, do. I want to catch you.",
+        "avg_logprob": -0.297526042494509
+      },
+      {
+        "id": 7,
+        "start": 183.158,
+        "end": 211.137,
+        "text": " Are you bringing it down? Because I want it. I want it right here. Bring it. Come on. Bring it. Here you go. I've wanted to do this for years. There you go. Happy to see you.",
+        "avg_logprob": -0.1410236018044608
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "yNHdPPJGowY",
+    "uploader": "MOTTTHEHOOPLEVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/yNHdPPJGowY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6855352,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.182947,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:59:05Z"
+  },
+  "status": "success",
+  "error": null
+}

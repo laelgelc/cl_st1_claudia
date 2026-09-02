@@ -1,0 +1,84 @@
+{
+  "corpus_id": "Eo-KmOd3i7s",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Eo-KmOd3i7s.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Eo-KmOd3i7s.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Eo-KmOd3i7s.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": ". . . time to leave and make it alone Just wanna tell you that I had enough. It might sound crazy, but it ain't no lie. Baby, bye, bye, bye. You just hit me with the truth. Now, girl, you're more than welcome to. So give me one good reason. That life would be much better Once you're gone I know that I can't take no more It ain't no lie I wanna see you out that door Baby bye bye bye Bye bye Don't wanna be a fool for you Just another player in your game or two You may hate me but it ain't no lie Baby bye So I'm leaving you behind.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 10.713,
+        "end": 15.218,
+        "text": " . . .",
+        "avg_logprob": -1.1748046875
+      },
+      {
+        "id": 2,
+        "start": 51.77,
+        "end": 57.001,
+        "text": " time to leave and make it alone",
+        "avg_logprob": -0.4492187574505806
+      },
+      {
+        "id": 3,
+        "start": 80.474,
+        "end": 99.712,
+        "text": " Just wanna tell you that I had enough. It might sound crazy, but it ain't no lie. Baby, bye, bye, bye. You just hit me with the truth. Now, girl, you're more than welcome to. So give me one good reason.",
+        "avg_logprob": -0.1250697486102581
+      },
+      {
+        "id": 4,
+        "start": 108.301,
+        "end": 137.36,
+        "text": " That life would be much better Once you're gone I know that I can't take no more It ain't no lie I wanna see you out that door Baby bye bye bye Bye bye Don't wanna be a fool for you Just another player in your game or two You may hate me but it ain't no lie Baby bye",
+        "avg_logprob": -0.10274621516917691
+      },
+      {
+        "id": 5,
+        "start": 166.03,
+        "end": 176.695,
+        "text": " So I'm leaving you behind.",
+        "avg_logprob": -0.3786621056497097
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Eo-KmOd3i7s",
+    "uploader": "*NSYNC",
+    "audio_file": "corpus/01_music_videos_audio/audio/Eo-KmOd3i7s.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7639258,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.872626,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:21:29Z"
+  },
+  "status": "success",
+  "error": null
+}

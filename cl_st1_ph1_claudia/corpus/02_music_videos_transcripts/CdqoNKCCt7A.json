@@ -1,0 +1,84 @@
+{
+  "corpus_id": "CdqoNKCCt7A",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CdqoNKCCt7A.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/CdqoNKCCt7A.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/CdqoNKCCt7A.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Hey! Slow change may pull us apart When the light gets into your heart, baby Don't you forget about me Don't, don't, don't, don't Don't you forget about me Will you stand above me Will you recognize me? Call my name or walk on by Rain keeps falling, rain keeps falling Down, down Yeah. Don't you forget about me I'll be alone, dancing, you know it, baby Going to take you apart I'll put us back together at heart, baby Don't you forget about me",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 6.494,
+        "end": 7.625,
+        "text": " Hey!",
+        "avg_logprob": -0.3134765625
+      },
+      {
+        "id": 2,
+        "start": 45.728,
+        "end": 75.445,
+        "text": " Slow change may pull us apart When the light gets into your heart, baby Don't you forget about me Don't, don't, don't, don't Don't you forget about me Will you stand above me",
+        "avg_logprob": -0.06045809811489149
+      },
+      {
+        "id": 3,
+        "start": 76.677,
+        "end": 103.998,
+        "text": " Will you recognize me? Call my name or walk on by Rain keeps falling, rain keeps falling Down, down",
+        "avg_logprob": -0.19021739519160727
+      },
+      {
+        "id": 4,
+        "start": 112.199,
+        "end": 113.178,
+        "text": " Yeah.",
+        "avg_logprob": -1.1263020833333333
+      },
+      {
+        "id": 5,
+        "start": 141.663,
+        "end": 163.195,
+        "text": " Don't you forget about me I'll be alone, dancing, you know it, baby Going to take you apart I'll put us back together at heart, baby Don't you forget about me",
+        "avg_logprob": -0.11386718843132257
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "CdqoNKCCt7A",
+    "uploader": "Simple Minds",
+    "audio_file": "corpus/01_music_videos_audio/audio/CdqoNKCCt7A.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8409046,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.901007,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:12:14Z"
+  },
+  "status": "success",
+  "error": null
+}

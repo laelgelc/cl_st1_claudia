@@ -1,0 +1,119 @@
+{
+  "corpus_id": "bPO0bTaWcFQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/bPO0bTaWcFQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/bPO0bTaWcFQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/bPO0bTaWcFQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Jesus died for somebody's sins, but not mine. Milne, pot of thieves, wild card on my sleeve. thick heart stone my sins my own they belong to me me people say beware but I don't care the words are just rules and regulations to me me And I look so proud. I'm all in this here osmophia where anything's allowed. I go to this here party. I just get bored. And you know, you got the wind, you see it's where you're going. Hopping on the parking meter, leaning on the parking meter. Oh, you look so I'll make her mine, I'll put my spell on her Here she comes, walking down the street Here she comes, coming through my door Here she comes, crawling up my stair Here she comes, walks into the hall In a pure dress and Oh, she looks so good Oh, she looks so fine And I've gone just crazy And I hear this knock at my door, hear this knock at my door. And I look up at the big tower clock and say, oh my God, it's midnight. And my baby is walking through the door, laying on my couch. She whispers to me, you know, I take the big plunge and push you through. Oh, she was so fine. And I thought, tell the world. And I just, uh-uh, made her mine. I said, darling, tell me a line. She told me a line. She whispered to me. She told me a line. And the line is, and I'm Gloria, G-L-O-R-A Who's at the stadium? How did you hear them? How did you see? I let my eyes rise to the big tower clap and I heard those bells chiming in my heart going ding dong, ding dong, ding dong, ding dong, ding dong, ding dong, ding dong, ding dong, ding dong. Major fun, major fun, major fun Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 10,
+    "segments": [
+      {
+        "id": 1,
+        "start": 11.81,
+        "end": 30.068,
+        "text": " Jesus died for somebody's sins, but not mine. Milne, pot of thieves, wild card on my sleeve.",
+        "avg_logprob": -0.4037499904632568
+      },
+      {
+        "id": 2,
+        "start": 30.895,
+        "end": 59.178,
+        "text": " thick heart stone my sins my own they belong to me me people say beware but I don't care the words are just rules and regulations to me me",
+        "avg_logprob": -0.10675048572011292
+      },
+      {
+        "id": 3,
+        "start": 65.472,
+        "end": 94.7,
+        "text": " And I look so proud. I'm all in this here osmophia where anything's allowed. I go to this here party. I just get bored. And you know, you got the wind, you see it's where you're going. Hopping on the parking meter, leaning on the parking meter. Oh, you look so",
+        "avg_logprob": -0.32500001064368655
+      },
+      {
+        "id": 4,
+        "start": 104.656,
+        "end": 133.343,
+        "text": " I'll make her mine, I'll put my spell on her Here she comes, walking down the street Here she comes, coming through my door Here she comes, crawling up my stair Here she comes, walks into the hall In a pure dress and Oh, she looks so good Oh, she looks so fine And I've gone just crazy",
+        "avg_logprob": -0.25837861627772235
+      },
+      {
+        "id": 5,
+        "start": 136.617,
+        "end": 161.677,
+        "text": " And I hear this knock at my door, hear this knock at my door. And I look up at the big tower clock and say, oh my God, it's midnight. And my baby is walking through the door, laying on my couch. She whispers to me, you know, I take the big plunge and push you through.",
+        "avg_logprob": -0.17990757462004542
+      },
+      {
+        "id": 6,
+        "start": 162.655,
+        "end": 181.454,
+        "text": " Oh, she was so fine. And I thought, tell the world. And I just, uh-uh, made her mine. I said, darling, tell me a line. She told me a line. She whispered to me. She told me a line. And the line is, and I'm",
+        "avg_logprob": -0.2230224609375
+      },
+      {
+        "id": 7,
+        "start": 195.983,
+        "end": 217.583,
+        "text": " Gloria, G-L-O-R-A Who's at the stadium?",
+        "avg_logprob": -0.2246093816227383
+      },
+      {
+        "id": 8,
+        "start": 218.022,
+        "end": 241.343,
+        "text": " How did you hear them? How did you see? I let my eyes rise to the big tower clap and I heard those bells chiming in my heart going ding dong, ding dong, ding dong, ding dong, ding dong, ding dong, ding dong, ding dong, ding dong.",
+        "avg_logprob": -0.23229166194796563
+      },
+      {
+        "id": 9,
+        "start": 249.916,
+        "end": 264.226,
+        "text": " Major fun, major fun, major fun",
+        "avg_logprob": -0.84375
+      },
+      {
+        "id": 10,
+        "start": 347.656,
+        "end": 351.672,
+        "text": " Thank you.",
+        "avg_logprob": -0.5830078125
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "bPO0bTaWcFQ",
+    "uploader": "Patti Smith",
+    "audio_file": "corpus/01_music_videos_audio/audio/bPO0bTaWcFQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11396804,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.355629,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:04:15Z"
+  },
+  "status": "success",
+  "error": null
+}

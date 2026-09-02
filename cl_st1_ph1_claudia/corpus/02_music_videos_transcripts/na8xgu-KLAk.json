@@ -1,0 +1,91 @@
+{
+  "corpus_id": "na8xgu-KLAk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/na8xgu-KLAk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/na8xgu-KLAk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/na8xgu-KLAk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Now Ziggy played guitar Charming good with weird and giggly And the spiders from Mars He played it left hand But made it too far Became the special man Then we were Ziggy's band Ziggy really sang Screwed up eyes and screwed down hairdo Like some cat from Japan He could lick them by smiling He could leave them to hide Became one so loaded man Well hung in Snow White's hand So where were the spiders? While the fly tried to break our bones Just the beer light to guide us So we bitched about his fans And should we crush his sweet hands? Ziggy played for time Jiving us that we were voodoo The kids would just grasp He was the gnat with God-given ass He took it all too far But boy, could he play guitar Making love with his ego Sick-ass, sucked up into his mind Like a lava messiah Blank in time",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.537,
+        "end": 27.2,
+        "text": " Now Ziggy played guitar",
+        "avg_logprob": -0.3505859275658925
+      },
+      {
+        "id": 2,
+        "start": 28.297,
+        "end": 57.423,
+        "text": " Charming good with weird and giggly And the spiders from Mars He played it left hand But made it too far Became the special man Then we were Ziggy's band Ziggy really sang Screwed up eyes and screwed down hairdo Like some cat from Japan",
+        "avg_logprob": -0.15190972608548622
+      },
+      {
+        "id": 3,
+        "start": 58.756,
+        "end": 88.54,
+        "text": " He could lick them by smiling He could leave them to hide Became one so loaded man Well hung in Snow White's hand So where were the spiders? While the fly tried to break our bones Just the beer light to guide us",
+        "avg_logprob": -0.24202127722983666
+      },
+      {
+        "id": 4,
+        "start": 88.928,
+        "end": 117.16,
+        "text": " So we bitched about his fans And should we crush his sweet hands? Ziggy played for time Jiving us that we were voodoo The kids would just grasp",
+        "avg_logprob": -0.20055802975382123
+      },
+      {
+        "id": 5,
+        "start": 118.747,
+        "end": 147.535,
+        "text": " He was the gnat with God-given ass He took it all too far But boy, could he play guitar Making love with his ego Sick-ass, sucked up into his mind Like a lava messiah",
+        "avg_logprob": -0.2718394981189208
+      },
+      {
+        "id": 6,
+        "start": 178.518,
+        "end": 182.163,
+        "text": " Blank in time",
+        "avg_logprob": -0.41796875
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "na8xgu-KLAk",
+    "uploader": "David Bowie",
+    "audio_file": "corpus/01_music_videos_audio/audio/na8xgu-KLAk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6338198,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.171206,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:58:30Z"
+  },
+  "status": "success",
+  "error": null
+}

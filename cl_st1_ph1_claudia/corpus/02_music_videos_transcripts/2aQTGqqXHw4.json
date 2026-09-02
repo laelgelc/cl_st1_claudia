@@ -1,0 +1,98 @@
+{
+  "corpus_id": "2aQTGqqXHw4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/2aQTGqqXHw4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/2aQTGqqXHw4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/2aQTGqqXHw4.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "After this week, in her face I want another stage. Hoping for a little day, to hear what she's got to say. All about that personality question, you got it while it was hot. The frustration on it, that's what you got. I gotta say about the personality. You try to be something, now you gotta do something. Wanna be someone to tell wild ones what you're thinking about the times you did make you never out. When it's showing that to be ashamed, when you're sad to scream and shout. That's what you got. You're a prima ballerina on a spring afternoon. Changed on into the woman you're hollering at the moon. Oh, personality crisis. You got it while it was hot. It's always touching, no frustration. Honey, that's what you've got. Now with all the cross and faith that Mother Nature sent, your mirror's getting jammed up with all your friends. It's personality. Ever seen and thought it's a plan? Uh-huh. Not like one. Personality. When your mind's such a friend. on television. Personality crisis, you gotta wonder what's hot. There's no way that you know it's frustration. Boy, that's all you got. But don't you worry. Personality crisis, you don't cry. There's no personality crisis, you don't shy. Next on Don Kirshner's...",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 31.25,
+        "end": 57.001,
+        "text": " After this week, in her face I want another stage. Hoping for a little day, to hear what she's got to say. All about that personality question, you got it while it was hot. The frustration on it, that's what you got. I gotta say about the personality.",
+        "avg_logprob": -0.3350409718810535
+      },
+      {
+        "id": 2,
+        "start": 67.16,
+        "end": 83.343,
+        "text": " You try to be something, now you gotta do something. Wanna be someone to tell wild ones what you're thinking about the times you did make you never out. When it's showing that to be ashamed, when you're sad to scream and shout.",
+        "avg_logprob": -0.4107571989297867
+      },
+      {
+        "id": 3,
+        "start": 85.098,
+        "end": 103.289,
+        "text": " That's what you got.",
+        "avg_logprob": -0.7047991071428571
+      },
+      {
+        "id": 4,
+        "start": 129.817,
+        "end": 152.682,
+        "text": " You're a prima ballerina on a spring afternoon. Changed on into the woman you're hollering at the moon. Oh, personality crisis. You got it while it was hot. It's always touching, no frustration. Honey, that's what you've got.",
+        "avg_logprob": -0.3065732779174015
+      },
+      {
+        "id": 5,
+        "start": 166.975,
+        "end": 183.462,
+        "text": " Now with all the cross and faith that Mother Nature sent, your mirror's getting jammed up with all your friends. It's personality. Ever seen and thought it's a plan? Uh-huh. Not like one. Personality. When your mind's such a friend.",
+        "avg_logprob": -0.20270647747176035
+      },
+      {
+        "id": 6,
+        "start": 196.405,
+        "end": 219.845,
+        "text": " on television. Personality crisis, you gotta wonder what's hot. There's no way that you know it's frustration. Boy, that's all you got. But don't you worry. Personality crisis, you don't cry. There's no personality crisis, you don't shy.",
+        "avg_logprob": -0.23046874948616686
+      },
+      {
+        "id": 7,
+        "start": 233.497,
+        "end": 235.15,
+        "text": " Next on Don Kirshner's...",
+        "avg_logprob": -0.3539496527777778
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "2aQTGqqXHw4",
+    "uploader": "TheNewYorkDollsVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/2aQTGqqXHw4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7524086,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.796716,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:58:43Z"
+  },
+  "status": "success",
+  "error": null
+}

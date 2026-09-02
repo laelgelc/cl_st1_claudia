@@ -1,0 +1,112 @@
+{
+  "corpus_id": "8hEYwk0bypY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8hEYwk0bypY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/8hEYwk0bypY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/8hEYwk0bypY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Ladies and gentlemen, take a trip back to 1966 and meet the great Muddy Waters and his band. Got my mojo working, but it just don't work on you. Got my mojo working, but it just don't work on you. I want to love you so bad till I don't know when. I'm flying down in Louisiana to get me a mojo hat. I'm flying down in Louisiana to get me a mojo hat. Wrecked you in the mind of a man. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. I got a gypsy woman giving me a goodbye. I got a gypsy woman giving me a goodbye. I got a whole lot of tricks keeping him on his way. But just don't worry, don't worry. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Just don't work on you In a 10-year period between 1950 and 1960, Muddy Waters and his band's recordings of songs like that one got my mojo working. Turned out to be one of the greatest collections of electric blues recordings ever made. In fact, Muddy Waters had a huge impact on the history of blues music and rock and roll.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.313,
+        "end": 13.43,
+        "text": " Ladies and gentlemen, take a trip back to 1966 and meet the great Muddy Waters and his band.",
+        "avg_logprob": -0.03715376471253959
+      },
+      {
+        "id": 2,
+        "start": 24.618,
+        "end": 44.092,
+        "text": " Got my mojo working, but it just don't work on you. Got my mojo working, but it just don't work on you. I want to love you so bad till I don't know when.",
+        "avg_logprob": -0.09053819643126594
+      },
+      {
+        "id": 3,
+        "start": 47.517,
+        "end": 58.469,
+        "text": " I'm flying down in Louisiana to get me a mojo hat. I'm flying down in Louisiana to get me a mojo hat.",
+        "avg_logprob": -0.14224138342100998
+      },
+      {
+        "id": 4,
+        "start": 62.654,
+        "end": 87.376,
+        "text": " Wrecked you in the mind of a man. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo.",
+        "avg_logprob": -0.2875381021237955
+      },
+      {
+        "id": 5,
+        "start": 120.215,
+        "end": 145.763,
+        "text": " I got a gypsy woman giving me a goodbye. I got a gypsy woman giving me a goodbye. I got a whole lot of tricks keeping him on his way.",
+        "avg_logprob": -0.2125651016831398
+      },
+      {
+        "id": 6,
+        "start": 151.282,
+        "end": 165.794,
+        "text": " But just don't worry, don't worry.",
+        "avg_logprob": -0.7855113527991555
+      },
+      {
+        "id": 7,
+        "start": 198.65,
+        "end": 226.072,
+        "text": " Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo. Got my mojo.",
+        "avg_logprob": -0.1776494523105414
+      },
+      {
+        "id": 8,
+        "start": 228.147,
+        "end": 246.592,
+        "text": " Just don't work on you",
+        "avg_logprob": -0.23632813351494925
+      },
+      {
+        "id": 9,
+        "start": 254.928,
+        "end": 270.183,
+        "text": " In a 10-year period between 1950 and 1960, Muddy Waters and his band's recordings of songs like that one got my mojo working. Turned out to be one of the greatest collections of electric blues recordings ever made. In fact, Muddy Waters had a huge impact on the history of blues music and rock and roll.",
+        "avg_logprob": -0.050724638329035995
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "8hEYwk0bypY",
+    "uploader": "Kenneth Sutherland",
+    "audio_file": "corpus/01_music_videos_audio/audio/8hEYwk0bypY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8686942,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.495511,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:32Z"
+  },
+  "status": "success",
+  "error": null
+}

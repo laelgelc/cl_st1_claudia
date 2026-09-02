@@ -1,0 +1,91 @@
+{
+  "corpus_id": "OSxuXsyanCI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/OSxuXsyanCI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/OSxuXsyanCI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/OSxuXsyanCI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Lines form on my face and hands Lines form from the ups and downs I'm in the middle without any plans I'm a boy and I'm a man I'm crazy and I don't know what I want I'm crazy and I just don't know what I want I'll go running in outer space, yeah Well, I got a baby's brain, I got an old man's heart Took 18 years to get this far Don't always know what I'm talking about I just don't know what to say Face my hands Let's move from the ups and downs You know your mama thinks I'm filthy. And your daddy calls me scum. But wrap your fingers all around me. I'm your co-co-co-co-co-co-co-con!",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 28.567,
+        "end": 57.727,
+        "text": " Lines form on my face and hands Lines form from the ups and downs I'm in the middle without any plans I'm a boy and I'm a man I'm crazy and I don't know what I want I'm crazy and I just don't know what I want",
+        "avg_logprob": -0.08977521720685457
+      },
+      {
+        "id": 2,
+        "start": 66.923,
+        "end": 93.974,
+        "text": " I'll go running in outer space, yeah Well, I got a baby's brain, I got an old man's heart Took 18 years to get this far Don't always know what I'm talking about",
+        "avg_logprob": -0.2126116007566452
+      },
+      {
+        "id": 3,
+        "start": 105.601,
+        "end": 108.385,
+        "text": " I just don't know what to say",
+        "avg_logprob": -0.06282552083333333
+      },
+      {
+        "id": 4,
+        "start": 147.4,
+        "end": 153.155,
+        "text": " Face my hands Let's move from the ups and downs",
+        "avg_logprob": -0.4736327876647313
+      },
+      {
+        "id": 5,
+        "start": 274.452,
+        "end": 300.507,
+        "text": " You know your mama thinks I'm filthy. And your daddy calls me scum. But wrap your fingers all around me.",
+        "avg_logprob": -0.09442607943828289
+      },
+      {
+        "id": 6,
+        "start": 301.756,
+        "end": 305.35,
+        "text": " I'm your co-co-co-co-co-co-co-con!",
+        "avg_logprob": -0.2914062425494194
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "OSxuXsyanCI",
+    "uploader": "Official Alice Cooper",
+    "audio_file": "corpus/01_music_videos_audio/audio/OSxuXsyanCI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9848312,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 36.11714,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:55:12Z"
+  },
+  "status": "success",
+  "error": null
+}

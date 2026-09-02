@@ -1,0 +1,98 @@
+{
+  "corpus_id": "NlnwXIigAAs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/NlnwXIigAAs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/NlnwXIigAAs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/NlnwXIigAAs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Why do all the monsters come out at night? Why do we sleep when we want to hide? Why do I run back to you like I don't mind? Do all the monsters come out at night? Why do we sleep when we want to hide? Why do I run back to you like I don't mind if you fuck up my life? Why am I a sucker for all your lies? I'll come back to you like I don't mind I'm addicted to the way you hurt The way you contradict me I swear everything look worse at night I think I'm overthinking I don't care who I'm I hurt along the way I'm fucking sinking into every word I don't care if you're lying when I'm drinking so Tell me pretty lies Love me in my face Tell me that you love me Leave these questions in my sheets, I'm under it I made my bed and I'm still wondering I'm wondering why do all the monsters come out at night? Why do we sleep where we want to hide? Why do I run back to you like I don't mind if you fuck up my life? Why am I a sucker for all your lies? Strung out like laundry on every line Why do I come back to you like I don't mind if you fuck up my life? Thinking about you, you're in my head Even without you, I still feel dead Why do I run back to you like I don't mind if you fuck up my life? Dead Thinking about you, you're in my head Even without you, I still feel dead Why do I run back to you like I don't mind if you fuck up my life? Why do we slip when we want to hide? Why do I run back to you like I don't mind if you fuck up my life? Why am I a sucker for all your lies? Like I don't mind if you suck on my life",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 5.178,
+        "end": 15.607,
+        "text": " Why do all the monsters come out at night? Why do we sleep when we want to hide? Why do I run back to you like I don't mind?",
+        "avg_logprob": -0.05951286874273244
+      },
+      {
+        "id": 2,
+        "start": 44.48,
+        "end": 59.127,
+        "text": " Do all the monsters come out at night? Why do we sleep when we want to hide? Why do I run back to you like I don't mind if you fuck up my life? Why am I a sucker for all your lies?",
+        "avg_logprob": -0.027144451530612245
+      },
+      {
+        "id": 3,
+        "start": 62.519,
+        "end": 83.798,
+        "text": " I'll come back to you like I don't mind I'm addicted to the way you hurt The way you contradict me I swear everything look worse at night I think I'm overthinking I don't care who I'm I hurt along the way I'm fucking sinking into every word I don't care if you're lying when I'm drinking so Tell me pretty lies Love me in my face Tell me that you love me",
+        "avg_logprob": -0.11672793767031502
+      },
+      {
+        "id": 4,
+        "start": 86.161,
+        "end": 114.747,
+        "text": " Leave these questions in my sheets, I'm under it I made my bed and I'm still wondering I'm wondering why do all the monsters come out at night? Why do we sleep where we want to hide? Why do I run back to you like I don't mind if you fuck up my life? Why am I a sucker for all your lies? Strung out like laundry on every line Why do I come back to you like I don't mind if you fuck up my life?",
+        "avg_logprob": -0.027128906194120644
+      },
+      {
+        "id": 5,
+        "start": 115.574,
+        "end": 138.355,
+        "text": " Thinking about you, you're in my head Even without you, I still feel dead Why do I run back to you like I don't mind if you fuck up my life? Dead Thinking about you, you're in my head Even without you, I still feel dead Why do I run back to you like I don't mind if you fuck up my life?",
+        "avg_logprob": -0.02338471366847689
+      },
+      {
+        "id": 6,
+        "start": 145.105,
+        "end": 156.648,
+        "text": " Why do we slip when we want to hide? Why do I run back to you like I don't mind if you fuck up my life? Why am I a sucker for all your lies?",
+        "avg_logprob": -0.07163085658103227
+      },
+      {
+        "id": 7,
+        "start": 173.54,
+        "end": 177.742,
+        "text": " Like I don't mind if you suck on my life",
+        "avg_logprob": -0.1546224020421505
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "NlnwXIigAAs",
+    "uploader": "All Time Low",
+    "audio_file": "corpus/01_music_videos_audio/audio/NlnwXIigAAs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5738566,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 11.781065,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:04:31Z"
+  },
+  "status": "success",
+  "error": null
+}

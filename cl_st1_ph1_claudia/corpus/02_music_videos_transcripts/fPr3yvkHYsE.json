@@ -1,0 +1,98 @@
+{
+  "corpus_id": "fPr3yvkHYsE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/fPr3yvkHYsE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/fPr3yvkHYsE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/fPr3yvkHYsE.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I was born by the river In a little tent Oh, and just like the river I've been running Ever since it's been a long, long time coming. But I know a change gonna come. Oh, yes, it will. It's been too hard living, but I'm afraid to die. I don't know what's up there beyond the sky It's been a long, a long time coming But I know a change gonna come Oh yes it will To the movie And I go downtown Somebody keep telling me Don't hang around It's been a long A long time coming But I know A change gonna come Oh, yes it will Then I go to my brother And I say, brother, help me please But he winds up knocking me Oh, there have been times that I've fallen Now I think I'm able to carry on It's been a long, a long time coming But I know a change gonna come Oh yes it will",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 4.317,
+        "end": 29.073,
+        "text": " I was born by the river In a little tent Oh, and just like the river I've been running",
+        "avg_logprob": -0.10245028442957184
+      },
+      {
+        "id": 2,
+        "start": 30.338,
+        "end": 56.174,
+        "text": " Ever since it's been a long, long time coming. But I know a change gonna come. Oh, yes, it will. It's been too hard living, but I'm afraid to die.",
+        "avg_logprob": -0.1339285746216774
+      },
+      {
+        "id": 3,
+        "start": 59.752,
+        "end": 80.153,
+        "text": " I don't know what's up there beyond the sky It's been a long, a long time coming But I know a change gonna come Oh yes it will",
+        "avg_logprob": -0.14524147727272727
+      },
+      {
+        "id": 4,
+        "start": 83.579,
+        "end": 110.292,
+        "text": " To the movie And I go downtown Somebody keep telling me Don't hang around It's been a long A long time coming But I know A change gonna come",
+        "avg_logprob": -0.12792968098074198
+      },
+      {
+        "id": 5,
+        "start": 111.693,
+        "end": 141.157,
+        "text": " Oh, yes it will Then I go to my brother And I say, brother, help me please But he winds up knocking me",
+        "avg_logprob": -0.13310185737080044
+      },
+      {
+        "id": 6,
+        "start": 145.409,
+        "end": 153.323,
+        "text": " Oh, there have been times that I've fallen",
+        "avg_logprob": -0.395596596327695
+      },
+      {
+        "id": 7,
+        "start": 159.955,
+        "end": 182.517,
+        "text": " Now I think I'm able to carry on It's been a long, a long time coming But I know a change gonna come Oh yes it will",
+        "avg_logprob": -0.14352318740660144
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "fPr3yvkHYsE",
+    "uploader": "Entre Ciel Et Terre",
+    "audio_file": "corpus/01_music_videos_audio/audio/fPr3yvkHYsE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6106370,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.952317,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:02:11Z"
+  },
+  "status": "success",
+  "error": null
+}

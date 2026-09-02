@@ -1,0 +1,105 @@
+{
+  "corpus_id": "ZmDBbnmKpqQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ZmDBbnmKpqQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ZmDBbnmKpqQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ZmDBbnmKpqQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Got my driver's license last week Just like we always talked about Cause you were so excited for me To finally drive up to your house But today I drove through the suburbs Crying cause you weren't around And you're probably with that blonde girl Who always made me doubt She's so much older than me She's everything I'm insecure about Yet today I drove through the suburbs Cause how could I ever love someone else? this way for no one And I just can't imagine how you could be so okay now that I'm gone Guess you didn't mean what you wrote in that song about me You said forever, now I drive alone past your street All my friends are tired of hearing how much You said forever, now I drive alone past your street Red lights, stop signs, I still see your face in the white cars Front doors, can't drive past the places we used to We cross, I still hear your voice In the traffic, we're laughing I've never felt this way for no one And I just can't imagine how you could be so okay Now that I'm gone Cause you didn't mean what you wrote in that song about me Cause you said forever, now I drive alone past your street You said forever, now I drive alone past your street",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 13.126,
+        "end": 32.448,
+        "text": " Got my driver's license last week Just like we always talked about Cause you were so excited for me To finally drive up to your house But today I drove through the suburbs Crying cause you weren't around",
+        "avg_logprob": -0.04938616089168049
+      },
+      {
+        "id": 2,
+        "start": 36.059,
+        "end": 56.36,
+        "text": " And you're probably with that blonde girl Who always made me doubt She's so much older than me She's everything I'm insecure about Yet today I drove through the suburbs Cause how could I ever love someone else?",
+        "avg_logprob": -0.05202414704994722
+      },
+      {
+        "id": 3,
+        "start": 63.548,
+        "end": 89.89,
+        "text": " this way for no one And I just can't imagine how you could be so okay now that I'm gone Guess you didn't mean what you wrote in that song about me You said forever, now I drive alone past your street",
+        "avg_logprob": -0.08431682244260261
+      },
+      {
+        "id": 4,
+        "start": 93.147,
+        "end": 97.197,
+        "text": " All my friends are tired of hearing how much",
+        "avg_logprob": -0.16249999701976775
+      },
+      {
+        "id": 5,
+        "start": 142.304,
+        "end": 162.622,
+        "text": " You said forever, now I drive alone past your street Red lights, stop signs, I still see your face in the white cars Front doors, can't drive past the places we used to",
+        "avg_logprob": -0.15434695436404303
+      },
+      {
+        "id": 6,
+        "start": 176.948,
+        "end": 185.318,
+        "text": " We cross, I still hear your voice In the traffic, we're laughing",
+        "avg_logprob": -0.1920166052877903
+      },
+      {
+        "id": 7,
+        "start": 205.687,
+        "end": 233.294,
+        "text": " I've never felt this way for no one And I just can't imagine how you could be so okay Now that I'm gone Cause you didn't mean what you wrote in that song about me Cause you said forever, now I drive alone past your street",
+        "avg_logprob": -0.07850060153466004
+      },
+      {
+        "id": 8,
+        "start": 235.69,
+        "end": 240.314,
+        "text": " You said forever, now I drive alone past your street",
+        "avg_logprob": -0.1168619804084301
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "ZmDBbnmKpqQ",
+    "uploader": "Olivia Rodrigo",
+    "audio_file": "corpus/01_music_videos_audio/audio/ZmDBbnmKpqQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7906008,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.117943,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:21:01Z"
+  },
+  "status": "success",
+  "error": null
+}

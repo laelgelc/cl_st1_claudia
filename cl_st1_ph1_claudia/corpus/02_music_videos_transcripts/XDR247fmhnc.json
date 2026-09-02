@@ -1,0 +1,91 @@
+{
+  "corpus_id": "XDR247fmhnc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/XDR247fmhnc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/XDR247fmhnc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/XDR247fmhnc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Her name was Lola. She was a showgirl with yellow feathers in her hair and a dress cut down to there. She would meringue game and do the cha-cha. And while she tried to be a star, Tony always tended bar across the crowded floor. They worked from 8 till 4. They were young and they had each other. Who could ask for more at the Copa? The hottest spot north of Havana At the Copa Copacabana Music and passion were always the fashion at the Copa They fell in love His name was Rico. He wore a diamond. He was escorted to his chair. He saw Lola dancing there. And when she finished, he called her over. But Rico went a bit too far. Tony sailed across the bar. And then the punches flew. And chairs were smashed in two. There was blood and a single gunshot. But just who shot who at the cobra? The hottest spot north of Havana, here at the Copa, Copacabana. Music and passion were always the fashion at the Copa. She lost her love. Her name is Lola She was a showgirl But that was 30 years ago When they used to have a show Now it's a disco But not for Lola Still in the dress she used to wear Faded feathers in her hair She sits there so refined And drinks herself half blind She lost her youth and she lost her Tony Now she's lost her mind At the Cobra Cobra Cabana The hottest spot north of Havana, here at the Copa, Copacabana. Music and passion were always the fashion at the Copa.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 8.097,
+        "end": 34.456,
+        "text": " Her name was Lola. She was a showgirl with yellow feathers in her hair and a dress cut down to there. She would meringue game and do the cha-cha. And while she tried to be a star, Tony always tended bar across the crowded floor. They worked from 8 till 4. They were young and they had each other. Who could ask for more at the Copa?",
+        "avg_logprob": -0.12934028366465627
+      },
+      {
+        "id": 2,
+        "start": 37.257,
+        "end": 53.862,
+        "text": " The hottest spot north of Havana At the Copa Copacabana Music and passion were always the fashion at the Copa They fell in love",
+        "avg_logprob": -0.2207661348004495
+      },
+      {
+        "id": 3,
+        "start": 61.372,
+        "end": 87.359,
+        "text": " His name was Rico. He wore a diamond. He was escorted to his chair. He saw Lola dancing there. And when she finished, he called her over. But Rico went a bit too far. Tony sailed across the bar. And then the punches flew. And chairs were smashed in two. There was blood and a single gunshot. But just who shot who at the cobra?",
+        "avg_logprob": -0.06958912184209
+      },
+      {
+        "id": 4,
+        "start": 90.262,
+        "end": 107.93,
+        "text": " The hottest spot north of Havana, here at the Copa, Copacabana. Music and passion were always the fashion at the Copa. She lost her love.",
+        "avg_logprob": -0.059755067970301654
+      },
+      {
+        "id": 5,
+        "start": 143.485,
+        "end": 171.65,
+        "text": " Her name is Lola She was a showgirl But that was 30 years ago When they used to have a show Now it's a disco But not for Lola Still in the dress she used to wear Faded feathers in her hair She sits there so refined And drinks herself half blind She lost her youth and she lost her Tony Now she's lost her mind At the Cobra Cobra Cabana",
+        "avg_logprob": -0.1045524706075221
+      },
+      {
+        "id": 6,
+        "start": 171.65,
+        "end": 186.483,
+        "text": " The hottest spot north of Havana, here at the Copa, Copacabana. Music and passion were always the fashion at the Copa.",
+        "avg_logprob": -0.08917236304841936
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "XDR247fmhnc",
+    "uploader": "Bertrand Vandemeulebroucke",
+    "audio_file": "corpus/01_music_videos_audio/audio/XDR247fmhnc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7099068,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.901363,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:16:55Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,77 @@
+{
+  "corpus_id": "wSWMJxbxj7c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wSWMJxbxj7c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/wSWMJxbxj7c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/wSWMJxbxj7c.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "What went wrong with our love, though it was so strong? And as I still walk on, I think of the things we've done together, while our hearts were young. Tears are falling and I feel a pain Wishing you were here by me To end this misery And I wonder, I wa-wa-wa-wa-wonder Why, why, why, why, why, why She ran away I wonder, I wonder, I wonder She ran away And I wonder Where she will stay My little runaway Run, run, run, run, runaway Run, run, run, run, runaway Run, run, run, run, runaway",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 11.135,
+        "end": 29.225,
+        "text": " What went wrong with our love, though it was so strong? And as I still walk on, I think of the things we've done together, while our hearts were young.",
+        "avg_logprob": -0.10768581322721534
+      },
+      {
+        "id": 2,
+        "start": 35.384,
+        "end": 56.461,
+        "text": " Tears are falling and I feel a pain Wishing you were here by me To end this misery And I wonder, I wa-wa-wa-wa-wonder Why, why, why, why, why, why She ran away",
+        "avg_logprob": -0.20609375029802324
+      },
+      {
+        "id": 3,
+        "start": 96.995,
+        "end": 113.127,
+        "text": " I wonder, I wonder, I wonder",
+        "avg_logprob": -0.5625
+      },
+      {
+        "id": 4,
+        "start": 116.266,
+        "end": 135.74,
+        "text": " She ran away And I wonder Where she will stay My little runaway Run, run, run, run, runaway Run, run, run, run, runaway Run, run, run, run, runaway",
+        "avg_logprob": -0.09435764087571039
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "wSWMJxbxj7c",
+    "uploader": "rokum71",
+    "audio_file": "corpus/01_music_videos_audio/audio/wSWMJxbxj7c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4343138,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.477019,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:20:03Z"
+  },
+  "status": "success",
+  "error": null
+}

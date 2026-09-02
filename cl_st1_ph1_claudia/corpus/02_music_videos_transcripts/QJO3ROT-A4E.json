@@ -1,0 +1,91 @@
+{
+  "corpus_id": "QJO3ROT-A4E",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/QJO3ROT-A4E.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/QJO3ROT-A4E.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/QJO3ROT-A4E.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You're insecure, don't know what for You're turning heads when you walk through the door Don't need makeup to cover up Being the way that you are is enough My world like nobody else The way that you lift your hair gets me overwhelmed But when you smile at the ground it ain't hard to tell You don't know, you don't know you're beautiful If only you saw what I can see You'd understand why I want you so desperately Right now I'm looking at you and I can't That's what makes you beautiful So come on, you got it wrong To prove I'm right, I put it in a song I don't know why you're being shy And to the way when I look into your eyes Everyone else in the room can see it You light up my world like nobody else The way that you live, your hair gets me overwhelmed But when you smile at the ground, it ain't hard to tell You don't know, you don't know you're beautiful If only you saw what I can see You'd understand why I want you so desperately Right now I'm looking at you and I can't believe Baby you light up my world like nobody else The way that you flip your hair gets me overwhelmed But when you smile at the ground it ain't hard to tell You'll understand why I want you so desperately Right now I'm looking at you and I can't believe you don't know Oh oh, you don't know you're beautiful Oh oh, you don't know you're beautiful Oh oh, that's what makes you beautiful",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 5.043,
+        "end": 26.17,
+        "text": " You're insecure, don't know what for You're turning heads when you walk through the door Don't need makeup to cover up Being the way that you are is enough",
+        "avg_logprob": -0.08895089626312255
+      },
+      {
+        "id": 2,
+        "start": 35.587,
+        "end": 60.123,
+        "text": " My world like nobody else The way that you lift your hair gets me overwhelmed But when you smile at the ground it ain't hard to tell You don't know, you don't know you're beautiful If only you saw what I can see You'd understand why I want you so desperately Right now I'm looking at you and I can't",
+        "avg_logprob": -0.13858695652173914
+      },
+      {
+        "id": 3,
+        "start": 67.936,
+        "end": 92.506,
+        "text": " That's what makes you beautiful So come on, you got it wrong To prove I'm right, I put it in a song I don't know why you're being shy And to the way when I look into your eyes Everyone else in the room can see it",
+        "avg_logprob": -0.1265190972222222
+      },
+      {
+        "id": 4,
+        "start": 96.218,
+        "end": 122.611,
+        "text": " You light up my world like nobody else The way that you live, your hair gets me overwhelmed But when you smile at the ground, it ain't hard to tell You don't know, you don't know you're beautiful If only you saw what I can see You'd understand why I want you so desperately Right now I'm looking at you and I can't believe",
+        "avg_logprob": -0.0486979149778684
+      },
+      {
+        "id": 5,
+        "start": 145.696,
+        "end": 157.863,
+        "text": " Baby you light up my world like nobody else The way that you flip your hair gets me overwhelmed But when you smile at the ground it ain't hard to tell",
+        "avg_logprob": -0.07481060606060606
+      },
+      {
+        "id": 6,
+        "start": 179.885,
+        "end": 200.658,
+        "text": " You'll understand why I want you so desperately Right now I'm looking at you and I can't believe you don't know Oh oh, you don't know you're beautiful Oh oh, you don't know you're beautiful Oh oh, that's what makes you beautiful",
+        "avg_logprob": -0.07428977462378415
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "QJO3ROT-A4E",
+    "uploader": "One Direction",
+    "audio_file": "corpus/01_music_videos_audio/audio/QJO3ROT-A4E.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6607178,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.689399,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:20:35Z"
+  },
+  "status": "success",
+  "error": null
+}

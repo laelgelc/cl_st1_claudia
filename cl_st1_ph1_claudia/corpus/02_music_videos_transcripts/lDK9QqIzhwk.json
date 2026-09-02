@@ -1,0 +1,98 @@
+{
+  "corpus_id": "lDK9QqIzhwk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/lDK9QqIzhwk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/lDK9QqIzhwk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/lDK9QqIzhwk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "¶¶ What's about time? We've been out so long Tommy used to work on the docks Union's been on track His doubt on his luck gets tough She says we gotta hold on to what we've got. It doesn't make a difference if we make it or not. We got each other and that's a lot for love. We gotta hold on to what we've got It doesn't make a difference if we make it or not We got each other My hand You live for the fight when that's all that you've got Bye. Bye. Bye. Bye.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 8.468,
+        "end": 13.075,
+        "text": " ¶¶",
+        "avg_logprob": -0.8078125
+      },
+      {
+        "id": 2,
+        "start": 39.603,
+        "end": 55.499,
+        "text": " What's about time? We've been out so long Tommy used to work on the docks Union's been on track His doubt on his luck gets tough",
+        "avg_logprob": -0.30395506974309683
+      },
+      {
+        "id": 3,
+        "start": 76.998,
+        "end": 92.573,
+        "text": " She says we gotta hold on to what we've got. It doesn't make a difference if we make it or not. We got each other and that's a lot for love.",
+        "avg_logprob": -0.1077302606090119
+      },
+      {
+        "id": 4,
+        "start": 132.837,
+        "end": 153.509,
+        "text": " We gotta hold on to what we've got It doesn't make a difference if we make it or not We got each other",
+        "avg_logprob": -0.2959735691547394
+      },
+      {
+        "id": 5,
+        "start": 168.646,
+        "end": 169.895,
+        "text": " My hand",
+        "avg_logprob": -1.0442708333333333
+      },
+      {
+        "id": 6,
+        "start": 200.877,
+        "end": 205.096,
+        "text": " You live for the fight when that's all that you've got",
+        "avg_logprob": -0.13260324086461747
+      },
+      {
+        "id": 7,
+        "start": 239.926,
+        "end": 244.786,
+        "text": " Bye. Bye. Bye. Bye.",
+        "avg_logprob": -0.7747395833333334
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "lDK9QqIzhwk",
+    "uploader": "Bon Jovi",
+    "audio_file": "corpus/01_music_videos_audio/audio/lDK9QqIzhwk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7963222,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 10.698601,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:18:18Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,77 @@
+{
+  "corpus_id": "l482T0yNkeo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/l482T0yNkeo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/l482T0yNkeo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/l482T0yNkeo.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Leave me be Take your love and carry it with stride Don't need reason Don't need rhyme Ain't nothin' that'll ever do Goin' down for the time My friends are gonna be there too No stop signs, speed limit Nobody's gonna slow me down Like a wheel, gonna spin me Nobody's gonna mess me around Hey station, pay my dues Bounce! And I'm going down All the way Over the highway to hell",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 27.74,
+        "end": 51.432,
+        "text": " Leave me be Take your love and carry it with stride Don't need reason Don't need rhyme Ain't nothin' that'll ever do Goin' down for the time My friends are gonna be there too",
+        "avg_logprob": -0.24563952933910282
+      },
+      {
+        "id": 2,
+        "start": 71.969,
+        "end": 92.776,
+        "text": " No stop signs, speed limit Nobody's gonna slow me down Like a wheel, gonna spin me Nobody's gonna mess me around Hey station, pay my dues",
+        "avg_logprob": -0.1287841759622097
+      },
+      {
+        "id": 3,
+        "start": 125.969,
+        "end": 126.796,
+        "text": " Bounce!",
+        "avg_logprob": -0.8339843451976776
+      },
+      {
+        "id": 4,
+        "start": 181.032,
+        "end": 206.48,
+        "text": " And I'm going down All the way Over the highway to hell",
+        "avg_logprob": -0.3197544664144516
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "l482T0yNkeo",
+    "uploader": "AC/DC",
+    "audio_file": "corpus/01_music_videos_audio/audio/l482T0yNkeo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6627240,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.285592,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:59:03Z"
+  },
+  "status": "success",
+  "error": null
+}

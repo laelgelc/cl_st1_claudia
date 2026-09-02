@@ -1,0 +1,91 @@
+{
+  "corpus_id": "129kuDCQtHs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/129kuDCQtHs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/129kuDCQtHs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/129kuDCQtHs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I get up in the evening And I ain't got nothing to say I come home in the morning I go to bed feeling the same way I ain't nothing but tired Man, I'm just tired and bored with myself Hey there, baby I could use just a little help You can't start a fire You can't start a fire without a spark This gun's for hire Even if we're just dancing in the dark Messages keep getting clearer Radio's on and I'm moving round the place I check my look in the mirror Wanna change my clothes, my hair You can't start a fire without a spark This gun's for hire Even if we're just dancing Hey, baby, I'm just about I'm sitting, sitting round here trying to write this book I need a love reaction Come on in, baby, give me just one look We can't start a fire Sitting round trying to ruin the broken heart This gun's for hire higher.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 13.598,
+        "end": 41.982,
+        "text": " I get up in the evening And I ain't got nothing to say I come home in the morning I go to bed feeling the same way I ain't nothing but tired Man, I'm just tired and bored with myself Hey there, baby I could use just a little help You can't start a fire",
+        "avg_logprob": -0.07377772453811861
+      },
+      {
+        "id": 2,
+        "start": 42.657,
+        "end": 70.754,
+        "text": " You can't start a fire without a spark This gun's for hire Even if we're just dancing in the dark Messages keep getting clearer Radio's on and I'm moving round the place I check my look in the mirror Wanna change my clothes, my hair",
+        "avg_logprob": -0.10215212489074131
+      },
+      {
+        "id": 3,
+        "start": 76.964,
+        "end": 95.662,
+        "text": " You can't start a fire without a spark This gun's for hire Even if we're just dancing",
+        "avg_logprob": -0.5115327380952381
+      },
+      {
+        "id": 4,
+        "start": 111.693,
+        "end": 134.963,
+        "text": " Hey, baby, I'm just about",
+        "avg_logprob": -0.6970486111111112
+      },
+      {
+        "id": 5,
+        "start": 139.469,
+        "end": 158.572,
+        "text": " I'm sitting, sitting round here trying to write this book I need a love reaction Come on in, baby, give me just one look We can't start a fire Sitting round trying to ruin the broken heart This gun's for hire",
+        "avg_logprob": -0.212402339403828
+      },
+      {
+        "id": 6,
+        "start": 169.658,
+        "end": 171.025,
+        "text": " higher.",
+        "avg_logprob": -1.046875
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "129kuDCQtHs",
+    "uploader": "Bruce Springsteen",
+    "audio_file": "corpus/01_music_videos_audio/audio/129kuDCQtHs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7628112,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.147124,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:15:40Z"
+  },
+  "status": "success",
+  "error": null
+}

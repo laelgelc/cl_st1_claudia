@@ -1,0 +1,140 @@
+{
+  "corpus_id": "WJ8GUwNaboo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/WJ8GUwNaboo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/WJ8GUwNaboo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/WJ8GUwNaboo.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Early one morning the sun was shining, I was laying in bed, wondering if she'd changed at all, if her hair was still red. Her folks, they said our lives together sure was gonna be rough. They never did like mama's homemade dress, papa's bank book wasn't big enough. And I was standing on the side of the road, rain falling on my shoes. Heading out for the East Coast Lord knows I've paid some dues Gettin' through Tangled up in blue She was married when we first met, soon to be divorced. I helped her out of a jam, I guess, but I used a little too much force. We drove that car as far as we could, abandoned it out west. Split up on the docks that night, but the green did one best. And she turned around to look at me as I was walking away. I heard her say, oh, my shoulder will be to get someday on the avenue. Tangled up in blue I had a job in the great Northwoods, working as a cook for a spell. But I never did like it all that much, and one day the axe just fell. So I drifted down to New Orleans, where lucky was I to be employed. Working for a while on a fishing boat right outside of Delacroix. But all the while I was alone. the past was close behind I seen a lot of women but she never escaped my mind and I just grew tangled up in blue She was working in a topless place and I stopped in for a beer. I just kept looking at the side of her face and the spotlight so clear. Later on, when the crowd thinned out, I was just about to do the same. She was standing there in back of my chair. I said, Timmy, don't I know your name? I murdered something underneath my breast. She studied the lines on my face. I must admit, it felt a little uneasy when she bent down to tie the laces up my shoes. Turnin' up in blue She lit a burner on the stove and offered me a pipe. I thought you'd never say hello, she said, you look like a silent type. And she opened up a book of poems and handed it to me, written by an Italian poet from the 13th century. And every one of them words rang true and glowed like burning coal, pouring off of every page like it was written in my soul for me to use. Time to love you blue I lived with him on Montague Street, the basement down the stairs. There was music in the cafes at night and revolution in the air. Then he started into dealing with slaves and something inside of him died. She had to sell everything she owned and froze up inside. And when it finally, the bottom fell out, I became withdrawn. The only thing I knew how to do was to keep on keeping on like a bird that flew. Trying to love you blue So now I'm going back again I got to get to her somehow All the people we used to know They're an illusion to me now Some are mathematicians Some are carpenter's wives Don't know how it all got started I don't know what they do with their lives But me, I'm still on the road Ahead for another joint We always did feel the same We just saw it from a different point",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 13,
+    "segments": [
+      {
+        "id": 1,
+        "start": 10.865,
+        "end": 34.928,
+        "text": " Early one morning the sun was shining, I was laying in bed, wondering if she'd changed at all, if her hair was still red. Her folks, they said our lives together sure was gonna be rough. They never did like mama's homemade dress, papa's bank book wasn't big enough. And I was standing on the side of the road, rain falling on my shoes.",
+        "avg_logprob": -0.07629548975183995
+      },
+      {
+        "id": 2,
+        "start": 35.907,
+        "end": 44.665,
+        "text": " Heading out for the East Coast Lord knows I've paid some dues Gettin' through Tangled up in blue",
+        "avg_logprob": -0.18546874523162843
+      },
+      {
+        "id": 3,
+        "start": 54.217,
+        "end": 83.883,
+        "text": " She was married when we first met, soon to be divorced. I helped her out of a jam, I guess, but I used a little too much force. We drove that car as far as we could, abandoned it out west. Split up on the docks that night, but the green did one best. And she turned around to look at me as I was walking away. I heard her say, oh, my shoulder will be to get someday on the avenue.",
+        "avg_logprob": -0.07719877577319588
+      },
+      {
+        "id": 4,
+        "start": 86.06,
+        "end": 87.933,
+        "text": " Tangled up in blue",
+        "avg_logprob": -0.3375650942325592
+      },
+      {
+        "id": 5,
+        "start": 97.349,
+        "end": 118.814,
+        "text": " I had a job in the great Northwoods, working as a cook for a spell. But I never did like it all that much, and one day the axe just fell. So I drifted down to New Orleans, where lucky was I to be employed. Working for a while on a fishing boat right outside of Delacroix. But all the while I was alone.",
+        "avg_logprob": -0.1166930392950396
+      },
+      {
+        "id": 6,
+        "start": 118.814,
+        "end": 130.205,
+        "text": " the past was close behind I seen a lot of women but she never escaped my mind and I just grew tangled up in blue",
+        "avg_logprob": -0.1234224782540248
+      },
+      {
+        "id": 7,
+        "start": 139.604,
+        "end": 169.017,
+        "text": " She was working in a topless place and I stopped in for a beer. I just kept looking at the side of her face and the spotlight so clear. Later on, when the crowd thinned out, I was just about to do the same. She was standing there in back of my chair. I said, Timmy, don't I know your name? I murdered something underneath my breast. She studied the lines on my face. I must admit, it felt a little uneasy when she bent down to tie the laces up my shoes.",
+        "avg_logprob": -0.0885184131828802
+      },
+      {
+        "id": 8,
+        "start": 170.924,
+        "end": 172.882,
+        "text": " Turnin' up in blue",
+        "avg_logprob": -0.6662946428571429
+      },
+      {
+        "id": 9,
+        "start": 181.825,
+        "end": 211.525,
+        "text": " She lit a burner on the stove and offered me a pipe. I thought you'd never say hello, she said, you look like a silent type. And she opened up a book of poems and handed it to me, written by an Italian poet from the 13th century. And every one of them words rang true and glowed like burning coal, pouring off of every page like it was written in my soul for me to use.",
+        "avg_logprob": -0.10050913189234359
+      },
+      {
+        "id": 10,
+        "start": 212.538,
+        "end": 214.276,
+        "text": " Time to love you blue",
+        "avg_logprob": -0.3870442758003871
+      },
+      {
+        "id": 11,
+        "start": 223.135,
+        "end": 253.122,
+        "text": " I lived with him on Montague Street, the basement down the stairs. There was music in the cafes at night and revolution in the air. Then he started into dealing with slaves and something inside of him died. She had to sell everything she owned and froze up inside. And when it finally, the bottom fell out, I became withdrawn. The only thing I knew how to do was to keep on keeping on like a bird that flew.",
+        "avg_logprob": -0.08736979017655054
+      },
+      {
+        "id": 12,
+        "start": 253.122,
+        "end": 268.732,
+        "text": " Trying to love you blue So now I'm going back again I got to get to her somehow",
+        "avg_logprob": -0.21582031026482582
+      },
+      {
+        "id": 13,
+        "start": 269.12,
+        "end": 291.935,
+        "text": " All the people we used to know They're an illusion to me now Some are mathematicians Some are carpenter's wives Don't know how it all got started I don't know what they do with their lives But me, I'm still on the road Ahead for another joint We always did feel the same We just saw it from a different point",
+        "avg_logprob": -0.11322623092523763
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "WJ8GUwNaboo",
+    "uploader": "Bob Dylan",
+    "audio_file": "corpus/01_music_videos_audio/audio/WJ8GUwNaboo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10932404,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.473152,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:03:31Z"
+  },
+  "status": "success",
+  "error": null
+}

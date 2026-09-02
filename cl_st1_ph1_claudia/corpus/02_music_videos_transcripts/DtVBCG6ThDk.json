@@ -1,0 +1,119 @@
+{
+  "corpus_id": "DtVBCG6ThDk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/DtVBCG6ThDk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/DtVBCG6ThDk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/DtVBCG6ThDk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "She packed my bags last night pre-flight. Zero out, 9 AM. And I'm going to be high as a kite by then. I miss the earth so much I miss my wife It's lonely out in space On such a time I think it's gonna be a long, long time Till touchdown brings me round again to find I'm not the man they think I am at home Oh, no, no, no a long, long time. So touchdown brings me round again to find I'm not the man they think I am at home. Mars ain't the kind of place to raise your kids In fact, it's cold as hell And there's no one there to raise them It's just my job five days a week. a long, long time. So touchdown brings me round again to find I'm not the man they think I am at home. Oh, no, no, no. I'm a rocket man. Rocket man burning out his fuse out there alone. And I think it's gonna be a long, long time. The touchdown brings me round again to find I'm not the man they think I am at home. I think it's gonna be a long, long time And I think it's gonna be a long, long time And I think it's gonna be a long, long time And I think it's gonna be a long, long time And I think it's gonna be a long, long time.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 10,
+    "segments": [
+      {
+        "id": 1,
+        "start": 3.558,
+        "end": 24.567,
+        "text": " She packed my bags last night pre-flight. Zero out, 9 AM. And I'm going to be high as a kite by then.",
+        "avg_logprob": -0.17877603471279144
+      },
+      {
+        "id": 2,
+        "start": 31.098,
+        "end": 47.315,
+        "text": " I miss the earth so much I miss my wife It's lonely out in space On such a time",
+        "avg_logprob": -0.1440662145614624
+      },
+      {
+        "id": 3,
+        "start": 59.684,
+        "end": 71.142,
+        "text": " I think it's gonna be a long, long time Till touchdown brings me round again to find I'm not the man they think I am at home Oh, no, no, no",
+        "avg_logprob": -0.15306332589764343
+      },
+      {
+        "id": 4,
+        "start": 88.844,
+        "end": 97.501,
+        "text": " a long, long time. So touchdown brings me round again to find I'm not the man they think I am at home.",
+        "avg_logprob": -0.3336226807700263
+      },
+      {
+        "id": 5,
+        "start": 115.709,
+        "end": 133.799,
+        "text": " Mars ain't the kind of place to raise your kids In fact, it's cold as hell And there's no one there to raise them",
+        "avg_logprob": -0.0825700410481157
+      },
+      {
+        "id": 6,
+        "start": 151.079,
+        "end": 153.88,
+        "text": " It's just my job five days a week.",
+        "avg_logprob": -0.3350497104904868
+      },
+      {
+        "id": 7,
+        "start": 173.81,
+        "end": 193.503,
+        "text": " a long, long time. So touchdown brings me round again to find I'm not the man they think I am at home. Oh, no, no, no. I'm a rocket man. Rocket man burning out his fuse out there alone.",
+        "avg_logprob": -0.20496323704719543
+      },
+      {
+        "id": 8,
+        "start": 200.32,
+        "end": 210.125,
+        "text": " And I think it's gonna be a long, long time. The touchdown brings me round again to find I'm not the man they think I am at home.",
+        "avg_logprob": -0.14085478247965083
+      },
+      {
+        "id": 9,
+        "start": 226.038,
+        "end": 250.591,
+        "text": " I think it's gonna be a long, long time And I think it's gonna be a long, long time And I think it's gonna be a long, long time And I think it's gonna be a long, long time",
+        "avg_logprob": -0.040852864272892475
+      },
+      {
+        "id": 10,
+        "start": 252.785,
+        "end": 279.447,
+        "text": " And I think it's gonna be a long, long time.",
+        "avg_logprob": -0.177734375
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "DtVBCG6ThDk",
+    "uploader": "Elton John",
+    "audio_file": "corpus/01_music_videos_audio/audio/DtVBCG6ThDk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9029482,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.918978,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:59:13Z"
+  },
+  "status": "success",
+  "error": null
+}

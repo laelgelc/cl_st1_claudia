@@ -1,0 +1,77 @@
+{
+  "corpus_id": "iEPTlhBmwRg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/iEPTlhBmwRg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/iEPTlhBmwRg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/iEPTlhBmwRg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You've been doing this now for how many years? Two years. Two years. How much longer do you give yourself doing this thing, going around being a sort of... i don't know i never thought we'd be i'll be doing it for two years even you know so I've got them moves like Jagger I've got them moves like Jagger I don't need to try to control you Look into my eyes and I'll own you With them moves like Jagger I've got them moves like Jagger I've got them moves like Jagger You wanna know how to make me smile Take control of me I think we sort of pretty well set up for at least another year.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 13.025,
+        "end": 42.286,
+        "text": " You've been doing this now for how many years? Two years. Two years. How much longer do you give yourself doing this thing, going around being a sort of...",
+        "avg_logprob": -0.2486979299121433
+      },
+      {
+        "id": 2,
+        "start": 42.472,
+        "end": 65.911,
+        "text": " i don't know i never thought we'd be i'll be doing it for two years even you know so",
+        "avg_logprob": -0.13901154373003088
+      },
+      {
+        "id": 3,
+        "start": 174.333,
+        "end": 202.328,
+        "text": " I've got them moves like Jagger I've got them moves like Jagger I don't need to try to control you Look into my eyes and I'll own you With them moves like Jagger I've got them moves like Jagger I've got them moves like Jagger You wanna know how to make me smile Take control of me",
+        "avg_logprob": -0.07897418391877327
+      },
+      {
+        "id": 4,
+        "start": 257.122,
+        "end": 268.765,
+        "text": " I think we sort of pretty well set up for at least another year.",
+        "avg_logprob": -0.16540527809411287
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "iEPTlhBmwRg",
+    "uploader": "Maroon 5",
+    "audio_file": "corpus/01_music_videos_audio/audio/iEPTlhBmwRg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8921000,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 22.088666,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:06:46Z"
+  },
+  "status": "success",
+  "error": null
+}

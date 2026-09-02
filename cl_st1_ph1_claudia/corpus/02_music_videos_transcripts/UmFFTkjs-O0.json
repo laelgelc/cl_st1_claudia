@@ -1,0 +1,105 @@
+{
+  "corpus_id": "UmFFTkjs-O0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/UmFFTkjs-O0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/UmFFTkjs-O0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/UmFFTkjs-O0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "pictures of you that I almost believe that they're real. I've been living so long with my pictures of you that I almost believe that the pictures Standing quiet in the rain As I ran to your heart to be near And we kissed as the sky fell Holding you close How I always held close in your fear Running soft through the night You were bigger and brighter And wider than snow The scream at the make-believe Screamed at the sky And you finally found All your courage to let it all go You were always so lost in the dark Remembering you How you used to be So drowned you were angels So much more than everything Hope for the last time will slip away Quietly open my eyes But I've never seen anything If only I'd thought of the right words I could've held on to If only I'd known how to write words I wouldn't be breaking apart all my pictures of you Looking so long at these pictures of you I never hold on to your heart Looking so long for the words to be true But always just breaking apart my pictures of you There was nothing in the world that I ever wanted more. Things you never feel are breaking apart.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 160.934,
+        "end": 178.113,
+        "text": " pictures of you that I almost believe that they're real. I've been living so long with my pictures of you that I almost believe that the pictures",
+        "avg_logprob": -0.10779989823218315
+      },
+      {
+        "id": 2,
+        "start": 204.792,
+        "end": 223.473,
+        "text": " Standing quiet in the rain As I ran to your heart to be near And we kissed as the sky fell Holding you close How I always held close in your fear",
+        "avg_logprob": -0.13719223484848486
+      },
+      {
+        "id": 3,
+        "start": 227.033,
+        "end": 248.38,
+        "text": " Running soft through the night You were bigger and brighter And wider than snow The scream at the make-believe Screamed at the sky And you finally found All your courage to let it all go",
+        "avg_logprob": -0.11918826074135012
+      },
+      {
+        "id": 4,
+        "start": 271.685,
+        "end": 293.504,
+        "text": " You were always so lost in the dark Remembering you",
+        "avg_logprob": -0.2529296750823657
+      },
+      {
+        "id": 5,
+        "start": 294.01,
+        "end": 321.736,
+        "text": " How you used to be So drowned you were angels So much more than everything Hope for the last time will slip away Quietly open my eyes But I've never seen anything If only I'd thought of the right words I could've held on to",
+        "avg_logprob": -0.16343750238418578
+      },
+      {
+        "id": 6,
+        "start": 325.482,
+        "end": 336.94,
+        "text": " If only I'd known how to write words I wouldn't be breaking apart all my pictures of you",
+        "avg_logprob": -0.18722098498117357
+      },
+      {
+        "id": 7,
+        "start": 359.317,
+        "end": 381.676,
+        "text": " Looking so long at these pictures of you I never hold on to your heart Looking so long for the words to be true But always just breaking apart my pictures of you",
+        "avg_logprob": -0.24999999298768885
+      },
+      {
+        "id": 8,
+        "start": 458.66,
+        "end": 467.958,
+        "text": " There was nothing in the world that I ever wanted more. Things you never feel are breaking apart.",
+        "avg_logprob": -0.1561569883709862
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "UmFFTkjs-O0",
+    "uploader": "The Cure",
+    "audio_file": "corpus/01_music_videos_audio/audio/UmFFTkjs-O0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 16128474,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.789509,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:58:28Z"
+  },
+  "status": "success",
+  "error": null
+}

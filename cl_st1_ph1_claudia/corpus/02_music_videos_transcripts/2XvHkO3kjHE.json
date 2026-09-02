@@ -1,0 +1,91 @@
+{
+  "corpus_id": "2XvHkO3kjHE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/2XvHkO3kjHE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/2XvHkO3kjHE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/2XvHkO3kjHE.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "That fantastic Burke family returns now with a promise of a better life for all. Let's welcome back the stand-up. Ooh, child, things are going to get easier. Ooh, child, things are going to get brighter. Ooh, child, things are gonna get easier. Ooh, child, things are gonna get brighter. Someday, yeah, we'll put it together and we'll get it undone. Someday, when you hit it, much lighter. We'll walk in the rays of a beautiful sun, someday when the world is much brighter. Ooh, child, things are gonna be easier. Ooh, child, things will be brighter. Ooh, child, things are gonna be easier. to pose on Sunday. Right now Right now Right now Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.436,
+        "end": 24.23,
+        "text": " That fantastic Burke family returns now with a promise of a better life for all. Let's welcome back the stand-up. Ooh, child, things are going to get easier. Ooh, child, things are going to get brighter.",
+        "avg_logprob": -0.21142578249176344
+      },
+      {
+        "id": 2,
+        "start": 26.305,
+        "end": 44.868,
+        "text": " Ooh, child, things are gonna get easier. Ooh, child, things are gonna get brighter. Someday, yeah, we'll put it together and we'll get it undone. Someday, when you hit it, much lighter.",
+        "avg_logprob": -0.16687499344348908
+      },
+      {
+        "id": 3,
+        "start": 50.032,
+        "end": 74.078,
+        "text": " We'll walk in the rays of a beautiful sun, someday when the world is much brighter. Ooh, child, things are gonna be easier. Ooh, child, things will be brighter. Ooh, child, things are gonna be easier.",
+        "avg_logprob": -0.09135841836734694
+      },
+      {
+        "id": 4,
+        "start": 95.054,
+        "end": 98.48,
+        "text": " to pose on Sunday.",
+        "avg_logprob": -1.0546875
+      },
+      {
+        "id": 5,
+        "start": 162.588,
+        "end": 180.037,
+        "text": " Right now Right now Right now",
+        "avg_logprob": -0.6902901956013271
+      },
+      {
+        "id": 6,
+        "start": 189.233,
+        "end": 192.895,
+        "text": " Thank you.",
+        "avg_logprob": -0.5454101711511612
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "2XvHkO3kjHE",
+    "uploader": "Our Nostalgic Memories",
+    "audio_file": "corpus/01_music_videos_audio/audio/2XvHkO3kjHE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6270580,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 26.892564,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:55:46Z"
+  },
+  "status": "success",
+  "error": null
+}

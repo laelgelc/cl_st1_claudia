@@ -1,0 +1,70 @@
+{
+  "corpus_id": "NxyOhFBoxSY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/NxyOhFBoxSY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/NxyOhFBoxSY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/NxyOhFBoxSY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "And when you touch down You'll find that it's stranger than known Signs in the street That say where you're going Are somewhere just being their own They're a wolf to be found Among those afraid of losing their ground Ray, Raytown Known for its sound In places, small places of night Some just shapeless boys Sidewalksies And black mountains Some living Some standing alone",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 31.03,
+        "end": 58.081,
+        "text": " And when you touch down You'll find that it's stranger than known Signs in the street That say where you're going Are somewhere just being their own",
+        "avg_logprob": -0.11273193615488708
+      },
+      {
+        "id": 2,
+        "start": 65.978,
+        "end": 91.072,
+        "text": " They're a wolf to be found Among those afraid of losing their ground Ray, Raytown Known for its sound In places, small places of night",
+        "avg_logprob": -0.2860382968379605
+      },
+      {
+        "id": 3,
+        "start": 150.033,
+        "end": 168.376,
+        "text": " Some just shapeless boys Sidewalksies And black mountains Some living Some standing alone",
+        "avg_logprob": -0.2782118105226093
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "NxyOhFBoxSY",
+    "uploader": "TheByrdsVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/NxyOhFBoxSY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6901420,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.256941,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:01:01Z"
+  },
+  "status": "success",
+  "error": null
+}

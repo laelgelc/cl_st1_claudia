@@ -1,0 +1,91 @@
+{
+  "corpus_id": "4fndeDfaWCg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4fndeDfaWCg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/4fndeDfaWCg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/4fndeDfaWCg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You are my fire, the one desire. Believe when I say I want it that way. That I want it that way Tell me why Ain't nothing but a warning Tell me why Ain't nothing but a mistake Tell me why I never wanna hear you say I want it that way But I want it that way Tell me why it ain't nothing but a mistake Tell me why it ain't nothing but a mistake Tell me why I never wanna hear you say I want it that way Now I can see that we're falling apart My fire, the one desire you are Don't wanna hear you say nothing mistake tell me why i never wanna hear Tell me why I never wanna hear you say I want it that way Cause I want it that way",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 9.734,
+        "end": 33.68,
+        "text": " You are my fire, the one desire. Believe when I say I want it that way.",
+        "avg_logprob": -0.1962890639901161
+      },
+      {
+        "id": 2,
+        "start": 49.373,
+        "end": 73.471,
+        "text": " That I want it that way Tell me why Ain't nothing but a warning Tell me why Ain't nothing but a mistake Tell me why I never wanna hear you say I want it that way",
+        "avg_logprob": -0.09385015796392392
+      },
+      {
+        "id": 3,
+        "start": 87.713,
+        "end": 117.582,
+        "text": " But I want it that way Tell me why it ain't nothing but a mistake Tell me why it ain't nothing but a mistake Tell me why I never wanna hear you say I want it that way Now I can see that we're falling apart",
+        "avg_logprob": -0.07347656488418579
+      },
+      {
+        "id": 4,
+        "start": 132.753,
+        "end": 153.982,
+        "text": " My fire, the one desire you are Don't wanna hear you say nothing",
+        "avg_logprob": -0.17858886625617743
+      },
+      {
+        "id": 5,
+        "start": 178.973,
+        "end": 190.735,
+        "text": " mistake tell me why i never wanna hear",
+        "avg_logprob": -0.6388888888888888
+      },
+      {
+        "id": 6,
+        "start": 198.194,
+        "end": 216.368,
+        "text": " Tell me why I never wanna hear you say I want it that way Cause I want it that way",
+        "avg_logprob": -0.16536458617164976
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "4fndeDfaWCg",
+    "uploader": "Backstreet Boys",
+    "audio_file": "corpus/01_music_videos_audio/audio/4fndeDfaWCg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7018078,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.431476,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:23:08Z"
+  },
+  "status": "success",
+  "error": null
+}

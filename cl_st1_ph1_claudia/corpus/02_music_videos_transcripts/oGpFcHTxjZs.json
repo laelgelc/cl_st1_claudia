@@ -1,0 +1,91 @@
+{
+  "corpus_id": "oGpFcHTxjZs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oGpFcHTxjZs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/oGpFcHTxjZs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/oGpFcHTxjZs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You must understand The touch of your hand Makes my pulse react That it's only the thrill Of boy meeting girl While the zips are trapped It's physical Only logical You must try to ignore When I'm acting confused when you're close read it some place I've got cause to be there's a name for it there's a phrase that fits but whatever the reason you do it for me oh what's love got to do it's got to do with it what's love but a second hand emotion What's love got to do, got to do with it? Who needs a heart when a heart can be broken? Thinking about my own protection It scares me to feel this way It's a heart when a heart can be",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 20.821,
+        "end": 49.981,
+        "text": " You must understand The touch of your hand Makes my pulse react That it's only the thrill Of boy meeting girl While the zips are trapped It's physical Only logical You must try to ignore",
+        "avg_logprob": -0.1697716330870604
+      },
+      {
+        "id": 2,
+        "start": 56.123,
+        "end": 77.234,
+        "text": " When I'm acting confused when you're close",
+        "avg_logprob": -0.478125
+      },
+      {
+        "id": 3,
+        "start": 84.322,
+        "end": 113.701,
+        "text": " read it some place I've got cause to be there's a name for it there's a phrase that fits but whatever the reason you do it for me oh what's love got to do it's got to do with it what's love but a second hand emotion",
+        "avg_logprob": -0.11899594576270492
+      },
+      {
+        "id": 4,
+        "start": 114.241,
+        "end": 122.206,
+        "text": " What's love got to do, got to do with it? Who needs a heart when a heart can be broken?",
+        "avg_logprob": -0.0660546898841858
+      },
+      {
+        "id": 5,
+        "start": 152.783,
+        "end": 159.247,
+        "text": " Thinking about my own protection It scares me to feel this way",
+        "avg_logprob": -0.13258713483810425
+      },
+      {
+        "id": 6,
+        "start": 194.836,
+        "end": 198.008,
+        "text": " It's a heart when a heart can be",
+        "avg_logprob": -0.319921875
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "oGpFcHTxjZs",
+    "uploader": "Tina Turner",
+    "audio_file": "corpus/01_music_videos_audio/audio/oGpFcHTxjZs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7261052,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.49312,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:17:52Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,105 @@
+{
+  "corpus_id": "VRU2qs82DAg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/VRU2qs82DAg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/VRU2qs82DAg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/VRU2qs82DAg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Alright, I know that special someone you've been dreaming about all night long is right next to you right now. The new one from Selena. It's called Dreaming of You. Late at night when all the world is sleeping I stay up and think of you And I wish on a star that somewhere you are thinking of me too. Cause I'm dreaming of you tonight till tomorrow. I'll be holding you tight and there's nowhere in the world I'd rather be. If you looked in my eyes Would you see what's inside? Would you even care? I just wanna hold you close But so far all I have are dreams of you So I'll wait for the day Courage to say how much I love you Yes, I do I'll be dreaming of you tonight Till tomorrow I'll be holding your tight And there's nowhere in the world I'd rather be No puedo dejar de pensar en ti Late at night when all the world is sleeping I stay up and think of you And I still can't believe that you came up to me and said I love you, I love you too Now I'm Till tomorrow And for all of my life And there's nowhere else All right, I know that special someone that's close to your heart that you've been dreaming about all night is right next to you right now. And we hope we took care of you with the new one from Selena called Dreaming of You.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 10.342,
+        "end": 34.979,
+        "text": " Alright, I know that special someone you've been dreaming about all night long is right next to you right now. The new one from Selena. It's called Dreaming of You. Late at night when all the world is sleeping I stay up and think of you",
+        "avg_logprob": -0.08383969603865235
+      },
+      {
+        "id": 2,
+        "start": 36.042,
+        "end": 64.747,
+        "text": " And I wish on a star that somewhere you are thinking of me too. Cause I'm dreaming of you tonight till tomorrow. I'll be holding you tight and there's nowhere in the world I'd rather be.",
+        "avg_logprob": -0.06023615107617595
+      },
+      {
+        "id": 3,
+        "start": 87.106,
+        "end": 115.051,
+        "text": " If you looked in my eyes Would you see what's inside? Would you even care? I just wanna hold you close But so far all I have are dreams of you So I'll wait for the day",
+        "avg_logprob": -0.04740978537925652
+      },
+      {
+        "id": 4,
+        "start": 116.063,
+        "end": 139.958,
+        "text": " Courage to say how much I love you Yes, I do I'll be dreaming of you tonight Till tomorrow I'll be holding your tight And there's nowhere in the world I'd rather be",
+        "avg_logprob": -0.23144530914723874
+      },
+      {
+        "id": 5,
+        "start": 162.841,
+        "end": 165.473,
+        "text": " No puedo dejar de pensar en ti",
+        "avg_logprob": -0.07196045015007257
+      },
+      {
+        "id": 6,
+        "start": 176.577,
+        "end": 199.966,
+        "text": " Late at night when all the world is sleeping I stay up and think of you And I still can't believe that you came up to me and said I love you, I love you too Now I'm",
+        "avg_logprob": -0.10881696233437174
+      },
+      {
+        "id": 7,
+        "start": 204.708,
+        "end": 213.331,
+        "text": " Till tomorrow And for all of my life And there's nowhere else",
+        "avg_logprob": -0.13246372448546545
+      },
+      {
+        "id": 8,
+        "start": 251.992,
+        "end": 261.863,
+        "text": " All right, I know that special someone that's close to your heart that you've been dreaming about all night is right next to you right now. And we hope we took care of you with the new one from Selena called Dreaming of You.",
+        "avg_logprob": -0.04813878559598736
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "VRU2qs82DAg",
+    "uploader": "Selena",
+    "audio_file": "corpus/01_music_videos_audio/audio/VRU2qs82DAg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8470718,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.495401,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:11:03Z"
+  },
+  "status": "success",
+  "error": null
+}

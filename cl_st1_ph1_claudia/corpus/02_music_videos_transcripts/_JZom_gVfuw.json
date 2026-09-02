@@ -1,0 +1,112 @@
+{
+  "corpus_id": "_JZom_gVfuw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/_JZom_gVfuw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/_JZom_gVfuw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/_JZom_gVfuw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Yeah. This album is dedicated to all the teachers that told me I never amount to nothing. To all the people that lived above the buildings that I was hustling from that called the police on me when I was just trying to make some money to feed my daughter. And all the niggas in the struggle. You know what I'm saying? It's all good, baby, baby. It was all a dream. I used to read Word Up magazine. Salt and pepper and heavy D up in the limousine. Hanging pictures on my wall. Every Saturday, Rap Attack, Mr. Magic, Molly Mall. I let my tape rock to my tape hop, smoking weed and bamboo, sipping on private stock, way back when I had the red and black lumberjack, with the hat to match, remember rapping Duke, the hard, the hard, you never thought that hip hop would take it this far, now I'm in the limelight cause I rhyme tight, time to get paid, blow up like the world's trade, born sinner, the opposite Peace to Raw D, Brucie B, Kid Capri Fuck Master Flex, Lovebug, Starsky I'm blowin' up like you thought I would Call a crip, same number, same hood, it's all good And if you don't know, now you know, nigga I made the change from a common thief To up close and personal with Robin Leach And I'm far from cheap, I smoke stunk with my peeps all day Spread love, it's the Brooklyn way The Moet and Alizé keep me pissy Girls used to diss me, now they write letters cause they miss me I never thought it could happen, this rappin' stuff I was too used to packin' gats and stuff Now honeys play me close Down to the east coast, condos in Queens Indo for weeks, sold out seats to hear Biggie Smalls speak Livin' life without fear, puttin' five carats in my baby girl ear Lunches, brunches, interviews by the pool Considered a fool cause I dropped out of high school Stereo pipes of a black male misunderstood And it's still all good, uh And if you don't know, now you know, nigga Super Nintendo, Sega Genesis When I was dead broke, man, I couldn't picture this 50 inch screen, money green leather sofa Got two rides, a limousine with a chauffeur Phone till about 2 G's flat No need to worry, my accountant handles that And my whole crew is lounging Celebrating every day, no more public housing Thinking back on my one room shack Now my mom pips a act with minks on her back And she loves to show me off, of course Smiles every time my face is up in the sauce We used to fuss when the landlord dissed us No heat, wonder why Christmas missed us Birthdays was the worst days Now we sip champagne when we thirsty Damn right I like the life I live Cause I went from negative to positive and it's off And if you don't know, now you know, nigga And if you don't know, now you know, nigga. And if you don't know, now you know, nigga. Representing B-Town and the house. Julie Bop, you know, fast play.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 3.743,
+        "end": 4.587,
+        "text": " Yeah.",
+        "avg_logprob": -0.2587890625
+      },
+      {
+        "id": 2,
+        "start": 4.891,
+        "end": 33.848,
+        "text": " This album is dedicated to all the teachers that told me I never amount to nothing. To all the people that lived above the buildings that I was hustling from that called the police on me when I was just trying to make some money to feed my daughter. And all the niggas in the struggle. You know what I'm saying? It's all good, baby, baby. It was all a dream. I used to read Word Up magazine. Salt and pepper and heavy D up in the limousine. Hanging pictures on my wall. Every Saturday, Rap Attack, Mr. Magic, Molly Mall. I let my tape rock to",
+        "avg_logprob": -0.07202888195487586
+      },
+      {
+        "id": 3,
+        "start": 33.848,
+        "end": 53.98,
+        "text": " my tape hop, smoking weed and bamboo, sipping on private stock, way back when I had the red and black lumberjack, with the hat to match, remember rapping Duke, the hard, the hard, you never thought that hip hop would take it this far, now I'm in the limelight cause I rhyme tight, time to get paid, blow up like the world's trade, born sinner, the opposite",
+        "avg_logprob": -0.11422414084275563
+      },
+      {
+        "id": 4,
+        "start": 57.068,
+        "end": 72.897,
+        "text": " Peace to Raw D, Brucie B, Kid Capri Fuck Master Flex, Lovebug, Starsky I'm blowin' up like you thought I would Call a crip, same number, same hood, it's all good And if you don't know, now you know, nigga",
+        "avg_logprob": -0.21822917113701504
+      },
+      {
+        "id": 5,
+        "start": 91.038,
+        "end": 112.351,
+        "text": " I made the change from a common thief To up close and personal with Robin Leach And I'm far from cheap, I smoke stunk with my peeps all day Spread love, it's the Brooklyn way The Moet and Alizé keep me pissy Girls used to diss me, now they write letters cause they miss me I never thought it could happen, this rappin' stuff I was too used to packin' gats and stuff Now honeys play me close",
+        "avg_logprob": -0.1383928617044371
+      },
+      {
+        "id": 6,
+        "start": 114.764,
+        "end": 141.578,
+        "text": " Down to the east coast, condos in Queens Indo for weeks, sold out seats to hear Biggie Smalls speak Livin' life without fear, puttin' five carats in my baby girl ear Lunches, brunches, interviews by the pool Considered a fool cause I dropped out of high school Stereo pipes of a black male misunderstood And it's still all good, uh And if you don't know, now you know, nigga",
+        "avg_logprob": -0.16439852791447793
+      },
+      {
+        "id": 7,
+        "start": 160.883,
+        "end": 185.757,
+        "text": " Super Nintendo, Sega Genesis When I was dead broke, man, I couldn't picture this 50 inch screen, money green leather sofa Got two rides, a limousine with a chauffeur Phone till about 2 G's flat No need to worry, my accountant handles that And my whole crew is lounging Celebrating every day, no more public housing Thinking back on my one room shack Now my mom pips a act with minks on her back",
+        "avg_logprob": -0.11854619411346705
+      },
+      {
+        "id": 8,
+        "start": 185.757,
+        "end": 211.019,
+        "text": " And she loves to show me off, of course Smiles every time my face is up in the sauce We used to fuss when the landlord dissed us No heat, wonder why Christmas missed us Birthdays was the worst days Now we sip champagne when we thirsty Damn right I like the life I live Cause I went from negative to positive and it's off And if you don't know, now you know, nigga",
+        "avg_logprob": -0.11235119411278338
+      },
+      {
+        "id": 9,
+        "start": 217.482,
+        "end": 235.825,
+        "text": " And if you don't know, now you know, nigga. And if you don't know, now you know, nigga. Representing B-Town and the house. Julie Bop, you know, fast play.",
+        "avg_logprob": -0.40026597139683173
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "_JZom_gVfuw",
+    "uploader": "The Notorious B.I.G.",
+    "audio_file": "corpus/01_music_videos_audio/audio/_JZom_gVfuw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8082108,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.275667,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:53:47Z"
+  },
+  "status": "success",
+  "error": null
+}

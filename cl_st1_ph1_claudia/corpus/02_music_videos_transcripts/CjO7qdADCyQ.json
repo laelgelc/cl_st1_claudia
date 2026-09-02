@@ -1,0 +1,91 @@
+{
+  "corpus_id": "CjO7qdADCyQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CjO7qdADCyQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/CjO7qdADCyQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/CjO7qdADCyQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Oh, she may be weary. Them young girls, they do get wearied wearing that same old shaggy dress, yeah. But when she gets weary, You know she's waiting Just anticipating For things that she'll never, never, never, never possess. But while she's there waiting, and without them, try a little tenderness. It's not just sentimental, no, no, no. She has her grief and care, yeah, yeah, yeah. But the soft words, they all spoke so gentle, yeah. makes it easier, easier to bend, yeah. You won't regret it, no, no. Young girls, they don't forget it. Love is their only happiness. Man, man, man, drop.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 12.991,
+        "end": 35.722,
+        "text": " Oh, she may be weary. Them young girls, they do get wearied wearing that same old shaggy dress, yeah. But when she gets weary,",
+        "avg_logprob": -0.15291819370844784
+      },
+      {
+        "id": 2,
+        "start": 38.337,
+        "end": 59.752,
+        "text": " You know she's waiting Just anticipating",
+        "avg_logprob": -0.3542480580508709
+      },
+      {
+        "id": 3,
+        "start": 61.625,
+        "end": 81.52,
+        "text": " For things that she'll never, never, never, never possess. But while she's there waiting, and without them, try a little tenderness.",
+        "avg_logprob": -0.16381835471838713
+      },
+      {
+        "id": 4,
+        "start": 92.084,
+        "end": 115.979,
+        "text": " It's not just sentimental, no, no, no. She has her grief and care, yeah, yeah, yeah. But the soft words, they all spoke so gentle, yeah.",
+        "avg_logprob": -0.08879206616144913
+      },
+      {
+        "id": 5,
+        "start": 120.282,
+        "end": 143.165,
+        "text": " makes it easier, easier to bend, yeah. You won't regret it, no, no. Young girls, they don't forget it. Love is their only happiness.",
+        "avg_logprob": -0.1784939236111111
+      },
+      {
+        "id": 6,
+        "start": 206.8,
+        "end": 208.876,
+        "text": " Man, man, man, drop.",
+        "avg_logprob": -0.6501736111111112
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "CjO7qdADCyQ",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/CjO7qdADCyQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7311578,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.744892,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:00:00Z"
+  },
+  "status": "success",
+  "error": null
+}

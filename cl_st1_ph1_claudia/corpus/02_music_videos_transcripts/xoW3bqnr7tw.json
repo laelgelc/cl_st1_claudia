@@ -1,0 +1,91 @@
+{
+  "corpus_id": "xoW3bqnr7tw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/xoW3bqnr7tw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/xoW3bqnr7tw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/xoW3bqnr7tw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "And some tenderness We'll walk upon the water We'll rise above the mist With a little peace And some harmony We'll take the world together We'll take them by the hand Yesterday, I saw you standing there. Your hair was down, your eyes were red. No coma touched your hair. I said get up and let me see you smile. The best that, the best that I can See I was wasted And I was a wasting time. Till I thought about your problems. I thought about your crap. Then I stood up. And then I screamed aloud. I don't want to be one of your problems. Don't want to be one of your problems. The best that The best that I get The best that, the best that I can The best that I can",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 15.05,
+        "end": 34.928,
+        "text": " And some tenderness We'll walk upon the water We'll rise above the mist With a little peace And some harmony We'll take the world together We'll take them by the hand",
+        "avg_logprob": -0.08504011824324324
+      },
+      {
+        "id": 2,
+        "start": 46.64,
+        "end": 63.127,
+        "text": " Yesterday, I saw you standing there. Your hair was down, your eyes were red. No coma touched your hair. I said get up and let me see you smile.",
+        "avg_logprob": -0.1499565959804588
+      },
+      {
+        "id": 3,
+        "start": 99.965,
+        "end": 115.658,
+        "text": " The best that, the best that I can See I was wasted",
+        "avg_logprob": -0.15764509567192622
+      },
+      {
+        "id": 4,
+        "start": 116.367,
+        "end": 134.879,
+        "text": " And I was a wasting time. Till I thought about your problems. I thought about your crap. Then I stood up. And then I screamed aloud. I don't want to be one of your problems. Don't want to be one of your problems.",
+        "avg_logprob": -0.11446049696994277
+      },
+      {
+        "id": 5,
+        "start": 166.739,
+        "end": 170.722,
+        "text": " The best that The best that I get",
+        "avg_logprob": -0.44140625
+      },
+      {
+        "id": 6,
+        "start": 233.598,
+        "end": 247.216,
+        "text": " The best that, the best that I can The best that I can",
+        "avg_logprob": -0.16419270435969036
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "xoW3bqnr7tw",
+    "uploader": "Hootie & the Blowfish",
+    "audio_file": "corpus/01_music_videos_audio/audio/xoW3bqnr7tw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8179446,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.848059,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:05:47Z"
+  },
+  "status": "success",
+  "error": null
+}

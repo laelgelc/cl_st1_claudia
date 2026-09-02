@@ -1,0 +1,105 @@
+{
+  "corpus_id": "fJ9rUzIMcZQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/fJ9rUzIMcZQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/fJ9rUzIMcZQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/fJ9rUzIMcZQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Is this the real life? Is this just fantasy? Caught in a landslide Though escaped from reality Open your eyes Look up to the skies and see Oh boy, I need no sympathy Because I'm easy come, easy go Little high, little low Anyway the wind blows Doesn't really matter Just killed a man Put a gun against his head Pulled my trigger, now he's dead Mama, life had just begun If I'm not back again this time tomorrow Carry on, carry on As if nothing really matters My body's aching all the time Goodbye everybody I've got to go I see a little silhouetto of a man Scaramouche, Scaramouche, will you do the fandango? Thunderbolt and lightning, very, very frightening me Galileo, Galileo, Galileo, Galileo Figaro Magnifico! I'm just a poor boy, nobody loves me He's just a poor boy from a poor family Sparing his life on this monstrosity Easy come, easy go Bismillah! No! We will not let you go! Let him go! Bismillah! We will not let you go! Let him go! Bismillah! We will not let you go! Let me go! We'll not let you go! Let me go! We'll not let you go! You'll never let me go! No, no, no, no, no, no, no! Oh, mamma mia, mamma mia! Mamma mia, let me go! Beelzebub has the devil put aside for me! For me! For me! Nothing really matters, nothing really matters to me.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 2.073,
+        "end": 23.774,
+        "text": " Is this the real life? Is this just fantasy? Caught in a landslide Though escaped from reality Open your eyes Look up to the skies and see",
+        "avg_logprob": -0.09149170038290322
+      },
+      {
+        "id": 2,
+        "start": 29.039,
+        "end": 46.808,
+        "text": " Oh boy, I need no sympathy Because I'm easy come, easy go Little high, little low Anyway the wind blows Doesn't really matter",
+        "avg_logprob": -0.22077047002726588
+      },
+      {
+        "id": 3,
+        "start": 60.325,
+        "end": 76.137,
+        "text": " Just killed a man Put a gun against his head Pulled my trigger, now he's dead Mama, life had just begun",
+        "avg_logprob": -0.12199519058832756
+      },
+      {
+        "id": 4,
+        "start": 93.198,
+        "end": 107.069,
+        "text": " If I'm not back again this time tomorrow Carry on, carry on As if nothing really matters",
+        "avg_logprob": -0.12421874329447746
+      },
+      {
+        "id": 5,
+        "start": 125.935,
+        "end": 135.622,
+        "text": " My body's aching all the time Goodbye everybody I've got to go",
+        "avg_logprob": -0.1883544959127903
+      },
+      {
+        "id": 6,
+        "start": 187.917,
+        "end": 217.482,
+        "text": " I see a little silhouetto of a man Scaramouche, Scaramouche, will you do the fandango? Thunderbolt and lightning, very, very frightening me Galileo, Galileo, Galileo, Galileo Figaro Magnifico! I'm just a poor boy, nobody loves me He's just a poor boy from a poor family Sparing his life on this monstrosity Easy come, easy go",
+        "avg_logprob": -0.15138888226615058
+      },
+      {
+        "id": 7,
+        "start": 218.562,
+        "end": 246.828,
+        "text": " Bismillah! No! We will not let you go! Let him go! Bismillah! We will not let you go! Let him go! Bismillah! We will not let you go! Let me go! We'll not let you go! Let me go! We'll not let you go! You'll never let me go! No, no, no, no, no, no, no! Oh, mamma mia, mamma mia! Mamma mia, let me go! Beelzebub has the devil put aside for me! For me! For me!",
+        "avg_logprob": -0.11402375688237593
+      },
+      {
+        "id": 8,
+        "start": 320.605,
+        "end": 343.555,
+        "text": " Nothing really matters, nothing really matters to me.",
+        "avg_logprob": -0.2704190395095132
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "fJ9rUzIMcZQ",
+    "uploader": "Queen Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/fJ9rUzIMcZQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11503802,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.137469,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:02:24Z"
+  },
+  "status": "success",
+  "error": null
+}

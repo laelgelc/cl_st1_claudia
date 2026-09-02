@@ -1,0 +1,105 @@
+{
+  "corpus_id": "xwtdhWltSIg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/xwtdhWltSIg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/xwtdhWltSIg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/xwtdhWltSIg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "That's me in the corner That's being the spotlight Losing my religion Trying to keep up with you And I don't know if I can do it Oh no, I've said too much I haven't said enough I thought that I heard you laughing that I heard you sing I think I thought I saw you try every whisper every waking hour I'm choosing my career Like a hurt, lost, and blind fool, fool. Oh, no, I've said too much. I set it up. Consider this. Consider this. A hint of the century. Consider this. The slip that brought me to my knees. I thought that I heard you laughing. I thought that I heard you sing. I think I thought I saw you. That was just a dream That was just a dream That's me in the corner That's me in the spotlight Losing my religion Trying to keep up with you And I don't know if I can do it I'm now sad too much I haven't said enough I thought that I heard you laughing I thought that I heard you sing I think I thought I saw you try that was just a dream just a dream",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 38.607,
+        "end": 65.118,
+        "text": " That's me in the corner",
+        "avg_logprob": -0.2852957674435207
+      },
+      {
+        "id": 2,
+        "start": 67.447,
+        "end": 96.387,
+        "text": " That's being the spotlight Losing my religion Trying to keep up with you And I don't know if I can do it Oh no, I've said too much I haven't said enough I thought that I heard you laughing",
+        "avg_logprob": -0.09859035034542499
+      },
+      {
+        "id": 3,
+        "start": 97.788,
+        "end": 118.342,
+        "text": " that I heard you sing I think I thought I saw you try every whisper every waking hour I'm choosing my career",
+        "avg_logprob": -0.2626953087747097
+      },
+      {
+        "id": 4,
+        "start": 125.632,
+        "end": 155.348,
+        "text": " Like a hurt, lost, and blind fool, fool. Oh, no, I've said too much. I set it up. Consider this. Consider this. A hint of the century. Consider this. The slip that brought me to my knees.",
+        "avg_logprob": -0.17487981371008432
+      },
+      {
+        "id": 5,
+        "start": 161.373,
+        "end": 183.597,
+        "text": " I thought that I heard you laughing. I thought that I heard you sing. I think I thought I saw you.",
+        "avg_logprob": -0.2748437404632568
+      },
+      {
+        "id": 6,
+        "start": 195.359,
+        "end": 220.52,
+        "text": " That was just a dream That was just a dream That's me in the corner That's me in the spotlight Losing my religion Trying to keep up with you And I don't know if I can do it",
+        "avg_logprob": -0.06835937257422957
+      },
+      {
+        "id": 7,
+        "start": 222.612,
+        "end": 246.187,
+        "text": " I'm now sad too much I haven't said enough I thought that I heard you laughing I thought that I heard you sing I think I thought I saw you try",
+        "avg_logprob": -0.0710592822116964
+      },
+      {
+        "id": 8,
+        "start": 248.954,
+        "end": 263.905,
+        "text": " that was just a dream just a dream",
+        "avg_logprob": -0.3565538194444444
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "xwtdhWltSIg",
+    "uploader": "remhq",
+    "audio_file": "corpus/01_music_videos_audio/audio/xwtdhWltSIg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9408432,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.785265,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:11:55Z"
+  },
+  "status": "success",
+  "error": null
+}

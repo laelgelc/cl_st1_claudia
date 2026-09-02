@@ -1,0 +1,119 @@
+{
+  "corpus_id": "KQ6zr6kCPj8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/KQ6zr6kCPj8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/KQ6zr6kCPj8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/KQ6zr6kCPj8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Hey, man. Hey, what you doing, homeboy? Why ain't nobody around, man? What's up? What the hell? Where's all the people at, man? Hey, what's up? Is he dancing? What's that, the T-step? Doing the Watusi? What the hell is wrong with y'all? Y'all insane? What you mean? What's going on? Ever since that song came out, every day they've been shuffling. Monday shuffling, Tuesday shuffling. Everybody. The whole world. Everything. It will get in your bones. I ain't got time for your demo, homie. No demo. Put these on like this. You got them in? What? Vitamins? Yeah. Play along. Huh? Play along. I can't hear. What the hell? What? Party Rock is in the house tonight. Everybody just have a good time. And we gonna make you lose your mind. Everybody just have a good time. Party Rock is in the house tonight. Everybody just have a good time. And we gonna make you lose your mind. We just wanna see you. I'm running Let's go. Let's go. Every day I'm shuffling. Step up fast and be the first girl to make me throw this cash. We get money, don't be mad. Now stop. Hating is bad. One more shot for us. Another round. Please fill up my cup. Get up, get down, put your hands up to the sun Get up, get down, put your hands up to the sun Get up, get down, put your hands up to the sun Get up, get up, get up, get up, get up Get up, get up, get up, get up, get up Put your hands up to the sun, to the sun Every day I'm shuffling.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 10,
+    "segments": [
+      {
+        "id": 1,
+        "start": 52.715,
+        "end": 65.118,
+        "text": " Hey, man. Hey, what you doing, homeboy? Why ain't nobody around, man? What's up? What the hell? Where's all the people at, man? Hey, what's up? Is he dancing? What's that, the T-step? Doing the Watusi?",
+        "avg_logprob": -0.26041666761277216
+      },
+      {
+        "id": 2,
+        "start": 67.43,
+        "end": 87.68,
+        "text": " What the hell is wrong with y'all? Y'all insane? What you mean? What's going on? Ever since that song came out, every day they've been shuffling. Monday shuffling, Tuesday shuffling. Everybody. The whole world. Everything. It will get in your bones.",
+        "avg_logprob": -0.17045454997004886
+      },
+      {
+        "id": 3,
+        "start": 95.358,
+        "end": 111.845,
+        "text": " I ain't got time for your demo, homie. No demo. Put these on like this. You got them in? What? Vitamins? Yeah. Play along. Huh? Play along. I can't hear. What the hell? What?",
+        "avg_logprob": -0.1604456004721147
+      },
+      {
+        "id": 4,
+        "start": 115.017,
+        "end": 142.557,
+        "text": " Party Rock is in the house tonight. Everybody just have a good time. And we gonna make you lose your mind. Everybody just have a good time. Party Rock is in the house tonight. Everybody just have a good time. And we gonna make you lose your mind. We just wanna see you.",
+        "avg_logprob": -0.05931829667139438
+      },
+      {
+        "id": 5,
+        "start": 161.052,
+        "end": 174.974,
+        "text": " I'm running",
+        "avg_logprob": -1.1279296875
+      },
+      {
+        "id": 6,
+        "start": 184.762,
+        "end": 203.982,
+        "text": " Let's go. Let's go.",
+        "avg_logprob": -0.337890625
+      },
+      {
+        "id": 7,
+        "start": 217.347,
+        "end": 221.465,
+        "text": " Every day I'm shuffling.",
+        "avg_logprob": -0.19053819444444445
+      },
+      {
+        "id": 8,
+        "start": 251.468,
+        "end": 261.509,
+        "text": " Step up fast and be the first girl to make me throw this cash. We get money, don't be mad. Now stop. Hating is bad. One more shot for us. Another round. Please fill up my cup.",
+        "avg_logprob": -0.09342447714880109
+      },
+      {
+        "id": 9,
+        "start": 263.72,
+        "end": 292.019,
+        "text": " Get up, get down, put your hands up to the sun Get up, get down, put your hands up to the sun Get up, get down, put your hands up to the sun Get up, get up, get up, get up, get up Get up, get up, get up, get up, get up Put your hands up to the sun, to the sun",
+        "avg_logprob": -0.12084652143943159
+      },
+      {
+        "id": 10,
+        "start": 360.059,
+        "end": 361.831,
+        "text": " Every day I'm shuffling.",
+        "avg_logprob": -0.1916232638888889
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "KQ6zr6kCPj8",
+    "uploader": "LMFAOVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/KQ6zr6kCPj8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 12017984,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.580768,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:20:06Z"
+  },
+  "status": "success",
+  "error": null
+}

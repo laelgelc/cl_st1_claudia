@@ -1,0 +1,112 @@
+{
+  "corpus_id": "phOW-CZJWT0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/phOW-CZJWT0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/phOW-CZJWT0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/phOW-CZJWT0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Yo, can I hear this record by Raw Bass and DJ EZ Rock? Hey, man, you sure you want to hear this, man? You sure about that, man? All right. Right about now, you're about to be possessed by the sounds of MC Raw Bass and DJ EZ Rock. I don't know so let's go cause My name is Bob, I got a real funky concept. Listen up, cause I'm gonna keep you insta. I got an idea, that I wanna share. You don't like it, so what? I don't care. I'm number one, the uno, I like punk. I don't need a bodyguard. I won't wear a bulletproof vest. Don't smoke Buddha. Can't stand sex. Yes. The situation, I bet the bass is in. I'm kind of stingy, that's why I don't want to land. A funky rhyme to a folk or a good friend. Now listen up, because I want you to comprehend. Because I'm the leader, the man, superior. I take care of you, and then you get worrier. So just sit, my brother. I'm on a mission, you better just listen To my rhymes cause I'm all about dissing cause stand alone, don't need anyone cause I'm raw, just came to have fun don't need friends that act like foes cause I'm raw, based to one who knows about things that make you get weary, don't cheer me just hear me out, cause I got the clout shout, before I turn the party out, I won't start up project my voice, be clearly so you can be my choice on stage or on record, go to the whiz and select it, take it off the rack give it back, put it back, I like to walk Big Mac, if you want static, so let's go. So, throw up your hands, go for what you know. Bro, I got an ego. Yo, talking to me? No. Oh, cause Rob is in the front, Eazy Rock is on the back up. We're not soft, so you better just slack up. Cause I'm cool, plug just like a breeze. Rock the mic with the help of Eazy. Rock, on the set, the music play. Only cuss the records that I say. When I count to three, I want you to get busy. Ready now? One, two, three, get loose now.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 3.085,
+        "end": 24.112,
+        "text": " Yo, can I hear this record by Raw Bass and DJ EZ Rock? Hey, man, you sure you want to hear this, man? You sure about that, man? All right. Right about now, you're about to be possessed by the sounds of MC Raw Bass and DJ EZ Rock.",
+        "avg_logprob": -0.09771728643681854
+      },
+      {
+        "id": 2,
+        "start": 53.778,
+        "end": 79.478,
+        "text": " I don't know so let's go cause",
+        "avg_logprob": -0.524218761920929
+      },
+      {
+        "id": 3,
+        "start": 98.463,
+        "end": 109.043,
+        "text": " My name is Bob, I got a real funky concept. Listen up, cause I'm gonna keep you insta. I got an idea, that I wanna share. You don't like it, so what? I don't care. I'm number one, the uno, I like punk.",
+        "avg_logprob": -0.17968749902287467
+      },
+      {
+        "id": 4,
+        "start": 111.608,
+        "end": 133.023,
+        "text": " I don't need a bodyguard. I won't wear a bulletproof vest. Don't smoke Buddha. Can't stand sex. Yes.",
+        "avg_logprob": -0.2643229166666667
+      },
+      {
+        "id": 5,
+        "start": 152.277,
+        "end": 166.283,
+        "text": " The situation, I bet the bass is in. I'm kind of stingy, that's why I don't want to land. A funky rhyme to a folk or a good friend. Now listen up, because I want you to comprehend. Because I'm the leader, the man, superior. I take care of you, and then you get worrier. So just sit, my brother.",
+        "avg_logprob": -0.16965662991559063
+      },
+      {
+        "id": 6,
+        "start": 168.798,
+        "end": 182.703,
+        "text": " I'm on a mission, you better just listen To my rhymes cause I'm all about dissing cause",
+        "avg_logprob": -0.29740765961733734
+      },
+      {
+        "id": 7,
+        "start": 201.721,
+        "end": 229.919,
+        "text": " stand alone, don't need anyone cause I'm raw, just came to have fun don't need friends that act like foes cause I'm raw, based to one who knows about things that make you get weary, don't cheer me just hear me out, cause I got the clout shout, before I turn the party out, I won't start up project my voice, be clearly so you can be my choice on stage or on record, go to the whiz and select it, take it off the rack give it back, put it back, I like to walk",
+        "avg_logprob": -0.1126191748653428
+      },
+      {
+        "id": 8,
+        "start": 230.459,
+        "end": 253.527,
+        "text": " Big Mac, if you want static, so let's go. So, throw up your hands, go for what you know. Bro, I got an ego. Yo, talking to me? No. Oh, cause Rob is in the front, Eazy Rock is on the back up. We're not soft, so you better just slack up. Cause I'm cool, plug just like a breeze. Rock the mic with the help of Eazy. Rock, on the set, the music play. Only cuss the records that I say.",
+        "avg_logprob": -0.13023158934499537
+      },
+      {
+        "id": 9,
+        "start": 273.507,
+        "end": 279.025,
+        "text": " When I count to three, I want you to get busy. Ready now? One, two, three, get loose now.",
+        "avg_logprob": -0.1407696748221362
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "phOW-CZJWT0",
+    "uploader": "RobBaseDJEZRockVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/phOW-CZJWT0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9958280,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.411161,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:08:35Z"
+  },
+  "status": "success",
+  "error": null
+}

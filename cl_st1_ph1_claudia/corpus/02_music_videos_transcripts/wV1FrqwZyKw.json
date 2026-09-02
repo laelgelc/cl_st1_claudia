@@ -1,0 +1,140 @@
+{
+  "corpus_id": "wV1FrqwZyKw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wV1FrqwZyKw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/wV1FrqwZyKw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/wV1FrqwZyKw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "This is the manifesto of Mother Monster. On Goat, a government-owned alien territory in space, a birth of magnificent and magical proportions took place. But the birth was not finite. It was infinite. As the worms numbered, and the mitosis of the future began. It was perceived that this infamous moment in life is not temporal, it is eternal. And thus began the beginning of the new race, a race within the race of humanity, a race which bears no prejudice, no judgment, but boundless freedom. But on that same day, as the Eternal Mother hovered in the multiverse, another more terrifying birth took place. The birth of evil. And as she herself split into two, rotating in agony between two ultimate forces, the pendulum of choice began its dance. It seems easy, you imagine, to gravitate instantly and unwaveringly towards good. But she wondered. How can I protect something so perfect without evil? It doesn't matter if you love him or capital H.I.M. Just put your paws up. Because you were born this way, baby. My mama told me when I was young, we're all superstars. I put my lipstick on in a glass of bubble drop. There's nothing wrong with loving who you are, she said, because he made you perfect, babe. So hold your head up, girl, and you'll go far. Listen to me when I say. Don't be a drag, just be a queen. Don't be a drag, just be a queen. Don't be a drag, just be a queen. Give yourself prudence and love your friends. Subway can't rejoice with truth. Love yourself, baby, say I'm all yours Don't be a drag, just be a queen Whether you're broke or evergreen You're black, white, beige, chola, descent You're Lebanese, you're orient Whether life's disabilities Left you outcast, well leader teased Rejoice and love yourself today Cause baby, you were born this way No matter gay, straight or bi, lesbian, transgender life I'm on the right track, baby, I was born to survive I'm on the right track, baby I was born to be brave I was born this way I'm on the right track baby I was born this way I was born this way I was born this way I'm on the right track baby I was born this way Same DNA But born this way Same DNA But born this way Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 13,
+    "segments": [
+      {
+        "id": 1,
+        "start": 23.167,
+        "end": 50.065,
+        "text": " This is the manifesto of Mother Monster. On Goat, a government-owned alien territory in space, a birth of magnificent and magical proportions took place. But the birth was not finite. It was infinite. As the worms numbered,",
+        "avg_logprob": -0.07409917335121
+      },
+      {
+        "id": 2,
+        "start": 50.588,
+        "end": 75.833,
+        "text": " and the mitosis of the future began. It was perceived that this infamous moment in life is not temporal, it is eternal. And thus began the beginning of the new race, a race within the race of humanity, a race which bears no prejudice, no judgment, but boundless freedom.",
+        "avg_logprob": -0.05413411601136128
+      },
+      {
+        "id": 3,
+        "start": 76.694,
+        "end": 87.308,
+        "text": " But on that same day, as the Eternal Mother hovered in the multiverse, another more terrifying birth took place. The birth of evil.",
+        "avg_logprob": -0.0777343732615312
+      },
+      {
+        "id": 4,
+        "start": 108.689,
+        "end": 132.871,
+        "text": " And as she herself split into two, rotating in agony between two ultimate forces, the pendulum of choice began its dance. It seems easy, you imagine, to gravitate instantly and unwaveringly towards good. But she wondered.",
+        "avg_logprob": -0.04195149809432527
+      },
+      {
+        "id": 5,
+        "start": 134.93,
+        "end": 163.583,
+        "text": " How can I protect something so perfect without evil? It doesn't matter if you love him or capital H.I.M.",
+        "avg_logprob": -0.19126157186649465
+      },
+      {
+        "id": 6,
+        "start": 164.09,
+        "end": 187.158,
+        "text": " Just put your paws up. Because you were born this way, baby. My mama told me when I was young, we're all superstars.",
+        "avg_logprob": -0.14402721197374405
+      },
+      {
+        "id": 7,
+        "start": 188.997,
+        "end": 209.99,
+        "text": " I put my lipstick on in a glass of bubble drop. There's nothing wrong with loving who you are, she said, because he made you perfect, babe. So hold your head up, girl, and you'll go far. Listen to me when I say.",
+        "avg_logprob": -0.2767045432871038
+      },
+      {
+        "id": 8,
+        "start": 242.288,
+        "end": 255.991,
+        "text": " Don't be a drag, just be a queen. Don't be a drag, just be a queen. Don't be a drag, just be a queen. Give yourself prudence and love your friends. Subway can't rejoice with truth.",
+        "avg_logprob": -0.09585336423837222
+      },
+      {
+        "id": 9,
+        "start": 290.18,
+        "end": 292.745,
+        "text": " Love yourself, baby, say I'm all yours",
+        "avg_logprob": -0.4928977381099354
+      },
+      {
+        "id": 10,
+        "start": 319.525,
+        "end": 342.053,
+        "text": " Don't be a drag, just be a queen Whether you're broke or evergreen You're black, white, beige, chola, descent You're Lebanese, you're orient Whether life's disabilities Left you outcast, well leader teased Rejoice and love yourself today Cause baby, you were born this way No matter gay, straight or bi, lesbian, transgender life I'm on the right track, baby, I was born to survive",
+        "avg_logprob": -0.14003056368750075
+      },
+      {
+        "id": 11,
+        "start": 346.39,
+        "end": 350.474,
+        "text": " I'm on the right track, baby I was born to be brave",
+        "avg_logprob": -0.19622396429379782
+      },
+      {
+        "id": 12,
+        "start": 383.448,
+        "end": 412.591,
+        "text": " I was born this way I'm on the right track baby I was born this way I was born this way I was born this way I'm on the right track baby I was born this way Same DNA But born this way Same DNA But born this way",
+        "avg_logprob": -0.1319861807502233
+      },
+      {
+        "id": 13,
+        "start": 415.831,
+        "end": 428.268,
+        "text": " Thank you.",
+        "avg_logprob": -0.6396484225988388
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "wV1FrqwZyKw",
+    "uploader": "Lady Gaga",
+    "audio_file": "corpus/01_music_videos_audio/audio/wV1FrqwZyKw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 14076200,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.453393,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:19:06Z"
+  },
+  "status": "success",
+  "error": null
+}

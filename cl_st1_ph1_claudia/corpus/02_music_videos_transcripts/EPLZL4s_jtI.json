@@ -1,0 +1,119 @@
+{
+  "corpus_id": "EPLZL4s_jtI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/EPLZL4s_jtI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/EPLZL4s_jtI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/EPLZL4s_jtI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Hey, mama, don't you treat me wrong. Come and love your daddy all night long. All right now. Hey, hey. All right. See the girl with the diamond ring. She knows how to shake that thing. All right now, now. Tell your mama, tell your pa, I'm gonna send you back to Arkansas. Oh, yes, ma'am. You don't do right, don't do right. When you see me in misery, come on, baby, see about me now, yeah. All right, all right. Oh, play it, boys. When you see me in misery, come on, baby, see if I'd be not you. Hey, hey, all right. See the girl with the red dress on, she can do the fun that all night long, yeah, yeah. Tell me what I say Tell me what I say right now Tell me what I say Tell me what I say right now Tell me what I say Tell me what I say And I wanna know And I wanna know right now And I wanna know What? What's that? What's that? One time? All right. One more time. One more time. One more time. One more time. Just one more time Say that one more time Just one more time Say that one more time, yeah Just one more time Make me feel so good Make me feel so good Make me feel so good now, yeah Make me feel so good Make me feel so good Make me feel so good, yeah Panthers on good Panthers on good, yeah Baby, it's all right Shake that thing now Baby, shake that thing now Baby, shake that thing Baby, shake that thing right now Baby, shake that thing Baby, shake that thing Oh, I don't feel all right not yet Said I feel all right Tell you feel all right Better feel all right Better feel all right",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 10,
+    "segments": [
+      {
+        "id": 1,
+        "start": 96.877,
+        "end": 119.827,
+        "text": " Hey, mama, don't you treat me wrong. Come and love your daddy all night long. All right now. Hey, hey. All right. See the girl with the diamond ring. She knows how to shake that thing. All right now, now.",
+        "avg_logprob": -0.12680844245133577
+      },
+      {
+        "id": 2,
+        "start": 129.597,
+        "end": 157.846,
+        "text": " Tell your mama, tell your pa, I'm gonna send you back to Arkansas. Oh, yes, ma'am. You don't do right, don't do right. When you see me in misery, come on, baby, see about me now, yeah. All right, all right.",
+        "avg_logprob": -0.1220388125267721
+      },
+      {
+        "id": 3,
+        "start": 159.196,
+        "end": 179.8,
+        "text": " Oh, play it, boys.",
+        "avg_logprob": -0.3933105394244194
+      },
+      {
+        "id": 4,
+        "start": 194.414,
+        "end": 217.718,
+        "text": " When you see me in misery, come on, baby, see if I'd be not you. Hey, hey, all right. See the girl with the red dress on, she can do the fun that all night long, yeah, yeah.",
+        "avg_logprob": -0.21599265290241615
+      },
+      {
+        "id": 5,
+        "start": 226.477,
+        "end": 251.468,
+        "text": " Tell me what I say Tell me what I say right now Tell me what I say Tell me what I say right now Tell me what I say Tell me what I say And I wanna know And I wanna know right now And I wanna know",
+        "avg_logprob": -0.13958865282486896
+      },
+      {
+        "id": 6,
+        "start": 263.264,
+        "end": 289.117,
+        "text": " What? What's that? What's that? One time? All right. One more time. One more time. One more time. One more time.",
+        "avg_logprob": -0.3158143939393939
+      },
+      {
+        "id": 7,
+        "start": 291.31,
+        "end": 319.441,
+        "text": " Just one more time Say that one more time Just one more time Say that one more time, yeah Just one more time Make me feel so good Make me feel so good Make me feel so good now, yeah Make me feel so good Make me feel so good Make me feel so good, yeah",
+        "avg_logprob": -0.19622396429379782
+      },
+      {
+        "id": 8,
+        "start": 319.795,
+        "end": 324.166,
+        "text": " Panthers on good Panthers on good, yeah",
+        "avg_logprob": -0.3785511309450323
+      },
+      {
+        "id": 9,
+        "start": 345.867,
+        "end": 373.373,
+        "text": " Baby, it's all right Shake that thing now Baby, shake that thing now Baby, shake that thing Baby, shake that thing right now Baby, shake that thing Baby, shake that thing Oh, I don't feel all right not yet Said I feel all right",
+        "avg_logprob": -0.286747674147288
+      },
+      {
+        "id": 10,
+        "start": 377.542,
+        "end": 384.595,
+        "text": " Tell you feel all right Better feel all right Better feel all right",
+        "avg_logprob": -0.31054688351494925
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "EPLZL4s_jtI",
+    "uploader": "Classic Mood Experience",
+    "audio_file": "corpus/01_music_videos_audio/audio/EPLZL4s_jtI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 12387274,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 7.841785,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:03:53Z"
+  },
+  "status": "success",
+  "error": null
+}

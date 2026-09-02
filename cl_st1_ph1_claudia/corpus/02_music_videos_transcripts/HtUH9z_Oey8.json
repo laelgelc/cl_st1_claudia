@@ -1,0 +1,105 @@
+{
+  "corpus_id": "HtUH9z_Oey8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/HtUH9z_Oey8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/HtUH9z_Oey8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/HtUH9z_Oey8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Let me take you down Strawberry feels forever Living is easy with eyes closed Misunderstanding all you see It's getting hard to be someone but it all works out It doesn't matter much Let me take you down Cause I'm going to Strawberry Fields Nothing is real And nothing to get hung about Strawberry Fields forever think is in my tree I mean it must be high or low that is you can't you know tune in but it's alright that is I think it's not too bad let me take you down cause I'm going to And nothing to get hung about Strawberry feels forever Always know, sometimes think it's me But you know I know and it's a dream I think I know I mean a yes, but it's all wrong That is, I think I disagree Let me take you down, cause I'm going to Strawberry Fields Nothing is real Nothing to get hung about Strawberry feels forever Strawberry feels forever Strawberry feels forever We'll be right back.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.921,
+        "end": 13.328,
+        "text": " Let me take you down",
+        "avg_logprob": -0.07153320436676343
+      },
+      {
+        "id": 2,
+        "start": 27.402,
+        "end": 52.478,
+        "text": " Strawberry feels forever Living is easy with eyes closed Misunderstanding all you see It's getting hard to be someone but it all works out It doesn't matter much",
+        "avg_logprob": -0.09647253787878787
+      },
+      {
+        "id": 3,
+        "start": 56.478,
+        "end": 77.183,
+        "text": " Let me take you down Cause I'm going to Strawberry Fields Nothing is real And nothing to get hung about Strawberry Fields forever",
+        "avg_logprob": -0.14921875476837157
+      },
+      {
+        "id": 4,
+        "start": 82.82,
+        "end": 107.018,
+        "text": " think is in my tree I mean it must be high or low that is you can't you know tune in but it's alright that is I think it's not too bad let me take you down cause I'm going to",
+        "avg_logprob": -0.11047894297086674
+      },
+      {
+        "id": 5,
+        "start": 113.363,
+        "end": 135.25,
+        "text": " And nothing to get hung about Strawberry feels forever Always know, sometimes think it's me But you know I know and it's a dream",
+        "avg_logprob": -0.22670200626764977
+      },
+      {
+        "id": 6,
+        "start": 138.068,
+        "end": 165.355,
+        "text": " I think I know I mean a yes, but it's all wrong That is, I think I disagree Let me take you down, cause I'm going to Strawberry Fields Nothing is real Nothing to get hung about",
+        "avg_logprob": -0.16297238787939383
+      },
+      {
+        "id": 7,
+        "start": 166.368,
+        "end": 178.079,
+        "text": " Strawberry feels forever Strawberry feels forever Strawberry feels forever",
+        "avg_logprob": -0.12519531100988388
+      },
+      {
+        "id": 8,
+        "start": 209.399,
+        "end": 215.204,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.5786830186843872
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "HtUH9z_Oey8",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/HtUH9z_Oey8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8429108,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.319965,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:02:17Z"
+  },
+  "status": "success",
+  "error": null
+}

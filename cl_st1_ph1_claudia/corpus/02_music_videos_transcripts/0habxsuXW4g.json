@@ -1,0 +1,84 @@
+{
+  "corpus_id": "0habxsuXW4g",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/0habxsuXW4g.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/0habxsuXW4g.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/0habxsuXW4g.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Never imagined I'd be sitting here beside myself Cause I didn't know you, cause I didn't know me But I thought I knew everything I never felt The feeling that I'm feeling now that I don't hear your voice Oh, have your touch and kiss your lips cause I don't have a choice Oh, what I wouldn't get to have you lying by my side Right here Who else am I gon' leave knowing times get rough? When you are on my mind Bobby Womack's on the radio Say it to me If you think you're the one Wait a minute, this is too deep I gotta change the station So I turn the dial, try to catch a break And then I hear baby's face Hi I need you back On the phone till the sun goes out Who's gonna take your place? There ain't nobody",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 39.468,
+        "end": 60.494,
+        "text": " Never imagined I'd be sitting here beside myself Cause I didn't know you, cause I didn't know me But I thought I knew everything I never felt The feeling that I'm feeling now that I don't hear your voice Oh, have your touch and kiss your lips cause I don't have a choice Oh, what I wouldn't get to have you lying by my side Right here",
+        "avg_logprob": -0.0955528838512225
+      },
+      {
+        "id": 2,
+        "start": 75.631,
+        "end": 78.989,
+        "text": " Who else am I gon' leave knowing times get rough?",
+        "avg_logprob": -0.2109375
+      },
+      {
+        "id": 3,
+        "start": 91.966,
+        "end": 110.41,
+        "text": " When you are on my mind Bobby Womack's on the radio Say it to me If you think you're the one Wait a minute, this is too deep I gotta change the station So I turn the dial, try to catch a break And then I hear baby's face Hi",
+        "avg_logprob": -0.21578663484803562
+      },
+      {
+        "id": 4,
+        "start": 122.51,
+        "end": 129.04,
+        "text": " I need you back",
+        "avg_logprob": -0.740625
+      },
+      {
+        "id": 5,
+        "start": 149.037,
+        "end": 153.813,
+        "text": " On the phone till the sun goes out Who's gonna take your place? There ain't nobody",
+        "avg_logprob": -0.23847657293081284
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "0habxsuXW4g",
+    "uploader": "Mariah Carey",
+    "audio_file": "corpus/01_music_videos_audio/audio/0habxsuXW4g.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6492750,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.627605,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:16:45Z"
+  },
+  "status": "success",
+  "error": null
+}

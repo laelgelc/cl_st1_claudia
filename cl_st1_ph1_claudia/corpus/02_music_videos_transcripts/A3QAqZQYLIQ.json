@@ -1,0 +1,98 @@
+{
+  "corpus_id": "A3QAqZQYLIQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/A3QAqZQYLIQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/A3QAqZQYLIQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/A3QAqZQYLIQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Every night in my dreams I see you, I feel you That is how I know you go on Distance and spaces between us You have come to show you go on Near, far That's the heart of And you're here in my heart And my heart will go on and on Love can touch us one time and last forever Love was when I loved you One true time, I hope My heart will go on and on ¶¶",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 14.746,
+        "end": 36.717,
+        "text": " Every night in my dreams I see you, I feel you That is how I know you go on",
+        "avg_logprob": -0.11923362811406453
+      },
+      {
+        "id": 2,
+        "start": 41.948,
+        "end": 62.992,
+        "text": " Distance and spaces between us You have come to show you go on Near, far",
+        "avg_logprob": -0.1981336830390824
+      },
+      {
+        "id": 3,
+        "start": 68.965,
+        "end": 72.526,
+        "text": " That's the heart of",
+        "avg_logprob": -0.2910156299670537
+      },
+      {
+        "id": 4,
+        "start": 85.756,
+        "end": 113.633,
+        "text": " And you're here in my heart And my heart will go on and on Love can touch us one time and last forever",
+        "avg_logprob": -0.101015625
+      },
+      {
+        "id": 5,
+        "start": 115.844,
+        "end": 135.436,
+        "text": " Love was when I loved you One true time, I hope",
+        "avg_logprob": -0.38972356686225307
+      },
+      {
+        "id": 6,
+        "start": 177.725,
+        "end": 196.709,
+        "text": " My heart will go on and on",
+        "avg_logprob": -0.3984374925494194
+      },
+      {
+        "id": 7,
+        "start": 251.519,
+        "end": 271.043,
+        "text": " ¶¶",
+        "avg_logprob": -0.8515625
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "A3QAqZQYLIQ",
+    "uploader": "TitanicMemorial",
+    "audio_file": "corpus/01_music_videos_audio/audio/A3QAqZQYLIQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8824404,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.946114,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:14:11Z"
+  },
+  "status": "success",
+  "error": null
+}

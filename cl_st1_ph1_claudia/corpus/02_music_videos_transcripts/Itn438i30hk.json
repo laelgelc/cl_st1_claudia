@@ -1,0 +1,91 @@
+{
+  "corpus_id": "Itn438i30hk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Itn438i30hk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Itn438i30hk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Itn438i30hk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Now with the Ray Block background, the Supremes open with, You Can't Hurry Love, and then go into a medley of their big hit songs. So let's have a fine welcome. I need to find, find someone to call mine. But mama said you can't hurry love. No, you just have to wait. She said love don't come easy. It's a game of give and take. You can't hurry love. No, you just have to wait. She said just give it time. No matter how long it takes, but I'll be here. Before I find a lover to let me live again Right now the only thing that keeps me hanging on Will I feel much better? Yeah, it's almost gone, I remember Mama said No, I can't just have to wait She said love don't come easy It's a game of keep and take, I'd rather stay How much more can I pay for loneliness? What caused my heart, heart to break? No, I came here to live my life alone. I grow impatient for a love to call my own. But when I feel that I, I can't go on, these precious words keep me hanging on. It's a game of give and take. You can't hurt in love. No, I am just up to date. She said love doesn't come easy. It's a game of give and take. You can't hurt in love. I keep waitin' Ooh, you gotta give and take But it ain't easy It ain't easy But mama said, you can't hurry love No, you just have to wait She said, love don't come easy It's a game of give and take You can't hurry love No, you just have to wait She said, trust me No matter how long it takes",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.638,
+        "end": 10.628,
+        "text": " Now with the Ray Block background, the Supremes open with, You Can't Hurry Love, and then go into a medley of their big hit songs. So let's have a fine welcome.",
+        "avg_logprob": -0.21168154939299538
+      },
+      {
+        "id": 2,
+        "start": 20.247,
+        "end": 46.707,
+        "text": " I need to find, find someone to call mine. But mama said you can't hurry love. No, you just have to wait. She said love don't come easy. It's a game of give and take. You can't hurry love. No, you just have to wait. She said just give it time. No matter how long it takes, but I'll be here.",
+        "avg_logprob": -0.13593749571591615
+      },
+      {
+        "id": 3,
+        "start": 49.694,
+        "end": 73.387,
+        "text": " Before I find a lover to let me live again Right now the only thing that keeps me hanging on Will I feel much better? Yeah, it's almost gone, I remember Mama said No, I can't just have to wait She said love don't come easy It's a game of keep and take, I'd rather stay",
+        "avg_logprob": -0.25186566630406165
+      },
+      {
+        "id": 4,
+        "start": 74.028,
+        "end": 98.243,
+        "text": " How much more can I pay for loneliness? What caused my heart, heart to break? No, I came here to live my life alone. I grow impatient for a love to call my own. But when I feel that I, I can't go on, these precious words keep me hanging on.",
+        "avg_logprob": -0.14642137601490943
+      },
+      {
+        "id": 5,
+        "start": 106.664,
+        "end": 118.443,
+        "text": " It's a game of give and take. You can't hurt in love. No, I am just up to date. She said love doesn't come easy. It's a game of give and take. You can't hurt in love.",
+        "avg_logprob": -0.21859374433755874
+      },
+      {
+        "id": 6,
+        "start": 135.841,
+        "end": 164.883,
+        "text": " I keep waitin' Ooh, you gotta give and take But it ain't easy It ain't easy But mama said, you can't hurry love No, you just have to wait She said, love don't come easy It's a game of give and take You can't hurry love No, you just have to wait She said, trust me No matter how long it takes",
+        "avg_logprob": -0.24655032544941097
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Itn438i30hk",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/Itn438i30hk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5754168,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.337592,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:14:10Z"
+  },
+  "status": "success",
+  "error": null
+}

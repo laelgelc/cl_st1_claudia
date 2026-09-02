@@ -1,0 +1,112 @@
+{
+  "corpus_id": "9OQBDdNHmXo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/9OQBDdNHmXo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/9OQBDdNHmXo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/9OQBDdNHmXo.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I walked through the door with you, the air was cold But something about it felt like home somehow And I left my scarf there at your sister's house And you've still got it in your drawer Oh, your sweet disposition and my wide-eyed gaze We're singing in the car, getting lost upstate Autumn leaves falling down like pieces into place And I can picture it after all these days And I know it's long gone and that magic's not here no more And I might be okay Oh Your mother's Dancing around the kitchen in the refrigerator. Lied down the stairs. I was there. I remember it. Translation, maybe I asked for too much But maybe this thing was a masterpiece Till you tore it all up, running scared I was there, I remember it all too well Hey, you call me up again just to break me like a promise So casual Lying here, cause I remember it all, all, all Too well Time won't fly, it's like I'm paralyzed by it I'd like to be my old self again But I'm still trying to find it After bad shirt days and nights when you made me your own Now you mail back my things and I walk home alone But you keep my old scarf from that very first week You've ever known it was rare I was there, I remember it all too well Spinning my head, you were there You remember it all Down the stairs, you were there You remember",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 20.568,
+        "end": 39.265,
+        "text": " I walked through the door with you, the air was cold But something about it felt like home somehow And I left my scarf there at your sister's house And you've still got it in your drawer",
+        "avg_logprob": -0.08689024099489538
+      },
+      {
+        "id": 2,
+        "start": 51.23,
+        "end": 79.31,
+        "text": " Oh, your sweet disposition and my wide-eyed gaze We're singing in the car, getting lost upstate Autumn leaves falling down like pieces into place And I can picture it after all these days And I know it's long gone and that magic's not here no more And I might be okay",
+        "avg_logprob": -0.13971354737877845
+      },
+      {
+        "id": 3,
+        "start": 81.183,
+        "end": 83.174,
+        "text": " Oh",
+        "avg_logprob": -0.71533203125
+      },
+      {
+        "id": 4,
+        "start": 116.688,
+        "end": 119.978,
+        "text": " Your mother's",
+        "avg_logprob": -0.9941406548023224
+      },
+      {
+        "id": 5,
+        "start": 149.932,
+        "end": 157.981,
+        "text": " Dancing around the kitchen in the refrigerator. Lied down the stairs. I was there. I remember it.",
+        "avg_logprob": -0.3284646635470183
+      },
+      {
+        "id": 6,
+        "start": 181.893,
+        "end": 207.138,
+        "text": " Translation, maybe I asked for too much But maybe this thing was a masterpiece Till you tore it all up, running scared I was there, I remember it all too well Hey, you call me up again just to break me like a promise So casual",
+        "avg_logprob": -0.14070012162511164
+      },
+      {
+        "id": 7,
+        "start": 213.533,
+        "end": 224.975,
+        "text": " Lying here, cause I remember it all, all, all Too well",
+        "avg_logprob": -0.29882811941206455
+      },
+      {
+        "id": 8,
+        "start": 234.998,
+        "end": 259.417,
+        "text": " Time won't fly, it's like I'm paralyzed by it I'd like to be my old self again But I'm still trying to find it After bad shirt days and nights when you made me your own Now you mail back my things and I walk home alone But you keep my old scarf from that very first week",
+        "avg_logprob": -0.09314903846153846
+      },
+      {
+        "id": 9,
+        "start": 284.341,
+        "end": 304.439,
+        "text": " You've ever known it was rare I was there, I remember it all too well Spinning my head, you were there You remember it all Down the stairs, you were there You remember",
+        "avg_logprob": -0.23277243360494956
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "9OQBDdNHmXo",
+    "uploader": "Taylor Swift",
+    "audio_file": "corpus/01_music_videos_audio/audio/9OQBDdNHmXo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10566086,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.840111,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:03:34Z"
+  },
+  "status": "success",
+  "error": null
+}

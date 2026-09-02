@@ -1,0 +1,98 @@
+{
+  "corpus_id": "gwJZcNNxdck",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/gwJZcNNxdck.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/gwJZcNNxdck.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/gwJZcNNxdck.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Well, I wish I was a catfish Swimming in the deep blue sea I would have all you good-looking women Fishing, fishing after me Shown up after me Shown up after me Oh love, oh love, Shauna, I went to my baby's house. And I said, I don't want her still. She said, come on in now, buddy. You know my husband's just not left. Sure enough, he's just not left. Sure enough, he's just not left. Oh, Lord. Oh, well. Well, my mother told my father Just before I was born I got a boy child coming, gonna be He gonna be a rolling stone Sure enough, he's a rolling stone Sure enough, he's a rolling stone oh well either oh well either oh well either Well, I feel, yes, I feel, baby, like a lowdown, oh, time ain't long. i'm gonna testify thanks smoking bad back down the road i'm going back down the road i'm going",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.402,
+        "end": 30.322,
+        "text": " Well, I wish I was a catfish Swimming in the deep blue sea I would have all you good-looking women Fishing, fishing after me Shown up after me Shown up after me",
+        "avg_logprob": -0.08175223054630416
+      },
+      {
+        "id": 2,
+        "start": 30.676,
+        "end": 48.85,
+        "text": " Oh love, oh love, Shauna, I went to my baby's house.",
+        "avg_logprob": -0.1610243113504516
+      },
+      {
+        "id": 3,
+        "start": 49.306,
+        "end": 74.163,
+        "text": " And I said, I don't want her still. She said, come on in now, buddy. You know my husband's just not left. Sure enough, he's just not left. Sure enough, he's just not left. Oh, Lord. Oh, well.",
+        "avg_logprob": -0.20148026315789475
+      },
+      {
+        "id": 4,
+        "start": 79.225,
+        "end": 108.571,
+        "text": " Well, my mother told my father Just before I was born I got a boy child coming, gonna be He gonna be a rolling stone Sure enough, he's a rolling stone Sure enough, he's a rolling stone",
+        "avg_logprob": -0.1409801153296774
+      },
+      {
+        "id": 5,
+        "start": 109.415,
+        "end": 136.87,
+        "text": " oh well either oh well either oh well either",
+        "avg_logprob": -0.5648437678813935
+      },
+      {
+        "id": 6,
+        "start": 139.064,
+        "end": 162.284,
+        "text": " Well, I feel, yes, I feel, baby, like a lowdown, oh, time ain't long.",
+        "avg_logprob": -0.16546875
+      },
+      {
+        "id": 7,
+        "start": 163.651,
+        "end": 181.167,
+        "text": " i'm gonna testify thanks smoking bad back down the road i'm going back down the road i'm going",
+        "avg_logprob": -0.451349445364692
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "gwJZcNNxdck",
+    "uploader": "Muddy Waters - Topic",
+    "audio_file": "corpus/01_music_videos_audio/audio/gwJZcNNxdck.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5991942,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 23.783995,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:54:42Z"
+  },
+  "status": "success",
+  "error": null
+}

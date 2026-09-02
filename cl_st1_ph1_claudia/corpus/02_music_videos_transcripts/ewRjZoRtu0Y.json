@@ -1,0 +1,84 @@
+{
+  "corpus_id": "ewRjZoRtu0Y",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ewRjZoRtu0Y.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ewRjZoRtu0Y.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ewRjZoRtu0Y.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I fly like paper, get high like planes. If you catch me at the border, I got visas in my name. If you come around here, I'll make a more day. I get one down in a second if you wait. I fly like paper, get high like planes. If you catch me at the border, I got visas in my name. If you come around here, I'll make a more day. I get one down in a second if you wait. Sometimes I think sitting on trains. Every step I get to, I'm I think sitting on trains, every stop I get, I'm crying. Pie with skulls and bones Sticks and stones and weeding bombs Running when we hit them Lethal poison for the system Pie with skulls and bones Sticks and stones and weeding bombs Running when we hit them Lethal poison for the system hit me on my banner prepaid wireless we packed and delivered like ups trucks already going home just pumping night gas no one on the corner hands wagging like us hit me on my banner prepaid wireless we packed and delivered like ups trucks already going home just pumping night gas MIA, third world democracy. Yeah, I got more records than the KGB. So what? No funny business. Are you ready or what?",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 11.759,
+        "end": 38.303,
+        "text": " I fly like paper, get high like planes. If you catch me at the border, I got visas in my name. If you come around here, I'll make a more day. I get one down in a second if you wait. I fly like paper, get high like planes. If you catch me at the border, I got visas in my name. If you come around here, I'll make a more day. I get one down in a second if you wait. Sometimes I think sitting on trains. Every step I get to, I'm",
+        "avg_logprob": -0.1018366200620668
+      },
+      {
+        "id": 2,
+        "start": 46.1,
+        "end": 49.458,
+        "text": " I think sitting on trains, every stop I get, I'm crying.",
+        "avg_logprob": -0.5009765736758709
+      },
+      {
+        "id": 3,
+        "start": 78.466,
+        "end": 98.969,
+        "text": " Pie with skulls and bones Sticks and stones and weeding bombs Running when we hit them Lethal poison for the system Pie with skulls and bones Sticks and stones and weeding bombs Running when we hit them Lethal poison for the system",
+        "avg_logprob": -0.1368719427024617
+      },
+      {
+        "id": 4,
+        "start": 101.973,
+        "end": 124.602,
+        "text": " hit me on my banner prepaid wireless we packed and delivered like ups trucks already going home just pumping night gas no one on the corner hands wagging like us hit me on my banner prepaid wireless we packed and delivered like ups trucks already going home just pumping night gas",
+        "avg_logprob": -0.24303976730866866
+      },
+      {
+        "id": 5,
+        "start": 147.181,
+        "end": 157.053,
+        "text": " MIA, third world democracy. Yeah, I got more records than the KGB. So what? No funny business. Are you ready or what?",
+        "avg_logprob": -0.20874023018404841
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "ewRjZoRtu0Y",
+    "uploader": "M.I.A.",
+    "audio_file": "corpus/01_music_videos_audio/audio/ewRjZoRtu0Y.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6540304,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.977065,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:19:08Z"
+  },
+  "status": "success",
+  "error": null
+}

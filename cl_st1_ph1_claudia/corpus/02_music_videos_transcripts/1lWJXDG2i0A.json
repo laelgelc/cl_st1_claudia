@@ -1,0 +1,77 @@
+{
+  "corpus_id": "1lWJXDG2i0A",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/1lWJXDG2i0A.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/1lWJXDG2i0A.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/1lWJXDG2i0A.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "She's a good girl, loves her mama, loves Jesus in America too. She's a good girl, is crazy about Elvis, loves horses and her boyfriend too. a long day living in receded there's a freeway running through the yard and i'm a bad boy cause i don't even miss her i'm a bad boy for breaking her Move west down Ventura Boulevard And all the bad boys Are standing in the shadows And the good girls Are home with broken hearts name in the sky",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 13.649,
+        "end": 36.346,
+        "text": " She's a good girl, loves her mama, loves Jesus in America too. She's a good girl, is crazy about Elvis, loves horses and her boyfriend too.",
+        "avg_logprob": -0.05217633928571429
+      },
+      {
+        "id": 2,
+        "start": 42.995,
+        "end": 63.953,
+        "text": " a long day living in receded there's a freeway running through the yard and i'm a bad boy cause i don't even miss her i'm a bad boy for breaking her",
+        "avg_logprob": -0.13476563127417313
+      },
+      {
+        "id": 3,
+        "start": 92.523,
+        "end": 110.393,
+        "text": " Move west down Ventura Boulevard And all the bad boys Are standing in the shadows And the good girls Are home with broken hearts",
+        "avg_logprob": -0.18605324736347906
+      },
+      {
+        "id": 4,
+        "start": 165.659,
+        "end": 167.144,
+        "text": " name in the sky",
+        "avg_logprob": -0.33046875
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "1lWJXDG2i0A",
+    "uploader": "Tom Petty & The Heartbreakers",
+    "audio_file": "corpus/01_music_videos_audio/audio/1lWJXDG2i0A.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8151212,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 12.091643,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:19:17Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,84 @@
+{
+  "corpus_id": "C9GlC9GyF4Y",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/C9GlC9GyF4Y.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/C9GlC9GyF4Y.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/C9GlC9GyF4Y.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Oh, it's so funny to be seeing you after so long, girl. And with the way you look, I understand that you were not impressed. But I heard you let that little friend of mine. gonna get too sentimental like those other stick of valentines cause i don't know if you are loving somebody i only know it isn't mine allison I know this world is killing you, oh Alison My aim is true Well I see you got a husband now You leave your pretty fingers lying in the wedding cake I bet I took all he could take Sometimes I wish that I could stop you from talking When I hear the silly things that you say I think somebody better put out the big light Cause I can't stand to see you this way I know this world is killing you",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 10.021,
+        "end": 26.069,
+        "text": " Oh, it's so funny to be seeing you after so long, girl. And with the way you look, I understand that you were not impressed. But I heard you let that little friend of mine.",
+        "avg_logprob": -0.04085664849641711
+      },
+      {
+        "id": 2,
+        "start": 33.865,
+        "end": 57.49,
+        "text": " gonna get too sentimental like those other stick of valentines cause i don't know if you are loving somebody i only know it isn't mine allison",
+        "avg_logprob": -0.22460937732830644
+      },
+      {
+        "id": 3,
+        "start": 59.363,
+        "end": 86.768,
+        "text": " I know this world is killing you, oh Alison My aim is true Well I see you got a husband now You leave your pretty fingers lying in the wedding cake",
+        "avg_logprob": -0.18181818181818182
+      },
+      {
+        "id": 4,
+        "start": 92.101,
+        "end": 118.544,
+        "text": " I bet I took all he could take Sometimes I wish that I could stop you from talking When I hear the silly things that you say I think somebody better put out the big light Cause I can't stand to see you this way",
+        "avg_logprob": -0.06640625285341385
+      },
+      {
+        "id": 5,
+        "start": 121.97,
+        "end": 129.243,
+        "text": " I know this world is killing you",
+        "avg_logprob": -0.50927734375
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "C9GlC9GyF4Y",
+    "uploader": "daveinprogress3",
+    "audio_file": "corpus/01_music_videos_audio/audio/C9GlC9GyF4Y.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6561852,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 36.481758,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:57:28Z"
+  },
+  "status": "success",
+  "error": null
+}

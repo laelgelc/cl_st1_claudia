@@ -1,0 +1,70 @@
+{
+  "corpus_id": "UxxajLWwzqY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/UxxajLWwzqY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/UxxajLWwzqY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/UxxajLWwzqY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "The worst thing that has happened now, when you walk by someone that you think is really handsome, I'm in the Milky Way You want me down on Earth But I am up in space You're so damn hard to please We gotta kill this switch You're from the 70s But I'm a 90s bitch I'm in the Milky Way You want me down on Earth But I am up in space You're so damn hard to please We gotta kill this switch You're from the 70s But I'm a 90s bitch",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.82,
+        "end": 12.468,
+        "text": " The worst thing that has happened now, when you walk by someone that you think is really handsome,",
+        "avg_logprob": -0.6004464058648973
+      },
+      {
+        "id": 2,
+        "start": 68.527,
+        "end": 82.364,
+        "text": " I'm in the Milky Way You want me down on Earth But I am up in space You're so damn hard to please We gotta kill this switch You're from the 70s But I'm a 90s bitch",
+        "avg_logprob": -0.09712357852946628
+      },
+      {
+        "id": 3,
+        "start": 129.395,
+        "end": 143.519,
+        "text": " I'm in the Milky Way You want me down on Earth But I am up in space You're so damn hard to please We gotta kill this switch You're from the 70s But I'm a 90s bitch",
+        "avg_logprob": -0.12073863568631085
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "UxxajLWwzqY",
+    "uploader": "Icona Pop",
+    "audio_file": "corpus/01_music_videos_audio/audio/UxxajLWwzqY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5760856,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.425482,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:17:47Z"
+  },
+  "status": "success",
+  "error": null
+}

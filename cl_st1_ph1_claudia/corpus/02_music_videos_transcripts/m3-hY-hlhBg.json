@@ -1,0 +1,63 @@
+{
+  "corpus_id": "m3-hY-hlhBg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/m3-hY-hlhBg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/m3-hY-hlhBg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/m3-hY-hlhBg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Every heartbeat I fall in love Whenever we meet I'm asking you Cause you know about these things How will I know If he's thinking of me I try to fall But I'm too shy Can't speak Falling in love It's a little sweet This love is strong Why do I feel weak Awake me Unchained really loves me. I say a prayer with every heartbeat. I fall in love whenever we meet. I'm asking you, cause you know about this thing. How will I know if he's thinking of me? I try to fall, but I'm too shy. I can't speak. Falling in love is all that I",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 2,
+    "segments": [
+      {
+        "id": 1,
+        "start": 97.062,
+        "end": 125.851,
+        "text": " Every heartbeat I fall in love Whenever we meet I'm asking you Cause you know about these things How will I know If he's thinking of me I try to fall But I'm too shy Can't speak Falling in love It's a little sweet This love is strong Why do I feel weak Awake me Unchained",
+        "avg_logprob": -0.1130445058824438
+      },
+      {
+        "id": 2,
+        "start": 230.037,
+        "end": 254.675,
+        "text": " really loves me. I say a prayer with every heartbeat. I fall in love whenever we meet. I'm asking you, cause you know about this thing. How will I know if he's thinking of me? I try to fall, but I'm too shy. I can't speak. Falling in love is all that I",
+        "avg_logprob": -0.1440716865746414
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "m3-hY-hlhBg",
+    "uploader": "Whitney Houston",
+    "audio_file": "corpus/01_music_videos_audio/audio/m3-hY-hlhBg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8716664,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.354031,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:15:48Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,98 @@
+{
+  "corpus_id": "Mki34tyoCp0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Mki34tyoCp0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Mki34tyoCp0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Mki34tyoCp0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "There's nothing you can do that can't be done Nothing you can sing that can't be sung Nothing you can say but you can learn how to play the game It's easy Nothing you can make that can't be made No one you can save that can't be saved Nothing you can do but you can learn how to be you in time Is all you need All you need is love, love Love is all you need There's nothing you can know that isn't known Nothing you can see that isn't shown There's nowhere you can be that isn't where you're meant to be All you need is love, love Love is all you need All you need is love All you need is love All you need is love Love is a holy name Love is all you need",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.162,
+        "end": 30.288,
+        "text": " There's nothing you can do that can't be done",
+        "avg_logprob": -0.1328938789665699
+      },
+      {
+        "id": 2,
+        "start": 32.093,
+        "end": 57.355,
+        "text": " Nothing you can sing that can't be sung Nothing you can say but you can learn how to play the game It's easy Nothing you can make that can't be made No one you can save that can't be saved Nothing you can do but you can learn how to be you in time",
+        "avg_logprob": -0.04200873991190377
+      },
+      {
+        "id": 3,
+        "start": 77.015,
+        "end": 78.23,
+        "text": " Is all you need",
+        "avg_logprob": -0.275
+      },
+      {
+        "id": 4,
+        "start": 106.36,
+        "end": 125.243,
+        "text": " All you need is love, love Love is all you need There's nothing you can know that isn't known Nothing you can see that isn't shown There's nowhere you can be that isn't where you're meant to be",
+        "avg_logprob": -0.08428158886406732
+      },
+      {
+        "id": 5,
+        "start": 139.908,
+        "end": 160.107,
+        "text": " All you need is love, love Love is all you need All you need is love All you need is love All you need is love",
+        "avg_logprob": -0.10609653778374195
+      },
+      {
+        "id": 6,
+        "start": 165.473,
+        "end": 181.302,
+        "text": " Love is a holy name",
+        "avg_logprob": -0.535156230131785
+      },
+      {
+        "id": 7,
+        "start": 200.033,
+        "end": 222.882,
+        "text": " Love is all you need",
+        "avg_logprob": -0.46875
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Mki34tyoCp0",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/Mki34tyoCp0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7187490,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 26.26225,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:24Z"
+  },
+  "status": "success",
+  "error": null
+}

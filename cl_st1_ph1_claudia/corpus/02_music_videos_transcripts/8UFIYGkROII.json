@@ -1,0 +1,119 @@
+{
+  "corpus_id": "8UFIYGkROII",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8UFIYGkROII.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/8UFIYGkROII.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/8UFIYGkROII.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Soulja Boy in it up! Watch me crack that watch me up! Watch me crack that Soulja Boy Superman! And watch me you! And watch me you! And watch me you! Who is Soulja Boy? And what in the heck is that dance? Who's Soulja Boy? You! Soulja Boy, that tough. Hey, I got this new dance for y'all called the Soulja Boy. You just gotta punch, then crack back three times from left to right. Why me crank it? Why me roll? Why me crank that Soulja Boy? That's Superman now! Now why me crank that Soulja Boy? Now why me crank that Soulja Boy? Now why me crank that Soulja Boy? Soulja Boy I finna Why me crank it? Why me roll? Why me crank that Soulja Boy? That's Superman now! Now why me crank that Soulja Boy? Now why me crank that Soulja Boy? Why me lean, then why me rock? Superman, then oh! Yeah, why me crack that Robocop? Super Fred, now why me jock? Jockin' on them, hate them, man. When I do that, Soulja Boy, I lean to the left, then crack that thing, now. You! I'm jockin' on you, I'm jockin' on you. And if we get to fight, then I'm f***in' on you. You catch me at your local party, yes, I crack it every day. Haters get mad, cause I got me some baby, mate. Soulja Boy! Why me crank it? Why me roll? Why me crank that Soulja Boy? That's Superman now! Now why me crank that Soulja Boy? Now why me crank that Soulja Boy? Now why me crank that Soulja Boy? Soulja Boy, I finna Why me crank it? Why me roll? Why me crank that Soulja Boy? That's Superman now! Now why me crank that Soulja Boy? Now why me crank that Soulja Boy? Now why me crank that Soulja Boy? Why me super soaked that I'ma pass two A-Rab and he gon' crank it up for sure Haters wanna beat me, Soulja Boy, I'm the man They be lookin' at my neck, sayin' it's durable Bad man, why me do what I do? Let's get to it, let's get to it No, you can't do it like me, so don't do it like me I seen you try to do it like me, man, that damn ugly Soulja Boy, I finna, oh, why me crank it, why me, oh Why me crank that Soulja Boy, that Superman, that, oh Now why me, crank that Soulja Boy, now why me, crank that Soulja Boy Now why me, crank that Soulja Boy, now why me, crank that Soulja Boy All too fresh, I'm feeling it Why me crank it? Why me roll? Why me crank that soul? The boy that Superman that Now why me crank that soul? Now why me crank that soul? Now why me crank that soul? Now why me crank that soul? Now why? All too fresh, I'm feeling it Why me crank it? Why me roll? Why me crank that Roosevelt that super-soaked that Super-soaked that Super soak that, oh Super soak that, oh Super soak that, oh I'm your friend, now why me do it? Why me show up, but why me do it? Why me quack that soldier boy, now Superman do it Superman do it Superman do it Why me crank it? Why me roll? Why me crank that Soulja Boy? That's Superman now Why me crank that Soulja Boy? Why me crank that Soulja Boy? Why me crank that Soulja Boy? Soulja Boy I finna Why me crank it? Why me roll? Why me crank that Soulja Boy? That's Superman now Why me crank that Soulja Boy? Why me crank that Soulja Boy? Why me crank that Soulja Boy? Adios!",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 10,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.841,
+        "end": 27.048,
+        "text": " Soulja Boy in it up! Watch me crack that watch me up! Watch me crack that Soulja Boy Superman! And watch me you! And watch me you! And watch me you! Who is Soulja Boy? And what in the heck is that dance? Who's Soulja Boy? You! Soulja Boy, that tough. Hey, I got this new dance for y'all called the Soulja Boy. You just gotta punch, then crack back three times from left to right.",
+        "avg_logprob": -0.208946078869642
+      },
+      {
+        "id": 2,
+        "start": 30.575,
+        "end": 58.165,
+        "text": " Why me crank it? Why me roll? Why me crank that Soulja Boy? That's Superman now! Now why me crank that Soulja Boy? Now why me crank that Soulja Boy? Now why me crank that Soulja Boy? Soulja Boy I finna Why me crank it? Why me roll? Why me crank that Soulja Boy? That's Superman now! Now why me crank that Soulja Boy? Now why me crank that Soulja Boy?",
+        "avg_logprob": -0.22167969417447844
+      },
+      {
+        "id": 3,
+        "start": 58.165,
+        "end": 85.52,
+        "text": " Why me lean, then why me rock? Superman, then oh! Yeah, why me crack that Robocop? Super Fred, now why me jock? Jockin' on them, hate them, man. When I do that, Soulja Boy, I lean to the left, then crack that thing, now. You! I'm jockin' on you, I'm jockin' on you. And if we get to fight, then I'm f***in' on you. You catch me at your local party, yes, I crack it every day. Haters get mad, cause I got me some baby, mate. Soulja Boy!",
+        "avg_logprob": -0.19233363716722393
+      },
+      {
+        "id": 4,
+        "start": 85.52,
+        "end": 112.958,
+        "text": " Why me crank it? Why me roll? Why me crank that Soulja Boy? That's Superman now! Now why me crank that Soulja Boy? Now why me crank that Soulja Boy? Now why me crank that Soulja Boy? Soulja Boy, I finna Why me crank it? Why me roll? Why me crank that Soulja Boy? That's Superman now! Now why me crank that Soulja Boy? Now why me crank that Soulja Boy? Now why me crank that Soulja Boy?",
+        "avg_logprob": -0.20430424233090203
+      },
+      {
+        "id": 5,
+        "start": 112.958,
+        "end": 128.652,
+        "text": " Why me super soaked that I'ma pass two A-Rab and he gon' crank it up for sure Haters wanna beat me, Soulja Boy, I'm the man They be lookin' at my neck, sayin' it's durable Bad man, why me do what I do?",
+        "avg_logprob": -0.41521516002592496
+      },
+      {
+        "id": 6,
+        "start": 130.238,
+        "end": 153.796,
+        "text": " Let's get to it, let's get to it No, you can't do it like me, so don't do it like me I seen you try to do it like me, man, that damn ugly Soulja Boy, I finna, oh, why me crank it, why me, oh Why me crank that Soulja Boy, that Superman, that, oh Now why me, crank that Soulja Boy, now why me, crank that Soulja Boy Now why me, crank that Soulja Boy, now why me, crank that Soulja Boy",
+        "avg_logprob": -0.21834238560303398
+      },
+      {
+        "id": 7,
+        "start": 153.796,
+        "end": 175.784,
+        "text": " All too fresh, I'm feeling it Why me crank it? Why me roll? Why me crank that soul? The boy that Superman that Now why me crank that soul? Now why me crank that soul? Now why me crank that soul? Now why me crank that soul? Now why? All too fresh, I'm feeling it Why me crank it? Why me roll? Why me crank that Roosevelt that super-soaked that Super-soaked that",
+        "avg_logprob": -0.30796372377744285
+      },
+      {
+        "id": 8,
+        "start": 175.784,
+        "end": 191.461,
+        "text": " Super soak that, oh Super soak that, oh Super soak that, oh I'm your friend, now why me do it? Why me show up, but why me do it? Why me quack that soldier boy, now Superman do it Superman do it Superman do it",
+        "avg_logprob": -0.33231025827782495
+      },
+      {
+        "id": 9,
+        "start": 195.41,
+        "end": 222.511,
+        "text": " Why me crank it? Why me roll? Why me crank that Soulja Boy? That's Superman now Why me crank that Soulja Boy? Why me crank that Soulja Boy? Why me crank that Soulja Boy? Soulja Boy I finna Why me crank it? Why me roll? Why me crank that Soulja Boy? That's Superman now Why me crank that Soulja Boy? Why me crank that Soulja Boy? Why me crank that Soulja Boy?",
+        "avg_logprob": -0.18878865487796745
+      },
+      {
+        "id": 10,
+        "start": 236.045,
+        "end": 237.445,
+        "text": " Adios!",
+        "avg_logprob": -0.591796875
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "8UFIYGkROII",
+    "uploader": "Soulja Boy",
+    "audio_file": "corpus/01_music_videos_audio/audio/8UFIYGkROII.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7617710,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.371801,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:16:10Z"
+  },
+  "status": "success",
+  "error": null
+}

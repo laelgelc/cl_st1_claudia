@@ -1,0 +1,91 @@
+{
+  "corpus_id": "aNYWl13IWhY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/aNYWl13IWhY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/aNYWl13IWhY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/aNYWl13IWhY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "And now, ladies and gentlemen, yes, that's right, Elvis Presley. Ladies and gentlemen, could I have your attention, please? I'd like to tell you that we're gonna do a sad song for you. This song here is one of the saddest songs we've ever heard. It really tells a story, friends. Beautiful lyrics. It goes something like this. You ain't nothing but a... Thank you. Ladies and gentlemen, I'd like to tell you, friends, I'd like to tell you, please, ladies and gentlemen, I'd like to tell you that on Thanksgiving Day, I think that our new picture is to be released. And also, we'll be back with Mr. Ed Sullivan in January. I'd like to thank all the millions of wonderful people that are watching tonight, friends. And... I'd like to say this. Until we meet you again, may God bless you as he's blessed me. Thank you very much.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.571,
+        "end": 30.305,
+        "text": " And now, ladies and gentlemen, yes, that's right, Elvis Presley. Ladies and gentlemen, could I have your attention, please? I'd like to tell you that we're gonna do a sad song for you.",
+        "avg_logprob": -0.09931848087209336
+      },
+      {
+        "id": 2,
+        "start": 32.887,
+        "end": 50.791,
+        "text": " This song here is one of the saddest songs we've ever heard. It really tells a story, friends. Beautiful lyrics. It goes something like this.",
+        "avg_logprob": -0.052142518939393936
+      },
+      {
+        "id": 3,
+        "start": 64.747,
+        "end": 67.463,
+        "text": " You ain't nothing but a...",
+        "avg_logprob": -0.3972168006002903
+      },
+      {
+        "id": 4,
+        "start": 115.135,
+        "end": 123.539,
+        "text": " Thank you.",
+        "avg_logprob": -0.7153320461511612
+      },
+      {
+        "id": 5,
+        "start": 177.91,
+        "end": 207.863,
+        "text": " Ladies and gentlemen, I'd like to tell you, friends, I'd like to tell you, please, ladies and gentlemen, I'd like to tell you that on Thanksgiving Day, I think that our new picture is to be released. And also, we'll be back with Mr. Ed Sullivan in January. I'd like to thank all the millions of wonderful people that are watching tonight, friends. And...",
+        "avg_logprob": -0.08133370287361599
+      },
+      {
+        "id": 6,
+        "start": 208.37,
+        "end": 215.71,
+        "text": " I'd like to say this. Until we meet you again, may God bless you as he's blessed me. Thank you very much.",
+        "avg_logprob": -0.025188576815457178
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "aNYWl13IWhY",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/aNYWl13IWhY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6954920,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.130887,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:53:22Z"
+  },
+  "status": "success",
+  "error": null
+}

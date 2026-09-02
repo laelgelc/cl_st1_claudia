@@ -1,0 +1,133 @@
+{
+  "corpus_id": "lTYe9eDqxe8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/lTYe9eDqxe8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/lTYe9eDqxe8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/lTYe9eDqxe8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "We'd like to slow the tempo down just a little bit and do a ballad. We do hope you remember it. One called, All I Have to Do is Dream. Dream. Dream, dream, dream, dream. Dream, dream, dream when I want you. In my arms when I want you. And all your charms whenever I want you All I have to do is dream Dream, dream, dream when I feel blue In the night and I need you To hold me tight whenever I want you All I have to do is dream Dream, dream, dream, dream I can make you mine Taste your lips of wine any time, night or day. Only trouble is, gee whiz, I'm I need you so That I could die I love you so And that is why whenever I want you All I have to do is dream Dream, dream, dream, dream I can make you mine Taste your lips of wine Anytime, night or day Only trouble is Gee whiz, I'm dreamin' my life away I need you so That I could die I love you so And that is why whenever I want you All I have to do is dream Dream, dream, dream, dream Dream, dream, dream, dream Dream, dream, dream We would like to do a more recent record. We do hope you enjoy one called Kathy's Clown. Don't want your love anymore Don't want your kisses, that's for sure I die each time I hear this sound. Here he comes, that's Cassie's clown. I've got to stand tall. You know a man can't crawl. When he knows you tell lies, and he lids them best in bias, then he's not a man at all. Don't want your kisses, that's for sure. I die each time I hear this sound. Here he comes, that's Kathy's clown. When you see me shed a tear And you know that it's sincere Don't you think it's kinda sad That you're treating me so bad Or don't you even care Don't want your love anymore Don't want your kisses, that's for sure I die each time I hear this sound. Here he comes. That's Kathy's clown. That's Kathy's clown. That's Kathy's clown.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 12,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.077,
+        "end": 29.022,
+        "text": " We'd like to slow the tempo down just a little bit and do a ballad. We do hope you remember it. One called, All I Have to Do is Dream. Dream. Dream, dream, dream, dream. Dream, dream, dream when I want you. In my arms when I want you.",
+        "avg_logprob": -0.09807692307692308
+      },
+      {
+        "id": 2,
+        "start": 29.225,
+        "end": 45.391,
+        "text": " And all your charms whenever I want you All I have to do is dream Dream, dream, dream when I feel blue",
+        "avg_logprob": -0.0853125
+      },
+      {
+        "id": 3,
+        "start": 45.83,
+        "end": 73.994,
+        "text": " In the night and I need you To hold me tight whenever I want you All I have to do is dream Dream, dream, dream, dream I can make you mine Taste your lips of wine",
+        "avg_logprob": -0.060205078963190314
+      },
+      {
+        "id": 4,
+        "start": 74.467,
+        "end": 85.148,
+        "text": " any time, night or day. Only trouble is, gee whiz, I'm",
+        "avg_logprob": -0.20920139137241575
+      },
+      {
+        "id": 5,
+        "start": 89.502,
+        "end": 113.009,
+        "text": " I need you so That I could die I love you so And that is why whenever I want you All I have to do is dream Dream, dream, dream, dream",
+        "avg_logprob": -0.09732142729418618
+      },
+      {
+        "id": 6,
+        "start": 116.553,
+        "end": 144.987,
+        "text": " I can make you mine Taste your lips of wine Anytime, night or day Only trouble is Gee whiz, I'm dreamin' my life away I need you so That I could die I love you so",
+        "avg_logprob": -0.09429505502068719
+      },
+      {
+        "id": 7,
+        "start": 145.662,
+        "end": 169.743,
+        "text": " And that is why whenever I want you All I have to do is dream Dream, dream, dream, dream Dream, dream, dream, dream Dream, dream, dream",
+        "avg_logprob": -0.08549106972558158
+      },
+      {
+        "id": 8,
+        "start": 186.5,
+        "end": 213.736,
+        "text": " We would like to do a more recent record. We do hope you enjoy one called Kathy's Clown. Don't want your love anymore Don't want your kisses, that's for sure",
+        "avg_logprob": -0.10526842719469315
+      },
+      {
+        "id": 9,
+        "start": 214.141,
+        "end": 243.723,
+        "text": " I die each time I hear this sound. Here he comes, that's Cassie's clown. I've got to stand tall. You know a man can't crawl. When he knows you tell lies, and he lids them best in bias, then he's not a man at all.",
+        "avg_logprob": -0.17827869438734212
+      },
+      {
+        "id": 10,
+        "start": 251.857,
+        "end": 274.267,
+        "text": " Don't want your kisses, that's for sure. I die each time I hear this sound. Here he comes, that's Kathy's clown.",
+        "avg_logprob": -0.05856224846455359
+      },
+      {
+        "id": 11,
+        "start": 274.908,
+        "end": 304.27,
+        "text": " When you see me shed a tear And you know that it's sincere Don't you think it's kinda sad That you're treating me so bad Or don't you even care Don't want your love anymore Don't want your kisses, that's for sure",
+        "avg_logprob": -0.08428485576923077
+      },
+      {
+        "id": 12,
+        "start": 304.81,
+        "end": 329.448,
+        "text": " I die each time I hear this sound. Here he comes. That's Kathy's clown. That's Kathy's clown. That's Kathy's clown.",
+        "avg_logprob": -0.11694335611537099
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "lTYe9eDqxe8",
+    "uploader": "ReelinInTheYears66",
+    "audio_file": "corpus/01_music_videos_audio/audio/lTYe9eDqxe8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10991848,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.540814,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:10:41Z"
+  },
+  "status": "success",
+  "error": null
+}

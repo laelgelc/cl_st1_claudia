@@ -1,0 +1,84 @@
+{
+  "corpus_id": "5gqEJT1lxgk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/5gqEJT1lxgk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/5gqEJT1lxgk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/5gqEJT1lxgk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I got my red dress on tonight Dancing in the dark in the pale moonlight Threw my hair up real big beauty queen style High heels off, I'm feeling alive Oh, my God, I feel it in the air Telephone wires above are sizzling like a snare Honey, I'm on fire, I feel it everywhere Nothing scares me anymore Lift me up before you go Summertime sadness I just wanted you to know I got that summertime I'm feeling electric tonight Cruisin' down the coast, going about 99 Got my bad baby by my heavenly side I know if I go, I'll die happy tonight Oh, my God, I feel it in the air Telephone wires above are sizzling like a snail Honey, I'm on fire, I feel it everywhere Nothing scares me anymore Kiss me hard before you go Summertime sadness I just wanted you to know That, baby, you're the best",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 7.54,
+        "end": 22.525,
+        "text": " I got my red dress on tonight Dancing in the dark in the pale moonlight Threw my hair up real big beauty queen style High heels off, I'm feeling alive",
+        "avg_logprob": -0.24563419555916505
+      },
+      {
+        "id": 2,
+        "start": 23.082,
+        "end": 48.8,
+        "text": " Oh, my God, I feel it in the air Telephone wires above are sizzling like a snare Honey, I'm on fire, I feel it everywhere Nothing scares me anymore Lift me up before you go Summertime sadness I just wanted you to know",
+        "avg_logprob": -0.13863502246028972
+      },
+      {
+        "id": 3,
+        "start": 82.533,
+        "end": 83.832,
+        "text": " I got that summertime",
+        "avg_logprob": -0.2423828125
+      },
+      {
+        "id": 4,
+        "start": 106.293,
+        "end": 121.463,
+        "text": " I'm feeling electric tonight Cruisin' down the coast, going about 99 Got my bad baby by my heavenly side I know if I go, I'll die happy tonight",
+        "avg_logprob": -0.10786830059119633
+      },
+      {
+        "id": 5,
+        "start": 122.054,
+        "end": 151.535,
+        "text": " Oh, my God, I feel it in the air Telephone wires above are sizzling like a snail Honey, I'm on fire, I feel it everywhere Nothing scares me anymore Kiss me hard before you go Summertime sadness I just wanted you to know That, baby, you're the best",
+        "avg_logprob": -0.11712346409187942
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "5gqEJT1lxgk",
+    "uploader": "Lana Del Rey",
+    "audio_file": "corpus/01_music_videos_audio/audio/5gqEJT1lxgk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6893246,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.698727,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:09:53Z"
+  },
+  "status": "success",
+  "error": null
+}

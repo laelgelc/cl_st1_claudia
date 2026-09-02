@@ -1,0 +1,84 @@
+{
+  "corpus_id": "LjhCEhWiKXk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/LjhCEhWiKXk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/LjhCEhWiKXk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/LjhCEhWiKXk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "trying she's so beautiful and I tell her every day yeah I know I know when I compliment her she won't believe me and it's so it's so sad to think that she don't see what I see but every time she asks me do I look okay I say Nothing that I would change Cause you're amazing Just the way you are And when you smile The whole world stops and stares for a while Cause girl you're amazing I think it's so sexy She's so beautiful And I tell her every day Oh, you know, you know, you know I never ask you to change If perfect's what you're searching for Then just stay the same So don't even bother asking if you look okay You know I'll say There's not a thing that I would change Cause you're amazing Just the way you are And when you smile The whole world stops and stares for a while Cause girl you're amazing Just the way you are Is not a thing that I would change Cause you're amazing Just the way you are And when you smile The whole world stops and stares for a while Cause girl you're amazing Just the way you are",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 41.054,
+        "end": 64.628,
+        "text": " trying she's so beautiful and I tell her every day yeah I know I know when I compliment her she won't believe me and it's so it's so sad to think that she don't see what I see but every time she asks me do I look okay I say",
+        "avg_logprob": -0.09842354671231338
+      },
+      {
+        "id": 2,
+        "start": 72.492,
+        "end": 96.539,
+        "text": " Nothing that I would change Cause you're amazing Just the way you are And when you smile The whole world stops and stares for a while Cause girl you're amazing",
+        "avg_logprob": -0.11764706232968498
+      },
+      {
+        "id": 3,
+        "start": 110.765,
+        "end": 135.976,
+        "text": " I think it's so sexy She's so beautiful And I tell her every day Oh, you know, you know, you know I never ask you to change If perfect's what you're searching for Then just stay the same So don't even bother asking if you look okay You know I'll say",
+        "avg_logprob": -0.08830686573122369
+      },
+      {
+        "id": 4,
+        "start": 142.068,
+        "end": 168.038,
+        "text": " There's not a thing that I would change Cause you're amazing Just the way you are And when you smile The whole world stops and stares for a while Cause girl you're amazing Just the way you are",
+        "avg_logprob": -0.1068313953488372
+      },
+      {
+        "id": 5,
+        "start": 195.089,
+        "end": 223.304,
+        "text": " Is not a thing that I would change Cause you're amazing Just the way you are And when you smile The whole world stops and stares for a while Cause girl you're amazing Just the way you are",
+        "avg_logprob": -0.08942522339168049
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "LjhCEhWiKXk",
+    "uploader": "Bruno Mars",
+    "audio_file": "corpus/01_music_videos_audio/audio/LjhCEhWiKXk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7577586,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.866506,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:06:39Z"
+  },
+  "status": "success",
+  "error": null
+}

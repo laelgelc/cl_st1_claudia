@@ -1,0 +1,84 @@
+{
+  "corpus_id": "BqDjMZKf-wg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/BqDjMZKf-wg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/BqDjMZKf-wg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/BqDjMZKf-wg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Bye. Bye. Bye. My memory has just been sold My angel is the centerfold Angel is the centerfold My blood runs cold My memory has just been sold Angel is the centerfold Slippery notes under the desk While I was thinking about her dress I was shy, turned away Before she caught my eye I was shaking in my shoes Whenever she flashed those baby blues Something had a hold on me To see her in that negligee is really just too much My blood runs cold Yeah, my memory has just been sold My angel is the centerfold Angel is the centerfold My blood runs cold My memory has just been sold Angel is the centerfold My blood runs cold My memory has just been sold My angel in the centerfold Angel in the centerfold My blood runs cold My memory is just as old",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 23.791,
+        "end": 43.45,
+        "text": " Bye. Bye. Bye.",
+        "avg_logprob": -0.7204241241727557
+      },
+      {
+        "id": 2,
+        "start": 46.555,
+        "end": 75.766,
+        "text": " My memory has just been sold My angel is the centerfold Angel is the centerfold My blood runs cold My memory has just been sold Angel is the centerfold Slippery notes under the desk While I was thinking about her dress I was shy, turned away Before she caught my eye I was shaking in my shoes Whenever she flashed those baby blues Something had a hold on me",
+        "avg_logprob": -0.11147836204140614
+      },
+      {
+        "id": 3,
+        "start": 78.331,
+        "end": 103.559,
+        "text": " To see her in that negligee is really just too much My blood runs cold Yeah, my memory has just been sold My angel is the centerfold Angel is the centerfold My blood runs cold My memory has just been sold Angel is the centerfold",
+        "avg_logprob": -0.21001838293730044
+      },
+      {
+        "id": 4,
+        "start": 131.588,
+        "end": 156.175,
+        "text": " My blood runs cold My memory has just been sold My angel in the centerfold Angel in the centerfold My blood runs cold",
+        "avg_logprob": -0.30588943224686843
+      },
+      {
+        "id": 5,
+        "start": 189.368,
+        "end": 195.41,
+        "text": " My memory is just as old",
+        "avg_logprob": -0.7918526785714286
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "BqDjMZKf-wg",
+    "uploader": "JGeilsBandVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/BqDjMZKf-wg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6991328,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.900949,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:12:59Z"
+  },
+  "status": "success",
+  "error": null
+}

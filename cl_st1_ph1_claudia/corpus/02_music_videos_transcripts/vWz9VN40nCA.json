@@ -1,0 +1,70 @@
+{
+  "corpus_id": "vWz9VN40nCA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/vWz9VN40nCA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/vWz9VN40nCA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/vWz9VN40nCA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Physical. I want to get physical. Let's get into physical. Let me hear your body talk. Body talk. Let me hear your body talk. Let's get physical. Physical. I want to get physical. Let's get into physical. Let me Physical. I want to get physical. Let's get into physical. Let me hear your body talk. Your body talk. Let me hear your body talk. Let's get physical. Physical. I want to Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 48.344,
+        "end": 71.243,
+        "text": " Physical. I want to get physical. Let's get into physical. Let me hear your body talk. Body talk. Let me hear your body talk. Let's get physical. Physical. I want to get physical. Let's get into physical. Let me",
+        "avg_logprob": -0.07945165431724405
+      },
+      {
+        "id": 2,
+        "start": 110.005,
+        "end": 127.893,
+        "text": " Physical. I want to get physical. Let's get into physical. Let me hear your body talk. Your body talk. Let me hear your body talk. Let's get physical. Physical. I want to",
+        "avg_logprob": -0.12263807931611705
+      },
+      {
+        "id": 3,
+        "start": 216.976,
+        "end": 218.242,
+        "text": " Thank you.",
+        "avg_logprob": -0.6586913913488388
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "vWz9VN40nCA",
+    "uploader": "Olivia Newton-John",
+    "audio_file": "corpus/01_music_videos_audio/audio/vWz9VN40nCA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7159254,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.697747,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:08:42Z"
+  },
+  "status": "success",
+  "error": null
+}

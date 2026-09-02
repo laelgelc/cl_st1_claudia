@@ -1,0 +1,91 @@
+{
+  "corpus_id": "dTd2ylacYNU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/dTd2ylacYNU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/dTd2ylacYNU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/dTd2ylacYNU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "and the land is dark and the moon is the only light we'll see Just as long as you stand, stand by me So darling, darling, stand by me Oh, stand by me Oh, stand, stand by me Stand by me If the sky that we look upon Should crumble and fall Or the mountain Should crumble to the sea shed a tear just as long as you stand, stand by me. And darling, darling, stand by me. Oh, stand by me. Oh, stand now. Stand by me. Stand by me. Darling, darling, stand by me Oh, stand by me Oh, stand Stand by me Stand by me Whenever you're in trouble, won't you stand by me Oh, stand Stand Stand by me When all Of your friends are gone",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 19.235,
+        "end": 30.49,
+        "text": " and the land is dark and the moon is the only light we'll see",
+        "avg_logprob": -0.25390625931322575
+      },
+      {
+        "id": 2,
+        "start": 39.097,
+        "end": 68.105,
+        "text": " Just as long as you stand, stand by me So darling, darling, stand by me Oh, stand by me Oh, stand, stand by me Stand by me If the sky that we look upon",
+        "avg_logprob": -0.08417492232671599
+      },
+      {
+        "id": 3,
+        "start": 70.653,
+        "end": 82.82,
+        "text": " Should crumble and fall Or the mountain Should crumble to the sea",
+        "avg_logprob": -0.42217548993917614
+      },
+      {
+        "id": 4,
+        "start": 86.937,
+        "end": 111.676,
+        "text": " shed a tear just as long as you stand, stand by me. And darling, darling, stand by me. Oh, stand by me. Oh, stand now. Stand by me. Stand by me.",
+        "avg_logprob": -0.05732194732787997
+      },
+      {
+        "id": 5,
+        "start": 140.482,
+        "end": 166.942,
+        "text": " Darling, darling, stand by me Oh, stand by me Oh, stand Stand by me Stand by me Whenever you're in trouble, won't you stand by me Oh, stand",
+        "avg_logprob": -0.18971706564361984
+      },
+      {
+        "id": 6,
+        "start": 171.717,
+        "end": 178.383,
+        "text": " Stand Stand by me When all Of your friends are gone",
+        "avg_logprob": -0.3616536458333333
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "dTd2ylacYNU",
+    "uploader": "PRIMITIV RECORD",
+    "audio_file": "corpus/01_music_videos_audio/audio/dTd2ylacYNU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5778690,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.529046,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:21:20Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,91 @@
+{
+  "corpus_id": "WQnAxOQxQIU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/WQnAxOQxQIU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/WQnAxOQxQIU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/WQnAxOQxQIU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I want to stand with you on a mountain. Until the sky falls down over me And when the stars are shining brightly in the velvet sky protection of the highest We are now at Upper Session Road with you on a mountain I wanna bathe with you in the sea I wanna lay like this forever until the sky falls down on me I wanna stand with you on a mountain I wanna bathe with you Until the sky falls down on us",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 36.278,
+        "end": 53.66,
+        "text": " I want to stand with you on a mountain.",
+        "avg_logprob": -0.44140626083720813
+      },
+      {
+        "id": 2,
+        "start": 66.485,
+        "end": 78.922,
+        "text": " Until the sky falls down over me And when the stars are shining brightly in the velvet sky",
+        "avg_logprob": -0.06465871396817659
+      },
+      {
+        "id": 3,
+        "start": 94.649,
+        "end": 97.18,
+        "text": " protection of the highest",
+        "avg_logprob": -0.569921875
+      },
+      {
+        "id": 4,
+        "start": 118.662,
+        "end": 140.667,
+        "text": " We are now at Upper Session Road",
+        "avg_logprob": -0.5837673611111112
+      },
+      {
+        "id": 5,
+        "start": 182.433,
+        "end": 211.998,
+        "text": " with you on a mountain I wanna bathe with you in the sea I wanna lay like this forever until the sky falls down on me I wanna stand with you on a mountain I wanna bathe with you",
+        "avg_logprob": -0.10611978865095548
+      },
+      {
+        "id": 6,
+        "start": 219.355,
+        "end": 224.063,
+        "text": " Until the sky falls down on us",
+        "avg_logprob": -0.1298828125
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "WQnAxOQxQIU",
+    "uploader": "Savage Garden",
+    "audio_file": "corpus/01_music_videos_audio/audio/WQnAxOQxQIU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8372636,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.47251,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:06:59Z"
+  },
+  "status": "success",
+  "error": null
+}

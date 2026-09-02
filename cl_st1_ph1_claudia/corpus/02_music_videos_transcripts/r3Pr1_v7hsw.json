@@ -1,0 +1,84 @@
+{
+  "corpus_id": "r3Pr1_v7hsw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/r3Pr1_v7hsw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/r3Pr1_v7hsw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/r3Pr1_v7hsw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I've got to take a little time, a little time to think things over. I better read between the lines in case I need it when I'm older. This mountain I must climb I can't stop now I've traveled so far To change this lonely life I wanna know what love is I want you to show me Looks like love has finally found me In my life, there's been heartache and pain I don't know if I can face it again I can't stop now, I've traveled so far I want you to show me I wanna feel we're loving I know you can show me I wanna know we're loving I want you to show me",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 15.134,
+        "end": 36.194,
+        "text": " I've got to take a little time, a little time to think things over. I better read between the lines in case I need it when I'm older.",
+        "avg_logprob": -0.039349724702975326
+      },
+      {
+        "id": 2,
+        "start": 51.263,
+        "end": 53.491,
+        "text": " This mountain I must climb",
+        "avg_logprob": -0.244140625
+      },
+      {
+        "id": 3,
+        "start": 84.541,
+        "end": 105.297,
+        "text": " I can't stop now I've traveled so far To change this lonely life I wanna know what love is I want you to show me",
+        "avg_logprob": -0.19182477785008295
+      },
+      {
+        "id": 4,
+        "start": 145.156,
+        "end": 169.574,
+        "text": " Looks like love has finally found me In my life, there's been heartache and pain I don't know if I can face it again I can't stop now, I've traveled so far",
+        "avg_logprob": -0.13085937537252904
+      },
+      {
+        "id": 5,
+        "start": 181.927,
+        "end": 207.847,
+        "text": " I want you to show me I wanna feel we're loving I know you can show me I wanna know we're loving I want you to show me",
+        "avg_logprob": -0.11869959533214569
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "r3Pr1_v7hsw",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/r3Pr1_v7hsw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9623914,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.041152,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:16:31Z"
+  },
+  "status": "success",
+  "error": null
+}

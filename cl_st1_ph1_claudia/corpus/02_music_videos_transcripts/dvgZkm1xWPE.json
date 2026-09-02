@@ -1,0 +1,98 @@
+{
+  "corpus_id": "dvgZkm1xWPE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/dvgZkm1xWPE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/dvgZkm1xWPE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/dvgZkm1xWPE.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "the world sees it rise when I gave the word now in the morning I see I used to roll the dice Feel the fear in my enemy's eyes Listen as the crowd would sing Now the old king is dead Long live the king One minute I held the key Next the walls were closed on me And I discovered that my castles stand Upon pillars of salt and pillars of sand I can't cherish that was when i ruled the It was the wicked and wild wind Blew down the doors to let me in Shattered windows and the sound of drums People couldn't believe what I'd become Revolutionaries wait For my head on a silver plate Just a puppet on a lonely string Or who would ever want to be king? I hear Jerusalem bells a-ringin' Roman cavalry choirs a-singin' Be my mirror, my sword and shield My missionaries in a foreign field For some reason I can't explain I know St. Peter won't call my name Never an honest word But that was when I ruled Thank you. Roman cavalry choirs are singing Be my mirror, my sword and shield Our missionaries in a foreign field For some reason I can't explain I know Saint Peter won't call my name Never an honest word But that was when I ruled the world",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 15.151,
+        "end": 21.563,
+        "text": " the world sees it rise when I gave the word now in the morning I see",
+        "avg_logprob": -0.35018382352941174
+      },
+      {
+        "id": 2,
+        "start": 41.408,
+        "end": 71.395,
+        "text": " I used to roll the dice Feel the fear in my enemy's eyes Listen as the crowd would sing Now the old king is dead Long live the king One minute I held the key Next the walls were closed on me And I discovered that my castles stand Upon pillars of salt and pillars of sand I can't cherish",
+        "avg_logprob": -0.09771728643681854
+      },
+      {
+        "id": 3,
+        "start": 71.395,
+        "end": 96.067,
+        "text": " that was when i ruled the",
+        "avg_logprob": -0.8900669983455113
+      },
+      {
+        "id": 4,
+        "start": 110.478,
+        "end": 135.47,
+        "text": " It was the wicked and wild wind Blew down the doors to let me in Shattered windows and the sound of drums People couldn't believe what I'd become Revolutionaries wait For my head on a silver plate Just a puppet on a lonely string",
+        "avg_logprob": -0.06558593451976776
+      },
+      {
+        "id": 5,
+        "start": 135.841,
+        "end": 165.507,
+        "text": " Or who would ever want to be king? I hear Jerusalem bells a-ringin' Roman cavalry choirs a-singin' Be my mirror, my sword and shield My missionaries in a foreign field For some reason I can't explain I know St. Peter won't call my name Never an honest word But that was when I ruled",
+        "avg_logprob": -0.0946302806407633
+      },
+      {
+        "id": 6,
+        "start": 171.346,
+        "end": 176.02,
+        "text": " Thank you.",
+        "avg_logprob": -0.5820312649011612
+      },
+      {
+        "id": 7,
+        "start": 198.633,
+        "end": 221.954,
+        "text": " Roman cavalry choirs are singing Be my mirror, my sword and shield Our missionaries in a foreign field For some reason I can't explain I know Saint Peter won't call my name Never an honest word But that was when I ruled the world",
+        "avg_logprob": -0.11062499836087226
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "dvgZkm1xWPE",
+    "uploader": "Coldplay",
+    "audio_file": "corpus/01_music_videos_audio/audio/dvgZkm1xWPE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7749228,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.406199,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:18:21Z"
+  },
+  "status": "success",
+  "error": null
+}

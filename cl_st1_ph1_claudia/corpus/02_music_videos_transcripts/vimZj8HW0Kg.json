@@ -1,0 +1,70 @@
+{
+  "corpus_id": "vimZj8HW0Kg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/vimZj8HW0Kg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/vimZj8HW0Kg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/vimZj8HW0Kg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Come on, man. Oh, go. Todd! Todd! Get upstairs and take out that garbage.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.2,
+        "end": 10.375,
+        "text": " Come on, man.",
+        "avg_logprob": -0.3645833333333333
+      },
+      {
+        "id": 2,
+        "start": 159.719,
+        "end": 160.748,
+        "text": " Oh, go.",
+        "avg_logprob": -0.596484375
+      },
+      {
+        "id": 3,
+        "start": 288.745,
+        "end": 293.572,
+        "text": " Todd! Todd! Get upstairs and take out that garbage.",
+        "avg_logprob": -0.19381009615384615
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "vimZj8HW0Kg",
+    "uploader": "LL COOL J",
+    "audio_file": "corpus/01_music_videos_audio/audio/vimZj8HW0Kg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9497598,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 10.104034,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:10:13Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,84 @@
+{
+  "corpus_id": "gEcZ8BlsJhI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/gEcZ8BlsJhI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/gEcZ8BlsJhI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/gEcZ8BlsJhI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Each time I see you again I fall to pieces How can I be just your friend Never kiss You want me to forget Pretend we've never met And I've tried And I've tried But I haven't yet You walk by And I fall to pieces I fall to pieces Each time someone speaks your name I fall to pieces Time only adds to You tell me to find someone else to love Someone who'll love me too The way you used to do But each time I go out with someone new And I fall to pieces",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 13.126,
+        "end": 42.37,
+        "text": " Each time I see you again I fall to pieces How can I be just your friend",
+        "avg_logprob": -0.0925021730363369
+      },
+      {
+        "id": 2,
+        "start": 49.964,
+        "end": 76.07,
+        "text": " Never kiss You want me to forget Pretend we've never met And I've tried And I've tried But I haven't yet You walk by And I fall to pieces",
+        "avg_logprob": -0.10837053230830601
+      },
+      {
+        "id": 3,
+        "start": 88.287,
+        "end": 117.413,
+        "text": " I fall to pieces Each time someone speaks your name I fall to pieces Time only adds to",
+        "avg_logprob": -0.13569079417931407
+      },
+      {
+        "id": 4,
+        "start": 122.054,
+        "end": 147.383,
+        "text": " You tell me to find someone else to love Someone who'll love me too The way you used to do But each time I go out with someone new",
+        "avg_logprob": -0.06520917338709678
+      },
+      {
+        "id": 5,
+        "start": 149.105,
+        "end": 153.121,
+        "text": " And I fall to pieces",
+        "avg_logprob": -0.1149088516831398
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "gEcZ8BlsJhI",
+    "uploader": "Patsy Cline",
+    "audio_file": "corpus/01_music_videos_audio/audio/gEcZ8BlsJhI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5371504,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 27.464013,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:59:19Z"
+  },
+  "status": "success",
+  "error": null
+}

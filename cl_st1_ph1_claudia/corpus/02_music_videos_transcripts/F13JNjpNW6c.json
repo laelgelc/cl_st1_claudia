@@ -1,0 +1,91 @@
+{
+  "corpus_id": "F13JNjpNW6c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/F13JNjpNW6c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/F13JNjpNW6c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/F13JNjpNW6c.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Womp-bomp-a-loom-bomp-a-lomp-bomp-bomp Tutti Frutti, oh, Rudy Tutti Frutti, oh, Rudy Tutti Frutti, oh, Rudy Tutti Frutti, oh, Rudy Tutti Frutti, oh, Rudy I got a girl named Sue, she knows just what to do. I got a girl named Sue, she knows just what to do. She rocks to the east, she rocks to the west, but she's the gal that I love best. Tootie pootie, on the road. Tootie pootie, on the road. Tootie pootie, on the road. Tutti Frutti, oh Rudy. Tutti Frutti, oh Rudy. My wife, Luma, got a gal named Daisy. She almost drives me crazy. Got a gal named Daisy. She almost drives me crazy. She knows how to love me. Yes, indeed. Boy, you don't know what she'll do to me. Tutti Frutti. Oh Rudy Oh Rudy Oh Rudy Oh Rudy Oh Rudy Oh Rudy Oh Rudy Got a gal named Daisy She almost got me crazy Got a gal named Daisy She almost drives me crazy. She knows how to love me, yes indeed. Boy, you don't know what she'll do to me. Oh, Rudy. Oh, Rudy. Oh, Rudy. Oh, Rudy. Oh, Rudy. Oh, Rudy. Oh, Rudy. Oh, Rudy. Oh, Rudy. Oh, Rudy. Oh, Rudy. Oh, Rudy.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.993,
+        "end": 16.147,
+        "text": " Womp-bomp-a-loom-bomp-a-lomp-bomp-bomp Tutti Frutti, oh, Rudy Tutti Frutti, oh, Rudy Tutti Frutti, oh, Rudy Tutti Frutti, oh, Rudy Tutti Frutti, oh, Rudy",
+        "avg_logprob": -0.17343750638621194
+      },
+      {
+        "id": 2,
+        "start": 16.147,
+        "end": 41.982,
+        "text": " I got a girl named Sue, she knows just what to do. I got a girl named Sue, she knows just what to do. She rocks to the east, she rocks to the west, but she's the gal that I love best. Tootie pootie, on the road. Tootie pootie, on the road. Tootie pootie, on the road.",
+        "avg_logprob": -0.13355654655467897
+      },
+      {
+        "id": 3,
+        "start": 41.982,
+        "end": 66.4,
+        "text": " Tutti Frutti, oh Rudy. Tutti Frutti, oh Rudy. My wife, Luma, got a gal named Daisy. She almost drives me crazy. Got a gal named Daisy. She almost drives me crazy. She knows how to love me. Yes, indeed. Boy, you don't know what she'll do to me. Tutti Frutti.",
+        "avg_logprob": -0.21143196919296361
+      },
+      {
+        "id": 4,
+        "start": 66.4,
+        "end": 81.47,
+        "text": " Oh Rudy Oh Rudy Oh Rudy Oh Rudy Oh Rudy Oh Rudy Oh Rudy",
+        "avg_logprob": -0.6458333174387614
+      },
+      {
+        "id": 5,
+        "start": 94.615,
+        "end": 119.692,
+        "text": " Got a gal named Daisy She almost got me crazy Got a gal named Daisy",
+        "avg_logprob": -0.31616211868822575
+      },
+      {
+        "id": 6,
+        "start": 119.692,
+        "end": 143.637,
+        "text": " She almost drives me crazy. She knows how to love me, yes indeed. Boy, you don't know what she'll do to me. Oh, Rudy. Oh, Rudy. Oh, Rudy. Oh, Rudy. Oh, Rudy. Oh, Rudy. Oh, Rudy. Oh, Rudy. Oh, Rudy. Oh, Rudy. Oh, Rudy. Oh, Rudy.",
+        "avg_logprob": -0.15424679487179488
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "F13JNjpNW6c",
+    "uploader": "Darwinner",
+    "audio_file": "corpus/01_music_videos_audio/audio/F13JNjpNW6c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4615090,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.759647,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:02:48Z"
+  },
+  "status": "success",
+  "error": null
+}

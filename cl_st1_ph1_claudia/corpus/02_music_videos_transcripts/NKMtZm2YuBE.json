@@ -1,0 +1,112 @@
+{
+  "corpus_id": "NKMtZm2YuBE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/NKMtZm2YuBE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/NKMtZm2YuBE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/NKMtZm2YuBE.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Boom! the show. I laced the track, you locked the flow. So far from hanging on the Glockado. Notorious, they got to know that life ain't always what it seem to be. Words can't express what you mean to me. Even though you're gone, we still a team. Through your family, I'll fulfill your dreams. In the future, can't wait to see. If you open up the gates for me, reminisce some time. The night they took my friend. Try to black it out, but it plays again. When it's real, feeling's hard to conceal. Can't imagine all the pain I feel. Give anything to hear half your breath. I know you're still living your life after death. Every step I take, every move I make, every single day, every time I pray. What a life to take. What a bond to break. I'll be missing you. It's kind of hard with you not around. Know you in heaven smiling down. Watching us while we pray for you. Memories give me the strength I need to proceed. Strength I need to believe. My thoughts big, I just can't define. Wish I could turn back the hands of time. Us and the six shop for new clothes and kicks. You and me taking flicks, making hits. Stages they receive you on. Still can't believe you gone. Give anything to hear half your breath. I know you still living your life after death. day. Every time I pray, I'll be missing you. Thinking of the day when you went away. What a life to take, what a bond to I'll see your face. Every night I break. Every step I take. Every move I make. Every single day. Every night I break. Every day that passes is the day that I get closer to seeing you again. We miss you, babe. And we won't stop, because we can't stop. Every step I take Every move I make Every single day, every time I play I'll be missing you Thinking of the day When you went away I'd like to take, but I'm trying to break. I'll be missing.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 12.063,
+        "end": 12.603,
+        "text": " Boom!",
+        "avg_logprob": -1.4713541666666667
+      },
+      {
+        "id": 2,
+        "start": 33.798,
+        "end": 52.023,
+        "text": " the show. I laced the track, you locked the flow. So far from hanging on the Glockado. Notorious, they got to know that life ain't always what it seem to be. Words can't express what you mean to me. Even though you're gone, we still a team. Through your family, I'll fulfill your dreams. In the future, can't wait to see.",
+        "avg_logprob": -0.15299478936053457
+      },
+      {
+        "id": 3,
+        "start": 52.023,
+        "end": 78.837,
+        "text": " If you open up the gates for me, reminisce some time. The night they took my friend. Try to black it out, but it plays again. When it's real, feeling's hard to conceal. Can't imagine all the pain I feel. Give anything to hear half your breath. I know you're still living your life after death. Every step I take, every move I make, every single day, every time I pray.",
+        "avg_logprob": -0.10267857175606948
+      },
+      {
+        "id": 4,
+        "start": 90.852,
+        "end": 108.74,
+        "text": " What a life to take. What a bond to break. I'll be missing you. It's kind of hard with you not around. Know you in heaven smiling down. Watching us while we pray for you.",
+        "avg_logprob": -0.17675781487063927
+      },
+      {
+        "id": 5,
+        "start": 115.102,
+        "end": 137.478,
+        "text": " Memories give me the strength I need to proceed. Strength I need to believe. My thoughts big, I just can't define. Wish I could turn back the hands of time. Us and the six shop for new clothes and kicks. You and me taking flicks, making hits. Stages they receive you on. Still can't believe you gone. Give anything to hear half your breath. I know you still living your life after death.",
+        "avg_logprob": -0.14019573455328468
+      },
+      {
+        "id": 6,
+        "start": 145.274,
+        "end": 165.406,
+        "text": " day. Every time I pray, I'll be missing you. Thinking of the day when you went away. What a life to take, what a bond to",
+        "avg_logprob": -0.20667613636363635
+      },
+      {
+        "id": 7,
+        "start": 184.07,
+        "end": 211.559,
+        "text": " I'll see your face. Every night I break. Every step I take. Every move I make. Every single day. Every night I break. Every day that passes is the day that I get closer to seeing you again. We miss you, babe. And we won't stop, because we can't stop.",
+        "avg_logprob": -0.15036057692307692
+      },
+      {
+        "id": 8,
+        "start": 223.034,
+        "end": 248.532,
+        "text": " Every step I take Every move I make Every single day, every time I play I'll be missing you Thinking of the day When you went away",
+        "avg_logprob": -0.12239582786957423
+      },
+      {
+        "id": 9,
+        "start": 249.562,
+        "end": 255.13,
+        "text": " I'd like to take, but I'm trying to break. I'll be missing.",
+        "avg_logprob": -0.43174341164137187
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "NKMtZm2YuBE",
+    "uploader": "Bad Boy Entertainment",
+    "audio_file": "corpus/01_music_videos_audio/audio/NKMtZm2YuBE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8696602,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 8.00581,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:05:15Z"
+  },
+  "status": "success",
+  "error": null
+}

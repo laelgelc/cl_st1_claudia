@@ -1,0 +1,112 @@
+{
+  "corpus_id": "VScSEXRwUqQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/VScSEXRwUqQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/VScSEXRwUqQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/VScSEXRwUqQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": ". . . Thank you. This is the end, beautiful friend This is the end, my only friend The end of our elaborate plans The end Of everything that stands the end No safety or surprise the end I'll never look into your eyes again Can you picture what will be So limitless and free Desperately in need Of some stranger's hand In a desperate land of romance wilderness of pain and all the children are insane all the children are insane Thank you. Come on baby, come on Come on baby, come on Kill Kill Kill Kill Kill Kill Kill Kill Kill",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 25.141,
+        "text": " . . .",
+        "avg_logprob": -1.4482422173023224
+      },
+      {
+        "id": 2,
+        "start": 32.532,
+        "end": 50.875,
+        "text": " Thank you.",
+        "avg_logprob": -0.5776367336511612
+      },
+      {
+        "id": 3,
+        "start": 70.147,
+        "end": 92.287,
+        "text": " This is the end, beautiful friend This is the end, my only friend The end of our elaborate plans The end",
+        "avg_logprob": -0.0996907524143656
+      },
+      {
+        "id": 4,
+        "start": 93.198,
+        "end": 121.683,
+        "text": " Of everything that stands the end No safety or surprise the end I'll never look into your eyes again Can you picture what will be",
+        "avg_logprob": -0.09758391479651134
+      },
+      {
+        "id": 5,
+        "start": 122.645,
+        "end": 140.836,
+        "text": " So limitless and free Desperately in need Of some stranger's hand In a desperate land",
+        "avg_logprob": -0.09780273288488388
+      },
+      {
+        "id": 6,
+        "start": 190.567,
+        "end": 219.659,
+        "text": " of romance wilderness of pain and all the children are insane all the children are insane",
+        "avg_logprob": -0.15234375
+      },
+      {
+        "id": 7,
+        "start": 229.868,
+        "end": 232.062,
+        "text": " Thank you.",
+        "avg_logprob": -0.7363281100988388
+      },
+      {
+        "id": 8,
+        "start": 298.364,
+        "end": 322.276,
+        "text": " Come on baby, come on Come on baby, come on",
+        "avg_logprob": -0.41616585621467006
+      },
+      {
+        "id": 9,
+        "start": 343.454,
+        "end": 356.684,
+        "text": " Kill Kill Kill Kill Kill Kill Kill Kill Kill",
+        "avg_logprob": -0.34492188692092896
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "VScSEXRwUqQ",
+    "uploader": "215Days",
+    "audio_file": "corpus/01_music_videos_audio/audio/VScSEXRwUqQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 12443744,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 7.68083,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:57:10Z"
+  },
+  "status": "success",
+  "error": null
+}

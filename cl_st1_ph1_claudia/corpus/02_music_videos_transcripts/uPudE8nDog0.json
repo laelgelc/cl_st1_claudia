@@ -1,0 +1,70 @@
+{
+  "corpus_id": "uPudE8nDog0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uPudE8nDog0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/uPudE8nDog0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/uPudE8nDog0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "The world at your feet Success has been so easy Don't you want me, oh Don't you want me, baby Don't you want me, oh I was working as a waitress in a cocktail We've had have been such good times I still love you But now I think it's time I live my life on my own I guess it's just what I must do Don't Don't you want me You know I can't believe it When I hear that you won't see me Don't",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 38.843,
+        "end": 42.185,
+        "text": " The world at your feet Success has been so easy",
+        "avg_logprob": -0.3362926027991555
+      },
+      {
+        "id": 2,
+        "start": 71.902,
+        "end": 96.623,
+        "text": " Don't you want me, oh Don't you want me, baby Don't you want me, oh I was working as a waitress in a cocktail",
+        "avg_logprob": -0.15820311848074198
+      },
+      {
+        "id": 3,
+        "start": 110.292,
+        "end": 135.706,
+        "text": " We've had have been such good times I still love you But now I think it's time I live my life on my own I guess it's just what I must do Don't Don't you want me You know I can't believe it When I hear that you won't see me Don't",
+        "avg_logprob": -0.11725153590812058
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "uPudE8nDog0",
+    "uploader": "The Human League",
+    "audio_file": "corpus/01_music_videos_audio/audio/uPudE8nDog0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6599004,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.728173,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:20:42Z"
+  },
+  "status": "success",
+  "error": null
+}

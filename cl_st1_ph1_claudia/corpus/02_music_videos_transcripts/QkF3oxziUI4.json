@@ -1,0 +1,119 @@
+{
+  "corpus_id": "QkF3oxziUI4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/QkF3oxziUI4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/QkF3oxziUI4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/QkF3oxziUI4.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "There's a lady who's sure All it glitters is gold, and she's buying the stairway to heaven. When she gets there, she knows if the stores are all closed. With a word, she can get what she can. And she's buying a stairway to here There's a sign on the wall But she wants to be sure Cause you know sometimes words have to mean There's a songbird who sings Sometimes all of our thoughts are missing There's a feeling I get when I look to the west and my spirit is crying for leaving. In my thoughts I have seen rings of smoke through the trees and the voices of those who stand up. It makes me wonder It really makes me wonder And it's whispered that soon If we all call the tune Then the piper will lead us to reason And a new day will dawn for those who stand alone. And the forest will echo with laughter. guitar solo If there's a bustle in your hedgehog Don't be alarmed now It's just a sprinkly for the making queen Yes, there are two paths you can go by But in the long run There's still time to change Dear lady, can you hear the wind blow? And did you know your stairway lies on the west? Flying a stairway to heaven.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 10,
+    "segments": [
+      {
+        "id": 1,
+        "start": 26.66,
+        "end": 55.82,
+        "text": " There's a lady who's sure",
+        "avg_logprob": -0.2502441443502903
+      },
+      {
+        "id": 2,
+        "start": 56.815,
+        "end": 77.335,
+        "text": " All it glitters is gold, and she's buying the stairway to heaven. When she gets there, she knows if the stores are all closed. With a word, she can get what she can.",
+        "avg_logprob": -0.08616460998390996
+      },
+      {
+        "id": 3,
+        "start": 86.077,
+        "end": 104.335,
+        "text": " And she's buying a stairway to here There's a sign on the wall But she wants to be sure Cause you know sometimes words have to mean",
+        "avg_logprob": -0.08946572340303852
+      },
+      {
+        "id": 4,
+        "start": 110.242,
+        "end": 117.127,
+        "text": " There's a songbird who sings Sometimes all of our thoughts are missing",
+        "avg_logprob": -0.16002603967984516
+      },
+      {
+        "id": 5,
+        "start": 158.555,
+        "end": 180.728,
+        "text": " There's a feeling I get when I look to the west and my spirit is crying for leaving. In my thoughts I have seen rings of smoke through the trees and the voices of those who stand up.",
+        "avg_logprob": -0.0844028994795822
+      },
+      {
+        "id": 6,
+        "start": 190.128,
+        "end": 220.098,
+        "text": " It makes me wonder It really makes me wonder And it's whispered that soon If we all call the tune Then the piper will lead us to reason",
+        "avg_logprob": -0.1549072195775807
+      },
+      {
+        "id": 7,
+        "start": 221.127,
+        "end": 245.562,
+        "text": " And a new day will dawn for those who stand alone. And the forest will echo with laughter. guitar solo",
+        "avg_logprob": -0.22027852742568307
+      },
+      {
+        "id": 8,
+        "start": 250.793,
+        "end": 278.992,
+        "text": " If there's a bustle in your hedgehog Don't be alarmed now It's just a sprinkly for the making queen Yes, there are two paths you can go by But in the long run There's still time to change",
+        "avg_logprob": -0.1265462220956882
+      },
+      {
+        "id": 9,
+        "start": 307.628,
+        "end": 326.933,
+        "text": " Dear lady, can you hear the wind blow? And did you know your stairway lies on the west?",
+        "avg_logprob": -0.2010869500429734
+      },
+      {
+        "id": 10,
+        "start": 469.308,
+        "end": 476.547,
+        "text": " Flying a stairway to heaven.",
+        "avg_logprob": -0.20129394344985485
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "QkF3oxziUI4",
+    "uploader": "Led Zeppelin",
+    "audio_file": "corpus/01_music_videos_audio/audio/QkF3oxziUI4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 15452308,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.707637,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:03:20Z"
+  },
+  "status": "success",
+  "error": null
+}

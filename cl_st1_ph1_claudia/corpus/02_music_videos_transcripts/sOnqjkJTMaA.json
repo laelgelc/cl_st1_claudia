@@ -1,0 +1,203 @@
+{
+  "corpus_id": "sOnqjkJTMaA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/sOnqjkJTMaA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/sOnqjkJTMaA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/sOnqjkJTMaA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Honestly, we're out of gas. So, what are we gonna do now? I'm sorry I didn't believe you. Can I ask you something? What? You know I like you, don't you? Yes. And I hope you like me the way I like you. Yes. I was wondering if you would be my girl. Oh, Michael. It's beautiful. Now it's official. I have something I want to tell you. Yes, Michael? I'm not like other guys. Of course not. That's why I love you. No, I mean I'm different. What are you talking about? Are you all right? Get away! Whoa! Oh, my God. Sheriff! He's over here! Look out! Can we get out of here? No, I'm enjoying this. Well, I can't watch. Excuse me. Scrawled in blood. What's it say? See you next Wednesday. It's only a movie. It's not funny. You were scared, weren't you? I wasn't that scared. Yeah, you were scared. It's close to midnight. Something evil's lurking in the dark. At the moonlight You see a sight that almost stops your heart You try to scream But terror takes the sound before you make it You start to freeze And so it looks you right between the eyes You're paralyzed You hear the door slam and realize there's nowhere left to run You feel the cold and wonder if you ever see the sun You close your eyes and hope that this is just imagination Creeping out behind You're out of time They're out to get you As demons come slaying on every side They will possess you unless you change that number on your dial. Now is the time for you and I to cuddle close together. Yeah. All through the night, I'll save you from the terror on the screen. I'll make you see. Darkness falls across the land The midnight hour is close at hand Creatures crawl in search of blood And whosoever shall be found without the soul for getting down must stand and face the hounds of hell and rot inside a corpse's shell. The foulest stenches in the air, the funk of 40,000 years, and grisly ghouls from every tomb are closing in to seal your doom. And though you fight to stay alive, your body starts to shiver. The thriller. And no one's gonna save you from the beat of the strike You know it's dealer night, dealer night You're fighting for your life inside a killer, thriller Dealer, dealer night So let me hold you tight and share up, get up, get up, get up, get up, get up, get up, get up, get up, get up, get up Ah! Ah! What's the problem? Come on, I'll take you home And no one's gonna save you From the beat of a strike You know we're standing We love our lives You're fighting for your life Inside a killer thriller Feeling alive So let me hold you tight and share up, get up, get up So let me hold you tight and share up, get up, get up So let me hold you tight and share up, get up, get up",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 22,
+    "segments": [
+      {
+        "id": 1,
+        "start": 50.639,
+        "end": 79.698,
+        "text": " Honestly, we're out of gas. So, what are we gonna do now? I'm sorry I didn't believe you. Can I ask you something? What? You know I like you, don't you? Yes.",
+        "avg_logprob": -0.03341090267008923
+      },
+      {
+        "id": 2,
+        "start": 81.537,
+        "end": 109.988,
+        "text": " And I hope you like me the way I like you. Yes. I was wondering if you would be my girl. Oh, Michael. It's beautiful.",
+        "avg_logprob": -0.06841856060606061
+      },
+      {
+        "id": 3,
+        "start": 110.562,
+        "end": 139.874,
+        "text": " Now it's official. I have something I want to tell you. Yes, Michael? I'm not like other guys. Of course not. That's why I love you. No, I mean I'm different. What are you talking about?",
+        "avg_logprob": -0.07245710813531689
+      },
+      {
+        "id": 4,
+        "start": 140.802,
+        "end": 167.414,
+        "text": " Are you all right? Get away! Whoa!",
+        "avg_logprob": -0.376065346327695
+      },
+      {
+        "id": 5,
+        "start": 169.523,
+        "end": 190.263,
+        "text": " Oh, my God.",
+        "avg_logprob": -0.7382812599341074
+      },
+      {
+        "id": 6,
+        "start": 205.788,
+        "end": 232.248,
+        "text": " Sheriff! He's over here!",
+        "avg_logprob": -0.15185546316206455
+      },
+      {
+        "id": 7,
+        "start": 233.986,
+        "end": 249.983,
+        "text": " Look out! Can we get out of here? No, I'm enjoying this. Well, I can't watch. Excuse me. Scrawled in blood. What's it say? See you next Wednesday.",
+        "avg_logprob": -0.04767400475049561
+      },
+      {
+        "id": 8,
+        "start": 265.407,
+        "end": 288.965,
+        "text": " It's only a movie. It's not funny. You were scared, weren't you? I wasn't that scared. Yeah, you were scared. It's close to midnight. Something evil's lurking in the dark.",
+        "avg_logprob": -0.08942819022117778
+      },
+      {
+        "id": 9,
+        "start": 291.968,
+        "end": 313.67,
+        "text": " At the moonlight You see a sight that almost stops your heart You try to scream But terror takes the sound before you make it You start to freeze And so it looks you right between the eyes You're paralyzed",
+        "avg_logprob": -0.10732886851543472
+      },
+      {
+        "id": 10,
+        "start": 316.015,
+        "end": 336.502,
+        "text": " You hear the door slam and realize there's nowhere left to run You feel the cold and wonder if you ever see the sun You close your eyes and hope that this is just imagination",
+        "avg_logprob": -0.10245988417316128
+      },
+      {
+        "id": 11,
+        "start": 342.222,
+        "end": 355.081,
+        "text": " Creeping out behind You're out of time They're out to get you As demons come slaying on every side",
+        "avg_logprob": -0.2693684833745162
+      },
+      {
+        "id": 12,
+        "start": 356.735,
+        "end": 378.554,
+        "text": " They will possess you unless you change that number on your dial. Now is the time for you and I to cuddle close together. Yeah. All through the night, I'll save you from the terror on the screen. I'll make you see.",
+        "avg_logprob": -0.10637019144800994
+      },
+      {
+        "id": 13,
+        "start": 390.721,
+        "end": 402.297,
+        "text": " Darkness falls across the land The midnight hour is close at hand Creatures crawl in search of blood",
+        "avg_logprob": -0.057080079801380634
+      },
+      {
+        "id": 14,
+        "start": 406.685,
+        "end": 421.467,
+        "text": " And whosoever shall be found without the soul for getting down must stand and face the hounds of hell and rot inside a corpse's shell.",
+        "avg_logprob": -0.11340725806451613
+      },
+      {
+        "id": 15,
+        "start": 451.167,
+        "end": 471.907,
+        "text": " The foulest stenches in the air, the funk of 40,000 years, and grisly ghouls from every tomb are closing in to seal your doom. And though you fight to stay alive, your body starts to shiver.",
+        "avg_logprob": -0.05411305190885768
+      },
+      {
+        "id": 16,
+        "start": 480.04,
+        "end": 498.215,
+        "text": " The thriller.",
+        "avg_logprob": -1.0761719048023224
+      },
+      {
+        "id": 17,
+        "start": 584.311,
+        "end": 601.473,
+        "text": " And no one's gonna save you from the beat of the strike You know it's dealer night, dealer night You're fighting for your life inside a killer, thriller Dealer, dealer night",
+        "avg_logprob": -0.3050881532522348
+      },
+      {
+        "id": 18,
+        "start": 609.117,
+        "end": 634.784,
+        "text": " So let me hold you tight and share up, get up, get up, get up, get up, get up, get up, get up, get up, get up, get up",
+        "avg_logprob": -0.3296874985098839
+      },
+      {
+        "id": 19,
+        "start": 658.831,
+        "end": 685.291,
+        "text": " Ah! Ah!",
+        "avg_logprob": -0.9828125
+      },
+      {
+        "id": 20,
+        "start": 696.732,
+        "end": 710.857,
+        "text": " What's the problem? Come on, I'll take you home",
+        "avg_logprob": -0.2760881781578064
+      },
+      {
+        "id": 21,
+        "start": 745.99,
+        "end": 760.537,
+        "text": " And no one's gonna save you From the beat of a strike You know we're standing We love our lives You're fighting for your life Inside a killer thriller Feeling alive",
+        "avg_logprob": -0.49419641494750977
+      },
+      {
+        "id": 22,
+        "start": 770.054,
+        "end": 795.502,
+        "text": " So let me hold you tight and share up, get up, get up So let me hold you tight and share up, get up, get up So let me hold you tight and share up, get up, get up",
+        "avg_logprob": -0.21110734213953433
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "sOnqjkJTMaA",
+    "uploader": "Michael Jackson",
+    "audio_file": "corpus/01_music_videos_audio/audio/sOnqjkJTMaA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 26302156,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:52:51Z"
+  },
+  "status": "success",
+  "error": null
+}

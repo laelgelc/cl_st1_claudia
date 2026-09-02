@@ -1,0 +1,84 @@
+{
+  "corpus_id": "e-fA-gBCkj0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/e-fA-gBCkj0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/e-fA-gBCkj0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/e-fA-gBCkj0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "One, two, one, two, three. Something spiritual I'm born again every time you spend the night Cause your sex takes me to paradise Yeah, your sex takes me to paradise And it shows Yeah, yeah, yeah You bring me to my knees, you make me testify You can make a sinner change his ways Open up your gates, cause I can't wait to see the light And right there is where I wanna stay Yeah, yeah, yeah Cause you make me feel like I've been locked out of heaven For too long, for too long",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 2.579,
+        "end": 5.127,
+        "text": " One, two, one, two, three.",
+        "avg_logprob": -0.2173295481638475
+      },
+      {
+        "id": 2,
+        "start": 33.477,
+        "end": 56.765,
+        "text": " Something spiritual I'm born again every time you spend the night Cause your sex takes me to paradise Yeah, your sex takes me to paradise And it shows Yeah, yeah, yeah",
+        "avg_logprob": -0.10069444568620788
+      },
+      {
+        "id": 3,
+        "start": 97.467,
+        "end": 122.797,
+        "text": " You bring me to my knees, you make me testify You can make a sinner change his ways Open up your gates, cause I can't wait to see the light And right there is where I wanna stay",
+        "avg_logprob": -0.08905319993694623
+      },
+      {
+        "id": 4,
+        "start": 130.036,
+        "end": 136.178,
+        "text": " Yeah, yeah, yeah",
+        "avg_logprob": -0.3160807241996129
+      },
+      {
+        "id": 5,
+        "start": 187.343,
+        "end": 198.97,
+        "text": " Cause you make me feel like I've been locked out of heaven For too long, for too long",
+        "avg_logprob": -0.08882068452380952
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "e-fA-gBCkj0",
+    "uploader": "Bruno Mars",
+    "audio_file": "corpus/01_music_videos_audio/audio/e-fA-gBCkj0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7495108,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.960321,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:07:01Z"
+  },
+  "status": "success",
+  "error": null
+}

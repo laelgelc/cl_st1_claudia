@@ -1,0 +1,91 @@
+{
+  "corpus_id": "cgJckGsR-T0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/cgJckGsR-T0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/cgJckGsR-T0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/cgJckGsR-T0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "It's just a silly phase I'm going through. And just because I call you up, don't get me wrong, don't think you've got it made. I'd like to see you, but then again That doesn't mean you mean that much to me So if I call you, don't make a fuss Don't tell your friends about the two of us Be quiet, big boys don't cry Big boys don't cry Keep your picture upon the wall It hides a nasty stain that's lying there So don't you ask me to give it back I know you know it doesn't mean that much to me So don't forget it. It's just a silly face I'm going through. Just because I call you up. Don't get me wrong. Don't think you got it me. Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 41.206,
+        "end": 59.684,
+        "text": " It's just a silly phase I'm going through. And just because I call you up, don't get me wrong, don't think you've got it made.",
+        "avg_logprob": -0.15212053060531616
+      },
+      {
+        "id": 2,
+        "start": 77.048,
+        "end": 102.766,
+        "text": " I'd like to see you, but then again That doesn't mean you mean that much to me So if I call you, don't make a fuss Don't tell your friends about the two of us",
+        "avg_logprob": -0.06752232249294009
+      },
+      {
+        "id": 3,
+        "start": 124.872,
+        "end": 151.67,
+        "text": " Be quiet, big boys don't cry Big boys don't cry",
+        "avg_logprob": -0.303850457072258
+      },
+      {
+        "id": 4,
+        "start": 163.398,
+        "end": 189.267,
+        "text": " Keep your picture upon the wall It hides a nasty stain that's lying there So don't you ask me to give it back I know you know it doesn't mean that much to me",
+        "avg_logprob": -0.10228207079987776
+      },
+      {
+        "id": 5,
+        "start": 234.914,
+        "end": 257.088,
+        "text": " So don't forget it. It's just a silly face I'm going through. Just because I call you up. Don't get me wrong. Don't think you got it me.",
+        "avg_logprob": -0.15294471612343422
+      },
+      {
+        "id": 6,
+        "start": 280.139,
+        "end": 281.523,
+        "text": " Thank you.",
+        "avg_logprob": -0.59912109375
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "cgJckGsR-T0",
+    "uploader": "moondoggy",
+    "audio_file": "corpus/01_music_videos_audio/audio/cgJckGsR-T0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11642006,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 7.435761,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:12:53Z"
+  },
+  "status": "success",
+  "error": null
+}

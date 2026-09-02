@@ -1,0 +1,84 @@
+{
+  "corpus_id": "TfY8hR5frEQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/TfY8hR5frEQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/TfY8hR5frEQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/TfY8hR5frEQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "She ain't got the money, her clothes are kind of funny, her hair is kind of wild and free. Oh boy, love grows where my rosary goes, and nobody knows. Bye. Bye. I'm a lucky fella and I just gotta tell her that I love her endlessly. Because love grows where my rosemary grows. And I just gotta say She's really got a magic spell And it's working so well That I can't get away I'm a lucky fella And I just gotta tell her That I love her endlessly Because love grows Where my roots grow Nobody knows like me Oh, if you let us, we'll never forget us Nobody knows like me",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.588,
+        "end": 27.925,
+        "text": " She ain't got the money, her clothes are kind of funny, her hair is kind of wild and free. Oh boy, love grows where my rosary goes, and nobody knows.",
+        "avg_logprob": -0.12720351952772874
+      },
+      {
+        "id": 2,
+        "start": 30.828,
+        "end": 56.528,
+        "text": " Bye. Bye.",
+        "avg_logprob": -0.78359375
+      },
+      {
+        "id": 3,
+        "start": 59.937,
+        "end": 80.963,
+        "text": " I'm a lucky fella and I just gotta tell her that I love her endlessly. Because love grows where my rosemary grows.",
+        "avg_logprob": -0.18518518849655433
+      },
+      {
+        "id": 4,
+        "start": 102.074,
+        "end": 128.264,
+        "text": " And I just gotta say She's really got a magic spell And it's working so well That I can't get away I'm a lucky fella And I just gotta tell her That I love her endlessly Because love grows Where my roots grow",
+        "avg_logprob": -0.14339192366848388
+      },
+      {
+        "id": 5,
+        "start": 147.299,
+        "end": 168.528,
+        "text": " Nobody knows like me Oh, if you let us, we'll never forget us Nobody knows like me",
+        "avg_logprob": -0.37146576813289095
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "TfY8hR5frEQ",
+    "uploader": "DemonMusicGroup",
+    "audio_file": "corpus/01_music_videos_audio/audio/TfY8hR5frEQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5392310,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.875127,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:09:55Z"
+  },
+  "status": "success",
+  "error": null
+}

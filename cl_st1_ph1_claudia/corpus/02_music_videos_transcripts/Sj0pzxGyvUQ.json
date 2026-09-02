@@ -1,0 +1,70 @@
+{
+  "corpus_id": "Sj0pzxGyvUQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Sj0pzxGyvUQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Sj0pzxGyvUQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Sj0pzxGyvUQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "are my candy girl and you got me wanting you i just can't believe the loveliness of loving you i just can't believe When I kissed your girl I knew how sweet a kiss could be I know how sweet a kiss can be Like the summer sunshine pour your sweetness over me Pour your sweetness over me Bye. Bye.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 31.233,
+        "end": 45.104,
+        "text": " are my candy girl and you got me wanting you i just can't believe the loveliness of loving you i just can't believe",
+        "avg_logprob": -0.09277343563735485
+      },
+      {
+        "id": 2,
+        "start": 87.038,
+        "end": 100.201,
+        "text": " When I kissed your girl I knew how sweet a kiss could be I know how sweet a kiss can be Like the summer sunshine pour your sweetness over me Pour your sweetness over me",
+        "avg_logprob": -0.14811197916666666
+      },
+      {
+        "id": 3,
+        "start": 162.858,
+        "end": 166.823,
+        "text": " Bye. Bye.",
+        "avg_logprob": -0.616796875
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Sj0pzxGyvUQ",
+    "uploader": "PS César",
+    "audio_file": "corpus/01_music_videos_audio/audio/Sj0pzxGyvUQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5414600,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.394134,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:17:59Z"
+  },
+  "status": "success",
+  "error": null
+}

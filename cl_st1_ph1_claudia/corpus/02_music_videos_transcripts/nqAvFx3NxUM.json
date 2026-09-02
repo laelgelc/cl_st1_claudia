@@ -1,0 +1,70 @@
+{
+  "corpus_id": "nqAvFx3NxUM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nqAvFx3NxUM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/nqAvFx3NxUM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/nqAvFx3NxUM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "well my friends the time has come raise the roof and have some fun throw away the work to be done let the music play on everybody sing everybody dance lose yourself in wild romance we're going to Come on and sing. Everyone you meet, they're jamming in the street all night long. Yeah, I said everyone you meet, they're jamming in the street all night long.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 19.977,
+        "end": 46.218,
+        "text": " well my friends the time has come raise the roof and have some fun throw away the work to be done let the music play on everybody sing everybody dance lose yourself in wild romance we're going to",
+        "avg_logprob": -0.11308594029396772
+      },
+      {
+        "id": 2,
+        "start": 60.41,
+        "end": 62.215,
+        "text": " Come on and sing.",
+        "avg_logprob": -0.4514973858992259
+      },
+      {
+        "id": 3,
+        "start": 163.583,
+        "end": 177.168,
+        "text": " Everyone you meet, they're jamming in the street all night long. Yeah, I said everyone you meet, they're jamming in the street all night long.",
+        "avg_logprob": -0.067466516154153
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "nqAvFx3NxUM",
+    "uploader": "lionelrichie",
+    "audio_file": "corpus/01_music_videos_audio/audio/nqAvFx3NxUM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7315292,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.839854,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:14:14Z"
+  },
+  "status": "success",
+  "error": null
+}

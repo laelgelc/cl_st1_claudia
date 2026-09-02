@@ -1,0 +1,84 @@
+{
+  "corpus_id": "1Osyw6Svv8U",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/1Osyw6Svv8U.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/1Osyw6Svv8U.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/1Osyw6Svv8U.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Love is a burning thing And it makes a fiery ring Bound by wild desire I fell into a ring of fire I fell into a burning ring of fire. I went down, down, down, and the flames went higher. And it burns, burns, burns, the ring of fire, the ring of fire. I fell into a burning ring of fire I went down, down, down and the flames went higher And it burns, burns, burns The ring of fire, the ring of fire The taste of love is sweet When hearts like ours meet I fell for you like a child Oh, but the fire went wild I fell into a burning ring of fire I went down, down, down And the flames went higher And it burns, burns, burns The ring of fire The ring of fire I fell into a burning ring of fire. I went down, down, down, and the flames went higher. And it burns, burns, burns the ring of fire, the ring of fire. And it burns, burns, burns the ring of fire, the ring of fire, the ring of fire, the ring of fire.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 9.278,
+        "end": 30.98,
+        "text": " Love is a burning thing And it makes a fiery ring Bound by wild desire I fell into a ring of fire",
+        "avg_logprob": -0.06469726314147313
+      },
+      {
+        "id": 2,
+        "start": 32.482,
+        "end": 48.378,
+        "text": " I fell into a burning ring of fire. I went down, down, down, and the flames went higher. And it burns, burns, burns, the ring of fire, the ring of fire.",
+        "avg_logprob": -0.053385416666666664
+      },
+      {
+        "id": 3,
+        "start": 65.827,
+        "end": 92.438,
+        "text": " I fell into a burning ring of fire I went down, down, down and the flames went higher And it burns, burns, burns The ring of fire, the ring of fire The taste of love is sweet When hearts like ours meet",
+        "avg_logprob": -0.06807454504693548
+      },
+      {
+        "id": 4,
+        "start": 95.51,
+        "end": 122.746,
+        "text": " I fell for you like a child Oh, but the fire went wild I fell into a burning ring of fire I went down, down, down And the flames went higher And it burns, burns, burns The ring of fire The ring of fire",
+        "avg_logprob": -0.06765625059604645
+      },
+      {
+        "id": 5,
+        "start": 124.231,
+        "end": 152.159,
+        "text": " I fell into a burning ring of fire. I went down, down, down, and the flames went higher. And it burns, burns, burns the ring of fire, the ring of fire. And it burns, burns, burns the ring of fire, the ring of fire, the ring of fire, the ring of fire.",
+        "avg_logprob": -0.06525734987329035
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "1Osyw6Svv8U",
+    "uploader": "VDJ MikeyMike",
+    "audio_file": "corpus/01_music_videos_audio/audio/1Osyw6Svv8U.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4941284,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.532303,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:10:45Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,91 @@
+{
+  "corpus_id": "XWTvkcHlOPQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/XWTvkcHlOPQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/XWTvkcHlOPQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/XWTvkcHlOPQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "My sweet Lord Mmm, my Lord Mmm, my Lord I really wanna see You Really wanna be with You Really wanna see You, Lord But it takes so long, my Lord I really want to know you. I really want to go with you. I really want to show you love that it won't My sweet Lord Hallelujah My Lord Hallelujah My sweet Lord Hallelujah Really want to see You Really want to see You Take long. Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Hare Rama Krishna, Krishna.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 31.199,
+        "end": 56.242,
+        "text": " My sweet Lord Mmm, my Lord Mmm, my Lord I really wanna see You Really wanna be with You Really wanna see You, Lord But it takes so long, my Lord",
+        "avg_logprob": -0.16807725032170615
+      },
+      {
+        "id": 2,
+        "start": 59.971,
+        "end": 82.482,
+        "text": " I really want to know you. I really want to go with you. I really want to show you love that it won't",
+        "avg_logprob": -0.21976273037769176
+      },
+      {
+        "id": 3,
+        "start": 86.633,
+        "end": 105.601,
+        "text": " My sweet Lord Hallelujah My Lord Hallelujah My sweet Lord Hallelujah Really want to see You Really want to see You",
+        "avg_logprob": -0.25301845371723175
+      },
+      {
+        "id": 4,
+        "start": 141.528,
+        "end": 143.468,
+        "text": " Take long.",
+        "avg_logprob": -1.2851562201976776
+      },
+      {
+        "id": 5,
+        "start": 176.392,
+        "end": 198.059,
+        "text": " Hare Krishna Hare Krishna Krishna Krishna Hare Hare Hare Rama Hare Rama Hare Rama",
+        "avg_logprob": -0.12473958730697632
+      },
+      {
+        "id": 6,
+        "start": 270.014,
+        "end": 276.157,
+        "text": " Krishna, Krishna.",
+        "avg_logprob": -0.8390625
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "XWTvkcHlOPQ",
+    "uploader": "George Harrison",
+    "audio_file": "corpus/01_music_videos_audio/audio/XWTvkcHlOPQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8978956,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 23.505641,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:54:36Z"
+  },
+  "status": "success",
+  "error": null
+}

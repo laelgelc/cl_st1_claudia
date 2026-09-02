@@ -1,0 +1,91 @@
+{
+  "corpus_id": "NdYWuo9OFAw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/NdYWuo9OFAw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/NdYWuo9OFAw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/NdYWuo9OFAw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "And I'd give up forever to touch you Cause I know that you feel me somehow You're the closest to heaven that I'll ever be And I don't wanna go home right now And all I can taste is this moment And all I can breathe is your light Sooner or later it's over I just don't want to miss you tonight And I don't want the world to see me Cause I don't think that they'd understand When everything's made to be broken I just want you to know who I am And you can't fight the tears that ain't coming Or the moment of truth in your lies When everything feels like the movies Yeah, you bleed just to know you're alive And I don't want the world to see me Cause I don't think they'd understand When everything's made to be broken I just want you to know who I am And I don't want the world to see me Cause I don't think they'd understand When everything's made to be broken I just want you to know who I am Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 12.215,
+        "end": 38.978,
+        "text": " And I'd give up forever to touch you Cause I know that you feel me somehow You're the closest to heaven that I'll ever be And I don't wanna go home right now And all I can taste is this moment And all I can breathe is your light",
+        "avg_logprob": -0.06029369054293191
+      },
+      {
+        "id": 2,
+        "start": 40.598,
+        "end": 66.974,
+        "text": " Sooner or later it's over I just don't want to miss you tonight And I don't want the world to see me Cause I don't think that they'd understand When everything's made to be broken I just want you to know who I am",
+        "avg_logprob": -0.06678184766608936
+      },
+      {
+        "id": 3,
+        "start": 80.153,
+        "end": 89.182,
+        "text": " And you can't fight the tears that ain't coming Or the moment of truth in your lies",
+        "avg_logprob": -0.10253906063735485
+      },
+      {
+        "id": 4,
+        "start": 89.688,
+        "end": 116.063,
+        "text": " When everything feels like the movies Yeah, you bleed just to know you're alive And I don't want the world to see me Cause I don't think they'd understand When everything's made to be broken I just want you to know who I am",
+        "avg_logprob": -0.05461090773928399
+      },
+      {
+        "id": 5,
+        "start": 174.822,
+        "end": 192.541,
+        "text": " And I don't want the world to see me Cause I don't think they'd understand When everything's made to be broken I just want you to know who I am",
+        "avg_logprob": -0.08816964370863778
+      },
+      {
+        "id": 6,
+        "start": 205.788,
+        "end": 211.154,
+        "text": " Thank you.",
+        "avg_logprob": -0.4865722507238388
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "NdYWuo9OFAw",
+    "uploader": "Goo Goo Dolls",
+    "audio_file": "corpus/01_music_videos_audio/audio/NdYWuo9OFAw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6899192,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.758022,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:07:15Z"
+  },
+  "status": "success",
+  "error": null
+}

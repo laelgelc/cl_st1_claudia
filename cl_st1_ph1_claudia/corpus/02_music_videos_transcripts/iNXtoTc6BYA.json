@@ -1,0 +1,98 @@
+{
+  "corpus_id": "iNXtoTc6BYA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/iNXtoTc6BYA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/iNXtoTc6BYA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/iNXtoTc6BYA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Why do birds suddenly appear Every time you are near Just like me They long to be close to you Why do stars fall down from the sky Every time you walk by Just like me, they long to be close to you On the day that you were born the angels got together and decided to create a dream come true So they sprinkled moon dust in your hair and gold and starlight in your eyes of blue That is why All the girls in town follow you all around. Just like me, they long to be close to you. On the day that you were born, the angels got together and decided to create a dream come true. So they sprinkled moon dust in your hair, a golden starlight in your eyes of blue. That is why all the girls in town Follow you around Just like me They long to be close to you Just like me They long to be Close to you",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.162,
+        "end": 29.225,
+        "text": " Why do birds suddenly appear Every time you are near Just like me They long to be close to you",
+        "avg_logprob": -0.08045014880952381
+      },
+      {
+        "id": 2,
+        "start": 29.461,
+        "end": 50.707,
+        "text": " Why do stars fall down from the sky Every time you walk by Just like me, they long to be close to you",
+        "avg_logprob": -0.09046875
+      },
+      {
+        "id": 3,
+        "start": 54.537,
+        "end": 77.133,
+        "text": " On the day that you were born the angels got together and decided to create a dream come true So they sprinkled moon dust in your hair and gold and starlight in your eyes of blue That is why",
+        "avg_logprob": -0.11086309860859599
+      },
+      {
+        "id": 4,
+        "start": 77.791,
+        "end": 106.377,
+        "text": " All the girls in town follow you all around. Just like me, they long to be close to you.",
+        "avg_logprob": -0.21535326216531836
+      },
+      {
+        "id": 5,
+        "start": 108.47,
+        "end": 136.043,
+        "text": " On the day that you were born, the angels got together and decided to create a dream come true. So they sprinkled moon dust in your hair, a golden starlight in your eyes of blue.",
+        "avg_logprob": -0.08221726350131489
+      },
+      {
+        "id": 6,
+        "start": 139.25,
+        "end": 168.038,
+        "text": " That is why all the girls in town Follow you around Just like me They long to be close to you Just like me They long to be",
+        "avg_logprob": -0.1177936442967119
+      },
+      {
+        "id": 7,
+        "start": 169.372,
+        "end": 172.628,
+        "text": " Close to you",
+        "avg_logprob": -0.3300781175494194
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "iNXtoTc6BYA",
+    "uploader": "TopPop",
+    "audio_file": "corpus/01_music_videos_audio/audio/iNXtoTc6BYA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6919254,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.524791,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:17:36Z"
+  },
+  "status": "success",
+  "error": null
+}

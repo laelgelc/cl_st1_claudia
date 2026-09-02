@@ -1,0 +1,133 @@
+{
+  "corpus_id": "hLQl3WQQoQ0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hLQl3WQQoQ0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hLQl3WQQoQ0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hLQl3WQQoQ0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I heard that you're settled down That you found a girl and you're married now I heard that your dreams came true Guess she gave you things I didn't give to you Old friend, why are you so shy? Ain't like you to hold back or hide from the light I hate to turn up out of the blue uninvited But I couldn't stay away I couldn't fight it I had hoped you'd see my face And that you'd be reminded that for me It isn't over Never mind, I'll find someone like you I wish nothing but the best for you too Don't forget me, I beg I remember you say Sometimes it lasts and lasts But sometimes it hurts instead Sometimes it lasts and lasts But sometimes it hurts instead You know how the time flies Only yesterday was the time of our lives We were born and raised In a summer haze Bound by the surprise Of our glory days I hate to turn up out of the blue uninvited But I couldn't stay away, I couldn't fight it I'd hoped you'd see my face And that you'd be reminded that for me It isn't over Never mind, I'll find someone like you I wish nothing but the best for you too Don't forget me, I beg, I'll remember, you say Sometimes it lasts in love, but sometimes it hurts instead Nothing compares, no worries or cares Regrets and mistakes, they're memories made Who would have known how bittersweet this would taste? Never mind, I'll find someone like you I wish nothing but the best for you Don't forget me, I beg I'll remember how you said Sometimes it lasts in love But sometimes it hurts instead Sometimes it lasts in love, but sometimes it hurts instead. Sometimes it lasts in love, but sometimes it hurts in stay",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 12,
+    "segments": [
+      {
+        "id": 1,
+        "start": 14.223,
+        "end": 38.455,
+        "text": " I heard that you're settled down That you found a girl and you're married now I heard that your dreams came true Guess she gave you things",
+        "avg_logprob": -0.08958333457509676
+      },
+      {
+        "id": 2,
+        "start": 39.181,
+        "end": 56.647,
+        "text": " I didn't give to you Old friend, why are you so shy? Ain't like you to hold back or hide from the light",
+        "avg_logprob": -0.1312779039144516
+      },
+      {
+        "id": 3,
+        "start": 57.659,
+        "end": 72.087,
+        "text": " I hate to turn up out of the blue uninvited But I couldn't stay away I couldn't fight it I had hoped you'd see my face And that you'd be reminded that for me It isn't over",
+        "avg_logprob": -0.09539930290646023
+      },
+      {
+        "id": 4,
+        "start": 73.91,
+        "end": 90.633,
+        "text": " Never mind, I'll find someone like you I wish nothing but the best for you too Don't forget me, I beg",
+        "avg_logprob": -0.12590144402705705
+      },
+      {
+        "id": 5,
+        "start": 90.633,
+        "end": 108.284,
+        "text": " I remember you say Sometimes it lasts and lasts But sometimes it hurts instead Sometimes it lasts and lasts But sometimes it hurts instead",
+        "avg_logprob": -0.19203124523162843
+      },
+      {
+        "id": 6,
+        "start": 111.743,
+        "end": 126.982,
+        "text": " You know how the time flies Only yesterday was the time of our lives We were born and raised",
+        "avg_logprob": -0.11230469085276126
+      },
+      {
+        "id": 7,
+        "start": 126.982,
+        "end": 153.982,
+        "text": " In a summer haze Bound by the surprise Of our glory days I hate to turn up out of the blue uninvited But I couldn't stay away, I couldn't fight it I'd hoped you'd see my face And that you'd be reminded that for me It isn't over",
+        "avg_logprob": -0.05647786570092042
+      },
+      {
+        "id": 8,
+        "start": 157.357,
+        "end": 185.2,
+        "text": " Never mind, I'll find someone like you I wish nothing but the best for you too Don't forget me, I beg, I'll remember, you say Sometimes it lasts in love, but sometimes it hurts instead",
+        "avg_logprob": -0.1424893435429443
+      },
+      {
+        "id": 9,
+        "start": 185.47,
+        "end": 202.447,
+        "text": " Nothing compares, no worries or cares Regrets and mistakes, they're memories made Who would have known how bittersweet this would taste?",
+        "avg_logprob": -0.07502693759983983
+      },
+      {
+        "id": 10,
+        "start": 204.286,
+        "end": 232.383,
+        "text": " Never mind, I'll find someone like you I wish nothing but the best for you Don't forget me, I beg I'll remember how you said Sometimes it lasts in love But sometimes it hurts instead",
+        "avg_logprob": -0.11575838414634146
+      },
+      {
+        "id": 11,
+        "start": 232.383,
+        "end": 259.383,
+        "text": " Sometimes it lasts in love, but sometimes it hurts instead.",
+        "avg_logprob": -0.2829026534007146
+      },
+      {
+        "id": 12,
+        "start": 260.007,
+        "end": 268.529,
+        "text": " Sometimes it lasts in love, but sometimes it hurts in stay",
+        "avg_logprob": -0.3004807784007146
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "hLQl3WQQoQ0",
+    "uploader": "Adele",
+    "audio_file": "corpus/01_music_videos_audio/audio/hLQl3WQQoQ0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9119390,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.356683,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:13:39Z"
+  },
+  "status": "success",
+  "error": null
+}

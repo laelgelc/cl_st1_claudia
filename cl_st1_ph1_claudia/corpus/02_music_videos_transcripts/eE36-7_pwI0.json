@@ -1,0 +1,98 @@
+{
+  "corpus_id": "eE36-7_pwI0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/eE36-7_pwI0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/eE36-7_pwI0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/eE36-7_pwI0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "When I became of age, my mother called me back to her side. She said, son, you're growing up now. Pretty soon you'll take a bride. And then she said, just because you've become a young man now, there's still some things that you don't understand now. Before you ask some girl for a hand now, keep your freedom for as long as you can now. My mama told me, you better shop around. Oh yeah, you better shop around. There's some things that I want you to know now I'm just as sure as the wind's gonna blow now The women come and the women gonna go now Before you tell them that you love them so now My mama told me You better shop around Oh yeah, you better shop around Shop around I try to get yourself a bargain sign Don't be sold on the very first one A pretty girl's coming down the desert I try to find one who's gonna give you true lovin' Before you take the girl and say I do now I'll make sure she's in love with you now My mama told me you better shop around try to get yourself a bargain son don't be sold on the very first one a pretty girl's come a dime a dozen i try to find one who's gonna get you to love him before you take a girl and say i do now make sure she's in love with you now make sure that The love is true now I hate to see you feelin' sad and blue now My mama told me you better shop around Ah, don't let the first one get you Oh no, cause I don't wanna see a witcher Before you let her hold you tight. Yeah, yeah, make sure she's all right. Before you let her take your hand, my son. On the stone, my son. Be a man, my son. I know you can, my son.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.385,
+        "end": 10.747,
+        "text": " When I became of age, my mother called me back to her side. She said, son, you're growing up now. Pretty soon you'll take a bride.",
+        "avg_logprob": -0.10680803443704333
+      },
+      {
+        "id": 2,
+        "start": 11.742,
+        "end": 34.996,
+        "text": " And then she said, just because you've become a young man now, there's still some things that you don't understand now. Before you ask some girl for a hand now, keep your freedom for as long as you can now. My mama told me, you better shop around. Oh yeah, you better shop around.",
+        "avg_logprob": -0.05395872101410112
+      },
+      {
+        "id": 3,
+        "start": 38.438,
+        "end": 62.519,
+        "text": " There's some things that I want you to know now I'm just as sure as the wind's gonna blow now The women come and the women gonna go now Before you tell them that you love them so now My mama told me You better shop around Oh yeah, you better shop around Shop around",
+        "avg_logprob": -0.1355468747516473
+      },
+      {
+        "id": 4,
+        "start": 62.519,
+        "end": 90.143,
+        "text": " I try to get yourself a bargain sign Don't be sold on the very first one A pretty girl's coming down the desert I try to find one who's gonna give you true lovin' Before you take the girl and say I do now I'll make sure she's in love with you now My mama told me you better shop around",
+        "avg_logprob": -0.13688858350118002
+      },
+      {
+        "id": 5,
+        "start": 107.018,
+        "end": 130.205,
+        "text": " try to get yourself a bargain son don't be sold on the very first one a pretty girl's come a dime a dozen i try to find one who's gonna get you to love him before you take a girl and say i do now make sure she's in love with you now make sure that",
+        "avg_logprob": -0.11289702819996193
+      },
+      {
+        "id": 6,
+        "start": 130.205,
+        "end": 147.873,
+        "text": " The love is true now I hate to see you feelin' sad and blue now My mama told me you better shop around Ah, don't let the first one get you Oh no, cause I don't wanna see a witcher",
+        "avg_logprob": -0.3255208383003871
+      },
+      {
+        "id": 7,
+        "start": 148.7,
+        "end": 166.807,
+        "text": " Before you let her hold you tight. Yeah, yeah, make sure she's all right. Before you let her take your hand, my son. On the stone, my son. Be a man, my son. I know you can, my son.",
+        "avg_logprob": -0.19059552224177234
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "eE36-7_pwI0",
+    "uploader": "Smokey Robinson",
+    "audio_file": "corpus/01_music_videos_audio/audio/eE36-7_pwI0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5431690,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 31.384205,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:55:28Z"
+  },
+  "status": "success",
+  "error": null
+}

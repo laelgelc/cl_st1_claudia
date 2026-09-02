@@ -1,0 +1,84 @@
+{
+  "corpus_id": "MUFasKZcH_c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/MUFasKZcH_c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/MUFasKZcH_c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/MUFasKZcH_c.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I had to live without you. What kind of life would that be? Oh, I need you in my arms, need you to hold. You're my world, my heart, my soul. If you ever leave, baby, you would take How do I, oh how do I live without you? There'd be no sun in my sky. There would be no love in my life. I don't know what I would do I'd be lost if I lost you You would take away everything Need you with me Baby, don't you know that you're everything Good in my life And tell me now How do I live without you? How do I, oh how do I leave? How do I leave without you?",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 24.145,
+        "end": 48.58,
+        "text": " I had to live without you. What kind of life would that be? Oh, I need you in my arms, need you to hold. You're my world, my heart, my soul. If you ever leave, baby, you would take",
+        "avg_logprob": -0.1393229207571815
+      },
+      {
+        "id": 2,
+        "start": 83.157,
+        "end": 99.323,
+        "text": " How do I, oh how do I live without you? There'd be no sun in my sky. There would be no love in my life.",
+        "avg_logprob": -0.09009576853244536
+      },
+      {
+        "id": 3,
+        "start": 108.335,
+        "end": 115.0,
+        "text": " I don't know what I would do I'd be lost if I lost you",
+        "avg_logprob": -0.0788717830882353
+      },
+      {
+        "id": 4,
+        "start": 178.467,
+        "end": 201.907,
+        "text": " You would take away everything Need you with me Baby, don't you know that you're everything Good in my life And tell me now How do I live without you?",
+        "avg_logprob": -0.12734374659402029
+      },
+      {
+        "id": 5,
+        "start": 222.14,
+        "end": 235.133,
+        "text": " How do I, oh how do I leave? How do I leave without you?",
+        "avg_logprob": -0.15266927745607164
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "MUFasKZcH_c",
+    "uploader": "leannrimesofficial",
+    "audio_file": "corpus/01_music_videos_audio/audio/MUFasKZcH_c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8651276,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 6.618242,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:20:39Z"
+  },
+  "status": "success",
+  "error": null
+}

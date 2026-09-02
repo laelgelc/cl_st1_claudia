@@ -1,0 +1,105 @@
+{
+  "corpus_id": "PgRafRp-P-o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/PgRafRp-P-o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/PgRafRp-P-o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/PgRafRp-P-o.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Put on my blue suede shoes and I boarded the plane Touchdown in the land of the delta blues In the middle of the pouring rain WC handy Won't you look down over me Yeah, I got a first class ticket But I'm as blue as a boy can be Then I'm walking in Memphis Just walking with my feet ten feet off a beam Walking in Memphis But do I really feel the way I feel? Saw the ghost of Elvis One junior never knew Followed him up to the gates of Graceland And I watched him walk right through Now security they did not see him They just hovered round his tomb But there's a pretty little thing Waiting for the king Down in the jungle room When I was walking in Memphis I was walking with my feet ten feet off a beam Walking in Memphis But do I really feel the way I feel? They've got catfish on the table They've got gospel in the air And Reverend Green, be glad to see you When you haven't got a prayer But boy, you got a prayer in Memphis And Muriel plays piano Every Friday at the Hollywood And they brought me down to see her And they asked me if I would Do a little number And I sang with all my might She said, tell me, are you a Christian child? And I said, ma'am, I am tonight Walking in Memphis I was walking with my feet ten feet off a bill Walking in Memphis But do I really feel the way I feel? Walking in Memphis I was walking with my feet ten feet off the field Walking in Memphis But do I really feel the way I feel? Put on my blue suede shoes and I boarded the plane. Touchdown in the land of the Delta blues, in the middle of the pouring rain. Touchdown in the land of the Delta blues, in the middle of the pouring rain.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 3.052,
+        "end": 30.254,
+        "text": " Put on my blue suede shoes and I boarded the plane Touchdown in the land of the delta blues In the middle of the pouring rain WC handy Won't you look down over me",
+        "avg_logprob": -0.10791015867143869
+      },
+      {
+        "id": 2,
+        "start": 31.216,
+        "end": 58.081,
+        "text": " Yeah, I got a first class ticket But I'm as blue as a boy can be Then I'm walking in Memphis Just walking with my feet ten feet off a beam Walking in Memphis But do I really feel the way I feel? Saw the ghost of Elvis",
+        "avg_logprob": -0.09374999943769204
+      },
+      {
+        "id": 3,
+        "start": 59.347,
+        "end": 85.992,
+        "text": " One junior never knew Followed him up to the gates of Graceland And I watched him walk right through Now security they did not see him They just hovered round his tomb But there's a pretty little thing Waiting for the king Down in the jungle room When I was walking in Memphis",
+        "avg_logprob": -0.1219692921330189
+      },
+      {
+        "id": 4,
+        "start": 86.363,
+        "end": 115.22,
+        "text": " I was walking with my feet ten feet off a beam Walking in Memphis But do I really feel the way I feel? They've got catfish on the table They've got gospel in the air",
+        "avg_logprob": -0.06367187574505806
+      },
+      {
+        "id": 5,
+        "start": 118.814,
+        "end": 147.822,
+        "text": " And Reverend Green, be glad to see you When you haven't got a prayer But boy, you got a prayer in Memphis And Muriel plays piano Every Friday at the Hollywood",
+        "avg_logprob": -0.17979600777228674
+      },
+      {
+        "id": 6,
+        "start": 148.902,
+        "end": 177.1,
+        "text": " And they brought me down to see her And they asked me if I would Do a little number And I sang with all my might She said, tell me, are you a Christian child? And I said, ma'am, I am tonight Walking in Memphis I was walking with my feet ten feet off a bill",
+        "avg_logprob": -0.10192871082108468
+      },
+      {
+        "id": 7,
+        "start": 177.522,
+        "end": 199.156,
+        "text": " Walking in Memphis But do I really feel the way I feel? Walking in Memphis I was walking with my feet ten feet off the field Walking in Memphis But do I really feel the way I feel?",
+        "avg_logprob": -0.08260289343391977
+      },
+      {
+        "id": 8,
+        "start": 206.497,
+        "end": 230.037,
+        "text": " Put on my blue suede shoes and I boarded the plane. Touchdown in the land of the Delta blues, in the middle of the pouring rain. Touchdown in the land of the Delta blues, in the middle of the pouring rain.",
+        "avg_logprob": -0.0887714472471499
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "PgRafRp-P-o",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/PgRafRp-P-o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8073936,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.49349,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:09:57Z"
+  },
+  "status": "success",
+  "error": null
+}

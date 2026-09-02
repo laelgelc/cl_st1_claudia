@@ -1,0 +1,119 @@
+{
+  "corpus_id": "h4UqMyldS7Q",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/h4UqMyldS7Q.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/h4UqMyldS7Q.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/h4UqMyldS7Q.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Thank you. Just waking up in the morning. Gotta thank God. I don't know, but today seems kind of odd. No barking from the dog. No smoke. And mama cooked the breakfast with no hug. I got my grub on, but didn't pig out. Finally got a call. From a girl I wanna dig out Hooked it up for later As I hit the door Thinking will I live Another 24 I gotta go Cause I got me a drop top And if I hit the switch I can make the ass drop Had to stop at a red light looking in my mirror not a jacker in sight and everything is alright I got a beat from Kim and she could do it all night called up the homies and I'm asking y'all which part are y'all playing basketball get me on the court and I'm troubled last week messed around and got a triple double freaking brothers every way like MJ I can't believe today was a good day Drove to the pad and hit the showers. Didn't even get no static from the cowards. Cause just yesterday them fools tried to blast me. Saw the police and they rolled right past me. No flexing, didn't even look in a brother's direction. as I ran the intersection went to show dog's house they was watching yo MTV raps what's the haps on the craps shake em up shake em up shake em up shake em roll em in a circle of homies and watch me break em with a 7 7-11 7-11 7 even back dough little Joe I picked up the cash flow then we play bones and I'm yelling domino plus nobody I know got killed in South Central L.A. Today was a good day. Left my homies house paid, picked up a girl, been trying to dig since the 12th grade. It's ironic, I had the boo, she had the chronic, the Lakers beat the Supersigns. Felt on the big fat fanny, pulled out the jammie, and killed the punani. And my Jimmy runs deep, so deep, so deep, put her butt to sleep. Walk her up around one. She didn't hesitate to call Ice Cube the top gun. Drove her to the pad and I'm coasting. Took another sip of the potion. Hit the three wheel motion. I was glad everything had worked out. Dropped the vert off and then chirped out. Today was like one of those fried dreams. Didn't even see a berry flash in those high beams. No helicopters in the morning got the fat burger even saw the lights of the good year blint and it read ice cubes of piss drunk as hell but no throwing up halfway home and my page is still blowing up today i didn't even have to use my 8k i gotta say it was a good day",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 10,
+    "segments": [
+      {
+        "id": 1,
+        "start": 10.139,
+        "end": 11.168,
+        "text": " Thank you.",
+        "avg_logprob": -0.6381835788488388
+      },
+      {
+        "id": 2,
+        "start": 33.173,
+        "end": 48.968,
+        "text": " Just waking up in the morning. Gotta thank God. I don't know, but today seems kind of odd. No barking from the dog. No smoke. And mama cooked the breakfast with no hug. I got my grub on, but didn't pig out. Finally got a call.",
+        "avg_logprob": -0.09453125335276127
+      },
+      {
+        "id": 3,
+        "start": 48.968,
+        "end": 64.223,
+        "text": " From a girl I wanna dig out Hooked it up for later As I hit the door Thinking will I live Another 24 I gotta go Cause I got me a drop top And if I hit the switch I can make the ass drop Had to stop",
+        "avg_logprob": -0.08343749672174454
+      },
+      {
+        "id": 4,
+        "start": 64.223,
+        "end": 91.763,
+        "text": " at a red light looking in my mirror not a jacker in sight and everything is alright I got a beat from Kim and she could do it all night called up the homies and I'm asking y'all which part are y'all playing basketball get me on the court and I'm troubled last week messed around and got a triple double freaking brothers every way like MJ I can't believe today was a good day",
+        "avg_logprob": -0.06773896988700417
+      },
+      {
+        "id": 5,
+        "start": 103.036,
+        "end": 118.78,
+        "text": " Drove to the pad and hit the showers. Didn't even get no static from the cowards. Cause just yesterday them fools tried to blast me. Saw the police and they rolled right past me. No flexing, didn't even look in a brother's direction.",
+        "avg_logprob": -0.06898716158632721
+      },
+      {
+        "id": 6,
+        "start": 118.78,
+        "end": 148.143,
+        "text": " as I ran the intersection went to show dog's house they was watching yo MTV raps what's the haps on the craps shake em up shake em up shake em up shake em roll em in a circle of homies and watch me break em with a 7 7-11 7-11 7 even back dough little Joe I picked up the cash flow then we play bones and I'm yelling domino plus nobody I know got killed in South Central L.A.",
+        "avg_logprob": -0.1272786439706882
+      },
+      {
+        "id": 7,
+        "start": 148.143,
+        "end": 149.982,
+        "text": " Today was a good day.",
+        "avg_logprob": -0.17187499574252538
+      },
+      {
+        "id": 8,
+        "start": 162.2,
+        "end": 184.745,
+        "text": " Left my homies house paid, picked up a girl, been trying to dig since the 12th grade. It's ironic, I had the boo, she had the chronic, the Lakers beat the Supersigns. Felt on the big fat fanny, pulled out the jammie, and killed the punani. And my Jimmy runs deep, so deep, so deep, put her butt to sleep.",
+        "avg_logprob": -0.1479832802054494
+      },
+      {
+        "id": 9,
+        "start": 184.745,
+        "end": 210.074,
+        "text": " Walk her up around one. She didn't hesitate to call Ice Cube the top gun. Drove her to the pad and I'm coasting. Took another sip of the potion. Hit the three wheel motion. I was glad everything had worked out. Dropped the vert off and then chirped out. Today was like one of those fried dreams. Didn't even see a berry flash in those high beams. No helicopters",
+        "avg_logprob": -0.14226016870071723
+      },
+      {
+        "id": 10,
+        "start": 211.913,
+        "end": 231.488,
+        "text": " in the morning got the fat burger even saw the lights of the good year blint and it read ice cubes of piss drunk as hell but no throwing up halfway home and my page is still blowing up today i didn't even have to use my 8k i gotta say it was a good day",
+        "avg_logprob": -0.1277994806567828
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "h4UqMyldS7Q",
+    "uploader": "Ice Cube / Cubevision",
+    "audio_file": "corpus/01_music_videos_audio/audio/h4UqMyldS7Q.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9805216,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.407554,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:09:23Z"
+  },
+  "status": "success",
+  "error": null
+}

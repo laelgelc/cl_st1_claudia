@@ -1,0 +1,126 @@
+{
+  "corpus_id": "b8m9zhNAgKs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/b8m9zhNAgKs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/b8m9zhNAgKs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/b8m9zhNAgKs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Black Beatles in the city Be back immediately To confiscate the money Send flowers but you said you didn't receive That girl is a real crowd, please Small world, all her friends know of me Young bull livin' like an old geese Frat girl still tryna get even Haters mad for whatever reason Getting soaked on, I'm not blinkin' What in the world was I thinkin'? New day, new money to be made There is nothin' to explain I'm a fuckin' black beetle, cream seats in the Regal Rockin' John Lennon lenses like to see him spread Eagle took a bitch to the club and led a party On the table screamin', everybody's famous Like clockwork, I blow it off Then get some more Black Beatles got the babes belly rollin' She thinks she love me, I think she trollin' That girl is a real crowd, please Small world, all her friends know of me Young bull livin' like an old geese Quick, release the cash, watch it fall slowly Smoke in the air. A broke hoe can only point me to a rich hoe A yellow bitch with green hair, a real weirdo Black man, yellow lamb, red like dope They say they cool out and them just came in through the side though It's so much money on the floor, we buying school clothes Why you bring up money machine? That girl is a real crowd, please. They lose it when the DJ drops the knee She's a good teaser And we blowin' reefer Your body like a work of art, baby Don't fuck with me, I'll break your heart, baby T-T and G on me, I got a lot of flavor Fifty-hundred on my feet, I'm tryna kill these haters I had haters when I was broke, I'm rich, I still got haters I had hoes when I was broke, I'm rich, I'm still a player I wear leather Gucci jackets like it's still the 80s I've been blowin' O.J. That girl is a real crowd, please Small world, all her friends know of me Young bull livin' like an old geese Quick release the cash, watch it fall slowly Frat girl still tryna get easy Haters mad for whatever reason Smoke in the air, binge drinkin' They lose it when the DJ drops the knee Wow.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 11,
+    "segments": [
+      {
+        "id": 1,
+        "start": 7.996,
+        "end": 36.211,
+        "text": " Black Beatles in the city Be back immediately To confiscate the money Send flowers but you said you didn't receive That girl is a real crowd, please Small world, all her friends know of me Young bull livin' like an old geese",
+        "avg_logprob": -0.17625000357627868
+      },
+      {
+        "id": 2,
+        "start": 38.472,
+        "end": 46.167,
+        "text": " Frat girl still tryna get even Haters mad for whatever reason",
+        "avg_logprob": -0.38504464498588015
+      },
+      {
+        "id": 3,
+        "start": 52.158,
+        "end": 81.993,
+        "text": " Getting soaked on, I'm not blinkin' What in the world was I thinkin'? New day, new money to be made There is nothin' to explain I'm a fuckin' black beetle, cream seats in the Regal Rockin' John Lennon lenses like to see him spread Eagle took a bitch to the club and led a party On the table screamin', everybody's famous Like clockwork, I blow it off Then get some more",
+        "avg_logprob": -0.12575605479619836
+      },
+      {
+        "id": 4,
+        "start": 84.777,
+        "end": 105.162,
+        "text": " Black Beatles got the babes belly rollin' She thinks she love me, I think she trollin' That girl is a real crowd, please Small world, all her friends know of me Young bull livin' like an old geese Quick, release the cash, watch it fall slowly",
+        "avg_logprob": -0.14192708854873975
+      },
+      {
+        "id": 5,
+        "start": 106.58,
+        "end": 115.81,
+        "text": " Smoke in the air.",
+        "avg_logprob": -1.0859375198682149
+      },
+      {
+        "id": 6,
+        "start": 121.548,
+        "end": 139.908,
+        "text": " A broke hoe can only point me to a rich hoe A yellow bitch with green hair, a real weirdo Black man, yellow lamb, red like dope They say they cool out and them just came in through the side though It's so much money on the floor, we buying school clothes Why you bring up money machine?",
+        "avg_logprob": -0.1338778379740137
+      },
+      {
+        "id": 7,
+        "start": 143.047,
+        "end": 160.968,
+        "text": " That girl is a real crowd, please.",
+        "avg_logprob": -0.3970703065395355
+      },
+      {
+        "id": 8,
+        "start": 169.523,
+        "end": 188.896,
+        "text": " They lose it when the DJ drops the knee She's a good teaser And we blowin' reefer",
+        "avg_logprob": -0.36399148269133136
+      },
+      {
+        "id": 9,
+        "start": 190.043,
+        "end": 215.103,
+        "text": " Your body like a work of art, baby Don't fuck with me, I'll break your heart, baby T-T and G on me, I got a lot of flavor Fifty-hundred on my feet, I'm tryna kill these haters I had haters when I was broke, I'm rich, I still got haters I had hoes when I was broke, I'm rich, I'm still a player I wear leather Gucci jackets like it's still the 80s I've been blowin' O.J.",
+        "avg_logprob": -0.1549479199780358
+      },
+      {
+        "id": 10,
+        "start": 223.54,
+        "end": 249.275,
+        "text": " That girl is a real crowd, please Small world, all her friends know of me Young bull livin' like an old geese Quick release the cash, watch it fall slowly Frat girl still tryna get easy Haters mad for whatever reason Smoke in the air, binge drinkin' They lose it when the DJ drops the knee",
+        "avg_logprob": -0.09576056656592033
+      },
+      {
+        "id": 11,
+        "start": 254.725,
+        "end": 260.885,
+        "text": " Wow.",
+        "avg_logprob": -1.0377604166666667
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "b8m9zhNAgKs",
+    "uploader": "Rae Sremmurd",
+    "audio_file": "corpus/01_music_videos_audio/audio/b8m9zhNAgKs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9377224,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.422455,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:15:19Z"
+  },
+  "status": "success",
+  "error": null
+}

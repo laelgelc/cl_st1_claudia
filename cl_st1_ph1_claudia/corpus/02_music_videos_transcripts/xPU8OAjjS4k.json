@@ -1,0 +1,77 @@
+{
+  "corpus_id": "xPU8OAjjS4k",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/xPU8OAjjS4k.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/xPU8OAjjS4k.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/xPU8OAjjS4k.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I took a walk around the world to ease my troubled mind. I left my body lying somewhere in the sands of time. I watched the world float to the dark side of the moon. I feel there's nothing I can do. I watched the world flip to the dark side of the moon After all I knew it had to be something to do with you I really don't mind what happens now and then As long as you'll be my friend at the end I will keep, you took for granted all the times I never let you down, you stumbled in and bumped your head, if not for me then you'd be dead, I picked you up and put you back on solid ground, if I go crazy then will you still call me superman, if I'm alive and well will my head i'll keep you by my side with my superhuman mind kryptonite yeah if i go crazy then will you still call me superman if i'm alive and well will",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 20.568,
+        "end": 37.898,
+        "text": " I took a walk around the world to ease my troubled mind. I left my body lying somewhere in the sands of time. I watched the world float to the dark side of the moon. I feel there's nothing I can do.",
+        "avg_logprob": -0.02857940051020408
+      },
+      {
+        "id": 2,
+        "start": 49.863,
+        "end": 68.56,
+        "text": " I watched the world flip to the dark side of the moon After all I knew it had to be something to do with you I really don't mind what happens now and then As long as you'll be my friend at the end",
+        "avg_logprob": -0.057513296921202474
+      },
+      {
+        "id": 3,
+        "start": 101.973,
+        "end": 124.72,
+        "text": " I will keep, you took for granted all the times I never let you down, you stumbled in and bumped your head, if not for me then you'd be dead, I picked you up and put you back on solid ground, if I go crazy then will you still call me superman, if I'm alive and well will",
+        "avg_logprob": -0.08909696735003415
+      },
+      {
+        "id": 4,
+        "start": 174.89,
+        "end": 192.575,
+        "text": " my head i'll keep you by my side with my superhuman mind kryptonite yeah if i go crazy then will you still call me superman if i'm alive and well will",
+        "avg_logprob": -0.16807154879758232
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "xPU8OAjjS4k",
+    "uploader": "3doorsdown",
+    "audio_file": "corpus/01_music_videos_audio/audio/xPU8OAjjS4k.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7497338,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.978674,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:06:58Z"
+  },
+  "status": "success",
+  "error": null
+}

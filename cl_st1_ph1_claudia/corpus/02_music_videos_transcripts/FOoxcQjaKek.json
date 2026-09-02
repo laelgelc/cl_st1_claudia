@@ -1,0 +1,98 @@
+{
+  "corpus_id": "FOoxcQjaKek",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/FOoxcQjaKek.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/FOoxcQjaKek.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/FOoxcQjaKek.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Pretty women are walking with gorillas down my street From my window I'm staring while my There's a lady that I used to know She's married now or engaged or something so I'm told Is she really going out with him? Is she really gonna take him home tonight? Is she really going out with him? Cause if my eyes don't deceive me, there's something going wrong already. Tonight's the night when I go to all the parties down my street. I wash my hair and I kid myself, I look real smooth. Look over there, here comes Jeannie with her new boyfriend. They say the looks don't count for much, so there goes your proof. Is she really gonna take him home tonight? Is she really going out with him? The clouds in my eyes don't deceive me There's something going wrong around here Around here But it looks good, Kel There's a man there who's Less than you Take your hands from her head I get so mean Around this scene Hey, hey, hey guitar solo Is she really going out with him? Is she really gonna take him home tonight? Is she really going out with him?",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 22.61,
+        "text": " Pretty women are walking with gorillas down my street From my window I'm staring while my",
+        "avg_logprob": -0.13764390819951108
+      },
+      {
+        "id": 2,
+        "start": 28.094,
+        "end": 41.56,
+        "text": " There's a lady that I used to know She's married now or engaged or something so I'm told",
+        "avg_logprob": -0.21608664840459824
+      },
+      {
+        "id": 3,
+        "start": 44.952,
+        "end": 60.933,
+        "text": " Is she really going out with him? Is she really gonna take him home tonight? Is she really going out with him? Cause if my eyes don't deceive me, there's something going wrong already.",
+        "avg_logprob": -0.10974702097120739
+      },
+      {
+        "id": 4,
+        "start": 70.012,
+        "end": 99.02,
+        "text": " Tonight's the night when I go to all the parties down my street. I wash my hair and I kid myself, I look real smooth. Look over there, here comes Jeannie with her new boyfriend. They say the looks don't count for much, so there goes your proof.",
+        "avg_logprob": -0.07448357823541608
+      },
+      {
+        "id": 5,
+        "start": 107.812,
+        "end": 134.812,
+        "text": " Is she really gonna take him home tonight? Is she really going out with him? The clouds in my eyes don't deceive me There's something going wrong around here Around here But it looks good, Kel There's a man there who's",
+        "avg_logprob": -0.15784438775510204
+      },
+      {
+        "id": 6,
+        "start": 140.195,
+        "end": 169.287,
+        "text": " Less than you Take your hands from her head I get so mean Around this scene Hey, hey, hey guitar solo",
+        "avg_logprob": -0.3108724020421505
+      },
+      {
+        "id": 7,
+        "start": 170.519,
+        "end": 182.095,
+        "text": " Is she really going out with him? Is she really gonna take him home tonight? Is she really going out with him?",
+        "avg_logprob": -0.046950120192307696
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "FOoxcQjaKek",
+    "uploader": "АП",
+    "audio_file": "corpus/01_music_videos_audio/audio/FOoxcQjaKek.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6034294,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.362947,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:09:13Z"
+  },
+  "status": "success",
+  "error": null
+}

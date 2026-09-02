@@ -1,0 +1,84 @@
+{
+  "corpus_id": "R7uC5m-IRns",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/R7uC5m-IRns.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/R7uC5m-IRns.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/R7uC5m-IRns.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Too many teardrops for one heart to be crying. Too many teardrops for one heart to carry on. You're way on top now since you left me. You're always laughing way down at me. And then I'm gonna put you Way down here And you'll start crying 96 years Cry Cry And when the sun comes up I'll be on top You'll be right down there looking up And I might wave, come up here But I don't see you waving hands I'm way down here wondering how I'm gonna get you But I know now I'll just cry, cry Too many teardrops for one heart to be crying Too many teardrops for one heart to carry on You're gonna cry 96 tears You're gonna cry 96 tears You're gonna cry, cry, cry, cry now You're gonna cry, cry, cry, cry 96 tears Come on, let me hear you cry now 96 tears I wanna hear you cry night and day",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 8.452,
+        "end": 38.236,
+        "text": " Too many teardrops for one heart to be crying. Too many teardrops for one heart to carry on. You're way on top now since you left me. You're always laughing way down at me.",
+        "avg_logprob": -0.07126735779974196
+      },
+      {
+        "id": 2,
+        "start": 53.862,
+        "end": 82.988,
+        "text": " And then I'm gonna put you Way down here And you'll start crying 96 years Cry Cry And when the sun comes up I'll be on top",
+        "avg_logprob": -0.14100302130945266
+      },
+      {
+        "id": 3,
+        "start": 83.9,
+        "end": 109.482,
+        "text": " You'll be right down there looking up And I might wave, come up here But I don't see you waving hands I'm way down here wondering how I'm gonna get you But I know now I'll just cry, cry",
+        "avg_logprob": -0.12765957319990118
+      },
+      {
+        "id": 4,
+        "start": 113.566,
+        "end": 124.45,
+        "text": " Too many teardrops for one heart to be crying Too many teardrops for one heart to carry on",
+        "avg_logprob": -0.10971467261729033
+      },
+      {
+        "id": 5,
+        "start": 127.083,
+        "end": 151.72,
+        "text": " You're gonna cry 96 tears You're gonna cry 96 tears You're gonna cry, cry, cry, cry now You're gonna cry, cry, cry, cry 96 tears Come on, let me hear you cry now 96 tears I wanna hear you cry night and day",
+        "avg_logprob": -0.1569602283564481
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "R7uC5m-IRns",
+    "uploader": "60s70sVintageRock",
+    "audio_file": "corpus/01_music_videos_audio/audio/R7uC5m-IRns.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4939798,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.831581,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:16:46Z"
+  },
+  "status": "success",
+  "error": null
+}

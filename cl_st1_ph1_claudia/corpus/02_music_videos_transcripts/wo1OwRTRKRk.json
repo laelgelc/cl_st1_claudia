@@ -1,0 +1,70 @@
+{
+  "corpus_id": "wo1OwRTRKRk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wo1OwRTRKRk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/wo1OwRTRKRk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/wo1OwRTRKRk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Tonight concludes the intergalactic search for B-B-B-Belly Batman. Our final weird and wonderful contestants are Rocket, Comet, Gynoid, Galaxy, Martian, Star, Luna, and Jet. And now, presenting the legendary Hey kids, check the loose together as far as it's something that's known to change the weather. But a careful fight is a call tonight, so stick around. We plug into the papers. Maybe they're blinded. But then it makes a mess. We shout.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 20.5,
+        "end": 50.335,
+        "text": " Tonight concludes the intergalactic search for B-B-B-Belly Batman. Our final weird and wonderful contestants are Rocket, Comet, Gynoid, Galaxy, Martian, Star, Luna, and Jet. And now, presenting the legendary",
+        "avg_logprob": -0.10576355907152284
+      },
+      {
+        "id": 2,
+        "start": 54.689,
+        "end": 66.113,
+        "text": " Hey kids, check the loose together as far as it's something that's known to change the weather. But a careful fight is a call tonight, so stick around.",
+        "avg_logprob": -0.5089285646166121
+      },
+      {
+        "id": 3,
+        "start": 120.08,
+        "end": 127.977,
+        "text": " We plug into the papers. Maybe they're blinded. But then it makes a mess. We shout.",
+        "avg_logprob": -0.320482339548028
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "wo1OwRTRKRk",
+    "uploader": "Elton John",
+    "audio_file": "corpus/01_music_videos_audio/audio/wo1OwRTRKRk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11160518,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.273318,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:17:10Z"
+  },
+  "status": "success",
+  "error": null
+}

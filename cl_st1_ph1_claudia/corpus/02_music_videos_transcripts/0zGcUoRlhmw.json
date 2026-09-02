@@ -1,0 +1,77 @@
+{
+  "corpus_id": "0zGcUoRlhmw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/0zGcUoRlhmw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/0zGcUoRlhmw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/0zGcUoRlhmw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Doing just fine before I met you I drink too much and that's an issue But I'm okay Hey You tell your friends it was nice to meet them But I hope I never see them again I know it breaks your heart Moved to the city and I broke down crying Four years, no calls Now you're looking pretty in a hotel No, I can't stop So baby, pull me closer in the backseat of your Rover That I know you can't afford Bite that tattoo on your shoulder Pull the sheets right off the corner of the mattress that you stole From your roommate back in Boulder Look as good as the day I met you I forget just why I left you, I was insane Stay, and play that Blink-182 song I'll repeat to death in Tucson, okay So baby, pull me closer In the backseat of your Rover That I know you can't afford Bite that tattoo on your shoulder Pull the sheets right off the corner Of the mattress that you stole From your roommate back in Boulder",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 12.738,
+        "end": 40.7,
+        "text": " Doing just fine before I met you I drink too much and that's an issue But I'm okay Hey You tell your friends it was nice to meet them But I hope I never see them again I know it breaks your heart Moved to the city and I broke down crying Four years, no calls Now you're looking pretty in a hotel",
+        "avg_logprob": -0.04325181245803833
+      },
+      {
+        "id": 2,
+        "start": 43.737,
+        "end": 68.172,
+        "text": " No, I can't stop So baby, pull me closer in the backseat of your Rover That I know you can't afford Bite that tattoo on your shoulder Pull the sheets right off the corner of the mattress that you stole From your roommate back in Boulder",
+        "avg_logprob": -0.1557992837176873
+      },
+      {
+        "id": 3,
+        "start": 93.738,
+        "end": 110.174,
+        "text": " Look as good as the day I met you I forget just why I left you, I was insane Stay, and play that Blink-182 song I'll repeat to death in Tucson, okay",
+        "avg_logprob": -0.20998475028247368
+      },
+      {
+        "id": 4,
+        "start": 132.061,
+        "end": 149.105,
+        "text": " So baby, pull me closer In the backseat of your Rover That I know you can't afford Bite that tattoo on your shoulder Pull the sheets right off the corner Of the mattress that you stole From your roommate back in Boulder",
+        "avg_logprob": -0.0856402880795624
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "0zGcUoRlhmw",
+    "uploader": "The Chainsmokers",
+    "audio_file": "corpus/01_music_videos_audio/audio/0zGcUoRlhmw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7903036,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.163232,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:16:18Z"
+  },
+  "status": "success",
+  "error": null
+}

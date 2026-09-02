@@ -1,0 +1,98 @@
+{
+  "corpus_id": "G6yC4KXGixE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/G6yC4KXGixE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/G6yC4KXGixE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/G6yC4KXGixE.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Yo, I be buyin' B's It be all good, toss your clothes like a salad When it's all over, put your vote in my ballot This my diner, I'm mailing your outlets Spend the night and look through C's palettes It be all good, as long as you don't act childish Why you standing there with the crisp in your cup? It worse come to worse, keep this on a hush I know you see me on the video I know you heard me on the radio But you still don't pay me no attention Listening to my voice I got a crush on you. Hey, yo, shorty, won't you go get a bag of the lead through? I'll be undressed in the bra or see through. Why you count your dues thinking I'ma cheat you? The only one thing I wanna do is freak you. Keep your stone sets. I got my own baguettes. And I'll be doing things that you won't regret. Little Kim, the queen bee, so you best take heed. Shall I proceed? Yes. I'ma throw shade if I can't get paid. Blow you up to your girl like the army grenade. You can slide on my ice like the escapade. And then you get your eye out with the marmalade. Who me? Not you. Oh, yes. Who's he? I even did your man style. But I love your profile. Whisper in your ear and get you all shook up. But don't blush. Just keep this on the hush. I know you see me on the video. True. I know you heard me on the radio. True. But you still don't pay me no attention. Why you try to kiss T-Breeze? I'm in the PVs, all chrome D3s Decked out TVs, CDs were crazy I know you see me on the video I know you heard me on the radio But you still don't pay me no attention Have to let you know that I got a crush on you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 15.151,
+        "text": " Yo, I be buyin' B's",
+        "avg_logprob": -0.6054687738418579
+      },
+      {
+        "id": 2,
+        "start": 38.708,
+        "end": 66.974,
+        "text": " It be all good, toss your clothes like a salad When it's all over, put your vote in my ballot This my diner, I'm mailing your outlets Spend the night and look through C's palettes It be all good, as long as you don't act childish Why you standing there with the crisp in your cup? It worse come to worse, keep this on a hush I know you see me on the video I know you heard me on the radio But you still don't pay me no attention Listening to my voice",
+        "avg_logprob": -0.18607954653826628
+      },
+      {
+        "id": 3,
+        "start": 78.027,
+        "end": 100.201,
+        "text": " I got a crush on you. Hey, yo, shorty, won't you go get a bag of the lead through? I'll be undressed in the bra or see through. Why you count your dues thinking I'ma cheat you? The only one thing I wanna do is freak you. Keep your stone sets. I got my own baguettes. And I'll be doing things that you won't regret. Little Kim, the queen bee, so you best take heed. Shall I proceed? Yes.",
+        "avg_logprob": -0.17069575007794038
+      },
+      {
+        "id": 4,
+        "start": 101.197,
+        "end": 130.677,
+        "text": " I'ma throw shade if I can't get paid. Blow you up to your girl like the army grenade. You can slide on my ice like the escapade. And then you get your eye out with the marmalade. Who me? Not you. Oh, yes. Who's he? I even did your man style. But I love your profile. Whisper in your ear and get you all shook up. But don't blush. Just keep this on the hush. I know you see me on the video. True. I know you heard me on the radio. True. But you still don't pay me no attention.",
+        "avg_logprob": -0.06420347721953142
+      },
+      {
+        "id": 5,
+        "start": 143.705,
+        "end": 151.45,
+        "text": " Why you try to kiss T-Breeze? I'm in the PVs, all chrome D3s Decked out TVs, CDs were crazy",
+        "avg_logprob": -0.40356446523219347
+      },
+      {
+        "id": 6,
+        "start": 168.173,
+        "end": 195.933,
+        "text": " I know you see me on the video I know you heard me on the radio But you still don't pay me no attention",
+        "avg_logprob": -0.14085036057692307
+      },
+      {
+        "id": 7,
+        "start": 228.232,
+        "end": 230.965,
+        "text": " Have to let you know that I got a crush on you.",
+        "avg_logprob": -0.2594866007566452
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "G6yC4KXGixE",
+    "uploader": "UPROXX",
+    "audio_file": "corpus/01_music_videos_audio/audio/G6yC4KXGixE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7390340,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.96503,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:07:39Z"
+  },
+  "status": "success",
+  "error": null
+}

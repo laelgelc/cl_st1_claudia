@@ -1,0 +1,77 @@
+{
+  "corpus_id": "8sAbzZjXLy8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8sAbzZjXLy8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/8sAbzZjXLy8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/8sAbzZjXLy8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Oh, oh. We'll be right back. Only your good lovin' can set me free Don't, don't you leave me this way, no Don't you understand I'm at your command Oh, baby, please I can't stay alive without your love. Baby, don't leave me this way. Oh, baby. My heart is full of love and it's all for you. So come on now and do what you got to do. You started this fire down in my soul. Let's hate to see it burning out of control. So come on, satisfy yourself.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 6.646,
+        "end": 20.602,
+        "text": " Oh, oh.",
+        "avg_logprob": -1.09921875
+      },
+      {
+        "id": 2,
+        "start": 38.337,
+        "end": 62.958,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.5421317134584699
+      },
+      {
+        "id": 3,
+        "start": 90.481,
+        "end": 107.828,
+        "text": " Only your good lovin' can set me free Don't, don't you leave me this way, no Don't you understand I'm at your command Oh, baby, please",
+        "avg_logprob": -0.13122888835700783
+      },
+      {
+        "id": 4,
+        "start": 121.666,
+        "end": 150.657,
+        "text": " I can't stay alive without your love. Baby, don't leave me this way. Oh, baby. My heart is full of love and it's all for you. So come on now and do what you got to do. You started this fire down in my soul. Let's hate to see it burning out of control. So come on, satisfy yourself.",
+        "avg_logprob": -0.1671875055631002
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "8sAbzZjXLy8",
+    "uploader": "TopPop",
+    "audio_file": "corpus/01_music_videos_audio/audio/8sAbzZjXLy8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6891018,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.882156,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:09:25Z"
+  },
+  "status": "success",
+  "error": null
+}

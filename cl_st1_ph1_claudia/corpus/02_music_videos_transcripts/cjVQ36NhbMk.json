@@ -1,0 +1,91 @@
+{
+  "corpus_id": "cjVQ36NhbMk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/cjVQ36NhbMk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/cjVQ36NhbMk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/cjVQ36NhbMk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Step one, you say we need to talk He walks, you say sit down, it's just a talk He smiles politely, back at you You stare politely, right on through Between the lines of fear and blame You began to wonder why you came with me Cause after all you do know best Try to slip past his defense Without granting any sense Lay down a list of what is wrong The things you told him all along Pray to God he hears you And pray to God he hears you And I know how to save a life As he begins to raise his voice You lower yours and grant him one last choice Drive until you lose the road A break with the ones you follow to everything or can say he's just not the same and you'll begin to understand Did I go wrong",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 10.223,
+        "end": 27.183,
+        "text": " Step one, you say we need to talk He walks, you say sit down, it's just a talk He smiles politely, back at you You stare politely, right on through",
+        "avg_logprob": -0.11027644268977337
+      },
+      {
+        "id": 2,
+        "start": 35.131,
+        "end": 43.147,
+        "text": " Between the lines of fear and blame You began to wonder why you came with me",
+        "avg_logprob": -0.13740808823529413
+      },
+      {
+        "id": 3,
+        "start": 68.459,
+        "end": 95.645,
+        "text": " Cause after all you do know best Try to slip past his defense Without granting any sense Lay down a list of what is wrong The things you told him all along Pray to God he hears you And pray to God he hears you",
+        "avg_logprob": -0.16278871699519779
+      },
+      {
+        "id": 4,
+        "start": 109.094,
+        "end": 135.807,
+        "text": " And I know how to save a life As he begins to raise his voice You lower yours and grant him one last choice Drive until you lose the road A break with the ones you follow",
+        "avg_logprob": -0.15265214011857384
+      },
+      {
+        "id": 5,
+        "start": 141.815,
+        "end": 150.927,
+        "text": " to everything or can say he's just not the same and you'll begin to understand",
+        "avg_logprob": -0.3040364633003871
+      },
+      {
+        "id": 6,
+        "start": 200.557,
+        "end": 202.008,
+        "text": " Did I go wrong",
+        "avg_logprob": -0.778125
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "cjVQ36NhbMk",
+    "uploader": "The Fray",
+    "audio_file": "corpus/01_music_videos_audio/audio/cjVQ36NhbMk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8538334,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.964636,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:04:53Z"
+  },
+  "status": "success",
+  "error": null
+}

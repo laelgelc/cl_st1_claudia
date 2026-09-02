@@ -1,0 +1,91 @@
+{
+  "corpus_id": "TIy3n2b7V9k",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/TIy3n2b7V9k.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/TIy3n2b7V9k.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/TIy3n2b7V9k.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "He was a boy, she was a girl Can I make it any more obvious? He was a punk, she did ballet What more can I say? He wanted her, she'd never tell Secretly she wanted him as well And all of her friends stuck up their nose They had a problem with his baggy clothes He was a skater boy, she said She had a pretty face, but her hair was off in space She needed to come back down to earth at home feeding the baby she's all alone she turns on tv guess who she sees skate our boy rocking up mtv she calls up her friends they already know and they've all got tickets to see his show she tags along and stands in the crowd looks up at the man that she turned to yeah Now he's a superstar, so let me know his guitar Did your pretty face see what he's worth? He was a skater boy, she said see you later boy He wasn't good enough for her Now he's a superstar, so let me know his guitar Did your pretty face see what he's worth? Well tough luck that boy's mine now We are more than just good friends This is how the story ends Too bad that you couldn't see See the man that boy could be There is more than meets the eye I see the soul that is inside He's just a boy and I'm just a girl Can I make it any more obvious? Each other",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 22.12,
+        "end": 49.576,
+        "text": " He was a boy, she was a girl Can I make it any more obvious? He was a punk, she did ballet What more can I say? He wanted her, she'd never tell Secretly she wanted him as well And all of her friends stuck up their nose They had a problem with his baggy clothes He was a skater boy, she said",
+        "avg_logprob": -0.06867610059074454
+      },
+      {
+        "id": 2,
+        "start": 54.014,
+        "end": 60.123,
+        "text": " She had a pretty face, but her hair was off in space She needed to come back down to earth",
+        "avg_logprob": -0.11985085024075075
+      },
+      {
+        "id": 3,
+        "start": 65.759,
+        "end": 88.642,
+        "text": " at home feeding the baby she's all alone she turns on tv guess who she sees skate our boy rocking up mtv she calls up her friends they already know and they've all got tickets to see his show she tags along and stands in the crowd looks up at the man that she turned to yeah",
+        "avg_logprob": -0.0687115773802898
+      },
+      {
+        "id": 4,
+        "start": 96.573,
+        "end": 117.802,
+        "text": " Now he's a superstar, so let me know his guitar Did your pretty face see what he's worth? He was a skater boy, she said see you later boy He wasn't good enough for her Now he's a superstar, so let me know his guitar Did your pretty face see what he's worth?",
+        "avg_logprob": -0.06370192307692307
+      },
+      {
+        "id": 5,
+        "start": 134.474,
+        "end": 164.393,
+        "text": " Well tough luck that boy's mine now We are more than just good friends This is how the story ends Too bad that you couldn't see See the man that boy could be There is more than meets the eye I see the soul that is inside He's just a boy and I'm just a girl Can I make it any more obvious?",
+        "avg_logprob": -0.09833559523458066
+      },
+      {
+        "id": 6,
+        "start": 168.562,
+        "end": 170.57,
+        "text": " Each other",
+        "avg_logprob": -0.525390625
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "TIy3n2b7V9k",
+    "uploader": "Avril Lavigne",
+    "audio_file": "corpus/01_music_videos_audio/audio/TIy3n2b7V9k.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7000988,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.298829,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:15:55Z"
+  },
+  "status": "success",
+  "error": null
+}

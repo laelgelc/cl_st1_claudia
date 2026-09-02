@@ -1,0 +1,105 @@
+{
+  "corpus_id": "A_MjCqQoLLA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/A_MjCqQoLLA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/A_MjCqQoLLA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/A_MjCqQoLLA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Hey, come here Bill. Magnificent. A perfect rendition. Ladies and gentlemen, there you see the greatest tea room orchestra in the world. It's my pleasure to introduce now in their first live appearance for goodness knows how long in front of an audience, the Beatles. It's now on! Hey June, don't make it bad Take a sad song and make it better Remember to let her into your heart Then you can start to make it Don't be afraid You were made to go out and get her The minute you let her under your skin Then you begin to make it better And anytime you feel the pain Well, you know that it's a fool who plays it cool By making his world a little colder For someone to perform with Don't you know that it's just you and you, you too The movement you need is on your shoulders To lay her under your skin We'll be right back.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 6.241,
+        "text": " Hey, come here Bill.",
+        "avg_logprob": -0.8638392857142857
+      },
+      {
+        "id": 2,
+        "start": 23.538,
+        "end": 43.4,
+        "text": " Magnificent. A perfect rendition. Ladies and gentlemen, there you see the greatest tea room orchestra in the world. It's my pleasure to introduce now in their first live appearance for goodness knows how long in front of an audience, the Beatles. It's now on!",
+        "avg_logprob": -0.06620065789473684
+      },
+      {
+        "id": 3,
+        "start": 51.466,
+        "end": 79.04,
+        "text": " Hey June, don't make it bad Take a sad song and make it better Remember to let her into your heart Then you can start to make it",
+        "avg_logprob": -0.11454132776106557
+      },
+      {
+        "id": 4,
+        "start": 84.811,
+        "end": 112.283,
+        "text": " Don't be afraid You were made to go out and get her The minute you let her under your skin Then you begin to make it better And anytime you feel the pain",
+        "avg_logprob": -0.10541294472558158
+      },
+      {
+        "id": 5,
+        "start": 125.429,
+        "end": 137.967,
+        "text": " Well, you know that it's a fool who plays it cool By making his world a little colder",
+        "avg_logprob": -0.11588541524750846
+      },
+      {
+        "id": 6,
+        "start": 183.378,
+        "end": 204.725,
+        "text": " For someone to perform with Don't you know that it's just you and you, you too The movement you need is on your shoulders",
+        "avg_logprob": -0.16671316591756685
+      },
+      {
+        "id": 7,
+        "start": 229.565,
+        "end": 232.467,
+        "text": " To lay her under your skin",
+        "avg_logprob": -0.5256696428571429
+      },
+      {
+        "id": 8,
+        "start": 473.729,
+        "end": 476.412,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.6227678571428571
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "A_MjCqQoLLA",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/A_MjCqQoLLA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 15664818,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.52924,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:13:55Z"
+  },
+  "status": "success",
+  "error": null
+}

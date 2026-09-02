@@ -1,0 +1,77 @@
+{
+  "corpus_id": "fWNaR-rxAic",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/fWNaR-rxAic.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/fWNaR-rxAic.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/fWNaR-rxAic.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I threw a wish in the well Don't ask me, I'll never tell I looked at you as it fell And now you're in my way I trade my soul for a wish Pennies and diamonds for a kiss I wasn't looking for this But now you're in my way Your stare was holding Ripped jeans, skin was showing Hot night, wind was blowing You took your time with the call I took no time with the fall You gave me nothing at all But still you're in my way I beg and borrow and steal At first sight and it's real I didn't know I would feel it But it's in my way Your stare was holding Ripped jeans, skin was showing Hot night, wind was blowing It's hard to look right at you, baby But here's my number so",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 4.469,
+        "end": 26.204,
+        "text": " I threw a wish in the well Don't ask me, I'll never tell I looked at you as it fell And now you're in my way I trade my soul for a wish Pennies and diamonds for a kiss I wasn't looking for this But now you're in my way Your stare was holding Ripped jeans, skin was showing Hot night, wind was blowing",
+        "avg_logprob": -0.08484375019868215
+      },
+      {
+        "id": 2,
+        "start": 61.473,
+        "end": 86.178,
+        "text": " You took your time with the call I took no time with the fall You gave me nothing at all But still you're in my way I beg and borrow and steal At first sight and it's real I didn't know I would feel it But it's in my way Your stare was holding Ripped jeans, skin was showing Hot night, wind was blowing",
+        "avg_logprob": -0.0698784694282545
+      },
+      {
+        "id": 3,
+        "start": 144.565,
+        "end": 150.505,
+        "text": " It's hard to look right at you, baby But here's my number",
+        "avg_logprob": -0.1425781287252903
+      },
+      {
+        "id": 4,
+        "start": 186.128,
+        "end": 191.647,
+        "text": " so",
+        "avg_logprob": -1.123046875
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "fWNaR-rxAic",
+    "uploader": "Carly Rae Jepsen",
+    "audio_file": "corpus/01_music_videos_audio/audio/fWNaR-rxAic.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6382780,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.163571,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:23:02Z"
+  },
+  "status": "success",
+  "error": null
+}

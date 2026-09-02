@@ -1,0 +1,91 @@
+{
+  "corpus_id": "6Ejga4kJUts",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/6Ejga4kJUts.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/6Ejga4kJUts.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/6Ejga4kJUts.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": ". . . Head hangs lowly, child is slowly taken End of violence, curse of silence Who are we mistaken? But you see, it's not me, it's not my family In your head they are fighting With their tanks and their bombs And their bombs and their guns In your head, in your head they are crying In your head, in your head Zombie, zombie, zombie breaking heart is taken Cause of silence We must be missed again It's the same old tea since 1916 In your head, in your head They're still fighting With their tanks and their bombs And their bombs and their guns In your head, in your head In your head they are dying In your head, in your head Zombie, zombie, zombie What's in your head?",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.976,
+        "end": 4.52,
+        "text": " . . .",
+        "avg_logprob": -1.3925781548023224
+      },
+      {
+        "id": 2,
+        "start": 51.955,
+        "end": 76.981,
+        "text": " Head hangs lowly, child is slowly taken End of violence, curse of silence Who are we mistaken? But you see, it's not me, it's not my family",
+        "avg_logprob": -0.20084635871979925
+      },
+      {
+        "id": 3,
+        "start": 79.09,
+        "end": 104.437,
+        "text": " In your head they are fighting With their tanks and their bombs And their bombs and their guns In your head, in your head they are crying In your head, in your head Zombie, zombie, zombie",
+        "avg_logprob": -0.12776296313216046
+      },
+      {
+        "id": 4,
+        "start": 146.017,
+        "end": 150.607,
+        "text": " breaking heart is taken",
+        "avg_logprob": -0.821875
+      },
+      {
+        "id": 5,
+        "start": 155.062,
+        "end": 183.007,
+        "text": " Cause of silence We must be missed again It's the same old tea since 1916 In your head, in your head They're still fighting With their tanks and their bombs And their bombs and their guns In your head, in your head",
+        "avg_logprob": -0.18457030691206455
+      },
+      {
+        "id": 6,
+        "start": 183.007,
+        "end": 200.675,
+        "text": " In your head they are dying In your head, in your head Zombie, zombie, zombie What's in your head?",
+        "avg_logprob": -0.29453124046325685
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "6Ejga4kJUts",
+    "uploader": "TheCranberriesTV",
+    "audio_file": "corpus/01_music_videos_audio/audio/6Ejga4kJUts.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9829736,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.34662,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:53:06Z"
+  },
+  "status": "success",
+  "error": null
+}

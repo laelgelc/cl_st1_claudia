@@ -1,0 +1,105 @@
+{
+  "corpus_id": "nfrSIUE3iAE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nfrSIUE3iAE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/nfrSIUE3iAE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/nfrSIUE3iAE.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I've been run down. I've been lied to. And I don't know why I let that mean woman make me a fool. She took all my money and wrecked my new car. Now she's with one of my good time buddies They're drinking in some cross town bar Sometimes I feel Lord, I feel like I'm dying My friends tell me that I've been such a But I have to stand by and take it, baby I'm all for loving you I drown myself in sorrow As I look at what you've done But nothing seems to change The bad times stay the same ¶¶ Good Lord, I feel like I'm dying Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 25.512,
+        "end": 45.982,
+        "text": " I've been run down. I've been lied to. And I don't know why I let that mean woman make me a fool. She took all my money and wrecked my new car.",
+        "avg_logprob": -0.11280487950255232
+      },
+      {
+        "id": 2,
+        "start": 48.968,
+        "end": 57.642,
+        "text": " Now she's with one of my good time buddies They're drinking in some cross town bar Sometimes I feel",
+        "avg_logprob": -0.1329900615594604
+      },
+      {
+        "id": 3,
+        "start": 77.099,
+        "end": 82.617,
+        "text": " Lord, I feel like I'm dying",
+        "avg_logprob": -0.3591579861111111
+      },
+      {
+        "id": 4,
+        "start": 106.343,
+        "end": 132.128,
+        "text": " My friends tell me that I've been such a",
+        "avg_logprob": -0.3631036931818182
+      },
+      {
+        "id": 5,
+        "start": 135.166,
+        "end": 153.796,
+        "text": " But I have to stand by and take it, baby I'm all for loving you I drown myself in sorrow As I look at what you've done But nothing seems to change The bad times stay the same",
+        "avg_logprob": -0.1630394281375976
+      },
+      {
+        "id": 6,
+        "start": 179.024,
+        "end": 205.838,
+        "text": " ¶¶",
+        "avg_logprob": -0.8515625
+      },
+      {
+        "id": 7,
+        "start": 283.885,
+        "end": 288.661,
+        "text": " Good Lord, I feel like I'm dying",
+        "avg_logprob": -0.20078124850988388
+      },
+      {
+        "id": 8,
+        "start": 305.823,
+        "end": 316.977,
+        "text": " Thank you.",
+        "avg_logprob": -0.6728515774011612
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "nfrSIUE3iAE",
+    "uploader": "Allman Brothers Band",
+    "audio_file": "corpus/01_music_videos_audio/audio/nfrSIUE3iAE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10143298,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 42.377547,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:55:58Z"
+  },
+  "status": "success",
+  "error": null
+}

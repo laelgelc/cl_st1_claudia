@@ -1,0 +1,91 @@
+{
+  "corpus_id": "OPf0YbXqDm0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/OPf0YbXqDm0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/OPf0YbXqDm0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/OPf0YbXqDm0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "This is the ice cold Michelle Pfeiffer that white gold I'm too hot, make a dragon wanna retire, man, I'm too hot, say my name, you know who I am, I'm too hot, and my band bout that money, break it down. Girls hit you, hallelujah, girls hit you, hallelujah, girls hit you, hallelujah, cause Uptown Funk gon' give it to you, cause Uptown Funk gon' give it to you, cause Uptown Funk gon' Wait a minute Fill my cup, put some liquor in it Take a sip, sign the check Julio, get the stretch Girls hit you hallelujah Girls hit you hallelujah Girls hit you hallelujah Cause Uptown Funk gon' give it to ya Cause Uptown Funk gon' give it to ya Cause Uptown Funk gon' give it to ya Let's go! Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 8.131,
+        "end": 21.563,
+        "text": " This is the ice cold Michelle Pfeiffer that white gold",
+        "avg_logprob": -0.4074519230769231
+      },
+      {
+        "id": 2,
+        "start": 36.97,
+        "end": 61.709,
+        "text": " I'm too hot, make a dragon wanna retire, man, I'm too hot, say my name, you know who I am, I'm too hot, and my band bout that money, break it down. Girls hit you, hallelujah, girls hit you, hallelujah, girls hit you, hallelujah, cause Uptown Funk gon' give it to you, cause Uptown Funk gon' give it to you, cause Uptown Funk gon'",
+        "avg_logprob": -0.14134987113402062
+      },
+      {
+        "id": 3,
+        "start": 93.198,
+        "end": 100.741,
+        "text": " Wait a minute Fill my cup, put some liquor in it Take a sip, sign the check Julio, get the stretch",
+        "avg_logprob": -0.2270132159957519
+      },
+      {
+        "id": 4,
+        "start": 125.682,
+        "end": 137.444,
+        "text": " Girls hit you hallelujah Girls hit you hallelujah Girls hit you hallelujah Cause Uptown Funk gon' give it to ya Cause Uptown Funk gon' give it to ya Cause Uptown Funk gon' give it to ya",
+        "avg_logprob": -0.12627551020408162
+      },
+      {
+        "id": 5,
+        "start": 208.15,
+        "end": 208.758,
+        "text": " Let's go!",
+        "avg_logprob": -0.5078125
+      },
+      {
+        "id": 6,
+        "start": 266.217,
+        "end": 267.28,
+        "text": " Thank you.",
+        "avg_logprob": -0.8632812201976776
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "OPf0YbXqDm0",
+    "uploader": "Mark Ronson",
+    "audio_file": "corpus/01_music_videos_audio/audio/OPf0YbXqDm0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8654248,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.861347,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:20:53Z"
+  },
+  "status": "success",
+  "error": null
+}

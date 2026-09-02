@@ -1,0 +1,91 @@
+{
+  "corpus_id": "wIgOL21S98o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wIgOL21S98o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/wIgOL21S98o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/wIgOL21S98o.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I'll always think of you inside of my private thoughts Can't imagine you touching my private parts And just the thought of you can't help but touch myself That's why I want you so bad, just one night I'm not doing it again and again You know I want you so bad, baby, baby, baby Ooh, I get so high when I'm around you, baby I can touch the sky, you make me fly Obsessed with every thought of you Makes me want to get undressed I want to be with you In spite of what my heart says I guess I won't feel too bad All I want is to know That you're there beside me Oh baby, I'm doing it again And then You make my day We can go flying into the sea Darling, you and me Line up, I know my place Take me, take me, take me away Yeah Mm, there's no luck, really won't be Ooh, without you there inside me Oh And then again, and then again, and then again Ooh, baby, I want you so bad Baby, baby, baby, baby Ooh, I get so high when I'm around you, baby I can touch the sky with my temperature rise",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 32.313,
+        "end": 52.9,
+        "text": " I'll always think of you inside of my private thoughts Can't imagine you touching my private parts And just the thought of you can't help but touch myself That's why I want you so bad, just one night",
+        "avg_logprob": -0.10484730198302052
+      },
+      {
+        "id": 2,
+        "start": 58.942,
+        "end": 82.533,
+        "text": " I'm not doing it again and again You know I want you so bad, baby, baby, baby Ooh, I get so high when I'm around you, baby I can touch the sky, you make me fly",
+        "avg_logprob": -0.20763888756434123
+      },
+      {
+        "id": 3,
+        "start": 98.26,
+        "end": 125.395,
+        "text": " Obsessed with every thought of you Makes me want to get undressed I want to be with you In spite of what my heart says I guess I won't feel too bad All I want is to know That you're there beside me Oh baby, I'm doing it again And then",
+        "avg_logprob": -0.2478448193648766
+      },
+      {
+        "id": 4,
+        "start": 131.825,
+        "end": 145.257,
+        "text": " You make my day",
+        "avg_logprob": -0.89140625
+      },
+      {
+        "id": 5,
+        "start": 165.22,
+        "end": 194.33,
+        "text": " We can go flying into the sea Darling, you and me Line up, I know my place Take me, take me, take me away Yeah Mm, there's no luck, really won't be Ooh, without you there inside me Oh",
+        "avg_logprob": -0.39445154034361546
+      },
+      {
+        "id": 6,
+        "start": 197.671,
+        "end": 219.693,
+        "text": " And then again, and then again, and then again Ooh, baby, I want you so bad Baby, baby, baby, baby Ooh, I get so high when I'm around you, baby I can touch the sky with my temperature rise",
+        "avg_logprob": -0.2445312538743019
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "wIgOL21S98o",
+    "uploader": "Toni Braxton",
+    "audio_file": "corpus/01_music_videos_audio/audio/wIgOL21S98o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7458700,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.050394,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:09:11Z"
+  },
+  "status": "success",
+  "error": null
+}

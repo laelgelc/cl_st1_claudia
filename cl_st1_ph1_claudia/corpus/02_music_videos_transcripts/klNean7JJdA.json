@@ -1,0 +1,91 @@
+{
+  "corpus_id": "klNean7JJdA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/klNean7JJdA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/klNean7JJdA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/klNean7JJdA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Body drop, baby, just to let me down. I mess me around and worse than all. You never call, baby, when you say you will. But I love you still. I need you more than anyone, darling. You know that I am from the start. I'll be over at ten, you told me time and again But you're late, I'll wait around then I'll run to the door, I can't take anymore It's not you, you let me down again Baby, baby, try to find a little time I need you. But I could be the boy you adore And you just let me know I know you want to, I'm attracted to you All the more, why do I need to show? Fill me up, buttercup, baby, just to let me down. Mess with you around and then worst of all, never call me when you say you will. I love you still, I need you more than anyone, darling. You know that I have mother's heart. Fill me up, buttercup, don't break my heart. I need you more than anyone, baby You know that I am from the start So build me up, you gotta come, don't break my heart I need you more than anyone, baby You know that I am from the start",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 16.872,
+        "end": 35.755,
+        "text": " Body drop, baby, just to let me down. I mess me around and worse than all. You never call, baby, when you say you will. But I love you still. I need you more than anyone, darling. You know that I am from the start.",
+        "avg_logprob": -0.23643092314402261
+      },
+      {
+        "id": 2,
+        "start": 43.315,
+        "end": 62.789,
+        "text": " I'll be over at ten, you told me time and again But you're late, I'll wait around then I'll run to the door, I can't take anymore It's not you, you let me down again Baby, baby, try to find a little time",
+        "avg_logprob": -0.11383928691170045
+      },
+      {
+        "id": 3,
+        "start": 76.947,
+        "end": 93.468,
+        "text": " I need you.",
+        "avg_logprob": -0.80625
+      },
+      {
+        "id": 4,
+        "start": 104.42,
+        "end": 117.295,
+        "text": " But I could be the boy you adore And you just let me know I know you want to, I'm attracted to you All the more, why do I need to show?",
+        "avg_logprob": -0.20428631756756757
+      },
+      {
+        "id": 5,
+        "start": 135.52,
+        "end": 160.225,
+        "text": " Fill me up, buttercup, baby, just to let me down. Mess with you around and then worst of all, never call me when you say you will. I love you still, I need you more than anyone, darling. You know that I have mother's heart. Fill me up, buttercup, don't break my heart.",
+        "avg_logprob": -0.22227113095807358
+      },
+      {
+        "id": 6,
+        "start": 165.794,
+        "end": 184.947,
+        "text": " I need you more than anyone, baby You know that I am from the start So build me up, you gotta come, don't break my heart I need you more than anyone, baby You know that I am from the start",
+        "avg_logprob": -0.3085106522478956
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "klNean7JJdA",
+    "uploader": "Beat-Club",
+    "audio_file": "corpus/01_music_videos_audio/audio/klNean7JJdA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7139936,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.327237,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:15:06Z"
+  },
+  "status": "success",
+  "error": null
+}

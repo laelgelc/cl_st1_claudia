@@ -1,0 +1,91 @@
+{
+  "corpus_id": "Wro3bqi4Eb8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Wro3bqi4Eb8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Wro3bqi4Eb8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Wro3bqi4Eb8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Hey, I'm Archie Bell of the Trails of Houston, Texas. We don't only sing, but we dance just as good as we want. In Houston, we just started a new dance called the Tighten Up. This is the music we tighten up with. First, tighten up on the drum. Come on now, drummer. I want you to tighten it up for me now. Oh yeah. Turn up on that bass now. Your show will be tough. Now look here. Come on now. Now make it mellow. Now tighten it up now. Do the tightening up. Everybody can do it now. So get to it. Come on and tighten it up. Tighten it up now. Come on now, Billy. Tighten it up. Oh, yeah. Tighten it up. Come on. Tighten up that bass. Oh, yeah. Now look here. I want that guitar to fall in on that. Yeah, now everybody tighten it up now. Now look here. We're gonna make it mellow for you now. We're gonna make it mellow now. Now tighten it up. You can get it. Move to your left. Move to your right. Tighten it up now. Everything will be out of sight. Come on and tighten it up. Tighten it up now. You can do it. So baby get to it.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 20.112,
+        "end": 47.838,
+        "text": " Hey, I'm Archie Bell of the Trails of Houston, Texas. We don't only sing, but we dance just as good as we want. In Houston, we just started a new dance called the Tighten Up. This is the music we tighten up with. First, tighten up on the drum. Come on now, drummer. I want you to tighten it up for me now. Oh yeah.",
+        "avg_logprob": -0.107904412465937
+      },
+      {
+        "id": 2,
+        "start": 49.222,
+        "end": 50.639,
+        "text": " Turn up on that bass now.",
+        "avg_logprob": -0.6782226637005806
+      },
+      {
+        "id": 3,
+        "start": 77.386,
+        "end": 93.08,
+        "text": " Your show will be tough. Now look here. Come on now. Now make it mellow. Now tighten it up now. Do the tightening up. Everybody can do it now. So get to it.",
+        "avg_logprob": -0.15297964977663617
+      },
+      {
+        "id": 4,
+        "start": 119.253,
+        "end": 140.009,
+        "text": " Come on and tighten it up. Tighten it up now. Come on now, Billy. Tighten it up. Oh, yeah. Tighten it up. Come on. Tighten up that bass. Oh, yeah. Now look here. I want that guitar to fall in on that.",
+        "avg_logprob": -0.1896772472584834
+      },
+      {
+        "id": 5,
+        "start": 148.042,
+        "end": 176.932,
+        "text": " Yeah, now everybody tighten it up now. Now look here. We're gonna make it mellow for you now. We're gonna make it mellow now. Now tighten it up. You can get it.",
+        "avg_logprob": -0.17515979910438711
+      },
+      {
+        "id": 6,
+        "start": 177.691,
+        "end": 192.777,
+        "text": " Move to your left. Move to your right. Tighten it up now. Everything will be out of sight. Come on and tighten it up. Tighten it up now. You can do it. So baby get to it.",
+        "avg_logprob": -0.06660970238347848
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Wro3bqi4Eb8",
+    "uploader": "Moraito",
+    "audio_file": "corpus/01_music_videos_audio/audio/Wro3bqi4Eb8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6315906,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.786661,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:58:47Z"
+  },
+  "status": "success",
+  "error": null
+}

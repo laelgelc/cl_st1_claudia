@@ -1,0 +1,77 @@
+{
+  "corpus_id": "beINamVRGy4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/beINamVRGy4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/beINamVRGy4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/beINamVRGy4.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "And then she goes and she lives for me Says she lives for me-ovation, her own motivation She comes wild and she goes down on me And I make you smile like a drug for you Do whatever what you wanna do, coming over you Keep on smiling what we go through One stop to the rhythm that divides you How do I get back there to the place where I fell asleep inside you? How do I get myself I believe in the sand beneath my toes. The beach gives a feeling and a deep feeling. I believe in the faith that grows. And the full-on cold can make me cry. We tripped all the earth to feel alive But now I'm struggling to survive Those days you were wearing that velvet dress You're the priestess, I must confess Those little red panties, they pass the test My tongue around the belly face, down on the mattress I want something else To get me through this Life, baby I want something else Not listening when you say",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 24.5,
+        "end": 42.438,
+        "text": " And then she goes and she lives for me Says she lives for me-ovation, her own motivation She comes wild and she goes down on me And I make you smile like a drug for you Do whatever what you wanna do, coming over you Keep on smiling what we go through One stop to the rhythm that divides you",
+        "avg_logprob": -0.21590909271529227
+      },
+      {
+        "id": 2,
+        "start": 81.858,
+        "end": 104.555,
+        "text": " How do I get back there to the place where I fell asleep inside you? How do I get myself",
+        "avg_logprob": -0.24928976053541357
+      },
+      {
+        "id": 3,
+        "start": 126.965,
+        "end": 136.567,
+        "text": " I believe in the sand beneath my toes. The beach gives a feeling and a deep feeling. I believe in the faith that grows. And the full-on cold can make me cry.",
+        "avg_logprob": -0.23898237485152024
+      },
+      {
+        "id": 4,
+        "start": 149.948,
+        "end": 179.75,
+        "text": " We tripped all the earth to feel alive But now I'm struggling to survive Those days you were wearing that velvet dress You're the priestess, I must confess Those little red panties, they pass the test My tongue around the belly face, down on the mattress I want something else To get me through this Life, baby I want something else Not listening when you say",
+        "avg_logprob": -0.144942428328489
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "beINamVRGy4",
+    "uploader": "thirdeyeblind",
+    "audio_file": "corpus/01_music_videos_audio/audio/beINamVRGy4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7733624,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.607931,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:18:35Z"
+  },
+  "status": "success",
+  "error": null
+}

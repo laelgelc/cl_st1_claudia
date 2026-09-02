@@ -1,0 +1,84 @@
+{
+  "corpus_id": "yPYWtOj9_7I",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yPYWtOj9_7I.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/yPYWtOj9_7I.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/yPYWtOj9_7I.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Can't you see me standing in the shadows of love? All the love I've been givin' Now wait a minute Didn't I teach you right now, baby? Didn't I? Didn't I do the best I could? No, didn't I? So don't you leave me standing How can you watch me cry after all I've done for you? Now, hold on a minute. Gave you all the love I had and I denied. When you needed me, I was always there and I wasn't mine. To cause all this grief Now what'd I say To make you wanna leave Now wait a minute Gave my heart and soul to you Now didn't I And didn't I always treat you good Now didn't I I'm standing in the shadows of love Outro Music",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.25,
+        "end": 10.561,
+        "text": " Can't you see me standing in the shadows of love?",
+        "avg_logprob": -0.3137019230769231
+      },
+      {
+        "id": 2,
+        "start": 38.742,
+        "end": 51.247,
+        "text": " All the love I've been givin' Now wait a minute Didn't I teach you right now, baby? Didn't I? Didn't I do the best I could? No, didn't I? So don't you leave me standing",
+        "avg_logprob": -0.19883577730141433
+      },
+      {
+        "id": 3,
+        "start": 86.549,
+        "end": 101.163,
+        "text": " How can you watch me cry after all I've done for you? Now, hold on a minute. Gave you all the love I had and I denied. When you needed me, I was always there and I wasn't mine.",
+        "avg_logprob": -0.16326531098813427
+      },
+      {
+        "id": 4,
+        "start": 118.898,
+        "end": 137.478,
+        "text": " To cause all this grief Now what'd I say To make you wanna leave Now wait a minute Gave my heart and soul to you Now didn't I And didn't I always treat you good Now didn't I I'm standing in the shadows of love",
+        "avg_logprob": -0.09840744834106702
+      },
+      {
+        "id": 5,
+        "start": 150.91,
+        "end": 155.197,
+        "text": " Outro Music",
+        "avg_logprob": -0.5922851711511612
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "yPYWtOj9_7I",
+    "uploader": "Four Tops",
+    "audio_file": "corpus/01_music_videos_audio/audio/yPYWtOj9_7I.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5044568,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 22.749492,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:54:45Z"
+  },
+  "status": "success",
+  "error": null
+}

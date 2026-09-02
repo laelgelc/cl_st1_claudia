@@ -1,0 +1,63 @@
+{
+  "corpus_id": "U5rLz5AZBIA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/U5rLz5AZBIA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/U5rLz5AZBIA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/U5rLz5AZBIA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Baby girl, I don't got a huge old house I rent a room in the house Listen baby girl, I ain't got a motorboat So listen baby girl, when I make that, I want you there, want you there, yeah My money ain't maloof like Phil in them, and it's really not quite Lawrence Ellison Your body ain't Pamela Anderson, it's a struggle just to get you in the caravan But listen baby girl, before I let you lose a pound, I'll buy a bigger car So listen baby girl, I love you just the way you are, the way you are Oh baby, it's a no",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 2,
+    "segments": [
+      {
+        "id": 1,
+        "start": 123.472,
+        "end": 132.905,
+        "text": " Baby girl, I don't got a huge old house I rent a room in the house Listen baby girl, I ain't got a motorboat",
+        "avg_logprob": -0.2069010371963183
+      },
+      {
+        "id": 2,
+        "start": 137.933,
+        "end": 161.373,
+        "text": " So listen baby girl, when I make that, I want you there, want you there, yeah My money ain't maloof like Phil in them, and it's really not quite Lawrence Ellison Your body ain't Pamela Anderson, it's a struggle just to get you in the caravan But listen baby girl, before I let you lose a pound, I'll buy a bigger car So listen baby girl, I love you just the way you are, the way you are Oh baby, it's a no",
+        "avg_logprob": -0.14263392289479573
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "U5rLz5AZBIA",
+    "uploader": "Timbaland",
+    "audio_file": "corpus/01_music_videos_audio/audio/U5rLz5AZBIA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6774360,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.509176,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:06:54Z"
+  },
+  "status": "success",
+  "error": null
+}

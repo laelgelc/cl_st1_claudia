@@ -1,0 +1,91 @@
+{
+  "corpus_id": "IYH7_GzP4Tg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/IYH7_GzP4Tg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/IYH7_GzP4Tg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/IYH7_GzP4Tg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "All y'all scruples, y'all gots to go. We taking over this club tonight. Let's join these soft boys and yay, yay. Let's get this thing crumbed. And then I like to see them females twerking Don't disrespect him. I'll put a pop your thing like this. Cause you ain't twinning, it's B.I. Lil' Jordan and the Eastside boys with me. And we all like to see Tickle B's. So bring yourself over here, girl. And let me see you get low. If you want this, do it. Now take it to the floor. But if you want to act, you can keep yourself where you're at. Three, six, nine. Damn, I'm fine. I just sang it to me one more time. We'll see you next time. I got what? I got what? Yeah. Y'all ladies twerking a little bit out there. A little bit. But y'all gotta twerk a little harder than that. A little harder. Ladies, if you look good tonight, you need to see you break it down. Like this. Bend over to the front. Touch your toes. Ride the lines up and down and get low. Get low. Bend over to the front. Touch your toes. Ride the lines up and down and get low. Get low. Bend over to the front. Touch your toes. Ride the lines up and down and get low. Get low. Bend over to the front. One more time, bro. Get low, get low, get low, get low, get low, get low. To the window. To the window. To the wall. To the wall. To the wall. To the wall. To the wall.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 5.296,
+        "end": 24.82,
+        "text": " All y'all scruples, y'all gots to go. We taking over this club tonight. Let's join these soft boys and yay, yay. Let's get this thing crumbed.",
+        "avg_logprob": -0.26207385754043405
+      },
+      {
+        "id": 2,
+        "start": 55.752,
+        "end": 72.273,
+        "text": " And then I like to see them females twerking",
+        "avg_logprob": -0.4876302282015483
+      },
+      {
+        "id": 3,
+        "start": 75.749,
+        "end": 101.078,
+        "text": " Don't disrespect him. I'll put a pop your thing like this. Cause you ain't twinning, it's B.I. Lil' Jordan and the Eastside boys with me. And we all like to see Tickle B's. So bring yourself over here, girl. And let me see you get low. If you want this, do it. Now take it to the floor. But if you want to act, you can keep yourself where you're at. Three, six, nine. Damn, I'm fine. I just sang it to me one more time.",
+        "avg_logprob": -0.2416063980622725
+      },
+      {
+        "id": 4,
+        "start": 165.558,
+        "end": 169.81,
+        "text": " We'll see you next time.",
+        "avg_logprob": -0.6440429762005806
+      },
+      {
+        "id": 5,
+        "start": 190.887,
+        "end": 216.352,
+        "text": " I got what? I got what? Yeah. Y'all ladies twerking a little bit out there. A little bit. But y'all gotta twerk a little harder than that. A little harder. Ladies, if you look good tonight, you need to see you break it down. Like this. Bend over to the front. Touch your toes. Ride the lines up and down and get low. Get low. Bend over to the front. Touch your toes. Ride the lines up and down and get low. Get low. Bend over to the front. Touch your toes. Ride the lines up and down and get low. Get low. Bend over to the front.",
+        "avg_logprob": -0.11919642617659909
+      },
+      {
+        "id": 6,
+        "start": 222.494,
+        "end": 240.972,
+        "text": " One more time, bro. Get low, get low, get low, get low, get low, get low. To the window. To the window. To the wall. To the wall. To the wall. To the wall. To the wall.",
+        "avg_logprob": -0.2473466913655119
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "IYH7_GzP4Tg",
+    "uploader": "Radial by The Orchard",
+    "audio_file": "corpus/01_music_videos_audio/audio/IYH7_GzP4Tg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8620068,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.561525,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:11:36Z"
+  },
+  "status": "success",
+  "error": null
+}

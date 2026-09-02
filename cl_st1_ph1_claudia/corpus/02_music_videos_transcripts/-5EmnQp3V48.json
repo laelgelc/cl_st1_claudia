@@ -1,0 +1,91 @@
+{
+  "corpus_id": "-5EmnQp3V48",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/-5EmnQp3V48.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/-5EmnQp3V48.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/-5EmnQp3V48.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Shakin' right to my track, just lettin' it all hang out, she's a brat, house, like Lady Stack, that's a fact, ain't holdin' nothin' back, she's a brat, house, well, put together, everybody knows, this is how the story goes. What's up, G.U.? 36, 24, 36. I want a win in the hand because she's a big house. She might be my tag. I'm just letting it all hang out at you. Yeah, she's the one, the only one, built like an Amazon. The clothes she wear, her sexy ways, make an old man wish for younger days, yeah. She knows she's built and knows how to Ain't holding nothing back. Yeah, she's mighty mighty high. I just written it all, hang on. Big house. Yeah, she's the one, the only one, built like an algorithm, yeah. Shake it down, shake it down, shake it down now. Shake it down, shake it down, shake it down now. Shake it down, shake it down, shake it down now. Bye. Bye.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 23.757,
+        "end": 45.458,
+        "text": " Shakin' right to my track, just lettin' it all hang out, she's a brat, house, like Lady Stack, that's a fact, ain't holdin' nothin' back, she's a brat, house, well, put together, everybody knows, this is how the story goes.",
+        "avg_logprob": -0.1623798076923077
+      },
+      {
+        "id": 2,
+        "start": 56.832,
+        "end": 72.07,
+        "text": " What's up, G.U.? 36, 24, 36. I want a win in the hand because she's a big house. She might be my tag. I'm just letting it all hang out at you.",
+        "avg_logprob": -0.2824388541605162
+      },
+      {
+        "id": 3,
+        "start": 84.98,
+        "end": 102.04,
+        "text": " Yeah, she's the one, the only one, built like an Amazon. The clothes she wear, her sexy ways, make an old man wish for younger days, yeah. She knows she's built and knows how to",
+        "avg_logprob": -0.17408288691354834
+      },
+      {
+        "id": 4,
+        "start": 112.807,
+        "end": 124.788,
+        "text": " Ain't holding nothing back.",
+        "avg_logprob": -0.5597098384584699
+      },
+      {
+        "id": 5,
+        "start": 145.207,
+        "end": 166.958,
+        "text": " Yeah, she's mighty mighty high. I just written it all, hang on. Big house. Yeah, she's the one, the only one, built like an algorithm, yeah. Shake it down, shake it down, shake it down now. Shake it down, shake it down, shake it down now. Shake it down, shake it down, shake it down now.",
+        "avg_logprob": -0.21714743264974692
+      },
+      {
+        "id": 6,
+        "start": 169.169,
+        "end": 176.476,
+        "text": " Bye. Bye.",
+        "avg_logprob": -0.719140625
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "-5EmnQp3V48",
+    "uploader": "steelydan1979",
+    "audio_file": "corpus/01_music_videos_audio/audio/-5EmnQp3V48.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6142034,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.518685,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:13:36Z"
+  },
+  "status": "success",
+  "error": null
+}

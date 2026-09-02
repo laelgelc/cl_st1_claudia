@@ -1,0 +1,105 @@
+{
+  "corpus_id": "cJZ_ViDADOE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/cJZ_ViDADOE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/cJZ_ViDADOE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/cJZ_ViDADOE.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "It was the third of June, another sleepy dusty Delta day I was out chopping cotton and my brother was bailing hay And at dinner time we stopped and walked back to the house to eat And Mama hollered at the back door, y'all remember to wipe your feet. And then she said, I got some news this morning from Choctaw Ridge. Today, Billy Joe McAllister jumped off the Tallahassee. And Papa said to Mama as he passed around the black-eyed peas, Well, Billy Joe never had liquor since. Pass the biscuits, please. There's five more acres in the lower 40 I got to plow. And Mama said it was a shame about Billy Joe anyhow. Seems like nothing ever comes to no good up on Choctaw Ridge. And now Billy Joe McAllister's jumped off the Tallahatchie Bridge. Brother said he recollected when he and Tom and Billy Joe put a frog down my back at the Carroll County Picture Show. And wasn't I talking to him after church last Sunday night? I'll have another piece of apple pie, you know it don't seem right I saw him at the sawmill yesterday on Choctaw Ridge And now you tell me Billy Joe's jumped off the tower Mama said to me, child, what's happened to your appetite? I've been cooking all morning and you haven't touched a single bite. That nice young preacher, Brother Taylor, dropped by today. Said he'd be pleased to have dinner on Sunday. Oh, by the way. He said he saw a girl that looked a lot like you up on Choctaw Ridge And she and Billy Joe was throwing something off the Tallahatchie Bridge A year has come and gone since we heard the news about Billy Joe Brother married Becky Thompson, they bought a store in Tupelo There was a virus going round, Papa caught it and he died last spring. And now Mama doesn't seem to want to do much of anything. And me, I spend a lot of time picking flowers up on Choctaw Ridge. And drop them into the muddy water off the Tallahatchie Bridge.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 8.722,
+        "end": 31.823,
+        "text": " It was the third of June, another sleepy dusty Delta day I was out chopping cotton and my brother was bailing hay And at dinner time we stopped and walked back to the house to eat",
+        "avg_logprob": -0.12159455204621339
+      },
+      {
+        "id": 2,
+        "start": 33.14,
+        "end": 53.238,
+        "text": " And Mama hollered at the back door, y'all remember to wipe your feet. And then she said, I got some news this morning from Choctaw Ridge. Today, Billy Joe McAllister jumped off the Tallahassee.",
+        "avg_logprob": -0.11478365613864018
+      },
+      {
+        "id": 3,
+        "start": 57.963,
+        "end": 85.604,
+        "text": " And Papa said to Mama as he passed around the black-eyed peas, Well, Billy Joe never had liquor since. Pass the biscuits, please. There's five more acres in the lower 40 I got to plow. And Mama said it was a shame about Billy Joe anyhow.",
+        "avg_logprob": -0.09960937577074971
+      },
+      {
+        "id": 4,
+        "start": 88.979,
+        "end": 117.143,
+        "text": " Seems like nothing ever comes to no good up on Choctaw Ridge. And now Billy Joe McAllister's jumped off the Tallahatchie Bridge. Brother said he recollected when he and Tom and Billy Joe put a frog down my back at the Carroll County Picture Show.",
+        "avg_logprob": -0.044854526825506114
+      },
+      {
+        "id": 5,
+        "start": 120.333,
+        "end": 147.265,
+        "text": " And wasn't I talking to him after church last Sunday night? I'll have another piece of apple pie, you know it don't seem right I saw him at the sawmill yesterday on Choctaw Ridge And now you tell me Billy Joe's jumped off the tower",
+        "avg_logprob": -0.08970170617103576
+      },
+      {
+        "id": 6,
+        "start": 152.311,
+        "end": 181.083,
+        "text": " Mama said to me, child, what's happened to your appetite? I've been cooking all morning and you haven't touched a single bite. That nice young preacher, Brother Taylor, dropped by today. Said he'd be pleased to have dinner on Sunday. Oh, by the way.",
+        "avg_logprob": -0.06435381557981847
+      },
+      {
+        "id": 7,
+        "start": 183.833,
+        "end": 212.167,
+        "text": " He said he saw a girl that looked a lot like you up on Choctaw Ridge And she and Billy Joe was throwing something off the Tallahatchie Bridge A year has come and gone since we heard the news about Billy Joe Brother married Becky Thompson, they bought a store in Tupelo",
+        "avg_logprob": -0.052702354847407734
+      },
+      {
+        "id": 8,
+        "start": 214.782,
+        "end": 243.082,
+        "text": " There was a virus going round, Papa caught it and he died last spring. And now Mama doesn't seem to want to do much of anything. And me, I spend a lot of time picking flowers up on Choctaw Ridge. And drop them into the muddy water off the Tallahatchie Bridge.",
+        "avg_logprob": -0.06536865234375
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "cJZ_ViDADOE",
+    "uploader": "Bobbie Gentry",
+    "audio_file": "corpus/01_music_videos_audio/audio/cJZ_ViDADOE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8160128,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 42.100978,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:53:39Z"
+  },
+  "status": "success",
+  "error": null
+}

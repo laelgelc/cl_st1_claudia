@@ -1,0 +1,105 @@
+{
+  "corpus_id": "CduA0TULnow",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CduA0TULnow.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/CduA0TULnow.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/CduA0TULnow.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Earth to Mars lander report status, please. Mars lander here. Gravity device status effective. Oxygen status 98%. Any sign of habitation? Not so much as a... Whoa there, horsey. What the? Cute. What is it? Oh, it's cute, all right. It couldn't be... Mars Lander, what's happening up there? I made you believe We're more than just friends Oh baby, it might seem like a crime You see, my problem is this I'm dreaming away That is just so typically me Oh baby, oh Oops, I did it again I played with your heart Got lost in the game Oh baby, baby Don't you think I'm in love That I'm sent from above I'm not that innocent Britney, before you go, there's something I want you to have. Oh, it's beautiful. But wait a minute, isn't this? Yeah, yes it is. But I thought the old lady dropped it into the ocean in the air. Well, baby, I went down and got it for you. Oh, you shouldn't have. Oops, I did it again I played with your heart Got lost in the game Oh baby, baby Oops, you think I'm in love That I'm sent from above I'm not that innocent Oops, I did it again I played with your heart Got lost in the game I'm in love, and I'm sent from above I'm not that innocent",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.503,
+        "end": 28.448,
+        "text": " Earth to Mars lander report status, please. Mars lander here. Gravity device status effective. Oxygen status 98%. Any sign of habitation? Not so much as a... Whoa there, horsey. What the? Cute. What is it? Oh, it's cute, all right. It couldn't be...",
+        "avg_logprob": -0.13666044954043716
+      },
+      {
+        "id": 2,
+        "start": 33.443,
+        "end": 35.401,
+        "text": " Mars Lander, what's happening up there?",
+        "avg_logprob": -0.10671164501797069
+      },
+      {
+        "id": 3,
+        "start": 61.203,
+        "end": 71.277,
+        "text": " I made you believe We're more than just friends Oh baby, it might seem like a crime",
+        "avg_logprob": -0.20292969197034835
+      },
+      {
+        "id": 4,
+        "start": 90.717,
+        "end": 115.456,
+        "text": " You see, my problem is this I'm dreaming away",
+        "avg_logprob": -0.4778645783662796
+      },
+      {
+        "id": 5,
+        "start": 132.719,
+        "end": 159.753,
+        "text": " That is just so typically me Oh baby, oh Oops, I did it again I played with your heart Got lost in the game Oh baby, baby Don't you think I'm in love That I'm sent from above I'm not that innocent",
+        "avg_logprob": -0.1124999974668026
+      },
+      {
+        "id": 6,
+        "start": 172.375,
+        "end": 187.563,
+        "text": " Britney, before you go, there's something I want you to have. Oh, it's beautiful. But wait a minute, isn't this? Yeah, yes it is. But I thought the old lady dropped it into the ocean in the air. Well, baby, I went down and got it for you. Oh, you shouldn't have.",
+        "avg_logprob": -0.05604383546031184
+      },
+      {
+        "id": 7,
+        "start": 208.572,
+        "end": 236.888,
+        "text": " Oops, I did it again I played with your heart Got lost in the game Oh baby, baby Oops, you think I'm in love That I'm sent from above I'm not that innocent Oops, I did it again I played with your heart Got lost in the game",
+        "avg_logprob": -0.07080078324569124
+      },
+      {
+        "id": 8,
+        "start": 240.449,
+        "end": 249.038,
+        "text": " I'm in love, and I'm sent from above I'm not that innocent",
+        "avg_logprob": -0.19818474264705882
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "CduA0TULnow",
+    "uploader": "Britney Spears",
+    "audio_file": "corpus/01_music_videos_audio/audio/CduA0TULnow.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8076908,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.001325,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:14:34Z"
+  },
+  "status": "success",
+  "error": null
+}

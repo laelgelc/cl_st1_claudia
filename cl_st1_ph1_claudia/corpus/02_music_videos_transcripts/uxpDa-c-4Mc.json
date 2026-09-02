@@ -1,0 +1,119 @@
+{
+  "corpus_id": "uxpDa-c-4Mc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uxpDa-c-4Mc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/uxpDa-c-4Mc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/uxpDa-c-4Mc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I've played with feet before. I know you're the biggest. Yeah. I love feet. You know I like it. No, no. So? The toes, I'm not gonna touch. No. No. No me diga una cosa así. I would love to do that for you. Yeah, I really like sexy. Yeah, I really like sexy. You used to call me all night. You used to, you used to. You used to call me on my cell phone Late night when you need my love Call me on my cell phone Late night when you need my love And I know when that hotline bling Ever since I left the city, you Got a reputation for yourself now Everybody knows and I feel left out Girl, you got me down, you got me stressed out Cause ever since I left the city, you Started wearing less and going out more Glasses of champagne out on the dance floor Hanging with some girls I never seen before You used to call me on my cell phone Late night when you need my love Call me on my cell phone Late night when you need my love I know when that hotline bling That can only mean one thing I know when that hotline bling That can only mean one thing Ever since I left the city, you, you, you You and me, we just don't get along You make me feel like I did you wrong Go in places where you don't belong Ever since I left the city, you You got exactly what you asked for Running out of pages in your passport Hanging with some girls I've never seen before You used to call me on my cell phone Late night when you need my love Call me on my cell phone Late night when you need my love And I know when that hotline bling These days, all I do is wonder if you're bending over backwards for someone else. Wonder if you're rolling up backwards for someone else. Doing things I taught you getting nasty for someone else. You don't need no one else. You don't need nobody else. No. Why you never alone? Why you always touch and roll? Used to always stay at home, be a good girl. You was in the zone. Yeah, you should just be yourself Right now you're someone else You used to call me on my cell phone Late night when you need my love Call me on my cell phone Late night when you need my love And I know when that hotline bling Ever since I left the city. So what exactly do you want?",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 10,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 27.571,
+        "text": " I've played with feet before. I know you're the biggest. Yeah. I love feet. You know I like it. No, no. So? The toes, I'm not gonna touch. No. No. No me diga una cosa así. I would love to do that for you. Yeah, I really like sexy. Yeah, I really like sexy. You used to call me all night. You used to, you used to.",
+        "avg_logprob": -0.19674059332057994
+      },
+      {
+        "id": 2,
+        "start": 30.44,
+        "end": 49.441,
+        "text": " You used to call me on my cell phone Late night when you need my love Call me on my cell phone Late night when you need my love And I know when that hotline bling",
+        "avg_logprob": -0.08829126678980313
+      },
+      {
+        "id": 3,
+        "start": 59.482,
+        "end": 88.945,
+        "text": " Ever since I left the city, you Got a reputation for yourself now Everybody knows and I feel left out Girl, you got me down, you got me stressed out Cause ever since I left the city, you Started wearing less and going out more Glasses of champagne out on the dance floor Hanging with some girls I never seen before",
+        "avg_logprob": -0.08099724571494495
+      },
+      {
+        "id": 4,
+        "start": 89.722,
+        "end": 117.43,
+        "text": " You used to call me on my cell phone Late night when you need my love Call me on my cell phone Late night when you need my love I know when that hotline bling That can only mean one thing I know when that hotline bling That can only mean one thing",
+        "avg_logprob": -0.04707704722110567
+      },
+      {
+        "id": 5,
+        "start": 117.953,
+        "end": 145.983,
+        "text": " Ever since I left the city, you, you, you You and me, we just don't get along You make me feel like I did you wrong Go in places where you don't belong Ever since I left the city, you You got exactly what you asked for Running out of pages in your passport Hanging with some girls I've never seen before",
+        "avg_logprob": -0.05485025860576166
+      },
+      {
+        "id": 6,
+        "start": 146.607,
+        "end": 163.381,
+        "text": " You used to call me on my cell phone Late night when you need my love Call me on my cell phone Late night when you need my love And I know when that hotline bling",
+        "avg_logprob": -0.0748197092459752
+      },
+      {
+        "id": 7,
+        "start": 174.839,
+        "end": 199.004,
+        "text": " These days, all I do is wonder if you're bending over backwards for someone else. Wonder if you're rolling up backwards for someone else. Doing things I taught you getting nasty for someone else. You don't need no one else. You don't need nobody else. No. Why you never alone? Why you always touch and roll? Used to always stay at home, be a good girl. You was in the zone.",
+        "avg_logprob": -0.05837180406193842
+      },
+      {
+        "id": 8,
+        "start": 199.308,
+        "end": 220.216,
+        "text": " Yeah, you should just be yourself Right now you're someone else You used to call me on my cell phone Late night when you need my love Call me on my cell phone Late night when you need my love And I know when that hotline bling",
+        "avg_logprob": -0.07880108502621834
+      },
+      {
+        "id": 9,
+        "start": 230.003,
+        "end": 233.902,
+        "text": " Ever since I left the city.",
+        "avg_logprob": -0.3220214881002903
+      },
+      {
+        "id": 10,
+        "start": 291.867,
+        "end": 295.613,
+        "text": " So what exactly do you want?",
+        "avg_logprob": -0.4560546949505806
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "uxpDa-c-4Mc",
+    "uploader": "Drake",
+    "audio_file": "corpus/01_music_videos_audio/audio/uxpDa-c-4Mc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9458960,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.922675,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:20:45Z"
+  },
+  "status": "success",
+  "error": null
+}

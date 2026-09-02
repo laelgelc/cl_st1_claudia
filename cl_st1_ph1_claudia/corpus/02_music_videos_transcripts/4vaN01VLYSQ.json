@@ -1,0 +1,98 @@
+{
+  "corpus_id": "4vaN01VLYSQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4vaN01VLYSQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/4vaN01VLYSQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/4vaN01VLYSQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "That sounds sexy. Here I go, here I go, here I go again. Girls, what's my weakness? Men! OK, then. Chillin', chillin', mindin' my business. You'll see I looked around and I couldn't believe this. I swear, I stand, my niece my witness. The brother had it going on with something kind of wicked, wicked. Had to kick. I'm not shy, so I ask for the digits I hope no fat don't make me see what I want Slip-slide to it swiftly, felt it in my hips So I dip back to my bag of tricks Then I flip for a tip, made me wanna do tricks on em Lick em like a lollipop should be lit Came to my senses and I chill for a bit Don't know how you do the voodoo that you do so well It's a spell, hell, makes me wanna shoot, shoot, shoot, shoot in your stack especially in the back brother wanna thank your mother for a butt like that can i get some fries with that shake shake boobie if looks could kill you would be an easy or a shotgun bang what's up with that thing i wanna know how does it hang straight up wait up hold up mr lover like prince said you're a sexy mother well i like them real wild b-boy South by the mile, smooth black gin with a smile. Bright as the sun, I want to have some fun. Come and get me some of that yum yum chocolate chip honey dip. Can I get a scoop? Baby, take a ride in my coupe. You make me want to. Well, let me bring you back to the subject. Peps on the set, make you get hot, make you work up a sweat. When you skip to Malou, my darling, not falling in love. Hmm, when I get drunk, bet your bottom dollar you are best under pressure. Yo, Sandy, I want to, like, taste you. Get you, get your lips wet, cause it's time to have pep. On your mark, get set, go. Let me go, let me shoot to the next man in a three-piece suit. I spend all my dough, rainy cutie. Shoot, shoot, ba-doobie, like Scooby-Dooby-Doo. I love you in your big jeans. You give me nice dreams. You make me want to scream, ooh, ooh, ooh. I like what you do, when you do, what you do. You make me want to shoot. I hit the skins for the hell of it Just for the yell I get For the smell of it You want my bar, here's the hot rod 12 inches to a yard and have you sounding like a Big 12 of a 6'2 wanna hit you What you wanna do?",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 21.074,
+        "end": 40.379,
+        "text": " That sounds sexy. Here I go, here I go, here I go again. Girls, what's my weakness? Men! OK, then. Chillin', chillin', mindin' my business. You'll see I looked around and I couldn't believe this. I swear, I stand, my niece my witness. The brother had it going on with something kind of wicked, wicked. Had to kick.",
+        "avg_logprob": -0.25624999439015106
+      },
+      {
+        "id": 2,
+        "start": 40.379,
+        "end": 63.785,
+        "text": " I'm not shy, so I ask for the digits I hope no fat don't make me see what I want Slip-slide to it swiftly, felt it in my hips So I dip back to my bag of tricks Then I flip for a tip, made me wanna do tricks on em Lick em like a lollipop should be lit Came to my senses and I chill for a bit Don't know how you do the voodoo that you do so well It's a spell, hell, makes me wanna shoot, shoot, shoot, shoot",
+        "avg_logprob": -0.1544836972070777
+      },
+      {
+        "id": 3,
+        "start": 73.235,
+        "end": 94.514,
+        "text": " in your stack especially in the back brother wanna thank your mother for a butt like that can i get some fries with that shake shake boobie if looks could kill you would be an easy or a shotgun bang what's up with that thing i wanna know how does it hang straight up wait up hold up mr lover like prince said you're a sexy mother well i like them real wild b-boy",
+        "avg_logprob": -0.12712191652368615
+      },
+      {
+        "id": 4,
+        "start": 94.514,
+        "end": 108.2,
+        "text": " South by the mile, smooth black gin with a smile. Bright as the sun, I want to have some fun. Come and get me some of that yum yum chocolate chip honey dip. Can I get a scoop? Baby, take a ride in my coupe. You make me want to.",
+        "avg_logprob": -0.16380209053556125
+      },
+      {
+        "id": 5,
+        "start": 126.897,
+        "end": 136.28,
+        "text": " Well, let me bring you back to the subject. Peps on the set, make you get hot, make you work up a sweat. When you skip to Malou, my darling, not falling in love.",
+        "avg_logprob": -0.23697917196485732
+      },
+      {
+        "id": 6,
+        "start": 138.608,
+        "end": 167.583,
+        "text": " Hmm, when I get drunk, bet your bottom dollar you are best under pressure. Yo, Sandy, I want to, like, taste you. Get you, get your lips wet, cause it's time to have pep. On your mark, get set, go. Let me go, let me shoot to the next man in a three-piece suit. I spend all my dough, rainy cutie. Shoot, shoot, ba-doobie, like Scooby-Dooby-Doo. I love you in your big jeans. You give me nice dreams. You make me want to scream, ooh, ooh, ooh. I like what you do, when you do, what you do. You make me want to shoot.",
+        "avg_logprob": -0.14052287270041072
+      },
+      {
+        "id": 7,
+        "start": 185.977,
+        "end": 206.733,
+        "text": " I hit the skins for the hell of it Just for the yell I get For the smell of it You want my bar, here's the hot rod 12 inches to a yard and have you sounding like a Big 12 of a 6'2 wanna hit you What you wanna do?",
+        "avg_logprob": -0.260142539676867
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "4vaN01VLYSQ",
+    "uploader": "Salt-N-Pepa",
+    "audio_file": "corpus/01_music_videos_audio/audio/4vaN01VLYSQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7756658,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.326784,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:15:32Z"
+  },
+  "status": "success",
+  "error": null
+}

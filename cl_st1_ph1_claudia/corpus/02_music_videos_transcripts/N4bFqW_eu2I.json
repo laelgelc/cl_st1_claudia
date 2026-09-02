@@ -1,0 +1,98 @@
+{
+  "corpus_id": "N4bFqW_eu2I",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/N4bFqW_eu2I.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/N4bFqW_eu2I.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/N4bFqW_eu2I.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "There is a house in New Orleans They call the rising sun And it's been the ruin of many a poor world And God, I know I've won She sold my new blue jeans My pa was a gambling man Down in New Orleans And the only time he's satisfied is when he's on a drum. Oh mother, tell your children Not to do what I have done Spend your lives in sin and misery In the house of the rising sun Well, I got one foot on the platform The other foot on the train back to New Orleans to wear that ball and tape. Well, there is a house in New Orleans because And it's been the work of many a poor boy And God, I know I'm wrong",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 12.08,
+        "end": 34.186,
+        "text": " There is a house in New Orleans They call the rising sun And it's been the ruin of many a poor world And God, I know I've won",
+        "avg_logprob": -0.17346191825345159
+      },
+      {
+        "id": 2,
+        "start": 46.893,
+        "end": 65.708,
+        "text": " She sold my new blue jeans My pa was a gambling man Down in New Orleans",
+        "avg_logprob": -0.39338235294117646
+      },
+      {
+        "id": 3,
+        "start": 80.913,
+        "end": 97.687,
+        "text": " And the only time he's satisfied is when he's on a drum.",
+        "avg_logprob": -0.24890136905014515
+      },
+      {
+        "id": 4,
+        "start": 125.345,
+        "end": 149.915,
+        "text": " Oh mother, tell your children Not to do what I have done",
+        "avg_logprob": -0.18833705250705993
+      },
+      {
+        "id": 5,
+        "start": 151.653,
+        "end": 181.606,
+        "text": " Spend your lives in sin and misery In the house of the rising sun Well, I got one foot on the platform The other foot on the train",
+        "avg_logprob": -0.09330896840941522
+      },
+      {
+        "id": 6,
+        "start": 184.964,
+        "end": 209.922,
+        "text": " back to New Orleans to wear that ball and tape. Well, there is a house in New Orleans because",
+        "avg_logprob": -0.30450993369926105
+      },
+      {
+        "id": 7,
+        "start": 211.711,
+        "end": 223.557,
+        "text": " And it's been the work of many a poor boy And God, I know I'm wrong",
+        "avg_logprob": -0.38261718600988387
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "N4bFqW_eu2I",
+    "uploader": "Timeless Music",
+    "audio_file": "corpus/01_music_videos_audio/audio/N4bFqW_eu2I.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8325082,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 11.286603,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:01:41Z"
+  },
+  "status": "success",
+  "error": null
+}

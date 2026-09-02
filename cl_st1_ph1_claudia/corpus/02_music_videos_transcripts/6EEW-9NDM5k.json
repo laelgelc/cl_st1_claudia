@@ -1,0 +1,105 @@
+{
+  "corpus_id": "6EEW-9NDM5k",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/6EEW-9NDM5k.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/6EEW-9NDM5k.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/6EEW-9NDM5k.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I'm still only I have nobody for my Lonely, I'm still lonely. Yo, Akon. What up, D? You coming to what, man? I got a lot on my mind. I'm going to let y'all go ahead, man. All right. Come on. All right. All right. Let's do it. Lonely, I have nobody for my own. This one here goes out to all my players out there, man, you know, that got that one good girl, dog, that's always been there, man, like, took all the bullshit, but then one day she can't take it no more and decide to leave. I woke up in the middle of the night and I noticed my girl wasn't by my side. Could have sworn I was dreaming, for her I was fainting, so I had to take a little ride. Backtracking on these few years, trying to figure out what I do to make it go bad. Cause ever since my girl left me, my whole life came crashing and I'm so, so lonely. Can't believe I had a girl like you and I just let you walk right out of my life. After all I put you through, you still stuck around and stayed by my side. What really hurt me is I broke your heart, baby, you were good girl and I had no right. I really wanna make things right, cause without you in my life, girl, I'm so out. Been all over the world, ain't never met a girl that could take the things that you've been through. Never thought the day would come where you would get up and run and I would be out chasing you. Cause ain't nowhere in the globe I'd rather be, ain't no one in the globe I'd rather see, than the girl of my dreams that made me be so happy but now so lonely. We'll be right back. Mr. Lonely.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.87,
+        "end": 21.158,
+        "text": " I'm still only I have nobody for my",
+        "avg_logprob": -0.867968738079071
+      },
+      {
+        "id": 2,
+        "start": 23.926,
+        "end": 42.691,
+        "text": " Lonely, I'm still lonely. Yo, Akon. What up, D? You coming to what, man? I got a lot on my mind. I'm going to let y'all go ahead, man. All right. Come on. All right. All right. Let's do it. Lonely, I have nobody for my own.",
+        "avg_logprob": -0.12236064551649867
+      },
+      {
+        "id": 3,
+        "start": 50.183,
+        "end": 64.797,
+        "text": " This one here goes out to all my players out there, man, you know, that got that one good girl, dog, that's always been there, man, like, took all the bullshit, but then one day she can't take it no more and decide to leave.",
+        "avg_logprob": -0.0955010793846229
+      },
+      {
+        "id": 4,
+        "start": 66.721,
+        "end": 89.452,
+        "text": " I woke up in the middle of the night and I noticed my girl wasn't by my side. Could have sworn I was dreaming, for her I was fainting, so I had to take a little ride. Backtracking on these few years, trying to figure out what I do to make it go bad. Cause ever since my girl left me, my whole life came crashing and I'm so, so lonely.",
+        "avg_logprob": -0.05127514419199406
+      },
+      {
+        "id": 5,
+        "start": 109.482,
+        "end": 131.15,
+        "text": " Can't believe I had a girl like you and I just let you walk right out of my life. After all I put you through, you still stuck around and stayed by my side. What really hurt me is I broke your heart, baby, you were good girl and I had no right. I really wanna make things right, cause without you in my life, girl, I'm so out.",
+        "avg_logprob": -0.07598132830930919
+      },
+      {
+        "id": 6,
+        "start": 152.041,
+        "end": 173.438,
+        "text": " Been all over the world, ain't never met a girl that could take the things that you've been through. Never thought the day would come where you would get up and run and I would be out chasing you. Cause ain't nowhere in the globe I'd rather be, ain't no one in the globe I'd rather see, than the girl of my dreams that made me be so happy but now so lonely.",
+        "avg_logprob": -0.06776889222998951
+      },
+      {
+        "id": 7,
+        "start": 194.971,
+        "end": 211.103,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.5276227508272443
+      },
+      {
+        "id": 8,
+        "start": 238.357,
+        "end": 258.269,
+        "text": " Mr. Lonely.",
+        "avg_logprob": -0.2835286408662796
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "6EEW-9NDM5k",
+    "uploader": "Akon",
+    "audio_file": "corpus/01_music_videos_audio/audio/6EEW-9NDM5k.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8418706,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.850986,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:11:19Z"
+  },
+  "status": "success",
+  "error": null
+}

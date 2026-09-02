@@ -1,0 +1,105 @@
+{
+  "corpus_id": "p2Rch6WvPJE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/p2Rch6WvPJE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/p2Rch6WvPJE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/p2Rch6WvPJE.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Don't leave me in all this pain Don't leave me out in the rain Come back and bring back my smile Come and take these tears away I need your arms to hold me now Bring back those nights when I held you beside me Unbreak my heart Say you love me again Undo this hurt you caused when you walked out the door And walked out on my life Uncry these tears Unbreak my heart My heart Take back that sad word goodbye Bring back the joy to my life Don't leave me here with these tears Come and kiss this pain away Life is so cruel without you here beside me Unbreak my heart, say you love me again Undo this hurt you caused when you walked out the door and walked out of my life these tears I cried so many nights unbreak my heart Don't leave me in all this pain Don't leave me out in the rain Bring back the nights when I held you beside me One break my heart Say you love me again Undo this hurt you caught when you walked out I cry these tears I cry so many, many nights Unbring my, unbring my heart Oh baby, come back and say you love me Unbring my heart, sweet darling Without you I just can't go Save your life. Save your life. Save your life.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 15.725,
+        "end": 40.396,
+        "text": " Don't leave me in all this pain Don't leave me out in the rain Come back and bring back my smile Come and take these tears away I need your arms to hold me now",
+        "avg_logprob": -0.052837169484088294
+      },
+      {
+        "id": 2,
+        "start": 47.315,
+        "end": 72.458,
+        "text": " Bring back those nights when I held you beside me Unbreak my heart Say you love me again Undo this hurt you caused when you walked out the door And walked out on my life Uncry these tears",
+        "avg_logprob": -0.11904762188593547
+      },
+      {
+        "id": 3,
+        "start": 78.989,
+        "end": 106.597,
+        "text": " Unbreak my heart My heart Take back that sad word goodbye Bring back the joy to my life Don't leave me here with these tears Come and kiss this pain away",
+        "avg_logprob": -0.10357307051034535
+      },
+      {
+        "id": 4,
+        "start": 117.127,
+        "end": 139.013,
+        "text": " Life is so cruel without you here beside me Unbreak my heart, say you love me again Undo this hurt you caused when you walked out the door and walked out of my life",
+        "avg_logprob": -0.1055715425234092
+      },
+      {
+        "id": 5,
+        "start": 141.376,
+        "end": 153.442,
+        "text": " these tears I cried so many nights unbreak my heart",
+        "avg_logprob": -0.1529947891831398
+      },
+      {
+        "id": 6,
+        "start": 176.054,
+        "end": 203.746,
+        "text": " Don't leave me in all this pain Don't leave me out in the rain Bring back the nights when I held you beside me One break my heart Say you love me again Undo this hurt you caught when you walked out",
+        "avg_logprob": -0.07854959158145863
+      },
+      {
+        "id": 7,
+        "start": 206.918,
+        "end": 236.737,
+        "text": " I cry these tears I cry so many, many nights Unbring my, unbring my heart Oh baby, come back and say you love me Unbring my heart, sweet darling Without you I just can't go",
+        "avg_logprob": -0.16663896086368155
+      },
+      {
+        "id": 8,
+        "start": 253.493,
+        "end": 267.635,
+        "text": " Save your life. Save your life. Save your life.",
+        "avg_logprob": -0.5997595970447247
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "p2Rch6WvPJE",
+    "uploader": "Toni Braxton",
+    "audio_file": "corpus/01_music_videos_audio/audio/p2Rch6WvPJE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8741184,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.226815,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:05:17Z"
+  },
+  "status": "success",
+  "error": null
+}

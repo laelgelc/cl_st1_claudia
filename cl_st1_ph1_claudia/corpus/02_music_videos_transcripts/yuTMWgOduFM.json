@@ -1,0 +1,98 @@
+{
+  "corpus_id": "yuTMWgOduFM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yuTMWgOduFM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/yuTMWgOduFM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/yuTMWgOduFM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "thirst for knowledge. She studied sculpture at St. Martin's College. That's where I caught her eye. She told me that her dad was loaded. I said, in that case, I'm not full of Coca-Cola. She said, fine. And then in thirty seconds time she said I wanna live like common people I wanna do whatever common people do Wanna sleep with common people I wanna sleep with common people like you What else could I do? I said, oh, I'll see what I can do I took her to a supermarket. I don't know why, but I had to start it somewhere. So it started there. I said, pretend you've got no money. And she just left and said, are you so funny? I said, yeah. I can't see anyone else smiling. Are you sure? You want to live like common people. You want to see whatever common people see. Want to sleep with common people. You want to sleep with common people like me. But she didn't understand. She just smiled and held my hand. I went to class above the shop Cut your hair and get a job I smoked some facts and played some fool Pretend you never went to school Still you'll never get it right You're laying in bed at night Watching roaches climb the wall If you called your dad he could stop it, oh yeah You'll never live like common people You'll never do whatever common people do You'll never fail like common people You'll never watch your life slide out of view And then dance and drink Because there's nothing else to do I'm looking at you and the stupid things that you do Because you think that the world is good I wanna live with common people like you I wanna live with common people like you I wanna live with common people like you I wanna live with common people like you I wanna live with",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 9.025,
+        "end": 28.988,
+        "text": " thirst for knowledge. She studied sculpture at St. Martin's College. That's where I caught her eye. She told me that her dad was loaded. I said, in that case, I'm not full of Coca-Cola. She said, fine.",
+        "avg_logprob": -0.18352005279289102
+      },
+      {
+        "id": 2,
+        "start": 29.832,
+        "end": 56.478,
+        "text": " And then in thirty seconds time she said I wanna live like common people I wanna do whatever common people do Wanna sleep with common people I wanna sleep with common people like you What else could I do? I said, oh, I'll see what I can do",
+        "avg_logprob": -0.11416568452457213
+      },
+      {
+        "id": 3,
+        "start": 60.055,
+        "end": 85.688,
+        "text": " I took her to a supermarket. I don't know why, but I had to start it somewhere. So it started there. I said, pretend you've got no money. And she just left and said, are you so funny? I said, yeah. I can't see anyone else smiling. Are you sure?",
+        "avg_logprob": -0.08564156847018184
+      },
+      {
+        "id": 4,
+        "start": 86.498,
+        "end": 107.12,
+        "text": " You want to live like common people. You want to see whatever common people see. Want to sleep with common people. You want to sleep with common people like me. But she didn't understand. She just smiled and held my hand.",
+        "avg_logprob": -0.07748724489795919
+      },
+      {
+        "id": 5,
+        "start": 108.841,
+        "end": 125.48,
+        "text": " I went to class above the shop Cut your hair and get a job I smoked some facts and played some fool Pretend you never went to school Still you'll never get it right",
+        "avg_logprob": -0.2666807335776252
+      },
+      {
+        "id": 6,
+        "start": 125.48,
+        "end": 154.994,
+        "text": " You're laying in bed at night Watching roaches climb the wall If you called your dad he could stop it, oh yeah You'll never live like common people You'll never do whatever common people do You'll never fail like common people You'll never watch your life slide out of view And then dance and drink Because there's nothing else to do",
+        "avg_logprob": -0.13962052996669497
+      },
+      {
+        "id": 7,
+        "start": 195.038,
+        "end": 222.292,
+        "text": " I'm looking at you and the stupid things that you do Because you think that the world is good I wanna live with common people like you I wanna live with common people like you I wanna live with common people like you I wanna live with common people like you I wanna live with",
+        "avg_logprob": -0.20230263576172947
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "yuTMWgOduFM",
+    "uploader": "Pulp",
+    "audio_file": "corpus/01_music_videos_audio/audio/yuTMWgOduFM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7838392,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.211247,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:03:42Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,98 @@
+{
+  "corpus_id": "HgzGwKwLmgM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/HgzGwKwLmgM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/HgzGwKwLmgM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/HgzGwKwLmgM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I'm gonna have myself a real good time. I feel alive. And the world, I'm drowning inside out. I'm floating around in ecstasy. So don't Don't stop me, cause I'm having a good time, having a good time. I'm a shooting star leaping through the sky like a tiger defying the laws of gravity. I'm a racing car passing by like Lady Godiva. I'm gonna go, go, go, there's no stopping me. I'm burning through the sky. 200 degrees just while they call me Mr. Fahrenheit I'm traveling at the speed of light I wanna make a supersonic man out of you Don't stop me now I'm having such a good time I'm having a ball Don't stop me now Don't stop me now If you wanna have a good time Just give me a call Don't stop me now Cause I'm having a good time Don't stop me now Yeah, I'm having a good time I don't wanna stop at all I'm a rocket ship on my way to Mars On a collision course I am a satellite I'm out of control I'm a sex machine ready to reload Like an atom bomb 200 degrees, that's why they call me Mr. Fahrenheit I'm traveling at the speed of light I'm gonna make a supersonic woman of you Don't stop me, don't stop me, don't stop me Don't stop me, don't stop me, ooh, ooh, ooh Don't stop me, don't stop me, have a good time, good time Don't stop me, don't stop me, ooh When did you freeze? That's why they call me Mr. Fire and Pie. I'm traveling at the speed of light. I wanna make a supersonic man out of you. Don't stop me now. I'm having such a good time. I'm having a ball. Don't stop me now. If you want to have a good time, just give me a call. Don't stop me now. Cause I'm having a good time. Don't stop me now. Yes, I'm having a good time. I don't want to stop at all.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.533,
+        "end": 26.407,
+        "text": " I'm gonna have myself a real good time. I feel alive. And the world, I'm drowning inside out. I'm floating around in ecstasy. So don't",
+        "avg_logprob": -0.14073057754619703
+      },
+      {
+        "id": 2,
+        "start": 30.625,
+        "end": 54.655,
+        "text": " Don't stop me, cause I'm having a good time, having a good time. I'm a shooting star leaping through the sky like a tiger defying the laws of gravity. I'm a racing car passing by like Lady Godiva. I'm gonna go, go, go, there's no stopping me. I'm burning through the sky.",
+        "avg_logprob": -0.06490795906275919
+      },
+      {
+        "id": 3,
+        "start": 55.752,
+        "end": 73.606,
+        "text": " 200 degrees just while they call me Mr. Fahrenheit I'm traveling at the speed of light I wanna make a supersonic man out of you Don't stop me now I'm having such a good time I'm having a ball Don't stop me now",
+        "avg_logprob": -0.10998774246842254
+      },
+      {
+        "id": 4,
+        "start": 73.606,
+        "end": 101.028,
+        "text": " Don't stop me now If you wanna have a good time Just give me a call Don't stop me now Cause I'm having a good time Don't stop me now Yeah, I'm having a good time I don't wanna stop at all I'm a rocket ship on my way to Mars On a collision course I am a satellite I'm out of control I'm a sex machine ready to reload Like an atom bomb",
+        "avg_logprob": -0.09191176751080682
+      },
+      {
+        "id": 5,
+        "start": 108.723,
+        "end": 132.432,
+        "text": " 200 degrees, that's why they call me Mr. Fahrenheit I'm traveling at the speed of light I'm gonna make a supersonic woman of you Don't stop me, don't stop me, don't stop me Don't stop me, don't stop me, ooh, ooh, ooh Don't stop me, don't stop me, have a good time, good time Don't stop me, don't stop me, ooh",
+        "avg_logprob": -0.062322446229782974
+      },
+      {
+        "id": 6,
+        "start": 153.779,
+        "end": 163.482,
+        "text": " When did you freeze? That's why they call me Mr. Fire and Pie. I'm traveling at the speed of light. I wanna make a supersonic man out of you.",
+        "avg_logprob": -0.3090049232307233
+      },
+      {
+        "id": 7,
+        "start": 165.305,
+        "end": 184.981,
+        "text": " Don't stop me now. I'm having such a good time. I'm having a ball. Don't stop me now. If you want to have a good time, just give me a call. Don't stop me now. Cause I'm having a good time. Don't stop me now. Yes, I'm having a good time. I don't want to stop at all.",
+        "avg_logprob": -0.04755859388969839
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "HgzGwKwLmgM",
+    "uploader": "Queen Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/HgzGwKwLmgM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6782534,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.756459,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:52:56Z"
+  },
+  "status": "success",
+  "error": null
+}

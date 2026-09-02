@@ -1,0 +1,84 @@
+{
+  "corpus_id": "jenWdylTtzs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/jenWdylTtzs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/jenWdylTtzs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/jenWdylTtzs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Oh yeah, I'll tell you something I think you'll understand When I say that something I wanna hold your hand I wanna hold your hand I wanna hold your hand Oh please, say to me You'll let me be your man And please, take to me You let me hold your hand You let me hold your hand I wanna hold your hand And when I touch you I feel happy inside I can't hide if you've got that something I think you'll understand when I say that something I wanna hold your hand, I wanna hold your hand I wanna hold your hand And when I touch you I feel happy inside It's such a feeling that my love I can't hide I can't hide I can't hide in you Cause that's something I think you'll understand When I say that's something I wanna understand",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 7.405,
+        "end": 36.599,
+        "text": " Oh yeah, I'll tell you something I think you'll understand When I say that something I wanna hold your hand I wanna hold your hand I wanna hold your hand Oh please, say to me You'll let me be your man",
+        "avg_logprob": -0.09765624904886205
+      },
+      {
+        "id": 2,
+        "start": 37.088,
+        "end": 58.857,
+        "text": " And please, take to me You let me hold your hand You let me hold your hand I wanna hold your hand And when I touch you I feel happy inside",
+        "avg_logprob": -0.15411931818181818
+      },
+      {
+        "id": 3,
+        "start": 68.543,
+        "end": 91.038,
+        "text": " I can't hide if you've got that something I think you'll understand when I say that something I wanna hold your hand, I wanna hold your hand",
+        "avg_logprob": -0.2156982421875
+      },
+      {
+        "id": 4,
+        "start": 91.358,
+        "end": 116.232,
+        "text": " I wanna hold your hand And when I touch you I feel happy inside It's such a feeling that my love I can't hide I can't hide I can't hide in you",
+        "avg_logprob": -0.12605574807605227
+      },
+      {
+        "id": 5,
+        "start": 116.705,
+        "end": 127.589,
+        "text": " Cause that's something I think you'll understand When I say that's something I wanna understand",
+        "avg_logprob": -0.31106086153733103
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "jenWdylTtzs",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/jenWdylTtzs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5012616,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.773265,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:22:56Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,91 @@
+{
+  "corpus_id": "JxPj3GAYYZ0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/JxPj3GAYYZ0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/JxPj3GAYYZ0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/JxPj3GAYYZ0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Would you know my name If I saw you in heaven Would it be the same If I saw you in heaven I must be strong Would you hold my hand If I saw you in heaven Would you help me stand I'll find my way Time can bend your knees Time can break your heart Have your bed and please If I saw you in heaven Would you be the same? If I saw you in heaven Because I know I don't belong.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 13.75,
+        "end": 42.303,
+        "text": " Would you know my name If I saw you in heaven Would it be the same If I saw you in heaven I must be strong",
+        "avg_logprob": -0.1166087962962963
+      },
+      {
+        "id": 2,
+        "start": 61.186,
+        "end": 84.845,
+        "text": " Would you hold my hand If I saw you in heaven Would you help me stand",
+        "avg_logprob": -0.10575597426470588
+      },
+      {
+        "id": 3,
+        "start": 95.543,
+        "end": 98.058,
+        "text": " I'll find my way",
+        "avg_logprob": -0.4957682391007741
+      },
+      {
+        "id": 4,
+        "start": 128.281,
+        "end": 144.835,
+        "text": " Time can bend your knees Time can break your heart Have your bed and please",
+        "avg_logprob": -0.28710938058793545
+      },
+      {
+        "id": 5,
+        "start": 208.876,
+        "end": 227.438,
+        "text": " If I saw you in heaven Would you be the same? If I saw you in heaven",
+        "avg_logprob": -0.31805098056793213
+      },
+      {
+        "id": 6,
+        "start": 242.947,
+        "end": 247.705,
+        "text": " Because I know I don't belong.",
+        "avg_logprob": -0.13671875
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "JxPj3GAYYZ0",
+    "uploader": "Epitaph",
+    "audio_file": "corpus/01_music_videos_audio/audio/JxPj3GAYYZ0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8796912,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.448898,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:39Z"
+  },
+  "status": "success",
+  "error": null
+}

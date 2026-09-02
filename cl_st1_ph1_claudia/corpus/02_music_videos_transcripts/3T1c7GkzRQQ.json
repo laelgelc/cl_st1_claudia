@@ -1,0 +1,70 @@
+{
+  "corpus_id": "3T1c7GkzRQQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/3T1c7GkzRQQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/3T1c7GkzRQQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/3T1c7GkzRQQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You don't have to sell your body to the night Roxanne You don't have to wear that dress tonight Walk the streets for money You don't care if it's wrong or if it's right I know Rock and roll.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 29.107,
+        "end": 48.158,
+        "text": " You don't have to sell your body to the night Roxanne You don't have to wear that dress tonight Walk the streets for money You don't care if it's wrong or if it's right",
+        "avg_logprob": -0.10584984610720378
+      },
+      {
+        "id": 2,
+        "start": 103.306,
+        "end": 107.457,
+        "text": " I know",
+        "avg_logprob": -1.1796875
+      },
+      {
+        "id": 3,
+        "start": 182.011,
+        "end": 184.323,
+        "text": " Rock and roll.",
+        "avg_logprob": -0.8265625
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "3T1c7GkzRQQ",
+    "uploader": "The Police",
+    "audio_file": "corpus/01_music_videos_audio/audio/3T1c7GkzRQQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6074418,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.205611,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:55:48Z"
+  },
+  "status": "success",
+  "error": null
+}

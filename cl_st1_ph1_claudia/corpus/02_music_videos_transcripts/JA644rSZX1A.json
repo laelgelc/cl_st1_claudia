@@ -1,0 +1,84 @@
+{
+  "corpus_id": "JA644rSZX1A",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/JA644rSZX1A.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/JA644rSZX1A.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/JA644rSZX1A.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "When we kissed goodbye and part I knew we'd never meet again Love is like dying ember And only memories remain And through the ages I'll remember Blue eyes crying in the rain It's that man, ain't it? Yes. What's he doing? He's plowing. Someday when we meet up yonder We'll stroll hand in hand again In a land with no snow party Blue eyes crying in the rain Get up. Get up.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 8.62,
+        "end": 34.692,
+        "text": " When we kissed goodbye and part I knew we'd never meet again",
+        "avg_logprob": -0.22042410394975118
+      },
+      {
+        "id": 2,
+        "start": 39.383,
+        "end": 67.008,
+        "text": " Love is like dying ember And only memories remain And through the ages I'll remember Blue eyes crying in the rain",
+        "avg_logprob": -0.21191406374176344
+      },
+      {
+        "id": 3,
+        "start": 69.353,
+        "end": 91.898,
+        "text": " It's that man, ain't it? Yes. What's he doing? He's plowing.",
+        "avg_logprob": -0.08651456033641641
+      },
+      {
+        "id": 4,
+        "start": 103.306,
+        "end": 131.521,
+        "text": " Someday when we meet up yonder We'll stroll hand in hand again In a land with no snow party Blue eyes crying in the rain",
+        "avg_logprob": -0.2033943903857264
+      },
+      {
+        "id": 5,
+        "start": 181.184,
+        "end": 183.108,
+        "text": " Get up. Get up.",
+        "avg_logprob": -0.3490513392857143
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "JA644rSZX1A",
+    "uploader": "Willie Nelson",
+    "audio_file": "corpus/01_music_videos_audio/audio/JA644rSZX1A.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6781048,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.643918,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:57:51Z"
+  },
+  "status": "success",
+  "error": null
+}

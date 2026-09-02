@@ -1,0 +1,91 @@
+{
+  "corpus_id": "2vjPBrBU-TM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/2vjPBrBU-TM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/2vjPBrBU-TM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/2vjPBrBU-TM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Party girls, don't get hurt, can't feel anything When will I learn, I push it down, I push it down I'm the one for a good time call, phone's blowing up Ring on my doorbell, I feel the love, I feel the love Till I lose God Cause I'm just holding on for tonight Help me, I'm holding on for dear life Won't look down, won't open my eyes Keep my glass full until morning light Cause I'm just holding on for tonight, on for tonight Sun is up, I'm a mess Gotta get out now, gotta run from this Here comes the shame, here comes the shame Till I lose God Keep my glass full until morning light Cause I'm just holding on for tonight Help me out I'm just holding on for tonight I'm just holding on for tonight",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 11.607,
+        "end": 30.541,
+        "text": " Party girls, don't get hurt, can't feel anything When will I learn, I push it down, I push it down I'm the one for a good time call, phone's blowing up Ring on my doorbell, I feel the love, I feel the love",
+        "avg_logprob": -0.11097935294466359
+      },
+      {
+        "id": 2,
+        "start": 42.961,
+        "end": 44.412,
+        "text": " Till I lose God",
+        "avg_logprob": -0.444140625
+      },
+      {
+        "id": 3,
+        "start": 95.054,
+        "end": 119.472,
+        "text": " Cause I'm just holding on for tonight Help me, I'm holding on for dear life Won't look down, won't open my eyes Keep my glass full until morning light Cause I'm just holding on for tonight, on for tonight Sun is up, I'm a mess Gotta get out now, gotta run from this Here comes the shame, here comes the shame",
+        "avg_logprob": -0.04737647738609765
+      },
+      {
+        "id": 4,
+        "start": 131.099,
+        "end": 132.719,
+        "text": " Till I lose God",
+        "avg_logprob": -0.73671875
+      },
+      {
+        "id": 5,
+        "start": 178.687,
+        "end": 187.529,
+        "text": " Keep my glass full until morning light Cause I'm just holding on for tonight Help me out",
+        "avg_logprob": -0.34868420738922923
+      },
+      {
+        "id": 6,
+        "start": 198.43,
+        "end": 219.676,
+        "text": " I'm just holding on for tonight I'm just holding on for tonight",
+        "avg_logprob": -0.34869792858759563
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "2vjPBrBU-TM",
+    "uploader": "Sia",
+    "audio_file": "corpus/01_music_videos_audio/audio/2vjPBrBU-TM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7403714,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.279683,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:17:24Z"
+  },
+  "status": "success",
+  "error": null
+}

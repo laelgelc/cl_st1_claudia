@@ -1,0 +1,112 @@
+{
+  "corpus_id": "qZuxPKUVGiw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/qZuxPKUVGiw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/qZuxPKUVGiw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/qZuxPKUVGiw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "M.C. Brand, Ice Cube, and Easy motherfuckin' E. Order, order, order. Ice Cube, take the motherfuckin' stand. Do you swear to tell the truth, the whole truth, and nothing but the truth, still help your black ass? You're goddamn right. Won't you tell everybody what the fuck you gotta say? And when I finish, bring the yellow tape To tape off the scene of the slaughter Still getting swole of bread and water I don't know if they fags or what Such a nigga down and grabbing his nuts And on the other hand Dine in LA. Yo, Dre, I got something to say. Please give your testimony to the jury about this fucked up incident. Fuck the police and Rin said it with authority. Because the niggas on the street is a majority of gang. They put whoever I'm stepping. And a motherfucking weapon is kept in a stash box. For the so-called law, wishing Rin was a nigga that they never saw. Lights start flashing behind me. But they're scared of a nigga so they mace me to blind me. of a scope, taking out a cop or two, they can't cope with me, the motherfucking villain that's mad, with potential to get bad as fuck, so I'ma turn it around, put in my clip, yo, and this is the sound, yeah, something like that, but it all depends on the size of the gap, taking out a police would make my day, but a nigga like Ren don't give a fuck to say, I'm tired of the motherfucking jacking Sweating my gang while I'm chilling in the shack And shining a light in my face, and for what? Maybe cause I blast on a stupid ass nigga when I'm playing with the trigger of an Uzi or an AK. Cause the police always got something stupid to say. They put out my picture with silence. Cause my identity by itself causes violence to eat with the criminal behavior. Yeah, I'm a gangster, but still I got flavor. Without a gun and a badge, what do you got? A sucker in a uniform waiting to get shot by me or another nigga. And with a gadget, don't matter if he's smaller or bigger. And as y'all know, E's here to rule. Whenever I'm rolling, keep looking in the mirror. And it's on cue, yo, so I can hear a dumb motherfucker with a gun. And if I'm rolling off the eight, he'll be the one that I take out. And then get away, while I'm driving off laughing, this is what I'll say. Find you're guilty of being a redneck, white bread, chicken shit motherfucker",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 13.362,
+        "end": 29.748,
+        "text": " M.C. Brand, Ice Cube, and Easy motherfuckin' E. Order, order, order. Ice Cube, take the motherfuckin' stand. Do you swear to tell the truth, the whole truth, and nothing but the truth, still help your black ass? You're goddamn right. Won't you tell everybody what the fuck you gotta say?",
+        "avg_logprob": -0.1277754965581392
+      },
+      {
+        "id": 2,
+        "start": 67.143,
+        "end": 80.677,
+        "text": " And when I finish, bring the yellow tape To tape off the scene of the slaughter Still getting swole of bread and water I don't know if they fags or what Such a nigga down and grabbing his nuts And on the other hand",
+        "avg_logprob": -0.20200893343711385
+      },
+      {
+        "id": 3,
+        "start": 104.926,
+        "end": 109.583,
+        "text": " Dine in LA. Yo, Dre, I got something to say.",
+        "avg_logprob": -0.24621580727398396
+      },
+      {
+        "id": 4,
+        "start": 134.508,
+        "end": 157.812,
+        "text": " Please give your testimony to the jury about this fucked up incident. Fuck the police and Rin said it with authority. Because the niggas on the street is a majority of gang. They put whoever I'm stepping. And a motherfucking weapon is kept in a stash box. For the so-called law, wishing Rin was a nigga that they never saw. Lights start flashing behind me. But they're scared of a nigga so they mace me to blind me.",
+        "avg_logprob": -0.15480026264780575
+      },
+      {
+        "id": 5,
+        "start": 192.98,
+        "end": 215.744,
+        "text": " of a scope, taking out a cop or two, they can't cope with me, the motherfucking villain that's mad, with potential to get bad as fuck, so I'ma turn it around, put in my clip, yo, and this is the sound, yeah, something like that, but it all depends on the size of the gap, taking out a police would make my day, but a nigga like Ren don't give a fuck to say,",
+        "avg_logprob": -0.11463815805159117
+      },
+      {
+        "id": 6,
+        "start": 241.664,
+        "end": 252.008,
+        "text": " I'm tired of the motherfucking jacking Sweating my gang while I'm chilling in the shack And shining a light in my face, and for what?",
+        "avg_logprob": -0.18323863636363635
+      },
+      {
+        "id": 7,
+        "start": 255.772,
+        "end": 283.396,
+        "text": " Maybe cause I blast on a stupid ass nigga when I'm playing with the trigger of an Uzi or an AK. Cause the police always got something stupid to say. They put out my picture with silence. Cause my identity by itself causes violence to eat with the criminal behavior. Yeah, I'm a gangster, but still I got flavor. Without a gun and a badge, what do you got? A sucker in a uniform waiting to get shot by me or another nigga. And with a gadget, don't matter if he's smaller or bigger.",
+        "avg_logprob": -0.08754184941894241
+      },
+      {
+        "id": 8,
+        "start": 286.332,
+        "end": 303.427,
+        "text": " And as y'all know, E's here to rule. Whenever I'm rolling, keep looking in the mirror. And it's on cue, yo, so I can hear a dumb motherfucker with a gun. And if I'm rolling off the eight, he'll be the one that I take out. And then get away, while I'm driving off laughing, this is what I'll say.",
+        "avg_logprob": -0.08689024362985681
+      },
+      {
+        "id": 9,
+        "start": 314.193,
+        "end": 318.04,
+        "text": " Find you're guilty of being a redneck, white bread, chicken shit motherfucker",
+        "avg_logprob": -0.3274356617647059
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "qZuxPKUVGiw",
+    "uploader": "NWA",
+    "audio_file": "corpus/01_music_videos_audio/audio/qZuxPKUVGiw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10997048,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.847561,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:53:50Z"
+  },
+  "status": "success",
+  "error": null
+}

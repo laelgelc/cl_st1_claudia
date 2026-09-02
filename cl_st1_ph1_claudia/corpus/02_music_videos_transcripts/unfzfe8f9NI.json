@@ -1,0 +1,84 @@
+{
+  "corpus_id": "unfzfe8f9NI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/unfzfe8f9NI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/unfzfe8f9NI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/unfzfe8f9NI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Will I ever learn? I don't know how But I suddenly lose control There's a fire within my soul Just one look and I can hear a bell ring One more look and I forget everything Mamma mia Here I go again My, my How can I resist you? Mamma mia Does it show again, my, my, just how much I missed her? Yes, I've been brokenhearted, loose since the day we parted Why, why did I ever let you go? Mamma mia, now I really know, my, my, I could never When you slam the door I think you know That you want me away too long You know that I'm not that strong Just one look and I can hear a bell ring One more look and I forget everything Mama mia Here I go again My, my How can I resist you? Mama mia Does it show again? Mama, just how much I miss you. Here I go again. My, my, how can I resist you? Mamma mia, does it show again? My, my, just how much I miss you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 29.63,
+        "end": 58.25,
+        "text": " Will I ever learn? I don't know how But I suddenly lose control There's a fire within my soul Just one look and I can hear a bell ring One more look and I forget everything Mamma mia Here I go again My, my How can I resist you? Mamma mia",
+        "avg_logprob": -0.08110434221009076
+      },
+      {
+        "id": 2,
+        "start": 58.925,
+        "end": 80.187,
+        "text": " Does it show again, my, my, just how much I missed her? Yes, I've been brokenhearted, loose since the day we parted Why, why did I ever let you go? Mamma mia, now I really know, my, my, I could never",
+        "avg_logprob": -0.1615032317309544
+      },
+      {
+        "id": 3,
+        "start": 102.968,
+        "end": 131.842,
+        "text": " When you slam the door I think you know That you want me away too long You know that I'm not that strong Just one look and I can hear a bell ring One more look and I forget everything Mama mia Here I go again My, my How can I resist you? Mama mia",
+        "avg_logprob": -0.1497616525423729
+      },
+      {
+        "id": 4,
+        "start": 132.297,
+        "end": 138.642,
+        "text": " Does it show again? Mama, just how much I miss you.",
+        "avg_logprob": -0.6385416507720947
+      },
+      {
+        "id": 5,
+        "start": 163.55,
+        "end": 175.058,
+        "text": " Here I go again. My, my, how can I resist you? Mamma mia, does it show again? My, my, just how much I miss you.",
+        "avg_logprob": -0.0990125857707527
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "unfzfe8f9NI",
+    "uploader": "ABBA",
+    "audio_file": "corpus/01_music_videos_audio/audio/unfzfe8f9NI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6724578,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.012246,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:53:12Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,91 @@
+{
+  "corpus_id": "hnpILIIo9ek",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hnpILIIo9ek.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hnpILIIo9ek.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hnpILIIo9ek.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I am the sun, I am the air All the shyness that is criminal in Baltimore And in the sun and air But nothing in particular They shut your mouth, how can you say? I go about things the wrong way, I am human Just like everybody else does I am the sun and the air Of a shyness that was criminally vulgar I am the summoner of nothing in particular You shut your mouth, how can you say I go about things the wrong way? I am human and I need to be loved Just like everybody else does There's a club if you'd like to go You could meet somebody who really loves you So you go and you stand on your own And you leave on your own And you go home and you cry and you want to die",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 23.183,
+        "text": " I am the sun, I am the air",
+        "avg_logprob": -0.2017578139901161
+      },
+      {
+        "id": 2,
+        "start": 27.115,
+        "end": 50.977,
+        "text": " All the shyness that is criminal in Baltimore And in the sun and air But nothing in particular They shut your mouth, how can you say? I go about things the wrong way, I am human",
+        "avg_logprob": -0.24733232288825802
+      },
+      {
+        "id": 3,
+        "start": 55.516,
+        "end": 85.283,
+        "text": " Just like everybody else does I am the sun and the air",
+        "avg_logprob": -0.11170372366905212
+      },
+      {
+        "id": 4,
+        "start": 87.781,
+        "end": 115.642,
+        "text": " Of a shyness that was criminally vulgar I am the summoner of nothing in particular You shut your mouth, how can you say I go about things the wrong way? I am human and I need to be loved",
+        "avg_logprob": -0.15633491394312485
+      },
+      {
+        "id": 5,
+        "start": 116.097,
+        "end": 119.033,
+        "text": " Just like everybody else does",
+        "avg_logprob": -0.13680013517538706
+      },
+      {
+        "id": 6,
+        "start": 162.335,
+        "end": 179.328,
+        "text": " There's a club if you'd like to go You could meet somebody who really loves you So you go and you stand on your own And you leave on your own And you go home and you cry and you want to die",
+        "avg_logprob": -0.08317764848470688
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "hnpILIIo9ek",
+    "uploader": "The Smiths",
+    "audio_file": "corpus/01_music_videos_audio/audio/hnpILIIo9ek.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6912566,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.337133,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:54:58Z"
+  },
+  "status": "success",
+  "error": null
+}

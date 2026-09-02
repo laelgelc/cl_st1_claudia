@@ -1,0 +1,77 @@
+{
+  "corpus_id": "Pav2f4b-1ZE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Pav2f4b-1ZE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Pav2f4b-1ZE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Pav2f4b-1ZE.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Another night, another dream But always you It's like a vision of love It seems to be true Another night, another dream To be true, another night, another dream Love and not another. In my dreams I'm in love with you Cause you talk to me like lovers do I feel joy",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 7.102,
+        "end": 31.705,
+        "text": " Another night, another dream But always you It's like a vision of love It seems to be true Another night, another dream",
+        "avg_logprob": -0.10216346440406945
+      },
+      {
+        "id": 2,
+        "start": 104.504,
+        "end": 108.149,
+        "text": " To be true, another night, another dream",
+        "avg_logprob": -0.30253906846046447
+      },
+      {
+        "id": 3,
+        "start": 182.247,
+        "end": 183.462,
+        "text": " Love and not another.",
+        "avg_logprob": -0.7382812599341074
+      },
+      {
+        "id": 4,
+        "start": 205.467,
+        "end": 213.567,
+        "text": " In my dreams I'm in love with you Cause you talk to me like lovers do I feel joy",
+        "avg_logprob": -0.15048363379069737
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Pav2f4b-1ZE",
+    "uploader": "Real McCoy",
+    "audio_file": "corpus/01_music_videos_audio/audio/Pav2f4b-1ZE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7633314,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.176732,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:07:48Z"
+  },
+  "status": "success",
+  "error": null
+}

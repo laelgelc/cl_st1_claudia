@@ -1,0 +1,77 @@
+{
+  "corpus_id": "hCuMWrfXG4E",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hCuMWrfXG4E.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hCuMWrfXG4E.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/hCuMWrfXG4E.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Uptown girl She's been living in her uptown world I bet she never had a backstreet And now she's looking for a downtown man That's what I am And when she knows what she wants walking she's loving so fine and when she's talking she'll say Is anyone looking? And now she's looking for",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 28.347,
+        "text": " Uptown girl She's been living in her uptown world I bet she never had a backstreet",
+        "avg_logprob": -0.15056046713953433
+      },
+      {
+        "id": 2,
+        "start": 43.433,
+        "end": 54.318,
+        "text": " And now she's looking for a downtown man That's what I am And when she knows what she wants",
+        "avg_logprob": -0.09881036931818182
+      },
+      {
+        "id": 3,
+        "start": 118.713,
+        "end": 128.905,
+        "text": " walking she's loving so fine and when she's talking she'll say",
+        "avg_logprob": -0.22877604166666668
+      },
+      {
+        "id": 4,
+        "start": 145.78,
+        "end": 150.117,
+        "text": " Is anyone looking? And now she's looking for",
+        "avg_logprob": -0.5699573863636364
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "hCuMWrfXG4E",
+    "uploader": "Billy Joel",
+    "audio_file": "corpus/01_music_videos_audio/audio/hCuMWrfXG4E.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6480860,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.728267,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:09:04Z"
+  },
+  "status": "success",
+  "error": null
+}

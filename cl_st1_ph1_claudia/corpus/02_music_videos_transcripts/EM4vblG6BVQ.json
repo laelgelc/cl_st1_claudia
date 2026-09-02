@@ -1,0 +1,98 @@
+{
+  "corpus_id": "EM4vblG6BVQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/EM4vblG6BVQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/EM4vblG6BVQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/EM4vblG6BVQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "This song is not a rebel song. This song is Someday, bloody Someday. Mmm, oh. I can close my eyes and make it go away How long? How long must we sing this song? How long? And bodies strewn across a dead end stream But I won't heed the very call But it's my back up, my back up against the wall Sunday, what is Sunday? Sunday, what is Sunday? Sunday, what is Sunday? How long must we sing this song? to learn That's right Sing no more Sing Sing no more And today the millions cry We drink water",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 6.578,
+        "end": 33.14,
+        "text": " This song is not a rebel song. This song is Someday, bloody Someday. Mmm, oh.",
+        "avg_logprob": -0.37262228001718933
+      },
+      {
+        "id": 2,
+        "start": 43.366,
+        "end": 53.558,
+        "text": " I can close my eyes and make it go away How long? How long must we sing this song? How long?",
+        "avg_logprob": -0.111796875
+      },
+      {
+        "id": 3,
+        "start": 69.893,
+        "end": 99.695,
+        "text": " And bodies strewn across a dead end stream But I won't heed the very call But it's my back up, my back up against the wall Sunday, what is Sunday? Sunday, what is Sunday? Sunday, what is Sunday?",
+        "avg_logprob": -0.31521045918367346
+      },
+      {
+        "id": 4,
+        "start": 108.638,
+        "end": 138.338,
+        "text": " How long must we sing this song?",
+        "avg_logprob": -0.2814670138888889
+      },
+      {
+        "id": 5,
+        "start": 153.188,
+        "end": 155.618,
+        "text": " to learn",
+        "avg_logprob": -1.51171875
+      },
+      {
+        "id": 6,
+        "start": 204.269,
+        "end": 211.238,
+        "text": " That's right Sing no more Sing Sing no more",
+        "avg_logprob": -0.3403764150359414
+      },
+      {
+        "id": 7,
+        "start": 276.308,
+        "end": 282.248,
+        "text": " And today the millions cry We drink water",
+        "avg_logprob": -0.3502604166666667
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "EM4vblG6BVQ",
+    "uploader": "U2",
+    "audio_file": "corpus/01_music_videos_audio/audio/EM4vblG6BVQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11109990,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.765534,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:58:41Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,91 @@
+{
+  "corpus_id": "W-rn7i_ETYc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/W-rn7i_ETYc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/W-rn7i_ETYc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/W-rn7i_ETYc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I feel good, I knew that I would now I feel good, I knew that I would now So good, so good, I got you I feel nice, sugar and spice Sugar and spice So nice, so nice I got you When I hold you in my arms I know that I can't do no wrong And when I hold you in my arms My love won't do you no wrong So nice, that sugar and spice I feel nice, that sugar and spice So nice, so nice, I got you I know that I can't do no wrong And when I hold you in my arms My love can't do me no harm And I feel nice Like sugar and spice I feel nice Like sugar and spice So nice It's so nice that I got you. Whoa, I feel good. I knew that I would now. I feel good. I knew that I would. So good, so good, that I got you. So good, so good, that I got you. So good, so good, I got it here",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 2.09,
+        "end": 26.052,
+        "text": " I feel good, I knew that I would now I feel good, I knew that I would now So good, so good, I got you I feel nice, sugar and spice",
+        "avg_logprob": -0.21294341538403486
+      },
+      {
+        "id": 2,
+        "start": 31.233,
+        "end": 59.718,
+        "text": " Sugar and spice So nice, so nice I got you When I hold you in my arms I know that I can't do no wrong And when I hold you in my arms My love won't do you no wrong",
+        "avg_logprob": -0.1299715946343812
+      },
+      {
+        "id": 3,
+        "start": 62.283,
+        "end": 79.563,
+        "text": " So nice, that sugar and spice I feel nice, that sugar and spice So nice, so nice, I got you",
+        "avg_logprob": -0.23015625
+      },
+      {
+        "id": 4,
+        "start": 90.093,
+        "end": 115.574,
+        "text": " I know that I can't do no wrong And when I hold you in my arms My love can't do me no harm And I feel nice Like sugar and spice I feel nice Like sugar and spice So nice",
+        "avg_logprob": -0.06672419711600902
+      },
+      {
+        "id": 5,
+        "start": 116.114,
+        "end": 145.527,
+        "text": " It's so nice that I got you. Whoa, I feel good. I knew that I would now. I feel good. I knew that I would. So good, so good, that I got you. So good, so good, that I got you.",
+        "avg_logprob": -0.18124999620697715
+      },
+      {
+        "id": 6,
+        "start": 147.772,
+        "end": 152.952,
+        "text": " So good, so good, I got it here",
+        "avg_logprob": -0.37357953461733734
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "W-rn7i_ETYc",
+    "uploader": "TMC Records",
+    "audio_file": "corpus/01_music_videos_audio/audio/W-rn7i_ETYc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5321720,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 5.923872,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:11:38Z"
+  },
+  "status": "success",
+  "error": null
+}

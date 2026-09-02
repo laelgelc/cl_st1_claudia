@@ -1,0 +1,91 @@
+{
+  "corpus_id": "QhW3P7_jvWY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/QhW3P7_jvWY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/QhW3P7_jvWY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/QhW3P7_jvWY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Thank you. In your heart and soul And don't hesitate Cause the worst is come Yeah, yeah, yeah Higher, higher In your heart and soul And don't hesitate Cause the world seems cold Don't you hear me? Don't you hear me? Don't you hear me?",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 3.575,
+        "end": 10.257,
+        "text": " Thank you.",
+        "avg_logprob": -0.4047851711511612
+      },
+      {
+        "id": 2,
+        "start": 90.7,
+        "end": 98.902,
+        "text": " In your heart and soul And don't hesitate Cause the worst is come",
+        "avg_logprob": -0.28906249602635703
+      },
+      {
+        "id": 3,
+        "start": 143.485,
+        "end": 149.037,
+        "text": " Yeah, yeah, yeah",
+        "avg_logprob": -1.1764322717984517
+      },
+      {
+        "id": 4,
+        "start": 194.718,
+        "end": 196.726,
+        "text": " Higher, higher",
+        "avg_logprob": -0.9755859375
+      },
+      {
+        "id": 5,
+        "start": 261.205,
+        "end": 269.322,
+        "text": " In your heart and soul And don't hesitate Cause the world seems cold",
+        "avg_logprob": -0.22708332935969036
+      },
+      {
+        "id": 6,
+        "start": 309.434,
+        "end": 328.418,
+        "text": " Don't you hear me? Don't you hear me? Don't you hear me?",
+        "avg_logprob": -0.36821546052631576
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "QhW3P7_jvWY",
+    "uploader": "Earth Wind & Fire",
+    "audio_file": "corpus/01_music_videos_audio/audio/QhW3P7_jvWY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11108504,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.874066,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:57:07Z"
+  },
+  "status": "success",
+  "error": null
+}

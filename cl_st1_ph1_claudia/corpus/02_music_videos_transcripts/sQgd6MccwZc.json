@@ -1,0 +1,105 @@
+{
+  "corpus_id": "sQgd6MccwZc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/sQgd6MccwZc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/sQgd6MccwZc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/sQgd6MccwZc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Say my name, say my name If no one is around you Say baby I love you If you ain't running game Say my name, say my name You acting kinda shady Ain't calling me baby Why the sudden change? Say my name, say my name If no one is around you Say baby I love you If you ain't running game Say my name, say my name You acting kinda shady Ain't calling me baby Better say my name Any other day, I would call, you would say Baby, how's your day? But today, ain't it the same? Every other word is a huh, yeah, okay Could it be that you are at the crib with another lady? If you took it there, first of all, let me say I am not the one to sit around and be played So prove yourself to me I'm the girl that you claim Why don't you say the things that you said to me? When you're saying everything to me comes true. Why can't you just tell the truth? If somebody's dead, then tell me who. Say my name, say my name. Say my name is around you. What is up with this? Tell the truth. Who you with? How would you like it if I came over with my clique? Don't try to change it now. Say you got a bounce when two seconds ago said you just got in the house. It's hard to believe that you are at home by yourself when I just heard the voice, heard the voice of someone else. Just this question, why? Why can't you just tell the truth? Say my name Say baby I love you Can you say that? Come on. All the girls say it. Again. All the ladies say it. All the girls say it. Cause I know how you used to do When you said everything to me comes true Why can't you just tell the truth? If somebody's there then tell me who Say my name, say my name No one is around you Baby, I love you Call me your name Say my name, say my name Say my name, say my name Say my name, say my name Say my name, say my name Say my name, say my name If you say my name",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.706,
+        "end": 28.347,
+        "text": " Say my name, say my name If no one is around you Say baby I love you If you ain't running game Say my name, say my name You acting kinda shady Ain't calling me baby Why the sudden change? Say my name, say my name If no one is around you Say baby I love you If you ain't running game Say my name, say my name You acting kinda shady Ain't calling me baby",
+        "avg_logprob": -0.09456758755584095
+      },
+      {
+        "id": 2,
+        "start": 28.347,
+        "end": 55.583,
+        "text": " Better say my name Any other day, I would call, you would say Baby, how's your day? But today, ain't it the same? Every other word is a huh, yeah, okay Could it be that you are at the crib with another lady? If you took it there, first of all, let me say I am not the one to sit around and be played So prove yourself to me I'm the girl that you claim Why don't you say the things that you said to me?",
+        "avg_logprob": -0.08105468656867743
+      },
+      {
+        "id": 3,
+        "start": 65.573,
+        "end": 75.648,
+        "text": " When you're saying everything to me comes true. Why can't you just tell the truth? If somebody's dead, then tell me who. Say my name, say my name. Say my name is around you.",
+        "avg_logprob": -0.1956597195731269
+      },
+      {
+        "id": 4,
+        "start": 98.007,
+        "end": 121.025,
+        "text": " What is up with this? Tell the truth. Who you with? How would you like it if I came over with my clique? Don't try to change it now. Say you got a bounce when two seconds ago said you just got in the house. It's hard to believe that you are at home by yourself when I just heard the voice, heard the voice of someone else. Just this question, why?",
+        "avg_logprob": -0.06801470412927516
+      },
+      {
+        "id": 5,
+        "start": 136.583,
+        "end": 146.911,
+        "text": " Why can't you just tell the truth? Say my name Say baby I love you",
+        "avg_logprob": -0.2949218783113692
+      },
+      {
+        "id": 6,
+        "start": 172.443,
+        "end": 188.12,
+        "text": " Can you say that? Come on. All the girls say it. Again. All the ladies say it. All the girls say it.",
+        "avg_logprob": -0.18318966133841152
+      },
+      {
+        "id": 7,
+        "start": 202.784,
+        "end": 231.32,
+        "text": " Cause I know how you used to do When you said everything to me comes true Why can't you just tell the truth? If somebody's there then tell me who Say my name, say my name No one is around you Baby, I love you Call me your name Say my name, say my name Say my name, say my name Say my name, say my name Say my name, say my name Say my name, say my name",
+        "avg_logprob": -0.18802082902855344
+      },
+      {
+        "id": 8,
+        "start": 237.023,
+        "end": 238.981,
+        "text": " If you say my name",
+        "avg_logprob": -0.3430989633003871
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "sQgd6MccwZc",
+    "uploader": "Destiny's Child",
+    "audio_file": "corpus/01_music_videos_audio/audio/sQgd6MccwZc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7663778,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.211803,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:20:38Z"
+  },
+  "status": "success",
+  "error": null
+}

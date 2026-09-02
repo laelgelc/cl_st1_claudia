@@ -1,0 +1,91 @@
+{
+  "corpus_id": "CS9OO0S5w2k",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CS9OO0S5w2k.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/CS9OO0S5w2k.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/CS9OO0S5w2k.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Pick yourself off the ground, I said, young man. Cause you're in a new town, there's no need to be unhappy. Young man, there's a place you can go, I said, young man. When you're short on your dough, you can stay there. YMCA, it's fun to stay at home. YMCA. Put your pride on the shelf and just go there. YMCA It's fun to stay at the YMCA They have everything for young men to enjoy You can hang out with all the boys It's fun to stay at the YMCA It's fun to stay at the YMCA Young man, I was once in your shoes I said I was down and out with the blues I felt no man cared if I were alive I felt the whole world was so tired That's when someone came up to me and said Young man, take a walk up the street It's a place there called the YMCA They can start you back It's fun to stay at the YMCA. It's fun to stay at the YMCA.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 16.788,
+        "end": 35.924,
+        "text": " Pick yourself off the ground, I said, young man. Cause you're in a new town, there's no need to be unhappy. Young man, there's a place you can go, I said, young man. When you're short on your dough, you can stay there.",
+        "avg_logprob": -0.06716763569136798
+      },
+      {
+        "id": 2,
+        "start": 45.897,
+        "end": 51.145,
+        "text": " YMCA, it's fun to stay at home. YMCA.",
+        "avg_logprob": -0.21208639705882354
+      },
+      {
+        "id": 3,
+        "start": 73.471,
+        "end": 99.442,
+        "text": " Put your pride on the shelf and just go there.",
+        "avg_logprob": -0.4130859499176343
+      },
+      {
+        "id": 4,
+        "start": 110.377,
+        "end": 131.234,
+        "text": " YMCA It's fun to stay at the YMCA They have everything for young men to enjoy You can hang out with all the boys It's fun to stay at the YMCA It's fun to stay at the YMCA",
+        "avg_logprob": -0.06742187753319741
+      },
+      {
+        "id": 5,
+        "start": 138.524,
+        "end": 167.988,
+        "text": " Young man, I was once in your shoes I said I was down and out with the blues I felt no man cared if I were alive I felt the whole world was so tired That's when someone came up to me and said Young man, take a walk up the street It's a place there called the YMCA They can start you back",
+        "avg_logprob": -0.06305017941434618
+      },
+      {
+        "id": 6,
+        "start": 168.494,
+        "end": 180.02,
+        "text": " It's fun to stay at the YMCA. It's fun to stay at the YMCA.",
+        "avg_logprob": -0.13162363871284152
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "CS9OO0S5w2k",
+    "uploader": "Village People",
+    "audio_file": "corpus/01_music_videos_audio/audio/CS9OO0S5w2k.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7718020,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.701232,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:53:05Z"
+  },
+  "status": "success",
+  "error": null
+}

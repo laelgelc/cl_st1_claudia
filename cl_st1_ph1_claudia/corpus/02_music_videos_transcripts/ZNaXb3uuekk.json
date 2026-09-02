@@ -1,0 +1,126 @@
+{
+  "corpus_id": "ZNaXb3uuekk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ZNaXb3uuekk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ZNaXb3uuekk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ZNaXb3uuekk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Fellas, I'm ready to get up and do my thing. I want to get into it, man, you know. Like a sex machine, man. Moving, doing it, you know. Can I count it off? One, two, three, four. Get on up! Get up! Get on up! Stay on the scene! Get on up! Like a sex machine! Get on up! Get up! Get on up! Get up! Get on up! Stay on the scene! Get on up! Like a sex machine! Get on up! Get up! Get on up! Stay on the scene! Get on up! Like a sex machine! Get on up! Wait a minute! Shake your arm! Then use your palm! Stay on the scene, like a sex machine. You got to have the feeling, sure as you're born. Get it together, right on, right on. Get up, get on up. Get up, get on up. Get up, get on up, get up, get on up, get up, get on up, get up, get on up. You said, you said you got, you said the feeling you got to get. You give me a fever and a cold sweat. The way I like it is the way it is. Don't worry about his. Get up. Get on up. Stay on the scene. Get on up. Like a sex machine. Get on up. Get up. Get on up. Get up. Get on up. Bobby, should I take him to the bridge? Go ahead. Take him on to the bridge. Take him to the bridge. Can I take him to the bridge? Yeah. Take him to the bridge. Stay on the scene, like a sex machine The way I like it, is the way it is I got my, dig it, he's got his Stay on the scene, like a lovin' machine Stay on the scene, like a lovin' machine Stay on the scene I wanna cut it off one more time, yeah You wanna hit it like you did on the top, fellas Hit it like you did on the top Get on up. Get up. Get on up. Get up. Get on up. Get on up. Get on up. Stay on the scene. Get on up. Like a loving machine. Get on up. Get up. Get on up. Taste. Get on up. A piano. Get on up. Taste. Get on up. Get up. Get on up. Stay on the scene. Get on up. Like a sax machine. Get on up. You've got to have the feeling. Get on up. Sure as you're born. Get on up. Get it together. Right on, right on. Right on, right on. Right on, right on. Right on, right on. Right on, right on. Right on, right on. Right on, right on. Right on, right on. Get up. Get on up. Get up. Get on up. And then shake your money maker. Shake your mind and make up. Shake your mind and make up. Shake your mind and make up. Shake your mind and make up. Shake your mind and make up. Shake your mind and make up. Get up. Get on up. Get up. Get up. Get on up. Get up. Get on up. Get up. Get on up. Can we hit it like we did one more time from the top? Can we hit it like that one more time? One more time. Let's hit it and quit. Go ahead. Can we hit it and quit? Yeah. Can we hit it and quit?",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 11,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.503,
+        "end": 13.16,
+        "text": " Fellas, I'm ready to get up and do my thing. I want to get into it, man, you know. Like a sex machine, man. Moving, doing it, you know. Can I count it off? One, two, three, four.",
+        "avg_logprob": -0.07310268203062671
+      },
+      {
+        "id": 2,
+        "start": 16.012,
+        "end": 43.045,
+        "text": " Get on up! Get up! Get on up! Stay on the scene! Get on up! Like a sex machine! Get on up! Get up! Get on up! Get up! Get on up! Stay on the scene! Get on up! Like a sex machine! Get on up! Get up! Get on up! Stay on the scene! Get on up! Like a sex machine! Get on up! Wait a minute! Shake your arm! Then use your palm!",
+        "avg_logprob": -0.08992187529802323
+      },
+      {
+        "id": 3,
+        "start": 43.889,
+        "end": 60.73,
+        "text": " Stay on the scene, like a sex machine. You got to have the feeling, sure as you're born. Get it together, right on, right on. Get up, get on up. Get up, get on up.",
+        "avg_logprob": -0.1232096307600538
+      },
+      {
+        "id": 4,
+        "start": 81.892,
+        "end": 107.39,
+        "text": " Get up, get on up, get up, get on up, get up, get on up, get up, get on up. You said, you said you got, you said the feeling you got to get. You give me a fever and a cold sweat. The way I like it is the way it is.",
+        "avg_logprob": -0.13957556237035723
+      },
+      {
+        "id": 5,
+        "start": 110.444,
+        "end": 131.217,
+        "text": " Don't worry about his. Get up. Get on up. Stay on the scene. Get on up. Like a sex machine. Get on up. Get up. Get on up. Get up. Get on up. Bobby, should I take him to the bridge? Go ahead. Take him on to the bridge. Take him to the bridge. Can I take him to the bridge? Yeah. Take him to the bridge.",
+        "avg_logprob": -0.0639204520054839
+      },
+      {
+        "id": 6,
+        "start": 135.385,
+        "end": 157.762,
+        "text": " Stay on the scene, like a sex machine The way I like it, is the way it is I got my, dig it, he's got his Stay on the scene, like a lovin' machine Stay on the scene, like a lovin' machine",
+        "avg_logprob": -0.1015625008278423
+      },
+      {
+        "id": 7,
+        "start": 158.572,
+        "end": 166.3,
+        "text": " Stay on the scene I wanna cut it off one more time, yeah You wanna hit it like you did on the top, fellas Hit it like you did on the top",
+        "avg_logprob": -0.155915173462459
+      },
+      {
+        "id": 8,
+        "start": 171.464,
+        "end": 191.697,
+        "text": " Get on up. Get up. Get on up. Get up. Get on up. Get on up. Get on up. Stay on the scene. Get on up. Like a loving machine. Get on up. Get up. Get on up. Taste. Get on up. A piano. Get on up. Taste. Get on up.",
+        "avg_logprob": -0.06690141180871238
+      },
+      {
+        "id": 9,
+        "start": 214.58,
+        "end": 243.301,
+        "text": " Get up. Get on up. Stay on the scene. Get on up. Like a sax machine. Get on up. You've got to have the feeling. Get on up. Sure as you're born. Get on up. Get it together. Right on, right on. Right on, right on. Right on, right on. Right on, right on. Right on, right on. Right on, right on. Right on, right on. Right on, right on. Get up. Get on up. Get up. Get on up. And then shake your money maker.",
+        "avg_logprob": -0.07541322511089735
+      },
+      {
+        "id": 10,
+        "start": 243.824,
+        "end": 259.67,
+        "text": " Shake your mind and make up. Shake your mind and make up. Shake your mind and make up. Shake your mind and make up. Shake your mind and make up. Shake your mind and make up. Get up. Get on up. Get up.",
+        "avg_logprob": -0.06887529256208888
+      },
+      {
+        "id": 11,
+        "start": 292.897,
+        "end": 309.502,
+        "text": " Get up. Get on up. Get up. Get on up. Get up. Get on up. Can we hit it like we did one more time from the top? Can we hit it like that one more time? One more time. Let's hit it and quit. Go ahead. Can we hit it and quit? Yeah. Can we hit it and quit?",
+        "avg_logprob": -0.09662829290487264
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "ZNaXb3uuekk",
+    "uploader": "CANAL DO DJ MANO BOY",
+    "audio_file": "corpus/01_music_videos_audio/audio/ZNaXb3uuekk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10502186,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.734599,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:57:15Z"
+  },
+  "status": "success",
+  "error": null
+}

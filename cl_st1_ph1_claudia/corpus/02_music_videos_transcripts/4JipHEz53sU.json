@@ -1,0 +1,84 @@
+{
+  "corpus_id": "4JipHEz53sU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4JipHEz53sU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/4JipHEz53sU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/4JipHEz53sU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "this one is for the boys with the booming system top down ac with the coolest system when you come up in the club he be blazing up got stacks on deck like he's saving up and he ill he real And yes, you'll get slapped if you're looking ho I said, excuse me, you're a hell of a guy I mean, my, my, my, my, you're like pelican fly I mean, you're so shy, and I'm loving your tie You're like slicker than the guy with the thing on his eye, oh Yes, I did, yes, I did Somebody please tell him who the F.I. is I am Nicki Minaj, I make them dudes up Back hoops up and chop the deuce up Boy, you got my heart, see, you're my little This one is for the boys in the polos. Entrepreneur niggas in the mogos. He can ball with the crew, he can solo. But I think I like him better when he dolo. And I think I like him better with the fitted cap on. He ain't even gotta try to put the mac on. He just gotta give me that look. When he give me that look, then the panties coming off, off. Excuse me, you're a hell of a guy. You know I really gotta thank the American guys. I can tell that you're in touch with your feminine side. Yes, I did. Yes, I did. Somebody please tell them who the F I is. I am Nicki Minaj. I'm at them dudes up. That coops up and chug the deuce up. See I need you in my life for me to stay No, no, no, no, no, I know you'll stay",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 4.739,
+        "end": 17.48,
+        "text": " this one is for the boys with the booming system top down ac with the coolest system when you come up in the club he be blazing up got stacks on deck like he's saving up and he ill he real",
+        "avg_logprob": -0.15891335159540176
+      },
+      {
+        "id": 2,
+        "start": 29.461,
+        "end": 48.648,
+        "text": " And yes, you'll get slapped if you're looking ho I said, excuse me, you're a hell of a guy I mean, my, my, my, my, you're like pelican fly I mean, you're so shy, and I'm loving your tie You're like slicker than the guy with the thing on his eye, oh Yes, I did, yes, I did Somebody please tell him who the F.I. is I am Nicki Minaj, I make them dudes up Back hoops up and chop the deuce up Boy, you got my heart, see, you're my little",
+        "avg_logprob": -0.13976377858890324
+      },
+      {
+        "id": 3,
+        "start": 77.048,
+        "end": 96.353,
+        "text": " This one is for the boys in the polos. Entrepreneur niggas in the mogos. He can ball with the crew, he can solo. But I think I like him better when he dolo. And I think I like him better with the fitted cap on. He ain't even gotta try to put the mac on. He just gotta give me that look. When he give me that look, then the panties coming off, off. Excuse me, you're a hell of a guy. You know I really gotta thank the American guys.",
+        "avg_logprob": -0.15163043245025304
+      },
+      {
+        "id": 4,
+        "start": 96.353,
+        "end": 107.795,
+        "text": " I can tell that you're in touch with your feminine side. Yes, I did. Yes, I did. Somebody please tell them who the F I is. I am Nicki Minaj. I'm at them dudes up. That coops up and chug the deuce up.",
+        "avg_logprob": -0.2631091142104844
+      },
+      {
+        "id": 5,
+        "start": 139.267,
+        "end": 146.725,
+        "text": " See I need you in my life for me to stay No, no, no, no, no, I know you'll stay",
+        "avg_logprob": -0.14127604608182553
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "4JipHEz53sU",
+    "uploader": "Nicki Minaj",
+    "audio_file": "corpus/01_music_videos_audio/audio/4JipHEz53sU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6988356,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.403051,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:22:52Z"
+  },
+  "status": "success",
+  "error": null
+}

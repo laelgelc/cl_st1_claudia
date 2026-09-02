@@ -1,0 +1,77 @@
+{
+  "corpus_id": "ujNeHIo7oTE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ujNeHIo7oTE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ujNeHIo7oTE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ujNeHIo7oTE.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "See the thorn twist in your side I'll wait for you Sleight of hand and twist of fate On a bed of nails she makes me wait And I wait without you Give it all but I want more And I'm waiting for you With or without you With or without you And you give, and you give, and you give yourself away My hands are tied, my body bruised, she got me We go without you We go without you",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 32.127,
+        "end": 58.807,
+        "text": " See the thorn twist in your side I'll wait for you Sleight of hand and twist of fate On a bed of nails she makes me wait And I wait without you",
+        "avg_logprob": -0.07712204150251441
+      },
+      {
+        "id": 2,
+        "start": 76.424,
+        "end": 95.037,
+        "text": " Give it all but I want more And I'm waiting for you With or without you With or without you",
+        "avg_logprob": -0.1578480066223578
+      },
+      {
+        "id": 3,
+        "start": 122.307,
+        "end": 140.465,
+        "text": " And you give, and you give, and you give yourself away My hands are tied, my body bruised, she got me",
+        "avg_logprob": -0.10170717647782078
+      },
+      {
+        "id": 4,
+        "start": 163.128,
+        "end": 170.688,
+        "text": " We go without you We go without you",
+        "avg_logprob": -0.6137152777777778
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "ujNeHIo7oTE",
+    "uploader": "U2",
+    "audio_file": "corpus/01_music_videos_audio/audio/ujNeHIo7oTE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9352704,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.885919,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:01:24Z"
+  },
+  "status": "success",
+  "error": null
+}

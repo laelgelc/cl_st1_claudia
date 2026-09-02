@@ -1,0 +1,91 @@
+{
+  "corpus_id": "jSUSFow70no",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/jSUSFow70no.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/jSUSFow70no.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/jSUSFow70no.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "What's wrong? What's wrong? Who is this girl at the store that you keep looking at? What is this interaction going on between you and her? You don't know what I'm talking about. I was in the store with you. Why would I be looking at somebody else? You were looking at somebody else. You gonna continue to deny this? Let me out the car. Why do we have to keep going through this? Yeah, why do we have to keep going through this? Let me out the car. I can't explain Where do we lose our way? Girl, it's driving me insane And I know I just need one more chance To prove my love to you And if you come back to me I'll guarantee that I'll never let you go the love goes wrong. Can somebody tell me how to get things back the way they used to be? Oh God, give me a reason. I'm down, I'm Don't leave me here I'm sorry. Please forgive me for all the wrong I've done. Please come back home, girl. I know you put all your trust in me. I'm sorry I let you down. Don't be afraid",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.301,
+        "end": 17.513,
+        "text": " What's wrong? What's wrong? Who is this girl at the store that you keep looking at? What is this interaction going on between you and her? You don't know what I'm talking about. I was in the store with you. Why would I be looking at somebody else? You were looking at somebody else. You gonna continue to deny this? Let me out the car. Why do we have to keep going through this? Yeah, why do we have to keep going through this? Let me out the car.",
+        "avg_logprob": -0.03587962780147791
+      },
+      {
+        "id": 2,
+        "start": 46.302,
+        "end": 73.201,
+        "text": " I can't explain Where do we lose our way? Girl, it's driving me insane And I know I just need one more chance To prove my love to you And if you come back to me I'll guarantee that I'll never let you go",
+        "avg_logprob": -0.08946078665116254
+      },
+      {
+        "id": 3,
+        "start": 85.942,
+        "end": 104.993,
+        "text": " the love goes wrong. Can somebody tell me how to get things back the way they used to be? Oh God, give me a reason. I'm down, I'm",
+        "avg_logprob": -0.2719183969828818
+      },
+      {
+        "id": 4,
+        "start": 185.133,
+        "end": 187.951,
+        "text": " Don't leave me here",
+        "avg_logprob": -0.9876301884651184
+      },
+      {
+        "id": 5,
+        "start": 213.449,
+        "end": 225.059,
+        "text": " I'm sorry. Please forgive me for all the wrong I've done. Please come back home, girl. I know you put all your trust in me. I'm sorry I let you down.",
+        "avg_logprob": -0.06678734610720378
+      },
+      {
+        "id": 6,
+        "start": 289.42,
+        "end": 290.922,
+        "text": " Don't be afraid",
+        "avg_logprob": -0.7546875
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "jSUSFow70no",
+    "uploader": "Boyz II Men",
+    "audio_file": "corpus/01_music_videos_audio/audio/jSUSFow70no.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11269744,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.359571,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:05:25Z"
+  },
+  "status": "success",
+  "error": null
+}

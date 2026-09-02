@@ -1,0 +1,84 @@
+{
+  "corpus_id": "I6JZW7zMDfY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/I6JZW7zMDfY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/I6JZW7zMDfY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/I6JZW7zMDfY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You made me cry when you said goodbye Is that a shame? My tears fell like rain Is that a shame? You're the one to blame You broke my heart when you said goodbye We'll part Ain't that a shame? My tears fell like rain Ain't that a shame? You're the one to blame Oh well, goodbye Although I'll cry Ain't that a shame? My tears fill like rain Hate and shame You made me cry when you said goodbye Ain't that a shame? My tears fell like rain Ain't that a shame? You wasn't in play Oh well, goodbye Although You're the one to blame.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.419,
+        "end": 29.495,
+        "text": " You made me cry when you said goodbye Is that a shame? My tears fell like rain Is that a shame? You're the one to blame You broke my heart when you said goodbye",
+        "avg_logprob": -0.11225328966975212
+      },
+      {
+        "id": 2,
+        "start": 29.9,
+        "end": 57.22,
+        "text": " We'll part Ain't that a shame? My tears fell like rain Ain't that a shame? You're the one to blame Oh well, goodbye Although I'll cry Ain't that a shame?",
+        "avg_logprob": -0.14024389953148075
+      },
+      {
+        "id": 3,
+        "start": 58.705,
+        "end": 67.295,
+        "text": " My tears fill like rain Hate and shame",
+        "avg_logprob": -0.609375
+      },
+      {
+        "id": 4,
+        "start": 95.273,
+        "end": 122.999,
+        "text": " You made me cry when you said goodbye Ain't that a shame? My tears fell like rain Ain't that a shame? You wasn't in play Oh well, goodbye Although",
+        "avg_logprob": -0.2408854104578495
+      },
+      {
+        "id": 5,
+        "start": 125.868,
+        "end": 138.406,
+        "text": " You're the one to blame.",
+        "avg_logprob": -0.2639160193502903
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "I6JZW7zMDfY",
+    "uploader": "tommy194070",
+    "audio_file": "corpus/01_music_videos_audio/audio/I6JZW7zMDfY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4728776,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.394922,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:54:09Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,105 @@
+{
+  "corpus_id": "H61YWtExfS0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/H61YWtExfS0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/H61YWtExfS0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/H61YWtExfS0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I can't stop wanting you It's useless to say So I'll just live my life In dreams of yesterday Those happy hours That we once knew Though long ago They still make me blue They say that time Heals a broken heart But time has to still Since we've been old I've made up my mind To live in memories Of the lonesome times I can't stop walking you It's useless to say So I'll just live my life In dreams of yesterdays Those happy hours They say that time heals a broken heart. But time has to stay. Time has to stay. Since we've been apart. Since we've been apart. I can't. I said I made up my mind to live in memory of the lonesome time. Sing a song, children. I can't stop what we do. It's useless to say. So I'll just live my life of dreams of yesterday",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 7.844,
+        "end": 34.844,
+        "text": " I can't stop wanting you It's useless to say",
+        "avg_logprob": -0.17757161085804304
+      },
+      {
+        "id": 2,
+        "start": 37.78,
+        "end": 64.342,
+        "text": " So I'll just live my life In dreams of yesterday Those happy hours That we once knew Though long ago",
+        "avg_logprob": -0.14026989178224045
+      },
+      {
+        "id": 3,
+        "start": 67.548,
+        "end": 93.788,
+        "text": " They still make me blue They say that time Heals a broken heart But time has to still Since we've been old",
+        "avg_logprob": -0.1965625047683716
+      },
+      {
+        "id": 4,
+        "start": 104.47,
+        "end": 130.745,
+        "text": " I've made up my mind To live in memories Of the lonesome times I can't stop walking you It's useless to say",
+        "avg_logprob": -0.13023158375705993
+      },
+      {
+        "id": 5,
+        "start": 134.305,
+        "end": 151.805,
+        "text": " So I'll just live my life In dreams of yesterdays Those happy hours",
+        "avg_logprob": -0.20629882346838713
+      },
+      {
+        "id": 6,
+        "start": 168.697,
+        "end": 195.697,
+        "text": " They say that time heals a broken heart. But time has to stay. Time has to stay. Since we've been apart. Since we've been apart. I can't.",
+        "avg_logprob": -0.1710304054054054
+      },
+      {
+        "id": 7,
+        "start": 200.827,
+        "end": 226.78,
+        "text": " I said I made up my mind to live in memory of the lonesome time. Sing a song, children. I can't stop what we do. It's useless to say.",
+        "avg_logprob": -0.16566507098002312
+      },
+      {
+        "id": 8,
+        "start": 231.05,
+        "end": 243.402,
+        "text": " So I'll just live my life of dreams of yesterday",
+        "avg_logprob": -0.1328124962747097
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "H61YWtExfS0",
+    "uploader": "Ray Charles",
+    "audio_file": "corpus/01_music_videos_audio/audio/H61YWtExfS0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8198766,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.672004,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:00:48Z"
+  },
+  "status": "success",
+  "error": null
+}

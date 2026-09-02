@@ -1,0 +1,98 @@
+{
+  "corpus_id": "syIUmrSJWAU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/syIUmrSJWAU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/syIUmrSJWAU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/syIUmrSJWAU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "We were born before the wind Oh, so younger than the sun And the bonnie boat was one As we sailed into the mystic Knock, knock, hear the sailors cry Smell the sea and feel the sky Let your soul and spirit fly into the misty And where that fog horn blows I will be coming home And when the fall corn grows I want to hear it I don't have to fear it And I want to rock your chips and say so Just like way back in the days of old How magnificently we will fold Until the best day comes Where that foghorn grew You know I will be coming home And when that foghorn whistle blows I gotta hear it, I don't have to fear it And I want to rock your empty soul Just like way back in the days of old And together we will go into the mystic. Who lets me stop now?",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 19.454,
+        "end": 45.425,
+        "text": " We were born before the wind Oh, so younger than the sun And the bonnie boat was one As we sailed into the mystic",
+        "avg_logprob": -0.17173549692545617
+      },
+      {
+        "id": 2,
+        "start": 48.884,
+        "end": 78.854,
+        "text": " Knock, knock, hear the sailors cry Smell the sea and feel the sky Let your soul and spirit fly into the misty And where that fog horn blows I will be coming home",
+        "avg_logprob": -0.1990131626003667
+      },
+      {
+        "id": 3,
+        "start": 83.731,
+        "end": 112.773,
+        "text": " And when the fall corn grows I want to hear it I don't have to fear it And I want to rock your chips and say so Just like way back in the days of old How magnificently we will fold Until the best day comes",
+        "avg_logprob": -0.23405612731466488
+      },
+      {
+        "id": 4,
+        "start": 116.705,
+        "end": 142.793,
+        "text": " Where that foghorn grew",
+        "avg_logprob": -0.7278646032015482
+      },
+      {
+        "id": 5,
+        "start": 144.143,
+        "end": 169.405,
+        "text": " You know I will be coming home And when that foghorn whistle blows I gotta hear it, I don't have to fear it And I want to rock your empty soul Just like way back in the days of old",
+        "avg_logprob": -0.20419034361839294
+      },
+      {
+        "id": 6,
+        "start": 171.447,
+        "end": 176.965,
+        "text": " And together we will go into the mystic.",
+        "avg_logprob": -0.3053977272727273
+      },
+      {
+        "id": 7,
+        "start": 199.527,
+        "end": 206.834,
+        "text": " Who lets me stop now?",
+        "avg_logprob": -0.37444197280066355
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "syIUmrSJWAU",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/syIUmrSJWAU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6856096,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 26.018732,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:54:50Z"
+  },
+  "status": "success",
+  "error": null
+}

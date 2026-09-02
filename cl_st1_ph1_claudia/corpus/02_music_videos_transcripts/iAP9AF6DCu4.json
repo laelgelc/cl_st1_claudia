@@ -1,0 +1,77 @@
+{
+  "corpus_id": "iAP9AF6DCu4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/iAP9AF6DCu4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/iAP9AF6DCu4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/iAP9AF6DCu4.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Wondering who will be there to take my place When I'm gone, you'll need love To light the shadows on your face If a great wave shall fall And fall upon us all Then between the sand and stone I'll find out a way to make it back someday To want you, to guide you Through the darkest of your days If a great wave shall fall I'll go wherever Just quite how my life and love might still go on In your heart, in your mind I'll stay with you forever",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 11.742,
+        "end": 39.4,
+        "text": " Wondering who will be there to take my place When I'm gone, you'll need love To light the shadows on your face If a great wave shall fall And fall upon us all Then between the sand and stone",
+        "avg_logprob": -0.08906250066227384
+      },
+      {
+        "id": 2,
+        "start": 62.57,
+        "end": 83.343,
+        "text": " I'll find out a way to make it back someday To want you, to guide you Through the darkest of your days If a great wave shall fall",
+        "avg_logprob": -0.1335685435802706
+      },
+      {
+        "id": 3,
+        "start": 98.48,
+        "end": 101.298,
+        "text": " I'll go wherever",
+        "avg_logprob": -0.07236328125
+      },
+      {
+        "id": 4,
+        "start": 131.251,
+        "end": 144.734,
+        "text": " Just quite how my life and love might still go on In your heart, in your mind I'll stay with you forever",
+        "avg_logprob": -0.10109375238418579
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "iAP9AF6DCu4",
+    "uploader": "TheCallingVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/iAP9AF6DCu4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6614608,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.483129,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:04:54Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,98 @@
+{
+  "corpus_id": "969RAKkYESU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/969RAKkYESU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/969RAKkYESU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/969RAKkYESU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "And if I get too tired to make it Be my breath so I can walk And if I need some other lovin' You give me more than I can stand When my smile gets old and faded I'll smile again Shouldn't be so complicated Just hold me and then Just hold me again Can you help me? I'm bent I'm so scared that I'll never Get put back together Keep breaking me in And this is how we will end With you and me And then If I couldn't sleep, could you sleep? Could you paint me better off? Could you sympathize with my needs? I know you think I need a lot I started out clean but I'm jaded Just phoning it in Or just breaking my skin Can't you help me, I'm bimped I'm so scared that I'll never Get put back together Keep breaking me in And this is how we will lay out With you and me Starpin' down me It shouldn't be so complicated Just touch me again Just touch me again Can you help me? I'm bent, I'm so scared that I'll never give up And this is how we will end Whether you and me land in Without understanding Here I go there again Can you help me up? I'm so scared that I'll never Get put back together Yeah, you're breaking me in And this is how we will end",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 30.845,
+        "end": 51.162,
+        "text": " And if I get too tired to make it Be my breath so I can walk And if I need some other lovin' You give me more than I can stand When my smile gets old and faded",
+        "avg_logprob": -0.11890244193193389
+      },
+      {
+        "id": 2,
+        "start": 53.693,
+        "end": 79.934,
+        "text": " I'll smile again Shouldn't be so complicated Just hold me and then Just hold me again Can you help me? I'm bent I'm so scared that I'll never Get put back together Keep breaking me in And this is how we will end With you and me And then",
+        "avg_logprob": -0.1742466539144516
+      },
+      {
+        "id": 3,
+        "start": 83.714,
+        "end": 97.349,
+        "text": " If I couldn't sleep, could you sleep? Could you paint me better off? Could you sympathize with my needs?",
+        "avg_logprob": -0.08946814789221837
+      },
+      {
+        "id": 4,
+        "start": 98.75,
+        "end": 125.362,
+        "text": " I know you think I need a lot I started out clean but I'm jaded Just phoning it in Or just breaking my skin Can't you help me, I'm bimped I'm so scared that I'll never Get put back together Keep breaking me in And this is how we will lay out With you and me",
+        "avg_logprob": -0.16872667599080213
+      },
+      {
+        "id": 5,
+        "start": 148.97,
+        "end": 151.518,
+        "text": " Starpin' down me",
+        "avg_logprob": -0.5768229067325592
+      },
+      {
+        "id": 6,
+        "start": 175.852,
+        "end": 189.706,
+        "text": " It shouldn't be so complicated Just touch me again Just touch me again Can you help me? I'm bent, I'm so scared that I'll never give up",
+        "avg_logprob": -0.25275734329924865
+      },
+      {
+        "id": 7,
+        "start": 193.148,
+        "end": 216.925,
+        "text": " And this is how we will end Whether you and me land in Without understanding Here I go there again Can you help me up? I'm so scared that I'll never Get put back together Yeah, you're breaking me in And this is how we will end",
+        "avg_logprob": -0.1457841913655119
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "969RAKkYESU",
+    "uploader": "Matchbox Twenty",
+    "audio_file": "corpus/01_music_videos_audio/audio/969RAKkYESU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7924584,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.513301,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:06:11Z"
+  },
+  "status": "success",
+  "error": null
+}

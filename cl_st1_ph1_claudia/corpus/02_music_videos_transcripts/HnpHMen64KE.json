@@ -1,0 +1,147 @@
+{
+  "corpus_id": "HnpHMen64KE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/HnpHMen64KE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/HnpHMen64KE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/HnpHMen64KE.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You know a lot of girls be thinking my songs are about them. This is not to get confused. This one's for you. Baby, you my everything. You all I ever wanted. We could do it real big. Bigger than you ever done it. You'd be up on everything. Love the whole thing, never own it. I want this forever. I swear I could spend whatever on it. Cause she hold me down every time I hit up. When I get right, I promise that we gon' live it up. She made me beg for it till she gave it up. And I say the same thing every single time. I say you the, you the best. You the, you the best. You the, you the best. You the, you the best, you. Best I ever had. Best I ever had. Best I ever had. Best I ever had. I say you the, you. Know you got a roommate. Call me when there's no one there. Put the key under the mat and you know I be over there. I be over there. Shout it, I be over there. I be all the spots that you ain't even know is there. And y'all don't even have to ask twice You can have my heart or we can share it like the last slice Always felt like you were so accustomed to the fast life Haven't been thinking that he met you in the past life Sweatpants, hair tied, chilling with no makeup on That's when you're the prettiest, I hope that y'all don't take it wrong Y'all don't even trip when friends say you ain't bringing Drake along You know that I'm working, I'll be there soon as I make it home Has she a patient in my waiting room? Never pay attention to the rumors and what they assume And until them girls prove it, I'm the one to never get confused with. Cause baby, you my anything. You all I ever wanted. We could do it real big. Bigger than you ever done it. You'd be up on everything. Know the whole thing, never on it. I want this forever. I swear I could spend whatever on it. Cause she hold me down every time I hit her. When I get right, I promise that we don't live it up. She made me beg for it till she And I say the same thing every single time Sex, love, pain, baby, I be on that tank shoe. Bun so big, I could probably sell a blank disc. Quit my album, drop it. Survive for the picture in the room. Survive to acclaim it, got it for they sister. Magazine paper, girl, but money ain't the issue. They bring dinner to my room and ask me to an issue. Today, today's an important day. We have a championship game against a very, very difficult team. I believe in you, and I want you to know that I'm with you. As long as you're with me, I think we can do this. Hey, yo, Drake! Am I the best, though? Yeah, you're the best. Drake, what about me? Am I the best? Yes, you're the best. Uh-uh, Drake, what about me? Tell me I'm the best. Sure, you guys are always the best. Get this. All right, let's go to best on three, okay? One, two, three. The best! She call me the referee cause I be so official. My shirt ain't got no stripes, but I can make a whistle. Like the Andy Griffith theme song. And who told you to put them jeans on? Double cup love, you the one I lean on. Feeling for a fix, then you should really get your feet on. Yeah, just know my condo is the spot. Every single show, she out there reppin' like a mascot. Get it... and make your broad strap pop we could do it real big bigger than you ever done it you be up on everything another whole thing never on it i want this forever i swear i could spend whatever on it cause she hold me down every time i hit up when i get right i promise that we don't live it up she made me beg for it till she give it up and i say to Same thing every single time I say you the you the best You the you the best You the you the best You the you the best You the best I ever had Best I ever had Best I ever had Best I ever had I say you the you the best I don't know what to say. I don't know what's happening here, okay? We are falling apart. Now, I swore the new uniforms would be encouragement. The Mighty Ducks didn't disappoint Emilio Estevez, you know what I'm saying? Now, when you're out there and they put that D on you, take that D. Take that D like the champions that you are, okay? You guys are better than this. But, Drake, all you ever taught us how to do was stretch. That's an essential part of the game, and that's why I focused so much time on that. But, now look, we have two minutes left. And you all know good and well what we can do with two minutes. Okay? You're the best. All right? Now let's make magic happen. You the, you the best, you the, you the best You the, you the best, you the, you the best you Best I ever had, best I ever had Best I ever had, best I ever had I said you the best Oh yeah See this the type of joint you gotta dedicate to somebody Let's make sure they that special somebody Young Money I'm Gadget.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 14,
+    "segments": [
+      {
+        "id": 1,
+        "start": 3.743,
+        "end": 33.663,
+        "text": " You know a lot of girls be thinking my songs are about them. This is not to get confused. This one's for you. Baby, you my everything. You all I ever wanted. We could do it real big. Bigger than you ever done it. You'd be up on everything. Love the whole thing, never own it. I want this forever. I swear I could spend whatever on it. Cause she hold me down every time I hit up. When I get right, I promise that we gon' live it up. She made me beg for it till she gave it up.",
+        "avg_logprob": -0.0627540678270464
+      },
+      {
+        "id": 2,
+        "start": 33.663,
+        "end": 61.844,
+        "text": " And I say the same thing every single time. I say you the, you the best. You the, you the best. You the, you the best. You the, you the best, you. Best I ever had. Best I ever had. Best I ever had. Best I ever had. I say you the, you. Know you got a roommate. Call me when there's no one there. Put the key under the mat and you know I be over there. I be over there. Shout it, I be over there. I be all the spots that you ain't even know is there.",
+        "avg_logprob": -0.11681547270171226
+      },
+      {
+        "id": 3,
+        "start": 61.844,
+        "end": 91.392,
+        "text": " And y'all don't even have to ask twice You can have my heart or we can share it like the last slice Always felt like you were so accustomed to the fast life Haven't been thinking that he met you in the past life Sweatpants, hair tied, chilling with no makeup on That's when you're the prettiest, I hope that y'all don't take it wrong Y'all don't even trip when friends say you ain't bringing Drake along You know that I'm working, I'll be there soon as I make it home Has she a patient in my waiting room? Never pay attention to the rumors and what they assume",
+        "avg_logprob": -0.05518679332016106
+      },
+      {
+        "id": 4,
+        "start": 92.152,
+        "end": 116.198,
+        "text": " And until them girls prove it, I'm the one to never get confused with. Cause baby, you my anything. You all I ever wanted. We could do it real big. Bigger than you ever done it. You'd be up on everything. Know the whole thing, never on it. I want this forever. I swear I could spend whatever on it. Cause she hold me down every time I hit her. When I get right, I promise that we don't live it up. She made me beg for it till she",
+        "avg_logprob": -0.09744318439201875
+      },
+      {
+        "id": 5,
+        "start": 116.198,
+        "end": 132.23,
+        "text": " And I say the same thing every single time",
+        "avg_logprob": -0.3767578035593033
+      },
+      {
+        "id": 6,
+        "start": 132.23,
+        "end": 153.661,
+        "text": " Sex, love, pain, baby, I be on that tank shoe. Bun so big, I could probably sell a blank disc. Quit my album, drop it. Survive for the picture in the room. Survive to acclaim it, got it for they sister. Magazine paper, girl, but money ain't the issue. They bring dinner to my room and ask me to an issue. Today, today's an important day.",
+        "avg_logprob": -0.19965278175142076
+      },
+      {
+        "id": 7,
+        "start": 154.302,
+        "end": 177.37,
+        "text": " We have a championship game against a very, very difficult team. I believe in you, and I want you to know that I'm with you. As long as you're with me, I think we can do this. Hey, yo, Drake! Am I the best, though? Yeah, you're the best. Drake, what about me? Am I the best? Yes, you're the best. Uh-uh, Drake, what about me? Tell me I'm the best. Sure, you guys are always the best.",
+        "avg_logprob": -0.06583806831728328
+      },
+      {
+        "id": 8,
+        "start": 177.893,
+        "end": 207.323,
+        "text": " Get this. All right, let's go to best on three, okay? One, two, three. The best! She call me the referee cause I be so official. My shirt ain't got no stripes, but I can make a whistle. Like the Andy Griffith theme song. And who told you to put them jeans on? Double cup love, you the one I lean on. Feeling for a fix, then you should really get your feet on. Yeah, just know my condo is the spot. Every single show, she out there reppin' like a mascot. Get it...",
+        "avg_logprob": -0.12714213409250782
+      },
+      {
+        "id": 9,
+        "start": 207.323,
+        "end": 232.973,
+        "text": " and make your broad strap pop we could do it real big bigger than you ever done it you be up on everything another whole thing never on it i want this forever i swear i could spend whatever on it cause she hold me down every time i hit up when i get right i promise that we don't live it up she made me beg for it till she give it up and i say to",
+        "avg_logprob": -0.22753906659781933
+      },
+      {
+        "id": 10,
+        "start": 232.973,
+        "end": 248.785,
+        "text": " Same thing every single time I say you the you the best You the you the best You the you the best You the you the best You the best I ever had Best I ever had Best I ever had Best I ever had I say you the you the best",
+        "avg_logprob": -0.11306014150943396
+      },
+      {
+        "id": 11,
+        "start": 250.591,
+        "end": 275.515,
+        "text": " I don't know what to say. I don't know what's happening here, okay? We are falling apart. Now, I swore the new uniforms would be encouragement. The Mighty Ducks didn't disappoint Emilio Estevez, you know what I'm saying? Now, when you're out there and they put that D on you, take that D. Take that D like the champions that you are, okay? You guys are better than this. But, Drake, all you ever taught us how to do was stretch.",
+        "avg_logprob": -0.055117546008267536
+      },
+      {
+        "id": 12,
+        "start": 276.022,
+        "end": 292.812,
+        "text": " That's an essential part of the game, and that's why I focused so much time on that. But, now look, we have two minutes left. And you all know good and well what we can do with two minutes. Okay? You're the best. All right? Now let's make magic happen.",
+        "avg_logprob": -0.09188701923076924
+      },
+      {
+        "id": 13,
+        "start": 293.437,
+        "end": 316.96,
+        "text": " You the, you the best, you the, you the best You the, you the best, you the, you the best you Best I ever had, best I ever had Best I ever had, best I ever had I said you the best Oh yeah See this the type of joint you gotta dedicate to somebody Let's make sure they that special somebody Young Money",
+        "avg_logprob": -0.20924830638073585
+      },
+      {
+        "id": 14,
+        "start": 329.06,
+        "end": 330.106,
+        "text": " I'm Gadget.",
+        "avg_logprob": -0.5410156150658926
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "HnpHMen64KE",
+    "uploader": "HipHopOfficialMusic",
+    "audio_file": "corpus/01_music_videos_audio/audio/HnpHMen64KE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10780082,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.625954,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:13:48Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,98 @@
+{
+  "corpus_id": "g4myghLPLZc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/g4myghLPLZc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/g4myghLPLZc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/g4myghLPLZc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Thank you. How the darkness doubled I recall Lightning struck itself But just waiting. I spoke to a man that I've ever tried. Is that looking too young? Hesitating Thank you. I ain't waitin', uh-uh",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.352,
+        "end": 13.919,
+        "text": " Thank you.",
+        "avg_logprob": -0.5732422024011612
+      },
+      {
+        "id": 2,
+        "start": 34.574,
+        "end": 44.75,
+        "text": " How the darkness doubled I recall Lightning struck itself",
+        "avg_logprob": -0.44374999701976775
+      },
+      {
+        "id": 3,
+        "start": 94.379,
+        "end": 118.24,
+        "text": " But just waiting. I spoke to a man that I've ever tried.",
+        "avg_logprob": -0.263671875
+      },
+      {
+        "id": 4,
+        "start": 129.597,
+        "end": 132.162,
+        "text": " Is that looking too young?",
+        "avg_logprob": -0.38476561648505075
+      },
+      {
+        "id": 5,
+        "start": 174.687,
+        "end": 178.67,
+        "text": " Hesitating",
+        "avg_logprob": -0.2098388671875
+      },
+      {
+        "id": 6,
+        "start": 206.716,
+        "end": 207.762,
+        "text": " Thank you.",
+        "avg_logprob": -0.9438476264476776
+      },
+      {
+        "id": 7,
+        "start": 262.353,
+        "end": 265.087,
+        "text": " I ain't waitin', uh-uh",
+        "avg_logprob": -0.38398437201976776
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "g4myghLPLZc",
+    "uploader": "Television - Topic",
+    "audio_file": "corpus/01_music_videos_audio/audio/g4myghLPLZc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 20429180,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 56.93957,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:11Z"
+  },
+  "status": "success",
+  "error": null
+}

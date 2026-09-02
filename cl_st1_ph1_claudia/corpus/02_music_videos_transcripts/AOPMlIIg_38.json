@@ -1,0 +1,77 @@
+{
+  "corpus_id": "AOPMlIIg_38",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/AOPMlIIg_38.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/AOPMlIIg_38.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/AOPMlIIg_38.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Stars shining as your bones illuminate First kiss just like a drug Under your influence Take me under, you're the magic in my veins This must be love No silver or no gold could dress me up so good You're the glitter in the darkness of my world Boom, clack, the sound of my heart The beat goes on and on and on and on and Boom, clack, it make me feel good Come on to me, come on to me now Boom, clack, the sound of my heart The beat goes on and on and on and on and Boom, clack, it make me feel good Come on to me, come on to me now You are the light and I will follow You let me lose my shadow",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 19.792,
+        "end": 35.283,
+        "text": " Stars shining as your bones illuminate First kiss just like a drug Under your influence Take me under, you're the magic in my veins This must be love",
+        "avg_logprob": -0.1739501990377903
+      },
+      {
+        "id": 2,
+        "start": 61.625,
+        "end": 71.007,
+        "text": " No silver or no gold could dress me up so good You're the glitter in the darkness of my world",
+        "avg_logprob": -0.07137783887711438
+      },
+      {
+        "id": 3,
+        "start": 81.993,
+        "end": 109.904,
+        "text": " Boom, clack, the sound of my heart The beat goes on and on and on and on and Boom, clack, it make me feel good Come on to me, come on to me now Boom, clack, the sound of my heart The beat goes on and on and on and on and Boom, clack, it make me feel good Come on to me, come on to me now You are the light and I will follow",
+        "avg_logprob": -0.0810010321847685
+      },
+      {
+        "id": 4,
+        "start": 110.377,
+        "end": 114.477,
+        "text": " You let me lose my shadow",
+        "avg_logprob": -0.14236885734966823
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "AOPMlIIg_38",
+    "uploader": "Charli xcx",
+    "audio_file": "corpus/01_music_videos_audio/audio/AOPMlIIg_38.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5667234,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.498934,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:15:53Z"
+  },
+  "status": "success",
+  "error": null
+}

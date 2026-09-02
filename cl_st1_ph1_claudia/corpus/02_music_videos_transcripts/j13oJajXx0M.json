@@ -1,0 +1,98 @@
+{
+  "corpus_id": "j13oJajXx0M",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/j13oJajXx0M.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/j13oJajXx0M.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/j13oJajXx0M.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Your hat strategically dipped below one eye. Your scarf, it was apricot. You had one eye in the mirror as you watched yourself go vat. And all the girls dreamed that they'd be your partner. I bet you think this song is about you You're so vain I bet you think this song is about you Don't you, don't you You had me several years ago I was still quite naive When you said that we made such a pretty pair And that you would never leave But you gave away the things you loved And one of them was me I had some dreams, they were clouds in my coffee Is about to be done I had some dreams they were clouds in my coffee clouds in my to saratoga and your horse naturally won then you flew your little jet up to nova scotia You're not, you're with some underworld spy or the wife of a close friend, wife of a close friend. And you're so vain, you probably think this song is about you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 27.368,
+        "end": 49.036,
+        "text": " Your hat strategically dipped below one eye. Your scarf, it was apricot. You had one eye in the mirror as you watched yourself go vat. And all the girls dreamed that they'd be your partner.",
+        "avg_logprob": -0.15607638756434122
+      },
+      {
+        "id": 2,
+        "start": 57.035,
+        "end": 76.323,
+        "text": " I bet you think this song is about you You're so vain I bet you think this song is about you Don't you, don't you You had me several years ago",
+        "avg_logprob": -0.1552734420531326
+      },
+      {
+        "id": 3,
+        "start": 77.032,
+        "end": 106.36,
+        "text": " I was still quite naive When you said that we made such a pretty pair And that you would never leave But you gave away the things you loved And one of them was me I had some dreams, they were clouds in my coffee",
+        "avg_logprob": -0.11020611353377079
+      },
+      {
+        "id": 4,
+        "start": 125.868,
+        "end": 128.028,
+        "text": " Is about to be done",
+        "avg_logprob": -0.910156269868215
+      },
+      {
+        "id": 5,
+        "start": 157.103,
+        "end": 162.79,
+        "text": " I had some dreams they were clouds in my coffee clouds in my",
+        "avg_logprob": -0.28599330144269125
+      },
+      {
+        "id": 6,
+        "start": 183.952,
+        "end": 196.422,
+        "text": " to saratoga and your horse naturally won then you flew your little jet up to nova scotia",
+        "avg_logprob": -0.33504970371723175
+      },
+      {
+        "id": 7,
+        "start": 205.433,
+        "end": 223.237,
+        "text": " You're not, you're with some underworld spy or the wife of a close friend, wife of a close friend. And you're so vain, you probably think this song is about you.",
+        "avg_logprob": -0.16123046390712262
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "j13oJajXx0M",
+    "uploader": "Carly Simon",
+    "audio_file": "corpus/01_music_videos_audio/audio/j13oJajXx0M.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8496724,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 7.398956,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:18:31Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,98 @@
+{
+  "corpus_id": "cjIvu7e6Wq8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/cjIvu7e6Wq8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/cjIvu7e6Wq8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/cjIvu7e6Wq8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "DJ, please pick up your phone. Put a hurtin' on y'all, like I told y'all Give me all your numbers so I can phone y'all Your girl actin' stank, then call me over Knock on the bed, lay me on your sofa Call before you come, I need to shave my cha-cha You do or you don't, or you will or won't cha Go downtown and eat it like a vo-cha See my hips, big hips, so cha See my butt and my lips, don't cha Lost a few pounds in my waist for y'all This the kind of beat that go ra-ta-ta, ra-ta-ta-ta I need a glass of water. Boy, oh boy, it's good to know y'all. Get a pedicure. Cut the lights on so you see what I can do. Is it worth it? Let me work it. I put my thing down, flip it and reverse it. It's your primitive, it's why I need that number. It's your primitive, it's why I need that number. If you got a big, let me search it. To find out how hard I gotta work it. It's your primitive, it's why I need that number. It's your primitive, it's why I need that number. Boys, boys, all type of boys. Black, white, Puerto Rican, Chinese boys. Wine, thang, thang, yuh, thang, yuh. What? What? Let me work.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 2.782,
+        "end": 5.971,
+        "text": " DJ, please pick up your phone.",
+        "avg_logprob": -0.2957899305555556
+      },
+      {
+        "id": 2,
+        "start": 51.753,
+        "end": 78.736,
+        "text": " Put a hurtin' on y'all, like I told y'all Give me all your numbers so I can phone y'all Your girl actin' stank, then call me over Knock on the bed, lay me on your sofa Call before you come, I need to shave my cha-cha You do or you don't, or you will or won't cha Go downtown and eat it like a vo-cha See my hips, big hips, so cha See my butt and my lips, don't cha Lost a few pounds in my waist for y'all This the kind of beat that go ra-ta-ta, ra-ta-ta-ta",
+        "avg_logprob": -0.11565896793120149
+      },
+      {
+        "id": 3,
+        "start": 81.217,
+        "end": 87.157,
+        "text": " I need a glass of water. Boy, oh boy, it's good to know y'all.",
+        "avg_logprob": -0.15118963000449268
+      },
+      {
+        "id": 4,
+        "start": 107.693,
+        "end": 137.68,
+        "text": " Get a pedicure.",
+        "avg_logprob": -0.7131696428571429
+      },
+      {
+        "id": 5,
+        "start": 145.257,
+        "end": 173.86,
+        "text": " Cut the lights on so you see what I can do. Is it worth it? Let me work it. I put my thing down, flip it and reverse it. It's your primitive, it's why I need that number. It's your primitive, it's why I need that number. If you got a big, let me search it. To find out how hard I gotta work it. It's your primitive, it's why I need that number. It's your primitive, it's why I need that number. Boys, boys, all type of boys. Black, white, Puerto Rican, Chinese boys. Wine, thang, thang, yuh, thang, yuh.",
+        "avg_logprob": -0.15334052052991143
+      },
+      {
+        "id": 6,
+        "start": 179.48,
+        "end": 201.687,
+        "text": " What? What?",
+        "avg_logprob": -0.934375
+      },
+      {
+        "id": 7,
+        "start": 201.687,
+        "end": 216.301,
+        "text": " Let me work.",
+        "avg_logprob": -0.66171875
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "cjIvu7e6Wq8",
+    "uploader": "Missy Elliott",
+    "audio_file": "corpus/01_music_videos_audio/audio/cjIvu7e6Wq8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8488550,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.690629,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:22:38Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,112 @@
+{
+  "corpus_id": "DL7-CKirWZE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/DL7-CKirWZE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/DL7-CKirWZE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/DL7-CKirWZE.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Wake up kids, we got the dreamer's disease. Age 14, they got you down on your knees. So polite, we're busy still saying please. Friend or miss, we'll wear you down at your friend. Every night, we smash your Mercedes Benz. First we run, and then we laugh. When the night You got the music in you. Don't let go. You got the music in you. One dance left. This world is gonna pull through. Don't give up. You got a reason to live. Can't forget. We only get what we get. I'm coming home, baby. Your time's up. Give it to me now. 4 a.m., we're at Miracle Mile. We're flat broke, but hey, we do it in style. The Barrett's gots flying in for your child. But when the night is falling, you cannot find your friend. You feel your dreams breaking. Music in you Don't let go You got the music in you One dance left This world is gonna flow through Don't give up You got a reason to live Can't forget We only get what we give You're in harm's way I'm right behind Now say you're mine I feel the music in you Don't let go, you got the music in you One dance left, this world is gonna pull through Don't give up, you got a reason to live Can't forget, we only get what we give Don't let go, I feel the music in you Yeah, yeah, yeah You only get what you give. Health insurance, flip-flop flying. FDA, big bankers buying. Fake computer crashes, dining. Cloning, welding, multiplying. Fashion shoots with Beck and Hanson. Courtney Love and Marilyn Manson. You're all fakes, run to your mansions. Come around, we'll kick your ass. We'll be right back.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 34.22,
+        "end": 62.35,
+        "text": " Wake up kids, we got the dreamer's disease. Age 14, they got you down on your knees. So polite, we're busy still saying please. Friend or miss, we'll wear you down at your friend. Every night, we smash your Mercedes Benz. First we run, and then we laugh.",
+        "avg_logprob": -0.16027461624506747
+      },
+      {
+        "id": 2,
+        "start": 67.43,
+        "end": 69.252,
+        "text": " When the night",
+        "avg_logprob": -0.7666015326976776
+      },
+      {
+        "id": 3,
+        "start": 82.432,
+        "end": 111.338,
+        "text": " You got the music in you. Don't let go. You got the music in you. One dance left. This world is gonna pull through. Don't give up. You got a reason to live. Can't forget. We only get what we get. I'm coming home, baby. Your time's up.",
+        "avg_logprob": -0.1130445058824438
+      },
+      {
+        "id": 4,
+        "start": 112.688,
+        "end": 141.578,
+        "text": " Give it to me now. 4 a.m., we're at Miracle Mile. We're flat broke, but hey, we do it in style. The Barrett's gots flying in for your child. But when the night is falling, you cannot find your friend. You feel your dreams breaking.",
+        "avg_logprob": -0.17626953357830644
+      },
+      {
+        "id": 5,
+        "start": 146.438,
+        "end": 164.9,
+        "text": " Music in you Don't let go You got the music in you One dance left This world is gonna flow through Don't give up You got a reason to live Can't forget We only get what we give",
+        "avg_logprob": -0.11039806565358526
+      },
+      {
+        "id": 6,
+        "start": 186.297,
+        "end": 191.883,
+        "text": " You're in harm's way I'm right behind Now say you're mine",
+        "avg_logprob": -0.2139892615377903
+      },
+      {
+        "id": 7,
+        "start": 199.038,
+        "end": 223.895,
+        "text": " I feel the music in you Don't let go, you got the music in you One dance left, this world is gonna pull through Don't give up, you got a reason to live Can't forget, we only get what we give Don't let go, I feel the music in you Yeah, yeah, yeah",
+        "avg_logprob": -0.13197115384615385
+      },
+      {
+        "id": 8,
+        "start": 244.651,
+        "end": 267.432,
+        "text": " You only get what you give. Health insurance, flip-flop flying. FDA, big bankers buying. Fake computer crashes, dining. Cloning, welding, multiplying. Fashion shoots with Beck and Hanson. Courtney Love and Marilyn Manson. You're all fakes, run to your mansions. Come around, we'll kick your ass.",
+        "avg_logprob": -0.15678509620771017
+      },
+      {
+        "id": 9,
+        "start": 273.507,
+        "end": 277.473,
+        "text": " We'll be right back.",
+        "avg_logprob": -0.5719865901129586
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "DL7-CKirWZE",
+    "uploader": "NewRadicalsVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/DL7-CKirWZE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8878646,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.010517,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:08:49Z"
+  },
+  "status": "success",
+  "error": null
+}

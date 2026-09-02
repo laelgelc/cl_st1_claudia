@@ -1,0 +1,91 @@
+{
+  "corpus_id": "uTMuqL0qx08",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uTMuqL0qx08.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/uTMuqL0qx08.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/uTMuqL0qx08.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I've been watching you like the hawk in the sky. If I were you, I'd pray. Boy, I promise you, if we keep bumping heads and know that one of these days, we gonna hook it up, probably talk on the phone. But see, I don't know if that's good. I've been holding back this secret for Say yes or say no. Cause I really need somebody. Tell me about somebody. Boy, won't you pick me up at the park right now? Up the block while everyone's asleep. I'll be waiting there with my chips, my loaves, my hat, just so I'm low key. If you tell the world, you know that we'll be weak. Oh, boy. See, I'm trusting you with my heart, my soul. I probably shouldn't let you go. If I let this go, you can't tell nobody. I'm talking about nobody. I hope you're responsible. Boy, I gotta watch my back. I'm not just here to cry. Is it my fault? Big B.A. Why don't you come play around my way? Listen to what I got to say. Timberland. Don't you know I am the man? Rock shows here in the gym, Japan. Have people shaking my hand. Baby girl. Better known as Ali. Give me goosebumps and high feet. Make a play, haters believe. Don't you know? Gotta tell somebody. Cause I really need somebody. Tell me I got somebody. Thank you. Is it my goal? Is it your goal?",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 30.237,
+        "end": 53.558,
+        "text": " I've been watching you like the hawk in the sky. If I were you, I'd pray. Boy, I promise you, if we keep bumping heads and know that one of these days, we gonna hook it up, probably talk on the phone. But see, I don't know if that's good. I've been holding back this secret for",
+        "avg_logprob": -0.12822917064030964
+      },
+      {
+        "id": 2,
+        "start": 77.993,
+        "end": 106.09,
+        "text": " Say yes or say no. Cause I really need somebody. Tell me about somebody. Boy, won't you pick me up at the park right now? Up the block while everyone's asleep. I'll be waiting there with my chips, my loaves, my hat, just so I'm low key. If you tell the world, you know that we'll be weak. Oh, boy.",
+        "avg_logprob": -0.2044753086419753
+      },
+      {
+        "id": 3,
+        "start": 106.445,
+        "end": 127.589,
+        "text": " See, I'm trusting you with my heart, my soul. I probably shouldn't let you go. If I let this go, you can't tell nobody. I'm talking about nobody. I hope you're responsible. Boy, I gotta watch my back. I'm not just here to cry. Is it my fault?",
+        "avg_logprob": -0.09829757262521716
+      },
+      {
+        "id": 4,
+        "start": 141.697,
+        "end": 167.347,
+        "text": " Big B.A. Why don't you come play around my way? Listen to what I got to say. Timberland. Don't you know I am the man? Rock shows here in the gym, Japan. Have people shaking my hand. Baby girl. Better known as Ali. Give me goosebumps and high feet. Make a play, haters believe. Don't you know? Gotta tell somebody. Cause I really need somebody. Tell me I got somebody.",
+        "avg_logprob": -0.26710526817723323
+      },
+      {
+        "id": 5,
+        "start": 175.784,
+        "end": 192.76,
+        "text": " Thank you.",
+        "avg_logprob": -0.7172851413488388
+      },
+      {
+        "id": 6,
+        "start": 219.035,
+        "end": 240.517,
+        "text": " Is it my goal? Is it your goal?",
+        "avg_logprob": -0.22567471319978888
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "uTMuqL0qx08",
+    "uploader": "Blackground Records 2.0",
+    "audio_file": "corpus/01_music_videos_audio/audio/uTMuqL0qx08.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8426136,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.652565,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:20:48Z"
+  },
+  "status": "success",
+  "error": null
+}

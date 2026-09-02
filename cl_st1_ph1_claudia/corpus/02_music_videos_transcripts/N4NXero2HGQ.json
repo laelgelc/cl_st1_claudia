@@ -1,0 +1,84 @@
+{
+  "corpus_id": "N4NXero2HGQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/N4NXero2HGQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/N4NXero2HGQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/N4NXero2HGQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "No matter what you are I will always be with you Doesn't matter what you do, girl Who'll go with you No matter what you do I will always be around Won't you tell me what you found, girl Nothing to say, nothing to see, nothing to do If you would give me all I would give it to you Nothing would be, nothing would be, nothing would be No matter where you go Can't you see it in my face, girl? Oh, girl I would give it to you. Nothing would be. Nothing would be. Nothing would be. No matter what you are, I will always be with you. Doesn't matter what you do. Look out. Look out with you. Ooh. I want you. I want you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 13.025,
+        "end": 41.712,
+        "text": " No matter what you are I will always be with you Doesn't matter what you do, girl Who'll go with you No matter what you do I will always be around Won't you tell me what you found, girl",
+        "avg_logprob": -0.12161458664470248
+      },
+      {
+        "id": 2,
+        "start": 55.448,
+        "end": 82.6,
+        "text": " Nothing to say, nothing to see, nothing to do If you would give me all I would give it to you Nothing would be, nothing would be, nothing would be No matter where you go",
+        "avg_logprob": -0.11044921875
+      },
+      {
+        "id": 3,
+        "start": 88.203,
+        "end": 93.232,
+        "text": " Can't you see it in my face, girl? Oh, girl",
+        "avg_logprob": -0.23932292858759563
+      },
+      {
+        "id": 4,
+        "start": 135.318,
+        "end": 164.41,
+        "text": " I would give it to you. Nothing would be. Nothing would be. Nothing would be. No matter what you are, I will always be with you. Doesn't matter what you do. Look out. Look out with you. Ooh.",
+        "avg_logprob": -0.14359375089406967
+      },
+      {
+        "id": 5,
+        "start": 166.79,
+        "end": 177.995,
+        "text": " I want you. I want you.",
+        "avg_logprob": -0.6631944444444444
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "N4NXero2HGQ",
+    "uploader": "Smurfstools Oldies Music Time Machine",
+    "audio_file": "corpus/01_music_videos_audio/audio/N4NXero2HGQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5982282,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.515497,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:08:13Z"
+  },
+  "status": "success",
+  "error": null
+}

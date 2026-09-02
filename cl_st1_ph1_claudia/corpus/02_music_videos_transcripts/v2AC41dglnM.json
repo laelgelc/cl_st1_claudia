@@ -1,0 +1,91 @@
+{
+  "corpus_id": "v2AC41dglnM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/v2AC41dglnM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/v2AC41dglnM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/v2AC41dglnM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": ". . . . . My mind graced and I thought, what could I do? And I knew there was no help, no help from you Sound of the drums beating in my heart The thunder of guns Thunderstruck Thunderstruck Yeah, yeah, yeah Thunderstruck Could I come against thee? Thunderstruck Yeah, yeah, yeah Thunderstruck Thunderstruck Yeah, yeah, yeah Yeah, it's our way We'll do it fine Yeah, it's our way We'll do it fine Thunderstruck Thunderstruck Thunderstruck! Thunderstruck! Give me thunderstruck!",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.605,
+        "end": 25.732,
+        "text": " . . . . .",
+        "avg_logprob": -0.830078125
+      },
+      {
+        "id": 2,
+        "start": 78.635,
+        "end": 103.407,
+        "text": " My mind graced and I thought, what could I do? And I knew there was no help, no help from you Sound of the drums beating in my heart The thunder of guns",
+        "avg_logprob": -0.17752877818910698
+      },
+      {
+        "id": 3,
+        "start": 150.573,
+        "end": 171.076,
+        "text": " Thunderstruck Thunderstruck Yeah, yeah, yeah Thunderstruck",
+        "avg_logprob": -0.2966145714124044
+      },
+      {
+        "id": 4,
+        "start": 189.402,
+        "end": 191.731,
+        "text": " Could I come against thee?",
+        "avg_logprob": -0.4243861607142857
+      },
+      {
+        "id": 5,
+        "start": 226.882,
+        "end": 256.784,
+        "text": " Thunderstruck Yeah, yeah, yeah Thunderstruck Thunderstruck Yeah, yeah, yeah Yeah, it's our way We'll do it fine Yeah, it's our way We'll do it fine Thunderstruck Thunderstruck",
+        "avg_logprob": -0.28629558347165585
+      },
+      {
+        "id": 6,
+        "start": 265.745,
+        "end": 280.578,
+        "text": " Thunderstruck! Thunderstruck! Give me thunderstruck!",
+        "avg_logprob": -0.3848958253860474
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "v2AC41dglnM",
+    "uploader": "AC/DC",
+    "audio_file": "corpus/01_music_videos_audio/audio/v2AC41dglnM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9375738,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.619532,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:53:03Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,98 @@
+{
+  "corpus_id": "eVTXPUF4Oz4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/eVTXPUF4Oz4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/eVTXPUF4Oz4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/eVTXPUF4Oz4.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "🎵 🎵 It starts with one thing. I don't know why. It doesn't even matter how hard you try. Keep that in mind. I'm resigned this rhyme to explain in due time. All I know. Time is a valuable thing. Watch it fly by as the pendulum swings. Watch it count down to the end of the day. The clock ticks life away. It's so unreal. Didn't look out below. Watch the time go right out the window. Trying to hold It didn't even know I wasted it all just to watch you go I kept everything inside and even though I tried It all fell apart What it meant to be will eventually be a memory of a time I tried so hard and got so far I don't know why, it doesn't even matter how hard you try Keep that in mind, I designed this rhyme to remind myself how I tried So hard, in spite of the way you were mocking me Acting like I was part of your property Remembering all the times you fought with me I'm surprised it got so hard Things aren't the way they were before You wouldn't even recognize me anymore Not that you knew me back then, but it all comes back to me in the end You kept everything inside and even though I tried, it all fell apart What it meant to me will eventually be a memory of a time when I tried so I've put my trust in you Pushed as far as I can go For all this There's only one thing you should know I've put my trust in you Pushed as far as And got so far But in the end It doesn't even matter I had to fall To lose it all But in the end It doesn't even matter",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.908,
+        "end": 15.944,
+        "text": " 🎵 🎵",
+        "avg_logprob": -1.2115885416666667
+      },
+      {
+        "id": 2,
+        "start": 18.661,
+        "end": 43.366,
+        "text": " It starts with one thing. I don't know why. It doesn't even matter how hard you try. Keep that in mind. I'm resigned this rhyme to explain in due time. All I know. Time is a valuable thing. Watch it fly by as the pendulum swings. Watch it count down to the end of the day. The clock ticks life away. It's so unreal. Didn't look out below. Watch the time go right out the window. Trying to hold",
+        "avg_logprob": -0.1328125069944226
+      },
+      {
+        "id": 3,
+        "start": 43.366,
+        "end": 58.79,
+        "text": " It didn't even know I wasted it all just to watch you go I kept everything inside and even though I tried It all fell apart What it meant to be will eventually be a memory of a time I tried so hard and got so far",
+        "avg_logprob": -0.10459183916753652
+      },
+      {
+        "id": 4,
+        "start": 75.209,
+        "end": 102.513,
+        "text": " I don't know why, it doesn't even matter how hard you try Keep that in mind, I designed this rhyme to remind myself how I tried So hard, in spite of the way you were mocking me Acting like I was part of your property Remembering all the times you fought with me I'm surprised it got so hard Things aren't the way they were before You wouldn't even recognize me anymore Not that you knew me back then, but it all comes back to me in the end",
+        "avg_logprob": -0.0502343738079071
+      },
+      {
+        "id": 5,
+        "start": 102.513,
+        "end": 111.271,
+        "text": " You kept everything inside and even though I tried, it all fell apart What it meant to me will eventually be a memory of a time when I tried so",
+        "avg_logprob": -0.07202148786745965
+      },
+      {
+        "id": 6,
+        "start": 130.762,
+        "end": 155.365,
+        "text": " I've put my trust in you Pushed as far as I can go For all this There's only one thing you should know I've put my trust in you Pushed as far as",
+        "avg_logprob": -0.073717950628354
+      },
+      {
+        "id": 7,
+        "start": 169.135,
+        "end": 188.626,
+        "text": " And got so far But in the end It doesn't even matter I had to fall To lose it all But in the end It doesn't even matter",
+        "avg_logprob": -0.05122227894683038
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "eVTXPUF4Oz4",
+    "uploader": "Linkin Park",
+    "audio_file": "corpus/01_music_videos_audio/audio/eVTXPUF4Oz4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6984640,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.92289,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:05:50Z"
+  },
+  "status": "success",
+  "error": null
+}

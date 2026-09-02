@@ -1,0 +1,91 @@
+{
+  "corpus_id": "etviGf1uWlg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/etviGf1uWlg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/etviGf1uWlg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/etviGf1uWlg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "How do you say? How do you say? How do you say? We're going to dance. We're going to dance. We're going to dance and have some fun. And the chills that you spill on my back Keep me filled with satisfaction when we're done Satisfaction of what's to come I couldn't ask for another No, I couldn't ask for another Your groove I do deeply dig No walls, only the bridge My summer dish, my cricotish wish I couldn't ask for another Move the soup, then soup. We're going through two. What is who? I couldn't ask for another. No, I couldn't ask for another. DJ Salt was on a roll. I've been told he can't be sold. He's not vicious or malicious, just lovely and delicious. I couldn't ask for another. this torso. Heart got a deal, you won't know. Delightful, truly delightful. Making it, doing it, especially at a show. Feeling kinda high like a Hendrix haze. Music makes motion moves like a maze. All inside of me, heart especially. Hope of the rhythm, where I wanna be. Blowing, blowing with electric eyes. You dip to the dive, baby, you'll realize. Baby, you'll see the funk inside of me. Baby, you'll see that rhythm is the key. Hit Get witty, witty, can't think witty, witty. Stomp on a scoop when I hear a funk group. Blue player, pop pipe, follow hoods and shoot. Baby, just sing about the groove. Sing it. Oh, and oh yeah, don't forget, groove is in the heart, and delight has definitely been known to smoke. On stage, that is. Degroove it!",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 8.62,
+        "end": 37.105,
+        "text": " How do you say? How do you say? How do you say? We're going to dance. We're going to dance. We're going to dance and have some fun.",
+        "avg_logprob": -0.16128701246098467
+      },
+      {
+        "id": 2,
+        "start": 58.368,
+        "end": 84.473,
+        "text": " And the chills that you spill on my back Keep me filled with satisfaction when we're done Satisfaction of what's to come I couldn't ask for another No, I couldn't ask for another Your groove I do deeply dig No walls, only the bridge My summer dish, my cricotish wish I couldn't ask for another",
+        "avg_logprob": -0.19599185300909955
+      },
+      {
+        "id": 3,
+        "start": 132.517,
+        "end": 156.968,
+        "text": " Move the soup, then soup. We're going through two. What is who? I couldn't ask for another. No, I couldn't ask for another. DJ Salt was on a roll. I've been told he can't be sold. He's not vicious or malicious, just lovely and delicious. I couldn't ask for another.",
+        "avg_logprob": -0.16897320704800742
+      },
+      {
+        "id": 4,
+        "start": 163.702,
+        "end": 187.31,
+        "text": " this torso. Heart got a deal, you won't know. Delightful, truly delightful. Making it, doing it, especially at a show. Feeling kinda high like a Hendrix haze. Music makes motion moves like a maze. All inside of me, heart especially. Hope of the rhythm, where I wanna be. Blowing, blowing with electric eyes. You dip to the dive, baby, you'll realize. Baby, you'll see the funk inside of me. Baby, you'll see that rhythm is the key. Hit",
+        "avg_logprob": -0.14724099824020453
+      },
+      {
+        "id": 5,
+        "start": 187.31,
+        "end": 195.646,
+        "text": " Get witty, witty, can't think witty, witty. Stomp on a scoop when I hear a funk group. Blue player, pop pipe, follow hoods and shoot. Baby, just sing about the groove. Sing it.",
+        "avg_logprob": -0.3392427855959305
+      },
+      {
+        "id": 6,
+        "start": 266.403,
+        "end": 281.371,
+        "text": " Oh, and oh yeah, don't forget, groove is in the heart, and delight has definitely been known to smoke. On stage, that is. Degroove it!",
+        "avg_logprob": -0.18296030566499039
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "etviGf1uWlg",
+    "uploader": "Deee-Lite",
+    "audio_file": "corpus/01_music_videos_audio/audio/etviGf1uWlg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9305150,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.974895,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:21:12Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,98 @@
+{
+  "corpus_id": "5dnktss4Vow",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/5dnktss4Vow.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/5dnktss4Vow.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/5dnktss4Vow.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "He said, I'll love you till I die. She told him he'd forgive him time. I watched the years pass slowly by. And she still prayed upon his mind. He kept her pictures on his wall Went half crazy down there Ah, but he still loved her through it all Kept hoping she'd come back again He found love letters by his bed Dated 1962 He had underlined and read I love you I went to see my friend today But I didn't see no tears He was all dressed up to go away First time I'd seen him smiling you He stopped loving her today They placed the wreath upon his door Soon they'll carry him away He stopped loving her today You know she came back for her last time today Oh, and we all wondered if she would And it kept running through my mind Well, this time he's over her for good They placed a wreath upon his door Soon they'll carry him away He stopped loving her today",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 3.305,
+        "end": 26.879,
+        "text": " He said, I'll love you till I die. She told him he'd forgive him time. I watched the years pass slowly by. And she still prayed upon his mind.",
+        "avg_logprob": -0.1885557416323069
+      },
+      {
+        "id": 2,
+        "start": 29.309,
+        "end": 52.31,
+        "text": " He kept her pictures on his wall Went half crazy down there Ah, but he still loved her through it all Kept hoping she'd come back again",
+        "avg_logprob": -0.16255040322580644
+      },
+      {
+        "id": 3,
+        "start": 55.212,
+        "end": 76.694,
+        "text": " He found love letters by his bed Dated 1962 He had underlined and read",
+        "avg_logprob": -0.30997242647058826
+      },
+      {
+        "id": 4,
+        "start": 77.032,
+        "end": 105.584,
+        "text": " I love you I went to see my friend today But I didn't see no tears He was all dressed up to go away First time I'd seen him smiling you",
+        "avg_logprob": -0.18106617734712713
+      },
+      {
+        "id": 5,
+        "start": 107.423,
+        "end": 135.2,
+        "text": " He stopped loving her today They placed the wreath upon his door Soon they'll carry him away He stopped loving her today",
+        "avg_logprob": -0.20109375
+      },
+      {
+        "id": 6,
+        "start": 138.473,
+        "end": 159.803,
+        "text": " You know she came back for her last time today Oh, and we all wondered if she would And it kept running through my mind Well, this time he's over her for good",
+        "avg_logprob": -0.13091215571841677
+      },
+      {
+        "id": 7,
+        "start": 164.933,
+        "end": 184.019,
+        "text": " They placed a wreath upon his door Soon they'll carry him away He stopped loving her today",
+        "avg_logprob": -0.17402343899011613
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "5dnktss4Vow",
+    "uploader": "GuriMalla2010",
+    "audio_file": "corpus/01_music_videos_audio/audio/5dnktss4Vow.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6310704,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 41.91713,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:58:39Z"
+  },
+  "status": "success",
+  "error": null
+}

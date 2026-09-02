@@ -1,0 +1,98 @@
+{
+  "corpus_id": "0KSOMA3QBU0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/0KSOMA3QBU0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/0KSOMA3QBU0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/0KSOMA3QBU0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Yeah, y'all know what it is. Katy Perry. Juicy J. Uh-huh. Let's rage. And here you are. You were gonna come to me. And here you are. But you better choose carefully. Cause I, I'm capable of anything. Of anything. And everything. Make me your reference. Make me your one and only Don't make me your enemy Your enemy, your enemy So you wanna play with magic Boy, you should know what you're falling for Baby, do you dare to do this? Cause I'm coming at you like a dark horse If you choose to walk away, don't walk away It's in the palm of your hand now, baby It's a yes or a no, no, maybe Before you give it all to me, all to me Give it all to me So you wanna play with magic Boy, you should know what you're falling for Baby, do you dare to do this? Cause I'm coming after you She's a beast. I call her karma. She eats your heart out like Jeffrey Dahmer. Be careful. Try not to lead her on. Shorty heart that's on steroids because her love is so strong. You may fall in love when you meet her. If you get the chance, you better keep her. She sweet as pie, but if you break her heart, she turn cold as a freezer. That fairy tale ending with a knight in shiny armor. She can be my sleeping beauty. I'm going to put her in a coma. Woo! don't care. She wrapped me like a roller coaster, turned the bedroom into a fair. Her love is like a drug. I was trying to hit it and quit it, but little mama's so dope, I messed around and got addicted. So you want to play with magic? Boy, you should know what you're falling for, baby. There's no going back.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 9.903,
+        "end": 35.738,
+        "text": " Yeah, y'all know what it is. Katy Perry. Juicy J. Uh-huh. Let's rage. And here you are. You were gonna come to me. And here you are. But you better choose carefully. Cause I, I'm capable of anything. Of anything. And everything. Make me your reference.",
+        "avg_logprob": -0.1060348705968995
+      },
+      {
+        "id": 2,
+        "start": 37.645,
+        "end": 63.818,
+        "text": " Make me your one and only Don't make me your enemy Your enemy, your enemy So you wanna play with magic Boy, you should know what you're falling for Baby, do you dare to do this? Cause I'm coming at you like a dark horse",
+        "avg_logprob": -0.07620872472817043
+      },
+      {
+        "id": 3,
+        "start": 93.063,
+        "end": 106.107,
+        "text": " If you choose to walk away, don't walk away It's in the palm of your hand now, baby It's a yes or a no, no, maybe",
+        "avg_logprob": -0.06313189645023908
+      },
+      {
+        "id": 4,
+        "start": 108.757,
+        "end": 127.572,
+        "text": " Before you give it all to me, all to me Give it all to me So you wanna play with magic Boy, you should know what you're falling for Baby, do you dare to do this? Cause I'm coming after you",
+        "avg_logprob": -0.08837890392169356
+      },
+      {
+        "id": 5,
+        "start": 144.329,
+        "end": 172.291,
+        "text": " She's a beast. I call her karma. She eats your heart out like Jeffrey Dahmer. Be careful. Try not to lead her on. Shorty heart that's on steroids because her love is so strong. You may fall in love when you meet her. If you get the chance, you better keep her. She sweet as pie, but if you break her heart, she turn cold as a freezer. That fairy tale ending with a knight in shiny armor. She can be my sleeping beauty. I'm going to put her in a coma. Woo!",
+        "avg_logprob": -0.07649456884550011
+      },
+      {
+        "id": 6,
+        "start": 175.092,
+        "end": 195.578,
+        "text": " don't care. She wrapped me like a roller coaster, turned the bedroom into a fair. Her love is like a drug. I was trying to hit it and quit it, but little mama's so dope, I messed around and got addicted. So you want to play with magic? Boy, you should know what you're falling for, baby.",
+        "avg_logprob": -0.1274956570317348
+      },
+      {
+        "id": 7,
+        "start": 214.833,
+        "end": 216.183,
+        "text": " There's no going back.",
+        "avg_logprob": -0.18191963859966823
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "0KSOMA3QBU0",
+    "uploader": "Katy Perry",
+    "audio_file": "corpus/01_music_videos_audio/audio/0KSOMA3QBU0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7201608,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.232514,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:06:56Z"
+  },
+  "status": "success",
+  "error": null
+}

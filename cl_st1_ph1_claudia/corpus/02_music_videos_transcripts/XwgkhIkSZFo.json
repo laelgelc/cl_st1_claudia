@@ -1,0 +1,84 @@
+{
+  "corpus_id": "XwgkhIkSZFo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/XwgkhIkSZFo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/XwgkhIkSZFo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/XwgkhIkSZFo.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "This is a song called I'm Waitin' For My Man. I've got $26 in my hand. One, two, Lexington. One, two, Lexington. Yeah, white boy, you're chasing all the women around. Oh, God, me son, love, these brothers run my mind. I'm just waiting for us. Crawlin' up to a brownstone, up three flats instead Now everybody's a bitch, babe, but nobody cares It's got the worst, it gives you sweet taste And I ain't gotta sweat because you got the right Hey, baby, don't you holla, holla, don't you holla and shout.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 4.655,
+        "text": " This is a song called I'm Waitin' For My Man.",
+        "avg_logprob": -0.19270833532015483
+      },
+      {
+        "id": 2,
+        "start": 44.733,
+        "end": 55.482,
+        "text": " I've got $26 in my hand. One, two, Lexington. One, two, Lexington.",
+        "avg_logprob": -0.4192708333333333
+      },
+      {
+        "id": 3,
+        "start": 80.778,
+        "end": 95.02,
+        "text": " Yeah, white boy, you're chasing all the women around. Oh, God, me son, love, these brothers run my mind. I'm just waiting for us.",
+        "avg_logprob": -0.4835069427887599
+      },
+      {
+        "id": 4,
+        "start": 215.153,
+        "end": 244.6,
+        "text": " Crawlin' up to a brownstone, up three flats instead Now everybody's a bitch, babe, but nobody cares It's got the worst, it gives you sweet taste And I ain't gotta sweat because you got the right",
+        "avg_logprob": -0.4601063753696198
+      },
+      {
+        "id": 5,
+        "start": 253.477,
+        "end": 262.538,
+        "text": " Hey, baby, don't you holla, holla, don't you holla and shout.",
+        "avg_logprob": -0.32617186822674493
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "XwgkhIkSZFo",
+    "uploader": "AnalogAnarchy99",
+    "audio_file": "corpus/01_music_videos_audio/audio/XwgkhIkSZFo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10873704,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 33.068194,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:03:54Z"
+  },
+  "status": "success",
+  "error": null
+}

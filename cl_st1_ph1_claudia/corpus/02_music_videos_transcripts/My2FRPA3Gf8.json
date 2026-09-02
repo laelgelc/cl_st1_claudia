@@ -1,0 +1,105 @@
+{
+  "corpus_id": "My2FRPA3Gf8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/My2FRPA3Gf8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/My2FRPA3Gf8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/My2FRPA3Gf8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "We clawed, we chained our hearts in vain. We jumped, never asking why. We kissed, I fell under your spell. A love no one could deny. Don't you ever say I just walked away. I will always want you. I can't live a lie, running for my life I will always want you I came in like a wrecking ball I put you high up in the sky and now you're not coming down. It slowly turned. You let me burn. And now we're ashes on the ground. Don't you ever say I just walked away. I will. I can never lie. Running for my life. I will always want you. I came in like a wrecking ball. I never hit so hard in love. All I wanted was to break your walls. All you ever did was I never meant to start a war I just wanted you to let me in And instead of using force I guess I should have let you in I never meant to start a war I just wanted you to let me in I guess I should've let you in Don't you ever say I just walked away I will always want you I came in like a wrecking ball Was to break you out All you ever did Yeah you, you wreck me Yeah you, you wreck me",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 8.806,
+        "end": 32.144,
+        "text": " We clawed, we chained our hearts in vain. We jumped, never asking why. We kissed, I fell under your spell. A love no one could deny. Don't you ever say I just walked away. I will always want you.",
+        "avg_logprob": -0.056865983785918124
+      },
+      {
+        "id": 2,
+        "start": 33.308,
+        "end": 45.273,
+        "text": " I can't live a lie, running for my life I will always want you I came in like a wrecking ball",
+        "avg_logprob": -0.09343749761581421
+      },
+      {
+        "id": 3,
+        "start": 60.089,
+        "end": 84.338,
+        "text": " I put you high up in the sky and now you're not coming down. It slowly turned. You let me burn. And now we're ashes on the ground. Don't you ever say I just walked away. I will.",
+        "avg_logprob": -0.12133788938323657
+      },
+      {
+        "id": 4,
+        "start": 87.038,
+        "end": 108.065,
+        "text": " I can never lie. Running for my life. I will always want you. I came in like a wrecking ball. I never hit so hard in love. All I wanted was to break your walls. All you ever did was",
+        "avg_logprob": -0.07088216440752149
+      },
+      {
+        "id": 5,
+        "start": 118.865,
+        "end": 148.497,
+        "text": " I never meant to start a war I just wanted you to let me in And instead of using force I guess I should have let you in",
+        "avg_logprob": -0.1582704782485962
+      },
+      {
+        "id": 6,
+        "start": 149.054,
+        "end": 175.362,
+        "text": " I never meant to start a war I just wanted you to let me in I guess I should've let you in Don't you ever say I just walked away I will always want you I came in like a wrecking ball",
+        "avg_logprob": -0.04870074882131556
+      },
+      {
+        "id": 7,
+        "start": 180.475,
+        "end": 184.947,
+        "text": " Was to break you out All you ever did",
+        "avg_logprob": -0.5140625238418579
+      },
+      {
+        "id": 8,
+        "start": 203.02,
+        "end": 213.466,
+        "text": " Yeah you, you wreck me Yeah you, you wreck me",
+        "avg_logprob": -0.3617788553237915
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "My2FRPA3Gf8",
+    "uploader": "MILEY",
+    "audio_file": "corpus/01_music_videos_audio/audio/My2FRPA3Gf8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7081978,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.003387,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:17:58Z"
+  },
+  "status": "success",
+  "error": null
+}

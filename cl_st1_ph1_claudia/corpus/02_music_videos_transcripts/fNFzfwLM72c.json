@@ -1,0 +1,70 @@
+{
+  "corpus_id": "fNFzfwLM72c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/fNFzfwLM72c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/fNFzfwLM72c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/fNFzfwLM72c.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I'm a woman's man, no time to talk Whether you're a brother or whether you're a mommy Stayin' alive, stayin' alive Feel the city breakin' and everybody shakin' Stayin' alive, stayin' alive Stayin' alive, stayin' alive Stayin' alive, stayin' alive Stayin' alive Stayin' alive Stayin' alive",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 17.21,
+        "end": 20.197,
+        "text": " I'm a woman's man, no time to talk",
+        "avg_logprob": -0.19531250496705374
+      },
+      {
+        "id": 2,
+        "start": 81.2,
+        "end": 98.311,
+        "text": " Whether you're a brother or whether you're a mommy Stayin' alive, stayin' alive Feel the city breakin' and everybody shakin' Stayin' alive, stayin' alive Stayin' alive, stayin' alive Stayin' alive, stayin' alive",
+        "avg_logprob": -0.18008475081395295
+      },
+      {
+        "id": 3,
+        "start": 162.605,
+        "end": 169.473,
+        "text": " Stayin' alive Stayin' alive Stayin' alive",
+        "avg_logprob": -0.2645733173076923
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "fNFzfwLM72c",
+    "uploader": "beegees",
+    "audio_file": "corpus/01_music_videos_audio/audio/fNFzfwLM72c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7986256,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.827898,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:22:17Z"
+  },
+  "status": "success",
+  "error": null
+}

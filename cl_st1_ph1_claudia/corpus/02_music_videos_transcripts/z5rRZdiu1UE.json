@@ -1,0 +1,77 @@
+{
+  "corpus_id": "z5rRZdiu1UE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/z5rRZdiu1UE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/z5rRZdiu1UE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/z5rRZdiu1UE.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I've been standing, I know you're bleeding I'ma set it straight, this water deep I can't see what your enemy had Cause your crystal ball ain't so crystal clear So while you're sitting back and wondering why I've got this fucking thorn in my side Oh my god, it's so bright I'm telling you all it's sabotage I say nothing, you shut me down Thanks for watching! Thanks for watching!",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 18.475,
+        "end": 45.728,
+        "text": " I've been standing, I know you're bleeding I'ma set it straight, this water deep I can't see what your enemy had Cause your crystal ball ain't so crystal clear So while you're sitting back and wondering why I've got this fucking thorn in my side Oh my god, it's so bright I'm telling you all it's sabotage",
+        "avg_logprob": -0.3606418979329032
+      },
+      {
+        "id": 2,
+        "start": 54.47,
+        "end": 56.765,
+        "text": " I say nothing, you shut me down",
+        "avg_logprob": -0.3031684027777778
+      },
+      {
+        "id": 3,
+        "start": 89.755,
+        "end": 98.108,
+        "text": " Thanks for watching!",
+        "avg_logprob": -0.675390625
+      },
+      {
+        "id": 4,
+        "start": 169.912,
+        "end": 172.797,
+        "text": " Thanks for watching!",
+        "avg_logprob": -0.776171875
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "z5rRZdiu1UE",
+    "uploader": "BeastieBoys",
+    "audio_file": "corpus/01_music_videos_audio/audio/z5rRZdiu1UE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5863396,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.085082,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:55:01Z"
+  },
+  "status": "success",
+  "error": null
+}

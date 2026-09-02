@@ -1,0 +1,63 @@
+{
+  "corpus_id": "_7hAabfP8Ug",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/_7hAabfP8Ug.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/_7hAabfP8Ug.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/_7hAabfP8Ug.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Who's that lady? Who's that lady? Sexy lady. Who's that lady? Beautiful lady. Who's that lady? Little fine lady. Who's that lady? I would dance upon a string, and if she'd do not bring, I would give her anything if she would just do what I say. He's a lady, who's that lady? Beautiful lady, who's that lady? Lovely lady, who's that lady? Real, real fine lady, who's that lady? I would love to take her home, but her heart is made of stone. Gotta keep on keeping on, if I don't she'll do me wrong.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 2,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.027,
+        "end": 27.183,
+        "text": " Who's that lady? Who's that lady? Sexy lady. Who's that lady? Beautiful lady. Who's that lady? Little fine lady. Who's that lady? I would dance upon a string, and if she'd do not bring, I would give her anything if she would just do what I say.",
+        "avg_logprob": -0.169625948324348
+      },
+      {
+        "id": 2,
+        "start": 47.669,
+        "end": 71.952,
+        "text": " He's a lady, who's that lady? Beautiful lady, who's that lady? Lovely lady, who's that lady? Real, real fine lady, who's that lady? I would love to take her home, but her heart is made of stone. Gotta keep on keeping on, if I don't she'll do me wrong.",
+        "avg_logprob": -0.08493303933313914
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "_7hAabfP8Ug",
+    "uploader": "ss228com",
+    "audio_file": "corpus/01_music_videos_audio/audio/_7hAabfP8Ug.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 2990808,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 6.482772,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:12:02Z"
+  },
+  "status": "success",
+  "error": null
+}

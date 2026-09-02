@@ -1,0 +1,98 @@
+{
+  "corpus_id": "oG6fayQBm9w",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oG6fayQBm9w.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/oG6fayQBm9w.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/oG6fayQBm9w.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Holly came from Miami, FLA Hitchhiked her way across the USA Plucked her eyebrows on the way Shaved her legs and then he was a she She says, hey babe, take a walk on the wild side Said, hey honey, take a walk on the wild side Candy came from out on the island In the back room she was everybody's darling But she never lost her head Even when she was giving head She says, hey babe, take a walk on the wild side Said, hey, babe, take a walk on the wild side. And the colored girls go doo-doo-doo, doo-doo-doo, doo-doo-doo, doo-doo-doo, doo-doo-doo, doo-doo-doo, doo-doo-doo, doo-doo-doo, doo-doo-doo, doo-doo-doo. Little Joe never once gave it away. Everybody had to pay and pay. A hustle here and a hustle there. New York City is the place where they said, hey babe, take a walk on the wild side. I said, hey Joe, take a walk on the wild side. Sugar Pump Fairy came and hit the streets Looking for soul food and a place to eat Went to the Apollo, you should have seen him go, go, go They said, hey sugar, take a walk on the wild side I said, hey babe, take a walk on the wild side Alright Jackie is just speeding away. Thought she was James Dean for a day. Then I guess she had to crash. Valium would have helped that fish. I said, hey, babe, take a walk on the wild side. I said, hey, honey, take a walk on the wild side. And the colored girls say, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do. Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 20.315,
+        "end": 42.539,
+        "text": " Holly came from Miami, FLA Hitchhiked her way across the USA Plucked her eyebrows on the way Shaved her legs and then he was a she She says, hey babe, take a walk on the wild side Said, hey honey, take a walk on the wild side",
+        "avg_logprob": -0.09993489409486453
+      },
+      {
+        "id": 2,
+        "start": 52.951,
+        "end": 70.484,
+        "text": " Candy came from out on the island In the back room she was everybody's darling But she never lost her head Even when she was giving head She says, hey babe, take a walk on the wild side",
+        "avg_logprob": -0.12695312393563135
+      },
+      {
+        "id": 3,
+        "start": 71.108,
+        "end": 85.52,
+        "text": " Said, hey, babe, take a walk on the wild side. And the colored girls go doo-doo-doo, doo-doo-doo, doo-doo-doo, doo-doo-doo, doo-doo-doo, doo-doo-doo, doo-doo-doo, doo-doo-doo, doo-doo-doo, doo-doo-doo.",
+        "avg_logprob": -0.11025390904396773
+      },
+      {
+        "id": 4,
+        "start": 103.964,
+        "end": 126.205,
+        "text": " Little Joe never once gave it away. Everybody had to pay and pay. A hustle here and a hustle there. New York City is the place where they said, hey babe, take a walk on the wild side. I said, hey Joe, take a walk on the wild side.",
+        "avg_logprob": -0.07302700942855771
+      },
+      {
+        "id": 5,
+        "start": 135.908,
+        "end": 158.892,
+        "text": " Sugar Pump Fairy came and hit the streets Looking for soul food and a place to eat Went to the Apollo, you should have seen him go, go, go They said, hey sugar, take a walk on the wild side I said, hey babe, take a walk on the wild side Alright",
+        "avg_logprob": -0.1545572966337204
+      },
+      {
+        "id": 6,
+        "start": 167.735,
+        "end": 195.629,
+        "text": " Jackie is just speeding away. Thought she was James Dean for a day. Then I guess she had to crash. Valium would have helped that fish. I said, hey, babe, take a walk on the wild side. I said, hey, honey, take a walk on the wild side. And the colored girls say, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do.",
+        "avg_logprob": -0.11551339559409084
+      },
+      {
+        "id": 7,
+        "start": 223.017,
+        "end": 251.232,
+        "text": " Thank you.",
+        "avg_logprob": -0.4707031399011612
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "oG6fayQBm9w",
+    "uploader": "Lou Reed",
+    "audio_file": "corpus/01_music_videos_audio/audio/oG6fayQBm9w.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8146752,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.416407,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:59:42Z"
+  },
+  "status": "success",
+  "error": null
+}

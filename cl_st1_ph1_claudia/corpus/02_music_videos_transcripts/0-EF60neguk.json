@@ -1,0 +1,98 @@
+{
+  "corpus_id": "0-EF60neguk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/0-EF60neguk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/0-EF60neguk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/0-EF60neguk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "It's been seven hours and fifteen days Since you took your love away I go out every night and sleep all day Since you took your love away Since you've been gone I can do whatever I want I can see whomever I choose I can eat my dinner in a fancy restaurant But nothing, I said nothing can take away this blues Cause nothing compares, nothing compares to you How lonely without you here Like a bird without a song Nothing can stop these lonely tears from falling Tell me, baby Every boy I see They only remind me of you I went to the doctor and guess what he told me Guess what he told me He said, girl, you better try to help for no matter what you do But he's a fool All the flowers that you planted, mama, in the backyard, all died and went away. I know that living with you, baby, was sometimes hard. But I'm willing to give it another try. Nothing compares to you. Nothing compares. Nothing compares to you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 3.052,
+        "end": 31.469,
+        "text": " It's been seven hours and fifteen days Since you took your love away I go out every night and sleep all day",
+        "avg_logprob": -0.07629394251853228
+      },
+      {
+        "id": 2,
+        "start": 33.308,
+        "end": 52.816,
+        "text": " Since you took your love away Since you've been gone I can do whatever I want I can see whomever I choose",
+        "avg_logprob": -0.08248196771511665
+      },
+      {
+        "id": 3,
+        "start": 57.575,
+        "end": 81.098,
+        "text": " I can eat my dinner in a fancy restaurant But nothing, I said nothing can take away this blues Cause nothing compares, nothing compares to you",
+        "avg_logprob": -0.09637661740697663
+      },
+      {
+        "id": 4,
+        "start": 91.342,
+        "end": 114.089,
+        "text": " How lonely without you here Like a bird without a song Nothing can stop these lonely tears from falling Tell me, baby",
+        "avg_logprob": -0.19270833022892475
+      },
+      {
+        "id": 5,
+        "start": 123.809,
+        "end": 151.805,
+        "text": " Every boy I see They only remind me of you I went to the doctor and guess what he told me Guess what he told me He said, girl, you better try to help for no matter what you do But he's a fool",
+        "avg_logprob": -0.09969075381134947
+      },
+      {
+        "id": 6,
+        "start": 201.012,
+        "end": 230.358,
+        "text": " All the flowers that you planted, mama, in the backyard, all died and went away. I know that living with you, baby, was sometimes hard. But I'm willing to give it another try.",
+        "avg_logprob": -0.14044331672579743
+      },
+      {
+        "id": 7,
+        "start": 238.306,
+        "end": 252.633,
+        "text": " Nothing compares to you. Nothing compares. Nothing compares to you.",
+        "avg_logprob": -0.17438616177865437
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "0-EF60neguk",
+    "uploader": "Sinéad O'Connor",
+    "audio_file": "corpus/01_music_videos_audio/audio/0-EF60neguk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9860942,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.526745,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:20:33Z"
+  },
+  "status": "success",
+  "error": null
+}

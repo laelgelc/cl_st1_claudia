@@ -1,0 +1,91 @@
+{
+  "corpus_id": "xMaE6toi4mk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/xMaE6toi4mk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/xMaE6toi4mk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/xMaE6toi4mk.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Darling, you've got to let me know Should I stay or should I go? If you say that you are mine I'll be here till the end of time So you've got to let me know Should I stay or should I go? It's always tease, tease, tease You're happy when I'm on my knees One day it's fine and next it's black So if you want me off your back Well come on and let me know Should I stay or should I go? Should I stay or should I go now? Should I stay or should I go now? So come on and let me know. This indecision's bugging me. Indecision, they molest us. If you don't want me, set me free. Set me free. Exactly whom I'm supposed to be. Don't you know which clothes even fit me? Set me free. Come on and let me know Should I cool it or should I blow? Should I stay or should I go now? Should I stay or should I go now? If I go there will be trouble And if I stay it will be double So you gotta let me know Should I cool it or should I blow Should I stay or should I go now If I go there will be trouble And if I stay it will be double So you gotta let me know Should I stay or should I go",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 16.012,
+        "end": 44.227,
+        "text": " Darling, you've got to let me know Should I stay or should I go? If you say that you are mine I'll be here till the end of time So you've got to let me know Should I stay or should I go? It's always tease, tease, tease",
+        "avg_logprob": -0.07583513290717683
+      },
+      {
+        "id": 2,
+        "start": 45.661,
+        "end": 74.146,
+        "text": " You're happy when I'm on my knees One day it's fine and next it's black So if you want me off your back Well come on and let me know Should I stay or should I go? Should I stay or should I go now? Should I stay or should I go now?",
+        "avg_logprob": -0.04681096335903543
+      },
+      {
+        "id": 3,
+        "start": 84.372,
+        "end": 105.972,
+        "text": " So come on and let me know. This indecision's bugging me. Indecision, they molest us. If you don't want me, set me free. Set me free. Exactly whom I'm supposed to be. Don't you know which clothes even fit me? Set me free.",
+        "avg_logprob": -0.1682128943502903
+      },
+      {
+        "id": 4,
+        "start": 108.065,
+        "end": 114.882,
+        "text": " Come on and let me know Should I cool it or should I blow?",
+        "avg_logprob": -0.11157226748764515
+      },
+      {
+        "id": 5,
+        "start": 141.477,
+        "end": 157.323,
+        "text": " Should I stay or should I go now? Should I stay or should I go now? If I go there will be trouble And if I stay it will be double",
+        "avg_logprob": -0.08633961660020492
+      },
+      {
+        "id": 6,
+        "start": 158.42,
+        "end": 186.449,
+        "text": " So you gotta let me know Should I cool it or should I blow Should I stay or should I go now If I go there will be trouble And if I stay it will be double So you gotta let me know Should I stay or should I go",
+        "avg_logprob": -0.05039828372936623
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "xMaE6toi4mk",
+    "uploader": "The Clash",
+    "audio_file": "corpus/01_music_videos_audio/audio/xMaE6toi4mk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6062530,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.750871,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:59:32Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,105 @@
+{
+  "corpus_id": "nfWlot6h_JM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nfWlot6h_JM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/nfWlot6h_JM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/nfWlot6h_JM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Got nothing in my brain That's what people say That's what people say I go on too many dates At least that's what people say That's what people say But I keep cruising Can't stop, won't stop moving It's like I got this music in my mind Saying it's gonna be alright Cause the players gonna play, play, play, play, play And the haters gonna hate, hate, hate, hate, hate And the fakers gonna fake, fake, fake, fake, fake, baby I'm just gonna shake, shake, shake, shake, shake I shake it off, I shake it off I never miss a beat I'm lightning on my feet And that's what they don't see That's what they don't see I'm dancing on my own I make the moves as fast as I go That's what they don't know But I keep cruising Can't stop, won't stop grooving It's like I got this music in my mind Saying it's gonna be alright Cause the players gonna play, play, play, play, play And the haters gonna hate, hate, hate I shake it off, I shake it off I shake it off, I shake it off Gettin' down to this sick beat My ex-man brought his new girlfriend She's like, oh my God, but I'm just gonna shake And to the fella over there with the hella good hair Won't you come on over, baby, we can shake, shake, shake Yeah, oh Cause the players gonna play, play, play, play, play And my haters gonna hate me, haters gonna hate me I'm just gonna shake, shake, shake, shake, shake I'll shake it up, I'll shake it up I shake it off, I shake it off I shake it off I shake it off I shake it off I shake it off I shake it off",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 6.325,
+        "end": 19.049,
+        "text": " Got nothing in my brain That's what people say That's what people say I go on too many dates",
+        "avg_logprob": -0.14257812161337247
+      },
+      {
+        "id": 2,
+        "start": 20.77,
+        "end": 47.483,
+        "text": " At least that's what people say That's what people say But I keep cruising Can't stop, won't stop moving It's like I got this music in my mind Saying it's gonna be alright Cause the players gonna play, play, play, play, play And the haters gonna hate, hate, hate, hate, hate",
+        "avg_logprob": -0.122201493426935
+      },
+      {
+        "id": 3,
+        "start": 54.824,
+        "end": 82.077,
+        "text": " And the fakers gonna fake, fake, fake, fake, fake, baby I'm just gonna shake, shake, shake, shake, shake I shake it off, I shake it off I never miss a beat I'm lightning on my feet And that's what they don't see That's what they don't see I'm dancing on my own I make the moves as fast as I go",
+        "avg_logprob": -0.09516601916402578
+      },
+      {
+        "id": 4,
+        "start": 84.777,
+        "end": 106.951,
+        "text": " That's what they don't know But I keep cruising Can't stop, won't stop grooving It's like I got this music in my mind Saying it's gonna be alright Cause the players gonna play, play, play, play, play And the haters gonna hate, hate, hate",
+        "avg_logprob": -0.052436440425404046
+      },
+      {
+        "id": 5,
+        "start": 115.017,
+        "end": 135.149,
+        "text": " I shake it off, I shake it off I shake it off, I shake it off",
+        "avg_logprob": -0.3583470488849439
+      },
+      {
+        "id": 6,
+        "start": 146.118,
+        "end": 176.088,
+        "text": " Gettin' down to this sick beat My ex-man brought his new girlfriend She's like, oh my God, but I'm just gonna shake And to the fella over there with the hella good hair Won't you come on over, baby, we can shake, shake, shake Yeah, oh Cause the players gonna play, play, play, play, play And my haters gonna hate me, haters gonna hate me I'm just gonna shake, shake, shake, shake, shake I'll shake it up, I'll shake it up",
+        "avg_logprob": -0.11592060461774603
+      },
+      {
+        "id": 7,
+        "start": 186.348,
+        "end": 207.29,
+        "text": " I shake it off, I shake it off",
+        "avg_logprob": -0.424999988079071
+      },
+      {
+        "id": 8,
+        "start": 216.014,
+        "end": 223.861,
+        "text": " I shake it off I shake it off I shake it off I shake it off I shake it off",
+        "avg_logprob": -0.2393973157519386
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "nfWlot6h_JM",
+    "uploader": "Taylor Swift",
+    "audio_file": "corpus/01_music_videos_audio/audio/nfWlot6h_JM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7732880,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.189958,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:14:40Z"
+  },
+  "status": "success",
+  "error": null
+}

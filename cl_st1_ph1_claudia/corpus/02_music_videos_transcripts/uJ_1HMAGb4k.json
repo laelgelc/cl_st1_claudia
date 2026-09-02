@@ -1,0 +1,105 @@
+{
+  "corpus_id": "uJ_1HMAGb4k",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uJ_1HMAGb4k.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/uJ_1HMAGb4k.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/uJ_1HMAGb4k.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I was scared of dentists and the dark I was scared of pretty girls and starting conversations Oh, all my friends are turning green The other magician's assistant in their dream And they come unstuck Faded, running down to the riptide Taken away to the dark side I wanna be your left hand man I love you when you sing this song And I got love in my throat Cause you're gonna sing the words wrong Is this movie that I think you like? This guy decides to quit his job and head to New York City. This cowboy's running from himself. She's been living on the high shelf. Hey there, running down to the mid-tide, taking away to the dark side, I wanna be your left-hand man. I love you when you're singing that song, and I got a lump in my throat cause you're gonna say the words wrong. If you're gonna, if you're gonna stay I just gotta, I just gotta know I can't have it, I can't have it any other way I swear she's destined for the screen Closest thing to Michelle Pfeiffer that you've ever seen. Lady, running down to the rooftop, taking away to the dark side. I want to be your left hand man. I love you when you're singing that song. And I got a lump in my throat because you're going to sing the word. Down to the riptide Takin' away to the dark side I wanna be your left hand man I love you when you're singin' that song And I got a lump in my throat Cause you're gonna sing the words wrong Lady, running down to the riptide, taking away to the dark side, I want to be your left hand man. I love you when you're singing that song, and I got a lump in my throat cause you're gonna sing the words wrong. I got a lump in my throat cause you're gonna sing the words wrong.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 28.06,
+        "text": " I was scared of dentists and the dark I was scared of pretty girls and starting conversations Oh, all my friends are turning green The other magician's assistant in their dream",
+        "avg_logprob": -0.13705356461661203
+      },
+      {
+        "id": 2,
+        "start": 35.502,
+        "end": 61.085,
+        "text": " And they come unstuck Faded, running down to the riptide Taken away to the dark side I wanna be your left hand man I love you when you sing this song And I got love in my throat Cause you're gonna sing the words wrong Is this movie that I think you like?",
+        "avg_logprob": -0.13016632391560462
+      },
+      {
+        "id": 3,
+        "start": 62.452,
+        "end": 74.973,
+        "text": " This guy decides to quit his job and head to New York City. This cowboy's running from himself. She's been living on the high shelf.",
+        "avg_logprob": -0.07157257728038295
+      },
+      {
+        "id": 4,
+        "start": 86.667,
+        "end": 104.521,
+        "text": " Hey there, running down to the mid-tide, taking away to the dark side, I wanna be your left-hand man. I love you when you're singing that song, and I got a lump in my throat cause you're gonna say the words wrong.",
+        "avg_logprob": -0.19308036326297692
+      },
+      {
+        "id": 5,
+        "start": 114.663,
+        "end": 131.555,
+        "text": " If you're gonna, if you're gonna stay I just gotta, I just gotta know I can't have it, I can't have it any other way I swear she's destined for the screen",
+        "avg_logprob": -0.04034870281452086
+      },
+      {
+        "id": 6,
+        "start": 132.584,
+        "end": 154.083,
+        "text": " Closest thing to Michelle Pfeiffer that you've ever seen. Lady, running down to the rooftop, taking away to the dark side. I want to be your left hand man. I love you when you're singing that song. And I got a lump in my throat because you're going to sing the word.",
+        "avg_logprob": -0.11351445895522388
+      },
+      {
+        "id": 7,
+        "start": 157.711,
+        "end": 173.708,
+        "text": " Down to the riptide Takin' away to the dark side I wanna be your left hand man I love you when you're singin' that song And I got a lump in my throat Cause you're gonna sing the words wrong",
+        "avg_logprob": -0.13911033649833834
+      },
+      {
+        "id": 8,
+        "start": 174.957,
+        "end": 197.553,
+        "text": " Lady, running down to the riptide, taking away to the dark side, I want to be your left hand man. I love you when you're singing that song, and I got a lump in my throat cause you're gonna sing the words wrong. I got a lump in my throat cause you're gonna sing the words wrong.",
+        "avg_logprob": -0.1101004431290286
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "uJ_1HMAGb4k",
+    "uploader": "Mushroom",
+    "audio_file": "corpus/01_music_videos_audio/audio/uJ_1HMAGb4k.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6531388,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:52:45Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,70 @@
+{
+  "corpus_id": "H947PtHmh0Y",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/H947PtHmh0Y.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/H947PtHmh0Y.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/H947PtHmh0Y.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Thank you. I'm sad to say love wins again So I place my heart under lock and key To take some time and take care of me So I place my heart under lock and key To take some time and take care of me",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.453,
+        "end": 1.516,
+        "text": " Thank you.",
+        "avg_logprob": -0.6000976413488388
+      },
+      {
+        "id": 2,
+        "start": 75.158,
+        "end": 87.41,
+        "text": " I'm sad to say love wins again So I place my heart under lock and key To take some time and take care of me",
+        "avg_logprob": -0.09454571593690801
+      },
+      {
+        "id": 3,
+        "start": 159.837,
+        "end": 167.431,
+        "text": " So I place my heart under lock and key To take some time and take care of me",
+        "avg_logprob": -0.07822779762117486
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "H947PtHmh0Y",
+    "uploader": "Deborah Cox",
+    "audio_file": "corpus/01_music_videos_audio/audio/H947PtHmh0Y.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8404588,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.440358,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:04:36Z"
+  },
+  "status": "success",
+  "error": null
+}

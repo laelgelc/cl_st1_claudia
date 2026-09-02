@@ -1,0 +1,140 @@
+{
+  "corpus_id": "qFLw26BjDZs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/qFLw26BjDZs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/qFLw26BjDZs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/qFLw26BjDZs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I don't know just where I'm going but I'm Gonna try for the kingdom if I can Cause it makes me feel like I'm a man When I put a spike into my vein And I tell you things aren't quite the same When I'm rushing on my run And I feel just like Jesus' son And I guess that I just don't know And I guess that I just don't know Have me Big decision I'm Gonna try To nullify my life Cause when the blood begins to flow When it shoots up the dropper's neck When I'm close, singing on death And you can't help, may not you guys, or all you sweet girls with all your sweet talk. You can all go take a walk, and I guess I just don't know, and I guess that I just don't know. I wish that I was born a thousand years ago I wish that I'd sail the darkened seas on a great big clipper ship. Going from this land here to that on a sailor's Sudan cab. Away from the big city where a man cannot be found. Of all of the evils of this town And of himself and those around Oh, and I guess that I just don't know Oh, and I guess that I just don't know The death of me Heroin It's my wife And it's my life Because a manor To my vein He's to his center Off it did. Because when the smack begins to flow I really don't care anymore About all the chimchims in this town And all the politicians making crazy sounds And everybody putting everybody else down And all the dead bodies piled up in a mound Because my strength is too low And I really don't belong at all All of that heroin is in my blood My blood is in my head And thank God that I'm good as dead And thank your God that I'm not aware And thank God that I just don't care And I guess I just don't know And I guess I just don't know",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 13,
+    "segments": [
+      {
+        "id": 1,
+        "start": 48.31,
+        "end": 71.615,
+        "text": " I don't know just where I'm going but I'm",
+        "avg_logprob": -0.20928486035420343
+      },
+      {
+        "id": 2,
+        "start": 74.332,
+        "end": 104.217,
+        "text": " Gonna try for the kingdom if I can Cause it makes me feel like I'm a man When I put a spike into my vein And I tell you things aren't quite the same When I'm rushing on my run And I feel just like Jesus' son And I guess that I just don't know And I guess that I just don't know",
+        "avg_logprob": -0.027357701025903226
+      },
+      {
+        "id": 3,
+        "start": 117.413,
+        "end": 137.917,
+        "text": " Have me Big decision I'm Gonna try",
+        "avg_logprob": -0.4991319444444444
+      },
+      {
+        "id": 4,
+        "start": 139.368,
+        "end": 152.952,
+        "text": " To nullify my life Cause when the blood begins to flow When it shoots up the dropper's neck When I'm close, singing on death",
+        "avg_logprob": -0.2186197966337204
+      },
+      {
+        "id": 5,
+        "start": 159.263,
+        "end": 176.358,
+        "text": " And you can't help, may not you guys, or all you sweet girls with all your sweet talk. You can all go take a walk, and I guess I just don't know, and I guess that I just don't know.",
+        "avg_logprob": -0.12898437738418578
+      },
+      {
+        "id": 6,
+        "start": 188.322,
+        "end": 207.61,
+        "text": " I wish that I was born a thousand years ago I wish that",
+        "avg_logprob": -0.19768415178571427
+      },
+      {
+        "id": 7,
+        "start": 209.095,
+        "end": 235.37,
+        "text": " I'd sail the darkened seas on a great big clipper ship. Going from this land here to that on a sailor's Sudan cab. Away from the big city where a man cannot be found.",
+        "avg_logprob": -0.11173692172349886
+      },
+      {
+        "id": 8,
+        "start": 236.129,
+        "end": 249.747,
+        "text": " Of all of the evils of this town And of himself and those around Oh, and I guess that I just don't know Oh, and I guess that I just don't know",
+        "avg_logprob": -0.10253906191179626
+      },
+      {
+        "id": 9,
+        "start": 266.538,
+        "end": 292.407,
+        "text": " The death of me Heroin It's my wife And it's my life Because a manor To my vein He's to his center",
+        "avg_logprob": -0.39369418897799086
+      },
+      {
+        "id": 10,
+        "start": 295.63,
+        "end": 297.436,
+        "text": " Off it did.",
+        "avg_logprob": -0.6671875
+      },
+      {
+        "id": 11,
+        "start": 316.825,
+        "end": 336.485,
+        "text": " Because when the smack begins to flow I really don't care anymore About all the chimchims in this town And all the politicians making crazy sounds And everybody putting everybody else down And all the dead bodies piled up in a mound",
+        "avg_logprob": -0.2307180920813946
+      },
+      {
+        "id": 12,
+        "start": 365.24,
+        "end": 382.081,
+        "text": " Because my strength is too low And I really don't belong at all All of that heroin is in my blood",
+        "avg_logprob": -0.4555027070252792
+      },
+      {
+        "id": 13,
+        "start": 383.313,
+        "end": 401.875,
+        "text": " My blood is in my head And thank God that I'm good as dead And thank your God that I'm not aware And thank God that I just don't care And I guess I just don't know And I guess I just don't know",
+        "avg_logprob": -0.11242187798023223
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "qFLw26BjDZs",
+    "uploader": "CIAOsydni",
+    "audio_file": "corpus/01_music_videos_audio/audio/qFLw26BjDZs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 13524866,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.180851,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:54:29Z"
+  },
+  "status": "success",
+  "error": null
+}

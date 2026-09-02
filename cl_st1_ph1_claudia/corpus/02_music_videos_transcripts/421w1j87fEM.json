@@ -1,0 +1,70 @@
+{
+  "corpus_id": "421w1j87fEM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/421w1j87fEM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/421w1j87fEM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/421w1j87fEM.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Now everybody go to breakfast. My feelings today swing like Django lover Feelings today swing like Timbani Last last, now everybody go to breakfast",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 5.482,
+        "end": 18.897,
+        "text": " Now everybody go to breakfast.",
+        "avg_logprob": -0.6266741241727557
+      },
+      {
+        "id": 2,
+        "start": 87.376,
+        "end": 98.159,
+        "text": " My feelings today swing like Django lover Feelings today swing like Timbani",
+        "avg_logprob": -0.6222426470588235
+      },
+      {
+        "id": 3,
+        "start": 123.91,
+        "end": 129.445,
+        "text": " Last last, now everybody go to breakfast",
+        "avg_logprob": -0.8385416666666666
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "421w1j87fEM",
+    "uploader": "Burna Boy",
+    "audio_file": "corpus/01_music_videos_audio/audio/421w1j87fEM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5562464,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.892495,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:08:36Z"
+  },
+  "status": "success",
+  "error": null
+}

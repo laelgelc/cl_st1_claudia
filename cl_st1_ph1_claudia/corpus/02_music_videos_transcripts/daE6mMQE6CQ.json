@@ -1,0 +1,91 @@
+{
+  "corpus_id": "daE6mMQE6CQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/daE6mMQE6CQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/daE6mMQE6CQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/daE6mMQE6CQ.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "She can't help it. She can't help it. The girl can't help it. If she walks by, the men folks get enrolled. She can't help it. The girl can't help it. If she wins tonight, the bread slice turned her toe. She can't help it. The girl can't help it. If she got a lot. Or what they call the mole She can't help it, the girl can't help it The girl can't help it, she was born to please She can't help it, the girl can't help it And if she's got a bigger maid to squeeze She can't help it, the girl can't help it Won't you kindly be aware The girl can't help it, the girl can't help it If she mesmerizes every mother's son can't help it girl can't help it if she's smiling beef steak become well done can't help it girl can't help it she'd make grandpa feel like 21 can't help it the girl can't Can't help it, the girl can't help it She was born to please Can't help it, the girl can't help it And if I go to her, I'll bend her knees Can't help it, the girl can't help it Oh, won't you kindly be aware That I can't help it, I can't help it Because I'm hoping obviously That someday the answer would be The girl can't help it, she's in love with me Can't help it, the girl can't help it If she walks by, the men folks get enrolled. She can't help it, the girl can't help it. If she went tonight and the breast lights turned to toast. She can't help it, the girl can't help it. She got a lot of what they call the most. She can't help it, the girl can't help it. The girl can't help it, she was born to please. She can't help it. The girl can't help it. And if she's got a figure made to squeeze. Can't help it. The girl can't help it. I'm hoping, obviously, that someday the ass will be. The girl can't help it. She's in love with me. Can't help it. The girl can't help it.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 5.026,
+        "end": 20.517,
+        "text": " She can't help it. She can't help it. The girl can't help it. If she walks by, the men folks get enrolled. She can't help it. The girl can't help it. If she wins tonight, the bread slice turned her toe. She can't help it. The girl can't help it. If she got a lot.",
+        "avg_logprob": -0.182083336909612
+      },
+      {
+        "id": 2,
+        "start": 20.517,
+        "end": 44.8,
+        "text": " Or what they call the mole She can't help it, the girl can't help it The girl can't help it, she was born to please She can't help it, the girl can't help it And if she's got a bigger maid to squeeze She can't help it, the girl can't help it Won't you kindly be aware The girl can't help it, the girl can't help it If she mesmerizes every mother's son",
+        "avg_logprob": -0.07039650793998473
+      },
+      {
+        "id": 3,
+        "start": 44.8,
+        "end": 57.338,
+        "text": " can't help it girl can't help it if she's smiling beef steak become well done can't help it girl can't help it she'd make grandpa feel like 21 can't help it the girl can't",
+        "avg_logprob": -0.14117005813953487
+      },
+      {
+        "id": 4,
+        "start": 58.503,
+        "end": 84.676,
+        "text": " Can't help it, the girl can't help it She was born to please Can't help it, the girl can't help it And if I go to her, I'll bend her knees Can't help it, the girl can't help it Oh, won't you kindly be aware That I can't help it, I can't help it Because I'm hoping obviously That someday the answer would be The girl can't help it, she's in love with me Can't help it, the girl can't help it",
+        "avg_logprob": -0.1397405613986951
+      },
+      {
+        "id": 5,
+        "start": 101.416,
+        "end": 123.016,
+        "text": " If she walks by, the men folks get enrolled. She can't help it, the girl can't help it. If she went tonight and the breast lights turned to toast. She can't help it, the girl can't help it. She got a lot of what they call the most. She can't help it, the girl can't help it. The girl can't help it, she was born to please. She can't help it.",
+        "avg_logprob": -0.11987567524756154
+      },
+      {
+        "id": 6,
+        "start": 123.016,
+        "end": 140.178,
+        "text": " The girl can't help it. And if she's got a figure made to squeeze. Can't help it. The girl can't help it. I'm hoping, obviously, that someday the ass will be. The girl can't help it. She's in love with me. Can't help it. The girl can't help it.",
+        "avg_logprob": -0.1496651741010802
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "daE6mMQE6CQ",
+    "uploader": "Little Richard",
+    "audio_file": "corpus/01_music_videos_audio/audio/daE6mMQE6CQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4952430,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 23.716877,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:53:42Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,105 @@
+{
+  "corpus_id": "uSu6tcbMOu0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uSu6tcbMOu0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/uSu6tcbMOu0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/uSu6tcbMOu0.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Whatever you want to do Oh, yeah, all right with me You make me feel so anew And I want to spend my life with you Let me say that since, oh baby, since we've been together, oh, loving you forever, yeah, you're what I need. Let me be the one you can run to. Never be untrue Ooh, baby, yes Let's stay together Loving you whether, whether Times are good or bad, happy or sad Yeah, baby. Yeah. Whether time's a good or bad, I feel sad. Why, somebody? Why people break up? I want to know. And turn around and make up. Yeah. I just came to see But you'd never do that to me Would you, baby? Being around you is all I see It's what I want us to do Oh, no, we do. Loving you whether, whether times are good or bad, happy or sad. Let's stay together, baby. I want to love you whether, whether times are good or bad, Stay together I want to love you wild, wild times of goodbyes You can't always be with the one you love As long as I can hold you, baby I want to squeeze you Let me, let me be with you, baby. Yeah, yeah.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 14.527,
+        "end": 44.024,
+        "text": " Whatever you want to do Oh, yeah, all right with me You make me feel so anew And I want to spend my life with you",
+        "avg_logprob": -0.33385417560736336
+      },
+      {
+        "id": 2,
+        "start": 47.483,
+        "end": 72.222,
+        "text": " Let me say that since, oh baby, since we've been together, oh, loving you forever, yeah, you're what I need. Let me be the one you can run to.",
+        "avg_logprob": -0.20449218302965164
+      },
+      {
+        "id": 3,
+        "start": 78.871,
+        "end": 105.702,
+        "text": " Never be untrue Ooh, baby, yes Let's stay together Loving you whether, whether Times are good or bad, happy or sad",
+        "avg_logprob": -0.315463374400961
+      },
+      {
+        "id": 4,
+        "start": 108.554,
+        "end": 136.482,
+        "text": " Yeah, baby. Yeah. Whether time's a good or bad, I feel sad. Why, somebody? Why people break up? I want to know. And turn around and make up. Yeah.",
+        "avg_logprob": -0.37220982284772963
+      },
+      {
+        "id": 5,
+        "start": 136.82,
+        "end": 161.356,
+        "text": " I just came to see But you'd never do that to me Would you, baby? Being around you is all I see It's what I want us to do",
+        "avg_logprob": -0.10575597645605311
+      },
+      {
+        "id": 6,
+        "start": 165.288,
+        "end": 194.971,
+        "text": " Oh, no, we do. Loving you whether, whether times are good or bad, happy or sad. Let's stay together, baby. I want to love you whether, whether times are good or bad,",
+        "avg_logprob": -0.29756943384806317
+      },
+      {
+        "id": 7,
+        "start": 201.637,
+        "end": 227.472,
+        "text": " Stay together I want to love you wild, wild times of goodbyes You can't always be with the one you love As long as I can hold you, baby I want to squeeze you",
+        "avg_logprob": -0.3783203221857548
+      },
+      {
+        "id": 8,
+        "start": 228.333,
+        "end": 234.138,
+        "text": " Let me, let me be with you, baby. Yeah, yeah.",
+        "avg_logprob": -0.2424316294491291
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "uSu6tcbMOu0",
+    "uploader": "Al Green",
+    "audio_file": "corpus/01_music_videos_audio/audio/uSu6tcbMOu0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7897836,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.54184,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:22:14Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,70 @@
+{
+  "corpus_id": "_ZcmuKsyvzg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/_ZcmuKsyvzg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/_ZcmuKsyvzg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/_ZcmuKsyvzg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "It's tearing up my heart when I'm with you But when we are apart, I feel it too And no matter what I feel it too And no matter what I do I feel the pain With or without you Tearing up my heart and soul We're apart, I feel it too And no matter what I do Without you",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.925,
+        "end": 11.911,
+        "text": " It's tearing up my heart when I'm with you But when we are apart, I feel it too And no matter what",
+        "avg_logprob": -0.10997596411750866
+      },
+      {
+        "id": 2,
+        "start": 129.226,
+        "end": 152.176,
+        "text": " I feel it too And no matter what I do I feel the pain With or without you Tearing up my heart and soul We're apart, I feel it too And no matter what I do",
+        "avg_logprob": -0.13437499925494195
+      },
+      {
+        "id": 3,
+        "start": 200.911,
+        "end": 202.379,
+        "text": " Without you",
+        "avg_logprob": -0.3046875
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "_ZcmuKsyvzg",
+    "uploader": "*NSYNC",
+    "audio_file": "corpus/01_music_videos_audio/audio/_ZcmuKsyvzg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6673308,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.685323,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:17:38Z"
+  },
+  "status": "success",
+  "error": null
+}

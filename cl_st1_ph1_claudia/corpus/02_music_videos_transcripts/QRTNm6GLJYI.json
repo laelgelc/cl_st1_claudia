@@ -1,0 +1,98 @@
+{
+  "corpus_id": "QRTNm6GLJYI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/QRTNm6GLJYI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/QRTNm6GLJYI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/QRTNm6GLJYI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Thank you. ¶¶ To prove I'm right I don't need to be forgiven Don't cry, don't raise your eye It's only teenage wasteland Sally, take my hand We'll travel south cross land Put out the fire and don't look past my shoulder Let's get together. Thank you. Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.55,
+        "end": 27.807,
+        "text": " Thank you.",
+        "avg_logprob": -0.7172851413488388
+      },
+      {
+        "id": 2,
+        "start": 42.252,
+        "end": 45.172,
+        "text": " ¶¶",
+        "avg_logprob": -0.734765625
+      },
+      {
+        "id": 3,
+        "start": 87.072,
+        "end": 97.163,
+        "text": " To prove I'm right I don't need to be forgiven",
+        "avg_logprob": -0.09780649038461539
+      },
+      {
+        "id": 4,
+        "start": 127.876,
+        "end": 157.39,
+        "text": " Don't cry, don't raise your eye It's only teenage wasteland Sally, take my hand We'll travel south cross land Put out the fire and don't look past my shoulder",
+        "avg_logprob": -0.1258223695974601
+      },
+      {
+        "id": 5,
+        "start": 161.542,
+        "end": 170.333,
+        "text": " Let's get together.",
+        "avg_logprob": -0.20068359871705374
+      },
+      {
+        "id": 6,
+        "start": 204.404,
+        "end": 206.007,
+        "text": " Thank you.",
+        "avg_logprob": -0.6845703274011612
+      },
+      {
+        "id": 7,
+        "start": 242.187,
+        "end": 251.35,
+        "text": " Thank you.",
+        "avg_logprob": -0.6142578274011612
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "QRTNm6GLJYI",
+    "uploader": "TheWho",
+    "audio_file": "corpus/01_music_videos_audio/audio/QRTNm6GLJYI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9643232,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 39.446673,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:54Z"
+  },
+  "status": "success",
+  "error": null
+}

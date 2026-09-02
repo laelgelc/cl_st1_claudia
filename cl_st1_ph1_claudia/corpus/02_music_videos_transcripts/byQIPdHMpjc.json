@@ -1,0 +1,84 @@
+{
+  "corpus_id": "byQIPdHMpjc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/byQIPdHMpjc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/byQIPdHMpjc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/byQIPdHMpjc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Bye-bye. I just don't think he'd understand. And if you tell my heart, my achy, breaky heart, he might blow up and kill his man. You can tell your dog to bite my leg Or tell your brother Cliff, whose fist can tell my lip He never really liked me anyway Or tell your Aunt Louise, tell anything you please A silver-headed nose is not okay Or you can tell my eyes to watch out for my mind If you tell my heart, my eggy-berggy heart He might blow up and kill his man My achy, breaky heart I just don't think he'd understand And if you tell my heart My achy, breaky heart He might blow up and kill this man Yeah",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 2.309,
+        "end": 3.068,
+        "text": " Bye-bye.",
+        "avg_logprob": -1.03515625
+      },
+      {
+        "id": 2,
+        "start": 62.975,
+        "end": 75.31,
+        "text": " I just don't think he'd understand. And if you tell my heart, my achy, breaky heart, he might blow up and kill his man.",
+        "avg_logprob": -0.15682444721460342
+      },
+      {
+        "id": 3,
+        "start": 95.442,
+        "end": 120.805,
+        "text": " You can tell your dog to bite my leg Or tell your brother Cliff, whose fist can tell my lip He never really liked me anyway Or tell your Aunt Louise, tell anything you please A silver-headed nose is not okay Or you can tell my eyes to watch out for my mind",
+        "avg_logprob": -0.23895473778247833
+      },
+      {
+        "id": 4,
+        "start": 131.926,
+        "end": 140.026,
+        "text": " If you tell my heart, my eggy-berggy heart He might blow up and kill his man",
+        "avg_logprob": -0.2837357940998944
+      },
+      {
+        "id": 5,
+        "start": 172.443,
+        "end": 187.462,
+        "text": " My achy, breaky heart I just don't think he'd understand And if you tell my heart My achy, breaky heart He might blow up and kill this man Yeah",
+        "avg_logprob": -0.07997532933950424
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "byQIPdHMpjc",
+    "uploader": "Billy Ray Cyrus",
+    "audio_file": "corpus/01_music_videos_audio/audio/byQIPdHMpjc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7472074,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.077381,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:08:30Z"
+  },
+  "status": "success",
+  "error": null
+}

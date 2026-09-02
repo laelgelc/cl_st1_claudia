@@ -1,0 +1,84 @@
+{
+  "corpus_id": "JI_7AoPjyoA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/JI_7AoPjyoA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/JI_7AoPjyoA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/JI_7AoPjyoA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "In America, you get foodie. Won't have to run through the jungle and scuff up your feet. You just sing about Jesus, drink wine all day. It's great to be in America. Ain't no lion or tiger, ain't no mama snake. Just the sweet watermelon and the buckwheat cake. Everybody's as happy as a man can be. Climb aboard little warb, sail away with me. Sail away. Sail away, we will cross the mighty ocean in just a day. Sail away, sail away, we will cross the mighty ocean in just a day. In America, every man is free to take care of his home and his family. Be as happy as a monkey in a monkey tree. Y'all gonna be in America. Sail away. Sail away. We will cross the mighty ocean in the charge to make. Sail away. Sail away. We will cross the mighty ocean in the charge to make.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 6.882,
+        "end": 29.832,
+        "text": " In America, you get foodie. Won't have to run through the jungle and scuff up your feet. You just sing about Jesus, drink wine all day. It's great to be in America.",
+        "avg_logprob": -0.08025981416535932
+      },
+      {
+        "id": 2,
+        "start": 34.388,
+        "end": 62.637,
+        "text": " Ain't no lion or tiger, ain't no mama snake. Just the sweet watermelon and the buckwheat cake. Everybody's as happy as a man can be. Climb aboard little warb, sail away with me. Sail away.",
+        "avg_logprob": -0.20187500596046448
+      },
+      {
+        "id": 3,
+        "start": 64.544,
+        "end": 88.591,
+        "text": " Sail away, we will cross the mighty ocean in just a day. Sail away, sail away, we will cross the mighty ocean in just a day.",
+        "avg_logprob": -0.13842773949727416
+      },
+      {
+        "id": 4,
+        "start": 96.809,
+        "end": 125.8,
+        "text": " In America, every man is free to take care of his home and his family. Be as happy as a monkey in a monkey tree. Y'all gonna be in America. Sail away.",
+        "avg_logprob": -0.1602539073675871
+      },
+      {
+        "id": 5,
+        "start": 127.927,
+        "end": 153.644,
+        "text": " Sail away. We will cross the mighty ocean in the charge to make. Sail away. Sail away. We will cross the mighty ocean in the charge to make.",
+        "avg_logprob": -0.13855699055335102
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "JI_7AoPjyoA",
+    "uploader": "Randy Newman",
+    "audio_file": "corpus/01_music_videos_audio/audio/JI_7AoPjyoA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5498564,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 32.262929,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:58:48Z"
+  },
+  "status": "success",
+  "error": null
+}

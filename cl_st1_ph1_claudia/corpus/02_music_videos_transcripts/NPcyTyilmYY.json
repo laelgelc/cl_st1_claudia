@@ -1,0 +1,91 @@
+{
+  "corpus_id": "NPcyTyilmYY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/NPcyTyilmYY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/NPcyTyilmYY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/NPcyTyilmYY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I want you to know that I'm happy for you. I wish nothing but the best for you both. I know the version of me. Is she perverted like me? Would she go down on you in a theater? I'm sure she'd make a really excellent mother. It's not fair to deny Quite as well, I thought you should know Did you forget about me, Mr. Duplicity? I hate to bug you in the middle of dinner There was a slap in the face, how quickly I was replaced And are you thinking of me when you fuck her? Of the mess you left when you went away It's not fair to deny me Of the cross I bear that you gave to me You To remind you of the mess you left when you went away. It's not fair to deny me all the cross-eyed fear that you did to me. You, you, you ought to know.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.651,
+        "end": 27.031,
+        "text": " I want you to know that I'm happy for you. I wish nothing but the best for you both. I know the version of me. Is she perverted like me? Would she go down on you in a theater?",
+        "avg_logprob": -0.025910073455343855
+      },
+      {
+        "id": 2,
+        "start": 31.655,
+        "end": 36.025,
+        "text": " I'm sure she'd make a really excellent mother.",
+        "avg_logprob": -0.3359375074505806
+      },
+      {
+        "id": 3,
+        "start": 62.468,
+        "end": 67.936,
+        "text": " It's not fair to deny",
+        "avg_logprob": -0.3577009013720921
+      },
+      {
+        "id": 4,
+        "start": 87.865,
+        "end": 113.06,
+        "text": " Quite as well, I thought you should know Did you forget about me, Mr. Duplicity? I hate to bug you in the middle of dinner There was a slap in the face, how quickly I was replaced And are you thinking of me when you fuck her?",
+        "avg_logprob": -0.11200283792885866
+      },
+      {
+        "id": 5,
+        "start": 135.925,
+        "end": 149.645,
+        "text": " Of the mess you left when you went away It's not fair to deny me Of the cross I bear that you gave to me You",
+        "avg_logprob": -0.16434152317898615
+      },
+      {
+        "id": 6,
+        "start": 229.7,
+        "end": 249.005,
+        "text": " To remind you of the mess you left when you went away. It's not fair to deny me all the cross-eyed fear that you did to me. You, you, you ought to know.",
+        "avg_logprob": -0.17261904300678343
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "NPcyTyilmYY",
+    "uploader": "Alanis Morissette",
+    "audio_file": "corpus/01_music_videos_audio/audio/NPcyTyilmYY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8095484,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.659115,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:18:19Z"
+  },
+  "status": "success",
+  "error": null
+}

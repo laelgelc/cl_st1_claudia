@@ -1,0 +1,63 @@
+{
+  "corpus_id": "wzCDwGw6tdA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wzCDwGw6tdA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/wzCDwGw6tdA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/wzCDwGw6tdA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Bye-bye. I don't know. But I don't know right now. I might love you some. Let's take a chance. It's going to be a great romance. Feeling in my heart now. It's going to be a great romance. Upsetting my soul. It's going to be a great romance. Let's take this chance.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 2,
+    "segments": [
+      {
+        "id": 1,
+        "start": 57.929,
+        "end": 58.925,
+        "text": " Bye-bye.",
+        "avg_logprob": -0.9875
+      },
+      {
+        "id": 2,
+        "start": 86.667,
+        "end": 116.249,
+        "text": " I don't know. But I don't know right now. I might love you some. Let's take a chance. It's going to be a great romance. Feeling in my heart now. It's going to be a great romance. Upsetting my soul. It's going to be a great romance. Let's take this chance.",
+        "avg_logprob": -0.1064453109477957
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "wzCDwGw6tdA",
+    "uploader": "catman916",
+    "audio_file": "corpus/01_music_videos_audio/audio/wzCDwGw6tdA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3856448,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.501884,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:53:26Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,77 @@
+{
+  "corpus_id": "y2bVIBwpCTA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/y2bVIBwpCTA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/y2bVIBwpCTA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/y2bVIBwpCTA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Now is it much too late for me To take a second look Oh, baby, give me one more chance Won't you please let me Oh, darling, I was blind to let you go But now since I've seen you again Let me show you, girl, that I know how to rock. Every street you walk on, I leave this dance on the ground. I will win, girl, in the evening or morning rock. Every day and night. Oh, baby, all I need is one more chance. Won't you please let me back in your heart? Let you go, let you go baby I want you back. I want you back. I want you back. I want you back.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 45.661,
+        "end": 69.32,
+        "text": " Now is it much too late for me To take a second look Oh, baby, give me one more chance Won't you please let me Oh, darling, I was blind to let you go But now since I've seen you again",
+        "avg_logprob": -0.1530761787046989
+      },
+      {
+        "id": 2,
+        "start": 83.123,
+        "end": 110.41,
+        "text": " Let me show you, girl, that I know how to rock. Every street you walk on, I leave this dance on the ground. I will win, girl, in the evening or morning rock. Every day and night. Oh, baby, all I need is one more chance. Won't you please let me back in your heart?",
+        "avg_logprob": -0.36517855780465264
+      },
+      {
+        "id": 3,
+        "start": 112.688,
+        "end": 115.203,
+        "text": " Let you go, let you go baby",
+        "avg_logprob": -0.3250868055555556
+      },
+      {
+        "id": 4,
+        "start": 160.883,
+        "end": 175.801,
+        "text": " I want you back. I want you back. I want you back. I want you back.",
+        "avg_logprob": -0.29482886904761907
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "y2bVIBwpCTA",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/y2bVIBwpCTA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5771258,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.021289,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:22:35Z"
+  },
+  "status": "success",
+  "error": null
+}

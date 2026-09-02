@@ -1,0 +1,105 @@
+{
+  "corpus_id": "09839DpTctU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/09839DpTctU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/09839DpTctU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/09839DpTctU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "On a dark desert highway A cool wind in my hair A warm smell of Toledo's Rising up through the air Up ahead in the distance I saw a shimmering light My head was heavy and my sight grew dim I had to stop for the night There she stood in the doorway Heard the mission bell And I was thinking to myself This could be heaven or this could be hell Then she lit up a candle And she showed me the way There were voices down the corridor I thought I heard them say Such a lovely place, such a lovely place, such a lovely place. There's plenty of room at Newdale, California. Any time of year, any time of year, you can find it here. Her mind is definitely twisted. She got the Mercedes-Benz phone. She got a lot of pretty, pretty boys She calls friends How they dance in the courtyard Sweet summer sweat Some dance to remember Some dance to forget So I called up the captain Please bring me my wine He said, we haven't had that spirit here since 1969 And still those voices are calling from far away Wake you up in the middle of the night Just to hear them say Such a lovely place Living it up at the Hotel California What a nice surprise Sing your alibis Mirrors on the ceiling Pink champagne on ice And she said We're all just prisoners here Of our own device And in their master's chambers They gathered for their feast They stab it with their stealing knives But they just can't kill the beast Last thing I remember I was running for the door I have to find a passage back to the place I was before Relax at the nightmare we are programmed to receive You can check out anytime you like, but you can never leave",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 54.875,
+        "end": 83.444,
+        "text": " On a dark desert highway A cool wind in my hair A warm smell of Toledo's Rising up through the air Up ahead in the distance I saw a shimmering light My head was heavy and my sight grew dim I had to stop for the night There she stood in the doorway",
+        "avg_logprob": -0.19380482456140352
+      },
+      {
+        "id": 2,
+        "start": 84.102,
+        "end": 105.905,
+        "text": " Heard the mission bell And I was thinking to myself This could be heaven or this could be hell Then she lit up a candle And she showed me the way There were voices down the corridor I thought I heard them say",
+        "avg_logprob": -0.11892361243565877
+      },
+      {
+        "id": 3,
+        "start": 112.435,
+        "end": 139.115,
+        "text": " Such a lovely place, such a lovely place, such a lovely place. There's plenty of room at Newdale, California. Any time of year, any time of year, you can find it here. Her mind is definitely twisted. She got the Mercedes-Benz phone.",
+        "avg_logprob": -0.20797413536186876
+      },
+      {
+        "id": 4,
+        "start": 139.486,
+        "end": 161.997,
+        "text": " She got a lot of pretty, pretty boys She calls friends How they dance in the courtyard Sweet summer sweat Some dance to remember Some dance to forget So I called up the captain",
+        "avg_logprob": -0.1284722218083011
+      },
+      {
+        "id": 5,
+        "start": 162.419,
+        "end": 184.964,
+        "text": " Please bring me my wine He said, we haven't had that spirit here since 1969 And still those voices are calling from far away Wake you up in the middle of the night Just to hear them say",
+        "avg_logprob": -0.09274961744866721
+      },
+      {
+        "id": 6,
+        "start": 191.36,
+        "end": 214.158,
+        "text": " Such a lovely place Living it up at the Hotel California What a nice surprise Sing your alibis Mirrors on the ceiling",
+        "avg_logprob": -0.1427283653846154
+      },
+      {
+        "id": 7,
+        "start": 215.103,
+        "end": 243.74,
+        "text": " Pink champagne on ice And she said We're all just prisoners here Of our own device And in their master's chambers They gathered for their feast They stab it with their stealing knives But they just can't kill the beast Last thing I remember I was running for the door",
+        "avg_logprob": -0.16348379850387573
+      },
+      {
+        "id": 8,
+        "start": 245.242,
+        "end": 262.977,
+        "text": " I have to find a passage back to the place I was before Relax at the nightmare we are programmed to receive You can check out anytime you like, but you can never leave",
+        "avg_logprob": -0.1449652781916989
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "09839DpTctU",
+    "uploader": "Eagles",
+    "audio_file": "corpus/01_music_videos_audio/audio/09839DpTctU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 12951984,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 32.665458,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:52:54Z"
+  },
+  "status": "success",
+  "error": null
+}

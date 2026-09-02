@@ -1,0 +1,91 @@
+{
+  "corpus_id": "xLFAQuWFcTo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/xLFAQuWFcTo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/xLFAQuWFcTo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/xLFAQuWFcTo.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Nazareth was feeling about half past dead I just need some place where I can lay my head Hey mister, can you tell me where a man might be? She said, hey Carmen, come on, let's go downtown. She said, I gotta go, but my friend can stick around. Take a load off Fanny. Take a load for free. Just old Luke and Luke's waiting on a And you put the load right on me Crazy Chester followed me and he cut me in half He said I will fix your rap if you Take a load off Manny And you put the load right on me Get your cannon ball now to take me Get back to Miss Fanny, you know she's the only one",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 11.928,
+        "end": 27.925,
+        "text": " Nazareth was feeling about half past dead I just need some place where I can lay my head Hey mister, can you tell me where a man might be?",
+        "avg_logprob": -0.24573863636363635
+      },
+      {
+        "id": 2,
+        "start": 73.808,
+        "end": 92.135,
+        "text": " She said, hey Carmen, come on, let's go downtown. She said, I gotta go, but my friend can stick around. Take a load off Fanny. Take a load for free.",
+        "avg_logprob": -0.19363839001882643
+      },
+      {
+        "id": 3,
+        "start": 116.772,
+        "end": 119.877,
+        "text": " Just old Luke and Luke's waiting on a",
+        "avg_logprob": -0.43749999403953554
+      },
+      {
+        "id": 4,
+        "start": 148.345,
+        "end": 168.41,
+        "text": " And you put the load right on me Crazy Chester followed me and he cut me in half He said I will fix your rap if you",
+        "avg_logprob": -0.31734915026302996
+      },
+      {
+        "id": 5,
+        "start": 188.491,
+        "end": 218.258,
+        "text": " Take a load off Manny And you put the load right on me Get your cannon ball now to take me",
+        "avg_logprob": -0.2729279943134474
+      },
+      {
+        "id": 6,
+        "start": 228.063,
+        "end": 231.775,
+        "text": " Get back to Miss Fanny, you know she's the only one",
+        "avg_logprob": -0.28723957935969036
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "xLFAQuWFcTo",
+    "uploader": "The Band",
+    "audio_file": "corpus/01_music_videos_audio/audio/xLFAQuWFcTo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8813258,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.889236,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:03:09Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,126 @@
+{
+  "corpus_id": "xd23p_vUMYw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/xd23p_vUMYw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/xd23p_vUMYw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/xd23p_vUMYw.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "and their reflections in terms of music. But now we come to a mood that is the product of our present generation. The bubbling enthusiasm of our teenagers was the inspiration for what is now the most popular style of music in the country, rock and roll. A few short weeks ago, five teenage boys went into a recording studio and they said they had a song they wanted to sing. Well, it took a little time, three weeks to be exact, but they were heard and their song was recorded. It is now the number one record in America. And the song is, Why Do Fools Fall In Love With Boys In New York City And Not Call Themselves The Teenagers. Oh, there he is. So, you guys are the teenagers. That's right, Mr. Lane. Come on, boys, let's sing our song now. That come out of you? Yes, sir, can we sing now? What's your name? I have to make my money before my voice changes. I got news for you, Dad. It ain't gonna go much lower. You're in apparel now. Frankie, you amaze me. Tell me something. You're only 13 years old, and yet you wrote this big hit. How did it ever happen? Well, Mr. Lane, one day I was dressing, and inspiration came to me, so I wrote the song. Oh. Well, what was the inspiration? I needed a new suit. Well, that's a pretty good reason. But I can't understand how you could write Why the Fool's Falling Out. What does a 13-year-old boy know about love? Well, Mr. Lane... i've been falling in love since i was only five five but i've been a fool about it since i was 11. well don't complain lad you've only had two rough years i go all the way back to brady murphy i think we've had enough of this little chit chat this is your first nationwide television appearance, isn't it? That's right, sir. And I know that everybody's waiting to hear you sing, so are you ready to rock and roll? That's right. That means I ought to get lost, huh? About it. Why does the rain fall, fall, fall? Why do souls fall in love? Why do they fall in love? Love is a losing game. Love can be a shame. I know a fool you see. For that fool is what you want. Why do birds sing so gay? And lovers know when to break a day Why do they fall in love? Oh, why? Why does the rain fall from above? Why do fools fall in love? Why do they fall in love? Why does my heart stray from me before I know? So we'll all be like the moon morning light",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 11,
+    "segments": [
+      {
+        "id": 1,
+        "start": 5.043,
+        "end": 33.562,
+        "text": " and their reflections in terms of music. But now we come to a mood that is the product of our present generation. The bubbling enthusiasm of our teenagers was the inspiration for what is now the most popular style of music in the country, rock and roll. A few short weeks ago, five teenage boys went into a recording studio and they said they had a song they wanted to sing. Well, it took a little time, three weeks to be exact, but they were heard and their song was recorded.",
+        "avg_logprob": -0.04254748774509804
+      },
+      {
+        "id": 2,
+        "start": 34.321,
+        "end": 62.182,
+        "text": " It is now the number one record in America. And the song is, Why Do Fools Fall In Love With Boys In New York City And Not Call Themselves The Teenagers. Oh, there he is. So, you guys are the teenagers. That's right, Mr. Lane. Come on, boys, let's sing our song now. That come out of you? Yes, sir, can we sing now? What's your name? I have to make my money before my voice changes.",
+        "avg_logprob": -0.14449331916651678
+      },
+      {
+        "id": 3,
+        "start": 65.236,
+        "end": 78.044,
+        "text": " I got news for you, Dad. It ain't gonna go much lower. You're in apparel now. Frankie, you amaze me. Tell me something. You're only 13 years old, and yet you wrote this big hit. How did it ever happen?",
+        "avg_logprob": -0.09095982249294009
+      },
+      {
+        "id": 4,
+        "start": 78.517,
+        "end": 101.703,
+        "text": " Well, Mr. Lane, one day I was dressing, and inspiration came to me, so I wrote the song. Oh. Well, what was the inspiration? I needed a new suit. Well, that's a pretty good reason. But I can't understand how you could write Why the Fool's Falling Out. What does a 13-year-old boy know about love? Well, Mr. Lane...",
+        "avg_logprob": -0.12306985469425426
+      },
+      {
+        "id": 5,
+        "start": 102.04,
+        "end": 124.602,
+        "text": " i've been falling in love since i was only five five but i've been a fool about it since i was 11. well don't complain lad you've only had two rough years i go all the way back to brady murphy i think we've had enough of this little chit chat this is your first",
+        "avg_logprob": -0.056700721153846154
+      },
+      {
+        "id": 6,
+        "start": 124.923,
+        "end": 132.618,
+        "text": " nationwide television appearance, isn't it? That's right, sir. And I know that everybody's waiting to hear you sing, so are you ready to rock and roll? That's right.",
+        "avg_logprob": -0.08681640811264515
+      },
+      {
+        "id": 7,
+        "start": 133.208,
+        "end": 163.195,
+        "text": " That means I ought to get lost, huh? About it.",
+        "avg_logprob": -0.14704240432807378
+      },
+      {
+        "id": 8,
+        "start": 163.195,
+        "end": 184.407,
+        "text": " Why does the rain fall, fall, fall? Why do souls fall in love? Why do they fall in love? Love is a losing game. Love can be a shame. I know a fool you see. For that fool is what you want.",
+        "avg_logprob": -0.2645733138689628
+      },
+      {
+        "id": 9,
+        "start": 194.33,
+        "end": 223.625,
+        "text": " Why do birds sing so gay? And lovers know when to break a day Why do they fall in love? Oh, why?",
+        "avg_logprob": -0.40133101410335964
+      },
+      {
+        "id": 10,
+        "start": 223.625,
+        "end": 239.639,
+        "text": " Why does the rain fall from above? Why do fools fall in love? Why do they fall in love? Why does my heart stray from me before I know?",
+        "avg_logprob": -0.17922794380608728
+      },
+      {
+        "id": 11,
+        "start": 248.667,
+        "end": 261.29,
+        "text": " So we'll all be like the moon morning light",
+        "avg_logprob": -1.1477273160761052
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "xd23p_vUMYw",
+    "uploader": "1984dreaming",
+    "audio_file": "corpus/01_music_videos_audio/audio/xd23p_vUMYw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8602978,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.928005,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:57:45Z"
+  },
+  "status": "success",
+  "error": null
+}

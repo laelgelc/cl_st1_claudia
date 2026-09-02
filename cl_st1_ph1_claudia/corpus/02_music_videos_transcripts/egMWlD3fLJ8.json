@@ -1,0 +1,98 @@
+{
+  "corpus_id": "egMWlD3fLJ8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/egMWlD3fLJ8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/egMWlD3fLJ8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/egMWlD3fLJ8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Looking for adventure in whatever comes our way. Yeah, darling, go make it happen. Take the world in a loving place. Fire all of your guns and bombs and explode into space. I like smoking lightning. Heavy metal thunder. Racing with the wind and the feeling that I'm under. Yeah, darling, go make it happen. Take the world in a loving embrace. We were born, born to be wild We can climb so high I never wanna die Born to be wild Thank you. Looking for adventure In whatever comes our way Yeah, darlin', go make it happen Take the world in a loving grace Fire all of your guns upon the sun Explode into space And like the true nature's child We were born, born to be wise We can climb so high Born to be wild Born to be wild Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 28.01,
+        "end": 53.677,
+        "text": " Looking for adventure in whatever comes our way. Yeah, darling, go make it happen. Take the world in a loving place. Fire all of your guns and bombs and explode into space. I like smoking lightning. Heavy metal thunder.",
+        "avg_logprob": -0.22070313151925802
+      },
+      {
+        "id": 2,
+        "start": 54.335,
+        "end": 67.683,
+        "text": " Racing with the wind and the feeling that I'm under. Yeah, darling, go make it happen. Take the world in a loving embrace.",
+        "avg_logprob": -0.12057291517655054
+      },
+      {
+        "id": 3,
+        "start": 68.527,
+        "end": 90.785,
+        "text": " We were born, born to be wild We can climb so high I never wanna die Born to be wild",
+        "avg_logprob": -0.26509232819080353
+      },
+      {
+        "id": 4,
+        "start": 108.605,
+        "end": 111.659,
+        "text": " Thank you.",
+        "avg_logprob": -0.7949219048023224
+      },
+      {
+        "id": 5,
+        "start": 144.008,
+        "end": 172.021,
+        "text": " Looking for adventure In whatever comes our way Yeah, darlin', go make it happen Take the world in a loving grace Fire all of your guns upon the sun Explode into space And like the true nature's child We were born, born to be wise We can climb so high",
+        "avg_logprob": -0.16159539682823315
+      },
+      {
+        "id": 6,
+        "start": 176.746,
+        "end": 185.707,
+        "text": " Born to be wild Born to be wild",
+        "avg_logprob": -0.1314019097222222
+      },
+      {
+        "id": 7,
+        "start": 208.319,
+        "end": 215.98,
+        "text": " Thank you.",
+        "avg_logprob": -0.5673828274011612
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "egMWlD3fLJ8",
+    "uploader": "Retrospective Soundtrack",
+    "audio_file": "corpus/01_music_videos_audio/audio/egMWlD3fLJ8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6911822,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.769512,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:01:28Z"
+  },
+  "status": "success",
+  "error": null
+}

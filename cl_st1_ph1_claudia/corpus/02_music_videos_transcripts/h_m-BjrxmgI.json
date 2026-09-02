@@ -1,0 +1,105 @@
+{
+  "corpus_id": "h_m-BjrxmgI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/h_m-BjrxmgI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/h_m-BjrxmgI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/h_m-BjrxmgI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Hey there, Delilah, what's it like in New York City? I'm a thousand miles away, but girl, tonight you look so pretty. Yes, you do. Times Square can't shine as bright as you. I swear it's true. Hey there, Delilah, don't you worry about the distance. I'm right there if you get lonely. Give this song another listen. Close your eyes. Listen to my voice, it's my disguise I'm by your side Oh, it's what you do to me Oh, it's what you do to me Oh, it's what you do to me Oh, it's what you do to me What you do to me Hey there, Delilah, I know times are getting hard But just believe me, girl, someday I'll pay the bills with this guitar We'll have it good We'll have the life we knew we would My word is good Hey there, Delilah, I've got so much left to say. If every simple song I wrote to you would take your breath away, I'd write it all. Even more in love with me, you'd fall. We'd have it all. Oh, it's what you do to me. So what you do to me? So what you do to me? A thousand miles seems pretty far But they've got planes and trains and cars I'd walk to you if I had no other way Our friends would all make fun of us And we'll just laugh along Because we know that none of them have felt this way Delilah, I can't promise you that by the time we get through, the world will never ever be the same. And you're to blame. Hey there, Delilah, you be good and don't you miss me two more years and you'll be done with school and I'll be making history like I do. You know it's all because of you. We can do whatever we want to Hey there, Delilah, here's to you This one's for you Oh, it's what you do to me Oh, it's what you do to me me what you do to me oh",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 10.325,
+        "end": 38.81,
+        "text": " Hey there, Delilah, what's it like in New York City? I'm a thousand miles away, but girl, tonight you look so pretty. Yes, you do. Times Square can't shine as bright as you. I swear it's true. Hey there, Delilah, don't you worry about the distance. I'm right there if you get lonely. Give this song another listen. Close your eyes.",
+        "avg_logprob": -0.027775253970609155
+      },
+      {
+        "id": 2,
+        "start": 40.193,
+        "end": 67.615,
+        "text": " Listen to my voice, it's my disguise I'm by your side Oh, it's what you do to me Oh, it's what you do to me Oh, it's what you do to me Oh, it's what you do to me What you do to me",
+        "avg_logprob": -0.04481724263834102
+      },
+      {
+        "id": 3,
+        "start": 67.953,
+        "end": 85.638,
+        "text": " Hey there, Delilah, I know times are getting hard But just believe me, girl, someday I'll pay the bills with this guitar We'll have it good We'll have the life we knew we would My word is good",
+        "avg_logprob": -0.08232213842107895
+      },
+      {
+        "id": 4,
+        "start": 86.228,
+        "end": 107.508,
+        "text": " Hey there, Delilah, I've got so much left to say. If every simple song I wrote to you would take your breath away, I'd write it all. Even more in love with me, you'd fall. We'd have it all. Oh, it's what you do to me.",
+        "avg_logprob": -0.026320684169019972
+      },
+      {
+        "id": 5,
+        "start": 114.713,
+        "end": 140.228,
+        "text": " So what you do to me? So what you do to me? A thousand miles seems pretty far But they've got planes and trains and cars I'd walk to you if I had no other way Our friends would all make fun of us And we'll just laugh along Because we know that none of them have felt this way",
+        "avg_logprob": -0.06853692910887978
+      },
+      {
+        "id": 6,
+        "start": 141.528,
+        "end": 169.388,
+        "text": " Delilah, I can't promise you that by the time we get through, the world will never ever be the same. And you're to blame. Hey there, Delilah, you be good and don't you miss me two more years and you'll be done with school and I'll be making history like I do. You know it's all because of you.",
+        "avg_logprob": -0.07709703947368421
+      },
+      {
+        "id": 7,
+        "start": 171.835,
+        "end": 194.532,
+        "text": " We can do whatever we want to Hey there, Delilah, here's to you This one's for you Oh, it's what you do to me Oh, it's what you do to me",
+        "avg_logprob": -0.08269817363925097
+      },
+      {
+        "id": 8,
+        "start": 201.35,
+        "end": 224.84,
+        "text": " me what you do to me oh",
+        "avg_logprob": -0.5883788913488388
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "h_m-BjrxmgI",
+    "uploader": "HollywoodRecordsVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/h_m-BjrxmgI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7775976,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.56629,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:13:26Z"
+  },
+  "status": "success",
+  "error": null
+}

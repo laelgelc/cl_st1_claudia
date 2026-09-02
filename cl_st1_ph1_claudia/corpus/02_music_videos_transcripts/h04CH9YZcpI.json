@@ -1,0 +1,98 @@
+{
+  "corpus_id": "h04CH9YZcpI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/h04CH9YZcpI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/h04CH9YZcpI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/h04CH9YZcpI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "A little ditty about Jack and Diane, two American kids growing up in the heartland. Jackie gonna be a football star. Diane's debutante backseat of Jackie's car. Suckin' on a chilly dog, outside tastes freeze. Diane's sittin' on Jackie's lap, got his hands between her knees. Jackie say, hey Diane, let's run off behind the shady trees. Dribble off those Bobby Brooks, let me do what I please. Say, oh yeah, life goes on. Long after the thrill of livin' is gone, you say. Well, life goes on long after the thrill of living is gone. They're all gone. Jackie sits back, collects his thoughts for the moment. Scratches his head and does his best James Dean. Well, then there's Diane, got to run off to the city. Diane says, baby, you ain't missing nothing. Jackie says, oh, yeah, life goes on. Long after the thrill of living is gone. Oh yeah, they say life goes on Long after the thrill of living is gone So let it rock, let it roll Let the Bible Belt come and save my soul Hold on to sixteen as long as you can Real soon make us women and men Oh yeah Life goes on Long after the thread of livin' is gone Oh yeah, they say life goes on Long after the thread of livin' is gone A little ditty about Jack and Diane Two American kids doin' the best they can",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 29.174,
+        "end": 46.15,
+        "text": " A little ditty about Jack and Diane, two American kids growing up in the heartland. Jackie gonna be a football star. Diane's debutante backseat of Jackie's car.",
+        "avg_logprob": -0.09004934465414599
+      },
+      {
+        "id": 2,
+        "start": 56.849,
+        "end": 84.237,
+        "text": " Suckin' on a chilly dog, outside tastes freeze. Diane's sittin' on Jackie's lap, got his hands between her knees. Jackie say, hey Diane, let's run off behind the shady trees. Dribble off those Bobby Brooks, let me do what I please. Say, oh yeah, life goes on. Long after the thrill of livin' is gone, you say.",
+        "avg_logprob": -0.12890625106436865
+      },
+      {
+        "id": 3,
+        "start": 85.452,
+        "end": 96.556,
+        "text": " Well, life goes on long after the thrill of living is gone. They're all gone.",
+        "avg_logprob": -0.19882813096046448
+      },
+      {
+        "id": 4,
+        "start": 112.705,
+        "end": 139.553,
+        "text": " Jackie sits back, collects his thoughts for the moment. Scratches his head and does his best James Dean. Well, then there's Diane, got to run off to the city. Diane says, baby, you ain't missing nothing. Jackie says, oh, yeah, life goes on. Long after the thrill of living is gone.",
+        "avg_logprob": -0.15401785714285715
+      },
+      {
+        "id": 5,
+        "start": 140.87,
+        "end": 170.283,
+        "text": " Oh yeah, they say life goes on Long after the thrill of living is gone So let it rock, let it roll Let the Bible Belt come and save my soul Hold on to sixteen as long as you can",
+        "avg_logprob": -0.10764897943929184
+      },
+      {
+        "id": 6,
+        "start": 171.363,
+        "end": 198.346,
+        "text": " Real soon make us women and men Oh yeah Life goes on",
+        "avg_logprob": -0.40294471153846156
+      },
+      {
+        "id": 7,
+        "start": 198.751,
+        "end": 221.212,
+        "text": " Long after the thread of livin' is gone Oh yeah, they say life goes on Long after the thread of livin' is gone A little ditty about Jack and Diane Two American kids doin' the best they can",
+        "avg_logprob": -0.11489470448830853
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "h04CH9YZcpI",
+    "uploader": "John Mellencamp",
+    "audio_file": "corpus/01_music_videos_audio/audio/h04CH9YZcpI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8279756,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.491329,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:13:59Z"
+  },
+  "status": "success",
+  "error": null
+}

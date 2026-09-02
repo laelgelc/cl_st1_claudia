@@ -1,0 +1,119 @@
+{
+  "corpus_id": "9aofoBrFNdg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/9aofoBrFNdg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/9aofoBrFNdg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/9aofoBrFNdg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Your mom's is so poor, she went to McDonald's and put a shake on a layaway. Your mother's so old, she knew Central Park when it's just a plant. Your mom's hair's so nappy, she gotta take painkillers to comb her hair. Oh, yo, yo, yo, yo, later for that, man. Good evening, man. You, you got what I need, man. Don't touch, don't touch, don't touch. Oh, it's over that, baby? How about you, man? How about you? Yo, yo, yo, yo, yo. Forget them girls, man. Yo, I got a little story to tell you. have you ever met a girl that you tried to date but a year to make love she wanted you to wait let me tell you a story in my situation i was talking to this girl from the u.s nation the way that i met her was on tour that concert she had long hair and a short miniskirt i just got on stage dripping pouring with sweat I was walking through the crowd and guess who I met I whispered in her ear come to the picture booth so I can ask you some questions to see if you're 100 proof I asked her her name she said blah blah blah she had 9, 10 pairs and a very big bra I took a couple of flicks and she was enthused I said how do you like the show she said I was very amused I started throwing bitch she started throwing back mid range but when I sprung the question she acted kind of strange cause when I asked do you have a man she tried to She said, no, I don't. I only have a friend. Come on. I'm not even going for it. This is what I'm going to say. You, you got what I need. But you say he's just a friend. And you say he's just a friend. Oh, baby, you. Would you say he's just a friend? Would you say he's just a friend? So I took Blah Blah's word for it at this time I thought just having a friend couldn't be no crime Cause I have friends and that's a fact Like Agnes, Agatha, Jermaine and Jack Forget about that, let's go into the story About a girl named Blah Blah Blah that adored me So we started talking, getting familiar Spending a lot of time so we can build up relationships Or some understanding How it's gonna be in the future we was planning Everything sounded so dandy and sweet I had no idea I was in for a treat After this was established, everything was cool The tour was over and she went back to school I called every day to see how she was doing Every time that I called her, it seemed to me we were brewing I called the room a guy picked up and then I called again I said, yo, who is that? But you say he's just a friend. But you say he's just a friend. Oh baby, you got what I need. But you say he's just a friend. But you say he's just a friend. Oh baby, you got what I need. But you say he's just a friend. So I came to her college on a surprise visit To see my girl that was so exquisite It was a school day, I knew she was there The first semester of the school year I went to her gate to ask where was her dorm This guy made me fill out a visitor's form He told me where it was and I was on my way To see my baby doll I was happy to say I arrived in front of the dormitory. Yo, could you tell me where is door three? They showed me where it was for the moment. I didn't know I was in for such an event. So I came to a room and opened the door. Oh, snap. Guess what I saw? A fellow come kissing my girl in the mouth. I was so in shock, my heart went down south. So please listen to the message that I send. Don't ever talk to a girl who says she just has a friend. Has a friend.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 10,
+    "segments": [
+      {
+        "id": 1,
+        "start": 2.039,
+        "end": 20.585,
+        "text": " Your mom's is so poor, she went to McDonald's and put a shake on a layaway. Your mother's so old, she knew Central Park when it's just a plant. Your mom's hair's so nappy, she gotta take painkillers to comb her hair.",
+        "avg_logprob": -0.1557291696468989
+      },
+      {
+        "id": 2,
+        "start": 22.576,
+        "end": 39.232,
+        "text": " Oh, yo, yo, yo, yo, later for that, man. Good evening, man. You, you got what I need, man. Don't touch, don't touch, don't touch. Oh, it's over that, baby? How about you, man? How about you? Yo, yo, yo, yo, yo. Forget them girls, man. Yo, I got a little story to tell you.",
+        "avg_logprob": -0.17638889104127883
+      },
+      {
+        "id": 3,
+        "start": 39.232,
+        "end": 56.866,
+        "text": " have you ever met a girl that you tried to date but a year to make love she wanted you to wait let me tell you a story in my situation i was talking to this girl from the u.s nation the way that i met her was on tour that concert she had long hair and a short miniskirt i just got",
+        "avg_logprob": -0.07973345358143835
+      },
+      {
+        "id": 4,
+        "start": 56.866,
+        "end": 86.819,
+        "text": " on stage dripping pouring with sweat I was walking through the crowd and guess who I met I whispered in her ear come to the picture booth so I can ask you some questions to see if you're 100 proof I asked her her name she said blah blah blah she had 9, 10 pairs and a very big bra I took a couple of flicks and she was enthused I said how do you like the show she said I was very amused I started throwing bitch she started throwing back mid range but when I sprung the question she acted kind of strange cause when I asked do you have a man she tried to",
+        "avg_logprob": -0.09734623341096772
+      },
+      {
+        "id": 5,
+        "start": 86.819,
+        "end": 108.385,
+        "text": " She said, no, I don't. I only have a friend. Come on. I'm not even going for it. This is what I'm going to say. You, you got what I need. But you say he's just a friend. And you say he's just a friend. Oh, baby, you.",
+        "avg_logprob": -0.10862821756916888
+      },
+      {
+        "id": 6,
+        "start": 123.387,
+        "end": 153.323,
+        "text": " Would you say he's just a friend? Would you say he's just a friend? So I took Blah Blah's word for it at this time I thought just having a friend couldn't be no crime Cause I have friends and that's a fact Like Agnes, Agatha, Jermaine and Jack Forget about that, let's go into the story About a girl named Blah Blah Blah that adored me So we started talking, getting familiar Spending a lot of time so we can build up relationships",
+        "avg_logprob": -0.050600404333737165
+      },
+      {
+        "id": 7,
+        "start": 153.323,
+        "end": 178.687,
+        "text": " Or some understanding How it's gonna be in the future we was planning Everything sounded so dandy and sweet I had no idea I was in for a treat After this was established, everything was cool The tour was over and she went back to school I called every day to see how she was doing Every time that I called her, it seemed to me we were brewing I called the room a guy picked up and then I called again I said, yo, who is that?",
+        "avg_logprob": -0.06091308508378764
+      },
+      {
+        "id": 8,
+        "start": 190.904,
+        "end": 215.474,
+        "text": " But you say he's just a friend. But you say he's just a friend. Oh baby, you got what I need. But you say he's just a friend. But you say he's just a friend. Oh baby, you got what I need. But you say he's just a friend.",
+        "avg_logprob": -0.09033203136641532
+      },
+      {
+        "id": 9,
+        "start": 217.82,
+        "end": 242.272,
+        "text": " So I came to her college on a surprise visit To see my girl that was so exquisite It was a school day, I knew she was there The first semester of the school year I went to her gate to ask where was her dorm This guy made me fill out a visitor's form He told me where it was and I was on my way To see my baby doll I was happy to say",
+        "avg_logprob": -0.0841049353281657
+      },
+      {
+        "id": 10,
+        "start": 242.272,
+        "end": 270.841,
+        "text": " I arrived in front of the dormitory. Yo, could you tell me where is door three? They showed me where it was for the moment. I didn't know I was in for such an event. So I came to a room and opened the door. Oh, snap. Guess what I saw? A fellow come kissing my girl in the mouth. I was so in shock, my heart went down south. So please listen to the message that I send. Don't ever talk to a girl who says she just has a friend. Has a friend.",
+        "avg_logprob": -0.07051630123801854
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "9aofoBrFNdg",
+    "uploader": "UPROXX",
+    "audio_file": "corpus/01_music_videos_audio/audio/9aofoBrFNdg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8940318,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.653654,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:08:02Z"
+  },
+  "status": "success",
+  "error": null
+}

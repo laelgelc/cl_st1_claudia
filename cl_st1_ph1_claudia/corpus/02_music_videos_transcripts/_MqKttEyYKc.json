@@ -1,0 +1,70 @@
+{
+  "corpus_id": "_MqKttEyYKc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/_MqKttEyYKc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/_MqKttEyYKc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/_MqKttEyYKc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Waking for the man every night and day And I never lost a minute of sleeping Worrying about the way things might have been Big wheels keep on turning Proud men will keep on a lot of pain down in New Orleans. But I never saw the good side of the city till I hitched a ride on a riverboat queen. And baby, you keep on running. Bet you're gonna find some people who live You don't have to worry, cause you have no money People on the river are happy to give Big wheel will keep on burnin' God's mirror keep on burnin'",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 3,
+    "segments": [
+      {
+        "id": 1,
+        "start": 16.484,
+        "end": 34.186,
+        "text": " Waking for the man every night and day And I never lost a minute of sleeping Worrying about the way things might have been Big wheels keep on turning Proud men will keep on",
+        "avg_logprob": -0.3016827030059619
+      },
+      {
+        "id": 2,
+        "start": 48.833,
+        "end": 64.679,
+        "text": " a lot of pain down in New Orleans. But I never saw the good side of the city till I hitched a ride on a riverboat queen. And baby, you keep on running.",
+        "avg_logprob": -0.32246092781424524
+      },
+      {
+        "id": 3,
+        "start": 135.453,
+        "end": 153.998,
+        "text": " Bet you're gonna find some people who live You don't have to worry, cause you have no money People on the river are happy to give Big wheel will keep on burnin' God's mirror keep on burnin'",
+        "avg_logprob": -0.2554347819608191
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "_MqKttEyYKc",
+    "uploader": "Creedence Clearwater Revival",
+    "audio_file": "corpus/01_music_videos_audio/audio/_MqKttEyYKc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6081848,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.999035,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:00:54Z"
+  },
+  "status": "success",
+  "error": null
+}

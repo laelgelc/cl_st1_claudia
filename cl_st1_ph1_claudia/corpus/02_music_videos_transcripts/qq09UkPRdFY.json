@@ -1,0 +1,84 @@
+{
+  "corpus_id": "qq09UkPRdFY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/qq09UkPRdFY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/qq09UkPRdFY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/qq09UkPRdFY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Welcome to the fantasy. It's a sweet, sweet fantasy, baby. When I close my eyes, you come and take me. It's on and on and on. It's so deep in my taste, baby. But it's just a sweet, sweet fantasy. My daddy's here, but it's just a sweet Oh dear babe, love is just a sweet, sweet It's been my day, dear, but it's been sweet as we've ever seen, baby Sweet as we've ever seen, baby Sweet as we've ever seen, baby Sweet as we've ever seen, baby",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.352,
+        "end": 5.853,
+        "text": " Welcome to the fantasy.",
+        "avg_logprob": -0.20100911458333334
+      },
+      {
+        "id": 2,
+        "start": 64.46,
+        "end": 80.17,
+        "text": " It's a sweet, sweet fantasy, baby. When I close my eyes, you come and take me. It's on and on and on. It's so deep in my taste, baby. But it's just a sweet, sweet fantasy.",
+        "avg_logprob": -0.22028186449817583
+      },
+      {
+        "id": 3,
+        "start": 132.061,
+        "end": 135.47,
+        "text": " My daddy's here, but it's just a sweet",
+        "avg_logprob": -0.3385416716337204
+      },
+      {
+        "id": 4,
+        "start": 169.507,
+        "end": 173.388,
+        "text": " Oh dear babe, love is just a sweet, sweet",
+        "avg_logprob": -0.532552108168602
+      },
+      {
+        "id": 5,
+        "start": 225.245,
+        "end": 245.258,
+        "text": " It's been my day, dear, but it's been sweet as we've ever seen, baby Sweet as we've ever seen, baby Sweet as we've ever seen, baby Sweet as we've ever seen, baby",
+        "avg_logprob": -0.30000000529819065
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "qq09UkPRdFY",
+    "uploader": "Mariah Carey",
+    "audio_file": "corpus/01_music_videos_audio/audio/qq09UkPRdFY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7951334,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.873075,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:22:47Z"
+  },
+  "status": "success",
+  "error": null
+}

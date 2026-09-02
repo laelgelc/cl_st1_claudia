@@ -1,0 +1,98 @@
+{
+  "corpus_id": "Cwkej79U3ek",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Cwkej79U3ek.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Cwkej79U3ek.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Cwkej79U3ek.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Making my way downtown, walking fast Face this path and I'm homebound Staring blankly ahead, just making my way, making my way And I need you And I'll miss you And now I wonder If I could fall into the sky Do you think time would pass me by? Cause you know I'd walk a thousand miles If I could just see you tonight There's always times like these when I think of you And I wonder if you ever think of me Cause everything's so wrong and I don't belong to living Cause I need you And I'll miss you Now I wonder If I could fall Into the sky Do you think time Would pass Making my way downtown Walking fast Faces pass and I'm homebound Staring blankly ahead Just making my way Making my way through the crowd And I still need you And I still miss you And now I want you If I could fall into the sky Do you think time would pass us by? Cause you know I If I can just see you If I can just hold you tonight",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 20.365,
+        "end": 45.138,
+        "text": " Making my way downtown, walking fast Face this path and I'm homebound Staring blankly ahead, just making my way, making my way",
+        "avg_logprob": -0.24895834624767305
+      },
+      {
+        "id": 2,
+        "start": 52.411,
+        "end": 81.368,
+        "text": " And I need you And I'll miss you And now I wonder If I could fall into the sky Do you think time would pass me by? Cause you know I'd walk a thousand miles If I could just see you tonight",
+        "avg_logprob": -0.09247622574153154
+      },
+      {
+        "id": 3,
+        "start": 85.942,
+        "end": 99.762,
+        "text": " There's always times like these when I think of you And I wonder if you ever think of me Cause everything's so wrong and I don't belong to living",
+        "avg_logprob": -0.10499526515151515
+      },
+      {
+        "id": 4,
+        "start": 107.727,
+        "end": 124.467,
+        "text": " Cause I need you And I'll miss you Now I wonder If I could fall Into the sky Do you think time Would pass",
+        "avg_logprob": -0.2506009661234342
+      },
+      {
+        "id": 5,
+        "start": 166.992,
+        "end": 195.072,
+        "text": " Making my way downtown Walking fast Faces pass and I'm homebound Staring blankly ahead Just making my way Making my way through the crowd And I still need you And I still miss you And now I want you",
+        "avg_logprob": -0.19809027645323013
+      },
+      {
+        "id": 6,
+        "start": 198.447,
+        "end": 210.277,
+        "text": " If I could fall into the sky Do you think time would pass us by? Cause you know I",
+        "avg_logprob": -0.0994233645143963
+      },
+      {
+        "id": 7,
+        "start": 233.193,
+        "end": 253.156,
+        "text": " If I can just see you If I can just hold you tonight",
+        "avg_logprob": -0.14411272640739167
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Cwkej79U3ek",
+    "uploader": "Vanessa Carlton",
+    "audio_file": "corpus/01_music_videos_audio/audio/Cwkej79U3ek.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8543536,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.261689,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:20:15Z"
+  },
+  "status": "success",
+  "error": null
+}

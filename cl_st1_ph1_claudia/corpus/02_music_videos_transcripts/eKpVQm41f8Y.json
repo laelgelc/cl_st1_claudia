@@ -1,0 +1,77 @@
+{
+  "corpus_id": "eKpVQm41f8Y",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/eKpVQm41f8Y.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/eKpVQm41f8Y.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/eKpVQm41f8Y.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I know you get to like it if you give it a chance now Come on, baby, do the locomotion My little baby sister can do everything It's easier than learning your ABC So come on, come on, do the locomotion with me You gotta swing your heels now Come on, baby, jump up, jump back Now that you can do it, let's make a chain now. Come on, baby, do the locomotion. A chugga-chugga motion like a railroad train now. Come on, baby, do the locomotion. Do it nice and easy now. Don't lose control. A little bit of rhythm and a lot of soul. Come on, come on, do the locomotion with me. move around the floor in a local motion come on baby You gotta swing.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 15.37,
+        "end": 44.243,
+        "text": " I know you get to like it if you give it a chance now Come on, baby, do the locomotion My little baby sister can do everything It's easier than learning your ABC So come on, come on, do the locomotion with me You gotta swing your heels now Come on, baby, jump up, jump back",
+        "avg_logprob": -0.08238106009675496
+      },
+      {
+        "id": 2,
+        "start": 49.643,
+        "end": 77.977,
+        "text": " Now that you can do it, let's make a chain now. Come on, baby, do the locomotion. A chugga-chugga motion like a railroad train now. Come on, baby, do the locomotion. Do it nice and easy now. Don't lose control. A little bit of rhythm and a lot of soul. Come on, come on, do the locomotion with me.",
+        "avg_logprob": -0.07453669728927834
+      },
+      {
+        "id": 3,
+        "start": 80.474,
+        "end": 103.745,
+        "text": " move around the floor in a local motion come on baby",
+        "avg_logprob": -0.5091146032015482
+      },
+      {
+        "id": 4,
+        "start": 106.529,
+        "end": 119.32,
+        "text": " You gotta swing.",
+        "avg_logprob": -0.696484375
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "eKpVQm41f8Y",
+    "uploader": "Sironaca",
+    "audio_file": "corpus/01_music_videos_audio/audio/eKpVQm41f8Y.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4849148,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.871631,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:56:44Z"
+  },
+  "status": "success",
+  "error": null
+}

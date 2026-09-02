@@ -1,0 +1,84 @@
+{
+  "corpus_id": "miax0Jpe5mA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/miax0Jpe5mA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/miax0Jpe5mA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/miax0Jpe5mA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Cursed when there's nothing But a slow glowing dream That your fear seems to hide Deep inside your mind All alone I have cried Silent tears full of pride In a world made of steel, made of stone I hear the music Close my eyes, feel the rhythm Wrap around, take a hold Bye. Bye. I can feel them now, pictures come alive, you can dance right through your life What a feeling, I can feel you behind it all, what a feeling, pictures come alive when I fall for you",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 10.375,
+        "end": 37.409,
+        "text": " Cursed when there's nothing But a slow glowing dream That your fear seems to hide Deep inside your mind All alone I have cried",
+        "avg_logprob": -0.06655092868540022
+      },
+      {
+        "id": 2,
+        "start": 38.017,
+        "end": 51.635,
+        "text": " Silent tears full of pride In a world made of steel, made of stone",
+        "avg_logprob": -0.12164306826889515
+      },
+      {
+        "id": 3,
+        "start": 58.182,
+        "end": 68.543,
+        "text": " I hear the music Close my eyes, feel the rhythm Wrap around, take a hold",
+        "avg_logprob": -0.3782552066776488
+      },
+      {
+        "id": 4,
+        "start": 120.704,
+        "end": 129.614,
+        "text": " Bye. Bye.",
+        "avg_logprob": -0.87734375
+      },
+      {
+        "id": 5,
+        "start": 186.517,
+        "end": 204.539,
+        "text": " I can feel them now, pictures come alive, you can dance right through your life What a feeling, I can feel you behind it all, what a feeling, pictures come alive when I fall for you",
+        "avg_logprob": -0.25074404123283567
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "miax0Jpe5mA",
+    "uploader": "HD Film Tributes",
+    "audio_file": "corpus/01_music_videos_audio/audio/miax0Jpe5mA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7690528,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.416627,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:07:36Z"
+  },
+  "status": "success",
+  "error": null
+}

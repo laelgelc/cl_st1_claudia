@@ -1,0 +1,91 @@
+{
+  "corpus_id": "v124f0i0Xh4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/v124f0i0Xh4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/v124f0i0Xh4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/v124f0i0Xh4.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "...du Rhythm and Blues, Chuck Berry! good evening ladies and gentlemen and i shall do for you first a song that i first recorded number one it was a fairly nice hit and it went quite high in the american charts the title of it is maybelline Why can't you be true? Oh, Maybelline, why can't you be true? You started back doing the things you used to do. As I was motivating over the hill, I saw Maybelline and the Coupe de Ville. Cadillac rolling on an open road, nothing I'd run my V8 for. Cadillac doing about 95, just pumping on the road side to side. Maybelline, why can't you be true? Oh, Maybelline, can't you be true? Just started back doing the things you used to do Cadillac pulled up in the heart of the boat Boat's not hot, don't do no more Dirt's back to life, it started to rain True to go hard, but I passed the lane Rain and water flowing all over my hood But I knew that I was doing my motor good Maybelline, why can't you be true? Oh, Maybelline, can't you be true? Just started back doing the things you used to do Oh! Why can't you be true? Oh, Maybelline Why can't you be true? Ah, you started back doing the things you used to do Now, the motor cooled down, the heat went down That's when I heard that highway sound Cadillac settin' like a ton of lead Harder than ten, a half a mile ahead Cadillac lookin' like it's settin' still And I caught Maybelline on top of the hill Maybelline Why can't you be true? Oh, Maybelline Why can't you be true? I'm gonna sing for you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.284,
+        "end": 3.524,
+        "text": " ...du Rhythm and Blues, Chuck Berry!",
+        "avg_logprob": -0.5390625108372081
+      },
+      {
+        "id": 2,
+        "start": 52.09,
+        "end": 74.028,
+        "text": " good evening ladies and gentlemen and i shall do for you first a song that i first recorded number one it was a fairly nice hit and it went quite high in the american charts the title of it is maybelline",
+        "avg_logprob": -0.05788352120329033
+      },
+      {
+        "id": 3,
+        "start": 78.567,
+        "end": 108.554,
+        "text": " Why can't you be true? Oh, Maybelline, why can't you be true? You started back doing the things you used to do. As I was motivating over the hill, I saw Maybelline and the Coupe de Ville. Cadillac rolling on an open road, nothing I'd run my V8 for. Cadillac doing about 95, just pumping on the road side to side. Maybelline, why can't you be true? Oh, Maybelline, can't you be true?",
+        "avg_logprob": -0.17414772713726218
+      },
+      {
+        "id": 4,
+        "start": 108.554,
+        "end": 137.258,
+        "text": " Just started back doing the things you used to do Cadillac pulled up in the heart of the boat Boat's not hot, don't do no more Dirt's back to life, it started to rain True to go hard, but I passed the lane Rain and water flowing all over my hood But I knew that I was doing my motor good Maybelline, why can't you be true? Oh, Maybelline, can't you be true? Just started back doing the things you used to do Oh!",
+        "avg_logprob": -0.29877337562703643
+      },
+      {
+        "id": 5,
+        "start": 172.662,
+        "end": 200.253,
+        "text": " Why can't you be true? Oh, Maybelline Why can't you be true? Ah, you started back doing the things you used to do Now, the motor cooled down, the heat went down That's when I heard that highway sound Cadillac settin' like a ton of lead Harder than ten, a half a mile ahead Cadillac lookin' like it's settin' still And I caught Maybelline on top of the hill Maybelline Why can't you be true? Oh, Maybelline Why can't you be true?",
+        "avg_logprob": -0.17013888736056465
+      },
+      {
+        "id": 6,
+        "start": 202.987,
+        "end": 206.598,
+        "text": " I'm gonna sing for you.",
+        "avg_logprob": -0.7343750149011612
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "v124f0i0Xh4",
+    "uploader": "marcelo cavalcante",
+    "audio_file": "corpus/01_music_videos_audio/audio/v124f0i0Xh4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7086436,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.57032,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:53:20Z"
+  },
+  "status": "success",
+  "error": null
+}

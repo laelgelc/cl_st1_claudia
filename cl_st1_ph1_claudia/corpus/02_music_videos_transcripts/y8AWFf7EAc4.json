@@ -1,0 +1,133 @@
+{
+  "corpus_id": "y8AWFf7EAc4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/y8AWFf7EAc4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/y8AWFf7EAc4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/y8AWFf7EAc4.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Thank you. I heard there was a secret chord That David played and it pleased the Lord But you don't really care for music, do you? Well it goes like this, the fourth, the fifth The minor fall and the major lift The baffled king composing Hallelujah Hallelujah Your faith was strong but you needed proof You saw her bathing on the roof Her beauty in the moonlight overthrew you She tied you to a kitchen chair. She broke your throat and she cut your hair. And from your lips she drew the hallelujah. Hallelujah. Hallelujah. Hallelujah. Hallelujah. Baby, I've been here before. I've seen this room and I've walked this floor. I used to live alone before I knew you. I've seen your flag on the marble arch. Love is not a victory march. It's a call and it's a broken hallelujah. Hallelujah. Hallelujah. Hallelujah. Hallelujah. Hallelujah. There was a time when you let me know What's really going on below But now you never show that to me, do you? I remember when I moved in you And the holy dove was moving too And every breath we drew was hallelujah Alleluia, Alleluia, Alleluia, Alleluia Maybe there is a God above All I've ever learned from love How to shoot somebody who outdrew you It's not a cry that you hear at night It's not somebody who's seen the light It's a call and it's a broken hallelujah Hallelujah Hallelujah, Hallelujah Hallelujah, Hallelujah Hallelujah, Hallelujah Hallelujah Hallelujah Hallelujah Hallelujah Hallelujah.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 12,
+    "segments": [
+      {
+        "id": 1,
+        "start": 24.01,
+        "end": 25.04,
+        "text": " Thank you.",
+        "avg_logprob": -0.5307617336511612
+      },
+      {
+        "id": 2,
+        "start": 80.677,
+        "end": 106.917,
+        "text": " I heard there was a secret chord That David played and it pleased the Lord But you don't really care for music, do you? Well it goes like this, the fourth, the fifth The minor fall and the major lift The baffled king composing Hallelujah",
+        "avg_logprob": -0.10590277432843491
+      },
+      {
+        "id": 3,
+        "start": 117.008,
+        "end": 140.482,
+        "text": " Hallelujah Your faith was strong but you needed proof You saw her bathing on the roof Her beauty in the moonlight overthrew you",
+        "avg_logprob": -0.046562501192092896
+      },
+      {
+        "id": 4,
+        "start": 142.439,
+        "end": 163.769,
+        "text": " She tied you to a kitchen chair. She broke your throat and she cut your hair. And from your lips she drew the hallelujah. Hallelujah. Hallelujah. Hallelujah.",
+        "avg_logprob": -0.036746651998588016
+      },
+      {
+        "id": 5,
+        "start": 164.191,
+        "end": 188.373,
+        "text": " Hallelujah. Baby, I've been here before. I've seen this room and I've walked this floor. I used to live alone before I knew you.",
+        "avg_logprob": -0.08138020833333333
+      },
+      {
+        "id": 6,
+        "start": 190.482,
+        "end": 219.052,
+        "text": " I've seen your flag on the marble arch. Love is not a victory march. It's a call and it's a broken hallelujah. Hallelujah. Hallelujah. Hallelujah. Hallelujah. Hallelujah.",
+        "avg_logprob": -0.11337890289723873
+      },
+      {
+        "id": 7,
+        "start": 233.53,
+        "end": 259.99,
+        "text": " There was a time when you let me know What's really going on below But now you never show that to me, do you? I remember when I moved in you And the holy dove was moving too And every breath we drew was hallelujah",
+        "avg_logprob": -0.11124999806284905
+      },
+      {
+        "id": 8,
+        "start": 260.53,
+        "end": 288.222,
+        "text": " Alleluia, Alleluia, Alleluia, Alleluia Maybe there is a God above All I've ever learned from love",
+        "avg_logprob": -0.18224677340737705
+      },
+      {
+        "id": 9,
+        "start": 288.695,
+        "end": 318.175,
+        "text": " How to shoot somebody who outdrew you It's not a cry that you hear at night It's not somebody who's seen the light It's a call and it's a broken hallelujah Hallelujah",
+        "avg_logprob": -0.10003810975609756
+      },
+      {
+        "id": 10,
+        "start": 323.896,
+        "end": 349.748,
+        "text": " Hallelujah, Hallelujah Hallelujah, Hallelujah Hallelujah, Hallelujah",
+        "avg_logprob": -0.45312498807907103
+      },
+      {
+        "id": 11,
+        "start": 351.115,
+        "end": 379.145,
+        "text": " Hallelujah Hallelujah Hallelujah Hallelujah",
+        "avg_logprob": -0.47734375
+      },
+      {
+        "id": 12,
+        "start": 382.705,
+        "end": 386.941,
+        "text": " Hallelujah.",
+        "avg_logprob": -0.8639322916666666
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "y8AWFf7EAc4",
+    "uploader": "Jeff Buckley Music",
+    "audio_file": "corpus/01_music_videos_audio/audio/y8AWFf7EAc4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 12601270,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.129069,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:58:57Z"
+  },
+  "status": "success",
+  "error": null
+}

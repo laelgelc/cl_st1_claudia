@@ -1,0 +1,91 @@
+{
+  "corpus_id": "Ssd3U_zicAI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Ssd3U_zicAI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Ssd3U_zicAI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Ssd3U_zicAI.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "As I walk through this wicked world Searching for light in the darkness of insanity I ask myself is all hope lost Is there only pain and hatred and misery And each time I feel like suicide There's one thing I wanna know What's so funny about this love and understanding? What's so funny about this love and understanding? Through troubled times My spirit gets so downhearted Sometimes So where I'd have gone And who I'd have trusted And where is the heart Sweet harmony, cause each time I feel it slip away Just makes me wanna cry What's so fun about peace, love and understanding? What's so fun about peace, love and understanding? Who I'd have trusted And where is the harmony Sweet harmony Cause each time I feel it slipping away It just makes me wanna cry And what's so funny about this love and understanding Oh, what's so funny Slur to understand",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 14.56,
+        "end": 40.548,
+        "text": " As I walk through this wicked world Searching for light in the darkness of insanity I ask myself is all hope lost Is there only pain and hatred and misery",
+        "avg_logprob": -0.10180663736537099
+      },
+      {
+        "id": 2,
+        "start": 42.387,
+        "end": 59.077,
+        "text": " And each time I feel like suicide There's one thing I wanna know What's so funny about this love and understanding? What's so funny about this love and understanding?",
+        "avg_logprob": -0.23191963604518345
+      },
+      {
+        "id": 3,
+        "start": 77.065,
+        "end": 98.176,
+        "text": " Through troubled times My spirit gets so downhearted Sometimes So where I'd have gone And who I'd have trusted And where is the heart",
+        "avg_logprob": -0.17689732196075575
+      },
+      {
+        "id": 4,
+        "start": 101.028,
+        "end": 120.012,
+        "text": " Sweet harmony, cause each time I feel it slip away Just makes me wanna cry What's so fun about peace, love and understanding? What's so fun about peace, love and understanding?",
+        "avg_logprob": -0.14693509462552193
+      },
+      {
+        "id": 5,
+        "start": 153.863,
+        "end": 179.48,
+        "text": " Who I'd have trusted And where is the harmony Sweet harmony Cause each time I feel it slipping away It just makes me wanna cry And what's so funny about this love and understanding Oh, what's so funny",
+        "avg_logprob": -0.29851018550784086
+      },
+      {
+        "id": 6,
+        "start": 186.787,
+        "end": 188.474,
+        "text": " Slur to understand",
+        "avg_logprob": -0.7875
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Ssd3U_zicAI",
+    "uploader": "Elvis Costello",
+    "audio_file": "corpus/01_music_videos_audio/audio/Ssd3U_zicAI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6729778,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 37.634965,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:58:23Z"
+  },
+  "status": "success",
+  "error": null
+}

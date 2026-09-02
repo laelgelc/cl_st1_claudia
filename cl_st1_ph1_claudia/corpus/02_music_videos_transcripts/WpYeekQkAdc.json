@@ -1,0 +1,91 @@
+{
+  "corpus_id": "WpYeekQkAdc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/WpYeekQkAdc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/WpYeekQkAdc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/WpYeekQkAdc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Now you gotta have love to set it straight Take control of your mind and meditate Let your soul gravitate to the love y'all, y'all People killin', people dyin' Children hurtin', you hear them cryin' Can you practice what you preach? And won't you turn the other cheek? Father, Father, Father Help us and some guidance from above These people got me, got me questionin' ones with ongoing suffering as the youth are young so ask yourself is the loving really gone so I could ask myself really what is going wrong in this world that we living in people keep on giving in making wrong decisions only visions of them dividends not respecting each other denying Father, father, father, come back As I'm getting older your people gets older Most of us only care about money making Selfishness got us following the wrong direction Wrong information always shown by the media Negative images is the main criteria Infecting the young minds faster than bacteria Kids wanna act like what they see in the cinema Whatever happened to the values of humanity Whatever happened to the fairness and equality Instead of spreading love we spreading animosity Lack of understanding leading us away from unity That's the reason why Sometimes I'm feeling under. That's the reason why sometimes I'm feeling down. It's no wonder why sometimes I'm feeling under. Gotta keep my faith alive until love is found. One word, one word We only got one word, one word That's all we got, one word, one word And something's wrong with it, something's wrong with it Something's wrong with the word, word, word, yeah We only got one word, one word That's all we got, one word, one word",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 54.082,
+        "end": 79.917,
+        "text": " Now you gotta have love to set it straight Take control of your mind and meditate Let your soul gravitate to the love y'all, y'all People killin', people dyin' Children hurtin', you hear them cryin' Can you practice what you preach? And won't you turn the other cheek? Father, Father, Father Help us and some guidance from above These people got me, got me questionin'",
+        "avg_logprob": -0.1921164815060117
+      },
+      {
+        "id": 2,
+        "start": 104.015,
+        "end": 119.084,
+        "text": " ones with ongoing suffering as the youth are young so ask yourself is the loving really gone so I could ask myself really what is going wrong in this world that we living in people keep on giving in making wrong decisions only visions of them dividends not respecting each other denying",
+        "avg_logprob": -0.14961673853532323
+      },
+      {
+        "id": 3,
+        "start": 143.688,
+        "end": 146.152,
+        "text": " Father, father, father, come back",
+        "avg_logprob": -0.5329861111111112
+      },
+      {
+        "id": 4,
+        "start": 165.507,
+        "end": 195.494,
+        "text": " As I'm getting older your people gets older Most of us only care about money making Selfishness got us following the wrong direction Wrong information always shown by the media Negative images is the main criteria Infecting the young minds faster than bacteria Kids wanna act like what they see in the cinema Whatever happened to the values of humanity Whatever happened to the fairness and equality Instead of spreading love we spreading animosity Lack of understanding leading us away from unity That's the reason why",
+        "avg_logprob": -0.08733552788433276
+      },
+      {
+        "id": 5,
+        "start": 195.494,
+        "end": 204.522,
+        "text": " Sometimes I'm feeling under. That's the reason why sometimes I'm feeling down. It's no wonder why sometimes I'm feeling under. Gotta keep my faith alive until love is found.",
+        "avg_logprob": -0.10787259844633248
+      },
+      {
+        "id": 6,
+        "start": 226.527,
+        "end": 244.938,
+        "text": " One word, one word We only got one word, one word That's all we got, one word, one word And something's wrong with it, something's wrong with it Something's wrong with the word, word, word, yeah We only got one word, one word That's all we got, one word, one word",
+        "avg_logprob": -0.16773896642467556
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "WpYeekQkAdc",
+    "uploader": "Black Eyed Peas",
+    "audio_file": "corpus/01_music_videos_audio/audio/WpYeekQkAdc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8018950,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.406514,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:06:48Z"
+  },
+  "status": "success",
+  "error": null
+}

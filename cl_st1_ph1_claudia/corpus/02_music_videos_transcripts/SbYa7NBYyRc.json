@@ -1,0 +1,84 @@
+{
+  "corpus_id": "SbYa7NBYyRc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/SbYa7NBYyRc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/SbYa7NBYyRc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/SbYa7NBYyRc.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "They don't even know And there's Mary on my right And Janie is the girl, well, that I'll be with tonight And when she asks me which one I love the best I tear over my shirt and I show her Rosie on my chest I'm the type of guy that likes to roam around. I'm never in one place. I roam from town to town. And when I find myself falling for some girl, I hop right into that car of mine. I drive I'm never in one place, I roam from town to town And when I find myself falling for some girl I hop right in that car of mine Drive around the world cause I'm a wanderer I'm a wanderer.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 9.363,
+        "end": 24.213,
+        "text": " They don't even know",
+        "avg_logprob": -0.5367838342984518
+      },
+      {
+        "id": 2,
+        "start": 35.502,
+        "end": 50.555,
+        "text": " And there's Mary on my right And Janie is the girl, well, that I'll be with tonight And when she asks me which one I love the best I tear over my shirt and I show her Rosie on my chest",
+        "avg_logprob": -0.1490192787444338
+      },
+      {
+        "id": 3,
+        "start": 68.037,
+        "end": 89.924,
+        "text": " I'm the type of guy that likes to roam around. I'm never in one place. I roam from town to town. And when I find myself falling for some girl, I hop right into that car of mine. I drive",
+        "avg_logprob": -0.21061198506504297
+      },
+      {
+        "id": 4,
+        "start": 127.96,
+        "end": 142.49,
+        "text": " I'm never in one place, I roam from town to town And when I find myself falling for some girl I hop right in that car of mine Drive around the world cause I'm a wanderer",
+        "avg_logprob": -0.09860899390243902
+      },
+      {
+        "id": 5,
+        "start": 157.053,
+        "end": 160.664,
+        "text": " I'm a wanderer.",
+        "avg_logprob": -0.3035714200564793
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "SbYa7NBYyRc",
+    "uploader": "Dion",
+    "audio_file": "corpus/01_music_videos_audio/audio/SbYa7NBYyRc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5238500,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.205607,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:59:18Z"
+  },
+  "status": "success",
+  "error": null
+}

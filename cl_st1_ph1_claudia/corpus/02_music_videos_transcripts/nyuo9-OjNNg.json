@@ -1,0 +1,84 @@
+{
+  "corpus_id": "nyuo9-OjNNg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nyuo9-OjNNg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/nyuo9-OjNNg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/nyuo9-OjNNg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I wanna be your vacuum cleaner Breathin' in your dust I wanna be your Ford Cartina I will never rust If you like your coffee hot Let me be your coffee pot You call the shots, babe I just wanna be your Writs I have held in my heart Are harder to hide than I thought Maybe I just wanna be yours I wanna be yours I wanna be yours Wanna be yours Wanna be yours Wanna be yours Let me be your lecce meter And I'll never run out Let me be the portable heater That y'all get cold without I wanna be your city lotion Hold your hair in deep devotion At least as deep as the Pacific Ocean I wanna be your Secrets I have held in my heart Are harder to hide than I thought Maybe I just wanna be yours I wanna be yours I wanna be yours Wanna be yours Wanna be yours Wanna be yours Wanna be your home",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 18.138,
+        "end": 45.121,
+        "text": " I wanna be your vacuum cleaner Breathin' in your dust I wanna be your Ford Cartina I will never rust If you like your coffee hot Let me be your coffee pot You call the shots, babe I just wanna be your",
+        "avg_logprob": -0.15134640767219218
+      },
+      {
+        "id": 2,
+        "start": 46.859,
+        "end": 72.83,
+        "text": " Writs I have held in my heart Are harder to hide than I thought Maybe I just wanna be yours I wanna be yours I wanna be yours Wanna be yours Wanna be yours Wanna be yours",
+        "avg_logprob": -0.10336538232289828
+      },
+      {
+        "id": 3,
+        "start": 74.922,
+        "end": 102.783,
+        "text": " Let me be your lecce meter And I'll never run out Let me be the portable heater That y'all get cold without I wanna be your city lotion Hold your hair in deep devotion At least as deep as the Pacific Ocean I wanna be your",
+        "avg_logprob": -0.14257812700592554
+      },
+      {
+        "id": 4,
+        "start": 103.154,
+        "end": 129.547,
+        "text": " Secrets I have held in my heart Are harder to hide than I thought Maybe I just wanna be yours I wanna be yours I wanna be yours Wanna be yours Wanna be yours Wanna be yours",
+        "avg_logprob": -0.06886017857453762
+      },
+      {
+        "id": 5,
+        "start": 132.027,
+        "end": 136.178,
+        "text": " Wanna be your home",
+        "avg_logprob": -0.434375
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "nyuo9-OjNNg",
+    "uploader": "Official Arctic Monkeys",
+    "audio_file": "corpus/01_music_videos_audio/audio/nyuo9-OjNNg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5886430,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:52:33Z"
+  },
+  "status": "success",
+  "error": null
+}

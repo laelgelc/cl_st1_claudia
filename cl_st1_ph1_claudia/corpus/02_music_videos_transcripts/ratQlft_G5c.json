@@ -1,0 +1,91 @@
+{
+  "corpus_id": "ratQlft_G5c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ratQlft_G5c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ratQlft_G5c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/ratQlft_G5c.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I'm really in the mood to sing. Unfortunately, my pipes are kind of going now. I'd stay here for another hour. They paved paradise, put up a parking lot With a pink hotel, a boutique and a swingin' hot spot Don't it always seem to go? You don't know what you've got till it's gone They paved paradise, put up a parking lot Now they took all the trees and put them in a tree museum. And they charged all the people a dollar and a half just to see them. I said, don't it always seem to go? You don't know what you've got till it's gone. They paved paradise, put up a parking lot. Hey, farmer, farmer, put away that DDT now. Give me spots on my apples, but leave me the birds and the bees. Don't it always seem to go? You don't know what you've got till it's gone. They paved paradise, put up a parking lot. Late last night, I heard that screen door slam. And a big yellow taxi come and took away my old man. Late last night, I heard that screen door slam. And a big yellow tractor come and took away my house It took away my land I said, don't it always seem to go You don't know what you've got till it's gone They paved paradise, put up a parking lot They paved paradise, put up a parking lot They paved paradise, put up a parking lot",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 14.138,
+        "end": 23.96,
+        "text": " I'm really in the mood to sing. Unfortunately, my pipes are kind of going now. I'd stay here for another hour.",
+        "avg_logprob": -0.06710379730377879
+      },
+      {
+        "id": 2,
+        "start": 57.49,
+        "end": 82.06,
+        "text": " They paved paradise, put up a parking lot With a pink hotel, a boutique and a swingin' hot spot Don't it always seem to go? You don't know what you've got till it's gone They paved paradise, put up a parking lot",
+        "avg_logprob": -0.10763888957875746
+      },
+      {
+        "id": 3,
+        "start": 87.258,
+        "end": 117.211,
+        "text": " Now they took all the trees and put them in a tree museum. And they charged all the people a dollar and a half just to see them. I said, don't it always seem to go? You don't know what you've got till it's gone. They paved paradise, put up a parking lot. Hey, farmer, farmer, put away that DDT now.",
+        "avg_logprob": -0.0943509640219884
+      },
+      {
+        "id": 4,
+        "start": 118.898,
+        "end": 148.396,
+        "text": " Give me spots on my apples, but leave me the birds and the bees. Don't it always seem to go? You don't know what you've got till it's gone. They paved paradise, put up a parking lot. Late last night, I heard that screen door slam. And a big yellow taxi come and took away my old man.",
+        "avg_logprob": -0.0873480886220932
+      },
+      {
+        "id": 5,
+        "start": 151.433,
+        "end": 168.713,
+        "text": " Late last night, I heard that screen door slam.",
+        "avg_logprob": -0.3450520957509677
+      },
+      {
+        "id": 6,
+        "start": 170.502,
+        "end": 197.114,
+        "text": " And a big yellow tractor come and took away my house It took away my land I said, don't it always seem to go You don't know what you've got till it's gone They paved paradise, put up a parking lot They paved paradise, put up a parking lot They paved paradise, put up a parking lot",
+        "avg_logprob": -0.06362452707958943
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "ratQlft_G5c",
+    "uploader": "FPED Nepal",
+    "audio_file": "corpus/01_music_videos_audio/audio/ratQlft_G5c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6506866,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.858038,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:16:12Z"
+  },
+  "status": "success",
+  "error": null
+}

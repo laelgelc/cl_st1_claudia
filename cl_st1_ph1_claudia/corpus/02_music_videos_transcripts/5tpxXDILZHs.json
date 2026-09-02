@@ -1,0 +1,84 @@
+{
+  "corpus_id": "5tpxXDILZHs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/5tpxXDILZHs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/5tpxXDILZHs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/5tpxXDILZHs.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Here's the monkey. I thought love was only true in fairy tales. And for someone else, but not for me. My love was out to get me. That's the way it seemed. Disappointment haunted all my dreams. Then I saw her face Now I'm a believer Now her trace of doubt in my mind I'm in love Now I'm a believer I couldn't leave her if I tried All you get is pain When I needed sunshine I got rain Then I saw her face Now I'm a believer Not a trace Of doubt in my mind I'm in love I'm a believer I couldn't leave her if I tried ¶¶ ¶¶ ¶¶ ¶¶ I'm a believer",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 2.461,
+        "end": 29.208,
+        "text": " Here's the monkey. I thought love was only true in fairy tales. And for someone else, but not for me. My love was out to get me. That's the way it seemed. Disappointment haunted all my dreams.",
+        "avg_logprob": -0.11515624985098839
+      },
+      {
+        "id": 2,
+        "start": 31.317,
+        "end": 51.702,
+        "text": " Then I saw her face Now I'm a believer Now her trace of doubt in my mind I'm in love Now I'm a believer I couldn't leave her if I tried",
+        "avg_logprob": -0.15266927373078135
+      },
+      {
+        "id": 3,
+        "start": 68.864,
+        "end": 95.712,
+        "text": " All you get is pain When I needed sunshine I got rain Then I saw her face Now I'm a believer Not a trace Of doubt in my mind I'm in love I'm a believer I couldn't leave her if I tried",
+        "avg_logprob": -0.08784906597847635
+      },
+      {
+        "id": 4,
+        "start": 119.388,
+        "end": 149.088,
+        "text": " ¶¶ ¶¶ ¶¶ ¶¶",
+        "avg_logprob": -0.3556985294117647
+      },
+      {
+        "id": 5,
+        "start": 161.474,
+        "end": 164.242,
+        "text": " I'm a believer",
+        "avg_logprob": -0.85078125
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "5tpxXDILZHs",
+    "uploader": "Classics in HD",
+    "audio_file": "corpus/01_music_videos_audio/audio/5tpxXDILZHs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5254846,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.438894,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:21:17Z"
+  },
+  "status": "success",
+  "error": null
+}

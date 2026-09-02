@@ -1,0 +1,105 @@
+{
+  "corpus_id": "6RUIeX6UCT8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/6RUIeX6UCT8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/6RUIeX6UCT8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/6RUIeX6UCT8.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Thank you. The summer's out of reach. Empty lake, empty streets. The sun goes down alone. I'm driving by your house, though I know you're not home. But I can see you. Your brown skin's shining in the sun. You got your hair combed out and your sunglasses on, baby. I can tell. Oh We'll forget those nights I wonder if it was a dream Remember how you made me crazy Remember how I made you scream I don't understand what happened to our love But babe, I'm gonna get you back I'm gonna show you what I'm made of I can see your brows getting shorter in the sun I see you walking real slow tonight My love, you will still be strong After the boys of summer are gone On the road today, I saw a dead head sticker on a Cadillac. A little voice inside my head said, don't look back, you can never look back. I thought I knew what love was, but did I know? I can tell you my love for you will still be strong. I can tell you my love for you will still be known After the boys of summer have gone",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 8,
+    "segments": [
+      {
+        "id": 1,
+        "start": 8.688,
+        "end": 12.232,
+        "text": " Thank you.",
+        "avg_logprob": -0.5122070163488388
+      },
+      {
+        "id": 2,
+        "start": 41.746,
+        "end": 66.822,
+        "text": " The summer's out of reach. Empty lake, empty streets. The sun goes down alone. I'm driving by your house, though I know you're not home. But I can see you. Your brown skin's shining in the sun. You got your hair combed out and your sunglasses on, baby. I can tell.",
+        "avg_logprob": -0.2441123240235923
+      },
+      {
+        "id": 3,
+        "start": 73.488,
+        "end": 75.496,
+        "text": " Oh",
+        "avg_logprob": -1.173828125
+      },
+      {
+        "id": 4,
+        "start": 98.851,
+        "end": 128.804,
+        "text": " We'll forget those nights I wonder if it was a dream Remember how you made me crazy Remember how I made you scream I don't understand what happened to our love But babe, I'm gonna get you back I'm gonna show you what I'm made of I can see your brows getting shorter in the sun I see you walking real slow tonight",
+        "avg_logprob": -0.13761161289044788
+      },
+      {
+        "id": 5,
+        "start": 132.348,
+        "end": 149.763,
+        "text": " My love, you will still be strong After the boys of summer are gone",
+        "avg_logprob": -0.41748046875
+      },
+      {
+        "id": 6,
+        "start": 185.825,
+        "end": 200.337,
+        "text": " On the road today, I saw a dead head sticker on a Cadillac. A little voice inside my head said, don't look back, you can never look back. I thought I knew what love was, but did I know?",
+        "avg_logprob": -0.08531250312924385
+      },
+      {
+        "id": 7,
+        "start": 202.531,
+        "end": 224.097,
+        "text": " I can tell you my love for you will still be strong.",
+        "avg_logprob": -0.4776785671710968
+      },
+      {
+        "id": 8,
+        "start": 233.429,
+        "end": 249.697,
+        "text": " I can tell you my love for you will still be known After the boys of summer have gone",
+        "avg_logprob": -0.3767578050494194
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "6RUIeX6UCT8",
+    "uploader": "Don Henley",
+    "audio_file": "corpus/01_music_videos_audio/audio/6RUIeX6UCT8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9143168,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 11.54639,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:17:46Z"
+  },
+  "status": "success",
+  "error": null
+}

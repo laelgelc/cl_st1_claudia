@@ -1,0 +1,98 @@
+{
+  "corpus_id": "3JWTaaS7LdU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/3JWTaaS7LdU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/3JWTaaS7LdU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/3JWTaaS7LdU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "If I should stay I would only be in your way So I'll go, but I know I'll think of you every step of the way And I will always love you We'll always love you You, my darling, you Bittersweet memories that is all i'm taking with me so goodbye please don't cry we both know i'm not what you Life treats you kind And I hope you have all you dreamed of And I wish you joy and happiness But above all this I wish you love I will always love you I, I will always love you Always, always.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 2.191,
+        "end": 27.672,
+        "text": " If I should stay I would only be in your way So I'll go, but I know",
+        "avg_logprob": -0.10292968414723873
+      },
+      {
+        "id": 2,
+        "start": 29.596,
+        "end": 55.752,
+        "text": " I'll think of you every step of the way And I will always love you",
+        "avg_logprob": -0.06904871323529412
+      },
+      {
+        "id": 3,
+        "start": 58.435,
+        "end": 84.288,
+        "text": " We'll always love you You, my darling, you Bittersweet memories",
+        "avg_logprob": -0.1849365234375
+      },
+      {
+        "id": 4,
+        "start": 85.739,
+        "end": 103.424,
+        "text": " that is all i'm taking with me so goodbye please don't cry we both know i'm not what you",
+        "avg_logprob": -0.08772078545197197
+      },
+      {
+        "id": 5,
+        "start": 160.158,
+        "end": 185.707,
+        "text": " Life treats you kind And I hope you have all you dreamed of And I wish you joy and happiness But above all this I wish you love",
+        "avg_logprob": -0.08499461515196438
+      },
+      {
+        "id": 6,
+        "start": 223.861,
+        "end": 235.69,
+        "text": " I will always love you I, I will always love you",
+        "avg_logprob": -0.23737981686225304
+      },
+      {
+        "id": 7,
+        "start": 251.553,
+        "end": 255.232,
+        "text": " Always, always.",
+        "avg_logprob": -0.409765625
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "3JWTaaS7LdU",
+    "uploader": "Whitney Houston",
+    "audio_file": "corpus/01_music_videos_audio/audio/3JWTaaS7LdU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8769420,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.854195,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:21:23Z"
+  },
+  "status": "success",
+  "error": null
+}

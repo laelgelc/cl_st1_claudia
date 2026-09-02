@@ -1,0 +1,84 @@
+{
+  "corpus_id": "RbmS3tQJ7Os",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/RbmS3tQJ7Os.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/RbmS3tQJ7Os.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/RbmS3tQJ7Os.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Thank you. One, two, it's time to shine away. It's time to shine away. One, two, it's time to shine away. Ooh, still fire is sweeping down the street today Burns like a flame, oh God, they'll never be lost away One, two, it's just a shot away, it's just a shot away One, two, it's just a shot away Bye. Bye. Bye. Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 4.013,
+        "end": 4.891,
+        "text": " Thank you.",
+        "avg_logprob": -0.72802734375
+      },
+      {
+        "id": 2,
+        "start": 65.303,
+        "end": 79.58,
+        "text": " One, two, it's time to shine away. It's time to shine away. One, two, it's time to shine away.",
+        "avg_logprob": -0.14869791766007742
+      },
+      {
+        "id": 3,
+        "start": 90.532,
+        "end": 120.046,
+        "text": " Ooh, still fire is sweeping down the street today Burns like a flame, oh God, they'll never be lost away One, two, it's just a shot away, it's just a shot away One, two, it's just a shot away",
+        "avg_logprob": -0.4344951974657866
+      },
+      {
+        "id": 4,
+        "start": 212.656,
+        "end": 223.979,
+        "text": " Bye. Bye. Bye.",
+        "avg_logprob": -0.6969866241727557
+      },
+      {
+        "id": 5,
+        "start": 262.15,
+        "end": 267.483,
+        "text": " Thank you.",
+        "avg_logprob": -0.52880859375
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "RbmS3tQJ7Os",
+    "uploader": "ABKCOVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/RbmS3tQJ7Os.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8660936,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.595305,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:02:20Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,77 @@
+{
+  "corpus_id": "7Xue-dOOLiY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/7Xue-dOOLiY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/7Xue-dOOLiY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/7Xue-dOOLiY.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I'll give you the mustache. I ain't a player, I just crush a lot. I'm not a player, I just crush a lot. I ain't a player, I just crush a lot. I'm not a player, I just crush a lot. Don't wanna be I don't discriminate. Unless it's pond and a taro spot.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 2.326,
+        "end": 25.968,
+        "text": " I'll give you the mustache. I ain't a player, I just crush a lot. I'm not a player, I just crush a lot. I ain't a player, I just crush a lot. I'm not a player, I just crush a lot.",
+        "avg_logprob": -0.16294643415936402
+      },
+      {
+        "id": 2,
+        "start": 44.058,
+        "end": 47.568,
+        "text": " Don't wanna be",
+        "avg_logprob": -0.40546875
+      },
+      {
+        "id": 3,
+        "start": 130.947,
+        "end": 133.242,
+        "text": " I don't discriminate.",
+        "avg_logprob": -0.509765644868215
+      },
+      {
+        "id": 4,
+        "start": 229.666,
+        "end": 232.923,
+        "text": " Unless it's pond and a taro spot.",
+        "avg_logprob": -0.6260653517462991
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "7Xue-dOOLiY",
+    "uploader": "Big Pun",
+    "audio_file": "corpus/01_music_videos_audio/audio/7Xue-dOOLiY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8874930,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.78086,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:10:53Z"
+  },
+  "status": "success",
+  "error": null
+}

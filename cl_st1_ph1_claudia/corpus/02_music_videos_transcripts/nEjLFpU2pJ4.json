@@ -1,0 +1,119 @@
+{
+  "corpus_id": "nEjLFpU2pJ4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nEjLFpU2pJ4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/nEjLFpU2pJ4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/nEjLFpU2pJ4.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You know you make me wanna kick my heels up and throw my hands up and throw my head back and so come on now don't forget to say you will don't forget to say yeah yeah yeah yeah yeah say you will say it right now baby say you will come on Say that you need me Say that you want me Say you wanna please me Say come on now I still remember when you used to be nine years old I was a fool for you from the bottom of my soul Now that you've grown up, grown enough to know You wanna leave, you wanna let me go I want you to know. I said I want you to know right now. Yeah, you've been good to me, baby. Hey, and if you ever leave me, I don't want nobody else. Hey, hey, I said I want you to know. Hey, I said I want you to know right now. Hey, hey, you know you make me want to shout. Hey, yeah, shout. Hey, yeah. Now wait a minute I feel all right Now that I got my woman I feel all right Every time I think about you You've been so good to me. You know you make me want to shout. Take it easy Take it easy Take it easy A little bit softer now A little bit softer now Hey, hey. Jump up and shout now, jump up and shout now Everybody shout now, everybody shout now",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 10,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.031,
+        "end": 25.765,
+        "text": " You know you make me wanna kick my heels up and throw my hands up and throw my head back and so come on now don't forget to say you will don't forget to say yeah yeah yeah yeah yeah say you will say it right now baby say you will come on",
+        "avg_logprob": -0.12520926472331798
+      },
+      {
+        "id": 2,
+        "start": 35.738,
+        "end": 42.353,
+        "text": " Say that you need me Say that you want me Say you wanna please me Say come on now",
+        "avg_logprob": -0.18955078721046448
+      },
+      {
+        "id": 3,
+        "start": 45.762,
+        "end": 74.517,
+        "text": " I still remember when you used to be nine years old I was a fool for you from the bottom of my soul Now that you've grown up, grown enough to know You wanna leave, you wanna let me go",
+        "avg_logprob": -0.11257102543657477
+      },
+      {
+        "id": 4,
+        "start": 74.517,
+        "end": 84.052,
+        "text": " I want you to know. I said I want you to know right now. Yeah, you've been good to me, baby.",
+        "avg_logprob": -0.17103794057454383
+      },
+      {
+        "id": 5,
+        "start": 88.777,
+        "end": 108.368,
+        "text": " Hey, and if you ever leave me, I don't want nobody else. Hey, hey, I said I want you to know. Hey, I said I want you to know right now. Hey, hey, you know you make me want to shout. Hey, yeah, shout. Hey, yeah.",
+        "avg_logprob": -0.12023926118854433
+      },
+      {
+        "id": 6,
+        "start": 129.665,
+        "end": 157.677,
+        "text": " Now wait a minute I feel all right Now that I got my woman I feel all right Every time I think about you",
+        "avg_logprob": -0.19718749523162843
+      },
+      {
+        "id": 7,
+        "start": 158.96,
+        "end": 166.182,
+        "text": " You've been so good to me. You know you make me want to shout.",
+        "avg_logprob": -0.3276909821563297
+      },
+      {
+        "id": 8,
+        "start": 170.097,
+        "end": 199.375,
+        "text": " Take it easy Take it easy Take it easy A little bit softer now A little bit softer now",
+        "avg_logprob": -0.25117187947034836
+      },
+      {
+        "id": 9,
+        "start": 199.375,
+        "end": 227.675,
+        "text": " Hey, hey.",
+        "avg_logprob": -0.545703125
+      },
+      {
+        "id": 10,
+        "start": 240.803,
+        "end": 258.067,
+        "text": " Jump up and shout now, jump up and shout now Everybody shout now, everybody shout now",
+        "avg_logprob": -0.318667775706241
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "nEjLFpU2pJ4",
+    "uploader": "GreatOldiesDJ",
+    "audio_file": "corpus/01_music_videos_audio/audio/nEjLFpU2pJ4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8257466,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.481322,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:22:29Z"
+  },
+  "status": "success",
+  "error": null
+}

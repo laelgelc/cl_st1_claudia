@@ -1,0 +1,77 @@
+{
+  "corpus_id": "O4irXQhgMqg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/O4irXQhgMqg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/O4irXQhgMqg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/O4irXQhgMqg.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I see a red door and I want it painted black No colors anymore, I want them to turn black darkness goes I see a line of cars and they're all painted black With flowers and my love hope never to come back I look inside myself and see my heart is black I see my red door, I must have it painted black Maybe then I'll fade away as I have to face the facts It's not easy facing up when your whole world is black No more will my green seagull turn a deeper blue I could not foresee this thing happening to you If I look hard enough into the setting sun My love will laugh with me before the morning comes I see a red door and I want it painted black No colors anymore, I want them to turn black",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 5.212,
+        "end": 25.58,
+        "text": " I see a red door and I want it painted black No colors anymore, I want them to turn black",
+        "avg_logprob": -0.16255326569080353
+      },
+      {
+        "id": 2,
+        "start": 36.228,
+        "end": 49.745,
+        "text": " darkness goes I see a line of cars and they're all painted black With flowers and my love hope never to come back",
+        "avg_logprob": -0.20593750476837158
+      },
+      {
+        "id": 3,
+        "start": 63.143,
+        "end": 91.932,
+        "text": " I look inside myself and see my heart is black I see my red door, I must have it painted black Maybe then I'll fade away as I have to face the facts It's not easy facing up when your whole world is black No more will my green seagull turn a deeper blue",
+        "avg_logprob": -0.09238281461099783
+      },
+      {
+        "id": 4,
+        "start": 93.333,
+        "end": 122.695,
+        "text": " I could not foresee this thing happening to you If I look hard enough into the setting sun My love will laugh with me before the morning comes I see a red door and I want it painted black No colors anymore, I want them to turn black",
+        "avg_logprob": -0.04062499888241291
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "O4irXQhgMqg",
+    "uploader": "ABKCOVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/O4irXQhgMqg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7241732,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.999201,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:00:32Z"
+  },
+  "status": "success",
+  "error": null
+}

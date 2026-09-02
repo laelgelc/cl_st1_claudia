@@ -1,0 +1,84 @@
+{
+  "corpus_id": "6dYWe1c3OyU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/6dYWe1c3OyU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/6dYWe1c3OyU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/6dYWe1c3OyU.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I was petrified Kept thinking I could never live Without you by my side But then I spent so many nights Thinking how you did me wrong And I grew strong And I learned how to get along And saw your back From outer space I just walked in to find you here With that sad look upon your face I should have changed that stupid lock I should have made you leave your key If I'd have known for just one second Cause you're not welcome anymore Weren't you the one who tried to hurt me with goodbye You think I'd crumble You think I'd lay down and die Oh no not I I will survive Oh as long as I know how to love I know I'll stay alive I've got all my life to live I've got all my love to give I'll survive I will survive Hey pieces of my broken heart and i've been oh so many nights just feeling sorry for myself i used to cry but now i hold my head up high and you see me somebody new i'm not that chained up little person still in love with you and so you felt like dropping in and just expect me to be free now i'm saving all my loving Walk out the door. Just turn around now. You're not welcome anymore. Weren't you the one who tried to break me with your fire? You think I should rumble? Bye. Bye. Bye.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 8.553,
+        "end": 37.713,
+        "text": " I was petrified Kept thinking I could never live Without you by my side But then I spent so many nights Thinking how you did me wrong And I grew strong And I learned how to get along And saw your back From outer space I just walked in to find you here With that sad look upon your face I should have changed that stupid lock I should have made you leave your key If I'd have known for just one second",
+        "avg_logprob": -0.07990056868981231
+      },
+      {
+        "id": 2,
+        "start": 45.644,
+        "end": 72.796,
+        "text": " Cause you're not welcome anymore Weren't you the one who tried to hurt me with goodbye You think I'd crumble You think I'd lay down and die Oh no not I I will survive Oh as long as I know how to love I know I'll stay alive I've got all my life to live I've got all my love to give I'll survive I will survive Hey",
+        "avg_logprob": -0.10556890939672788
+      },
+      {
+        "id": 3,
+        "start": 94.868,
+        "end": 120.35,
+        "text": " pieces of my broken heart and i've been oh so many nights just feeling sorry for myself i used to cry but now i hold my head up high and you see me somebody new i'm not that chained up little person still in love with you and so you felt like dropping in and just expect me to be free now i'm saving all my loving",
+        "avg_logprob": -0.06190321408212185
+      },
+      {
+        "id": 4,
+        "start": 123.978,
+        "end": 136.178,
+        "text": " Walk out the door. Just turn around now. You're not welcome anymore. Weren't you the one who tried to break me with your fire? You think I should rumble?",
+        "avg_logprob": -0.15905449023613563
+      },
+      {
+        "id": 5,
+        "start": 167.431,
+        "end": 190.567,
+        "text": " Bye. Bye. Bye.",
+        "avg_logprob": -0.6863839285714286
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "6dYWe1c3OyU",
+    "uploader": "Gloria Gaynor",
+    "audio_file": "corpus/01_music_videos_audio/audio/6dYWe1c3OyU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6221540,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.102315,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:22:12Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,91 @@
+{
+  "corpus_id": "mRD0-GxqHVo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/mRD0-GxqHVo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/mRD0-GxqHVo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/mRD0-GxqHVo.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "don't stop baby you can walk too don't want me to think about Sometimes all I think about is you Late nights in the middle of June E-waves been faking me out Can't make you happier now Sometimes all I think about is you Late nights in the middle of June E-waves been faking me out And then I say goodbye Sometimes all I think about is you Late nights in the middle of June E-waves been freaking me out Can't make you happier now Sometimes all I think about is you Late nights in the middle of June I just wonder what you're dreaming of When you sleep and smile so comfortable I just wish that I could give you that That look that's perfectly unsaid Sometimes all I think about is you Late nights in the middle of June He always been faking me out He always been I feel now Sometimes all I think about is who Late nights in the middle of June E-waves been faking me out Thank you.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.638,
+        "end": 11.675,
+        "text": " don't stop baby you can walk too don't want me to think about",
+        "avg_logprob": -0.41845704428851604
+      },
+      {
+        "id": 2,
+        "start": 30.524,
+        "end": 50.47,
+        "text": " Sometimes all I think about is you Late nights in the middle of June E-waves been faking me out Can't make you happier now Sometimes all I think about is you Late nights in the middle of June E-waves been faking me out",
+        "avg_logprob": -0.048127948956669504
+      },
+      {
+        "id": 3,
+        "start": 111.912,
+        "end": 131.723,
+        "text": " And then I say goodbye Sometimes all I think about is you Late nights in the middle of June E-waves been freaking me out Can't make you happier now Sometimes all I think about is you Late nights in the middle of June",
+        "avg_logprob": -0.11499023297801614
+      },
+      {
+        "id": 4,
+        "start": 137.242,
+        "end": 159.213,
+        "text": " I just wonder what you're dreaming of When you sleep and smile so comfortable I just wish that I could give you that That look that's perfectly unsaid Sometimes all I think about is you Late nights in the middle of June He always been faking me out He always been",
+        "avg_logprob": -0.12416294509811061
+      },
+      {
+        "id": 5,
+        "start": 174.164,
+        "end": 184.627,
+        "text": " I feel now Sometimes all I think about is who Late nights in the middle of June E-waves been faking me out",
+        "avg_logprob": -0.16681134038501316
+      },
+      {
+        "id": 6,
+        "start": 222.663,
+        "end": 223.321,
+        "text": " Thank you.",
+        "avg_logprob": -0.7656250298023224
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "mRD0-GxqHVo",
+    "uploader": "Glass Animals",
+    "audio_file": "corpus/01_music_videos_audio/audio/mRD0-GxqHVo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7523344,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T20:52:35Z"
+  },
+  "status": "success",
+  "error": null
+}

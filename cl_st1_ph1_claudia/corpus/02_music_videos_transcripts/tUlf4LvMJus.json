@@ -1,0 +1,112 @@
+{
+  "corpus_id": "tUlf4LvMJus",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/tUlf4LvMJus.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/tUlf4LvMJus.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/tUlf4LvMJus.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "We're gonna bring another passenger on board the boat here to Margaritaville right now. The multi-talented, Mr. JJ Watt on Congress right here. He's not in training camp yet. Let's get to Margaritaville, JJ! Nibbling on sponge cake Watching the sun set I'll let you text in pants covered with iron. Scrubbing my six string. Clam up a pork swing. Smell those shrimp, hey, they're beginning to boil. Rub-a-rub-a-rub-a-rub-a. Wasting away and giving margarita pills. searching for my lost shaker of salt. Some, some, some. Some people claim that there's a warm house to blame. But I know this could be my fault. I don't know the reason. Stay here, I'll see some. with nothing to show but a brand new tattoo. But it's a real beauty. I've known a few Houston cuties. And there's this one from Huntsville. I hadn't got her clothes. She was in prison. Well, they sent her away again in margaritas. Searching for my lost shaker of salt. Salt, salt, salt. Some people claim that there's a woman of light. And I know it's all you women's fault. Come on, carry on up, girls. Let's go. Blew out my flip-flop. Stepped on a pop-top. I broke my leg twice. I had a limp on back home. Ow! Ow! Well, there's booze in the blender. Soon it will render. That frozen concoction, it helps me hang on, hang on, hang on. any margarita deal. Searching for my love shaker sock. Some people claim that there's a woman to blame. But I know it's not all that far. Yeah. And there's a woman who always is what I know. It's my own damn fault. JJ White off Congress. We got it, baby. We'll be right back.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 9,
+    "segments": [
+      {
+        "id": 1,
+        "start": 1.297,
+        "end": 29.107,
+        "text": " We're gonna bring another passenger on board the boat here to Margaritaville right now. The multi-talented, Mr. JJ Watt on Congress right here. He's not in training camp yet.",
+        "avg_logprob": -0.0977430588669247
+      },
+      {
+        "id": 2,
+        "start": 34.608,
+        "end": 59.093,
+        "text": " Let's get to Margaritaville, JJ! Nibbling on sponge cake Watching the sun set",
+        "avg_logprob": -0.3367866718250772
+      },
+      {
+        "id": 3,
+        "start": 61.152,
+        "end": 87.798,
+        "text": " I'll let you text in pants covered with iron. Scrubbing my six string. Clam up a pork swing. Smell those shrimp, hey, they're beginning to boil. Rub-a-rub-a-rub-a-rub-a. Wasting away and giving margarita pills.",
+        "avg_logprob": -0.40670954611371546
+      },
+      {
+        "id": 4,
+        "start": 90.852,
+        "end": 119.624,
+        "text": " searching for my lost shaker of salt. Some, some, some. Some people claim that there's a warm house to blame. But I know this could be my fault. I don't know the reason. Stay here, I'll see some.",
+        "avg_logprob": -0.24819712799329025
+      },
+      {
+        "id": 5,
+        "start": 121.48,
+        "end": 147.653,
+        "text": " with nothing to show but a brand new tattoo. But it's a real beauty. I've known a few Houston cuties. And there's this one from Huntsville. I hadn't got her clothes. She was in prison. Well, they sent her away again in margaritas.",
+        "avg_logprob": -0.20043545570529875
+      },
+      {
+        "id": 6,
+        "start": 151.349,
+        "end": 173.253,
+        "text": " Searching for my lost shaker of salt. Salt, salt, salt. Some people claim that there's a woman of light. And I know it's all you women's fault. Come on, carry on up, girls. Let's go.",
+        "avg_logprob": -0.17503005180221337
+      },
+      {
+        "id": 7,
+        "start": 204.826,
+        "end": 232.687,
+        "text": " Blew out my flip-flop. Stepped on a pop-top. I broke my leg twice. I had a limp on back home. Ow! Ow! Well, there's booze in the blender. Soon it will render. That frozen concoction, it helps me hang on, hang on, hang on.",
+        "avg_logprob": -0.17402627070744833
+      },
+      {
+        "id": 8,
+        "start": 236.804,
+        "end": 262.825,
+        "text": " any margarita deal. Searching for my love shaker sock. Some people claim that there's a woman to blame. But I know it's not all that far. Yeah.",
+        "avg_logprob": -0.3605769123786535
+      },
+      {
+        "id": 9,
+        "start": 267.078,
+        "end": 294.432,
+        "text": " And there's a woman who always is what I know. It's my own damn fault. JJ White off Congress. We got it, baby. We'll be right back.",
+        "avg_logprob": -0.27343749355625463
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "tUlf4LvMJus",
+    "uploader": "Margaritaville",
+    "audio_file": "corpus/01_music_videos_audio/audio/tUlf4LvMJus.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9889922,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 69.678992,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:19:45Z"
+  },
+  "status": "success",
+  "error": null
+}

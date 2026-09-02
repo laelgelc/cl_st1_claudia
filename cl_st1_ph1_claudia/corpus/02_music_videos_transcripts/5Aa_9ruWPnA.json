@@ -1,0 +1,84 @@
+{
+  "corpus_id": "5Aa_9ruWPnA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/5Aa_9ruWPnA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/5Aa_9ruWPnA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/5Aa_9ruWPnA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You know, it's a tradition around here at The Late Show to have our next guest bring in the holidays, and joining her tonight are the United States Air Force Singing Sergeants, ladies and gentlemen, Darlene Love. Thank you. The snow's coming down. I'm watching it fall. Lots of people around. Baby, please come home. The church bells are tolling. I'm ringing a song. Will I have peace now? Baby, please come home. Christmas! Christmas! Christmas! But when you were here And all the fun we had last year Christmas Is there a way Merry Christmas I'll call back this year Christmas Merry Christmas Thank you very much. Thank you, folks. Hi, Darlene. How are you? Beautiful as always. Thank you. Merry Christmas. Darlene Love, ladies and gentlemen, and the singing sergeants from your United States Air Force. We'll be right back. Happy holidays. Happy holidays.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 0.065,
+        "end": 27.065,
+        "text": " You know, it's a tradition around here at The Late Show to have our next guest bring in the holidays, and joining her tonight are the United States Air Force Singing Sergeants, ladies and gentlemen, Darlene Love. Thank you.",
+        "avg_logprob": -0.10046874955296517
+      },
+      {
+        "id": 2,
+        "start": 31.688,
+        "end": 59.279,
+        "text": " The snow's coming down. I'm watching it fall. Lots of people around. Baby, please come home. The church bells are tolling. I'm ringing a song. Will I have peace now? Baby, please come home.",
+        "avg_logprob": -0.2927295918367347
+      },
+      {
+        "id": 3,
+        "start": 62.536,
+        "end": 82.972,
+        "text": " Christmas! Christmas! Christmas!",
+        "avg_logprob": -0.9330356802259173
+      },
+      {
+        "id": 4,
+        "start": 115.186,
+        "end": 131.42,
+        "text": " But when you were here And all the fun we had last year Christmas Is there a way Merry Christmas I'll call back this year Christmas Merry Christmas",
+        "avg_logprob": -0.26901041467984516
+      },
+      {
+        "id": 5,
+        "start": 190.263,
+        "end": 206.682,
+        "text": " Thank you very much. Thank you, folks. Hi, Darlene. How are you? Beautiful as always. Thank you. Merry Christmas. Darlene Love, ladies and gentlemen, and the singing sergeants from your United States Air Force. We'll be right back. Happy holidays. Happy holidays.",
+        "avg_logprob": -0.05526733217993751
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "5Aa_9ruWPnA",
+    "uploader": "Letterman",
+    "audio_file": "corpus/01_music_videos_audio/audio/5Aa_9ruWPnA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6819686,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 35.917165,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:08:08Z"
+  },
+  "status": "success",
+  "error": null
+}

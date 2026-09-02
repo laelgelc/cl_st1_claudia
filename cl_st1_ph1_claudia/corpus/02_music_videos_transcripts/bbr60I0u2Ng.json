@@ -1,0 +1,84 @@
+{
+  "corpus_id": "bbr60I0u2Ng",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/bbr60I0u2Ng.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/bbr60I0u2Ng.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/bbr60I0u2Ng.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Give it up. Such a dirty mind. I always get it up. Hold the touch of the unkind mind. Be a hump close enough to look in my eye Sharona Keepin' it a mystery Kissin' me, runnin' down the length of my thigh Sharona Don't stop, give it up Such a dirty mind, I always get it up For the touch of the undekind My, my, my, my, yeah Woo! My, my, my, my Sharona My, my, my, my Sharona Yeah! Is it just a matter of time, Sharona? Is it just a destiny, destiny? Or is it just a game in my mind, Sharona? Never gonna stop, give it up Such a dirty mind, I'm whisking it up For the touch of the other kind, my, my, my My, my, my, my Isherona My, my, my, my Isherona Ooh.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 5,
+    "segments": [
+      {
+        "id": 1,
+        "start": 22.795,
+        "end": 38.59,
+        "text": " Give it up. Such a dirty mind. I always get it up. Hold the touch of the unkind mind.",
+        "avg_logprob": -0.38218749046325684
+      },
+      {
+        "id": 2,
+        "start": 49.711,
+        "end": 77.403,
+        "text": " Be a hump close enough to look in my eye Sharona Keepin' it a mystery Kissin' me, runnin' down the length of my thigh Sharona Don't stop, give it up Such a dirty mind, I always get it up For the touch of the undekind My, my, my, my, yeah Woo! My, my, my, my Sharona My, my, my, my Sharona Yeah!",
+        "avg_logprob": -0.2639079683429592
+      },
+      {
+        "id": 3,
+        "start": 118.426,
+        "end": 136.583,
+        "text": " Is it just a matter of time, Sharona? Is it just a destiny, destiny? Or is it just a game in my mind, Sharona? Never gonna stop, give it up Such a dirty mind, I'm whisking it up For the touch of the other kind, my, my, my",
+        "avg_logprob": -0.13024902530014515
+      },
+      {
+        "id": 4,
+        "start": 150.083,
+        "end": 158.048,
+        "text": " My, my, my, my Isherona My, my, my, my Isherona",
+        "avg_logprob": -0.29520088718051
+      },
+      {
+        "id": 5,
+        "start": 231.758,
+        "end": 232.822,
+        "text": " Ooh.",
+        "avg_logprob": -1.3580729166666667
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "bbr60I0u2Ng",
+    "uploader": "TheKnackVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/bbr60I0u2Ng.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7761116,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.06893,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:16:41Z"
+  },
+  "status": "success",
+  "error": null
+}

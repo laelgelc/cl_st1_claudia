@@ -1,0 +1,98 @@
+{
+  "corpus_id": "Y3ywicffOj4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Y3ywicffOj4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Y3ywicffOj4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/Y3ywicffOj4.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "You want your freedom Well, who am I to keep you down? Wish you only right That you should play the way you play to the sound of your loneliness like a heartbeat drives a man in the stillness of remembering what you had and what you lost. When it's raining They only love you When they're playing Said women They will come And they will go When the rain washes You clean your nose And I see a crystal vision I keep my visions to myself Wish only me Who wants to wrap around your dreams And have you in dreams you'd like to sell self. They love you when they're playing Said when the day will come and they will go When the rain washes you clean you'll know Thunder only happens when it rains I share the grief",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 22.137,
+        "end": 39.873,
+        "text": " You want your freedom Well, who am I to keep you down? Wish you only right That you should play the way you play",
+        "avg_logprob": -0.24811921958570127
+      },
+      {
+        "id": 2,
+        "start": 45.458,
+        "end": 62.587,
+        "text": " to the sound of your loneliness like a heartbeat drives a man in the stillness of remembering what you had and what you lost.",
+        "avg_logprob": -0.26302084657881
+      },
+      {
+        "id": 3,
+        "start": 76.93,
+        "end": 102.749,
+        "text": " When it's raining They only love you When they're playing Said women They will come And they will go When the rain washes You clean your nose",
+        "avg_logprob": -0.2007812465230624
+      },
+      {
+        "id": 4,
+        "start": 125.733,
+        "end": 151.957,
+        "text": " And I see a crystal vision I keep my visions to myself Wish only me Who wants to wrap around your dreams And have you in dreams you'd like to sell",
+        "avg_logprob": -0.15352746212121213
+      },
+      {
+        "id": 5,
+        "start": 160.478,
+        "end": 161.137,
+        "text": " self.",
+        "avg_logprob": -1.27734375
+      },
+      {
+        "id": 6,
+        "start": 189.487,
+        "end": 216.115,
+        "text": " They love you when they're playing Said when the day will come and they will go When the rain washes you clean you'll know Thunder only happens when it rains",
+        "avg_logprob": -0.2040719696969697
+      },
+      {
+        "id": 7,
+        "start": 237.867,
+        "end": 239.622,
+        "text": " I share the grief",
+        "avg_logprob": -1.10546875
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "Y3ywicffOj4",
+    "uploader": "Fleetwood Mac",
+    "audio_file": "corpus/01_music_videos_audio/audio/Y3ywicffOj4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8417962,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.198792,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:22:45Z"
+  },
+  "status": "success",
+  "error": null
+}

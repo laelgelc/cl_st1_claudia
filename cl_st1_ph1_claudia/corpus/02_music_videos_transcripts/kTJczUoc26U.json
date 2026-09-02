@@ -1,0 +1,77 @@
+{
+  "corpus_id": "kTJczUoc26U",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/kTJczUoc26U.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/kTJczUoc26U.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/kTJczUoc26U.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "I do the same thing I told you that I never would I told you I'd change, even when I knew I never could Know that I can't find nobody else as good as you I need you to stay, need you to stay I'll be fucked up if you can't be right I'd be fucked up if you can't be right here I'd do the same thing I told you that I never would I told you I'd change, even when I knew I never could Know that I can't find nobody else as good as you I need you to stay, need you to stay",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 4,
+    "segments": [
+      {
+        "id": 1,
+        "start": 19.842,
+        "end": 40.987,
+        "text": " I do the same thing I told you that I never would I told you I'd change, even when I knew I never could Know that I can't find nobody else as good as you I need you to stay, need you to stay",
+        "avg_logprob": -0.08346619897959184
+      },
+      {
+        "id": 2,
+        "start": 62.097,
+        "end": 64.443,
+        "text": " I'll be fucked up if you can't be right",
+        "avg_logprob": -0.13110351438323656
+      },
+      {
+        "id": 3,
+        "start": 118.409,
+        "end": 129.597,
+        "text": " I'd be fucked up if you can't be right here I'd do the same thing I told you that I never would I told you I'd change, even when I knew I never could Know that I can't find nobody else as good as you",
+        "avg_logprob": -0.07850060153466004
+      },
+      {
+        "id": 4,
+        "start": 152.041,
+        "end": 157.728,
+        "text": " I need you to stay, need you to stay",
+        "avg_logprob": -0.17223011363636365
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "kTJczUoc26U",
+    "uploader": "The Kid LAROI.",
+    "audio_file": "corpus/01_music_videos_audio/audio/kTJczUoc26U.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5046796,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.233613,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:08:46Z"
+  },
+  "status": "success",
+  "error": null
+}

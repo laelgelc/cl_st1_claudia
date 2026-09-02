@@ -1,0 +1,98 @@
+{
+  "corpus_id": "wsdy_rct6uo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wsdy_rct6uo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/wsdy_rct6uo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/wsdy_rct6uo.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Before you, that's what I said now Princess, princess who adore you Just go ahead now One last diamond in his pocket And that's a threat now This one said he wants to buy you rockets Ain't an answer now That's what I said now Got some big seal up on his jacket Pain in his head now You marry him, your father will condone you How about that now? You marry me, your father will disown you I'm the one that left the bed back, can't you see? I ain't got no future over the tree But I know what a prince and lover ought to be I know what a prince and lover ought to be Said, if you want to call me baby Just go ahead now And if you like to tell me maybe Just go ahead now And if you wanna buy me flowers Just go ahead now And if you like to talk for hours Just go ahead now Princess kneel before you, that's what I said now Princess, princess who adore you, just go ahead now One has diamonds in his pocket, and that's a friend now This one, who wants to buy you rockets, ain't an agent now Marry him, or marry me, I'm the one to let you live, but can't you see I ain't got no future up in the tree, but I know what a prince and lover ought to be I know what a prince and And if you want to comment, baby, just go ahead now And if you like to tell me, maybe, just go ahead now And if you wonder about me, flowers, just go ahead now And if you like to talk for hours, just go ahead now And if you If you'd like to buy me flowers Just go ahead now And if you'd like to talk for hours Just go ahead now If you want to call me baby Just go ahead now And if you'd like to tell me maybe Just go ahead now If you'd like to buy me flowers Just go ahead now And if you'd like to talk for hours Bye. Bye. Bye.",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 7,
+    "segments": [
+      {
+        "id": 1,
+        "start": 26.035,
+        "end": 42.691,
+        "text": " Before you, that's what I said now Princess, princess who adore you Just go ahead now One last diamond in his pocket And that's a threat now This one said he wants to buy you rockets Ain't an answer now",
+        "avg_logprob": -0.30315897710945294
+      },
+      {
+        "id": 2,
+        "start": 54.52,
+        "end": 68.459,
+        "text": " That's what I said now Got some big seal up on his jacket Pain in his head now You marry him, your father will condone you How about that now? You marry me, your father will disown you",
+        "avg_logprob": -0.16458332935969036
+      },
+      {
+        "id": 3,
+        "start": 71.581,
+        "end": 100.572,
+        "text": " I'm the one that left the bed back, can't you see? I ain't got no future over the tree But I know what a prince and lover ought to be I know what a prince and lover ought to be Said, if you want to call me baby Just go ahead now And if you like to tell me maybe Just go ahead now And if you wanna buy me flowers Just go ahead now And if you like to talk for hours Just go ahead now",
+        "avg_logprob": -0.1445312522193219
+      },
+      {
+        "id": 4,
+        "start": 133.732,
+        "end": 161.238,
+        "text": " Princess kneel before you, that's what I said now Princess, princess who adore you, just go ahead now One has diamonds in his pocket, and that's a friend now This one, who wants to buy you rockets, ain't an agent now Marry him, or marry me, I'm the one to let you live, but can't you see I ain't got no future up in the tree, but I know what a prince and lover ought to be I know what a prince and",
+        "avg_logprob": -0.18887868012283363
+      },
+      {
+        "id": 5,
+        "start": 164.478,
+        "end": 184.255,
+        "text": " And if you want to comment, baby, just go ahead now And if you like to tell me, maybe, just go ahead now And if you wonder about me, flowers, just go ahead now And if you like to talk for hours, just go ahead now And if you",
+        "avg_logprob": -0.12883772557241874
+      },
+      {
+        "id": 6,
+        "start": 193.013,
+        "end": 218.832,
+        "text": " If you'd like to buy me flowers Just go ahead now And if you'd like to talk for hours Just go ahead now If you want to call me baby Just go ahead now And if you'd like to tell me maybe Just go ahead now If you'd like to buy me flowers Just go ahead now And if you'd like to talk for hours",
+        "avg_logprob": -0.10453344860547026
+      },
+      {
+        "id": 7,
+        "start": 249.815,
+        "end": 254.101,
+        "text": " Bye. Bye. Bye.",
+        "avg_logprob": -0.7405134098870414
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "wsdy_rct6uo",
+    "uploader": "Spin Doctors",
+    "audio_file": "corpus/01_music_videos_audio/audio/wsdy_rct6uo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8307992,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.389742,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:07:04Z"
+  },
+  "status": "success",
+  "error": null
+}

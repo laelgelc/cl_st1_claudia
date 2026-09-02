@@ -1,0 +1,91 @@
+{
+  "corpus_id": "y25stK5ymlA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/y25stK5ymlA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/y25stK5ymlA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts/y25stK5ymlA.json",
+  "model": {
+    "backend": "whisperx",
+    "model_name": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "language": "en",
+    "task": "transcribe",
+    "batch_size": 8,
+    "vad_filter": true,
+    "run_id": "20260902T205148Z"
+  },
+  "transcription": {
+    "text": "Walking on, walking on broken glass Walking on, walking on broken glass It was the sweetest thing That I ever knew But I don't care for sugar honey Since you abandoned me, my whole life has crashed. Won't you pick the pieces up? Cause it feels just like I'm walking on broke. The sun's still shining in the blue, blue sky But it don't mean nothing to me Oh, let the rain calm down Let the wind blow through me I'm living in an empty room With all the windows smashed And I've got so little left to lose Cause if you try to cut me down I know that you'll succeed And if you want to hurt me There's nothing left to fear Cause if you want to hurt me Every one of us was made to suffer Every one of us was made to weep We've been hurting one another And now the pain is cut too deep So take me from the wreckage Save me from the black Hocus Pocus",
+    "detected_language": "en",
+    "language_probability": null,
+    "duration_seconds": null,
+    "segment_count": 6,
+    "segments": [
+      {
+        "id": 1,
+        "start": 8.705,
+        "end": 37.426,
+        "text": " Walking on, walking on broken glass Walking on, walking on broken glass It was the sweetest thing That I ever knew But I don't care for sugar honey",
+        "avg_logprob": -0.08676609848484848
+      },
+      {
+        "id": 2,
+        "start": 42.657,
+        "end": 57.76,
+        "text": " Since you abandoned me, my whole life has crashed. Won't you pick the pieces up? Cause it feels just like I'm walking on broke.",
+        "avg_logprob": -0.1767893135547638
+      },
+      {
+        "id": 3,
+        "start": 74.821,
+        "end": 104.352,
+        "text": " The sun's still shining in the blue, blue sky But it don't mean nothing to me Oh, let the rain calm down Let the wind blow through me I'm living in an empty room With all the windows smashed And I've got so little left to lose",
+        "avg_logprob": -0.13519965884862123
+      },
+      {
+        "id": 4,
+        "start": 124.535,
+        "end": 146.658,
+        "text": " Cause if you try to cut me down I know that you'll succeed And if you want to hurt me There's nothing left to fear Cause if you want to hurt me",
+        "avg_logprob": -0.0371372782758304
+      },
+      {
+        "id": 5,
+        "start": 159.871,
+        "end": 182.382,
+        "text": " Every one of us was made to suffer Every one of us was made to weep We've been hurting one another And now the pain is cut too deep So take me from the wreckage Save me from the black",
+        "avg_logprob": -0.1666370677677068
+      },
+      {
+        "id": 6,
+        "start": 233.227,
+        "end": 236.821,
+        "text": " Hocus Pocus",
+        "avg_logprob": -0.84609375
+      }
+    ],
+    "warning": null
+  },
+  "metadata": {
+    "corpus_id": "y25stK5ymlA",
+    "uploader": "Annie Lennox",
+    "audio_file": "corpus/01_music_videos_audio/audio/y25stK5ymlA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7648918,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.796938,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260902T205148Z",
+    "transcribed_at_utc": "2026-09-02T21:13:29Z"
+  },
+  "status": "success",
+  "error": null
+}
