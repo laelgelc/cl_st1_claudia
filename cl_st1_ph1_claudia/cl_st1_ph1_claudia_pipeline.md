@@ -29,7 +29,18 @@ Outputs:
 
 ## 3. Download music video audio
 
+### Test mode
+
 ```shell script
 python download_music_videos_audio.py \
+    --cookies env/youtube_cookies.txt
+```
+
+### Production mode on an EC2 instance
+
+```shell script
+bash run_python_ec2.sh \
+    download_music_videos_audio.py \
+    --no-test-mode \
     --cookies env/youtube_cookies.txt
 ```
