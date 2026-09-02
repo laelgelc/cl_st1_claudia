@@ -121,13 +121,12 @@ PRESERVED_METADATA_FIELDS = (
     "audio_sample_rate",
     "audio_sample_format",
     "audio_file_size_bytes",
-    "audio_extraction_status",
-    "audio_extraction_run_id",
-    "audio_extracted_at_utc",
-    "ffmpeg_version",
+    "download_status",
+    "metadata_status",
     "download_run_id",
     "downloaded_at_utc",
-    "video_download_status",
+    "download_duration_seconds",
+    "yt_dlp_version",
 )
 
 
@@ -478,14 +477,14 @@ def load_audio_index(
                     f"Invalid NDJSON object at line {line_number}: expected object."
                 )
 
-            status = record.get("audio_extraction_status")
+            status = record.get("download_status")
             if status not in ELIGIBLE_AUDIO_STATUSES:
                 ignored_records.append(
                     make_item_base(record)
                     | {
                         "status": "ignored_audio_unavailable",
                         "line_number": line_number,
-                        "audio_extraction_status": status,
+                        "download_status": status,
                         "error": None,
                     }
                 )
