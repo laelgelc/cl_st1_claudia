@@ -1,0 +1,38 @@
+{
+  "corpus_id": "D6Aw3ZnqQrY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/D6Aw3ZnqQrY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/D6Aw3ZnqQrY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/D6Aw3ZnqQrY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens in a slow, gentle 4/4 ballad tempo with a relaxed, swaying groove driven by an understated drum kit playing a soft brushed rhythm alongside a warm, pulsing bassline. A electric rhythm guitar featuring a clean, vintage twang and subtle slapback delay strums steady chords on the offbeats. Surrounding the instrumentals, a multi-part backing vocal ensemble enters, chanting a rhythmic, close-harmony motif that spreads across the stereo field with smooth, comforting textures.\n\nA resonant, deep baritone lead vocal enters centrally in the mix, characterized by a velvety timbre and subtle reverb, delivering a mournful and expressive melodic phrase. The backing vocals maintain a consistent harmonic pad beneath the lead line, creating a rich call-and-response texture. \n\nAs the performance transitions into a B-section, the instrumentation intensifies. The guitar strumming becomes more pronounced, and the drum pattern accents the beat with crisp rimshots and light cymbal taps. The lead vocal ascends in pitch and dynamic intensity, shifting from its rich baritone foundation toward a more emotionally charged higher register, enhancing the melancholic and nostalgic mood. \n\nThe track cycles back to the primary verse arrangement, re-establishing the intimate dynamic before building toward a dramatic crescendo. During this peak section, the lead vocal reaches a powerful climax in its upper range, sustained by a swell from the vocal ensemble and heightened rhythmic drive from the drums. The piece concludes with a brief outro where the initial backing vocal chant motif resurfaces, accompanied by a final cadence that transitions into a brief swell of audience applause. The overall aesthetic reflects a vintage pop-ballad style with spacious stereo staging and rich vocal arrangement.\n\nGENRES: Pop, Rock, Country, Classic Pop, Doo-Wop, Ballad"
+  },
+  "metadata": {
+    "youtube_id": "D6Aw3ZnqQrY",
+    "title_extracted": null,
+    "corpus_id": "D6Aw3ZnqQrY",
+    "uploader": "Roy Orbison",
+    "audio_file": "corpus/01_music_videos_audio/audio/D6Aw3ZnqQrY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4941284,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.097103,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:57:11Z"
+  },
+  "status": "success",
+  "error": null
+}

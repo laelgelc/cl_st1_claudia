@@ -1,0 +1,38 @@
+{
+  "corpus_id": "5dnktss4Vow",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/5dnktss4Vow.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/5dnktss4Vow.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/5dnktss4Vow.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with live audience applause fading as an acoustic guitar introduces a slow, measured ballad in a 3/4 time signature at a relaxed tempo. A deep, resonant male baritone lead voice enters shortly after, delivering a melismatic and highly expressive melodic line. The initial arrangement is sparse and intimate, featuring fingerpicked acoustic guitar, subtle electric bass, and smooth pedal steel guitar fills that bend gracefully in the background, all enveloped in warm, spatial concert reverberation.\n\nAs the performance unfolds, the instrumentation expands steadily. A delicate string section enters to provide sustained harmonic pads, alongside a soft drum kit utilizing brushes or light sticks to maintain a gentle pulse. Soft backing vocals—comprising female and tenor harmonies—join during phrase endings, creating a rich, multi-layered vocal arrangement. The lead vocal dynamically shifts from delicate, conversational tones to broad, projected sustained notes, prompting subtle dynamic swells throughout the verse.\n\nThe song transitions into a full-sounding chorus characterized by a heightened dynamic level, soaring pedal steel lines, lush string accompaniment, and prominent choir-like backing harmonies. Following the chorus, the texture suddenly thins as the lead singer transitions into a spoken recitative. During this section, the background instrumentation drops in volume, providing soft, ambient chordal support via acoustic guitar, pedal steel, and subtle strings. \n\nAfter the spoken passage, the lead vocalist re-engages at maximum dynamic intensity for a final, climactic refrain. The full ensemble plays with grand, emotive force, building to a dramatic sustained final cadence. The music resolves onto a long, decaying final chord, immediately greeted by loud, enthusiastic audience cheering and applause that continues until the end of the clip.\n\nGENRES: country, classic country, ballad, country soul"
+  },
+  "metadata": {
+    "youtube_id": "5dnktss4Vow",
+    "title_extracted": null,
+    "corpus_id": "5dnktss4Vow",
+    "uploader": "GuriMalla2010",
+    "audio_file": "corpus/01_music_videos_audio/audio/5dnktss4Vow.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6310704,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 41.91713,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:46:23Z"
+  },
+  "status": "success",
+  "error": null
+}

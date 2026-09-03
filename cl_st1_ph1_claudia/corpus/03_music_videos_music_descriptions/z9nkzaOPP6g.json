@@ -1,0 +1,38 @@
+{
+  "corpus_id": "z9nkzaOPP6g",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/z9nkzaOPP6g.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/z9nkzaOPP6g.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/z9nkzaOPP6g.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a driving, steady four-four drum beat featuring a prominent, punchy snare on beats two and four alongside a tight kick drum, accompanied by a gritty electric guitar riff and a deep, pulsing bassline. The upbeat tempo establishes an energetic, driving pop-rock groove that persists continuously throughout the recording. Soon after, a clear, double-tracked male lead vocal enters, delivering melodic lines with a rhythmic style treated with moderate reverb and subtle delay in the stereo center.\n\nIn the refrain sections, the lead vocal engages in a call-and-response structure with punchy backing vocals featuring bright, stacked harmonies and falsetto accents. Distinctive synthesized stabs and vocal exclamations mark the transitions between phrases, adding a dynamic, playful texture to the arrangement. The harmonic foundation relies on a classic major-key rock progression, propelled by persistent rhythm guitar strumming, a steady bass line, and bluesy piano and synthesizer embellishments panning across the stereo field.\n\nThroughout the verses and repeated refrains, the arrangement maintains a dense yet balanced texture with consistent dynamic energy. The mix exhibits clear spatial organization: drums, main bass, and lead vocals sit firmly in the center, while rhythm guitars, backing harmonies, and secondary synth riffs extend into the left and right channels to broaden the soundstage. Handclaps and rhythmic percussion accents occasionally reinforce the beat, heightening the track's momentum.\n\nIn the final section, the intensity builds through layered vocal chants, persistent handclaps, and emphatic guitar hits over the unchanging, driving rhythm. The song transitions into an extended outro centered around repeated vocal refrains before ending sharply on a final drum strike. The overall mood is exuberant and driving, characterized by a polished vintage rock production style that blends acoustic, electric, and electronic elements seamlessly.\n\nGENRES: Rock, Pop Rock, Classic Rock, Power Pop"
+  },
+  "metadata": {
+    "youtube_id": "z9nkzaOPP6g",
+    "title_extracted": null,
+    "corpus_id": "z9nkzaOPP6g",
+    "uploader": "ELO",
+    "audio_file": "corpus/01_music_videos_audio/audio/z9nkzaOPP6g.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7799754,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.65453,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:24:48Z"
+  },
+  "status": "success",
+  "error": null
+}

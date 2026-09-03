@@ -1,0 +1,38 @@
+{
+  "corpus_id": "0habxsuXW4g",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/0habxsuXW4g.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/0habxsuXW4g.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/0habxsuXW4g.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an expressive, warm-toned solo acoustic piano arpeggio set in a slow-to-mid-tempo 4/4 meter. At approximately 0:08, a contemporary R&B groove drops, introducing a punchy kick drum, a crisp snare on beats two and four, smooth hi-hat patterns, and a resonant sub-bass synth tone. Electric piano chords and subtle acoustic guitar strums join the persistent acoustic piano line, establishing a lush, harmonious instrumental texture.\n\nSimultaneously, a soulful lead vocal enters with an intimate, highly expressive timbre, marked by emotive dynamic variations and fluid melismatic embellishments. The vocal production features clear central stereo imaging, polished compression, and subtle hall reverb, complemented by stereo double-tracking and smooth harmony layers.\n\nAs the arrangement moves into chorus sections around 0:59 and 2:08, the overall dynamic level swells. The soundscape expands with dense multi-tracked backing vocals, octave doublings, and high falsetto countermelodies that accent the main melody. The rhythm section maintains a steady, head-nodding beat, providing a relaxed yet resonant emotional pocket.\n\nIn the second verse, near 1:30, the dynamic intensity recedes slightly, scaling back backing harmonies to focus on the intimate solo vocal performance over rhythmic piano and bass accompaniment. The recording reaches its peak expressive intensity in the final chorus before transitioning into an outro near 3:00. Here, the full beat recedes, leaving vocal ad-libs drifting over delicate acoustic piano arpeggios that softly decay into silence.\n\nThroughout, the production emphasizes clean frequency separation, a wide stereo image, and a melancholic yet comforting mood.\n\nGENRES: R&B, Soul, Contemporary R&B, Pop"
+  },
+  "metadata": {
+    "youtube_id": "0habxsuXW4g",
+    "title_extracted": null,
+    "corpus_id": "0habxsuXW4g",
+    "uploader": "Mariah Carey",
+    "audio_file": "corpus/01_music_videos_audio/audio/0habxsuXW4g.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6492750,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.627605,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:30:40Z"
+  },
+  "status": "success",
+  "error": null
+}

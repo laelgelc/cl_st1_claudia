@@ -1,0 +1,38 @@
+{
+  "corpus_id": "mtCIdpnQoWk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/mtCIdpnQoWk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/mtCIdpnQoWk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/mtCIdpnQoWk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a brief snare drum roll that establishes a bouncy, mid-tempo 4/4 swing groove. The arrangement immediately settles into a vibrant, mid-century pop and chanson style, blending upbeat musicality with theatrical drama.\n\nThe instrumentation consists of a driving rhythm section with an active walking bassline, crisp drum kit playing with prominent snare and cymbal accents, offbeat rhythm guitar and piano comping, and a prominent accordion providing melodic flourishes and harmonic texture. A dynamic brass section delivers punchy, syncopated stabs, counter-melodies, and warm harmonic pads, while a chorus of backing vocalists provides rhythmic call-and-response harmonies.\n\nThe lead female vocal is clear, bright, and theatrical, centered prominently in a relatively tight stereo mix with mild spatial reverb. Her delivery balances rhythmic precision during the verses with emotive, belted phrasing during the refrains. The mix places the drums, bass, and vocals near the center while panning brass stabs and accordion accents across the stereo field to create a spacious, live-performance atmosphere.\n\nStructurally, the track alternates between driving refrains featuring punchy brass hits and storytelling verses driven by the walking bass. An instrumental interlude highlighting the accordion and brass section transitions the song into an extended bridge section. In this section, call-and-response vocal arrangements intensify over steady drum and bass accompaniment. The dynamics progressively elevate toward the climax, where the lead singer sustains impassioned high notes over full orchestral-style brass fanfares, ending on a decisive final flourish accompanied by live audience applause.\n\nGENRES: Pop, Chanson, Swing, Vocal Jazz"
+  },
+  "metadata": {
+    "youtube_id": "mtCIdpnQoWk",
+    "title_extracted": null,
+    "corpus_id": "mtCIdpnQoWk",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/mtCIdpnQoWk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5134474,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.233522,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:31:28Z"
+  },
+  "status": "success",
+  "error": null
+}

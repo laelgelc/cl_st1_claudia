@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ZWFlLYZm0tA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ZWFlLYZm0tA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ZWFlLYZm0tA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ZWFlLYZm0tA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an energetic lead male vocal in a swinging 4/4 meter, immediately introducing the song's main chorus refrain. The vocalist features a distinctive, expressive tone characterized by heavy slapback delay and room reverb, accompanied by synchronized backing vocal harmonies. The rhythm section enters with a driving shuffle, established by a slapping upright bass, a light drum kit emphasizing the backbeat with brushed snare patterns, and a twangy electric guitar providing crisp rhythm chords. \n\nFollowing the opening chorus, the music transitions smoothly into the first verse. The dynamic intensity remains buoyant as the lead vocal delivers rhythmic, blues-influenced melodic phrases over a steady walking bassline. The electric guitar accentuates phrase endings with subtle fills before a spoken dynamic vocal exclamation signals the start of the first instrumental solo section. Here, the electric guitar takes the foreground, playing a bright, syncopated rockabilly solo filled with bluesy bends, double-stops, and twangy single-note runs, supported by the driving bass and shuffling drum groove.\n\nThe second verse enters with the lead vocal returning alongside echoing backing harmonies over the swinging rhythm section. Another brief vocal call transitions the track into a second electric guitar solo section. This solo displays increased rhythmic urgency and energetic guitar articulation while keeping the mid-tempo swing feel intact. \n\nThe performance subsequently returns to the primary chorus refrain, bringing together the full ensemble, backing harmonies, and signature slapback-processed lead vocals. The song concludes on a decisive final cadence with a sustained guitar chord hit alongside a punchy bass and drum accent. Throughout, the production maintains a vintage aesthetic with warm analog tonality, a compact stereo image, and spatial slapback delay creating an upbeat, danceable mood.\n\nGENRES: Rockabilly, Rock & Roll, Classic Rock"
+  },
+  "metadata": {
+    "youtube_id": "ZWFlLYZm0tA",
+    "title_extracted": null,
+    "corpus_id": "ZWFlLYZm0tA",
+    "uploader": "Ifasul",
+    "audio_file": "corpus/01_music_videos_audio/audio/ZWFlLYZm0tA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4928654,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.292734,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:32:40Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "rZ5v8L08Flg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/rZ5v8L08Flg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/rZ5v8L08Flg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/rZ5v8L08Flg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens immediately at an upbeat, energetic tempo in a 4/4 meter, driven by a punchy drum beat featuring a prominent snare on beats two and four alongside tight hi-hats. A walking electric bass line and driving rhythm guitars—combining bright acoustic strumming and slightly overdriven electric guitar riffing panned across the stereo field—establish a classic rock-and-roll and punk-rock influenced groove.\n\nA clear, energetic male lead vocal enters in the center of the stereo mix early in the track. The vocal delivery is dynamic, direct, and slightly raspy, treated with a subtle room reverb and light delay that preserves its raw, immediate character. The verses transition smoothly into a call-and-response style hook, accentuated by rhythmic guitar stops and punchy drum fills between vocal phrases.\n\nA short instrumental break features a melodic electric guitar lead line with a twangy, bright timbre and slight slapback echo. This leads into subsequent verses where the steady, driving rhythm section maintains continuous momentum beneath the vocal lines.\n\nA primary instrumental solo section unfolds mid-track, where the lead electric guitar takes center stage, performing bluesy, melodic solos and pitch-bends supported by the driving bass and energetic drum rhythm. The arrangement remains tight and driving without significant dynamic drops.\n\nFollowing the solo, the vocals re-enter for further verse and chorus sections. The song maintains its high-energy, major-key harmonic structure throughout, building persistent drive through repetitive, catchy vocal hooks and punchy guitar riffing.\n\nThe recording concludes with a final repetition of the chorus hook leading into an emphatic ending cadence. The instruments play a synchronized final chord hit, allowing the ambient decay of the guitar and drum reverberation to fade out naturally.\n\nGENRES: Classic Rock, Rockabilly, Punk Rock, Garage Rock"
+  },
+  "metadata": {
+    "youtube_id": "rZ5v8L08Flg",
+    "title_extracted": null,
+    "corpus_id": "rZ5v8L08Flg",
+    "uploader": "The Bobby Fuller Four - Topic",
+    "audio_file": "corpus/01_music_videos_audio/audio/rZ5v8L08Flg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4435276,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.890129,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:13:04Z"
+  },
+  "status": "success",
+  "error": null
+}

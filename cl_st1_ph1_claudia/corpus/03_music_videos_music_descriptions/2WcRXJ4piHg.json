@@ -1,0 +1,38 @@
+{
+  "corpus_id": "2WcRXJ4piHg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/2WcRXJ4piHg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/2WcRXJ4piHg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/2WcRXJ4piHg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a short introductory sequence featuring a retro chiptune sound effect sound tag and pitch-shifted spoken vocal phrases, accompanied by a brief melodic synth hook preview. At 0:08, the main beat drops forcefully into a mid-tempo trap groove set in 4/4 meter with a half-time feel around 132 BPM.\n\nThe rhythm section is anchored by a booming, syncopated 808 sub-bass synth that glides across low pitch registers, a sharp, snappy electronic snare drum sounding on the third beat, and rapid hi-hat rolls featuring intense triplet and thirty-second note subdivisions. The harmonic framework is sustained by dark, staccato synth brass chord stabs that regularly punctuate the off-beats, establishing a tense, minor-key tonal character.\n\nAn aggressive male lead rap vocal enters at the drop, delivered with strong rhythmic precision and processed with pitch correction that lends a smooth digital edge to the vocal timbre. The lead vocal is positioned prominently in the center of the stereo mix, while backing ad-libs and doubled vocal accents are panned across the stereo field, enhanced with slapback delay and spatial reverb.\n\nStructurally, the composition follows an alternating verse-chorus hip-hop format. Dynamic energy stays consistently high following the initial drop, sustained by the relentless low-end punch of the 808 bass and drum arrangement. Transitions between sections are subtly marked by drum rolls, vocal mutes, and brief low-frequency cutouts. The dense, gritty texture and menacing mood remain stable throughout the repeated vocal and verse cycles. In the final section, the lead vocals clear out, allowing the instrumental groove to play through until the recording fades to silence.\n\nGENRES: Trap, Hip-Hop, Drill"
+  },
+  "metadata": {
+    "youtube_id": "2WcRXJ4piHg",
+    "title_extracted": null,
+    "corpus_id": "2WcRXJ4piHg",
+    "uploader": "DGainz",
+    "audio_file": "corpus/01_music_videos_audio/audio/2WcRXJ4piHg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9888436,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.054647,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:03:26Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "CuUm8L6fUN8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CuUm8L6fUN8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/CuUm8L6fUN8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/CuUm8L6fUN8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a reflective, ambient introduction led by delicate fingerpicked acoustic guitar, soft synth pads, and reverberant, wordless female vocalizations. Subtle percussion and gentle ambient swells gradually accumulate, raising the dynamic level until a driving, mid-tempo pop-rock groove in 4/4 meter drops in with punchy kick drums, crisp snare backbeats, resonant bass guitar, and bright acoustic strumming.\n\nA solo female lead vocal takes center stage, possessing a clear, expressive timbre with light reverb and subtle delay effects. As the music moves from the verse into the pre-chorus, the dynamic energy swells through rising vocal lines and expanding instrumental layers. The chorus explodes with an uplifting, anthemic character, featuring layered backing vocal harmonies spread across the stereo field, energetic drum fills, and rich rhythm guitars.\n\nFollowing a brief instrumental transition, the second verse drops slightly in volume to highlight the rhythmic interaction between the syncopated bassline and crisp drum pattern. The intensity rebuilds through another pre-chorus into a powerful second chorus. The subsequent bridge elevates the emotional peak, featuring soaring, belted lead vocal phrases and dense instrumental backing. \n\nThe track climaxes in a final, highly energetic chorus filled with elaborate vocal ad-libs, dramatic cymbal crashes, and thick vocal layering. An extended outro retains the driving rhythm while lead vocal chants and ad-libs soar overhead. The instrumentation progressively thins until only the acoustic guitar strums and spacious synth pads remain, fading out gently to a quiet close.\n\nThroughout, the production is polished and modern, utilizing a wide stereo panorama for harmonies and rhythm guitars, sharp dynamic contrasts between sections, and a warm, punchy tonal balance that conveys an optimistic and empowering mood.\n\nGENRES: Pop, Pop Rock, Acoustic Pop"
+  },
+  "metadata": {
+    "youtube_id": "CuUm8L6fUN8",
+    "title_extracted": null,
+    "corpus_id": "CuUm8L6fUN8",
+    "uploader": "Natasha Bedingfield",
+    "audio_file": "corpus/01_music_videos_audio/audio/CuUm8L6fUN8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9643232,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.68165,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:17:52Z"
+  },
+  "status": "success",
+  "error": null
+}

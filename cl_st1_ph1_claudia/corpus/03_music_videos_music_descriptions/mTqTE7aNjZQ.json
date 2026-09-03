@@ -1,0 +1,38 @@
+{
+  "corpus_id": "mTqTE7aNjZQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/mTqTE7aNjZQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/mTqTE7aNjZQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/mTqTE7aNjZQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with spoken introductions from television hosts accompanied by light chatter, audience laughter, and applause. At 0:24, the musical performance commences with an upbeat, syncopated 4/4 pop-rock groove at a medium tempo. The musical foundation is established by a rhythmically strummed acoustic guitar, a prominent and melodic electric bassline, steady drum kit percussion featuring clear snare backbeats, and rhythmic stabs from a brass section.\n\nA male lead vocalist enters with a soulful, warm chest tone, carrying the narrative-driven verse over a clean, buoyant accompaniment. The arrangement builds dynamically towards the chorus, where the texture expands with the addition of multi-part vocal harmonies and punchy horn section swells. The harmony relies on bright, major-key tonal progressions, giving the track an uplifting, optimistic, and nostalgic emotional quality. \n\nDuring the middle section, the dynamics shift into a slightly pared-back groove before a drum fill and brass crescendo re-ignite the energetic momentum. The horn section and electric guitar interchange melodic accents beneath the soaring lead vocal and chorus harmonies. The overall mix reflects a vintage live television broadcast aesthetic, with a centralized stereo image, dry rhythm section, and natural ambient hall reverberation. The performance ends on a climactic final cadence, followed immediately by enthusiastic live studio audience applause and cheering.\n\nGENRES: Pop Rock, Soft Rock, Blue-Eyed Soul, Sunshine Pop"
+  },
+  "metadata": {
+    "youtube_id": "mTqTE7aNjZQ",
+    "title_extracted": null,
+    "corpus_id": "mTqTE7aNjZQ",
+    "uploader": "Elliot Lurie",
+    "audio_file": "corpus/01_music_videos_audio/audio/mTqTE7aNjZQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6673308,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.869789,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:28:50Z"
+  },
+  "status": "success",
+  "error": null
+}

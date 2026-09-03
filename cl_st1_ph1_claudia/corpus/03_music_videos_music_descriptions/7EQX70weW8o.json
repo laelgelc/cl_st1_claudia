@@ -1,0 +1,38 @@
+{
+  "corpus_id": "7EQX70weW8o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/7EQX70weW8o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/7EQX70weW8o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/7EQX70weW8o.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a fast, driving 4/4 shuffle groove featuring a bouncy walking upright bass, brisk acoustic rhythm guitar strumming, a bright drum kit with a prominent snare backbeat, and punchy brass stabs. The overall audio aesthetic reflects vintage mid-20th-century pop-rock production, characterized by warm low-mids, mild tape saturation, slapback echo, and a centered stereo image with subtle spatial separation between instruments.\n\nAt eight seconds, a female lead vocal enters with a youthful, highly animated, and bright timbre. The vocal is treated with pronounced slapback delay, accentuating its playful and energetic delivery. Multi-part backing vocals join soon after, providing rhythmic call-and-response harmonies that reinforce the main melodic hooks. The groove remains lively as the vocal phrasing moves fluidly over walking basslines and dynamic brass fills.\n\nAt fifty seconds, a bridge-like section introduces a subtle harmonic shift, supported by staccato horn accents and persistent acoustic guitar strumming. The vocal intensity rises, featuring bluesy pitch inflections and expressive dynamic swells. At one minute and twenty-five seconds, the lead vocal yields to a twangy electric guitar solo. The guitar displays a bright, single-coil timbre with subtle spring reverb, playing blues-influenced rock-and-roll licks over the driving rhythm section.\n\nThe lead vocalist returns at one minute and forty seconds, elevating the overall dynamic volume with belted upper-register lines, energetic interjections, and soaring vocal contours. Backing vocal harmonies and brass swells build excitement through a reprise of the chorus theme. The song reaches its climax with a series of sharp, synchronized ensemble hits at two minutes and ten seconds, ending abruptly on a clean, staccato ensemble cadence and a final vocal tag.\n\nGENRES: rockabilly, 1950s rock and roll, pop, jump blues"
+  },
+  "metadata": {
+    "youtube_id": "7EQX70weW8o",
+    "title_extracted": null,
+    "corpus_id": "7EQX70weW8o",
+    "uploader": "Smurfstools Oldies Music Time Machine",
+    "audio_file": "corpus/01_music_videos_audio/audio/7EQX70weW8o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4302272,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.029829,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:37:17Z"
+  },
+  "status": "success",
+  "error": null
+}

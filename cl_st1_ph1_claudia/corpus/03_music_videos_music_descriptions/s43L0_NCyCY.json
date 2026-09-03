@@ -1,0 +1,38 @@
+{
+  "corpus_id": "s43L0_NCyCY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/s43L0_NCyCY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/s43L0_NCyCY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/s43L0_NCyCY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a rhythmic electric guitar motif playing swung, syncopated chord stabs over a mid-tempo, 4/4 shuffle beat driven by a crisp drum kit and a warm, grooving electric bass line. A male lead vocalist enters shortly after, delivering a melodic performance with a smooth yet soulfully textured tone, positioned prominently at the center of the stereo field with tasteful, warm plate reverb. The arrangement immediately establishes a classic, mid-tempo soul-pop groove with steady dynamics and a driving rhythm.\n\nAs the piece transitions into the chorus, the arrangement expands with lush, multi-part backing vocal harmonies panned wide across the stereo image to create a rich sense of spatial width. Punctuating brass stabs and subtle keyboard sustained notes join the texture, lifting the energy and dynamics while maintaining the steady, swinging rhythm. The harmonic progression relies on bright, major-key soul-pop harmony, evoking an uplifting and romantic mood.\n\nIn the subsequent verse, the lead voice continues its narrative delivery, punctuated by call-and-response vocal accents from the backing vocal ensemble. The rhythm section maintains a stable foundation with rhythmic hi-hat work, warm kick drum hits, and melodic bass fills. Following a second chorus swell, the track transitions into an expressive, blues-influenced electric guitar solo featuring a vintage, slightly overdriven timbre with smooth pitch bends and sustain. \n\nThe song returns for a final vocal section and chorus, building dynamically with layered vocal interplay, active percussion, and melodic guitar fills accenting the vocal phrasing. The piece concludes on a decisive, cleanly played final cadence on a major triad. Throughout, the production maintains an organic, analogue-inspired sonic profile with clear separation between centered lead elements and wide backing instruments.\n\nGENRES: Soul, Pop Soul, Rhythm and Blues, Retro Soul"
+  },
+  "metadata": {
+    "youtube_id": "s43L0_NCyCY",
+    "title_extracted": null,
+    "corpus_id": "s43L0_NCyCY",
+    "uploader": "Memory Lane",
+    "audio_file": "corpus/01_music_videos_audio/audio/s43L0_NCyCY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5869340,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.049712,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:53:08Z"
+  },
+  "status": "success",
+  "error": null
+}

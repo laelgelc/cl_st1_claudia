@@ -1,0 +1,38 @@
+{
+  "corpus_id": "jenWdylTtzs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/jenWdylTtzs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/jenWdylTtzs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/jenWdylTtzs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens abruptly with an energetic vocal scream and a brief drum fill before launching directly into a driving, high-tempo pop-rock groove in a standard 4/4 meter. The instrumentation features dynamic male lead vocals, multi-part backing vocal harmonies, stereo-panned electric guitars with moderate overdrive, an electric bass guitar, and a complete drum kit. \n\nIn the initial verse section, the lead vocalist delivers an expressive, raspy performance set against a punchy rhythm section. The drum beat maintains a strong 8th-note pulse on the hi-hat, anchored by a prominent snare on beats two and four, while the bassline provides a warm, melodic foundation beneath rhythmic guitar chords. As the arrangement moves into the refrain, layered backing vocals join in unison and close harmony, raising the overall dynamic level and texture. \n\nThe song transitions into a contrasting bridge section characterised by a shift in harmonic progression. During this passage, the lead vocal rises in pitch and dynamic intensity, complemented by call-and-response backing vocals that build excitement. The drum groove remains steady, incorporating ride cymbal accents to heighten the sonic energy before smoothly returning to the main verse structure. A second bridge iteration further accentuates this expressive peak through passionate vocal pushes and sustained guitar strums.\n\nProduction-wise, the recording presents a wide stereo image. Crunchy rhythm guitars are panned left and right to frame the centered lead vocals and bass guitar, while subtle reverb gives the drums a punchy, spacious feel. The tonal character combines crisp high-frequency detail with a warm, midrange-heavy guitar timbre. The track reaches its climax with an extended final refrain, ending on a sustained vocal flourish that resolves into a decisive, punctuated full-band cadence.\n\nGENRES: Pop Rock, Rock and Roll, Power Pop"
+  },
+  "metadata": {
+    "youtube_id": "jenWdylTtzs",
+    "title_extracted": null,
+    "corpus_id": "jenWdylTtzs",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/jenWdylTtzs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5012616,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.773265,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:39:38Z"
+  },
+  "status": "success",
+  "error": null
+}

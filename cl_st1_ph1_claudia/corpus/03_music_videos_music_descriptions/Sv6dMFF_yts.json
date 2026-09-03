@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Sv6dMFF_yts",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Sv6dMFF_yts.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Sv6dMFF_yts.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Sv6dMFF_yts.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens in a four-four meter at a moderate tempo, driven by a percussive, rhythmic acoustic guitar strumming pattern accompanied by a steady kick drum beat and rimshots or handclaps on beats two and four. A male lead vocal enters shortly after, positioned prominently in the center of the stereo field with a dry, intimate timbre and gentle compression. As the verse unfolds, an electric bass guitar enters to reinforce the low-end harmonic foundation alongside subtle shaker percussion, establishing a driving acoustic pop groove.\n\nThe arrangement expands into an anthemic chorus marked by a sharp dynamic swell. The male lead vocal ascends into a higher, emotionally expressive register, treated with noticeable spatial reverb and delay. Stereo-panned vocal harmonies join the lead, thickening the vocal texture. Concurrently, the percussion intensifies into a full drum kit performance with punchy snare hits, energetic kick patterns, and shimmering hi-hat or tambourine accents.\n\nA second verse temporarily scales back the dynamic weight, reducing the percussion to a lighter, syncopated rhythm while maintaining the acoustic guitar and bass guitar core. The track then surges back into a second high-energy chorus with dense vocal layering and driving drum rhythms.\n\nA transitional breakdown introduces a distinct bridge section. The dynamic level drops as a smooth, warm female lead vocal takes over, set against a pulsating bass synth or bass guitar, atmospheric guitar pads, and half-time percussive stomps. Multi-tracked backing harmonies swell around her voice, creating a dense, choir-like texture that steadily builds tension alongside drum fills.\n\nThis build-up resolves into a final, highly dynamic chorus section where both male and female vocals interact amidst full-band accompaniment, driving drums, and rich stereo harmony layers. The track concludes with an intimate coda, suddenly stripping away the drums and bass to leave the male lead vocal accompanied solely by gentle acoustic guitar strumming until the final chord decays into silence.\n\nGENRES: Pop, Indie Pop, Acoustic Pop, Alternative Rock"
+  },
+  "metadata": {
+    "youtube_id": "Sv6dMFF_yts",
+    "title_extracted": null,
+    "corpus_id": "Sv6dMFF_yts",
+    "uploader": "Fueled By Ramen",
+    "audio_file": "corpus/01_music_videos_audio/audio/Sv6dMFF_yts.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8073936,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.195507,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:01:50Z"
+  },
+  "status": "success",
+  "error": null
+}

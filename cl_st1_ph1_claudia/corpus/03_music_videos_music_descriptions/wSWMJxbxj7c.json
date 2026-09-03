@@ -1,0 +1,38 @@
+{
+  "corpus_id": "wSWMJxbxj7c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wSWMJxbxj7c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/wSWMJxbxj7c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/wSWMJxbxj7c.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an energetic, fast-tempo 4/4 pop-rock groove featuring strummed electric rhythm guitar, an agile walking bassline, and a driving drum kit with a crisp backbeat snare and tight hi-hat articulation. The musical texture is driving and upbeat, yet grounded in a minor-key harmonic progression that creates a dramatic, nostalgic mood.\n\nAt 0:08, a male lead vocal enters centrally in the stereo mix. The vocal delivery is passionate and bright, treated with a spring-style or plate reverb that endows it with a classic mid-20th-century production aesthetic. The rhythm section maintains a steady, forward-pushing pulse beneath the lead melody. \n\nAs the track moves into the chorus around 0:32, the overall dynamic level lifts. High-register falsetto backing vocals enter in call-and-response fashion, repeating brief melodic motifs behind the main vocal line. The chord progression maintains its rhythmic bounce, blending minor and major tonalities to heighten the emotional tension.\n\nAt 1:09, the vocals clear to make way for a distinctive instrumental solo. A high-register electronic keyboard featuring a reedy, vibrato-laden organ or synth-like timbre performs a rapid, highly melodic solo filled with fast scalar runs and ornamentations. The rhythm guitar, bass, and drums continue their relentless driving accompaniment underneath.\n\nAt 1:35, the lead male vocal re-enters with renewed intensity for a final chorus section, again supported by the high-pitched backing vocal responses. The track transitions at 2:05 into an outro section where the lead vocal repeats a rhythmic refrain over the cycling rhythm section. The recording slowly fades out in volume, bringing the piece to a close around 2:15.\n\nGENRES: 1960s pop, pop rock, rock and roll, classic pop"
+  },
+  "metadata": {
+    "youtube_id": "wSWMJxbxj7c",
+    "title_extracted": null,
+    "corpus_id": "wSWMJxbxj7c",
+    "uploader": "rokum71",
+    "audio_file": "corpus/01_music_videos_audio/audio/wSWMJxbxj7c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4343138,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.477019,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:07:13Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Ob7vObnFUJc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Ob7vObnFUJc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Ob7vObnFUJc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Ob7vObnFUJc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an upbeat vocalise motif set against warm electric piano chords in a 4/4 meter at a buoyant mid-tempo pace. Following a spoken vocal cue, the full rhythm section enters with a lively R&B and funk groove, featuring a snappy snare drum, syncopated kick, steady hi-hats, and a warm, prominent slap bassline.\n\nA lead female vocalist enters with a clear, expressive tone, positioned centrally with subtle reverb and short delay. Clean electric guitar chops accent the offbeats, enriching the rhythmic grid alongside warm key harmony. As the arrangement transitions toward the chorus, dynamic intensity rises through punchy brass stabs and smooth, layered backing vocals that widen the stereo field.\n\nThe chorus represents a full dynamic release, characterized by multi-tracked vocal harmonies, energetic horn riffs, and a driving backbeat that establishes an infectious, celebratory mood. The harmonic landscape is bright and tonal, emphasizing clean production with punchy drum compression and a balanced stereo mix.\n\nFollowing the chorus, the track enters an extended hook section defined by a series of dramatic, sequential upward key modulations. With each step-wise key change, the lead vocal ascends into progressively higher registers, transitioning from a warm chest voice into a powerful, resonant belt accompanied by soaring ad-lib vocal runs. The rich, multi-layered instrumentation maintains its high energy and steady groove through each key transition, intensifying the song's triumphant emotional quality. The musical arrangement concludes abruptly on a tight final beat, immediately followed by a brief ambient audio sample of enthusiastic crowd cheering and applause before silent decay.\n\nGENRES: R&B, Funk, Pop, Soul"
+  },
+  "metadata": {
+    "youtube_id": "Ob7vObnFUJc",
+    "title_extracted": null,
+    "corpus_id": "Ob7vObnFUJc",
+    "uploader": "Beyoncé",
+    "audio_file": "corpus/01_music_videos_audio/audio/Ob7vObnFUJc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6283956,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.171726,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:42:32Z"
+  },
+  "status": "success",
+  "error": null
+}

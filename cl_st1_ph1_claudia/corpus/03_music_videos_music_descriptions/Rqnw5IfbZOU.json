@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Rqnw5IfbZOU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Rqnw5IfbZOU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Rqnw5IfbZOU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Rqnw5IfbZOU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is a high-energy, up-tempo rock track set in a standard 4/4 meter with a driving, straight-eight groove. It opens with an immediate, rhythmic distorted electric guitar riff accompanied by punchy acoustic drums delivering a strong backbeat, soon joined by a pulsing electric bass guitar. Rhythmic group vocal shouts punctuate the instrumental introduction before a raspy, energetic male lead vocal enters in the center of the stereo field. The overall musical texture is dynamic and homophonic, driven by the tight rhythm section and rhythmic guitar strumming.\n\nHarmonically, the track centers around a bright, major-key diatonic chord progression. Group backing vocals consistently enter throughout the verses to provide pitch-matched melodic harmonies and lively call-and-response shouts. Midway through the track, an expressive, overdriven electric guitar solo assumes the melodic lead, featuring bluesy pitch bends and rapid phrasing over the persistent rhythm section.\n\nA notable structural transition occurs after the solo section, where the music drops to a lower dynamic level. Here, the lead vocal drops to an intimate whisper over a stripped-back instrumental foundation, building suspense before bursting back into full dynamic volume with uninhibited vocal screams and an energetic re-entry of the full band. \n\nThe production aesthetic is warm and direct, reminiscent of vintage power pop or garage rock recordings, featuring subtle room reverb on the drums and lead vocal. The stereo field places the rhythm guitars across the left and right channels while keeping the bass, drum kit, and lead vocal focused in the center. The mood remains exuberant, party-oriented, and relentlessly upbeat from beginning to end, finishing with a short guitar-driven outro that closes on an abrupt full-band final hit.\n\nGENRES: Power Pop, Garage Rock, Pop Rock, New Wave"
+  },
+  "metadata": {
+    "youtube_id": "Rqnw5IfbZOU",
+    "title_extracted": null,
+    "corpus_id": "Rqnw5IfbZOU",
+    "uploader": "TheRomanticsVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/Rqnw5IfbZOU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5618936,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.001603,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:41:47Z"
+  },
+  "status": "success",
+  "error": null
+}

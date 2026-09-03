@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Wt88GMJmVk0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Wt88GMJmVk0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Wt88GMJmVk0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Wt88GMJmVk0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a dramatic, cinematic intro featuring prominent turntable vinyl scratching, sound effects of a revving car engine and screeching tires, and panicked vocal screams. At 00:09, a mid-tempo hip-hop groove in 4/4 meter drops, established by a punchy kick drum, crisp snare on the second and fourth beats, syncopated hi-hats, a deep bassline, and a bright, staccato brass-like synth motif.\n\nAt 00:27, the first verse begins as a female lead vocalist enters with a fast-paced, highly rhythmic rap delivery. Her vocal tone is assertive and dry, positioned prominently in the center of the stereo image. The instrumentation remains focused and driving, sustained by the steady drum groove and a thick synth bass foundation, interspersed with subtle turntable scratches in the stereo field.\n\nThe track transitions to a melodic chorus at 01:13, where the lead vocal switches to a smooth, expressive singing style. Rich, multi-tracked vocal harmonies layer across the stereo field alongside lush keyboard chords, creating a warmer, fuller texture that contrasts with the sparse, punchy verses.\n\nFollowing a short transitional break, the second rap verse enters at 01:45, resuming the urgent, rhythmic vocal delivery over the persistent beat. The second chorus returns at 02:17 with its harmonized vocal hook and warm R&B instrumentation. A third rap verse follows at 02:37, featuring dynamic vocal ad-libs, rhythmic fills, and energetic syncopated phrasing.\n\nAt 03:21, the chorus repeats a final time before leading into the outro at 03:41. The outro focuses on rhythmic turntable scratching, vinyl pitch-glide effects, and vocal ad-libs over the main drum beat, eventually concluding with a final vinyl scratch motif and a clean stop.\n\nGENRES: Hip-Hop, R&B, Boom Bap"
+  },
+  "metadata": {
+    "youtube_id": "Wt88GMJmVk0",
+    "title_extracted": null,
+    "corpus_id": "Wt88GMJmVk0",
+    "uploader": "The Real Eve",
+    "audio_file": "corpus/01_music_videos_audio/audio/Wt88GMJmVk0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7880746,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.153358,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:43:37Z"
+  },
+  "status": "success",
+  "error": null
+}

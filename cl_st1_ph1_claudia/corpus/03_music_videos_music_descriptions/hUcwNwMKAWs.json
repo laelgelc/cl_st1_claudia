@@ -1,0 +1,38 @@
+{
+  "corpus_id": "hUcwNwMKAWs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hUcwNwMKAWs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/hUcwNwMKAWs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/hUcwNwMKAWs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an energetic 4/4 folk-rock groove at an uptempo pace (around 125 BPM). A bright, strummed acoustic guitar introduces a repeating rhythmic chord motif, immediately bolstered by a driving electric bassline, crisp drum backbeat, and tambourine accents. The overall dynamic is buoyant, featuring a warm, analog-style production where acoustic guitars are panned across the stereo image against a centrally focused rhythm section.\n\nAt 0:16, the lead male vocal enters, characterized by a stylized, raspy, and rhythmic delivery with minimal spatial processing. The verse texture remains grounded in driving acoustic guitar strumming, a steady bassline, and punchy snare hits on beats two and four. Around 0:54, the piece swells into an anthemic refrain as dynamic intensity rises. Multi-tracked backing harmonies join in response to the lead vocal, creating a dense, uplifting texture highlighted by ringing guitar overtones and shimmering tambourine.\n\nThe second verse at 1:07 maintains the steady rock groove, leading into a syncopated bridge section around 1:57 where the vocal delivery becomes more conversational over a persistent bass and drum pattern. The harmonic structure relies on diatonic major chord movements. A dramatic dynamic peak occurs at 2:34 with an intense lead vocal delivery and layered group harmonies, resolving back into the energetic chorus refrain at 2:53.\n\nAt 3:05, a distinct structural transition occurs as the dynamic drops into a gentler, contemplative breakdown. The driving drum kit softens, allowing lush acoustic guitar chords and subtle keyboard sustain to frame a softer, lyrical vocal tone. Wordless vocal harmonies weave across the stereo field before the full rhythm section re-engages for a final repeating vocal chant vamp that gradually fades out.\n\nGENRES: classic rock, folk rock, pop rock, glam rock"
+  },
+  "metadata": {
+    "youtube_id": "hUcwNwMKAWs",
+    "title_extracted": null,
+    "corpus_id": "hUcwNwMKAWs",
+    "uploader": "The Velvet Underground",
+    "audio_file": "corpus/01_music_videos_audio/audio/hUcwNwMKAWs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7882232,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.328781,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:24:04Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "fqng9NDqKB8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/fqng9NDqKB8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/fqng9NDqKB8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/fqng9NDqKB8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The piece opens in a driving 4/4 mid-tempo groove at approximately 105 BPM, instantly establishing a soul and funk aesthetic. The introductory rhythm section features a warm, syncopated electric bassline paired with punchy drums—a tight kick, crisp snare backbeat, and persistent shaker and hi-hat percussion. Clean rhythm electric guitar comping with a muted wah-wah filter effect and subtle electric piano chords complete the light, syncopated texture.\n\nAt 0:17, a soulful female lead vocal enters the center of the stereo mix. Her voice exhibits a warm, expressive timbre with subtle natural rasp, treated with modest reverb and delay. The verse maintains an open, danceable arrangement driven by the rhythmic dialogue between the bassline and percussive guitar chops. Brief guitar licks and keyboard accents answer the vocal phrases.\n\nAs the track moves into the second section at 1:17, the arrangement expands with layered backing vocals spread across the stereo field, reinforcing the harmony. The lead vocal grows increasingly impassioned, utilizing wider pitch bends and dynamic emphasis. \n\nAt 1:50, the music reaches a emotional peak. The lead vocals ascend into a higher register, delivering energetic belts and melismatic vocal runs. Call-and-response backing vocals create a dense texture alongside brass-like keyboard hits, sustained organ-style swells, and increasingly active drum fills. The overall soundscape becomes dense, warm, and uplifting.\n\nFrom 2:48 through to the conclusion, the track transitions into a vamp-style outro. The rhythm section maintains its steady, syncopated groove while the lead singer improvises fluid vocal ad-libs over repeating backing vocal harmonies. The mix gradually fades out, bringing the piece to a smooth close.\n\nGENRES: Soul, Funk, Neo-Soul, Contemporary R&B"
+  },
+  "metadata": {
+    "youtube_id": "fqng9NDqKB8",
+    "title_extracted": null,
+    "corpus_id": "fqng9NDqKB8",
+    "uploader": "DionneFarrisVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/fqng9NDqKB8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7186748,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.006199,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:25:30Z"
+  },
+  "status": "success",
+  "error": null
+}

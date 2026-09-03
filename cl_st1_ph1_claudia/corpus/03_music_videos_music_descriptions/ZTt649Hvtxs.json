@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ZTt649Hvtxs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ZTt649Hvtxs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ZTt649Hvtxs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ZTt649Hvtxs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief spoken introduction over audience applause, transitioning into an upbeat soul-funk groove in a steady, mid-tempo four-four meter. The arrangement is driven by a full rhythm section, featuring a crisp drum kit playing a driving, shuffle-influenced beat with prominent snare and hi-hat, paired with an energetic, syncopated electric bassline. Clean, rhythmic electric guitar stabs and warm electric piano chords establish the harmonic foundation, while a bright brass section delivers punchy horn stabs and melodic counter-lines.\n\nAs the musical introduction unfolds, the dynamic intensity builds toward the entry of a soulful male lead vocalist. The vocalist demonstrates a highly expressive range, moving seamlessly from smooth, conversational verses to impassioned, raspy belts in higher registers. A multi-part backing vocal ensemble enters during the chorus sections, providing lush, harmonized refrains that contrast with the lead singer’s emotive ad-libs in a call-and-response structure.\n\nStructurally, the performance alternates between narrative verses and triumphant, elevated choruses. During the verses, the instrumental texture thins slightly to highlight the lead vocals, supported by subtle brass fills and steady rhythm accompaniment. In the choruses, the dynamics expand significantly, reinforced by fuller horn arrangements, active percussion accents, and layered vocal harmonies.\n\nThe sound mix conveys a warm, live-performance aesthetic. The stereo image positions the bass and drums centrally to anchor the groove, while guitar, electric piano, and horn sections are panned across the stereo field to create a spacious texture. A touch of ambient reverberation on the lead vocals enhances their presence without obscuring detail. The piece reaches its dynamic peak through an impassioned vocal refrain before closing on a sharp, unison instrumental hit, returning to enthusiastic crowd applause.\n\nGENRES: Soul, Funk, R&B, Philadelphia Soul"
+  },
+  "metadata": {
+    "youtube_id": "ZTt649Hvtxs",
+    "title_extracted": null,
+    "corpus_id": "ZTt649Hvtxs",
+    "uploader": "Philadelphia International Records",
+    "audio_file": "corpus/01_music_videos_audio/audio/ZTt649Hvtxs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6538818,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.827518,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:46:36Z"
+  },
+  "status": "success",
+  "error": null
+}

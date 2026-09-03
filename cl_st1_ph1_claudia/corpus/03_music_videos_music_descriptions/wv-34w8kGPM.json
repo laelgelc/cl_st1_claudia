@@ -1,0 +1,38 @@
+{
+  "corpus_id": "wv-34w8kGPM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wv-34w8kGPM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/wv-34w8kGPM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/wv-34w8kGPM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with an energetic, mid-tempo pop-rock intro featuring a strummed electric guitar riff, a steady 4/4 drum beat with crisp hi-hats and a punchy snare, and a warm, driving bassline. The rhythm establishes a lively, danceable groove in a bright major key.\n\nA clear female lead vocal enters for the first verse, delivered with a bright, intimate timbre and subtle delay processing. The arrangement remains driven by the rhythmic pumping of the bass and syncopated guitar strums. The chorus arrives with a dynamic expansion as layered backing vocal harmonies spread across the stereo field, drum patterns become fuller, and the lead melody lifts into a higher vocal register to create an infectious, uplifting peak.\n\nA second verse maintains the upbeat groove, leading into a pre-chorus where vocal intensity and cymbal accents build momentum. The chorus recurs with full dynamic impact, immediately followed by an expressive electric guitar solo featuring sustained, slightly overdriven tones and smooth pitch bends above the continuous rhythm section.\n\nA third verse and chorus ensue, maintaining high energy and a dense texture. A brief dynamic breakdown strips away the heavy drum kit, leaving a minimalist rhythm guitar and subdued vocal phrases. The track then explodes back into full force for an extended outro chorus, highlighted by impassioned vocal ad-libs, belting, and repetitive backing vocal hooks. Throughout the recording, the stereo image features wide-panned rhythm guitars and vocal harmonies flanking the centered lead voice and punchy drum kit, concluding as the rhythmic groove gradually fades out.\n\nGENRES: Pop Rock, Power Pop, New Wave"
+  },
+  "metadata": {
+    "youtube_id": "wv-34w8kGPM",
+    "title_extracted": null,
+    "corpus_id": "wv-34w8kGPM",
+    "uploader": "DivinylsVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/wv-34w8kGPM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7050028,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.393882,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:42:11Z"
+  },
+  "status": "success",
+  "error": null
+}

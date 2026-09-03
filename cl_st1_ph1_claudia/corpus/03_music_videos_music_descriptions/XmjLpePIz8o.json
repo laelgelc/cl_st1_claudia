@@ -1,0 +1,38 @@
+{
+  "corpus_id": "XmjLpePIz8o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/XmjLpePIz8o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/XmjLpePIz8o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/XmjLpePIz8o.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a spoken stage announcement introducing the performer, set over enthusiastic live audience applause and a rising rhythm section riff. The band settles into a bright, driving 4/4 pop-soul groove at a moderate-fast tempo, propelled by crisp drum kit work, tight hi-hats, handclaps, a highly syncopated bassline, and energetic acoustic and electric guitar strumming.\n\nA smooth, expressive male lead vocal enters in the tenor register, processed with gentle studio reverb that adds warmth and spatial depth. The vocal phrasing is soulful and dynamic, seamlessly shifting between intimate verse passages and exuberant chorus sections. In the choruses, the arrangement swells with rich multi-part backing vocal harmonies delivering call-and-response figures, while punchy brass stabs and subtle keyboard pads broaden the harmonic frequency spectrum.\n\nThe arrangement proceeds through a structured verse-chorus format. In the verses, the instrumental texture thins slightly to highlight the rhythmic dialogue between the syncopated bass and strummed rhythm guitars, allowing the lead vocal room to emote. An instrumental bridge introduces a singing electric guitar solo featuring expressive pitch bends and a warm, slightly overdriven tone, panned across the stereo field above the steady rhythm section. \n\nHarmonically, the track relies on diatonic major progressions that evoke an upbeat, triumphant, and romantic mood. The production features a balanced live-performance mix with centered lead vocals and drum section, stereo-panned guitar layers, and ambient room reflections that enhance the live stage atmosphere. The energy peaks during a climactic final chorus with full instrumental and vocal density before concluding on an emphatic final hit and audience cheers.\n\nGENRES: Soul, Northern Soul, Pop Soul, R&B"
+  },
+  "metadata": {
+    "youtube_id": "XmjLpePIz8o",
+    "title_extracted": null,
+    "corpus_id": "XmjLpePIz8o",
+    "uploader": "MrHaagsesjonny1",
+    "audio_file": "corpus/01_music_videos_audio/audio/XmjLpePIz8o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6671078,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 6.409265,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:39:39Z"
+  },
+  "status": "success",
+  "error": null
+}

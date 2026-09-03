@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ZqpysaAo4BQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ZqpysaAo4BQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ZqpysaAo4BQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ZqpysaAo4BQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a brief ambience of field-recorded birdsong and soft environmental sounds, creating a tranquil, natural atmosphere. At 0:13, a fingerpicked and gently strummed acoustic guitar enters, introducing a warm, major-key progression in a moderate, steady 4/4 meter. At 0:22, a clean, resonant male lead vocal enters, delivering a nostalgic and reflective melody with intimate closeness and a light touch of room reverb. By 0:25, a laid-back rhythm section enters, featuring a smooth, rounded electric bass and acoustic drums played with soft rim-clicks and steady hi-hat patterns, establishing a relaxed, mid-tempo groove.\n\nHarmonically, the song relies on diatonic, major-key progressions that evoke a serene, introspective emotional quality. The arrangement is transparent and acoustic-focused; the acoustic guitars are spread across the stereo field to provide a sense of space, while the lead vocal, bass, and kick drum are anchored in the center. Dynamics remain gentle and controlled throughout, swelling subtly during transitions between sections.\n\nAt 1:41, the song transitions into an instrumental break where a melodic electric guitar lead takes over the melody line, accompanied by the steady bass and drum groove. At 2:00, the lead vocal returns for the final section with slightly heightened expressive intensity. The song moves into an unhurried, delicate outro around 2:18, gradually thinning the arrangement until the vocal concludes, leaving a lingering acoustic guitar chord to fade into silence by 2:35.\n\nGENRES: Folk Pop, Singer-Songwriter, Soft Rock, Classic Pop"
+  },
+  "metadata": {
+    "youtube_id": "ZqpysaAo4BQ",
+    "title_extracted": null,
+    "corpus_id": "ZqpysaAo4BQ",
+    "uploader": "The Beatles Stuff",
+    "audio_file": "corpus/01_music_videos_audio/audio/ZqpysaAo4BQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4968778,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.659776,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:55:49Z"
+  },
+  "status": "success",
+  "error": null
+}

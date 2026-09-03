@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Zx06XNfDvk0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Zx06XNfDvk0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Zx06XNfDvk0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Zx06XNfDvk0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a bright, medium-tempo 4/4 pop groove featuring rhythmic piano chords, a melodic bassline, strummed acoustic guitar, and subtle drum kit percussion with hi-hat and gentle snare clicks. A warm brass section introduces a brief melodic fanfare before the arrival of a clear, expressive female lead vocal, positioned prominently in the center of the stereo field with light room reverberation.\n\nAs the first verse progresses, the instrumentation remains relatively intimate, driven by piano, bass, and steady drums. On key thematic cues, punchy brass accents, tambourine hits, and dynamic drum fills enter, raising the overall dynamic intensity. The music transitions smoothly into the chorus, where the texture expands dramatically. Upbeat backing vocal harmonies join in call-and-response patterns, supported by energetic brass counter-melodies, driving snare hits, and full-frequency instrumentation, evoking an optimistic and celebratory mood.\n\nThe second verse thins the texture slightly to re-establish dynamic headroom while maintaining a cheerful, bouncy groove. Gentle guitar comping and piano fills support the lead vocal, which demonstrates smooth melodic phrasing and dynamic control. The chorus returns with heightened energy, featuring prominent brass stabs, shimmering cymbals, and layered backing vocals spread across the stereo image.\n\nFollowing the second chorus, an upbeat instrumental interlude takes center stage. A lively melody played by brass and woodwinds leads the arrangement, accompanied by rhythmic bass and syncopated drum patterns. The lead vocal re-enters for a third verse section, offering a momentary melodic variation before culminating in a final, extended chorus section. Here, the lead and backing vocals alternate playfully against a driving rhythm section and celebratory horn fanfares. The track maintains its upbeat momentum, gradually fading out into the distance as vocal repeats and horn riffs continue over the rhythmic groove.\n\nGENRES: 1960s pop, orchestral pop, sunshine pop"
+  },
+  "metadata": {
+    "youtube_id": "Zx06XNfDvk0",
+    "title_extracted": null,
+    "corpus_id": "Zx06XNfDvk0",
+    "uploader": "AL NUCAHC",
+    "audio_file": "corpus/01_music_videos_audio/audio/Zx06XNfDvk0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5810640,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.738971,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:20:08Z"
+  },
+  "status": "success",
+  "error": null
+}

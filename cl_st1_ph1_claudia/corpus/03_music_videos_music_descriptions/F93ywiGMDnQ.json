@@ -1,0 +1,38 @@
+{
+  "corpus_id": "F93ywiGMDnQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/F93ywiGMDnQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/F93ywiGMDnQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/F93ywiGMDnQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a crisp, driving electronic drum groove set in a four-on-the-floor 4/4 meter at an energetic mid-tempo dance pace. The percussion features a punchy bass drum, sharp snare and clap stabs on beats two and four, and syncopated open and closed hi-hat patterns. A warm, resonant synth bassline anchors the groove alongside subtle electronic textures, punctuated by a brief spoken vocal phrase in the intro. Soon after, a bright, clean electric guitar enters, playing syncopated funk-style strumming patterns panned across the stereo field.\n\nA smooth, expressive male lead vocal enters to signal the verse, positioned prominently in the center of the mix with clean processing, subtle spatial reverb, and gentle compression. The arrangement maintains a driving, upbeat dynamic, propelled by the continuous bass synthesis, syncopated rhythm guitar chugs, and dance beat. Bright synth stabs occasionally accent the harmony, reinforcing a vibrant pop-funk tonal center.\n\nDuring the chorus sections, the sonic texture expands with the addition of multi-tracked, group backing vocals that deliver harmonized melodic hooks and call-and-response phrases panned widely to create a spacious stereo image. The production retains a bright, polished timbre, balancing crisp high-frequency detail on the percussion and guitar strums with a solid low-end presence from the kick drum and synthesizer bass. \n\nThe structure alternates fluidly between verses and choruses, maintaining its steady rhythmic momentum while layering subtle brass-like synth accents and vocal harmonies. In the final section, the arrangement highlights the lush group vocals over the persistent groove, culminating in a short outro where the rhythm section and lead vocal deliver a definitive final phrase before coming to a clean resolution.\n\nGENRES: Synth-Pop, Disco, Funk Pop, Dance-Pop"
+  },
+  "metadata": {
+    "youtube_id": "F93ywiGMDnQ",
+    "title_extracted": null,
+    "corpus_id": "F93ywiGMDnQ",
+    "uploader": "INXS",
+    "audio_file": "corpus/01_music_videos_audio/audio/F93ywiGMDnQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6074418,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.502783,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:01:59Z"
+  },
+  "status": "success",
+  "error": null
+}

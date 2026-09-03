@@ -1,0 +1,38 @@
+{
+  "corpus_id": "8mGBaXPlri8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8mGBaXPlri8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/8mGBaXPlri8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/8mGBaXPlri8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with the sound of rain paired with a soft synth pad swell, before abruptly transitioning around 0:11 into an energetic, uptempo funk-pop/pop-rock groove in a steady 4/4 meter (approx. 118 BPM). The rhythm section features a driving drum beat with a punchy kick and crisp snare, an agile, slap-inflected bassline, and clean, rhythmic electric guitar strumming accompanied by brassy synth stabs and organ accents.\n\nA dynamic female lead vocal enters around 0:22, delivering melodic pop phrasing with bright, polished timbre, enhanced by light reverb, delay, and stereo double-tracking. The music moves between high-energy chorus sections—driven by layered vocal hooks and full-spectrum synth-brass arrangements—and slightly stripped-back verse sections (around 0:34 and 1:50) where the bassline, rhythmic guitar stabs, and vocal melody take prominence.\n\nAt 1:30, an expressive, distorted electric guitar solo dominates the mix, panning centrally with rich sustained tones over the driving rhythm section. The song continues through a second verse and chorus before entering a dramatic bridge around 2:44, characterized by sustained keyboard pads, heavy kick drums, and a soaring vocal performance building emotional tension. This resolves into a high-energy final chorus at 3:05 featuring peak dynamics and dense synth textures.\n\nAt 3:30, the musical arrangement abruptly stops, leaving only the ambient rain sound effect alongside a steady, electronic heart-monitor beeping that gradually slows down and fades into silence by 3:46. Throughout the song, the production utilizes a wide stereo mix, tight compression, and high tonal clarity, creating a lively, polished, and dramatic mood.\n\nGENRES: Funk Pop, Pop Rock, Synth-Pop, Disco-Pop"
+  },
+  "metadata": {
+    "youtube_id": "8mGBaXPlri8",
+    "title_extracted": null,
+    "corpus_id": "8mGBaXPlri8",
+    "uploader": "tatu",
+    "audio_file": "corpus/01_music_videos_audio/audio/8mGBaXPlri8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7249906,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.694057,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:04:27Z"
+  },
+  "status": "success",
+  "error": null
+}

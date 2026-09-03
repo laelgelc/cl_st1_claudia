@@ -1,0 +1,38 @@
+{
+  "corpus_id": "t4QK8RxCAwo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/t4QK8RxCAwo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/t4QK8RxCAwo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/t4QK8RxCAwo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a bright acoustic guitar playing a rhythmic strumming pattern in a 4/4 time signature at a mid-tempo pace. Shortly after, a rock drum kit—featuring steady kick, snare, and hi-hats—enters alongside a melodic bass guitar, establishing a driving, upbeat groove. \n\nA male lead vocalist enters with a gritty, expressive timbre, positioned prominently in the center of the stereo mix with light room reverb. The initial verse maintains a moderate dynamic level, driven primarily by acoustic strumming, clean bass lines, and steady percussion. \n\nAs the arrangement moves toward the chorus, the dynamic intensity swells significantly. Heavy, overdriven electric rhythm guitars enter, panned wide to create an expansive stereo soundstage. The drum performance becomes increasingly forceful, accentuating phrases with crash cymbals and active snare fills. The lead vocalist shifts into a higher, belted register, supported by layered backing vocal harmonies that enhance the anthemic feel. \n\nInstrumental sections feature a soaring lead electric guitar solo characterized by sustained bends, vibrato, and an overdriven tone processed with delay and hall reverb. The track strategically contrasts these high-energy moments with a brief breakdown section, dropping back to a sparser, acoustic-led texture before re-building into the full-band chorus. \n\nThroughout the piece, the tonal center remains firmly in a bright major key, evoking an optimistic and nostalgic mood. The production style is polished and punchy, balancing crisp high-end guitar transients with a thick, supportive low-end foundation.\n\nGENRES: classic rock, pop rock, arena rock, hard rock"
+  },
+  "metadata": {
+    "youtube_id": "t4QK8RxCAwo",
+    "title_extracted": null,
+    "corpus_id": "t4QK8RxCAwo",
+    "uploader": "BOSTON",
+    "audio_file": "corpus/01_music_videos_audio/audio/t4QK8RxCAwo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6930398,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.776565,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:32:26Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "dzIUgS3Imu0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/dzIUgS3Imu0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/dzIUgS3Imu0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/dzIUgS3Imu0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a slow, soulful compound meter (12/8 feel) blues groove initiated by a clean, warm electric guitar playing rhythmic chord stabs and subtle melodic licks. A steady, melodic bassline and a crisp drum kit playing a relaxed backbeat with gentle cymbal work join immediately, accompanied by low-profile electric organ chords that provide harmonic padding.\n\nAn expressive female lead vocalist enters shortly after, delivering a deeply emotional performance characterized by a wide dynamic range, moving seamlessly from intimate, breathy phrasing to powerful, raspy belting in her high register with pronounced vibrato. The vocal processing is clean and natural, featuring gentle compression and subtle plate or room reverb. In the stereo image, the lead vocal and bass guitar are positioned prominently in the center, while the electric guitar and organ are subtly panned across the sides, and the drum kit occupies a wide stereo field.\n\nAs the structure transitions from verse to chorus-like refrain sections, the emotional weight and volume increase. The lead vocal grows progressively more fiery and dramatic, incorporating bluesy melismas and expressive vocal rasps. The backing band mirrors this dynamic swell: the drums hit with greater force, the bassline becomes more prominent, and the guitar plays punchier rhythmic accents and responsive lead licks that fill the spaces between vocal phrases.\n\nThe latter portion of the track functions as an extended, highly energetic outro climax. Here, the vocal performance reaches maximum dynamic intensity with soaring, improvised ad-libs and soul shouting. The electric guitar engages in active call-and-response melodic fills against the vocal lines. The overall texture is rich, warm, and vintage in tone, conveying a dramatic, passionate, and mournful mood. The track maintains its steady, swinging rhythm until it smoothly fades out to complete the recording.\n\nGENRES: Soul, Blues, Rhythm and Blues"
+  },
+  "metadata": {
+    "youtube_id": "dzIUgS3Imu0",
+    "title_extracted": null,
+    "corpus_id": "dzIUgS3Imu0",
+    "uploader": "Aretha Franklin",
+    "audio_file": "corpus/01_music_videos_audio/audio/dzIUgS3Imu0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5499306,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.461921,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:10:26Z"
+  },
+  "status": "success",
+  "error": null
+}

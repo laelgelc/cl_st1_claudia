@@ -1,0 +1,38 @@
+{
+  "corpus_id": "AINTOW_hZlw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/AINTOW_hZlw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/AINTOW_hZlw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/AINTOW_hZlw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a solo electric piano playing warm, ringing chords in a relaxed, mid-tempo 4/4 meter. An acoustic guitar briefly joins, followed by a smooth drum beat with gentle hi-hat accents and a deep bass guitar line, establishing a comfortable, laid-back groove.\n\nA lead male vocalist enters with a warm, soulful, and slightly raspy timbre, delivering melodic phrases over the steady rhythm section. The soundscape feels intimate, with the electric piano and acoustic guitar panned across the stereo field while the lead vocal, kick, and bass remain centered. As the verse progresses, the dynamics subtly elevate, leading into a passionate chorus section where a prominent backing vocal group provides lush, multi-part harmonies that respond to and complement the lead vocal's belting style. Electric guitar fills add subtle bluesy accent lines between vocal phrases.\n\nThe second verse returns to a slightly more restrained dynamic, retaining the solid drum beat, driving bassline, and keyboard accompaniment while the lead vocal resumes its reflective, expressive delivery. The dynamic tension builds once more into the second chorus, reintroducing the powerful harmonized backing vocal refrain, full drum crashes, and energetic guitar strums.\n\nA transitional bridge follows, featuring a slight harmonic shift and a more spacious arrangement. The lead vocal sings with heightened emotional nuance, accompanied by expressive electric guitar fills that respond to the vocal lines. Building gradually, the arrangement gathers momentum with rising percussion, swelling backing vocals, and continuous guitar licks, seamlessly transitioning into an extended final chorus.\n\nDuring this concluding section, the lead singer performs enthusiastic improvisational vocal runs and ad-libs over the repeating harmonized chorus hook. The instrumentation maintains an uplifting, full-textured groove with active bass movement and detailed guitar embellishments until the track slowly fades out to complete silence.\n\nGENRES: soft rock, soul, rhythm and blues, pop rock"
+  },
+  "metadata": {
+    "youtube_id": "AINTOW_hZlw",
+    "title_extracted": null,
+    "corpus_id": "AINTOW_hZlw",
+    "uploader": "Music",
+    "audio_file": "corpus/01_music_videos_audio/audio/AINTOW_hZlw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8198022,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.13905,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:06:12Z"
+  },
+  "status": "success",
+  "error": null
+}

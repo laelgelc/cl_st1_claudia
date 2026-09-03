@@ -1,0 +1,38 @@
+{
+  "corpus_id": "l3LFML_pxlY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/l3LFML_pxlY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/l3LFML_pxlY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/l3LFML_pxlY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a warm, close-miked acoustic guitar executing an intricate fingerpicked arpeggio pattern in a steady, mid-tempo duple meter. A solo male lead vocal enters, characterized by an intimate, narrative, and resonant tone positioned centrally in the stereo image with gentle spatial reverb. The harmonic framework relies on a grounded major key progression, maintaining a relaxed, organic acoustic feel through the early verses.\n\nAs the track develops, a wordless vocal refrain featuring multi-part harmonies joins the lead vocal, expanding the stereo field and elevating the overall dynamic intensity. Around the mid-section, a high-register woodwind instrument, sounding like a recorder or wooden flute, enters with a bright, expressive countermelody that weaves through the ongoing fingerpicked guitar lines, enhancing the song's melodic interplay and timbral variety.\n\nThe arrangement reaches its dramatic climax in the final movement, marked by a powerful dynamic surge. Full percussion enters with emphatic kick drum strikes, snare hits, and shimmering cymbal crashes, accompanied by rich brass instrumentation and a thick, multi-layered chorus of backing voices singing the main melodic refrain. This transformation converts the hitherto intimate folk texture into a lush, dense, and expansive soundscape with heavy reverb and broad stereo separation. \n\nAfter sustaining this majestic, polyphonic peak, the dense instrumentation quickly subsides, returning the piece to a delicate solo acoustic guitar fingerpicking motif. The final sequence gently decelerates dynamically and harmonically, concluding on a quiet acoustic note.\n\nGENRES: folk, folk rock, singer-songwriter"
+  },
+  "metadata": {
+    "youtube_id": "l3LFML_pxlY",
+    "title_extracted": null,
+    "corpus_id": "l3LFML_pxlY",
+    "uploader": "Simon & Garfunkel",
+    "audio_file": "corpus/01_music_videos_audio/audio/l3LFML_pxlY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9879518,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.281241,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:31:28Z"
+  },
+  "status": "success",
+  "error": null
+}

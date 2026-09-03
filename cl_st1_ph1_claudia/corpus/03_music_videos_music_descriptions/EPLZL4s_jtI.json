@@ -1,0 +1,38 @@
+{
+  "corpus_id": "EPLZL4s_jtI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/EPLZL4s_jtI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/EPLZL4s_jtI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/EPLZL4s_jtI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a rhythmic, percussive steel-string acoustic guitar performing an upbeat blues shuffle riff in a fast 4/4 meter. The guitar timbre is bright yet warm, characterized by syncopated bass-note plucking and energetic chord strumming. At 0:17, percussive accompaniment enters—consisting of a steady kick drum, crisp snare accents, a shaker, and syncopated handclaps—establishing a driving swing groove. Short bluesy acoustic guitar lead riffs punctuate the rhythm before a descending bass slide at 1:21 establishes a continuous walking bassline.\n\nAt 1:37, a male lead vocal enters with a raspy, gravelly, and expressive timbre, delivering soulful blues phrases accented by dynamic pitch bends and vocal slides. The accompaniment maintains a steady 12-bar blues structure beneath the vocals, with acoustic guitar fills responding in the pauses between vocal phrases. \n\nAt 3:30, the texture expands with the addition of a lively group chorus performing rhythmic call-and-response vocals. A brief spoken interlude and audience-style banter occur around 4:20, after which the music resumes into an intense, gospel-influenced blues section. The backing vocalists chant rhythmic phrases in unison, creating an energetic crowd dynamic alongside persistent handclaps, driving drum work, and active bass movement. \n\nFrom 5:53 onward, the performance reaches its dynamic peak as the lead vocalist shouts bluesy exclamations over the continuous call-and-response pattern. The texture remains dense and driving until the performance concludes on a strong rhythmic cadence, leaving a short natural acoustic decay. The recording style is raw and acoustic, featuring modest room reverb and a balanced stereo field that places the lead vocal and acoustic guitar prominently in the center.\n\nGENRES: Acoustic Blues, Rhythm and Blues, Rock 'n' Roll, Blues"
+  },
+  "metadata": {
+    "youtube_id": "EPLZL4s_jtI",
+    "title_extracted": null,
+    "corpus_id": "EPLZL4s_jtI",
+    "uploader": "Classic Mood Experience",
+    "audio_file": "corpus/01_music_videos_audio/audio/EPLZL4s_jtI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 12387274,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 7.841785,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:52:08Z"
+  },
+  "status": "success",
+  "error": null
+}

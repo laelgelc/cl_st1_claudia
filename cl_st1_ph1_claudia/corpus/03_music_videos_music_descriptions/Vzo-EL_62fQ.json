@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Vzo-EL_62fQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Vzo-EL_62fQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Vzo-EL_62fQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Vzo-EL_62fQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an atmospheric urban soundscape featuring ambient city traffic, a passing siren, and distant wind noise, accompanied by a low-frequency sub-bass drone and ambient vocalizing in a wide reverb field. At 0:25, a mid-tempo electronic pop beat in a clear 4/4 meter enters, established by a punchy syncopated kick drum, crisp snare claps on beats two and four, steady hi-hat patterns, and a warm, pulsating synth bassline. Lush, polyphonic synth pads and subtle keyboard chords fill the stereo panorama, creating a polished, atmospheric harmonic backdrop. \n\nA female lead vocal enters with an expressive, soulful timbre, placed prominently in the center of the stereo mix. Her performance demonstrates significant dynamic variation, transitioning from intimate, delicate phrasing in the verses to resonant, belted vocal runs in her upper register during the elevated sections. Lead vocals are polished with smooth compression, stereo delay throws, and spacious hall reverb, complemented by multi-tracked backing harmonies spread wide across the stereo field. \n\nAs the track progresses through its verse, pre-chorus, and chorus sections, the arrangement builds systematically in energy and texture. The pre-chorus transitions introduce additional percussive layers, such as shakers and subtle synth risers, driving momentum into the full choruses where the soundscape expands with dense synthesizer chords and soaring layered harmonies. A dramatic climax occurs around 3:00, marked by passionate vocal ad-libs and peak dynamic intensity. \n\nAt 4:12, the driving drum groove and bassline strip away, leaving the lead vocal to linger over decaying synth chords and long reverb tails. The recording concludes between 4:28 and 4:38 with an ambient sound effect of howling wind fading into silence.\n\nGENRES: Pop, Contemporary R&B, Synth-Pop"
+  },
+  "metadata": {
+    "youtube_id": "Vzo-EL_62fQ",
+    "title_extracted": null,
+    "corpus_id": "Vzo-EL_62fQ",
+    "uploader": "leonalewis",
+    "audio_file": "corpus/01_music_videos_audio/audio/Vzo-EL_62fQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8926944,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.126146,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:15:07Z"
+  },
+  "status": "success",
+  "error": null
+}

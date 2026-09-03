@@ -1,0 +1,38 @@
+{
+  "corpus_id": "HivQqTtiHVw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/HivQqTtiHVw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/HivQqTtiHVw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/HivQqTtiHVw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief rhythmic drum count-in and percussive guitar scrapes before exploding into a fast-tempo, upbeat pop-rock groove in 4/4 meter. The instrumentation consists of a full acoustic drum kit, a melodic bass guitar, crunchy rhythm electric guitars, overdriven lead guitars, and prominent male vocals.\n\nIn the verses, the rhythm section maintains a driving, danceable rhythm characterized by punchy snare hits, steady hi-hats, and a syncopated bassline. The lead male vocalist enters with an expressive, slightly raspy vocal tone placed prominently in the center of the stereo mix with light room reverb. Strummed electric guitars, panned left and right, supply a solid harmonic foundation and crisp rhythmic propulsion.\n\nAs the track transitions into the chorus sections, the dynamics swell and the arrangement becomes significantly denser. Layered, high-pitched backing vocals enter, engaging in call-and-response harmonies with the lead singer. This adds bright vocal texture and expands the stereo field. The harmonic progression remains rooted in a bright, major-key tonality, enhancing the energetic, optimistic mood.\n\nMidway through the song, an instrumental interlude features an overdriven lead electric guitar solo. The guitar exhibits a classic vintage tone with expressive bends, vibrato, and bluesy melodic lines, while the rhythm section sustains the energetic momentum underneath. Following a subsequent verse and chorus repetition, the track moves into an extended outro vamp. The outro builds on repeating vocal hooks and buoyant guitar fills, maintaining high dynamic intensity before a gradual fade-out ends the track.\n\nThroughout, the production reflects a classic analog rock aesthetic, characterized by clear instrument separation, warm low-end bass presence, crisp percussion, and spatial depth created through stereo panning and subtle reverb effects.\n\nGENRES: Rock, Pop Rock, New Wave, Glam Rock"
+  },
+  "metadata": {
+    "youtube_id": "HivQqTtiHVw",
+    "title_extracted": null,
+    "corpus_id": "HivQqTtiHVw",
+    "uploader": "David Bowie",
+    "audio_file": "corpus/01_music_videos_audio/audio/HivQqTtiHVw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7275168,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.660034,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:11:19Z"
+  },
+  "status": "success",
+  "error": null
+}

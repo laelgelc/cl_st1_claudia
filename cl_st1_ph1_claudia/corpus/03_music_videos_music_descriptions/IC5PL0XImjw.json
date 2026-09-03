@@ -1,0 +1,38 @@
+{
+  "corpus_id": "IC5PL0XImjw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/IC5PL0XImjw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/IC5PL0XImjw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/IC5PL0XImjw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens in a bright, driving 4/4 meter at an upbeat allegro tempo with a soul arrangement. The groove is immediately established by a syncopated combination of crisp snare drum hits, a steady eighth-note tambourine pulse, an active, highly melodic bassline, strummed rhythm guitars panned across the stereo field, and shimmering glockenspiel accents. Lush orchestral string ostinatos swell above the rhythm section, introducing a warm, expansive texture enriched by subtle plate reverb and vintage analog-style warmth.\n\nA male lead vocal enters with a soulful, expressive timbre, quickly joined and complemented by a clear, powerful female lead voice. The two singers engage in alternating call-and-response phrases and close-harmony duets throughout the verses. The arrangement maintains a dense, layered texture as punchy brass stabs, soaring string countermelodies, and crisp percussive fills continuously swell beneath the vocal lines. The dynamic level builds steadily from a medium-loud verse into a fuller, triumphant chorus where the harmonized leads reach a vocal peak amidst rich orchestral backing.\n\nAs the track progresses through a second verse and chorus, the driving rhythm section remains steady, anchored by the walking bassline and prominent tambourine. The bridge section introduces a shift in harmonic tension, highlighting the female lead's soaring vocal delivery over sustained string chords before building back up with rhythmic brass accents and drum fills. A key modulation elevates the final chorus, pushing the dynamic intensity to its peak while both vocalists perform expressive ad-libbed phrases over the repeating chorus motif.\n\nAround 02:21, the musical arrangement quickly fades out, transitioning into a dry, spoken-word clip from a male speaker reflecting on early musical memories. The spoken audio features a clean, intimate vocal tone with minimal reverberation, providing a stark dynamic contrast to the preceding full-band production.\n\nGENRES: Soul, Motown, Rhythm and Blues, Pop Soul"
+  },
+  "metadata": {
+    "youtube_id": "IC5PL0XImjw",
+    "title_extracted": null,
+    "corpus_id": "IC5PL0XImjw",
+    "uploader": "Doc Rudy | Soul Studios",
+    "audio_file": "corpus/01_music_videos_audio/audio/IC5PL0XImjw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5225126,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.970915,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:29:50Z"
+  },
+  "status": "success",
+  "error": null
+}

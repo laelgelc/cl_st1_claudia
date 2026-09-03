@@ -1,0 +1,38 @@
+{
+  "corpus_id": "n-XQ26KePUQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/n-XQ26KePUQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/n-XQ26KePUQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/n-XQ26KePUQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with an acoustic guitar playing a syncopated rhythmic pattern in a bright major key at a moderate 4/4 tempo, accompanied immediately by a warm electric bassline and a gentle percussion groove consisting of a continuous shaker and soft snare rimshots. \n\nAt 0:03, a male lead vocal enters centrally with a smooth, warm tone enhanced by subtle studio reverb. The arrangement maintains an intimate, acoustic-driven texture where the strumming guitar and root-fifth bass movement provide the harmonic foundation. As the music transitions into the refrain around 0:33, stereo-panned backing vocals enter to deliver call-and-response harmonies, creating a richer texture and a slight lift in dynamic energy.\n\nAround 1:00, the texture thins briefly during a conversational bridge section, featuring a softer, near-spoken vocal delivery set against relaxed guitar picking and steady bass notes. The full rhythmic momentum returns at 1:16 with the second verse, where the continuous shaker and rimshot pattern maintain a subtle Latin-influenced or country-pop swing groove. \n\nAt 1:46, an instrumental solo takes center stage, played on a bright acoustic guitar or mandolin using articulate picking, quick decorative ornaments, and melodic phrasing over the established rhythm section. The vocal re-enters at 2:00 for the final chorus section, delivering the main melodic hook alongside expressive ad-libs. Backing vocal harmonies swell in the background to reinforce the refrain, while the rhythmic pattern continues steadily underneath. The track enters a gradual fade-out starting around 2:15, bringing the song to a gentle close by 2:28.\n\nThroughout the recording, the production style is warm, organic, and well-balanced, featuring clean stereo separation and an uplifting, romantic, and nostalgic emotional tone.\n\nGENRES: Country, Pop, Acoustic, Folk"
+  },
+  "metadata": {
+    "youtube_id": "n-XQ26KePUQ",
+    "title_extracted": null,
+    "corpus_id": "n-XQ26KePUQ",
+    "uploader": "dannypsych",
+    "audio_file": "corpus/01_music_videos_audio/audio/n-XQ26KePUQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4768156,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.73011,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:11:33Z"
+  },
+  "status": "success",
+  "error": null
+}

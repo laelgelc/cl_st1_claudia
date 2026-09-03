@@ -1,0 +1,38 @@
+{
+  "corpus_id": "zUtnwcv-quE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/zUtnwcv-quE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/zUtnwcv-quE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/zUtnwcv-quE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief spoken reggae-style vocal intro that immediately transitions into a vibrant, mid-tempo funk-pop and reggae fusion groove in a steady 4/4 meter. The rhythmic foundation consists of a syncopated drum kit beat—characterized by crisp snare hits on beats two and four, active hi-hat patterns, and a punchy kick drum—complemented by a warm, melodic electric bassline that provides continuous harmonic drive. Clean, rhythmic electric guitar chords and subtle wah-pedal embellishments weave through the stereo field, accompanied by soft keyboard textures.\n\nThe song’s texture features a compelling duality in vocal arrangement: a smooth, clean male lead singer delivers melodic pop/soul lines across the verses and chorus, while a energetic, rhythm-focused dancehall/reggae toast vocal operates as an overlay, offering interjections, call-and-response ad-libs, and a dedicated verse section. During the chorus sections, the main lead vocal elevates in pitch and intensity, supported by layered background vocal harmonies that widen the stereo presentation. Subtle spatial effects, including short vocal delays and reverb, give the mix a polished, spacious modern production aesthetic.\n\nSectionally, the piece alternates between dynamic verses and high-energy chorus cycles. Around two minutes in, the arrangement strips back slightly to highlight a dense, rapid-fire toasting vocal verse over the driving bass and drum groove. This transitions through a concise drum break into a final, extended chorus section where soaring lead singing and spirited vocal ad-libs interact until the track gradually fades out. The overarching mood is upbeat, summer-like, and uplifting, characterized by bright timbres, a balanced stereo image, and an engaging, danceable groove from start to finish.\n\nGENRES: pop rock, reggae fusion, funk pop, hip hop"
+  },
+  "metadata": {
+    "youtube_id": "zUtnwcv-quE",
+    "title_extracted": null,
+    "corpus_id": "zUtnwcv-quE",
+    "uploader": "Sugar Ray Videos",
+    "audio_file": "corpus/01_music_videos_audio/audio/zUtnwcv-quE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8084338,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.011442,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:16:31Z"
+  },
+  "status": "success",
+  "error": null
+}

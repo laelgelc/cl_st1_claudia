@@ -1,0 +1,38 @@
+{
+  "corpus_id": "-DQdB7dTm1A",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/-DQdB7dTm1A.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/-DQdB7dTm1A.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/-DQdB7dTm1A.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a slow, reflective introduction in 4/4 meter, featuring clean electric guitar arpeggios, a sustained organ pad, a warm electric bass line, and a steady, laid-back drum groove with soft snare rimshots and crisp hi-hat accents. The harmonic backdrop establishes a soulful, blues-influenced minor tonality with a warm, lush texture and gentle spatial reverb.\n\nAt approximately 0:24, a raspy, soulful male lead vocal enters, positioned prominently in the center of the stereo mix with subtle reverb. The organ and bass support the melody with smooth chordal pads while the electric guitar provides bluesy fills in the background. The overall dynamics expand around 0:59 into a chorus section, highlighted by layered backing vocal harmonies, fuller drum backbeats, and swelling organ warmth.\n\nThe second verse begins around 1:20, retaining the established tempo and rhythm while incorporating a brief vinyl turntable scratch effect near 1:27, introducing a subtle modern production accent to the arrangement. This leads smoothly into a repeated chorus section at 1:56 with lush vocal harmonies and resonant cymbal crashes.\n\nA brief instrumental interlude appears at 2:16, driven by sustained brass and keyboard chords before yielding to the third verse at 2:38. The lead vocal resumes its gritty, emotive delivery over the steady rhythm section. The chorus returns once more at 3:15, achieving the section's dynamic climax with full instrumental texture.\n\nAround 3:36, the song transitions into an extended instrumental outro centered on a soaring electric guitar solo. The lead guitar features a warm, overdriven timbre with expressive bends and vibrato, panned clearly across the stereo field. The rhythm section maintains a grounded, steady groove until the recording slowly fades out to a close.\n\nGENRES: blues rock, soul rock, ballad, pop rock"
+  },
+  "metadata": {
+    "youtube_id": "-DQdB7dTm1A",
+    "title_extracted": null,
+    "corpus_id": "-DQdB7dTm1A",
+    "uploader": "Cream - Band",
+    "audio_file": "corpus/01_music_videos_audio/audio/-DQdB7dTm1A.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9612768,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 46.674236,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:14:20Z"
+  },
+  "status": "success",
+  "error": null
+}

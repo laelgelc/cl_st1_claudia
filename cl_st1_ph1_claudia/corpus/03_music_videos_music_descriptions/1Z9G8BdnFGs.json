@@ -1,0 +1,38 @@
+{
+  "corpus_id": "1Z9G8BdnFGs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/1Z9G8BdnFGs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/1Z9G8BdnFGs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/1Z9G8BdnFGs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a mid-tempo, 4/4 pop-rock groove driven by clean rhythmic guitar strumming, a warm and syncopated bassline, and steady drums with crisp hi-hats and a punchy backbeat snare. A brief percussion scratch leads into the entry of an expressive lead female vocal at the center of the stereo mix. Her vocal tone is warm and smooth, rendered with mild reverb and subtle room delay, rising into double-tracked vocal layers during higher melodic peaks.\n\nThe structure flows seamlessly between rhythmic verses and energetic choruses. The verses maintain a moderate dynamic level with sparse chordal guitar work and an active bassline providing momentum. The choruses swell dynamically, introducing layered electric guitars with light overdrive panned across the stereo field, accentuating the uplifting harmonic progression. Short guitar licks serve as transitional bridges between sections, such as a punchy solo motif around one minute into the track.\n\nA prominent focal point occurs past the middle mark with an extended instrumental bridge. Here, an overdriven lead electric guitar takes center stage, delivering a melodic, blues-influenced solo characterized by smooth vibrato and expressive bends. Underneath, sustained keyboard or organ pads swell to fill out the mid-range texture while the drum kit executes energetic fills.\n\nIn the final third, the arrangement reaches its dynamic climax. A dramatic, spoken-word vocal overlay enters above the lush, dense instrumental backing, accompanied by sustained electric guitar chords and driving percussion. The mix maintains excellent clarity and depth throughout, balancing centered drums, bass, and vocals with wide-panned guitars. The overall mood is confident, nostalgic, and energetic, blending retro indie pop and pop-rock sensibilities into a polished, cohesive production.\n\nGENRES: Indie Pop, Pop Rock, Retro Pop, Alternative Rock"
+  },
+  "metadata": {
+    "youtube_id": "1Z9G8BdnFGs",
+    "title_extracted": null,
+    "corpus_id": "1Z9G8BdnFGs",
+    "uploader": "Robert Allen",
+    "audio_file": "corpus/01_music_videos_audio/audio/1Z9G8BdnFGs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8290902,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.68652,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:28:26Z"
+  },
+  "status": "success",
+  "error": null
+}

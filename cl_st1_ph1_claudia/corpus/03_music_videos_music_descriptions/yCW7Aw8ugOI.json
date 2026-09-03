@@ -1,0 +1,38 @@
+{
+  "corpus_id": "yCW7Aw8ugOI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yCW7Aw8ugOI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/yCW7Aw8ugOI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/yCW7Aw8ugOI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a rapid spoken count-in followed immediately by a wall of fast, driving rock instrumentation. Set in a brisk 4/4 meter, the recording maintains a relentless, upbeat tempo and a consistently loud dynamic level from start to finish. The instrumentation comprises heavily distorted electric rhythm guitars, a thick electric bass line, a punchy acoustic drum kit, a gravelly male lead vocal, and energetic shouted group backing vocals.\n\nThe rhythm section establishes a continuous, driving groove. The drum performance relies on straight, energetic beat patterns with hard snare hits on beats two and four, paired with constant cymbal washes and crisp fill transitions between sections. Rhythm guitars execute rapid, uninterrupted eighth-note power-chord strums that outline a simple, major-key harmonic progression. \n\nThe male lead vocal takes center stage with a raw, unpolished, and melodic punk delivery, treated with subtle room reverb. In the chorus sections, shouted gang vocals enter in call-and-response fashion, adding an anthemic, communal texture to the vocal arrangement. \n\nStructurally, the piece alternates between brief verses and catchy, highly repetitive choruses. Two distinct instrumental breaks feature a single-note electric guitar melody that cuts through the dense backing track with a slightly brighter, punchy guitar tone. Production-wise, the mix favors a raw, vintage style with wide stereo guitar panning, a centrally focused bass and lead vocal, and a natural, live soundstage. The energy remains unflagging throughout, leading into a final extended chorus section before resolving abruptly on a ringing guitar chord and cymbal decay. The emotional character is defiant, optimistic, and fiercely energetic.\n\nGENRES: Punk Rock, Pop Punk, Garage Rock"
+  },
+  "metadata": {
+    "youtube_id": "yCW7Aw8ugOI",
+    "title_extracted": null,
+    "corpus_id": "yCW7Aw8ugOI",
+    "uploader": "Ramones",
+    "audio_file": "corpus/01_music_videos_audio/audio/yCW7Aw8ugOI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5545376,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 26.385931,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:50:15Z"
+  },
+  "status": "success",
+  "error": null
+}

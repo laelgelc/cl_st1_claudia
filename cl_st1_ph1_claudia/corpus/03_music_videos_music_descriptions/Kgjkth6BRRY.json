@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Kgjkth6BRRY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Kgjkth6BRRY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Kgjkth6BRRY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Kgjkth6BRRY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief low-fidelity spoken dialogue clip featuring ambient crowd noise, laughter, and camera shutter sound effects. At 0:09, this abruptly transitions into an upbeat, high-energy pop and hip-hop dance groove set to a steady 4/4 meter at a moderate-fast tempo. The rhythm section is driven by a heavy, punchy electronic kick drum, crisp snares on beats two and four, and tight syncopated percussion. A repetitive, rhythmically sliced female vocal hook dominates the foreground, processed with delay and wide stereo panning.\n\nAt 0:30, a funky, plucked electric bassline and clean electric guitar chords enter, establishing a bright, bouncy harmonic foundation. A solo female vocal takes the lead, delivering verses with a rhythmic, speech-like cadence that conveys a confident and playful mood. The lead vocal production is crisp and dry, positioned centrally in the mix while short vocal ad-libs and doubled harmonies fill the stereo field.\n\nThe track alternates between dense chorus sections—where the punchy bass, energetic drum groove, and stacked vocal hooks merge—and slightly pared-back verse sections where the instrumental arrangement thins to emphasize the lead narrative. Synthesizer stabs and brass-like accents provide harmonic color and accentuate section transitions throughout.\n\nAround 2:32, the arrangement drops into a rhythmic breakdown featuring a group-chanted vocal segment set over a stripped-back percussion beat and active bassline, creating a buoyant call-and-response dynamic. At 2:50, the full instrumental texture re-engages for a final chorus, maximizing energy and textural density. The track concludes as the funky bassline and drum groove play out briefly before coming to a clean stop.\n\nGENRES: Pop, Hip Hop, Dance-Pop, Funk Pop"
+  },
+  "metadata": {
+    "youtube_id": "Kgjkth6BRRY",
+    "title_extracted": null,
+    "corpus_id": "Kgjkth6BRRY",
+    "uploader": "Gwen Stefani",
+    "audio_file": "corpus/01_music_videos_audio/audio/Kgjkth6BRRY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6725320,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.106456,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:48:23Z"
+  },
+  "status": "success",
+  "error": null
+}

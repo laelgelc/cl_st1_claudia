@@ -1,0 +1,38 @@
+{
+  "corpus_id": "VdQY7BusJNU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/VdQY7BusJNU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/VdQY7BusJNU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/VdQY7BusJNU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a vintage cinematic prologue featuring dramatic spoken dialogue between a man and a woman set against a sweeping, romantic orchestral score with lush strings and soft woodwinds. This prologue exhibits a compressed, low-pass filtered audio profile with prominent vinyl crackle and tape hiss, constrained to a narrow stereo field.\n\nAt 00:43, an abrupt transition introduces a modern, mid-tempo track in 4/4 meter centered around a relaxed, rhythmic groove. A warm, melodious electric bass guitar enters alongside clean acoustic-electric guitar strumming and a steady drum pattern featuring a soft kick, crisp hi-hats, and a subtle rimshot. An intimate, airy female lead vocal enters shortly after, panned centrally with smooth plate reverb and gentle slapback delay.\n\nAs the track develops into the chorus, the dynamic energy gently elevates. The soundscape expands across the stereo field with lush, double-tracked vocal harmonies, warm ambient synth pads, and melodic electric guitar counter-lines. The harmony revolves around a nostalgic, major-key chord progression that conveys a bittersweet and reflective mood. \n\nDuring the second verse and subsequent bridge sections, expressive electric guitar fills boasting soft overdrive and long reverb tails weave between vocal phrases. The rhythm section maintains a consistent, head-nodding pulse that grounds the composition. Towards the outro, the vocal intensity softens into repeated refrain fragments while the instrumentation gradually thins. The song closes with a gradual decrescendo, fading out softly on lingering bass notes, gentle guitar strums, and decaying reverb tails.\n\nGENRES: Pop, Indie Pop, Synth-pop, Lo-Fi, R&B"
+  },
+  "metadata": {
+    "youtube_id": "VdQY7BusJNU",
+    "title_extracted": null,
+    "corpus_id": "VdQY7BusJNU",
+    "uploader": "Cyndi Lauper",
+    "audio_file": "corpus/01_music_videos_audio/audio/VdQY7BusJNU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9505028,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.701535,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:01:19Z"
+  },
+  "status": "success",
+  "error": null
+}

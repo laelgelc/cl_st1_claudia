@@ -1,0 +1,38 @@
+{
+  "corpus_id": "e-ORhEE9VVg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/e-ORhEE9VVg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/e-ORhEE9VVg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/e-ORhEE9VVg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief instrumental introduction featuring a warm synth pad and a syncopated mid-tempo electronic drum beat set in a 4/4 meter at approximately 96 BPM. At 0:03, a solo female lead vocal enters, delivering a rhythmic and melodic verse over a sparse groove driven by sub-bass, kick drum, crisp claps/rimshots, and tight hi-hats. The vocal tone is intimate and clear, treated with moderate spatial reverb and light delay that give it a polished, modern pop feel.\n\nAt 0:48, the music swells into a dynamic chorus. The dynamic level increases significantly as the arrangement expands to include wide, stereo-panned backing vocal harmonies, punchier drum hits, and a heavy, resonant synth bass. The texture becomes dense and bright, providing a strong narrative contrast to the more restrained verse. A brief instrumental interlude at 1:26 maintains the driving rhythm before the second verse begins at 1:33, where the accompaniment thins out to refocus attention on the lead vocal line alongside subtle synth plucks.\n\nThe second chorus enters at 2:13, reinstating the full stereo width, heavy sub-bass foundation, and multi-layered vocal arrangements. At 2:52, a bridge section introduces a breakdown in texture; the rhythm shifts, and the vocal delivery becomes increasingly expressive and dramatic over atmospheric background pads. \n\nThe production reaches its climax at 3:13 with the final chorus, featuring peak dynamic volume, additional high-register vocal ad-libs, and rich harmonic layering. At 3:55, the vocal performance concludes, leaving the instrumental groove and bass pattern to form an outro that smoothly concludes the track. Throughout, the mix exhibits clean separation, balanced low-end depth, and a vibrant, polished pop aesthetic.\n\nGENRES: Pop, Electropop, Contemporary R&B, Synth-Pop"
+  },
+  "metadata": {
+    "youtube_id": "e-ORhEE9VVg",
+    "title_extracted": null,
+    "corpus_id": "e-ORhEE9VVg",
+    "uploader": "Taylor Swift",
+    "audio_file": "corpus/01_music_videos_audio/audio/e-ORhEE9VVg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8719636,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.583511,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:44:34Z"
+  },
+  "status": "success",
+  "error": null
+}

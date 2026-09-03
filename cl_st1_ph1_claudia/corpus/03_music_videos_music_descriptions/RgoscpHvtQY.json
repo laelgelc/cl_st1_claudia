@@ -1,0 +1,38 @@
+{
+  "corpus_id": "RgoscpHvtQY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/RgoscpHvtQY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/RgoscpHvtQY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/RgoscpHvtQY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief intro featuring clean electric guitar fingerpicking and soft piano chordal accompaniment bathed in a warm, reverberant space. At 0:03, an emotive male lead vocalist enters with an intimate, expressive delivery. At 0:07, a smooth, relaxed bass guitar and a soft drum kit—playing a steady pattern of kick, crisp rimshots, and gentle hi-hats—enter to establish a slow-tempo soul ballad groove in 4/4 meter with a distinct triplet subdivision feel.\n\nThroughout the initial verses, the rhythm section maintains a laid-back, swinging pulse. The lead vocal is positioned front and center in the stereo field, processed with a subtle vintage plate reverb and short stereo delay that enhance its depth and warmth. The underlying harmonic movement follows a classic major-key soul progression, supported by clean electric guitar chording, electric piano embellishments, and gentle organ swells that provide warm harmonic padding from approximately 0:37 onward.\n\nThe dynamic intensity rises during the refrain sections (beginning around 1:05 and returning at 2:00). During these passages, the lead vocalist shifts from an intimate tone to a passionate, raspy soul belt, delivering expansive vocal slides, bluesy ornaments, and emotional melismas. The bass delivers a full, rounded low-end foundation in the center of the mix, while the guitar and organ broaden the stereo field on either side.\n\nThe production style exhibits a warm, vintage analog quality with a mid-focused frequency balance, smooth tape saturation, and natural dynamics. Structurally, the track moves through verse and refrain sections before reaching its emotional peak between 2:00 and 2:40, where the vocalist engages in impassioned improvisational vamping over a repeating chord cycle as the recording slowly fades out.\n\nGENRES: Soul, Rhythm and Blues, Deep Soul, Ballad"
+  },
+  "metadata": {
+    "youtube_id": "RgoscpHvtQY",
+    "title_extracted": null,
+    "corpus_id": "RgoscpHvtQY",
+    "uploader": "Aaron Neville",
+    "audio_file": "corpus/01_music_videos_audio/audio/RgoscpHvtQY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5310574,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 22.523835,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:08:59Z"
+  },
+  "status": "success",
+  "error": null
+}

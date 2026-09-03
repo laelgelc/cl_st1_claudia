@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Q2FzZSBD5LE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Q2FzZSBD5LE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Q2FzZSBD5LE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Q2FzZSBD5LE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with faint ambient noise and subtle percussion clicks before a solitary electric guitar establishes a syncopated, minor-key riff in 4/4 meter at a steady, mid-tempo groove. Shortly thereafter, a complete rhythm section joins, featuring a warm, melodic bassline and crisp drums with prominent snare backbeats, ghost notes, and open hi-hat accents, solidifying a driving funk-rock feel. \n\nAs the song develops, secondary electric guitars enter with muted rhythmic strums and overdriven comping, broadening the sonic texture. The gritty, raspy male lead vocal enters during the verse, delivered with soulful intensity and treated with subtle room reverb and analog delay. Harmonically, the composition resides in a blues-oriented minor key, pivoting around straightforward modal progressions. The dynamic level swells markedly during the chorus sections, where open cymbals, driving bass, and soaring lead vocals create an expansive, energetic peak. \n\nA mid-song transition introduces a featured guitar solo characterized by classic blues-rock phrasing, wide vibrato, dynamic pitch bends, and overdriven crunch. The production reflects an authentic vintage mix: drums, lead vocals, and bass are focused near the center of the stereo panorama, while rhythm guitars are panned to the sides to create a spacious soundstage. \n\nFollowing a repeat of the verse-chorus structure, the track moves into an extended outro section marked by passionate vocal ad-libs, rhythmic drum fills, and continuous guitar improvisation. The energy peaks in a high-intensity ensemble vamp before resolving, concluding with a brief audible snippet of off-microphone studio dialogue. The overall atmosphere remains soulful, swaggering, and energetically groove-driven throughout.\n\nGENRES: Funk Rock, Blues Rock, Hard Rock, Classic Rock"
+  },
+  "metadata": {
+    "youtube_id": "Q2FzZSBD5LE",
+    "title_extracted": null,
+    "corpus_id": "Q2FzZSBD5LE",
+    "uploader": "Deep Purple Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/Q2FzZSBD5LE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11986776,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 31.471948,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:41:01Z"
+  },
+  "status": "success",
+  "error": null
+}

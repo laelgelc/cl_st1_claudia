@@ -1,0 +1,38 @@
+{
+  "corpus_id": "T6QKqFPRZSA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/T6QKqFPRZSA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/T6QKqFPRZSA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/T6QKqFPRZSA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a mid-tempo, 4/4 hip-hop and neo-soul groove driven by a punchy acoustic-style drum beat consisting of a crisp snare, buoyant kick, and steady hi-hats. A melodic, warm bassline enters alongside soulful lead and harmony vocals performing a syncopated, melodic hook. Soft electric piano chords pad the harmonic background, creating a lush, retro-influenced texture with a balanced stereo spread.\n\nAt 0:18, the mix transitions into a rap verse featuring an energetic, rhythmic female lead vocal positioned front and center. The production remains intimate yet powerful, with dry vocal processing complemented by subtle room reverb. The underlying instrumentation maintains a steady bounce with a syncopated bassline, light rhythm guitar accents, and dynamic vocal ad-libs panned across the stereo field. Subtle turntable scratches and vinyl-like artifacts act as transitional accents.\n\nThe track returns to the melodic chorus around 1:30, where the texture expands through lush vocal harmonies and soaring melodic lead lines in a higher register. The interplay between the rhythmic drum loop and the melodic bassline creates a cohesive, upbeat groove. \n\nA second rapped verse follows at 1:55, delivering a syncopated cadence over the established drum and bass foundation, punctuated by subtle brass or synth stabs. From 2:43 onward, the piece builds toward its climax, introducing brass-like motifs and layered vocal countermelodies. The recurring chorus section carries the track through to the end, where soulful vocal ad-libs linger over the repeating drum beat and bass riff before smoothly fading. Throughout, the mood remains assertive, expressive, and soulful, characterized by warmth, strong rhythmic drive, and well-crafted vocal arrangements.\n\nGENRES: Hip Hop, Neo-Soul, Contemporary R&B, Rap"
+  },
+  "metadata": {
+    "youtube_id": "T6QKqFPRZSA",
+    "title_extracted": null,
+    "corpus_id": "T6QKqFPRZSA",
+    "uploader": "Ms. Lauryn Hill",
+    "audio_file": "corpus/01_music_videos_audio/audio/T6QKqFPRZSA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7624396,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.269668,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:10:38Z"
+  },
+  "status": "success",
+  "error": null
+}

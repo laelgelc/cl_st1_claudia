@@ -1,0 +1,38 @@
+{
+  "corpus_id": "qFLw26BjDZs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/qFLw26BjDZs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/qFLw26BjDZs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/qFLw26BjDZs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a single acoustic guitar playing a fingerpicked, blues-influenced chord progression in a steady 4/4 meter with a light shuffle feel. The guitar’s timbre is warm and resonant, recorded with a intimate, close-mic’d acoustic presence that establishes a reflective atmosphere at a moderate dynamic level.\n\nAt approximately 0:31, the song expands into a full folk-rock arrangement as a bass guitar and a drum kit enter. The bass provides a soft, melodic foundation while the drums establish a relaxed backbeat driven by a subtle kick, crisp snare, and steady hi-hats, elevating the overall energy into a fluid, mid-tempo groove.\n\nA male lead vocal enters around 0:52, positioned centrally in the stereo mix. The vocal delivery is notably raspy, raw, and expressive, featuring natural room reverb and subtle dynamic shifts that emphasize emotional gravity. The underlying harmonic structure follows a cyclical, blues-tinged progression, remaining relatively transparent and steady through the early verses.\n\nAs the track progresses past the four-minute mark, a substantial dynamic buildup occurs around 4:18. The rhythm section increases in volume and momentum with heavier snare hits and pronounced cymbal crashes. Saturated electric guitars join the texture, introducing gritty overdrive and bluesy lead riffs alongside intense acoustic strumming. The lead vocal transforms into an impassioned, uninhibited shout, driving the song into a peak of high dynamic intensity and dense, noisy texture between 5:00 and 6:00.\n\nIn the final minute, the chaotic energy gradually disperses. The driving drum rhythm dissolves into expressive fills and cymbal swells, while the distorted electric guitar and acoustic guitar linger on sustained chords and ambient feedback, bringing the piece to a dramatic, resonant close.\n\nGENRES: folk rock, blues rock, singer-songwriter, psychedelic rock"
+  },
+  "metadata": {
+    "youtube_id": "qFLw26BjDZs",
+    "title_extracted": null,
+    "corpus_id": "qFLw26BjDZs",
+    "uploader": "CIAOsydni",
+    "audio_file": "corpus/01_music_videos_audio/audio/qFLw26BjDZs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 13524866,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.180851,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:48:18Z"
+  },
+  "status": "success",
+  "error": null
+}

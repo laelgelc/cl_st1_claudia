@@ -1,0 +1,38 @@
+{
+  "corpus_id": "EPo5wWmKEaI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/EPo5wWmKEaI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/EPo5wWmKEaI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/EPo5wWmKEaI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is an energetic, high-tempo electro-pop track set in a driving 4/4 meter. The rhythmic foundation is defined by a consistent four-on-the-floor kick drum, crisp off-beat hi-hats, and punchy snare claps on beats two and four, creating an upbeat, club-oriented dance groove.\n\nHarmonically, the track relies on a repeating chord progression carried by strummed acoustic guitar chords layered with bright, pulsating synthesizer leads and a thick, resonant synth-bass line. The production features a wide stereo image with polished modern processing, including sidechain compression on the synths to accentuate the kick drum, along with atmospheric spatial reverbs and brief delays.\n\nThe arrangement alternates between three distinct vocal styles: an assertive, rhythmic male rap vocal in the verses; a bright, melodic female lead vocal in the primary chorus sections; and a smooth, R&B-influenced male singing vocal in the bridge passages. Vocal tracks are prominent in the mix, treated with subtle pitch control, stereo widening, and ambient delays that give them a present, polished character.\n\nStructure-wise, the track builds through dynamic shifts between stripped-down verses—where the acoustic guitar and vocal take center stage—and high-energy chorus drops where synthesizers, heavy bass, and driving percussion merge into a dense, anthemic texture. Transitions are marked by drum fills, risers, and brief vocal cutoffs. \n\nNear the end of the clip, at approximately 3:58, the electronic drum beat and bass drop out abruptly, leaving a solo acoustic guitar playing a gentle chord motif accompanied by a soft background synth pad. This stripped-back instrumental outro resolves into a field-recording ambient effect of passing street traffic and city noise before bringing the track to a complete close.\n\nGENRES: dance-pop, electro-pop, pop rap"
+  },
+  "metadata": {
+    "youtube_id": "EPo5wWmKEaI",
+    "title_extracted": null,
+    "corpus_id": "EPo5wWmKEaI",
+    "uploader": "Pitbull",
+    "audio_file": "corpus/01_music_videos_audio/audio/EPo5wWmKEaI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8523474,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.007499,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:15:46Z"
+  },
+  "status": "success",
+  "error": null
+}

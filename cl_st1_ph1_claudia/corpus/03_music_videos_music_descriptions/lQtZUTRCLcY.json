@@ -1,0 +1,38 @@
+{
+  "corpus_id": "lQtZUTRCLcY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/lQtZUTRCLcY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/lQtZUTRCLcY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/lQtZUTRCLcY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a bright, bouncy intro driven by a clean electric guitar playing a rhythmic chord motif alongside strummed acoustic rhythm guitar, a swinging walking bassline, and a crisp drum kit enhanced by a prominent tambourine on the backbeats. Set in a steady 4/4 shuffle meter at a mid-tempo pace, the track establishes an upbeat, joyous, and nostalgic mood typical of mid-20th-century pop.\n\nAt 0:10, a clear, expressive lead female vocal enters at the center of the stereo mix. The voice exhibits a warm, melodic quality, treated with subtle slapback echo and vintage plate reverb for spatial depth. The verse maintains a transparent, homophonic texture underpinned by the walking bass, light drum beats, and clean guitar comping.\n\nDuring the chorus sections (entering around 0:25 and 0:53), the arrangement expands dynamically. Layered female backing vocals enter, providing lush, stacked harmonies and responsive vocal accents panned across the stereo field. The harmony relies on uplifting, diatonic major-key chord progressions that enhance the cheerful demeanor of the track.\n\nAn instrumental break unfolds around 1:13, where a punchy saxophone solo takes over the melodic foreground, backed by energetic drum fills and driving rhythmic accents from the rhythm section.\n\nThe lead vocal returns at 1:30 for a final verse and chorus, delivering heightened dynamic intensity through a higher vocal register and emotive delivery. The track enters an extended outro section at 1:50, featuring repetitive lead vocal lines mirrored by warm backing harmonies over the steady shuffle beat. The overall texture remains full and vibrant until the recording gradually fades out to silence near 2:34.\n\nGENRES: 1960s pop, girl group, classic pop, oldies"
+  },
+  "metadata": {
+    "youtube_id": "lQtZUTRCLcY",
+    "title_extracted": null,
+    "corpus_id": "lQtZUTRCLcY",
+    "uploader": "Canal Sergio Alvarez",
+    "audio_file": "corpus/01_music_videos_audio/audio/lQtZUTRCLcY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4994784,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.802346,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:10:18Z"
+  },
+  "status": "success",
+  "error": null
+}

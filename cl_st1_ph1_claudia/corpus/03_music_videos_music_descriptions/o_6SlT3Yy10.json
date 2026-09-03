@@ -1,0 +1,38 @@
+{
+  "corpus_id": "o_6SlT3Yy10",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/o_6SlT3Yy10.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/o_6SlT3Yy10.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/o_6SlT3Yy10.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a rhythmic, slightly overdriven electric guitar playing a swinging blues riff in a 4/4 meter at a mid-tempo pace of around 120 BPM. Shortly after, the full rhythm section enters, with a bass guitar supplying a walking, root-oriented bassline and a drum kit driving a bouncy shuffle rhythm on the snare and hi-hat. A gritty, highly expressive male lead vocal enters, delivered with a raspy timbre and enhanced by warm mid-range equalization and subtle slapback delay.\n\nAround the one-minute mark, a vocal shout signals the transition into a featured lead guitar solo. The solo exhibits a classic blues-rock tone—overdriven, bright, and resonant—utilizing expressive pitch bends, wide vibrato, and rapid pentatonic phrasing. The rhythm section maintains an energetic boogie groove underneath, supporting a steady dynamic level as brief vocal ad-libs interject alongside the lead guitar work.\n\nThe performance briefly returns to lead vocals before transitioning into a second, extended guitar solo. Dynamics surge as the guitar playing grows more aggressive, featuring rapid blues licks, double-stops, and sustained bends while rhythmic vocal exclamations accentuate key phrases. The stereo mix positions the drums and bass centrally to provide a grounded low-end foundation, while the guitar and vocal ad-libs occupy a slightly wider spatial spread, evoking a live studio atmosphere.\n\nHarmonically, the track remains rooted in a traditional major blues progression, creating a buoyant, celebratory, and rhythmically infectious feel. The production adopts a raw, unpolished aesthetic with minimal heavy processing, highlighting direct instrumental timbres, energetic rhythmic bounce, and cohesive group interplay from start to finish.\n\nGENRES: blues, blues rock, electric blues, boogie rock"
+  },
+  "metadata": {
+    "youtube_id": "o_6SlT3Yy10",
+    "title_extracted": null,
+    "corpus_id": "o_6SlT3Yy10",
+    "uploader": "John Lee Hooker Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/o_6SlT3Yy10.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8290160,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.615833,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:01:30Z"
+  },
+  "status": "success",
+  "error": null
+}

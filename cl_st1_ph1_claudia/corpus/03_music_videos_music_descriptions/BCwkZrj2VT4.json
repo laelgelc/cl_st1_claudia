@@ -1,0 +1,38 @@
+{
+  "corpus_id": "BCwkZrj2VT4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/BCwkZrj2VT4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/BCwkZrj2VT4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/BCwkZrj2VT4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens in a moderate mid-tempo 4/4 time signature, characterized by a smooth, nostalgic soul and R&B groove. A clean, arpeggiated electric guitar with a warm, slightly warm tone presents the core harmonic progression, paired immediately with a melodic, grooving electric bassline and a steady drum kit playing soft snare backbeats and subtle hi-hat/cymbal work. Wordless backing vocal harmonies gently blend across the stereo field, establishing a lush homophonic texture before the main arrangement unfolds. The production aesthetic leans vintage and organic, featuring clean channel separation and subtle room reverb.\n\nA soulful male lead vocal enters shortly after, delivering a clear, expressive melodic line positioned prominently in the center of the mix. His timbre is warm and clean, enhanced by light vocal reverb and subtle delay. As the verse progresses into the chorus, multi-part backing vocals engage in a classic call-and-response format, reinforcing key melodic phrases. The electric bass plays fluid, scalar fills beneath the steady rhythmic pulse, while the guitar alternates between arpeggiated figures and rhythmic chugging.\n\nFollowing a brief accent from the drums around the mid-point, the arrangement elevates in dynamic intensity. The lead singer shifts into a higher register, delivering more passionate, belted phrases and expressive ad-lib embellishments. The backing vocal arrangements become denser and more driving, mirroring the growing emotional weight of the vocal performance. The drum groove expands with subtle fill variations and more pronounced cymbal crashes, accentuating the rhythmic drive. The harmonic framework loops continuously, providing a stable foundation for vocal improvisation as the song reaches its dynamic peak, eventually tapering off into a gradual fade-out ending.\n\nGENRES: soul, motown, rhythm and blues, classic soul"
+  },
+  "metadata": {
+    "youtube_id": "BCwkZrj2VT4",
+    "title_extracted": null,
+    "corpus_id": "BCwkZrj2VT4",
+    "uploader": "soulmusic87",
+    "audio_file": "corpus/01_music_videos_audio/audio/BCwkZrj2VT4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5568410,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.920158,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:54:39Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "TUVcZfQe-Kw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/TUVcZfQe-Kw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/TUVcZfQe-Kw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/TUVcZfQe-Kw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a rhythmic, multi-tracked vocal chant supported by a rising synth pad before dropping at 0:04 into a driving dance-pop and nu-disco groove set in a fast, steady 4/4 meter. The underlying instrumentation features a prominent four-on-the-floor kick drum, crisp snare hits on beats two and four, off-beat hi-hats, a bouncy syncopated bassline, disco-style rhythm guitar strums, and shimmering electronic synth pads. A bright, polished female lead vocal enters, delivering melodic, syncopated phrases treated with subtle stereo delay and spatial reverb.\n\nAt 0:32, the arrangement expands into a dynamic chorus where stacked vocal harmonies, synth arpeggios, and energetic percussion widen the stereo field and elevate the overall intensity. At 0:52, the driving rhythm section continues while a male vocal delivers a rhythmic, rapid-fire rap verse featuring close-miked clarity and punchy dynamic presence. Vocal interjections and call-and-response accents bridge the rap verse back into a second full-scale chorus at 1:28.\n\nThe high-energy groove carries through a post-chorus and bridge section between 1:57 and 2:34, marked by soaring vocal hooks, dense electronic textures, and continuous bass propulsion. A final high-impact chorus at 2:35 features full multi-track vocal harmonies and punchy drum fills. At 3:22, the main rhythmic beat strips away, transitioning into an ambient coda that mirrors the intro with sustained vocal chants over lingering synth chords and sparse low-end accents, gradually fading into silence by 3:51. The mix maintains a polished, modern commercial production style with vibrant frequency separation, wide stereo placement, and an upbeat, driving mood throughout.\n\nGENRES: Dance-Pop, Nu-Disco, Pop, Hip-Hop"
+  },
+  "metadata": {
+    "youtube_id": "TUVcZfQe-Kw",
+    "title_extracted": null,
+    "corpus_id": "TUVcZfQe-Kw",
+    "uploader": "Dua Lipa",
+    "audio_file": "corpus/01_music_videos_audio/audio/TUVcZfQe-Kw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7365076,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.375859,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:07:44Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "KOok1WzZbOY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/KOok1WzZbOY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/KOok1WzZbOY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/KOok1WzZbOY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with an atmospheric sound effect blending distant crowd cheering and a sweeping flanged noise texture. At approximately 0:05, a rhythmic acoustic guitar enters with a steady, finger-strummed pattern in a moderate 4/4 meter, establishing a driving folk-rock groove grounded in a minor key. Shortly after, at 0:12, a warm electric bass guitar playing melodic root lines and a subtle offbeat tambourine enter to complete the rhythm section.\n\nRich multi-part vocal harmonies take center stage almost immediately, featuring a bright lead vocal cushioned by tightly blended backing vocals panned across the stereo image. The production style features natural room reverb and warm mid-range equalization, imparting a vintage 1960s acoustic aesthetic. At 0:47, the arrangement drops in density to highlight a solo male lead vocal in a smooth, intimate register, which is dynamically answered by layered vocal harmonies in a call-and-response pattern.\n\nAt 1:22, the piece transitions into an instrumental solo section featured on a breathy woodwind instrument, likely an alto flute or recorder. The solo plays a lyrical, highly expressive melody with natural vibrato over the continuing acoustic guitar strumming, walking bassline, and light percussive groove. \n\nThe full vocal ensemble returns at 1:55 for a powerful final section, increasing slightly in dynamic volume and harmonic complexity. The stereo texture becomes dense and expansive as multi-part vocal lines intertwine, culminating in a sustained, harmonized vocal coda around 2:30. As the acoustic instruments decay, the recording fades out into the ambient crowd noise effect that mirrors the opening, concluding smoothly around 2:42. The minor-key harmony, acoustic timbre, and expressive vocal arrangement create a deeply nostalgic and melancholic emotional mood throughout.\n\nGENRES: Folk Rock, Sunshine Pop, Pop Rock, Acoustic Folk"
+  },
+  "metadata": {
+    "youtube_id": "KOok1WzZbOY",
+    "title_extracted": null,
+    "corpus_id": "KOok1WzZbOY",
+    "uploader": "TheFreddyShow",
+    "audio_file": "corpus/01_music_videos_audio/audio/KOok1WzZbOY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5290512,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.984718,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:24:33Z"
+  },
+  "status": "success",
+  "error": null
+}

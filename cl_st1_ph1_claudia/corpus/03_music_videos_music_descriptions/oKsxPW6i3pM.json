@@ -1,0 +1,38 @@
+{
+  "corpus_id": "oKsxPW6i3pM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oKsxPW6i3pM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/oKsxPW6i3pM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/oKsxPW6i3pM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with atmospheric environmental sound effects, including chirping crickets and footsteps traversing gravel, followed by the sound of an opening door. An energetic electronic intro immediately emerges in a fast 4/4 meter, featuring a pulsing synth bassline, crisp hi-hats, and a steady electronic drum pattern.\n\nDistorted electric guitars burst into the arrangement, shifting the track into a driving, high-energy pop-punk style. A clear male lead vocal enters, singing in a bright, expressive mid-to-high register with subtle room reverb. The drums transition to an upbeat acoustic rock kit, propelled by a punchy bass guitar and driving rhythm guitar chords. The track ascends into an explosive chorus, where the dynamic level increases dramatically with wide stereo electric guitars, heavy drum hits, and soaring melodic lead vocals accompanied by stacked backing harmonies.\n\nThe second verse slightly thins the texture while keeping the driving tempo and melodic momentum, leading into another full-sounding chorus. Following the chorus, an impassioned vocal shout introduces a brief guitar solo filled with pitch bends and expressive lead lines. This section abruptly transitions through a filtered tape-rewind effect, returning momentarily to ambient footsteps and environmental sounds.\n\nA heavy guitar riff re-ignites the rhythm section, building momentum back into a third verse that incorporates call-and-response backing vocal accents. The arrangement culminates in a final climactic chorus featuring maximum dynamic output, dense guitar textures, and high-register vocal melodies. The full band hits a final sustained chord that rings out, resolving into sound effects of distant crowd applause and outdoor night ambience before fading out completely.\n\nGENRES: Pop Punk, Alternative Rock, Power Pop"
+  },
+  "metadata": {
+    "youtube_id": "oKsxPW6i3pM",
+    "title_extracted": null,
+    "corpus_id": "oKsxPW6i3pM",
+    "uploader": "Jimmy Eat World",
+    "audio_file": "corpus/01_music_videos_audio/audio/oKsxPW6i3pM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5534972,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.477907,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:46:59Z"
+  },
+  "status": "success",
+  "error": null
+}

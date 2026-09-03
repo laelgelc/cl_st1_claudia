@@ -1,0 +1,38 @@
+{
+  "corpus_id": "NnEzkeaopmA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/NnEzkeaopmA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/NnEzkeaopmA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/NnEzkeaopmA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a solo acoustic guitar playing a warm, rhythmic fingerpicking pattern in a moderate 4/4 meter. The guitar’s timbre is bright yet resonant, establishing a relaxed, swaying groove through clear bass-line plucks combined with light treble strums.\n\nAt 0:07, a lead male vocal enters over the guitar accompaniment. The vocal delivery is soft, intimate, and breathy, characterized by a natural, mid-range tone processed with clean amplification and a subtle, short room reverb. The overall dynamic level remains gently restrained, evoking a tender, nostalgic, and melancholic mood. The harmonic structure is firmly rooted in a major key with warm, diatonic chord transitions.\n\nAt 0:48, the piece transitions into a second vocal verse section. The lead vocal expands slightly in dynamic emphasis and melodic range, while the acoustic guitar maintains its steady, undulating fingerpicking pattern without drastic textural change.\n\nAn instrumental interlude begins at 1:28 as the vocal pauses. The acoustic guitar takes the melodic lead, weaving delicate upper-register arpeggios and rhythmic accents into the established chordal framework. The texture remains light and transparent, showcasing the stereo depth of the acoustic guitar recording.\n\nAt 1:52, the vocals re-enter for the final section. The vocal texture becomes slightly denser with subtle double-tracking or background vocal harmonies supporting the main melody, imparting additional warmth to the climax of the phrase. The dynamic contour gently swells before settling back down.\n\nThe piece reaches its conclusion at 2:32 as the vocal stops, leaving the acoustic guitar to play a final fingerpicked cadence and a sustaining final chord that naturally decays into silence around 2:37.\n\nGENRES: Acoustic, Folk, Singer-Songwriter, Indie Folk"
+  },
+  "metadata": {
+    "youtube_id": "NnEzkeaopmA",
+    "title_extracted": null,
+    "corpus_id": "NnEzkeaopmA",
+    "uploader": "UPROXX Indie Mixtape",
+    "audio_file": "corpus/01_music_videos_audio/audio/NnEzkeaopmA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5068344,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 23.991703,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:04:34Z"
+  },
+  "status": "success",
+  "error": null
+}

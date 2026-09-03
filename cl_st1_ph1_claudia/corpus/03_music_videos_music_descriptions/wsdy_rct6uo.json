@@ -1,0 +1,38 @@
+{
+  "corpus_id": "wsdy_rct6uo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wsdy_rct6uo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/wsdy_rct6uo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/wsdy_rct6uo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a brief, punchy drum fill on the snare and hi-hat before establishing a driving 4/4 groove at an upbeat, energetic tempo. The full ensemble enters, anchored by a tight rhythm section consisting of a crisp snare backbeat, steady kick drum, syncopated bass guitar line, and sharp, rhythmic electric guitar stabs. A lead male vocal enters shortly after, delivering verses with a soulful, energetic, and slightly raspy delivery, alternating between melodic, rhythmic phrases and passionate, belted high notes.\n\nThe mix features a bright, punchy production style with centered lead vocals, a solid low-end foundation, and slightly panned electric guitars that widen the stereo field. The harmonic structure is rooted in a vibrant, major-key pop-rock progression with subtle blues inflections.\n\nAround 01:40, the vocals recede to make way for a featured lead electric guitar solo. The soloist employs an overdriven, warm timbre, executing expressive string bends, fast blues-influenced runs, and sustained vibrato while supported by the unrelenting pulse of the bass and drums.\n\nAt 02:12, the vocals return to re-establish the main verse and chorus sections. The song continuously builds in dynamic energy toward its conclusion. The lead vocalist provides increasingly impassioned ad-libs, high sustained calls, and rhythmic vocal embellishments over a repeating chorus structure. The drum performance becomes more active with syncopated fills and accents, maintaining the track's driving momentum up through the energetic, full-band fade-out.\n\nGENRES: Pop Rock, Funk Rock, Blues Rock"
+  },
+  "metadata": {
+    "youtube_id": "wsdy_rct6uo",
+    "title_extracted": null,
+    "corpus_id": "wsdy_rct6uo",
+    "uploader": "Spin Doctors",
+    "audio_file": "corpus/01_music_videos_audio/audio/wsdy_rct6uo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8307992,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.389742,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:31:21Z"
+  },
+  "status": "success",
+  "error": null
+}

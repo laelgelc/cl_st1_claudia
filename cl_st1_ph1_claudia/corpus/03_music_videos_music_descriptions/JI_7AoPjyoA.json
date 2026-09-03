@@ -1,0 +1,38 @@
+{
+  "corpus_id": "JI_7AoPjyoA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/JI_7AoPjyoA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/JI_7AoPjyoA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/JI_7AoPjyoA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with brief audience applause over a live acoustic ambiance, immediately leading into a solo acoustic piano playing warm, gospel- and jazz-inflected chord progressions in a relaxed 4/4 meter. The piano employs rich extended harmonies, gentle rhythmic vamping, and subtle rubato phrasing, establishing a reflective, laid-back swing groove.\n\nShortly after the piano intro, a solo male lead vocal enters with a distinctive raspy, gritty timbre and a conversational, blues-influenced delivery. The musical texture is strictly homophonic throughout, featuring only the lead vocalist accompanied by the acoustic piano. The vocal performance is marked by expressive dynamic nuances and soul-styled pitch inflections, shifting effortlessly between rhythmic narrative verses and soaring, melodic chorus sections.\n\nHarmonically, the piece resides in a bright major key, embellished by gospel passing tones, dominant seventh chords, and melodic bass movements played by the pianist's left hand. The piano accompaniment dynamically adapts across sections, alternating between syncopated chordal stabs, arpeggiated melodic fills, and a steady, pulsing rhythm that anchors the groove.\n\nThe song follows a clear sectional progression from an initial verse and chorus into a brief piano interlude, followed by a second verse and chorus. Dynamic intensity rises naturally during the choruses as the vocal pitch range expands. The performance concludes with a melodic piano cadence and a sustained final vocal note, resolving into a quiet piano chord that prompts enthusiastic audience applause at the end.\n\nThe production style conveys an authentic, live concert environment. The piano is spread across a wide stereo field while the lead vocal remains prominently centered with a light touch of natural hall reverberation, giving the entire piece an intimate, soulful, and evocative character.\n\nGENRES: Singer-Songwriter, Folk, Gospel, Blues, Piano Blues"
+  },
+  "metadata": {
+    "youtube_id": "JI_7AoPjyoA",
+    "title_extracted": null,
+    "corpus_id": "JI_7AoPjyoA",
+    "uploader": "Randy Newman",
+    "audio_file": "corpus/01_music_videos_audio/audio/JI_7AoPjyoA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5498564,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 32.262929,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:48:05Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "v124f0i0Xh4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/v124f0i0Xh4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/v124f0i0Xh4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/v124f0i0Xh4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a spoken stage announcement introducing a performer to an enthusiastic live audience, accompanied by warm applause. This immediately transitions into an energetic, uptempo ensemble interlude featuring a bright brass section, a walking bassline, boogie-woogie piano chords, and crisp swing drumming alongside rhythmic audience handclapping. Following this interlude, the lead male vocalist speaks directly to the crowd over applause and light instrumental sound-checking to introduce the opening musical selection.\n\nThe main performance begins with a fast-tempo, driving 4/4 rock-and-roll groove initiated by an electric guitar playing a bright double-stop intro riff. The full rhythm section enters with a walking bassline, a prominent snare-drum backbeat, and rhythmic piano accompaniment. The male lead vocalist delivers energetic, articulate bluesy verses with a slightly raspy timbre, captured with natural room reverb in a live acoustic setting. The harmonic structure follows a classic blues progression in a major key, maintaining an upbeat, continuous swing feel throughout.\n\nIn the mid-section, the arrangement transitions into an extended electric guitar solo characterized by a warm, slightly overdriven tone, bluesy bends, and syncopated phrasing. The double bass, drums, and piano sustain a steady, driving momentum underneath, creating a vibrant, layered texture. The vocalist re-enters for a final vocal verse and refrain, increasing dynamic energy towards the conclusion.\n\nThe performance closes on a sharp, synchronized full-band cadence on the final chord. The recording finishes with prolonged, enthusiastic audience applause, cheering, and whistling, highlighting the authentic live concert setting and vintage live-sound recording character.\n\nGENRES: Rock and Roll, Rhythm and Blues, Rockabilly, Blues"
+  },
+  "metadata": {
+    "youtube_id": "v124f0i0Xh4",
+    "title_extracted": null,
+    "corpus_id": "v124f0i0Xh4",
+    "uploader": "marcelo cavalcante",
+    "audio_file": "corpus/01_music_videos_audio/audio/v124f0i0Xh4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7086436,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.57032,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:32:20Z"
+  },
+  "status": "success",
+  "error": null
+}

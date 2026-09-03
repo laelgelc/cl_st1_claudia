@@ -1,0 +1,38 @@
+{
+  "corpus_id": "diYAc7gB-0A",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/diYAc7gB-0A.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/diYAc7gB-0A.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/diYAc7gB-0A.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with an atmospheric prologue lasting roughly fourteen seconds, characterized by the sound of bubbling and splashing water against a muted ambient soundscape. At 00:13, a swift tape-rewind sound effect abruptly terminates the water audio, inaugurating a mid-tempo, 4/4 funk and pop dance groove built on a syncopated electric bassline, crisp hand percussion (congas and cowbell), rhythm guitar strumming, and a steady drum kit beat.\n\nAt 00:25, a soulful male lead vocal enters, delivering melodic lines with a slightly reverberant, clear vocal timbre. A vibrant brass section featuring trumpets and saxophones introduces bright, punchy stabs that punctuate the rhythmic phrases, creating a wide stereo image. Layered backing vocals join during refrain sections, engaging in energetic call-and-response harmonies that elevate the track’s dynamic intensity and celebratory mood.\n\nThroughout the arrangement, the harmony remains centered on a groove-oriented major key with funk-infused harmonic progressions. Rhythmic electric guitar riffs, slap-bass accents, and persistent hand percussion maintain an infectious, syncopated momentum. Instrumental bridge sections highlight tight horn fanfares, energetic bass improvisation, and rhythmic vocal ad-libs. The mix features polished studio production, panning percussion and brass accents across the stereo soundstage while keeping the kick drum, snare, bass, and lead vocals centered and prominent.\n\nThe high-energy groove continues through repeating verse-chorus structures until approximately 06:29, where the music cuts off abruptly. The recording concludes from 06:30 to 06:39 with a high-pitched, piercing referee whistle blast that echoes briefly into silence.\n\nGENRES: Funk, Soul, Pop, Disco, Dance-pop"
+  },
+  "metadata": {
+    "youtube_id": "diYAc7gB-0A",
+    "title_extracted": null,
+    "corpus_id": "diYAc7gB-0A",
+    "uploader": "George Michael",
+    "audio_file": "corpus/01_music_videos_audio/audio/diYAc7gB-0A.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 12791486,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.203983,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:29:10Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "oxwAB3SECtc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oxwAB3SECtc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/oxwAB3SECtc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/oxwAB3SECtc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with an energetic vocal count-in that immediately launches into a high-energy, uptempo 1960s rock and roll groove in a straightforward 4/4 meter at roughly 160 BPM. The full band enters together, featuring rhythm and lead electric guitars with bright, lightly saturated vintage tones, a melodic walking bassline, and a punchy drum kit providing steady 8th-note drive with emphasis on the snare backbeats on beats two and four.\n\nA dynamic, youthful male lead vocal takes the center position, characterized by an expressive delivery, occasional enthusiastic shouts, and a slight tape-style room reverb. The soundscape reflects early stereo mix conventions, panning rhythm guitars and drum elements across the stereo field while holding the vocal and bass near the center, yielding a transparent, vibrant mix with warm harmonic distortion.\n\nAs the verses progress, staccato electric guitar chords lock with the active bassline. The refrains introduce close male backing vocal harmonies that thicken the texture. In the bridge, the continuous driving rhythm breaks into emphatic, syncopated unison accents highlighted by snare hits, bass stabs, and handclaps, creating dramatic forward momentum before resolving back into the primary groove.\n\nAround the mid-point, an energetic electric guitar solo emerges, featuring bluesy dual-note bends, staccato picking, and a raw, cutting timbre over the driving backing section. The song cycles through a recap of the bridge and final refrain, keeping up its lively, romantic, and nostalgic mood. The arrangement finishes on an extended outro featuring repeated vocal hooks that resolve into a sharp, decisive final chord cadence with a short drum fill and guitar ring-out.\n\nGENRES: Rock and Roll, Beat, Pop Rock, Rockabilly"
+  },
+  "metadata": {
+    "youtube_id": "oxwAB3SECtc",
+    "title_extracted": null,
+    "corpus_id": "oxwAB3SECtc",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/oxwAB3SECtc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5566180,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.329373,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:21:49Z"
+  },
+  "status": "success",
+  "error": null
+}

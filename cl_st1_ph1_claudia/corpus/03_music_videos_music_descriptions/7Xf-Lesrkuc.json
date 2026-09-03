@@ -1,0 +1,38 @@
+{
+  "corpus_id": "7Xf-Lesrkuc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/7Xf-Lesrkuc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/7Xf-Lesrkuc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/7Xf-Lesrkuc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a warm, intimate acoustic introduction featuring gently strummed acoustic guitar panned across the stereo field, accompanied by soft, resonant piano chords in a steady 4/4 meter at a relaxed mid-tempo pace. A soulful male lead vocal enters shortly after, delivering a reflective, melodic narrative with a clear, resonant timbre complemented by subtle hall reverb and delicate delay accents. In this opening section, the texture remains light and sparse, relying primarily on the organic dialogue between the acoustic guitar, piano, and voice.\n\nAs the track proceeds into its first chorus, the dynamics swell significantly with the entry of the full rhythm section. A warm, rounded electric bassline grounds the harmony, while a crisp drum kit introduces a driving pop-rock groove with snappy snare hits and steady hi-hat rhythms. Background organ pads and subtle electric guitar embellishments expand the frequency spectrum and stereo image, creating a bright, expansive sonic atmosphere that highlights the singer’s increasingly passionate vocal delivery.\n\nA vibrant post-chorus transition features syncopated rhythmic accents and upbeat guitar riffs, leading into a cohesive second verse that maintains the full-band momentum. A dynamic bridge subsequently thins the arrangement back to its acoustic core, emphasizing emotional intimacy through delicate piano accompaniment and expressive vocal phrasing. \n\nThe piece culminates in a high-energy final section where the dynamic intensity reaches its peak. Multi-tracked backing vocals join in an anthemic harmony chant alongside the lead vocal, supported by energetic drumming, driving bass, and soaring guitar textures. Following this climactic swell, the dense texture gently dissipates into a brief outro, ending softly on lingering piano chords and acoustic guitar.\n\nGENRES: Pop Rock, Folk Rock, Singer-Songwriter"
+  },
+  "metadata": {
+    "youtube_id": "7Xf-Lesrkuc",
+    "title_extracted": null,
+    "corpus_id": "7Xf-Lesrkuc",
+    "uploader": "Train",
+    "audio_file": "corpus/01_music_videos_audio/audio/7Xf-Lesrkuc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8209168,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.685277,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:04:53Z"
+  },
+  "status": "success",
+  "error": null
+}

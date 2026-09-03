@@ -1,0 +1,38 @@
+{
+  "corpus_id": "6vwNcNOTVzY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/6vwNcNOTVzY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/6vwNcNOTVzY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/6vwNcNOTVzY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an intro section built around a sampled vintage soul/blues vocal featuring a raw, rasping male voice set against a warm, vinyl-crackled accompaniment with subtle room reverb. This intro maintains an expressive, rhythmic phrasing over a blues-inflected minor harmonic foundation. At approximately 0:20, a brief DJ turntable scratch and punchy drum transition mark a dramatic shift into the main body of the track, establishing an energetic, bouncy Hip-Hop groove in 4/4 meter at a steady mid-tempo (around 85 BPM).\n\nThe main beat is driven by a prominent, punchy low-end kick drum, sharp snares/claps on the offbeats, crisp hi-hat rhythms, and a heavy, rolling bassline. Centered prominently in the stereo image, a dynamic male lead rap vocal enters with an upfront, direct, and energetic delivery. The pitched-up vocal sample from the intro continues to loop underneath and alongside the lead rap, acting as a catchy, rhythmic melodic sample and vocal counterpoint throughout the hook and verses. Accompanying the beat are subtle synth stabs, rhythmic percussion, and stereo-panned ad-lib layers that augment the dense, layered texture.\n\nProduction-wise, the track exhibits a polished, radio-ready aesthetic characterized by strong low-frequency response, tight dynamic compression, and a wide stereo field where percussion and vocal effects spread outwards while the lead rap, kick, and bass remain locked in the center. The mood is assertive, upbeat, and infectious, blending vintage soul sample aesthetics with modern urban production elements. The excerpt closes abruptly at the end with a sharp turntable scratch and fade out.\n\nGENRES: Hip Hop, Pop Rap, Contemporary R&B"
+  },
+  "metadata": {
+    "youtube_id": "6vwNcNOTVzY",
+    "title_extracted": null,
+    "corpus_id": "6vwNcNOTVzY",
+    "uploader": "Kanye West",
+    "audio_file": "corpus/01_music_videos_audio/audio/6vwNcNOTVzY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7074548,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 6.236425,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:19:00Z"
+  },
+  "status": "success",
+  "error": null
+}

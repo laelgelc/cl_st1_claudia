@@ -1,0 +1,38 @@
+{
+  "corpus_id": "EMoi_m2G6XU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/EMoi_m2G6XU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/EMoi_m2G6XU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/EMoi_m2G6XU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with an energetic mid-tempo 4/4 soul-funk groove driven by a punchy, syncopated electric bassline, a crisp drum kit with a prominent snare on beats two and four, and rhythmic electric guitars delivering sharp skanks split across the stereo field. A gritty, expressive male lead vocal enters shortly thereafter, featuring a raspy timbre enhanced by warm, light room reverb. \n\nAs the arrangement moves into the chorus, the texture expands significantly with the entry of a full brass section—delivering bright, syncopated stabs and melodic counter-lines—and a multi-part backing vocal ensemble that provides call-and-response harmonies. The stereo imaging places the lead vocal firmly in the center while backing vocals and rhythm guitars are panned widely, creating a spacious and immersive sonic landscape. \n\nA central breakdown section features an expressive, blues-inflected electric guitar solo that bends and phrasingly responds to syncopated drum fills and subtle brass swells. The energy remains high as the song transitions back into a final verse and chorus, where the vocalist employs dramatic dynamic shifts, vocal ad-libs, and high-register belts over increasingly dense instrumental layering. \n\nThe production aesthetic evokes a classic analog soul style, characterized by warm mid-range saturation, punchy low-end presence, and natural spatial decay. The track concludes with an extended, groove-driven outro based on a repeating vocal chorus and continuous brass accents, maintaining an upbeat, triumphant mood until the final fade.\n\nGENRES: soul, funk, rhythm and blues"
+  },
+  "metadata": {
+    "youtube_id": "EMoi_m2G6XU",
+    "title_extracted": null,
+    "corpus_id": "EMoi_m2G6XU",
+    "uploader": "The Rolling Stones",
+    "audio_file": "corpus/01_music_videos_audio/audio/EMoi_m2G6XU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7281856,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.7251,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:53:18Z"
+  },
+  "status": "success",
+  "error": null
+}

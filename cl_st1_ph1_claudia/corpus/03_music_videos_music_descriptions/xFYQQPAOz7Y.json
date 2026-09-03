@@ -1,0 +1,38 @@
+{
+  "corpus_id": "xFYQQPAOz7Y",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/xFYQQPAOz7Y.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/xFYQQPAOz7Y.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/xFYQQPAOz7Y.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a clean, warm electric guitar playing an arpeggiated minor-key chord progression in a relaxed 4/4 meter. A subtle vinyl crackle introduces a lo-fi vintage texture, establishing a melancholic and contemplative atmosphere. At 0:33, a vinyl scratch leads into a hard-hitting hip-hop breakbeat, featuring a deep kick drum, crisp snare on beats two and four, and steady hi-hats, anchored by a low-frequency bass synth and a low-key, close-miked spoken vocal intro.\n\nAs the first verse begins, the arrangement transforms into a tense, driving groove. An intense male rap vocal enters, delivered with a rapidly accelerating rhythmic cadence and rising vocal strain. Syncopated, distorted electric guitar palm-mutes and power chords join the drums, while double-tracked vocal accents are panned across the stereo field to emphasize key line endings. \n\nThe chorus marks a dramatic dynamic peak, introducing a dense, wall-of-sound texture. It features heavy, distorted guitar chords, full-impact percussion, and layered, doubled lead vocals chanting a triumphant hook. The stereo image widens considerably, with backing vocals and rhythm guitars spread left and right.\n\nSubsequent verses maintain this relentless momentum, alternating between tight, rhythmically focused verse arrangements and explosive, high-energy choruses. Additional subtle synth pads and atmospheric guitar layers enter during the later verses, incrementally building emotional urgency. \n\nFollowing the final chorus, the heavy drums, bass, and distorted guitars abruptly drop out at 4:40. The arrangement resolves into the original sparse, fingerpicked electric guitar progression from the intro. Soft, spoken-word ad-libs quietly drift over the guitar as the harmonic structure loop repeats, gradually fading out into gentle vinyl hiss until coming to a complete stop.\n\nGENRES: hip hop, rap rock, boom bap"
+  },
+  "metadata": {
+    "youtube_id": "xFYQQPAOz7Y",
+    "title_extracted": null,
+    "corpus_id": "xFYQQPAOz7Y",
+    "uploader": "EminemMusic",
+    "audio_file": "corpus/01_music_videos_audio/audio/xFYQQPAOz7Y.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10479894,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.765247,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:48:37Z"
+  },
+  "status": "success",
+  "error": null
+}

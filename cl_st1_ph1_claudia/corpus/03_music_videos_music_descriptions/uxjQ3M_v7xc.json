@@ -1,0 +1,38 @@
+{
+  "corpus_id": "uxjQ3M_v7xc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uxjQ3M_v7xc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/uxjQ3M_v7xc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/uxjQ3M_v7xc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with spoken introductory banter by a presenter over faint background chatter, accompanied by brief synth tones. A prominent, pitch-shifting scream sound effect acts as a dramatic transition into the musical performance.\n\nThe music establishes a slow, compound-meter ballad groove in 12/8 time, anchored by a steady, swinging drum pattern, a warm bassline, and clean, arpeggiated electric guitar chords. A lush horn section provides sustained harmonic backing and rhythmic accents throughout the track. The soundscape is centered on a lead male vocalist performing in a dramatic high-tenor and falsetto register. His delivery is deeply expressive, featuring wide vibrato, glissandos, and dramatic dynamic swells. He is supported by a tight male vocal ensemble supplying multi-part doo-wop harmonies using sustained vowel sounds and rhythmic vocables.\n\nHarmonically, the piece follows a classic diatonic chord progression typical of vintage mid-century balladry. The arrangement moves through verses into a central bridge that briefly alters the textural density before building into a powerful final chorus. During this climax, the performance grows increasingly intense, with the lead singer reaching soaring high notes against dense backing vocal layers.\n\nThe overall mix carries a vintage, slightly compressed analog character, with moderate reverberation applied to the lead vocal and brass section to create spatial depth within a somewhat narrow stereo field. The song concludes on a sustained vocal cadenza, leading immediately into loud audience applause and cheering, followed by brief closing commentary from the presenter acknowledging the distinct vocal styling.\n\nGENRES: Doo-Wop, Soul, Rhythm and Blues, Pop Ballad"
+  },
+  "metadata": {
+    "youtube_id": "uxjQ3M_v7xc",
+    "title_extracted": null,
+    "corpus_id": "uxjQ3M_v7xc",
+    "uploader": "NRRArchives",
+    "audio_file": "corpus/01_music_videos_audio/audio/uxjQ3M_v7xc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5496334,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.83472,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:43:44Z"
+  },
+  "status": "success",
+  "error": null
+}

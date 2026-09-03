@@ -1,0 +1,38 @@
+{
+  "corpus_id": "LOtkH5amC7s",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/LOtkH5amC7s.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/LOtkH5amC7s.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/LOtkH5amC7s.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with ambient sound effects, including footsteps and a door opening and closing, alongside casual spoken studio dialogue. At 0:11, a smooth, mid-tempo 4/4 groove enters, driven by a crisp drum kit featuring a punchy kick drum, a sharp snare/clap hybrid, subtle hi-hats, and syncopated percussion accents. A chorus-modulated electric piano plays a lush, jazz-inflected minor chord progression that forms the harmonic core of the piece, supported by a deep, warm bassline with subtle glissando slides.\n\nA smooth, melodic male lead vocal enters shortly after, delivering expressive R&B phrasing. The vocal production is intimate and warm, incorporating close-miced double-tracking, airy falsetto backing harmonies, and low-pitched spoken ad-libs panned across the stereo field. The performance transitions smoothly between reflective verses and harmonized hook sections where double-tracked vocals expand the stereo image with lush vocal stacks.\n\nAround 2:26, a rhythmic male rap vocal enters, introducing a deeper, more assertive vocal contrast while maintaining the established groove. The instrumental arrangement remains consistent and hypnotic throughout, relying on subtle dynamic shifts, vocal ad-libs, and percussion fills to signal transitions rather than dramatic structural changes. \n\nThe production style is polished and space-conscious: the drums and lead vocals sit firmly in the center of the mix, while the modulated electric piano and backing vocals provide lush width through subtle stereo panning and gentle reverb. The tempo stays at a relaxed, steady pace, conveying a romantic, confident, and late-night atmosphere. The piece concludes with a vamped outro filled with vocal improvisations and spoken sign-offs, slowly tapering off into an instrumental tail before ending on a final percussion strike.\n\nGENRES: Contemporary R&B, Hip Hop, Neo Soul"
+  },
+  "metadata": {
+    "youtube_id": "LOtkH5amC7s",
+    "title_extracted": null,
+    "corpus_id": "LOtkH5amC7s",
+    "uploader": "Pharrell Williams",
+    "audio_file": "corpus/01_music_videos_audio/audio/LOtkH5amC7s.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7998146,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.323835,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:38:02Z"
+  },
+  "status": "success",
+  "error": null
+}

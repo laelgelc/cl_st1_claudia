@@ -1,0 +1,38 @@
+{
+  "corpus_id": "LRyrWN-fftE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/LRyrWN-fftE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/LRyrWN-fftE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/LRyrWN-fftE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is an upbeat mid-century rockabilly and country-pop track set in a brisk 4/4 shuffle meter. The composition opens with a short, rhythmic acoustic guitar motif strummed with a bright, percussive tone before introducing the lead male vocal. The arrangement quickly establishes a buoyant, driving rhythm supported by a walking bassline, steady acoustic guitar strumming, and subtle percussion featuring a light snare shuffle.\n\nThe structure alternates between a catchy, harmonized chorus and solo narrative verses. In the choruses, the lead vocalist is joined by close-interval backing vocal harmonies that create a full, warm vocal texture. During the verses, the texture thins slightly to highlight the lead vocalist's clear, slightly melancholic delivery, accompanied by twangy, clean electric guitar fills that add rhythmic and melodic embellishments between vocal phrases.\n\nThe production style features classic vintage aesthetic choices, including a distinct slapback delay on the vocals and lead guitar, giving the sound a spatial sense of room resonance. The dynamics remain relatively consistent throughout the piece, maintaining a steady, energetic volume with slight dynamic surges during the chorus sections when the vocal harmonies enter. The mix is mostly centered with a narrow stereo spread, keeping the lead vocal and acoustic guitar grounded in the center while subtle guitar accents sit slightly to the sides.\n\nThe tonal character is warm and nostalgic, defined by the acoustic guitar's crisp high-end, the warm, rounded low-end of the bass, and the vintage vocal saturation. The overall mood creates an engaging emotional tension, blending an upbeat, danceable groove with a poignant, mournful vocal delivery. The track concludes with a repeating refrain of the chorus line, gradually fading out over the rhythmic acoustic guitar and bass pulse.\n\nGENRES: rockabilly, country pop, rock and roll, classic country"
+  },
+  "metadata": {
+    "youtube_id": "LRyrWN-fftE",
+    "title_extracted": null,
+    "corpus_id": "LRyrWN-fftE",
+    "uploader": "iersesetters",
+    "audio_file": "corpus/01_music_videos_audio/audio/LRyrWN-fftE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4580910,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.41879,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:04:19Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "j13oJajXx0M",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/j13oJajXx0M.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/j13oJajXx0M.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/j13oJajXx0M.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an informal spoken vocal cue over a soft acoustic guitar strum, immediately establishing a comfortable mid-tempo 4/4 meter. A warm, fingerstyle electric bassline enters alongside a steady drum kit featuring a crisp snare and clear hi-hat articulation. Acoustic guitars, panned to the sides, provide a continuous rhythmic strumming pattern that fills the stereo soundstage.\n\nA female lead vocalist enters in the center channel. Her voice is clear, expressive, and conversational, shaped by subtle room reverb that preserves closeness while blending smoothly with the band. The verse arrangement maintains a medium dynamic level, balancing the warm low-mid frequencies of the bass with the bright, crisp transients of the acoustic guitars. As the song moves into the chorus, the dynamics swell as layered, stereo-panned female backing harmonies join the lead, widening the soundscape and emphasizing the central melodic hook.\n\nDuring the bridge section, an electric guitar takes the lead, performing a lyrical solo characterized by a warm, gently overdriven tone with subtle modulation effects. The rhythm section continues its fluid, syncopated drive underneath. Following the instrumental break, the lead vocal returns with increased intensity, incorporating bluesy pitch bends, syncopated phrasing, and high-register ad-libs. The final section forms a vamp built around the repeating chorus refrain, accompanied by active bass flourishes and persistent percussive drive, before slowly fading out to conclude the track.\n\nGENRES: pop rock, folk rock, singer-songwriter"
+  },
+  "metadata": {
+    "youtube_id": "j13oJajXx0M",
+    "title_extracted": null,
+    "corpus_id": "j13oJajXx0M",
+    "uploader": "Carly Simon",
+    "audio_file": "corpus/01_music_videos_audio/audio/j13oJajXx0M.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8496724,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 7.398956,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:52:28Z"
+  },
+  "status": "success",
+  "error": null
+}

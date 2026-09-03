@@ -1,0 +1,38 @@
+{
+  "corpus_id": "sQgd6MccwZc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/sQgd6MccwZc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/sQgd6MccwZc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/sQgd6MccwZc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens immediately with a buoyant chorus featuring an expressive female lead vocal layered with wide stereo harmonies. The accompanying instrumental consists of clean, syncopated electric guitar stabs, a punchy drum beat with crisp snare snaps and tight hi-hats, and a deep, resonant synth bassline establishing a driving 4/4 mid-tempo groove. The production is polished and modern, utilizing clear spatial reverb and subtle delay effects on vocal phrase endings.\n\nAs the piece transitions into the first verse, the arrangement thins slightly to highlight a more intimate, rhythmic lead vocal. Subtle backing responses and syncopated vocal accents puncture the texture while the persistent bass and steady percussion maintain the rhythmic momentum. The pre-chorus progressively builds dynamic intensity, incorporating stacked vocal harmonies and subtle melodic swells that lead smoothly into the main chorus theme.\n\nThe chorus returns with full dynamic weight, re-engaging the prominent rhythmic guitar riffs and multi-tracked vocal layers within a broad stereo field. The second verse and pre-chorus maintain this structural momentum, featuring agile vocal inflections, pitch glides, and melismatic phrasing over the consistent bounce of the rhythm section.\n\nA contrasting bridge section introduces a temporary textural breakdown. Here, brief spoken vocal interjections and repeating harmony vocal motifs take prominence over a simplified percussion groove and rhythmic bassline. This section heightens emotional tension before transitioning into the final chorus reprise. In this final section, the production reaches its peak dynamic power, highlighted by soaring vocal ad-libs overlaying the primary chorus theme. The piece concludes with the vocal and instrumental elements gradually fading out into a clean final decay.\n\nGENRES: R&B, Pop, Contemporary R&B, Dance-Pop"
+  },
+  "metadata": {
+    "youtube_id": "sQgd6MccwZc",
+    "title_extracted": null,
+    "corpus_id": "sQgd6MccwZc",
+    "uploader": "Destiny's Child",
+    "audio_file": "corpus/01_music_videos_audio/audio/sQgd6MccwZc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7663778,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.211803,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:12:38Z"
+  },
+  "status": "success",
+  "error": null
+}

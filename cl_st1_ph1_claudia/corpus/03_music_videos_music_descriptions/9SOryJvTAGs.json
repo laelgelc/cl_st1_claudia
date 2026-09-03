@@ -1,0 +1,38 @@
+{
+  "corpus_id": "9SOryJvTAGs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/9SOryJvTAGs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/9SOryJvTAGs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/9SOryJvTAGs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with an energetic drum fill that immediately launches into a driving, medium-fast dance-rock groove in a 4/4 meter. The rhythm section features a prominent kick drum, a crisp snare accenting the second and fourth beats, and an active, syncopated electric bassline. Clean to mid-gain electric guitars play funky, syncopated chord stabs panned across the stereo field, complemented by punchy brass section stabs and subtle organ pads that reinforce the harmonic progression.\n\nVocally, the song is built on a dynamic interplay between expressive female lead vocals and an animated, spoken-shouted male vocal line, frequently engaging in call-and-response patterns and layered multi-part harmonies during the refrain sections. The vocals are treated with room reverb and slight compression, sitting prominently at the center of a wide stereo mix.\n\nStructurally, the track alternates between verse, pre-chorus, and chorus sections, maintaining a high-energy, party-like atmosphere throughout. A dramatic dynamic breakdown occurs towards the final movement, where the full instrumental texture suddenly strips away to leave only the bassline and a stripped-back drum beat. Rhythmic vocal chants and handclaps build suspense over this minimalist arrangement until an intense, solo shouted vocal interjection triggers the full ensemble—complete with blasting horn stabs, driving drums, and full vocal harmonies—to crash back in at maximum dynamic volume for the final refrain. The recording ends with a sharp drum fill, a brief lingering harmonic ring-out, and the ambient sound of crowd applause.\n\nGENRES: Dance-Rock, New Wave, Funk Rock, Pop Rock"
+  },
+  "metadata": {
+    "youtube_id": "9SOryJvTAGs",
+    "title_extracted": null,
+    "corpus_id": "9SOryJvTAGs",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/9SOryJvTAGs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8275298,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.414506,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:28:31Z"
+  },
+  "status": "success",
+  "error": null
+}

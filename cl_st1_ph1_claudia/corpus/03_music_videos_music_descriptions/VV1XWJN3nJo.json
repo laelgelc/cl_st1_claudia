@@ -1,0 +1,38 @@
+{
+  "corpus_id": "VV1XWJN3nJo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/VV1XWJN3nJo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/VV1XWJN3nJo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/VV1XWJN3nJo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a solo acoustic guitar playing a syncopated, mid-tempo strumming pattern in a 4/4 meter, joined almost immediately by a soft, rhythmically steady shaker. A clean bass guitar enters shortly after to establish the harmonic root notes. At roughly thirteen seconds, a clear, expressive female lead vocal enters, mixed center-stage with an intimate, close-mic'd quality enhanced by subtle vocal reverb and light delay effects.\n\nAs the arrangement moves toward the chorus, the dynamic level rises. A complete acoustic drum kit enters, establishing a driving pop-rock groove with a steady kick drum, snappy snare, and active hi-hats. In the chorus, multi-tracked backing vocal harmonies enter to widen the stereo field, while additional electric guitar accents layer over the acoustic guitar rhythm and prominent bassline. The tonal character is warm and well-balanced, featuring crisp treble clarity on the acoustic guitar and vocals alongside a warm, full low end.\n\nThe second verse retains the momentum of the chorus by maintaining a stripped-back drum beat beneath the lead vocal. The track steadily builds into subsequent chorus repetitions, where the dynamic range reaches its peak through higher vocal energy and denser instrument textures. A brief instrumental bridge section features a melodic electric guitar solo with mild overdrive, leading seamlessly back into the high-energy final choruses. During the extended outro, the lead vocal performs impassioned ad-libs alongside rich backing harmonies and soaring lead guitar fills, maintaining a strong, driving groove until the final decay.\n\nOverall, the production style is polished and expansive, using stereo panning to separate acoustic rhythm guitars, stereo backing vocals, and centered lead elements. The mood transitions between reflective intimacy in the verses and an uplifting, emotionally driving feel throughout the choruses.\n\nGENRES: pop, acoustic pop, pop rock"
+  },
+  "metadata": {
+    "youtube_id": "VV1XWJN3nJo",
+    "title_extracted": null,
+    "corpus_id": "VV1XWJN3nJo",
+    "uploader": "Natalie Imbruglia",
+    "audio_file": "corpus/01_music_videos_audio/audio/VV1XWJN3nJo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7784150,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.04933,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:39:16Z"
+  },
+  "status": "success",
+  "error": null
+}

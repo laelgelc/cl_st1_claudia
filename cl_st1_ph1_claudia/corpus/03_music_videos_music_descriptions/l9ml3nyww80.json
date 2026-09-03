@@ -1,0 +1,38 @@
+{
+  "corpus_id": "l9ml3nyww80",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/l9ml3nyww80.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/l9ml3nyww80.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/l9ml3nyww80.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "An energetic, 1980s-style synth-pop track in a four-four meter opens with an upbeat, rhythmic groove at approximately 120 BPM. The introduction features a prominent slap bassline, syncopated funk guitar strumming, punchy electronic drums with crisp hi-hats and handclaps, and rhythmic synth chord stabs. \n\nAt 0:18, a clear female lead vocal enters, delivering a melodic and rhythmic line over the driving accompaniment. The sound mix is clean and spacious, positioning the bass and kick drum in the center while rhythm guitars, synth textures, and percussion elements are spread across the stereo field. Reverb and light delay subtly enrich the vocals and snare drum hits. \n\nThe chorus begins at 0:51, introducing a dynamic lift as layered female backing harmonies join the lead vocal. The harmony remains in a bright major key with a slightly bittersweet melodic quality, driven continuously by active slap-bass fills and persistent guitar strumming. A brief instrumental interlude at 1:13 features melodic synth accents before verse two enters at 1:21, retaining the groove while focusing back on the lead vocal. \n\nA second chorus arrives at 1:38 with full vocal harmonies, leading into an instrumental section at 2:15 where synth hooks and rhythm guitar take prominence. The song reaches its peak at 2:40 with a extended final chorus, where dense vocal arrangements and counter-melodic synth lines intertwine over the steady beat. The track gradually fades out while maintaining its lively rhythm, conveying a buoyant yet reflective emotional tone.\n\nGENRES: Synth-Pop, Dance-Pop, Funk Pop, Disco"
+  },
+  "metadata": {
+    "youtube_id": "l9ml3nyww80",
+    "title_extracted": null,
+    "corpus_id": "l9ml3nyww80",
+    "uploader": "London Records",
+    "audio_file": "corpus/01_music_videos_audio/audio/l9ml3nyww80.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6790708,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.81534,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:08:20Z"
+  },
+  "status": "success",
+  "error": null
+}

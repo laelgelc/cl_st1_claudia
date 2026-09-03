@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Ssd3U_zicAI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Ssd3U_zicAI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Ssd3U_zicAI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Ssd3U_zicAI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an uptempo, driving rock intro in a four-four meter, dominated by a crunchy, distorted rhythm electric guitar riff panned wide across the stereo field. A punchy drum kit with an accented snare on beats two and four, alongside a driving bass guitar, provides a firm, energetic rhythmic foundation. \n\nAt roughly fifteen seconds, a male lead vocal enters centrally in the mix. The vocalist delivers a passionate, gravelly performance with subtle spatial reverb and slap-back delay, keeping the voice prominent yet integrated with the band. The underlying texture remains dense and driving through the verse, grounded by a minor-key harmonic movement.\n\nThe arrangement swells into a chorus at forty-three seconds, bringing a noticeable dynamic increase. The lead vocal ascends into a higher, strained register, reinforced by double-tracked vocal harmonies that expand the stereo soundstage. The guitars shift to thicker power chords, punctuated by ringing cymbal crashes. A brief instrumental interlude restores the primary guitar riff before transitioning into a second verse that maintains the established momentum.\n\nAfter a second high-energy chorus, a soaring electric guitar solo takes center stage around two minutes and six seconds. Played with a bright, singing timbre, the solo incorporates expressive pitch bends and blues-rock melodic licks, enhanced by delay effects while supported by steady rhythm guitar and bass.\n\nAt two minutes and thirty seconds, the track enters an extended final chorus where the vocal intensity reaches its apex through emotional ad-libs and held high notes. The dense arrangement transitions into an instrumental outro at three minutes and eleven seconds, featuring active drum fills and ringing guitar chords that ring out and fade to conclude the piece.\n\nGENRES: Rock, Hard Rock, Alternative Rock, Pop Rock"
+  },
+  "metadata": {
+    "youtube_id": "Ssd3U_zicAI",
+    "title_extracted": null,
+    "corpus_id": "Ssd3U_zicAI",
+    "uploader": "Elvis Costello",
+    "audio_file": "corpus/01_music_videos_audio/audio/Ssd3U_zicAI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6729778,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 37.634965,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:42:06Z"
+  },
+  "status": "success",
+  "error": null
+}

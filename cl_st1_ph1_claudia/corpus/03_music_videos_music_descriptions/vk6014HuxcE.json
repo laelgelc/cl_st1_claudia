@@ -1,0 +1,38 @@
+{
+  "corpus_id": "vk6014HuxcE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/vk6014HuxcE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/vk6014HuxcE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/vk6014HuxcE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a mid-tempo, driving 4/4 hip-hop groove built upon a punchy kick drum, crisp snare snap, steady hi-hat pattern, and a deep sub-bass synth line. Short piano or electric keyboard stabs provide rhythmic harmonic support alongside subtle vinyl warmth. A male lead vocalist enters with a rhythmic, syncopated rap delivery positioned prominently in the center of the stereo field, punctuated by occasional vocal ad-libs panned across the sides. \n\nThe texture expands significantly during the chorus as a lead female vocalist enters, singing a soaring, anthemic melody with strong vibrato and expansive reverb. Richly layered vocal harmonies and swelling synth pads widen the stereo image, accompanied by brass-style synth stabs that heighten the dynamic intensity. The arrangement thins back into the second verse, restoring emphasis to the core drum beat, sub-bass, and piano stabs while the male rapper delivers energetic verses with clear, direct articulation and subtle delay effects.\n\nThroughout the track, the structure alternates between beat-driven, rhythmic verses and dense, melodic hooks. The production features polished mixing, punchy dynamic compression on the rhythm section, and well-defined spatial separation between the central lead vocals, stereo-panned backing vocals, and instrumental accents. In the final section, the female vocal takes on extended melodic lines over a driving beat, sustained synth chords, and layered vocal call-and-response ad-libs, building to a high-energy climax before the track tapers off. The overall mood is triumphant, energetic, and celebratory.\n\nGENRES: Hip Hop, East Coast Hip Hop, Pop"
+  },
+  "metadata": {
+    "youtube_id": "vk6014HuxcE",
+    "title_extracted": null,
+    "corpus_id": "vk6014HuxcE",
+    "uploader": "JAŸ-Z",
+    "audio_file": "corpus/01_music_videos_audio/audio/vk6014HuxcE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9020566,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.949003,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:00:28Z"
+  },
+  "status": "success",
+  "error": null
+}

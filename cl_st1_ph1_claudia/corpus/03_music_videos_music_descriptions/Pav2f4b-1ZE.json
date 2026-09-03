@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Pav2f4b-1ZE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Pav2f4b-1ZE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Pav2f4b-1ZE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Pav2f4b-1ZE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is an upbeat, high-energy Eurodance and synth-pop track set in a 4/4 meter with a fast tempo of approximately 135 BPM. \n\nThe track opens with a plucked synth and acoustic guitar motif alongside rhythmic vocal chops, rapidly building momentum as a four-on-the-floor kick drum, crisp hi-hats, and a driving offbeat synth bassline establish a vibrant dance groove. At 0:16, the full chorus enters, featuring melodic female lead vocals processed with subtle reverb and stereo doubling. The texture is dense and bright, backed by layered synth pads, punchy percussion, and driving synth bass.\n\nA brief instrumental bridge occurs from 0:38 to 0:53, showcasing a brassy synthesizer hook playing a syncopated melodic line over the continuous drum beat. At 0:53, the first verse shifts focus to a dry, rhythmic male rap vocal delivered in a confident, spoken style over a stripped-back arrangement dominated by the synth bass and drum beat. At 1:12, the female vocals re-enter to establish a call-and-response dynamic, leading back into the second chorus at 1:23 with a full, dynamic return of the electronic instrumental layers.\n\nAt 1:53, an instrumental bridge introduces an accordion-style synth melody, adding a Latin-influenced melodic flair over the relentless electronic beat. The second verse begins at 2:09, reintroducing the male rap vocal over the steady bass-and-drum rhythm before transitioning smoothly back into the main female-led chorus at 2:39. The final section from 3:10 onward expands into an extended outro, blending chorus vocal hooks, male vocal interjections, and bright synth leads over the steady beat until the track comes to a final resolution.\n\nThroughout the piece, the stereo mix is widely panned, placing the vocals centrally while spreading synthesizers and percussion across the panorama. The mood remains energetic, celebratory, and dance-oriented, defined by major-key tonality, steady dynamic intensity, and polished electronic production.\n\nGENRES: Eurodance, Synth-Pop, Dance-Pop, Euro-House"
+  },
+  "metadata": {
+    "youtube_id": "Pav2f4b-1ZE",
+    "title_extracted": null,
+    "corpus_id": "Pav2f4b-1ZE",
+    "uploader": "Real McCoy",
+    "audio_file": "corpus/01_music_videos_audio/audio/Pav2f4b-1ZE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7633314,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.176732,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:41:25Z"
+  },
+  "status": "success",
+  "error": null
+}

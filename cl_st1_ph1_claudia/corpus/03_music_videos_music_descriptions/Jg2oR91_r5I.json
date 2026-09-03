@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Jg2oR91_r5I",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Jg2oR91_r5I.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Jg2oR91_r5I.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Jg2oR91_r5I.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a brief instrumental introduction featuring a strummed acoustic guitar, a low alternating bass line, and a sliding pedal steel guitar lead playing a melodic pickup. The tempo is a slow-to-moderate country shuffle in a steady 4/4 meter. The overall dynamic is soft and reserved, establishing a warm, melancholy, and reflective mood.\n\nAt eight seconds, a male lead vocalist enters with a prominent, expressive tone characterised by classic country nasal twang, gentle vibrato, and subtle pitch bends. The accompaniment maintains a transparent texture dominated by steady acoustic rhythm guitar, root-fifth double bass, and soft brushwork on a snare drum. Between vocal phrases, the pedal steel guitar and clean electric guitar provide melodic fill-ins that echo the lead melody. The harmony is built on traditional major-key diatonic progressions, evoking an aching, nostalgic emotional quality.\n\nAn instrumental solo section arrives around 1:08, where the steel guitar and clean electric guitar take center stage, performing a melodic passage rich in pitch slides, string bends, and blues-influenced ornamentation over the rhythmic foundation. The dynamic level remains balanced and smooth throughout this solo section, preserving the track's cozy, vintage atmosphere.\n\nThe vocal re-enters at 1:37 for a final verse and refrain, continuing the lyrical narrative with an earnest, sorrowful delivery. The backing instruments maintain their steady rhythmic pulse and counter-melodic fills, creating a supportive and cohesive balance. The performance gradually moves toward a final cadence near 2:35, where the tempo slightly eases into a soft, sustained closing chord led by the steel guitar and acoustic strum, resolving cleanly to a quiet finish.\n\nThe mix features a vintage, slightly narrow stereo soundstage with a gentle mid-range emphasis, subtle slapback delay, and ambient room reverb on the vocals and lead guitars, reminiscent of mid-20th-century country studio recordings.\n\nGENRES: Classic Country, Honky-Tonk, Traditional Country, Americana"
+  },
+  "metadata": {
+    "youtube_id": "Jg2oR91_r5I",
+    "title_extracted": null,
+    "corpus_id": "Jg2oR91_r5I",
+    "uploader": "tipetu",
+    "audio_file": "corpus/01_music_videos_audio/audio/Jg2oR91_r5I.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5210264,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.279596,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:02:35Z"
+  },
+  "status": "success",
+  "error": null
+}

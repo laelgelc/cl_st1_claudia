@@ -1,0 +1,38 @@
+{
+  "corpus_id": "6ZWoJ8_75Mo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/6ZWoJ8_75Mo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/6ZWoJ8_75Mo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/6ZWoJ8_75Mo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a spoken numeric count-in before immediately bursting into a high-energy, driving rock performance in a brisk 4/4 time signature. The instrumentation is centered around a prominent, pumping electric bass line playing steady eighth notes, accompanied by a gritty, distorted electric guitar providing rhythmic chordal backing, and an unembellished drum kit delivering a punchy backbeat with crisp snare hits and driving hi-hat rhythms.\n\nA male lead vocalist enters shortly after the intro, delivering verses in an expressive, conversational talk-singing style. The vocal tone is raw, energetic, and direct, processed with subtle room reverberation that keeps the performance front and center in the mix. The song maintains a relentless, forward-thrusting momentum built upon a straightforward, ostinato-like bass pattern and repeating major chord progression.\n\nAs the track develops, the dynamic level remains consistently intense. Mid-way through, an instrumental bridge features a distorted lead guitar performing blues-influenced solo riffs over the stable rhythm section, enhancing the track's raw rock aesthetic. Following this bridge, the lead vocal returns, leading into a vibrant section where a backing vocal ensemble joins in a repetitive call-and-response refrain. These backing vocals create a dense texture, layered across the stereo field against the lead vocalist’s increasingly passionate ad-libs. \n\nThe production reflects a vintage garage rock aesthetic, characterized by analogue warmth, bright cymbal decays, and an open stereo image where the driving bass anchors the low end while rhythm guitars span the sides. The arrangement finishes on an extended outro vamping on the core chord progression and vocal refrain before concluding with a final guitar decay and ambient room tail.\n\nGENRES: garage rock, proto-punk, pub rock, indie rock, rock and roll"
+  },
+  "metadata": {
+    "youtube_id": "6ZWoJ8_75Mo",
+    "title_extracted": null,
+    "corpus_id": "6ZWoJ8_75Mo",
+    "uploader": "Antonio",
+    "audio_file": "corpus/01_music_videos_audio/audio/6ZWoJ8_75Mo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7877030,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.667844,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:50:59Z"
+  },
+  "status": "success",
+  "error": null
+}

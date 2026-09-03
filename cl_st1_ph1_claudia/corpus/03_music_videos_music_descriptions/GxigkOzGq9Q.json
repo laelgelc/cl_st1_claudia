@@ -1,0 +1,38 @@
+{
+  "corpus_id": "GxigkOzGq9Q",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/GxigkOzGq9Q.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/GxigkOzGq9Q.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/GxigkOzGq9Q.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a light, rhythmic acoustic intro in a quadruple meter at a moderate tempo. An accordion plays a melodic motif alongside strummed acoustic guitar, a warm, syncopated bassline, and soft maracas providing a steady rhythmic shimmer. The texture is transparent and acoustic-driven. Shortly after the intro, a smooth, warm male lead vocal enters, delivered with expressive phrasing and a gentle, vintage-style reverb. The backing arrangement maintains a relaxed, Latin-influenced soul groove driven by the persistent shaker percussion and the melodic, bouncing bass pattern.\n\nAs the track develops, subtle accordion fills interject between vocal phrases. Around one minute in, the vocal delivery grows more passionate, supported by soft, sustained background vocal harmonies that widen the sonic landscape and enrich the mid-range texture. At one minute thirty-six seconds, the piece transitions into an instrumental section where a lush string section takes over the primary melody, playing expressive, soaring lines against the ongoing rhythmic foundation of strummed guitar, bass, maracas, and accordion counter-melodies.\n\nFollowing the instrumental feature, the male lead vocal returns with heightened emotional energy above the full ensemble. The track moves toward its conclusion as layered background vocals join with repetitive non-lexical refrains alongside accordion embellishments. The overall dynamic level gently subsides as the arrangement fades out. Throughout the piece, the production exhibits a vintage aesthetic characterized by warm acoustic timbres, balanced dynamics, subtle room ambience, and an uplifting, romantic mood.\n\nGENRES: Soul, Pop, Latin Soul, Rhythm & Blues, Vintage Pop"
+  },
+  "metadata": {
+    "youtube_id": "GxigkOzGq9Q",
+    "title_extracted": null,
+    "corpus_id": "GxigkOzGq9Q",
+    "uploader": "Ben E. King",
+    "audio_file": "corpus/01_music_videos_audio/audio/GxigkOzGq9Q.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5516396,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.300746,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:20:39Z"
+  },
+  "status": "success",
+  "error": null
+}

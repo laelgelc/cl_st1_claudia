@@ -1,0 +1,38 @@
+{
+  "corpus_id": "fWNaR-rxAic",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/fWNaR-rxAic.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/fWNaR-rxAic.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/fWNaR-rxAic.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a bright, arpeggiated plucked acoustic instrument—resembling a ukulele or acoustic guitar—accompanied immediately by a driving four-on-the-floor electro-pop beat with a punchy kick drum, synth bassline, and crisp electronic hi-hats. A clear, youthful female lead vocal enters at the start in a prominent centered stereo position, treated with subtle double-tracking, smooth reverb, and brief delay reflections. The track maintains a brisk tempo of approximately 120 BPM in 4/4 time, conveying an upbeat, optimistic, and energetic dance-pop mood.\n\nAs the arrangement transitions into the pre-chorus at 0:21, the vocal line rises in pitch and dynamic force, bolstered by swelling synth pads and accenting rhythmic stabs that build dynamic tension. At 0:28, the chorus explodes into maximum dynamic density, expanding the stereo image with lush vocal harmonies, soaring synth strings, layered handclaps, and a deep, driving electronic bass synth. The texture is polished and full-frequency, balancing bright treble detail with punchy low-end energy.\n\nThe second verse at 1:01 temporarily strips back the instrumentation to the core plucked acoustic motif, bass, and steady beat, providing effective dynamic contrast before ascending through another pre-chorus into a second chorus at 1:28. At 2:01, a bridge section introduces a rhythmic variation with pulsating synth chords and vocal repetition, followed at 2:19 by a concise breakdown that isolates the acoustic strumming. The song reaches its peak climactic energy at 2:25 during the final chorus, enhanced by soaring lead vocal ad-libs and dense layered production. Finally, the electronic beat and synths dissipate around 3:05, leaving the delicate solo acoustic plucked instrument to quietly fade, closing the recording on an intimate note.\n\nGENRES: Dance-Pop, Synth-Pop, Pop, Electro-Pop"
+  },
+  "metadata": {
+    "youtube_id": "fWNaR-rxAic",
+    "title_extracted": null,
+    "corpus_id": "fWNaR-rxAic",
+    "uploader": "Carly Rae Jepsen",
+    "audio_file": "corpus/01_music_videos_audio/audio/fWNaR-rxAic.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6382780,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.163571,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:40:27Z"
+  },
+  "status": "success",
+  "error": null
+}

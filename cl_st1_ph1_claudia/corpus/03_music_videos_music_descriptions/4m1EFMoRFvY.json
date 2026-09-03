@@ -1,0 +1,38 @@
+{
+  "corpus_id": "4m1EFMoRFvY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4m1EFMoRFvY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/4m1EFMoRFvY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/4m1EFMoRFvY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "Driven by an energetic 4/4 meter at a fast tempo, this dance-pop track opens with an immediate, upbeat electronic groove featuring a bouncy, syncopated synth bassline, crisp handclaps, and punchy drum machine percussion. Layered female call-and-response vocals quickly establish a catchy melodic hook accompanied by sharp, brass-like synth stabs.\n\nIn the verses, the instrumental texture thins slightly to highlight the rhythmic female lead vocal, which delivers punchy, syncopated phrases. The accompaniment relies on a driving bass pulse, snappy electronic snares, and accenting percussion panned across the stereo field. Subtle short delay and clean reverb enhance the vocal, while unison backing harmonies occasionally reinforce key phrases.\n\nThe track surges into the chorus with heightened dynamics, introducing rich vocal harmonies, energetic vocal chants, and prominent, brassy synth riffs that play in tight syncopation with the beat. The low end remains thick and resonant, anchored by the repeating synth bass motif, while the upper frequencies are brightened by crisp hi-hats and handclaps.\n\nFollowing a second iteration of the verse and chorus structure, a contrasting bridge section emerges. Here, the musical texture shifts as the lead vocal becomes more melismatic and expressive, soaring over sustained vocal pads and a steady, syncopated kick drum beat. The emotional intensity rises as the vocal ascends into higher registers with dramatic dynamic builds.\n\nThe arrangement climaxes into a final chorus featuring dense vocal stacking, wide-panned ad-libs, and driving dance percussion. Brassy synth accents and recurring vocal hooks sustain the high-energy, confident atmosphere until the track comes to a sudden, abrupt finish.\n\nGENRES: dance-pop, electropop, contemporary r&b, pop"
+  },
+  "metadata": {
+    "youtube_id": "4m1EFMoRFvY",
+    "title_extracted": null,
+    "corpus_id": "4m1EFMoRFvY",
+    "uploader": "Beyoncé",
+    "audio_file": "corpus/01_music_videos_audio/audio/4m1EFMoRFvY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6413988,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.460557,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:54:18Z"
+  },
+  "status": "success",
+  "error": null
+}

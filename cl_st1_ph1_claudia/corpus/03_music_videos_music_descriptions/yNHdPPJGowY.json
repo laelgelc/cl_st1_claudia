@@ -1,0 +1,38 @@
+{
+  "corpus_id": "yNHdPPJGowY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yNHdPPJGowY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/yNHdPPJGowY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/yNHdPPJGowY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens in a mid-tempo, four-four meter with strummed acoustic guitar, crunchy electric guitar fills, a driving drum kit, and a warm, melodic bassline. The overall mix balances folk-rock acoustic warmth with electric rock drive, distributed across a wide stereo field with acoustic strumming and electric guitar counter-melodies distinctly positioned to either side.\n\nA male lead vocal enters in the initial verse, delivering the melodic line in a conversational, slightly gritty, storytelling tone with subtle spatial reverb. The instrumentation in the verse remains relatively understated, focusing on the lead voice supported by steady drumming—marked by crisp snare hits on beats two and four—a fluid bassline, and periodic guitar embellishments. As the verse approaches the chorus, the arrangement gradually swells.\n\nThe chorus brings a notable dynamic and textural shift. Multi-part vocal harmonies join the lead singer to present a broad, anthemic hook. The rhythm section intensifies, backed by fuller electric guitar rhythm chords and active cymbal work that heighten the section's dynamic energy.\n\nThe track then transitions into a second verse, dropping back in volume and density to highlight the lead vocal once more. Intricate electric guitar fills weave between the vocal phrases until the arrangement builds back into another powerful chorus featuring the signature group harmonies and driving instrumental backing.\n\nIn the extended closing section, the repeated chorus functions as a vamp. Over the continuous harmonic vocal refrain and steady rhythmic groove, the lead vocalist transitions into impassioned, spoken and shouted ad-libs, creating an engaging, stage-like ambience. The full, energetic texture persists until the music slowly diminishes in volume, ending in a gradual fade-out.\n\nGENRES: Classic Rock, Glam Rock, Pop Rock, Singer-Songwriter"
+  },
+  "metadata": {
+    "youtube_id": "yNHdPPJGowY",
+    "title_extracted": null,
+    "corpus_id": "yNHdPPJGowY",
+    "uploader": "MOTTTHEHOOPLEVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/yNHdPPJGowY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6855352,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.182947,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:51:44Z"
+  },
+  "status": "success",
+  "error": null
+}

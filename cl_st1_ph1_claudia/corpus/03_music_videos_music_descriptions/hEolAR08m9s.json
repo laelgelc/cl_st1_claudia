@@ -1,0 +1,38 @@
+{
+  "corpus_id": "hEolAR08m9s",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hEolAR08m9s.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/hEolAR08m9s.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/hEolAR08m9s.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens at a brisk, upbeat tempo of approximately 128 BPM in a 4/4 swing meter. The underlying rhythm section features an energetic walking bassline, crisp drums with prominent hi-hat and snare articulation, and light rhythm guitar comping. From the outset, the track establishes a rich texture driven by a multi-part vocal ensemble singing rhythmic scat syllables that function as a persistent harmonic and rhythmic motif.\n\nThe harmonic progression follows classic major-key jazz-pop patterns, creating a bright, nostalgic, and joyous tonal character. Dynamic levels remain consistently elevated and buoyant throughout the performance. The audio production displays a warm, organic acoustic quality with a broad stereo image; the lead vocal is positioned prominently in the center with a mild room reverb, while the backing vocal harmonies and muted brass-like accents are panned across the stereo field.\n\nThe vocal arrangement features a soulful, expressive male lead with a resonant, clear timbre. The lead trades phrases in a lively call-and-response pattern with the backing ensemble and a distinct low baritone voice that periodically interjects low-register solo lines. The song structure moves seamlessly through verse and chorus sections before transitioning into a central instrumental solo. During this section, a clean, blues-inflected electric guitar takes the lead, delivering expressive pitch bends, vibrato, and fluid melodic runs over the walking rhythm section.\n\nFollowing the solo section, the arrangement revisits the primary vocal refrain, rebuilding the layered interaction between the lead singer, the low baritone voice, and the backing harmonies. The track culminates in an energetic vocal outro featuring scattered vocal improvisations and repeating scat patterns. The overall mood is uplifting, playful, and rhythmically engaging.\n\nGENRES: Doo-Wop, Swing, Pop Jazz, Rhythm and Blues"
+  },
+  "metadata": {
+    "youtube_id": "hEolAR08m9s",
+    "title_extracted": null,
+    "corpus_id": "hEolAR08m9s",
+    "uploader": "Oldies Zone",
+    "audio_file": "corpus/01_music_videos_audio/audio/hEolAR08m9s.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5170140,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.349828,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:45:59Z"
+  },
+  "status": "success",
+  "error": null
+}

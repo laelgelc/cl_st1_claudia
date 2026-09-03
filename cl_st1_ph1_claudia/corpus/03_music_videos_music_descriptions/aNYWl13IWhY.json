@@ -1,0 +1,38 @@
+{
+  "corpus_id": "aNYWl13IWhY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/aNYWl13IWhY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/aNYWl13IWhY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/aNYWl13IWhY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens within a vibrant live event setting, beginning with an announcer introducing a male performer amidst continuous, high-pitched audience screaming and cheering. The lead vocalist engages in brief spoken banter over sporadic acoustic guitar chord strums, light bass accents, and subtle drum taps before signaling the start of the song.\n\nThe performance abruptly shifts into a high-energy, fast-tempo rock 'n' roll number set in a swinging 4/4 time signature. The instrumentation is driven by a prominent lead male vocal, rhythm acoustic guitar, dynamic electric guitar, slap-style double bass, and an energetic drum kit providing a driving snare and cymbal groove. Built around a standard 12-bar blues harmonic structure, the music maintains a bright, major-key tonal character with a fast, relentless momentum. The lead vocalist delivers an expressive, energetic performance using rhythmic accents, pitch glides, and dynamic vocal emphasis.\n\nThe mix reflects a vintage live sound, characterized by a compressed dynamic range, narrow stereo field, and strong ambient audience noise that persists throughout the track. Near the middle of the song, the vocal pauses as the electric guitar takes center stage for a bright, twangy guitar solo featuring syncopated blues riffs and rapid strumming before the lead vocal re-enters for the final verses. The band maintains a high dynamic volume until reaching a decisive, synchronized closing cadence.\n\nAfter the final chord, the instrumental accompaniment ceases, leaving a sustained roar of ecstatic crowd screams and applause. The lead vocalist speaks directly into the microphone to deliver warm closing remarks and acknowledgments, speaking over the relentless audience noise until the recording concludes.\n\nGENRES: rock 'n' roll, rockabilly, live performance, classic rock"
+  },
+  "metadata": {
+    "youtube_id": "aNYWl13IWhY",
+    "title_extracted": null,
+    "corpus_id": "aNYWl13IWhY",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/aNYWl13IWhY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6954920,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.130887,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:32:51Z"
+  },
+  "status": "success",
+  "error": null
+}

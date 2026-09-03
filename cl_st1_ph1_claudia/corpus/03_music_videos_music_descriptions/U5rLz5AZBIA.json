@@ -1,0 +1,38 @@
+{
+  "corpus_id": "U5rLz5AZBIA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/U5rLz5AZBIA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/U5rLz5AZBIA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/U5rLz5AZBIA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a short sound design intro from 0:00 to 0:08, featuring sweeping, filtered synth effects and atmospheric sound swells that build directly into a full-tempo drop. At 0:08, a mid-tempo, bouncy 4/4 groove enters at approximately 105 BPM, propelled by a punchy kick drum, crisp snare, syncopated hi-hat pattern, and a plump, melodic synth bassline. A rhythmically strummed funky clean electric guitar and subtle synth key stabs complete the dynamic instrumental backing.\n\nA male lead vocalist delivers rhythmic, rap-inflected verses with a confident, upfront mix treatment, featuring subtle vocal doubling and slight delay. At 0:42, the chorus introduces a female lead vocalist singing smooth, soaring melodies supported by lush stereo vocal harmonies and pitch-layered backing vocals. The male vocalist contributes call-and-response interjections and ad-libs throughout the chorus, creating a playful vocal interplay.\n\nThe track follows a structured verse-chorus arrangement. Verse sections feature drier male vocal delivery over the core rhythmic groove, while chorus sections expand harmonically with layered female vocals, brighter synth pads, and denser, shimmering textures. At 2:05, the arrangement shifts into a dedicated rap section where the male vocal takes a dominant, central position over a slightly stripped-back beat before transitioning back into a grand final chorus at 2:39. \n\nHarmonically, the track relies on a bright, major-mode chord progression that remains consistent throughout, creating an uplifting, warm, and romantic mood. The production is polished and bright, utilizing panning to separate guitars and vocal harmonies across the stereo field while keeping the kick drum, bass, and main lead vocals centered. The recording concludes on a final drum hit and lingering vocal delay effect.\n\nGENRES: R&B, Pop, Hip Hop, Contemporary R&B"
+  },
+  "metadata": {
+    "youtube_id": "U5rLz5AZBIA",
+    "title_extracted": null,
+    "corpus_id": "U5rLz5AZBIA",
+    "uploader": "Timbaland",
+    "audio_file": "corpus/01_music_videos_audio/audio/U5rLz5AZBIA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6774360,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.509176,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:29:32Z"
+  },
+  "status": "success",
+  "error": null
+}

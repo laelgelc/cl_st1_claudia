@@ -1,0 +1,38 @@
+{
+  "corpus_id": "_FrOQC-zEog",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/_FrOQC-zEog.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/_FrOQC-zEog.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/_FrOQC-zEog.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a tense, chaotic soundscape featuring reverberant sirens, frantic shouting voices, indistinct public announcements, and a heavy, pulsating heartbeat-like rhythm. These sound effects gradually intensify alongside sweeping synthesizer pitch risers, culminating in a dramatic sonic transition into the main musical section around 00:34.\n\nThe song then settles into a slow, spacious 4/4 tempo grounded by a laid-back rock drum groove, a warm, melodic bassline, and chorused electric guitar arpeggios. A male lead vocal enters with an intimate, mid-register delivery treated with subtle delay and hall reverb. As the piece transitions into the chorus sections, lush multi-tracked vocal harmonies enter to widen the stereo field, reinforcing a melancholic, reflective minor-key chord progression.\n\nAt 02:37, the vocals yield to an expressive, lyrical electric guitar solo characterized by a warm, bluesy tone with generous delay and sustain. The dynamic level remains measured as the rhythm section maintains a steady, relaxed foundation beneath the guitar's soaring bends. Following the solo, the vocals return with a conversational, narrative quality before building in intensity into a powerful, resonant chorus refrain.\n\nAround 05:00, the song escalates into a dramatic, high-energy outro guitar solo. The lead guitar tone shifts to a more aggressively distorted sound, featuring passionate pitch bends, fast bluesy runs, and extended sustain. The drums become noticeably more active with driving cymbal work and energetic drum fills, while the bass provides a pulsing, steady anchor. The production creates an expansive stereo image with atmospheric synth pads and rhythm guitars flanking the centered lead guitar. The mood remains deeply reflective yet triumphant as the guitar solo continues to build towards the song's conclusion.\n\nGENRES: Progressive Rock, Art Rock, Classic Rock, Psychedelic Rock"
+  },
+  "metadata": {
+    "youtube_id": "_FrOQC-zEog",
+    "title_extracted": null,
+    "corpus_id": "_FrOQC-zEog",
+    "uploader": "HELLOSEMPA",
+    "audio_file": "corpus/01_music_videos_audio/audio/_FrOQC-zEog.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 13249198,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.421241,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:31:11Z"
+  },
+  "status": "success",
+  "error": null
+}

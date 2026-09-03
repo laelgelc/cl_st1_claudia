@@ -1,0 +1,38 @@
+{
+  "corpus_id": "62jZldkMC_o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/62jZldkMC_o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/62jZldkMC_o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/62jZldkMC_o.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a lively, mid-tempo groove in 4/4 meter, driven by a syncopated, octave-hopping bassline, crisp drums featuring a punchy kick drum, snappy snare on beats two and four, and steady hi-hats. A bright, funk-style rhythm guitar plays clean, rhythmic chordal chops panned across the stereo field, establishing an upbeat, danceable, and joyful mood rooted in a bright major key.\n\nAt approximately 0:12, a soulful female lead vocal enters, delivering an expressive, soaring melody with a warm, full-bodied timbre and subtle room reverb. As the verse unfolds, tight stabs from a brass section—featuring trumpets, trombones, and saxophones—punctuate the vocal phrases, adding harmonic richness and dynamic momentum. The rhythm section maintains an infectious, steady disco-funk bounce underneath.\n\nThe track moves into the chorus at 0:45, marked by the entry of lush, multi-tracked female backing vocals singing layered harmonies in call-and-response with the lead singer, significantly widening the stereo image. The lead vocals escalate in intensity with powerful belts and melismatic ad-libs, while the horn section plays prominent counter-melodies that fill the space between vocal lines.\n\nA second verse begins around 1:02, temporarily paring down the vocal density while retaining the driving rhythm. Dynamic horn stabs and energetic vocal improvisations continually propel the song forward into subsequent chorus cycles from 1:39 onward. The final section maintains a peak kinetic feel, characterized by continuous hook repetitions, dramatic vocal ad-libs, and a dense, layered texture of brass stabs, rhythm guitar, and active basswork. The production is polished and punchy, featuring clear separation between instruments and a vibrant, expansive mix.\n\nGENRES: Disco, Soul, Funk, R&B, Boogie"
+  },
+  "metadata": {
+    "youtube_id": "62jZldkMC_o",
+    "title_extracted": null,
+    "corpus_id": "62jZldkMC_o",
+    "uploader": "Classic Sounds 70s",
+    "audio_file": "corpus/01_music_videos_audio/audio/62jZldkMC_o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6525442,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.208669,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:38:54Z"
+  },
+  "status": "success",
+  "error": null
+}

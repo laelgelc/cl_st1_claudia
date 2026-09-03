@@ -1,0 +1,38 @@
+{
+  "corpus_id": "BUt0dZXPFoU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/BUt0dZXPFoU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/BUt0dZXPFoU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/BUt0dZXPFoU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a bright acoustic rhythm guitar strumming a syncopated riff in a driving 4/4 meter at an upbeat mid-tempo. A rapid snare drum fill introduces the full rhythm section, featuring a punchy kick drum, crisp snare on beats two and four, steady hi-hat, tambourine accents, and a warm, active electric bassline that provides a solid low-end foundation. The dynamic level remains consistently high and energetic, establishing a propulsive blues-rock groove.\n\nA gritty, raspy male lead vocal enters shortly after the intro, delivered with passionate, bluesy inflections and expressive urgency. The vocal track is positioned centrally in the stereo mix and enhanced with subtle room reverb and analog slapback delay, preserving its raw and assertive timbre. The verses and refrains alternate fluidly, sustained by continuous acoustic guitar strumming and a tight rhythm section, punctuated by occasional electric guitar fills. \n\nAs the track develops, the texture thickens through layered vocal accentuation and increasingly energetic drum embellishments. Around two minutes and twenty-eight seconds in, the vocal yields to a climaxing guitar solo featuring an overdriven electric guitar. The solo delivers expressive, bend-heavy blues-rock phrasing panned across the stereo field to contrast with the acoustic rhythm guitar. The rhythm section maintains its relentless momentum beneath the solo, supporting the track through a gradual fade-out as the guitar improvisation continues to peak.\n\nThe production reflects a vintage rock aesthetic, utilizing a wide stereo image to separate rhythm and lead guitars while keeping the bass and drums firmly grounded in the center. Grounded in diatonic blues-rock harmony, the piece conveys an anthemic, energetic, and rebellious mood from start to finish.\n\nGENRES: classic rock, blues rock, folk rock"
+  },
+  "metadata": {
+    "youtube_id": "BUt0dZXPFoU",
+    "title_extracted": null,
+    "corpus_id": "BUt0dZXPFoU",
+    "uploader": "ABKCOVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/BUt0dZXPFoU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6298816,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.626362,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:38:22Z"
+  },
+  "status": "success",
+  "error": null
+}

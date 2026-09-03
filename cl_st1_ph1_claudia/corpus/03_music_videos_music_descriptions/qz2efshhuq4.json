@@ -1,0 +1,38 @@
+{
+  "corpus_id": "qz2efshhuq4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/qz2efshhuq4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/qz2efshhuq4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/qz2efshhuq4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a brief spoken onstage introduction and enthusiastic audience cheers, immediately resolving into a warm, mid-tempo soul ballad in 4/4 meter. The instrumental foundation features a gentle electric piano comping alongside a steady drum groove, clean electric guitar chords, and a prominent, melodically fluid electric bass line. \n\nAn expressive lead female vocalist enters, delivering a soulful, gospel-inflected performance with a rich dynamic range. Her voice is captured with clear, close-mic clarity and enhanced by subtle hall reverb, allowing her nuances—from soft, breathy phrases to powerful, emotive belts—to stand out in the stereo mix. During the verses, the arrangement remains relatively sparse, emphasizing the intimate interaction between the lead voice, piano, and rhythm section.\n\nAs the track moves toward the chorus, the arrangement expands with the addition of punchy brass accents, as well as a multi-part female backing vocal ensemble providing rich call-and-response harmonies. The dynamic level swells significantly, driven by punchier drum fills, open hi-hat accents, and crisp snare strikes on beats two and four.\n\nIn the subsequent verse and extended chorus section, the performance reaches a grand climax. The lead singer incorporates dramatic vocal ornamentations, high-register belts, and expressive melismas over an increasingly energetic rhythm section and syncopated horn stabs. The dynamic level remains high throughout the final vamp, punctuated by spontaneous audience reactions that bleed naturally into the live acoustic environment. The piece culminates in a triumphant, sustained final harmonic cadence played by the full ensemble, giving way to extended applause from the audience.\n\nGENRES: Soul, Gospel, R&B, Live Performance"
+  },
+  "metadata": {
+    "youtube_id": "qz2efshhuq4",
+    "title_extracted": null,
+    "corpus_id": "qz2efshhuq4",
+    "uploader": "MNOW: “MNOW: A MOROCCAN MAGAZINE” A MOROCCAN MAGAZINE",
+    "audio_file": "corpus/01_music_videos_audio/audio/qz2efshhuq4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8215856,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 8.004288,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:58:02Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "jipQpjUA_o8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/jipQpjUA_o8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/jipQpjUA_o8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/jipQpjUA_o8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a syncopated Afrobeat rhythmic pattern built around a punchy kick drum, crisp percussive shakers, snappy snare claps on the offbeats, and a rounded, syncopated synth bassline. A male lead vocal enters almost immediately, employing a smooth, melodic delivery enhanced by noticeable pitch-correction processing, subtle spatial delay, and ambient reverb. \n\nAt approximately twenty seconds, a female lead vocal takes over the main melody, presenting a warm, expressive tone with a relaxed, soulful cadence. The groove continues at a steady mid-tempo in a four-four meter, backed by gentle synth chords and continuous percussive movement in the high frequencies. The arrangement shifts into a hook-driven chorus section where the female vocal expands in range and density, supported by layered stereo harmonies and ad-libbed counter-melodies.\n\nAs the song develops, a clear call-and-response dynamic emerges between the two singers. The male vocal re-enters with syncopated phrasing in the middle section, creating vocal contrast against the female vocalist's sustained, lyrical lines. Textural variations throughout the track remain subtle, relying on vocal layering, pitch accents, and dynamic vocal interjections rather than drastic harmonic changes. \n\nThe production is modern and polished, featuring a clear stereo image that places the lead vocals and bass centrally, while panning percussion and vocal delays broadly across the soundstage. The tonal character is warm and bass-heavy, balancing a punchy low-end presence with crisp, bright high-frequency shakers. The overall atmosphere is intimate, romantic, and danceable, maintaining a smooth, syncopated mid-tempo feel from beginning to end.\n\nGENRES: Afrobeats, Afro-pop, Afro R&B, Contemporary R&B"
+  },
+  "metadata": {
+    "youtube_id": "jipQpjUA_o8",
+    "title_extracted": null,
+    "corpus_id": "jipQpjUA_o8",
+    "uploader": "StarBoy TV",
+    "audio_file": "corpus/01_music_videos_audio/audio/jipQpjUA_o8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7842108,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.070027,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:11:57Z"
+  },
+  "status": "success",
+  "error": null
+}

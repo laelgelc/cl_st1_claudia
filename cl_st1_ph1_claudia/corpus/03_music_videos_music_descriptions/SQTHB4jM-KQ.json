@@ -1,0 +1,38 @@
+{
+  "corpus_id": "SQTHB4jM-KQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/SQTHB4jM-KQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/SQTHB4jM-KQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/SQTHB4jM-KQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a solo acoustic guitar playing a relaxed, fingerpicked and strummed introductory figure in a steady 4/4 meter at a moderate tempo. Shortly after, a raspy, soulful male lead vocal enters, positioned prominently in the center of the stereo image with subtle spatial reverb. The harmonic structure is rooted in a warm folk-rock major and minor tonal palette, conveying a melancholic yet hopeful emotional quality.\n\nAround the one-minute mark, the arrangement expands into the first chorus with the introduction of a gentle electric bass guitar and a soft, driving drumkit featuring light cymbal brushwork, a grounded kick drum, and an understated snare groove. The lead vocal dynamics swell in tandem, delivering a more impassioned and expressive vocal timbre.\n\nAs the track proceeds into subsequent verses, the instrumentation maintains a warm, organic, acoustic-driven texture. Electric guitar fills subtly weave into the background, adding melodic counter-lines opposite the main vocal. The stereo field is thoughtfully organized, with rhythmic acoustic strumming placed slightly off-center while the lead vocals, bass, and percussion anchor the middle. \n\nThe piece reaches its dynamic peak during the recurring chorus sections, where the full ensemble plays together in a rich, cohesive texture. The tempo remains consistently grounded throughout, allowing the emotional weight of the vocal performance to guide the musical arc. In the final section, the instrumentation slowly begins to de-escalate, culminating in an extended outro where the drums and bass taper off, leaving the acoustic guitar to play a final strummed chord that slowly decays into silence.\n\nGENRES: Folk Rock, Singer-Songwriter, Acoustic Rock, Classic Rock"
+  },
+  "metadata": {
+    "youtube_id": "SQTHB4jM-KQ",
+    "title_extracted": null,
+    "corpus_id": "SQTHB4jM-KQ",
+    "uploader": "The Rolling Stones",
+    "audio_file": "corpus/01_music_videos_audio/audio/SQTHB4jM-KQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11166462,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.96833,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:24:25Z"
+  },
+  "status": "success",
+  "error": null
+}

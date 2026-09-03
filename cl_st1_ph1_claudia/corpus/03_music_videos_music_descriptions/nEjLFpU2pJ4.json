@@ -1,0 +1,38 @@
+{
+  "corpus_id": "nEjLFpU2pJ4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nEjLFpU2pJ4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/nEjLFpU2pJ4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/nEjLFpU2pJ4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a dramatic, un-accompanied male lead vocal holding a high, melismatic sustain enhanced with room reverberation. At 00:05, an explosive, fast-tempo 4/4 rhythm section enters, driven by an energetic backbeat on the snare drum, driving bassline, rhythmic electric guitar strumming, and bright brass and horn stabs. The lead vocalist delivers a passionate, raspy, and soulful performance, constantly engaging in tight call-and-response interactions with a chorus of backing vocalists.\n\nAround 00:46, the arrangement shifts into a rhythmic breakdown where the backing vocals establish a repetitive, rhythmic vocal chant while the lead vocal adopts a more conversational, narrative cadence over the driving beat. Bright horn stabs punctuate key accents, maintaining a high level of energy that leads back into a roaring chorus section enriched by dense multi-layered instrumental textures and energetic drum fills.\n\nA dramatic structural transition occurs at 02:10, when the fast tempo abruptly drops into a slow, bluesy breakdown. The full band thins out to sparse organ and guitar accompaniment, giving space for the lead vocalist to sustain an expressive, dynamic vocal line. This suspended moment is shattered at 02:22 by a rapid drum fill and a soaring scream, thrusting the ensemble back into its unrelenting, fast uptempo groove.\n\nAt 02:42, the performance initiates a extended dynamic breakdown and crescendo. The volume drops dramatically to a soft whisper, characterized by muted guitar strums, light drum work, and hushed call-and-response vocals. Over the following minute, the music steadily builds in volume, dynamic intensity, and vocal projection, eventually culminating around 03:46 in a climax of full-volume shouts, driving percussion, blaring brass, and exuberant vocal ad-libs. The mix features a warm, vintage analog aesthetic with broad stereo placement of the brass and backing choir.\n\nGENRES: Rhythm and Blues, Soul, Rock and Roll, Gospel"
+  },
+  "metadata": {
+    "youtube_id": "nEjLFpU2pJ4",
+    "title_extracted": null,
+    "corpus_id": "nEjLFpU2pJ4",
+    "uploader": "GreatOldiesDJ",
+    "audio_file": "corpus/01_music_videos_audio/audio/nEjLFpU2pJ4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8257466,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.481322,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:33:29Z"
+  },
+  "status": "success",
+  "error": null
+}

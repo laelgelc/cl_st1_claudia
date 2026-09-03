@@ -1,0 +1,38 @@
+{
+  "corpus_id": "oyEuk8j8imI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oyEuk8j8imI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/oyEuk8j8imI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/oyEuk8j8imI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief, dry spoken dialogue by a male voice set against a quiet background ambiance, establishing an intimate tone. At 0:10, a warm acoustic guitar enters playing a syncopated fingerstyle pattern in a relaxed, slow-to-mid-tempo quadruple meter. The harmony relies on a diatonic major progression rich in extended chords, giving the music a soulful, jazz-inflected character.\n\nFollowing the intro, a smooth male lead vocal enters with a rhythmic, conversational delivery. The lead vocal is positioned prominently in the center of the stereo image, enhanced by subtle reverb and delay that add natural space without cluttering the dry, organic production. The arrangement remains minimalist throughout the verses, relying entirely on the fingerpicked acoustic guitar to drive the syncopated groove and harmonic movement in the absence of drums or bass.\n\nDuring the refrain sections, the texture expands as multi-tracked backing harmonies enter, panned broadly to the left and right to enhance stereo depth. The dynamic intensity rises subtly alongside a more emotive vocal delivery. Around 2:43, the arrangement transitions into an instrumental bridge featuring an acoustic guitar solo. The solo tone is warm and rounded, utilizing expressive slides, bluesy pitch inflections, and syncopated phrasing over steady rhythmic guitar strumming.\n\nThe song concludes with a final refrain where the lead vocal performs expressive melodic variations and ad-libs over layered vocal harmonies. The dynamics gradually subside during the outro, culminating in a gentle slowing of the acoustic guitar’s arpeggiated chords, which decay smoothly into quiet silence. The overall mood is intimate, reflective, and soulful, defined by its warm acoustic timbre and balanced stereo presentation.\n\nGENRES: Acoustic, Pop, R&B, Soul"
+  },
+  "metadata": {
+    "youtube_id": "oyEuk8j8imI",
+    "title_extracted": null,
+    "corpus_id": "oyEuk8j8imI",
+    "uploader": "Justin Bieber",
+    "audio_file": "corpus/01_music_videos_audio/audio/oyEuk8j8imI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8712948,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.038285,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:17:22Z"
+  },
+  "status": "success",
+  "error": null
+}

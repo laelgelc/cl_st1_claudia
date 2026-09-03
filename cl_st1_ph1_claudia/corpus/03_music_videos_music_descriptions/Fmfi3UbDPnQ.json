@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Fmfi3UbDPnQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Fmfi3UbDPnQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Fmfi3UbDPnQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Fmfi3UbDPnQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with ambient live audience cheering and applause, which quickly transitions at around 0:05 into an energetic rock groove. Set in a driving 4/4 meter at a moderately fast tempo, the track features a classic rock instrumentation comprising a drum kit, electric bass, overdriven rhythm and lead electric guitars, a gritty male lead vocal, and supporting backing vocals. The harmonic foundation is rooted in a major blues-rock tonality centered around syncopated electric guitar riffing.\n\nThe rhythm section provides a constant, bouncy momentum with a prominent snare backbeat, energetic bassline, and rhythmic guitar chords spread across the stereo field. At approximately 0:32, the lead male vocalist enters with a raspy, full-chested vocal delivery characterized by gritty texture and dynamic intensity. Moderate room reverb and subtle delay enhance the vocal, giving it a spacious, live stage character. During the refrains at 0:50 and 1:23, unison and harmonic backing vocals join, enriching the vocal texture.\n\nA featured guitar solo begins around 1:38 and continues until 2:03. The lead guitar delivers expressive blues-style licks, featuring heavy pitch bends, rapid pentatonic runs, and wide vibrato over the steady bass and drum foundation. Following the solo, the track returns to a third verse and an expanded chorus section, where the lead vocalist delivers high-register ad-libs alongside lively call-and-response vocal figures.\n\nThe dynamic profile remains consistently high throughout the performance, peaking during the vibrant outro starting around 2:45. Here, drum fills become more frequent and emphatic while the lead guitar provides counter-melodic accents behind the vocal ad-libs. The song concludes around 3:18 on a sustained final guitar chord and drum crash flourish, leaving the singer's final vocal shout to blend into renewed audience applause.\n\nGENRES: Blues Rock, Classic Rock, Hard Rock, Rock and Roll"
+  },
+  "metadata": {
+    "youtube_id": "Fmfi3UbDPnQ",
+    "title_extracted": null,
+    "corpus_id": "Fmfi3UbDPnQ",
+    "uploader": "The Rolling Stones",
+    "audio_file": "corpus/01_music_videos_audio/audio/Fmfi3UbDPnQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6483832,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 45.733718,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:00:12Z"
+  },
+  "status": "success",
+  "error": null
+}

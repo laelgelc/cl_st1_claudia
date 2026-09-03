@@ -1,0 +1,38 @@
+{
+  "corpus_id": "o1tj2zJ2Wvg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/o1tj2zJ2Wvg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/o1tj2zJ2Wvg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/o1tj2zJ2Wvg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an ambient, distorted electric guitar effect fading in with stereo panning before settling into a distinctive, syncopated riff played on a solo overdriven electric guitar. The introductory riff features a bright, crunchy tone with bluesy pitch bends, slides, and chromatic scalar motion. At roughly fifteen seconds, the entire band enters with a high-energy explosion: a driving 4/4 rock drum groove with a crisp, resonant snare on beats two and four, a punchy kick drum, and sizzling open hi-hats, supported by a rich bass guitar driving the root notes, and doubled rhythm guitars panned hard left and right to construct a broad stereo image.\n\nThe lead male vocals enter soon after, defined by a highly aggressive, raspy, and raw vocal timbre. The vocalist alternates fluidly between gritty mid-register verse phrases and piercing, high-register screeching accents. The verses maintain an urgent hard-rock tempo and dense texture, punctuated by punchy drum fills, syncopated bass accents, and rhythm guitar power-chord progressions. Guitar solo sections showcase blues-rock phrasing, fast fingerwork, expressive vibrato, and room-reverb spatial processing.\n\nA major structural shift occurs midway through the piece, transitioning into a spacious half-time breakdown where the drum groove decelerates while sustained guitar chords and soaring, melodic vocal sustained notes create a tense, dramatic atmosphere. Tension steadily builds via chromatic ascending bass motion, frantic hi-hat patterns, accelerating drum fills, and spoken-word vocal interjections. The composition culminates in a powerful re-entry of the primary groove at peak dynamic intensity, characterized by dramatic cymbal crashes, soaring vocal screeches, and dense multi-layered guitar textures, eventually terminating on a heavy, decaying final guitar chord with reverberant tail.\n\nGENRES: Hard Rock, Heavy Metal, Blues Rock"
+  },
+  "metadata": {
+    "youtube_id": "o1tj2zJ2Wvg",
+    "title_extracted": null,
+    "corpus_id": "o1tj2zJ2Wvg",
+    "uploader": "Guns N' Roses",
+    "audio_file": "corpus/01_music_videos_audio/audio/o1tj2zJ2Wvg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8933630,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 25.425821,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:53:36Z"
+  },
+  "status": "success",
+  "error": null
+}

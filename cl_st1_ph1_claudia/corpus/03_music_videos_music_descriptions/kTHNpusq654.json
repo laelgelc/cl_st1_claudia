@@ -1,0 +1,38 @@
+{
+  "corpus_id": "kTHNpusq654",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/kTHNpusq654.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/kTHNpusq654.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/kTHNpusq654.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a quiet, dramatic outdoor spoken-word scene. Ambient noise and soft bird sounds establish a natural acoustic environment. A deep, dry male voice speaks in a slow, solemn cadence, officiating a wedding ceremony. A gentle, dry female voice responds with \"I do.\" The officiant then addresses the groom, followed by a long, quiet pause filled only with ambient air, creating dramatic tension.\n\nAt 00:32, the track abruptly cuts into an energetic, uptempo 4/4 synth-pop song. The groove is driven by a steady four-on-the-floor electronic kick drum, crisp backbeat handclaps, and a pumping, sidechain-compressed synth bassline. Bright, modern synthesizer chords and arpeggios fill the stereo field. A vibrant, youthful female lead vocal enters at 00:36, processed with modern pop production techniques including heavy compression, subtle slap-back delay, double-tracking, and wide stereo vocal harmonies during the chorus sections. The song follows a dynamic pop structure, moving through driving verses, high-energy choruses with stacked vocal harmonies and dense synth textures, a brief instrumental breakdown, a pulsing bridge, and a final climax at maximum dynamic intensity.\n\nAt 04:08, the pop song suddenly cuts out, returning instantly to the quiet outdoor atmosphere of the wedding ceremony. Following a momentary hesitation, a male voice stammers \"I do\" at 04:24. Immediately, a crowd erupts into enthusiastic cheering and applause, accompanied by a bright, upbeat pop-rock celebration theme featuring energetic electric guitars and live-sounding acoustic drums, ending the recording on an exuberant and joyful note.\n\nGENRES: Synth-Pop, Dance-Pop, Cinematic Soundscape, Pop Rock"
+  },
+  "metadata": {
+    "youtube_id": "kTHNpusq654",
+    "title_extracted": null,
+    "corpus_id": "kTHNpusq654",
+    "uploader": "Katy Perry",
+    "audio_file": "corpus/01_music_videos_audio/audio/kTHNpusq654.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9062920,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.230548,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:43:57Z"
+  },
+  "status": "success",
+  "error": null
+}

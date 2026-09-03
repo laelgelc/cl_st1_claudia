@@ -1,0 +1,38 @@
+{
+  "corpus_id": "rm9coqlk8fY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/rm9coqlk8fY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/rm9coqlk8fY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/rm9coqlk8fY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is an acoustic folk-rock track set in a slow, steady 4/4 time signature with a relaxed, unhurried tempo. It opens with an introductory section featuring strummed acoustic guitar, a warm acoustic or bass line in the low register, and subtle percussion consisting of a soft shaker and gentle drum kit accents. Wordless vocal hums introduce a melancholic, introspective mood prior to the first verse.\n\nA male lead vocalist enters around 0:29, delivering an earnest, slightly raspy, and intimate performance positioned centrally in the stereo image. The arrangement during the verse remains sparse and organic, built upon cyclic acoustic guitar chord progressions, grounded bass notes, and a light, brushed drum groove. The production maintains a warm acoustic aesthetic, utilizing natural room reverberation on the vocals and acoustic instruments to create spatial depth.\n\nAt 0:56, the track moves into its chorus, marked by a modest dynamic swell. Layered backing vocal harmonies enter to support the lead vocal, expanding the vocal texture and adding emotional weight while the underlying rhythmic groove stays continuous. The stereo field features panned acoustic guitar strumming, framing the centered lead voice and bass foundation.\n\nThe second verse begins around 1:25, paring the texture back down to the intimate lead vocal and acoustic rhythm section. A second chorus follows at 1:52, reintroducing the lush vocal harmonies and steady groove. The track transitions into its outro around 2:20, where the lead vocal shifts back into soft wordless humming as the acoustic strumming and low-end sustain gradually decay into a quiet fade-out.\n\nGENRES: Folk Rock, Acoustic Rock, Singer-Songwriter"
+  },
+  "metadata": {
+    "youtube_id": "rm9coqlk8fY",
+    "title_extracted": null,
+    "corpus_id": "rm9coqlk8fY",
+    "uploader": "Bob Dylan",
+    "audio_file": "corpus/01_music_videos_audio/audio/rm9coqlk8fY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4846918,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.436517,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:09:19Z"
+  },
+  "status": "success",
+  "error": null
+}

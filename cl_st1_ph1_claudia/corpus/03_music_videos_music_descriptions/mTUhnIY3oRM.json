@@ -1,0 +1,38 @@
+{
+  "corpus_id": "mTUhnIY3oRM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/mTUhnIY3oRM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/mTUhnIY3oRM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/mTUhnIY3oRM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with an isolated, upbeat mid-tempo drum groove in a four-four meter, featuring crisp offbeat hi-hats, a punchy kick, and a tight snare on the second and fourth beats. A rhythmic, syncopated electric bassline enters almost immediately, accompanied by warm electric piano chords and subtle rhythm guitar strums that establish a warm, major-key harmonic foundation. Bright, punchy horn stabs introduce the melodic motif before giving way to the primary verse section.\n\nA smooth, mid-range male lead vocal enters at the center of the stereo field, processed with light room reverb and clear equalization. The arrangement during the verse maintains a clean, moderately sparse texture, allowing the bouncy bassline and steady drum kit to drive the rhythm forward. As the music transitions into the pre-chorus and chorus sections, the dynamic level lifts; layered backing vocal harmonies enter in the side channels, and the horn section returns with energetic countermelodies that thicken the soundscape.\n\nAn instrumental interlude showcases a prominent brass melody playing over the persistent rhythm section. Later in the arrangement, a dynamic breakdown features a resonant, synth-filtered bass groove and crisp percussion accents, temporarily stripping back the arrangement before building back up with full instrumentation. Throughout the performance, the timbre is bright and polished, characterized by well-defined instrument separation: drums and bass anchored in the center, rhythm guitars panned wide, and vocal harmonies providing spatial warmth.\n\nThe mood remains consistently buoyant, nostalgic, and danceable. In the final section, the lead vocalist delivers expressive, rhythmic ad-libs while backed by a repeating vocal chant and energetic horn fills. The drum groove and bassline maintain their steady tempo as the full ensemble groove continues, eventually tapering down as the track fades to silence.\n\nGENRES: disco, funk, pop, soul"
+  },
+  "metadata": {
+    "youtube_id": "mTUhnIY3oRM",
+    "title_extracted": null,
+    "corpus_id": "mTUhnIY3oRM",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/mTUhnIY3oRM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6431076,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.981502,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:20:02Z"
+  },
+  "status": "success",
+  "error": null
+}

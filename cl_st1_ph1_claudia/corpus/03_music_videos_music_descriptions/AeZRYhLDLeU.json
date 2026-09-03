@@ -1,0 +1,38 @@
+{
+  "corpus_id": "AeZRYhLDLeU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/AeZRYhLDLeU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/AeZRYhLDLeU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/AeZRYhLDLeU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief spoken male vocal greeting accompanied by enthusiastic audience applause and cheering, setting a live performance ambiance. At approximately 0:05, a driving train-beat rhythm enters, establishing a fast tempo in 4/4 meter with an upbeat, relentless shuffle groove. The instrumentation consists of an alternating root-five bassline, crisp snare percussion providing offbeat accents, rhythmic acoustic guitar strumming, and a twangy electric guitar.\n\nA deep, resonant baritone male lead vocal sits prominently in the center of the stereo image, delivering melodic verses in a dry, direct, and declamatory style. The harmonic language is based on a straightforward major-key blues/country progression, giving the track a grounded tonal center. The overall texture is homophonic, with the rhythm section providing a steady backbeat beneath the primary vocal line.\n\nAt 0:58, the performance transitions into an energetic instrumental section featuring a bright electric guitar solo characterised by rapid lead picking, subtle slapback delay, and spontaneous vocal shouts of encouragement. The lead vocal re-enters at 1:22 for another verse, keeping the dynamic intensity high and steady. A second twangy guitar solo occurs at 1:46, reaffirming the driving, locomotive-like rhythmic feel. \n\nThe final vocal strophe begins at 2:09, building toward a definitive, punctuated closing cadence at 2:37, where the instruments hold a final resonant chord. The song immediately transitions into loud, extended applause and cheers from the audience, which close out the track. Throughout the recording, the live acoustic space creates an authentic stereo mix, capturing the upfront lead vocals alongside natural room reverberation and ambient audience interaction.\n\nGENRES: Country, Rockabilly, Folk, Singer-Songwriter"
+  },
+  "metadata": {
+    "youtube_id": "AeZRYhLDLeU",
+    "title_extracted": null,
+    "corpus_id": "AeZRYhLDLeU",
+    "uploader": "Johnny Cash",
+    "audio_file": "corpus/01_music_videos_audio/audio/AeZRYhLDLeU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5200606,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.136741,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:15:38Z"
+  },
+  "status": "success",
+  "error": null
+}

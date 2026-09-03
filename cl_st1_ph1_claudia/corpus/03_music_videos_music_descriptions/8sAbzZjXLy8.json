@@ -1,0 +1,38 @@
+{
+  "corpus_id": "8sAbzZjXLy8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8sAbzZjXLy8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/8sAbzZjXLy8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/8sAbzZjXLy8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track begins with a descending synthesizer whistle effect, transitioning into atmospheric synth pads and soft, expressive female vocal humming adorned with gentle reverb. Around 0:15, soulful vocalizations soar above warm electric piano chords and light percussion, establishing a reflective harmonic atmosphere before a fast, driving 4/4 disco-funk groove ignites with a punchy kick drum, snappy snare on beats two and four, and crisp hi-hats.\n\nAs the main vocal section enters, the arrangement expands into a dense, energetic texture anchored by a syncopated, melodic electric bassline, muted rhythmic electric guitar picking, and wide stereo synth pads. The lead female vocal is dynamic, soulful, and highly expressive, shifting effortlessly from delicate phrasing to intense, belted declarations characterized by controlled vibrato and subtle delay effects. The harmony relies on soul-inflected minor key progressions with rich extended chord voicings.\n\nThe song builds through high-energy chorus sections where the vocal performance grows increasingly dramatic, accompanied by punchy synthesizer brass accents and lush, soaring string pads that widen the stereo field. Around 2:40, an energetic saxophone or synth-horn lead takes over the melody, performing expressive, blues-inflected riffs across the driving rhythm section.\n\nFollowing the instrumental interlude, the track climaxes into an impassioned vocal outro filled with soaring ad-libs, high-register vocal belts, and rhythmic calls over the relentless dance beat. The production maintains a polished soundscape with clear separation across the stereo field, balancing the prominent central vocal against wide rhythm guitars and deep bass. The energy remains steadily vibrant as the music slowly fades out.\n\nGENRES: Disco, Soul, Funk, R&B, Euro-Disco"
+  },
+  "metadata": {
+    "youtube_id": "8sAbzZjXLy8",
+    "title_extracted": null,
+    "corpus_id": "8sAbzZjXLy8",
+    "uploader": "TopPop",
+    "audio_file": "corpus/01_music_videos_audio/audio/8sAbzZjXLy8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6891018,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.882156,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:01:11Z"
+  },
+  "status": "success",
+  "error": null
+}

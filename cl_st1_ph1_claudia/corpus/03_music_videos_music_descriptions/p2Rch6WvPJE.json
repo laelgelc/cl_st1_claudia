@@ -1,0 +1,38 @@
+{
+  "corpus_id": "p2Rch6WvPJE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/p2Rch6WvPJE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/p2Rch6WvPJE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/p2Rch6WvPJE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an intimate acoustic guitar playing a rhythmic, fingerpicked motif framed by spacious, reverb-laden ambient vocal swells. The piece is set in a slow-to-mid tempo 4/4 time signature with a melancholic, minor-key harmonic feel. At 0:20, a soulful female lead vocal enters, centered prominently in the mix, delivering a poignant melody with a warm, resonant chest tone and subtle plate reverb.\n\nAs the first verse unfolds, a deep electric bass line and understated percussion—featuring soft rimshots and a steady shaker rhythm—join the mix, establishing a gentle, driving groove. The texture expands entering the chorus around 0:55, where the dynamic intensity increases with impassioned belting, strummed acoustic chord layers, and wide stereo backing vocal harmonies. \n\nThe arrangement follows a classic verse-chorus dynamic arc. A second verse thins the arrangement slightly while retaining the rhythmic backbone, paving the way for a second chorus of heightened dynamic energy. At 2:38, a bridge section features an expressive electric guitar solo with a warm, singing tone, sustained notes, and gentle delay effects, engaging in call-and-response phrasing with background vocal ad-libs.\n\nThis transitions into a climactic final chorus (2:55), where the dynamic level reaches its peak. The lead vocal displays virtuosic melismatic runs and intense emotional projection over a full, dense instrumental backdrop. From 3:45 onward, the arrangement deconstructs into an extended outro, stripping back to the recurring fingerpicked acoustic guitar pattern and floating vocal ad-libs. The dynamics gradually diminish into a gentle fade-out, ending on trailing vocal delay and warm acoustic resonance. \n\nThroughout the track, the modern production presents a polished, balanced stereo image with crisp transient clarity on the acoustic guitar, solid low-end anchoring from the bass, and immersive, atmospheric spatial effects.\n\nGENRES: Contemporary R&B, Acoustic Pop, Soul, Ballad"
+  },
+  "metadata": {
+    "youtube_id": "p2Rch6WvPJE",
+    "title_extracted": null,
+    "corpus_id": "p2Rch6WvPJE",
+    "uploader": "Toni Braxton",
+    "audio_file": "corpus/01_music_videos_audio/audio/p2Rch6WvPJE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8741184,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.226815,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:09:10Z"
+  },
+  "status": "success",
+  "error": null
+}

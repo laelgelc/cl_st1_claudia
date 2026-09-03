@@ -1,0 +1,38 @@
+{
+  "corpus_id": "DyDfgMOUjCI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/DyDfgMOUjCI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/DyDfgMOUjCI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/DyDfgMOUjCI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a spoken dialogue segment and casual laughter from a female voice, punctuated by a vocal scream that triggers a heavy electronic bass drop. A mid-tempo 4/4 pulse at approximately 135 BPM establishes a minimalist groove driven by a throbbing sub-bass synth line, crisp finger snaps, and an understated kick drum.\n\nA female lead vocal enters with an intimate, breathy, whispered delivery, positioned close to the stereo center with minimal reverb and subtle double-tracking on phrase endings. The verses maintain a sparse texture characterized by the repetitive sub-bass ostinato and rhythmic percussive clicks. As the arrangement moves toward the chorus, the vocal delivery becomes more rhythmic and syncopated.\n\nThe chorus delivers a distinct dynamic shift, marked by a short spoken vocal interjection that leads directly into a vibrant, syncopated staccato synth melody. This bright, plucked synth motif plays over punchy bass hits, upbeat percussion clicks, and snappy handclaps, offering an energetic contrast to the understated verse sections.\n\nFollowing a second verse and chorus cycle that mirror the initial structure, the track undergoes a dramatic transition at 2:45 into a half-time, trap-influenced outro. The rhythm drops into a slower feel featuring booming 808 sub-bass glides, crisp half-time snares, and subtle synth pads. The vocals are heavily pitch-shifted downwards and layered with whispered backing vocals, imparting a dark, brooding, and heavy emotional tone before concluding abruptly.\n\nGENRES: Electropop, Synthpop, Alternative Pop, Trap"
+  },
+  "metadata": {
+    "youtube_id": "DyDfgMOUjCI",
+    "title_extracted": null,
+    "corpus_id": "DyDfgMOUjCI",
+    "uploader": "Billie Eilish",
+    "audio_file": "corpus/01_music_videos_audio/audio/DyDfgMOUjCI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6591574,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.881445,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:52:51Z"
+  },
+  "status": "success",
+  "error": null
+}

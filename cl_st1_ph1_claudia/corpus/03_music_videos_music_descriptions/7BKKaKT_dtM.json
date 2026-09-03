@@ -1,0 +1,38 @@
+{
+  "corpus_id": "7BKKaKT_dtM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/7BKKaKT_dtM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/7BKKaKT_dtM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/7BKKaKT_dtM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an energetic, rhythmic group chant spelling out words in unison, set to a driving four-on-the-floor drumbeat accompanied by prominent handclaps and rhythmic electric guitar accents. Set in a fast, upbeat tempo around 130 BPM in a straight 4/4 meter, the track immediately establishes an anthemic, party-oriented rock groove with an emphatic snare backbeat.\n\nAs the track transitions into the verse, a vibrant, youthful male lead vocal takes center stage, positioned centrally in the stereo mix. The instrumentation centers on crunchy, mid-tempo electric rhythm guitar riffing, a steady bassline providing harmonic weight, and a crisp drum kit with tight hi-hats and a punchy snare drum. The vocal performance is enthusiastic and clean, treated with moderate reverb that enhances its presence without obscuring detail.\n\nThe pre-chorus introduces vocal melismas and ascending melodic contours, generating harmonic anticipation before resolving into a bright, full-textured chorus. During the chorus, the dynamics lift significantly as layer upon layer of group backing harmonies join the lead vocal, creating a wide, room-filling stereo image. The electric guitars expand across the stereo field with crunchy distortion, driving the melody alongside crashing cymbals.\n\nA recurring structural motif is the return of the spell-out chant section, which breaks down the dense musical texture back to the punchy rhythm section, handclaps, and group vocal shouts before building momentum back into subsequent verses and choruses. The tonal character remains consistently in a bright major key, relying on straightforward, catchy pop-rock chord progressions.\n\nOverall, the production exhibits a bright, compressed 1970s pop-rock aesthetic with punchy dynamic contrast between the breakdown chants and the expansive, multi-vocal choruses. The mood throughout is exuberant, uplifting, and relentlessly energetic.\n\nGENRES: Glam Rock, Pop Rock, Power Pop"
+  },
+  "metadata": {
+    "youtube_id": "7BKKaKT_dtM",
+    "title_extracted": null,
+    "corpus_id": "7BKKaKT_dtM",
+    "uploader": "TopPop",
+    "audio_file": "corpus/01_music_videos_audio/audio/7BKKaKT_dtM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5468842,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.839207,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:21:03Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "M11SvDtPBhA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/M11SvDtPBhA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/M11SvDtPBhA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/M11SvDtPBhA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is an upbeat, energetic dance-pop and pop-rock track set in a standard 4/4 meter with a brisk, danceable tempo around 120–125 BPM. The overall mood is exuberant, bright, and celebratory, featuring a polished modern pop production with wide stereo imagery, punchy compression, and vibrant timbres.\n\nThe track opens with a rhythmic, slightly overdriven electric guitar motif panned across the stereo field, quickly joined by a driving four-on-the-floor kick drum, crisp hi-hats, and an active, melodic bassline. A youthful, energetic female lead vocal enters in the first verse, characterized by subtle delay, reverb, and tight pitch processing. The verse arrangement remains relatively streamlined, focusing on the interplay between the bass, rhythmic guitar strums, and the steady drum groove.\n\nAs the pre-chorus unfolds, the texture builds through accelerating snare patterns, subtle synth risers, and ascending vocal phrasing, creating a dynamic swell. The chorus delivers an explosive surge in volume and density, expanding the stereo image with multi-tracked backing vocal harmonies, bright synth pads, and strumming electric guitars. The drums adopt an emphatic, driving feel with snappy snares and open crash cymbals.\n\nFollowing a second verse and pre-chorus cycle, the track transitions into a bridge breakdown where dynamics temporarily drop. The instrumentation strips back to a rhythmic kick beat, subtle bass, and clean guitar accents, creating an intimate soundscape for the lead vocals. A rising snare roll and vocal crescendo propel the arrangement back into the final chorus, which serves as the dynamic climax with vocal ad-libs layered over the dense instrumental textures before concluding on an instrumental fade.\n\nGENRES: Pop, Dance-Pop, Pop Rock"
+  },
+  "metadata": {
+    "youtube_id": "M11SvDtPBhA",
+    "title_extracted": null,
+    "corpus_id": "M11SvDtPBhA",
+    "uploader": "HollywoodRecordsVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/M11SvDtPBhA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6630212,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.036631,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:16:08Z"
+  },
+  "status": "success",
+  "error": null
+}

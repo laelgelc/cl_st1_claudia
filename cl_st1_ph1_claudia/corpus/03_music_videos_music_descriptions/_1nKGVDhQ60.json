@@ -1,0 +1,38 @@
+{
+  "corpus_id": "_1nKGVDhQ60",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/_1nKGVDhQ60.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/_1nKGVDhQ60.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/_1nKGVDhQ60.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief spoken introduction by a male vocalist in a warm, conversational tone over faint acoustic guitar fingerpicking. At 0:13, the acoustic guitar establishes an arpeggiated fingerpicking pattern in a relaxed, steady 4/4 meter at a moderate tempo. The acoustic guitar displays a warm, steel-string timbre with natural room resonance centered within the stereo image.\n\nAt 0:32, the solo male lead vocalist enters, delivering an intimate, reflective melodic performance. The vocal tone is smooth and natural with a mid-range baritone timbre, accompanied by subtle room reverb that preserves a close, live acoustic aesthetic. The harmonic framework relies on a diatonic, folk-oriented progression in a major key, characterized by smooth chord transitions and gentle melodic contouring.\n\nThe performance follows a clear verse-refrain structure. In the recurring refrain sections (starting around 0:58, 1:53, and 2:49), the vocal dynamics swell slightly into higher registers with heightened emotional resonance, while the guitar fingerpicking grows somewhat more pronounced and rhythmic. The musical texture remains minimalist and transparent throughout, composed exclusively of the single acoustic guitar and lead vocal.\n\nAt 3:15, the piece transitions into a extended coda, featuring repetitive vocal variations over a resolving chord pattern. The dynamic level slowly recedes until the final sustained acoustic guitar chord is struck at 3:41, lingering into silence. Immediately after the final note decays, enthusiastic audience applause and cheers enter at 3:42, indicating a live concert setting. The overall mood is intimate, nostalgic, and melancholic.\n\nGENRES: Folk, Acoustic, Singer-Songwriter, Live Performance"
+  },
+  "metadata": {
+    "youtube_id": "_1nKGVDhQ60",
+    "title_extracted": null,
+    "corpus_id": "_1nKGVDhQ60",
+    "uploader": "James Taylor",
+    "audio_file": "corpus/01_music_videos_audio/audio/_1nKGVDhQ60.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7552322,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.456512,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:58:56Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "UTHLKHL_whs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/UTHLKHL_whs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/UTHLKHL_whs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/UTHLKHL_whs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a spoken male voice pronouncing a sentence in a dry acoustic room, punctuated by a sound effect resembling a wooden gavel strike. At 0:05, the track abruptly erupts into an upbeat pop-trap groove in a fast 4/4 meter. The primary musical hook is driven by a bright, punchy, syncopated brass section playing an anthemic fanfare, grounded by a booming 808 sub-bass, snappy snare hits, rapid hi-hat rolls, and rhythmic handclaps.\n\nAn energetic male lead vocal enters, delivering a mix of melodic singing and rhythmic rapping with clear autotune processing, pitch-correction accents, and short delay effects. The chorus sections expand in texture with wide stereo double-tracking, stacked vocal harmonies, and dense background ad-libs that reinforce the melody. \n\nAt 1:00, the texture thins slightly to highlight a secondary guest rap vocal delivering a dry, rhythmic, speech-like verse over a focused bassline and crisp drum pattern. Another contrast occurs around 2:05 with a rap verse delivered with an aggressive cadence over punchy percussion and low-end bass. Transitions back into the main chorus at 1:26 and 2:55 feature dynamic buildups, reintroducing the brass fanfare section at full dynamic intensity to maintain a triumphant, celebratory mood throughout.\n\nThe mix is heavily compressed and punchy, featuring a wide stereo image where brass fanfares are panned across the sides while the kick drum, sub-bass, and main vocals dominate the center. The harmonic structure centers on a driving, repetitive minor-key loop. After the final chorus concludes, the musical elements suddenly end, leading to a brief sound effect at 3:36 of crunchy chewing, finishing the track on a quiet sound bite.\n\nGENRES: Pop Rap, Trap, Hip Hop, Brass Pop"
+  },
+  "metadata": {
+    "youtube_id": "UTHLKHL_whs",
+    "title_extracted": null,
+    "corpus_id": "UTHLKHL_whs",
+    "uploader": "Lil Nas X",
+    "audio_file": "corpus/01_music_videos_audio/audio/UTHLKHL_whs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7529288,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.072153,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:00:04Z"
+  },
+  "status": "success",
+  "error": null
+}

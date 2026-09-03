@@ -1,0 +1,38 @@
+{
+  "corpus_id": "xFrGuyw1V8s",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/xFrGuyw1V8s.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/xFrGuyw1V8s.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/xFrGuyw1V8s.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with an energetic retro funk-pop intro set in a driving 4/4 meter at a medium dance tempo. A bright, brassy horn section delivers syncopated fanfare motifs alongside a rhythmic electric guitar playing muted funk chops, a prominent bass guitar, and a steady drum kit featuring crisp snare backbeats and open hi-hat accents. Synthesizer glissandi and shimmering guitar strums enrich the opening texture.\n\nAt 00:21, female vocals enter in tight harmony, delivering a soaring, uplifting melody for the chorus section. The dynamic level rises as the bassline becomes more active and the drum groove solidifies, supported by punchy brass stabs across the stereo panorama. The texture thins slightly at 00:43 for the first verse, where a lead female vocal takes over with clean, upfront mix placement, supported by funk rhythm guitar comping, warm string pads, and steady drum-and-bass accompaniment. Horns provide melodic fills at the ends of vocal phrases.\n\nThe energy builds back up at 01:23 as the vocal harmonies return for another chorus, accompanied by tambourine percussion and expressive brass countermelodies. The second verse begins at 02:12, maintaining a buoyant, danceable groove with rhythmic guitar and driving bass lines. At 02:30, the dynamic intensity peaks again with a third chorus statement, displaying a dense, full-ensemble texture dominated by joyful vocal delivery, bright brass swells, and active percussion.\n\nThe track moves into a vamp-like outro around 03:18, where melodic vocal hooks repeat over a sustained drum and bass groove. Brass accents and rhythmic guitar patterns interlock as the dynamic level remains high before the song fades out toward the end. Throughout the recording, the mix presents a wide stereo image with drums and lead vocals centered, guitars panned left and right, and brass spread across the field, maintaining a polished, vibrant, and celebratory atmosphere.\n\nGENRES: Funk, Disco, Pop"
+  },
+  "metadata": {
+    "youtube_id": "xFrGuyw1V8s",
+    "title_extracted": null,
+    "corpus_id": "xFrGuyw1V8s",
+    "uploader": "ABBA",
+    "audio_file": "corpus/01_music_videos_audio/audio/xFrGuyw1V8s.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7452754,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.722232,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:42:16Z"
+  },
+  "status": "success",
+  "error": null
+}

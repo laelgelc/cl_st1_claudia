@@ -1,0 +1,38 @@
+{
+  "corpus_id": "_dHK6hLNTAI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/_dHK6hLNTAI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/_dHK6hLNTAI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/_dHK6hLNTAI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a syncopated, high-energy introduction featuring a heavily distorted, fuzzy electric guitar playing a driving riff punctuated by sharp snare drum hits and punchy electric bass. The track quickly establishes an upbeat, driving 4/4 meter with a prominent backbeat on the snare, accompanied by subtle tambourine accents that introduce treble clarity to the upper frequencies.\n\nA raspy, energetic male lead vocal enters, delivering melodic phrases with a raw, blues-influenced delivery. The verses rely on the repetitive, aggressive chordal guitar motif backed by a steadily pumping bassline and a tight, unyielding drum groove. As the music transitions into the chorus, multi-part backing vocals join in call-and-response patterns, creating a denser, layered texture and a noticeable dynamic lift. The harmony centers on a straightforward, drive-heavy major-key rock progression, imbuing the section with an urgent and catchy character.\n\nDynamic tension builds through the subsequent verse and chorus, climaxing in an impassioned vocal exclamation that cues a frantic guitar solo. The solo is characterized by a biting, fuzzy distortion timbre, featuring pitch bends, rapid strumming, and bluesy runs played over the relentless rhythm section. \n\nFollowing the solo, the song reprises the verse and chorus structure, with group harmonies reinforcing the central melodic refrain. The overall production reflects a vintage 1960s analog aesthetic, featuring warm tape saturation, moderate room reverb on the vocals, and a balanced stereo field that places the lead vocal and drums near the center while giving the distorted guitar a dominant sonic presence. The recording concludes with a dramatic series of syncopated, punctuated band hits on a final resolving chord, allowing the amp fuzz and drum cymbals to decay naturally.\n\nGENRES: garage rock, rock and roll, beat music, pop rock"
+  },
+  "metadata": {
+    "youtube_id": "_dHK6hLNTAI",
+    "title_extracted": null,
+    "corpus_id": "_dHK6hLNTAI",
+    "uploader": "The Kinks",
+    "audio_file": "corpus/01_music_videos_audio/audio/_dHK6hLNTAI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4285182,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.649114,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:44:12Z"
+  },
+  "status": "success",
+  "error": null
+}

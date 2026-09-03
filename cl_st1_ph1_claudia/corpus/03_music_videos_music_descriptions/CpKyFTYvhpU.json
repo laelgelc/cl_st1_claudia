@@ -1,0 +1,38 @@
+{
+  "corpus_id": "CpKyFTYvhpU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CpKyFTYvhpU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/CpKyFTYvhpU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/CpKyFTYvhpU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with the ambient sound of a cheering, whistling live concert audience. A charismatic male host or lead singer speaks intimately into a microphone over the continuous applause, accompanied by a dry, slightly reverberant hall acoustic. At approximately 0:46, after a sudden high-pitched vocal yell, the music bursts into an energetic, mid-tempo rock ’n’ roll swing in 4/4 meter.\n\nThe arrangement is driven by a rhythmic, clean-toned electric guitar playing a bouncy rockabilly riff, supported by a walking bassline and a tight drum kit featuring a prominent snare backbeat and crisp hi-hat accents. The lead male vocalist sings with a smooth, dynamic, and melodic tone, employing subtle vocal embellishments, expressive dynamics, and a light slapback delay typical of mid-20th-century live recordings. Smooth backing vocal harmonies regularly enter during the chorus sections, providing a lush counterpoint with sustained chords and rhythmic vocal responses.\n\nThe song maintains an upbeat, lighthearted, and celebratory mood. Harmonic progressions follow a classic blues-based rock ’n’ roll structure with minor tonal variations during transitional phrases. Dynamic swells correspond with key vocal deliveries and crowd responses, which periodically burst through the mix with enthusiastic shrieks and applause. Near the 2:20 mark, the performance reaches a dramatic climax as the tempo subtly pushes forward, culminating in an emphatic final musical accent at 2:42. The music resolves abruptly into a massive wave of audience cheering, followed by a brief, humorous spoken comment from a male voice over the lingering applause.\n\nGENRES: Rock 'n' Roll, Rockabilly, Live Music, Classic Pop"
+  },
+  "metadata": {
+    "youtube_id": "CpKyFTYvhpU",
+    "title_extracted": null,
+    "corpus_id": "CpKyFTYvhpU",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/CpKyFTYvhpU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5503022,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.552928,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:07:01Z"
+  },
+  "status": "success",
+  "error": null
+}

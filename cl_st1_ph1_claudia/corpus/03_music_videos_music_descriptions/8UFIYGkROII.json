@@ -1,0 +1,38 @@
+{
+  "corpus_id": "8UFIYGkROII",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8UFIYGkROII.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/8UFIYGkROII.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/8UFIYGkROII.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an informal acapella intro featuring high-pitched youth voices chanting a rhythmic phrase in a dry acoustic environment. Around 0:11, a brief spoken dialogue between a deeper male voice and a youth leads directly into a sudden, heavily reverberated vocal shout. The main instrumental beat enters at 0:16, centered around a distinctive, looping digital steel-pan melodic motif accompanied by a high-pitched synth pluck sound. The rhythm section establishes a mid-tempo 4/4 snap groove, featuring deep, booming 808 sub-bass kicks, sharp hand-claps on the offbeats, and rapidly subdividing hi-hat patterns.\n\nAn energetic male lead vocal enters at 0:23, delivering a rhythmic, chanted chorus punctuated by dramatic, reverb-drenched vocal calls placed prominently in the center of the stereo field. The track transitions into a verse at 0:58, where the lead vocal adopts a steady, cadence-focused rap delivery over the unyielding steel-pan loop and driving drum machine percussion. Short vocal ad-libs and echoed accents are panned across the stereo image, enhancing the track's spatial dimension.\n\nThe song alternates through recurring chorus and verse sections (1:25, 1:52, 2:20, and 2:47), maintaining a static, highly repetitive harmonic foundation defined by the persistent steel-drum ostinato and low-end bass sustain. The overall dynamic level remains consistently punchy and high-energy, driven by the sharp transient crack of the claps and the resonant weight of the sub-bass. \n\nAt 3:42, the drum beat drops out, leaving the high synth chime motif and a final, lingering, delay-processed vocal shout that trails off into silence by 3:58.\n\nGENRES: Southern Hip Hop, Snap Music, Pop Rap, Trap"
+  },
+  "metadata": {
+    "youtube_id": "8UFIYGkROII",
+    "title_extracted": null,
+    "corpus_id": "8UFIYGkROII",
+    "uploader": "Soulja Boy",
+    "audio_file": "corpus/01_music_videos_audio/audio/8UFIYGkROII.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7617710,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.371801,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:23:44Z"
+  },
+  "status": "success",
+  "error": null
+}

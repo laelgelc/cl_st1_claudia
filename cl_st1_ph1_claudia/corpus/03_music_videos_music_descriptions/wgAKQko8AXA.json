@@ -1,0 +1,38 @@
+{
+  "corpus_id": "wgAKQko8AXA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wgAKQko8AXA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/wgAKQko8AXA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/wgAKQko8AXA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a bright, energetic upbeat funk groove set in a steady 4/4 meter at a moderate-fast tempo. A driving rhythm section consisting of a punchy drum kit with a crisp snare snap and sizzling hi-hats, a warm, rounded electric bassline, and clean, syncopated rhythm guitar strumming establishes the momentum alongside sharp, punctuated brass section stabs. The overall texture is vibrant and dense, characterized by a retro 1970s funk and disco aesthetic.\n\nAt nine seconds, a soulful, expressive male lead vocal enters in the center of the stereo mix, delivered with rhythmic precision, punchy articulation, and subtle room reverb. The vocal performance is soon complemented by high-pitched backing vocals that engage in dynamic call-and-response phrasing during the main refrain, heightening the celebratory, dance-oriented mood. The horn section provides horn stabs and accent swells throughout the verses and choruses, widely panned across the stereo field to create an expansive, wide soundstage.\n\nHarmonically, the track relies on a groove-centered, major-key progression that remains consistently driving and accessible. At one minute and twelve seconds, the main vocals recede for an instrumental bridge featuring a clean-toned, melodic electric guitar solo with expressive pitch bending and subtle vibrato, framed by the persistent bass groove and steady drum beat. \n\nThe track seamlessly transitions back to the main refrain near one minute and twenty-nine seconds, re-engaging the full ensemble with maximum dynamic energy. The lead singer becomes increasingly expressive with energetic ad-libbed exclamations over layered vocal harmonies, triumphant horn swells, and driving percussion. The dynamic intensity remains high until the final seconds, concluding with a final vocal exclamation and a sharp, synchronized drum-and-brass hit that cleanly terminates the track.\n\nGENRES: Funk, Disco, Soul, Pop Soul"
+  },
+  "metadata": {
+    "youtube_id": "wgAKQko8AXA",
+    "title_extracted": null,
+    "corpus_id": "wgAKQko8AXA",
+    "uploader": "omarbbcito",
+    "audio_file": "corpus/01_music_videos_audio/audio/wgAKQko8AXA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4183386,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.180998,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:42:56Z"
+  },
+  "status": "success",
+  "error": null
+}

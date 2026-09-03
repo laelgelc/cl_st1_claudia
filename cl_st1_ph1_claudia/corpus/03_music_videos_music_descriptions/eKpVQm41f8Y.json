@@ -1,0 +1,38 @@
+{
+  "corpus_id": "eKpVQm41f8Y",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/eKpVQm41f8Y.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/eKpVQm41f8Y.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/eKpVQm41f8Y.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with an upbeat, rhythmic electric guitar riff supported by a driving 4/4 drum kit rhythm with a crisp snare hit on beats two and four. A punchy brass section quickly joins with sharp accent stabs alongside a bouncing electric bassline, establishing a lively, high-energy dance groove. \n\nA female lead vocalist enters shortly after, delivering a soulful, dynamic performance with a warm, natural timbre and subtle plate reverb. The arrangement features a medium-dense texture consisting of rhythmic guitar strums on the offbeats, an active walking bassline, continuous drum grooves, and periodic brass interjections that punctuate the vocal phrases. The stereo mix places the lead vocals and drums centered, while the guitar and brass sections span outward across the stereo field, creating a spacious yet tight sonic image.\n\nAs the music transitions into the chorus sections, backing vocals enter to form a call-and-response dynamic with the lead singer, providing energetic harmonized chants and unison responses. The harmony remains grounded in an upbeat major key pop-rock chord progression, maintaining an exuberant, danceable mood throughout. At roughly one minute and sixteen seconds, an instrumental break features a brass and saxophone solo delivering a bluesy, melodic line over the relentless rhythm section.\n\nFollowing the solo, the lead and backing vocals return, continuing their playful call-and-response dialogue over a driving rhythmic feel. The rhythm section maintains a constant tempo and punchy dynamic level, driving the energy forward without major dynamic dips. The song begins to gradually fade out during the extended outro section, where the vocal calls and brass stabs repeat over the ongoing groove until the sound fully dissipates.\n\nGENRES: Pop, Rock and Roll, R&B, Soul"
+  },
+  "metadata": {
+    "youtube_id": "eKpVQm41f8Y",
+    "title_extracted": null,
+    "corpus_id": "eKpVQm41f8Y",
+    "uploader": "Sironaca",
+    "audio_file": "corpus/01_music_videos_audio/audio/eKpVQm41f8Y.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4849148,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.871631,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:20:14Z"
+  },
+  "status": "success",
+  "error": null
+}

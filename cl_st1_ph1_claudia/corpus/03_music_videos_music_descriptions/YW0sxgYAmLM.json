@@ -1,0 +1,38 @@
+{
+  "corpus_id": "YW0sxgYAmLM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/YW0sxgYAmLM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/YW0sxgYAmLM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/YW0sxgYAmLM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is a high-energy electro-funk and synth-pop track set in a steady 4/4 meter at a medium-upbeat dance tempo (around 125 BPM). The soundscape is defined by a bright, polished 1980s production aesthetic featuring punchy drum machine percussion, a heavy synth-bassline, rhythmically panned funk guitar, layered synthesizer pads, and punchy synth brass stings. \n\nThe piece opens with a distinctive vocal stutter-edit intro featuring pitch-modulated spoken-word rap samples rhythmically chopped over a driving beat. Pitch shifts and stuttering edits create an energetic glitch effect until a sharp guitar hit and brass flourish at 0:31 signal the transition into the main instrumental groove. At 0:35, the primary rhythm section enters with a bouncy, syncopated bassline, tight rhythm guitar chits, and steady four-on-the-floor percussion. \n\nAt 0:48, a smooth, expressive female lead vocal enters with moderate stereo reverb, delivering melodic verses above the dense arrangement. The dynamics build into the chorus at 1:18, where layered female backing vocals join in tight harmony, punctuated by bright synth brass hits. A brief reprise of the glitchy rap sample occurs at 1:35 before transitioning into the second verse at 1:50, maintaining the established rhythmic drive and funk-infused bassline. \n\nFollowing a second chorus at 2:20, the arrangement shifts at 2:38 to feature a prominent, highly expressive chromatic harmonica solo. The soloist improvises melodic, blues-influenced lines across the dense synth-funk groove. Powerful female vocal ad-libs and soaring high notes join the harmonica solo around 3:00, elevating the emotional intensity. The track moves into an extended outro around 3:13, combining chorus vocal hooks, soaring ad-libs, brass stings, and continuous rhythmic drive before coming to a sudden full-band stop at 4:05.\n\nGENRES: Synth-Pop, Electro-Funk, Boogie, Post-Disco, R&B"
+  },
+  "metadata": {
+    "youtube_id": "YW0sxgYAmLM",
+    "title_extracted": null,
+    "corpus_id": "YW0sxgYAmLM",
+    "uploader": "Chaka Khan",
+    "audio_file": "corpus/01_music_videos_audio/audio/YW0sxgYAmLM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7926814,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.167511,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:16:08Z"
+  },
+  "status": "success",
+  "error": null
+}

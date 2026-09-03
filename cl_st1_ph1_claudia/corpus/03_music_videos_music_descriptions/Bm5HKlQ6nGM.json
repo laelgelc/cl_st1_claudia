@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Bm5HKlQ6nGM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Bm5HKlQ6nGM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Bm5HKlQ6nGM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Bm5HKlQ6nGM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a dynamic male lead vocal accompanied by rhythmic acoustic guitar strumming and percussive upright slap bass, utilizing stop-time syncopation before locking into an energetic, fast-tempo 4/4 rockabilly groove. The rhythm section features driving acoustic guitar strumming alongside percussive slap-bass hits, providing a bouncy shuffle feel that substitutes for a conventional drum kit. A clean, twangy electric lead guitar introduces itself with classic blues-inflected licks and fills, positioned slightly off-center in the stereo mix.\n\nThe lead vocal delivery is expressive, raspy, and rhythmic, treated with slapback delay and short room reverb that emulate a vintage analog recording aesthetic. Throughout the verses and refrains, the dynamic intensity remains consistently high, propelled by the relentless walking lines and percussive slaps of the acoustic bass. \n\nAt approximately forty-seven seconds, the arrangement transitions into an electric guitar solo. The electric guitar exhibits a bright, snappy timbre with mild tape delay, performing bluesy double-stops, bends, and rapid single-note runs over the steady acoustic-and-bass rhythm bed. The vocals return smoothly for another vocal section, maintaining the upbeat, lively emotional tone. A second guitar solo emerges shortly after one minute and twenty-three seconds, featuring similar bright, twangy tonal characteristics and nimble phrasing.\n\nThe final section builds toward a climax, with the singer repeating melodic refrains over rhythmic hits from the rhythm section. The performance concludes with a synchronized final chord cadence and a brief acoustic decay. The overall texture is bright, punchy, and acoustic-heavy, characterized by authentic acoustic-electric instrumental balance and an energetic, nostalgic rock-and-roll ambience.\n\nGENRES: Rockabilly, Rock & Roll, Country Rock, Blues Rock"
+  },
+  "metadata": {
+    "youtube_id": "Bm5HKlQ6nGM",
+    "title_extracted": null,
+    "corpus_id": "Bm5HKlQ6nGM",
+    "uploader": "Yelserp22",
+    "audio_file": "corpus/01_music_videos_audio/audio/Bm5HKlQ6nGM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4237628,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 29.085443,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:39:45Z"
+  },
+  "status": "success",
+  "error": null
+}

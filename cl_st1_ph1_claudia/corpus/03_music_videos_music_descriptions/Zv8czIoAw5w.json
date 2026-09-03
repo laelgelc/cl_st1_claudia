@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Zv8czIoAw5w",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Zv8czIoAw5w.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Zv8czIoAw5w.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Zv8czIoAw5w.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is a slow, deeply expressive romantic ballad set in a compound meter, characterized by a smooth, nostalgic aesthetic and a rich, layered acoustic-orchestral arrangement. The track opens with intimate fingerpicked guitar chords and an expressive, soulful male lead vocalist whose delivery features wide dynamic inflection, breathy warmth, and prominent vibrato. \n\nAs the initial verse progresses, a gentle rhythm section subtly enters, featuring a warm bass line and understated drum percussion marked by soft rimshots and gentle brushed cymbal work, establishing a steady, swaying ballad groove. Lush orchestral strings—comprising high violins and warm cellos—gradually weave into the mix, providing sustained legato swells that pad the harmonic foundation and elevate the emotional weight. Rich backing vocal harmonies enter during key phrases, adding broad choral textures that surround the centered lead voice within a wide stereo landscape.\n\nThe track moves dynamically through alternating sections, building in intensity towards a soaring middle section. Here, the lead vocal climbs into a powerful, emotive upper register, delivering impassioned, elongated phrases while the string section swells dramatically and the percussion drives the rhythm with greater dynamic weight. The harmony relies on classic pop-ballad chord progressions, creating a persistent sense of bittersweet longing.\n\nProduction-wise, the mix is balanced and warm, employing ambient spatial reverb that gives the vocal and string arrangements a spacious depth without overwhelming the intimate clarity of the guitar and percussion. The dynamics continuously swell and recede across the arrangement, culminating in an emotionally heightened final section where the lead vocal reaches an intense climax before transitioning into a quiet, graceful resolution led by lingering guitar arpeggios and a fading orchestral string sustain.\n\nGENRES: Pop, Soul, Vocal, Rhythm and Blues, Traditional Pop"
+  },
+  "metadata": {
+    "youtube_id": "Zv8czIoAw5w",
+    "title_extracted": null,
+    "corpus_id": "Zv8czIoAw5w",
+    "uploader": "The Righteous Brothers - Topic",
+    "audio_file": "corpus/01_music_videos_audio/audio/Zv8czIoAw5w.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6836032,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.98906,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:14:42Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "yP4qdefD2To",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yP4qdefD2To.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/yP4qdefD2To.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/yP4qdefD2To.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is an emotionally expressive mid-tempo alternative rock track set in a 4/4 meter, featuring a dynamic contrast between intimate acoustic sections and heavy, driving rock passages. It opens with an acoustic guitar playing a clean, warm fingerpicked chord progression centered in the stereo mix. At 0:09, a male lead vocal enters with a dry, close-mic’d tone and gentle reverb, accompanied by soft acoustic strumming.\n\nThe track escalates dramatically at 0:27 as the full rhythm section enters, introducing heavily overdriven electric guitars panned wide across the stereo field, a prominent bass guitar, and a punchy acoustic drum kit driving a steady rock groove with crisp snare accents and open hi-hats. The texture broadens during the chorus, where the lead vocal shifts to a passionate, melodic rock delivery supported by subtle backing vocal harmonies.\n\nThe arrangement follows an alternating verse-chorus structure that utilizes stark dynamic drops and builds. The verses pare down the instrumentation to acoustic guitar, lighter drumming, and clear lead vocals to create tension and space. In contrast, the choruses explode into dense wall-of-sound textures propelled by distorted rhythm guitars, active basslines, and dramatic cymbal crashes. Melodic electric guitar fills and brief solo passages bridge the chorus transitions. \n\nAt 2:39, the song briefly breaks down into a subdued acoustic bridge before launching into an explosive final chorus at 2:47. Here, the track reaches its dynamic climax with impassioned vocal belting, heavy drum fills, and dense guitar layering. The high-energy full-band arrangement subsides at 3:19, returning to a quiet outro dominated by fingerpicked acoustic guitar that slowly fades out on a soft final chord.\n\nGENRES: alternative rock, pop punk, indie rock, emo"
+  },
+  "metadata": {
+    "youtube_id": "yP4qdefD2To",
+    "title_extracted": null,
+    "corpus_id": "yP4qdefD2To",
+    "uploader": "Goo Goo Dolls",
+    "audio_file": "corpus/01_music_videos_audio/audio/yP4qdefD2To.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6820430,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.961428,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:32:28Z"
+  },
+  "status": "success",
+  "error": null
+}

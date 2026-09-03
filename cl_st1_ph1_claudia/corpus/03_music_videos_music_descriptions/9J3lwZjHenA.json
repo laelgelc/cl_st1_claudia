@@ -1,0 +1,38 @@
+{
+  "corpus_id": "9J3lwZjHenA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/9J3lwZjHenA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/9J3lwZjHenA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/9J3lwZjHenA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with an energetic introductory passage featuring ambient crowd cheers, live party sound effects, and a hyped male vocal call-over. A punchy 4/4 drum beat in a moderate-to-fast tempo (around 115 BPM) kicks in alongside a warm, syncopated synth bassline and clean, funk-style electric guitar chugging. \n\nAs the main groove settles, rhythmic rap lead vocals take center stage, accompanied by unison group backing chants and subtle stereo-panned vocal hits. The production style reflects classic late 20th-century hip-house and funk fusion, with crisp, compressed drum machine samples, dynamic turntable scratches, and short vocal cuts serving as transitional markers between phrases. Melodic female vocals join during recurring sung sections, offering a smooth, R&B-influenced contrast to the punchy, spoken rap verses.\n\nMidway through, the arrangement transitions into a spoken breakdown section layered with ambient crowd noise, filtered synth chords, and narrative vocal prompts. This builds into a high-energy drop characterized by bright, brass-like synthesizer stabs, prominent bass synth movement, and synchronized audience chants. The harmony remains grounded in a persistent minor key modal loop, giving the beat a continuous, driving momentum.\n\nIn the latter half, the track cycles through melodic singing, rhythmic rap verses, and dense turntable scratch solos. The stereo mix is wide and spacious, placing the kick, snare, and main vocals firmly in the center while rhythm guitars, ambient crowd samples, and spatial delay effects occupy the sides. The composition concludes with a rhythmic outro featuring repeated, syncopated vocal chants layered over the main drum beat, ending abruptly on a final rhythmic hit.\n\nGENRES: Hip-House, Funk, Hip-Hop, New Jack Swing, Dance-Pop"
+  },
+  "metadata": {
+    "youtube_id": "9J3lwZjHenA",
+    "title_extracted": null,
+    "corpus_id": "9J3lwZjHenA",
+    "uploader": "Tommy Boy",
+    "audio_file": "corpus/01_music_videos_audio/audio/9J3lwZjHenA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7651146,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.624297,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:55:43Z"
+  },
+  "status": "success",
+  "error": null
+}

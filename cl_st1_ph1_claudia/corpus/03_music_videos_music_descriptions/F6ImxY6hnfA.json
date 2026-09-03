@@ -1,0 +1,38 @@
+{
+  "corpus_id": "F6ImxY6hnfA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/F6ImxY6hnfA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/F6ImxY6hnfA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/F6ImxY6hnfA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is an energetic, high-tempo dance-pop track set in a driving 4/4 meter at around 125 BPM. It opens immediately with a pulsating, arpeggiated synth line and a four-on-the-floor electronic kick drum beat. At 00:04, a polished, expressive female lead vocal enters, framed by crisp snares and claps on beats two and four, offbeat hi-hats, and a bouncy, sidechained synth bassline that propels the rhythm section.\n\nAs the track builds into the chorus sections (around 00:42 and 01:38), rich polyphonic synth pads expand the harmonic texture, while stacked vocal harmonies enter in the stereo periphery, creating a lush, wide sonic field. The lead vocal remains centered, bright, and clear, processed with smooth reverb and subtle delay. The chord progressions blend minor-key emotional tension with bright, euphoric pop resolutions.\n\nDynamics are consistently punchy and energetic, dipping slightly in drum density during transitional verse and pre-chorus passages to heighten the impact of the choruses. A distinct instrumental section occurs from 02:23 to 02:44, featuring a melodic, singing electric guitar solo with expressive vibrato and sustained overdrive playing over the relentless electronic beat and synth bass. \n\nFollowing this breakdown, the track returns at 02:44 to a climactic final chorus featuring layered vocal ad-libs, maximum drum impact, and dense synth arrangements, leading to a sudden, clean finish at 03:26. \n\nThe production is modern and glossy, characterized by a crisp treble presence, a tight and forceful low end, and a wide stereo image that separates rhythmic synth arpeggios and backing vocals around the centered lead vocal and bass section.\n\nGENRES: Dance-Pop, Synth-Pop, Eurodance"
+  },
+  "metadata": {
+    "youtube_id": "F6ImxY6hnfA",
+    "title_extracted": null,
+    "corpus_id": "F6ImxY6hnfA",
+    "uploader": "Robyn",
+    "audio_file": "corpus/01_music_videos_audio/audio/F6ImxY6hnfA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6885074,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.60605,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:37:16Z"
+  },
+  "status": "success",
+  "error": null
+}

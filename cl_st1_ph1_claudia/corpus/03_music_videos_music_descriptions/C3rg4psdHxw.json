@@ -1,0 +1,38 @@
+{
+  "corpus_id": "C3rg4psdHxw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/C3rg4psdHxw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/C3rg4psdHxw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/C3rg4psdHxw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an atmospheric introductory passage featuring sustained, string-like synth chords and a melancholic solo violin-style melody over a low bass drone. At 0:05, this somber prelude abruptly transitions into a vibrant, upbeat 4/4 funk and disco groove. A punchy drum kit establishes a driving rhythm marked by a steady kick drum, crisp snare and clap accents on the offbeats, and tight hi-hat patterns, complemented by a melodic, syncopated electric bassline, rhythmic guitar chops, and shimmering synthesizer accents.\n\nAt 0:29, a passionate male lead vocal enters, delivering an expressive melody with a soulful, slightly raspy timbre enhanced by subtle stereo reverb and delay. The arrangement proceeds through a verse section where the rhythm section maintains a danceable, mid-tempo groove beneath melodic synth stabs and syncopated instrumental countermelodies. As the track transitions into the chorus around 1:23, the overall dynamic energy elevates, supported by soaring synth harmonies, bright brass-like accents, and increasingly energetic vocal phrasing featuring impassioned belts and vocal improvs.\n\nA second verse follows at 1:51, preserving the funk-infused texture with prominent bass countermelodies and panned guitar rhythm work. The chorus returns at 2:21 with heightened enthusiasm, leading into a breakdown section around 2:48 where the instrumental density thins slightly, highlighting melodic vocal call-and-response ad-libs over a steady bass and percussion bed.\n\nAt 3:22, the full ensemble re-engages for an extended, high-energy closing section. The lead vocalist delivers soaring vocal improvisations and repeated melodic hooks over a dense mix of energetic drums, brassy synth chords, and rhythmic guitar strumming. The piece reaches its peak with a dramatic vocal flourish and a sustained instrumental final chord, concluding as crowd applause fades in at the end.\n\nGENRES: Disco, Funk, Soul, Pop, Synth-Pop"
+  },
+  "metadata": {
+    "youtube_id": "C3rg4psdHxw",
+    "title_extracted": null,
+    "corpus_id": "C3rg4psdHxw",
+    "uploader": "Dexys and Dexys Midnight Runners Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/C3rg4psdHxw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9760632,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.044004,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:40:40Z"
+  },
+  "status": "success",
+  "error": null
+}

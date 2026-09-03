@@ -1,0 +1,38 @@
+{
+  "corpus_id": "InYaB16xEd0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/InYaB16xEd0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/InYaB16xEd0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/InYaB16xEd0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a mid-tempo, syncopated funk-soul groove in a standard 4/4 meter. An electric guitar opens with a crisp, rhythmic chugging riff, accompanied by a warm, melodic bassline and a tight drum kit pattern featuring a prominent snare backbeat on beats two and four. The overall sound reflects classic 1970s soul and rhythm & blues production, characterized by warm analog saturation, a spacious stereo mix, and a punchy low end.\n\nAt 00:08, a lead male vocalist enters, delivering a soulful, raspy, and expressive performance. The vocal track is centered in the mix with a light touch of plate reverb, highlighting the natural grit and dynamic nuances of the voice. The rhythm section maintains a steady pocket underneath, with syncopated bass movement and percussive electric guitar strums providing a driving foundation.\n\nAs the track transitions into the chorus around 00:59, the texture thickens significantly. A harmonized group of backing vocalists enters across the stereo field, providing smooth call-and-response refrain lines. Bright, punchy brass stabs accentuate the downbeats, elevating the overall dynamic energy and enriching the harmonic arrangement.\n\nA short rhythmic transitional passage at 01:44 spotlights the syncopated bass guitar and drum pocket before leading into the second verse at 02:18. In this section, the lead vocal delivery grows increasingly impassioned, incorporating bluesy ornamentations and dynamic surges.\n\nBy 03:09, the song moves into an extended, high-energy chorus section that serves as an outro vamp. The lead vocalist performs expressive ad-libs while the backing vocalists repeat the cycling harmonic refrain. The brass section contributes energetic accent stabs, and the rhythm section maintains its steady, driving groove. The overall mood remains empowering and soulful, sustaining its momentum through the extended vamp until the audio slowly fades out.\n\nGENRES: Soul, Funk, Rhythm and Blues, Gospel Soul"
+  },
+  "metadata": {
+    "youtube_id": "InYaB16xEd0",
+    "title_extracted": null,
+    "corpus_id": "InYaB16xEd0",
+    "uploader": "Stax Records",
+    "audio_file": "corpus/01_music_videos_audio/audio/InYaB16xEd0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9601622,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 34.976974,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:51:50Z"
+  },
+  "status": "success",
+  "error": null
+}

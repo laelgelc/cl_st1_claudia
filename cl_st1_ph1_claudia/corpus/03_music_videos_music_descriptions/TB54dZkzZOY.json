@@ -1,0 +1,38 @@
+{
+  "corpus_id": "TB54dZkzZOY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/TB54dZkzZOY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/TB54dZkzZOY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/TB54dZkzZOY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an unheralded female lead vocal phrase set against a modest background of soft, ambient synth pads and subtle rhythmic accents in a 4/4 meter. At approximately fourteen seconds, the primary mid-tempo groove kicks in with a full electronic drum pattern featuring a punchy bass drum, crisp snare on the backbeats, and a steady, swinging hi-hat pattern. A deep, warm synth bassline enters alongside staccato synth keyboard chords, establishing a smooth dance-R&B rhythm.\n\nAs the track progresses, the lead female vocal remains centered in the stereo field, processed with a light touch of short reverb and delay that adds space without masking detail. Lush, multi-tracked backing vocals enter in wide stereo panning, creating a rich call-and-response dynamic with the lead singer. The harmonic structure is grounded in a minor-tinged chord progression played by warm synth pads and staccato keyboard hits, supplemented occasionally by melodic synth string swells.\n\nAround the one-minute mark, the arrangement shifts into a verse section. The persistent drum beat and bass groove continue unaltered, providing a stable foundation while the lead vocals become increasingly expressive and melismatic, rising in dynamic intensity. Accentuated string pads add extra motion to the mid-range texture. \n\nAt one minute and twenty-two seconds, the multi-layered vocal hook returns, re-establishing the full chorus texture. A breakdown around the two-minute point briefly shifts the arrangement, placing greater emphasis on the heavy synth bass, driving percussion, and soaring vocal ad-libs. The final minute of the piece continues to iterate on this groove, blending dense vocal harmonies, rhythmic keys, and subtle percussive embellishments into a polished, upbeat, and soulful production.\n\nGENRES: R&B, Contemporary R&B, New Jack Swing, Dance-Pop, Soul"
+  },
+  "metadata": {
+    "youtube_id": "TB54dZkzZOY",
+    "title_extracted": null,
+    "corpus_id": "TB54dZkzZOY",
+    "uploader": "SoulIISoulVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/TB54dZkzZOY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7452754,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.043901,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:16:08Z"
+  },
+  "status": "success",
+  "error": null
+}

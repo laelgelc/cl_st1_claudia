@@ -1,0 +1,38 @@
+{
+  "corpus_id": "cjIvu7e6Wq8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/cjIvu7e6Wq8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/cjIvu7e6Wq8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/cjIvu7e6Wq8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with isolated vinyl surface noise, record scratching, and a spoken radio request sample before dropping into a driving 4/4 dance-pop and hip-hop groove at a lively mid-tempo (approximately 102 BPM). The main instrumental hook features a staccato, syncopated synthetic brass and string motif set over a punchy, low-end electronic kick drum, crisp snare on beats two and four, and subdividing hi-hats. \n\nA vibrant female lead vocal enters with energetic, rhythmic rap delivery, featuring expressive pitch modulation, rhythmic cadences, and double-tracked unison harmonies during refrain sections. A distinctive production feature is the immediate repetition of vocal lines using backwards reversed audio effects, creating a call-and-response texture alongside high-pitched synth accent whistles, record scratching, and vocal chops. The harmony remains anchored to a repetitive, bouncy minor-key vamp driven by a rhythmic synth bassline.\n\nIn the verses, the beat remains steady while subtle variations in percussion, including handclaps and additional synth stabs, build dynamic tension. The stereo mix places the punchy drum core and lead vocals prominently in the center, while reversed vocal effects, backing harmonies, and secondary synth motifs pan widely across the soundscape. Short reverb tails and crisp delay effects give the vocals a polished, forward presence without obscuring the rhythmic bounce.\n\nFollowing repeated chorus cycles and a breakdown section with call-and-response vocal chants, the track moves into an extended outro. The persistent drum beat and bass synth continue under spoken and sung vocal ad-libs, culminating in a heavily textured DJ scratching section featuring fast vinyl manipulation, pitch-bends, and stuttering vocal edits before ending with a final vinyl stop effect.\n\nGENRES: Hip-Hop, Dance-Pop, R&B"
+  },
+  "metadata": {
+    "youtube_id": "cjIvu7e6Wq8",
+    "title_extracted": null,
+    "corpus_id": "cjIvu7e6Wq8",
+    "uploader": "Missy Elliott",
+    "audio_file": "corpus/01_music_videos_audio/audio/cjIvu7e6Wq8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8488550,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.690629,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:35:14Z"
+  },
+  "status": "success",
+  "error": null
+}

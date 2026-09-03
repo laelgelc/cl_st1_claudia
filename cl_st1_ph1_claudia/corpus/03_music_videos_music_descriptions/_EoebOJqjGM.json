@@ -1,0 +1,38 @@
+{
+  "corpus_id": "_EoebOJqjGM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/_EoebOJqjGM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/_EoebOJqjGM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/_EoebOJqjGM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens immediately at a fast, driving tempo in a 4/4 meter with an upbeat swing rock ’n’ roll groove. A rhythmic backing vocal ensemble introduces a low-register chant over an energetic rhythm section comprising a drum kit with a prominent backbeat, chugging piano chords, and an upright walking bass. The texture is densely layered yet clear, characterized by a warm, vintage mid-range tone and a short slapback reverb on the voices.\n\nA lead male vocalist enters with a raspy, blues-inflected, and highly energetic delivery, establishing a lively call-and-response dynamic with the backing vocal group. Harmonic movement follows a classic major-key, blues-derived progression. The backing choir provides rhythmic interjections, shouted responses, and unison harmonies that elevate the track's momentum. The spatial presentation feels coherent and centered, reflecting an early mid-century studio production style with a slight room ambience on the drum kit and piano.\n\nMidway through the piece, a passionate vocal shout transitions the song into an energetic instrumental section dominated by a tenor saxophone. The saxophone delivers a growling, bluesy solo characterized by rhythmic syncopation and a bright, brassy timbre, supported by ongoing backing vocal chants. The lead vocalist returns shortly after to lead another energetic verse and chorus, maintaining a high-intensity, declamatory singing style. The song enters an extended outro characterized by repeated vocal chants and rhythmic drum fills, leading to a sudden, emphatic full-ensemble hit that finishes the performance cleanly.\n\nGENRES: rock 'n' roll, rhythm and blues, jump blues"
+  },
+  "metadata": {
+    "youtube_id": "_EoebOJqjGM",
+    "title_extracted": null,
+    "corpus_id": "_EoebOJqjGM",
+    "uploader": "Daily Doo Wop",
+    "audio_file": "corpus/01_music_videos_audio/audio/_EoebOJqjGM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4213850,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.883383,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:21:49Z"
+  },
+  "status": "success",
+  "error": null
+}

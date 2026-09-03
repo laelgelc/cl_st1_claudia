@@ -1,0 +1,38 @@
+{
+  "corpus_id": "MRdRRn-bW4k",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/MRdRRn-bW4k.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/MRdRRn-bW4k.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/MRdRRn-bW4k.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track is a medium-tempo, swung 4/4 doo-wop and rhythm-and-blues arrangement characterized by a lively shuffle groove and a playful, theatrical mood. The instrumentation consists of a shuffle drum pattern utilizing rimshots and crisp hi-hat accents, a driving walking bassline, rhythm electric guitar providing offbeat chops, and a raspy tenor saxophone that contributes bluesy melodic fills. The vocal arrangement is highly dynamic, featuring a soulful male lead vocalist backed by a vocal group providing tight harmonic accents alongside a distinctively deep bass singer delivering spoken counter-lines.\n\nThe recording opens with a drum pickup straight into the first verse, established by swinging drums, walking bass, and rhythm guitar. The lead vocal takes a prominent central position with a raw, expressive timbre and subtle room reverb. Short group vocal interjections punctuate the verse phrases, culminating in a dry, deep bass voice delivering a spoken refrain line. \n\nThe structure transitions into a recurring chorus where the backing choir sings harmonized, rhythmic call phrases, answered by the lead singer's higher-register, emotive responses over a classic blues chord progression. Subsequent verses maintain this shuffle groove while introducing new spoken bass vocal interventions that create humorous dynamic contrasts. \n\nIn the second half, the tenor saxophone becomes more active, injecting warm, overdriven blues inflections and melodic countermelodies behind the vocal dialogue. The sound style reflects vintage mid-century analog production, characterized by a narrow stereo field, warm tape saturation, and moderate room reverberation. The performance concludes with a repeating chorus refrain, heightened by energetic lead vocal ad-libs and saxophone embellishments, before terminating on a tight, synchronized unison rhythmic stinger.\n\nGENRES: Rhythm and Blues, Doo-Wop, Rock and Roll, Soul"
+  },
+  "metadata": {
+    "youtube_id": "MRdRRn-bW4k",
+    "title_extracted": null,
+    "corpus_id": "MRdRRn-bW4k",
+    "uploader": "The Coasters - Topic",
+    "audio_file": "corpus/01_music_videos_audio/audio/MRdRRn-bW4k.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4506532,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 10.341571,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:37:29Z"
+  },
+  "status": "success",
+  "error": null
+}

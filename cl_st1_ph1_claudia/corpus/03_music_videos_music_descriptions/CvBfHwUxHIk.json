@@ -1,0 +1,38 @@
+{
+  "corpus_id": "CvBfHwUxHIk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CvBfHwUxHIk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/CvBfHwUxHIk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/CvBfHwUxHIk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is a mid-tempo contemporary R&B and pop track set in a steady 4/4 meter. It opens with a crisp hip-hop drum break featuring punchy kick drums, sharp snares, and rhythmic hi-hats, underpinned by a buoyant synth bassline and subtle electric guitar stabs. A male spoken-word vocal delivers rhythmic intro phrasing centered in the mix, accompanied by casual vocal ad-libs processed with light room reverb.\n\nAt approximately twenty-eight seconds, a smooth, expressive female lead vocal enters for the first verse. The instrumentation thins slightly, creating a spacious texture centered on the heavy bass synth, rhythmic drum patterns, and ambient keyboard stabs. The lead vocal is closely miked and polished, enhanced by subtle stereo delay and smooth plate reverb.\n\nThe dynamics expand substantially during the chorus. Atmospheric synth pads, lush synth strings, and deep sub-bass enter to create a dense, full-frequency soundscape. Multi-tracked backing vocals provide lush harmonies and repetitive vocal hooks that spread across the stereo field, heightening the emotional energy over the driving beat.\n\nFollowing a second verse and chorus, a bridge section provides a dramatic shift. The lead vocal becomes more passionate and intense, supported by swelling synth pads and rising harmonic tension. This section resolves seamlessly into a powerful final chorus, enriched by soaring vocal ad-libs in the higher register that weave above the main melody and dense rhythm track.\n\nThe track moves into an extended outro where expressive vocal vamps and ad-libs interact with the main groove. The instrumentation slowly thins out, allowing the lingering vocal delays and drum beat to gradually wind down to a final silent decay. The overall mood is confident, dramatic, and emotionally resonant.\n\nGENRES: Contemporary R&B, Pop, Hip-Hop"
+  },
+  "metadata": {
+    "youtube_id": "CvBfHwUxHIk",
+    "title_extracted": null,
+    "corpus_id": "CvBfHwUxHIk",
+    "uploader": "Rihanna",
+    "audio_file": "corpus/01_music_videos_audio/audio/CvBfHwUxHIk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8134122,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.842631,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:25:18Z"
+  },
+  "status": "success",
+  "error": null
+}

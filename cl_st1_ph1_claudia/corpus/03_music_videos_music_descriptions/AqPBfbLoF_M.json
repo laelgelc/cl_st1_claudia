@@ -1,0 +1,38 @@
+{
+  "corpus_id": "AqPBfbLoF_M",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/AqPBfbLoF_M.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/AqPBfbLoF_M.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/AqPBfbLoF_M.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The piece opens with a classic, laid-back soul groove set in a moderate 4/4 meter. The rhythmic foundation features a steady drum beat driven by a soft snare snap and subtle hi-hat pattern, paired with a warm, syncopated electric bassline that provides a strong melodic anchor. Clean-toned rhythmic electric guitar plays tight comping chords, accompanied by gentle electric piano harmony that fills the mid-range texture.\n\nA dynamic lead male vocalist drives the track, employing an expressive delivery that transitions smoothly between conversational phrasing, warm mid-range tones, high-register falsetto, and emotive melismatic vocal improvisations. As the arrangement progresses, wide-panned backing vocals enter with lush, multi-part harmonies that echo and support the main vocal lines.\n\nThe arrangement continuously expands through additional orchestral and band layers. Subtle string section swells provide a rich, soaring backdrop, while periodic brass section accents add bright, punchy counterpoint to the vocal phrases. The chord progression relies on rich, extended soul chords, creating a warm, uplifting, and romantic tonal atmosphere.\n\nFrom a production perspective, the recording displays a polished vintage analog character. The mix features a wide stereo landscape, positioning the main vocal, kick drum, and bass centrally, while rhythm guitars, string swells, and brass fills are distributed across the left and right channels. A smooth plate or chamber reverb is applied to the vocals and horn section, adding spatial warmth and depth without sacrificing clarity. \n\nThe overall groove remains steady and relaxed, generating a seductive, intimate, and passionate mood. Dynamics subtly rise as the lead vocalist increases vocal intensity and ad-lib activity over the rich, fully realized instrumental background.\n\nGENRES: Soul, R&B, Classic Soul, Funk, Quiet Storm"
+  },
+  "metadata": {
+    "youtube_id": "AqPBfbLoF_M",
+    "title_extracted": null,
+    "corpus_id": "AqPBfbLoF_M",
+    "uploader": "Marvin Gaye",
+    "audio_file": "corpus/01_music_videos_audio/audio/AqPBfbLoF_M.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9406204,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.110142,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:15:17Z"
+  },
+  "status": "success",
+  "error": null
+}

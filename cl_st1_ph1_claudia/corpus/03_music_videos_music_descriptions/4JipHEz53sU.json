@@ -1,0 +1,38 @@
+{
+  "corpus_id": "4JipHEz53sU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4JipHEz53sU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/4JipHEz53sU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/4JipHEz53sU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is an upbeat, fast-tempo electropop track in 4/4 meter with a bright, polished production aesthetic. It opens with an arpeggiated synth lead, a chopped vocal hook in the background, and a brief snare build that quickly propels the track into the main electronic groove.\n\nDuring the verse sections, the arrangement centers around a rapid-fire, highly rhythmic female rap vocal positioned clearly in the middle of the stereo field. The instrumental accompaniment combines a punchy drum machine groove—comprising a heavy kick, crisp snare and clap accents, and driving hi-hats—with buzzing mid-range synth stabs and a prominent sub-bass line. Heavy sidechain compression imparts a distinct pumping feel throughout the rhythm track.\n\nThe track moves into a melodic chorus section where the vocal performance transitions to a layered, singing lead supported by lush harmonies and subtle pitch-correction effects. The instrumental texture expands with wide-panned synth chords, resonant filter sweeps, and booming low-end bass hits on the downbeats, elevating the overall dynamic energy to a celebratory, high-energy peak.\n\nAfter a second verse and chorus iteration, a short bridge thins the texture, filtering the synths and drums while highlighting a sweeter, softer lead vocal wrapped in spacious reverb. A brief crescendo and snare fill signal the return to the final chorus, which reaches the song's dynamic apex with full instrumentation, soaring vocal ad-libs, and dense synth layers. The piece concludes with a short synth decay and a reverberant tail.\n\nThe production relies on clean digital processing, strong dynamic compression, and a wide stereo image with low frequencies anchored firmly in the center.\n\nGENRES: Pop, Electropop, Hip Hop, Synthpop"
+  },
+  "metadata": {
+    "youtube_id": "4JipHEz53sU",
+    "title_extracted": null,
+    "corpus_id": "4JipHEz53sU",
+    "uploader": "Nicki Minaj",
+    "audio_file": "corpus/01_music_videos_audio/audio/4JipHEz53sU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6988356,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.403051,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:38:31Z"
+  },
+  "status": "success",
+  "error": null
+}

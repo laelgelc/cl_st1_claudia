@@ -1,0 +1,38 @@
+{
+  "corpus_id": "bPO0bTaWcFQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/bPO0bTaWcFQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/bPO0bTaWcFQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/bPO0bTaWcFQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a slow, melancholic introduction featuring a grand piano playing blues-influenced chords soaked in a warm, spacious reverb. At 0:12, an intimate, raspy female lead vocal enters in the center of the stereo mix with close, dry production, delivering a contemplative melody. The texture remains sparse and contemplative until 0:43, where a dramatic dynamic and tempo shift propels the piece into a driving, mid-tempo blues-rock groove.\n\nDrums establish a punchy 4/4 beat with crisp snare hits and an active hi-hat pattern, while a rounded bassline and overdriven rhythm guitars enter panned to the sides. The lead vocal transforms into a passionate, gravelly belt with expressive pitch bends and dynamic emphasis. Upbeat piano chords and warm organ textures reinforce the harmonic foundation.\n\nAround 2:25, the arrangement expands into a high-energy section where multi-tracked backing vocals join in a rhythmically spelled-out call-and-response chant. Gritty electric guitar fills weave through the vocal phrases, accompanied by continuous drum fills and an increasingly energetic rhythm section. The production style combines classic garage-rock crunch with a wide stereo soundstage.\n\nAfter a sustained section of intense vocal improvisations and driving rhythm, the track unexpectedly decelerates around 4:40, dropping back into the quiet, slow-tempo intro style. The heavy instrumentation vanishes, leaving the lead voice suspended over gentle, lingering piano chords until it tapers off around 5:06. \n\nAt 5:08, the quiet pause is shattered by an explosive, fast-tempo garage-rock outburst. Frantic drum fills, heavily distorted guitar riffs, a pounding bassline, and ecstatic shouted vocals build a chaotic, high-energy climax that drives the recording to its final fade.\n\nGENRES: blues rock, garage rock, classic rock, rock and roll"
+  },
+  "metadata": {
+    "youtube_id": "bPO0bTaWcFQ",
+    "title_extracted": null,
+    "corpus_id": "bPO0bTaWcFQ",
+    "uploader": "Patti Smith",
+    "audio_file": "corpus/01_music_videos_audio/audio/bPO0bTaWcFQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11396804,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.355629,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:55:27Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "WANNqr-vcx0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/WANNqr-vcx0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/WANNqr-vcx0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/WANNqr-vcx0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a fingerpicked and strummed acoustic guitar playing a rhythmic, modal chord progression in a steady moderate 4/4 time signature. A marching snare, subtle percussion, and kick drum establish a hypnotic, forward-propelling beat, quickly joined by a warm, prominent electric bass guitar that plays melodic counter-lines beneath the guitar pattern. The opening texture is moderately sparse, driven by a continuous psychedelic rock groove.\n\nAt twenty-eight seconds, a lead female vocalist enters at the center of the stereo mix. Her initial delivery is smooth, clear, and relatively restrained, set against a dry, close-miked production aesthetic. As the song unfolds through continuous verse variations, the musical texture steadily builds in density and volume. The drum kit expands to include open hi-hats, tambourine accents, and sharper snare strikes, while the bass guitar drives the harmonic progression with increasing force.\n\nA persistent dynamic crescendo shapes the middle portion of the piece. The vocalist gradually increases her vocal intensity, moving from intimate phrasing to expressive, resonant belting. The acoustic guitar strumming becomes more aggressive, and subtle harmonic backing elements enhance the dense, driving mix. \n\nIn the final section, the song reaches an explosive dynamic climax. The lead vocal ascends into a powerful, impassioned high register, sustained with raw intensity. Lush, expansive reverb and stereo delay effects are introduced to the vocals, creating a reverberant echo on the final sustained phrase. A dramatic drum roll and soaring vocal crest bring the track to an abrupt, powerful finish with a brief lingering decay.\n\nGENRES: Psychedelic Rock, Folk Rock, Acid Rock"
+  },
+  "metadata": {
+    "youtube_id": "WANNqr-vcx0",
+    "title_extracted": null,
+    "corpus_id": "WANNqr-vcx0",
+    "uploader": "dustasdu",
+    "audio_file": "corpus/01_music_videos_audio/audio/WANNqr-vcx0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4757754,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 28.896439,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:57:14Z"
+  },
+  "status": "success",
+  "error": null
+}

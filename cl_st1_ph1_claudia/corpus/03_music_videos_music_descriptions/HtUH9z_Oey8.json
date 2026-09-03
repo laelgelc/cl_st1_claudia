@@ -1,0 +1,38 @@
+{
+  "corpus_id": "HtUH9z_Oey8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/HtUH9z_Oey8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/HtUH9z_Oey8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/HtUH9z_Oey8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief intro featuring a solo, expressive wind instrument—resembling a wooden flute or recorder—playing a melancholic, scalar melody set within a spacious reverb environment. At 0:10, the texture transforms as a full ensemble enters in a relaxed 4/4 mid-tempo groove. The instrumentation consists of a steady drum kit playing a soft rock beat, a warm and melodic electric bass, strummed guitar, and a subtle vintage organ pad. A clear, center-panned lead male vocal enters with a smooth, slightly double-tracked timbre, delivering a memorable vocal hook.\n\nThe composition follows an alternating verse-chorus structure. During the verses (beginning around 0:34, 1:20, and 2:06), the dynamic volume softens slightly, emphasizing the active bassline and intimate vocal phrasing over gentle guitar chords and steady drumming. The chorus sections (at 0:10, 0:55, 1:41, and 2:27) bring a fuller dynamic swell, adorned with decorative wind fills, rich harmonic backing textures, and a wide stereo image separating the rhythm guitars from the centered bass and lead vocal.\n\nThroughout the track, the mood is nostalgic, dreamlike, and reflective. The harmonic character blends major and minor diatonic chords, evoking a bittersweet tonal quality. Production techniques reflect a vintage analog aesthetic, featuring gentle tape-style warmth, subtle reverb on the vocals, and clear spatial separation between instruments.\n\nAt 2:58, the song transitions into an energetic instrumental outro. The vocal concludes, leaving the spotlight for punctuated brass and horn stabs, melodic electric guitar flourishes, and a driving drum and bass rhythm. The dynamic groove continues until a gradual fade-out brings the piece to a complete close around 3:35.\n\nGENRES: Psychedelic Pop, Baroque Pop, Soft Rock, Classic Pop"
+  },
+  "metadata": {
+    "youtube_id": "HtUH9z_Oey8",
+    "title_extracted": null,
+    "corpus_id": "HtUH9z_Oey8",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/HtUH9z_Oey8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8429108,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.319965,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:34:32Z"
+  },
+  "status": "success",
+  "error": null
+}

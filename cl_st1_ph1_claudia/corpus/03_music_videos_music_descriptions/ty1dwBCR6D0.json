@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ty1dwBCR6D0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ty1dwBCR6D0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ty1dwBCR6D0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ty1dwBCR6D0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording captures a high-energy live performance of a classic pop-rock ballad set in a four-four meter at a brisk, upbeat tempo of approximately 128 BPM. The track opens with enthusiastic audience applause and an energetic band intro, immediately establishing a wide stereo soundstage with authentic venue acoustics and ambient audience noise.\n\nThe instrumentation features a male lead vocalist, acoustic rhythm guitar, electric guitar, electric bass, a complete drum kit, layered backing vocals, and a vibrant brass section containing trumpets, trombones, and saxophones. The lead vocalist exhibits a warm, resonant baritone timbre delivered with authentic live energy, subtle room reverb, and clear center-panned presence in the stereo mix. During the verses, the texture remains relatively transparent—anchored by clean acoustic guitar strumming, walking basslines, and a steady kick-snare backbeat at a moderate mezzo-forte dynamic level.\n\nTransitions into the pre-choruses feature pronounced dynamic crescendos, driven by syncopated drum fills, rising vocal contour, and swelling horn accents. The choruses explode into dense, fortissimo homophonic and polyphonic textures characterized by punchy brass flourishes playing iconic melodic counter-lines, rich vocal harmonies, and widespread audience sing-alongs. \n\nHarmonically, the composition relies on bright major-key diatonic progressions. Around 03:30, the ensemble executes a seamless half-step key modulation, raising the pitch and overall dynamic intensity to heighten emotional impact. After a grand musical cadence and brief spoken interaction at 04:20, the band triggers an extended reprise at 04:53. This exuberant finale features driving drum grooves, soaring brass motifs, and peak vocal power, concluding with a sustained dramatic cadence at 06:25 and sustained audience applause through the end.\n\nGENRES: Pop Rock, Soft Rock, Country Pop, Singer-Songwriter, Live Recording"
+  },
+  "metadata": {
+    "youtube_id": "ty1dwBCR6D0",
+    "title_extracted": null,
+    "corpus_id": "ty1dwBCR6D0",
+    "uploader": "Neil Diamond",
+    "audio_file": "corpus/01_music_videos_audio/audio/ty1dwBCR6D0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 12863562,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.830954,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:00:55Z"
+  },
+  "status": "success",
+  "error": null
+}

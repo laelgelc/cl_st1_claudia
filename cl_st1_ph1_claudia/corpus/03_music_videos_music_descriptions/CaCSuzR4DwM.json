@@ -1,0 +1,38 @@
+{
+  "corpus_id": "CaCSuzR4DwM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CaCSuzR4DwM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/CaCSuzR4DwM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/CaCSuzR4DwM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The live recording opens with energetic audience applause accompanied by a brief, triumphant brass fanfare before resolving into a slow, laid-back 4/4 jazz ballad rhythm.\n\nThe male lead vocalist enters shortly after the applause dies down, featuring an exceptionally deep, raspy, and gravelly vocal timbre. Delivered with a relaxed, conversational phrasing and subtle natural room reverb typical of a live venue, the vocal stays centrally aligned in the stereo field. The primary accompaniment consists of a clean-toned electric jazz guitar playing gentle chordal comping and bluesy melodic fills, a resonant upright bass providing warm low-end anchor notes, and quiet brushed snare and cymbal work from the drum kit. Expanding the texture, a full big band brass and reed section provides subtle harmonic pads, gentle swell dynamics, and occasional muted trumpet countermelodies that interact with the vocal lines.\n\nHarmonically, the piece utilizes traditional jazz ballad chord progressions enriched with major seventh and minor extended chords, evoking a nostalgic, reflective, and hopeful atmosphere. The tempo is steady yet flexible, maintaining a soft swing groove. Sectional development proceeds smoothly through recurring melodic stanzas, with dynamics remaining mostly soft to medium-soft to emphasize vocal intimacy. \n\nIn the final section, the performance reaches an expressive climax as the vocalist sustains a long, resonant final note. The supporting brass section swells in dynamic intensity, performing a rich chromatic cadence that resolves onto a warm, lingering final chord. The piece ends seamlessly as the audience breaks into loud, enthusiastic applause and cheers.\n\nGENRES: Jazz, Vocal Jazz, Big Band, Traditional Pop"
+  },
+  "metadata": {
+    "youtube_id": "CaCSuzR4DwM",
+    "title_extracted": null,
+    "corpus_id": "CaCSuzR4DwM",
+    "uploader": "Louis Armstrong",
+    "audio_file": "corpus/01_music_videos_audio/audio/CaCSuzR4DwM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4655958,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.954572,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:59:02Z"
+  },
+  "status": "success",
+  "error": null
+}

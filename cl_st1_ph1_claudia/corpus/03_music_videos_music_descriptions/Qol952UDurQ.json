@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Qol952UDurQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Qol952UDurQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Qol952UDurQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Qol952UDurQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief intro featuring a warm, clean electric guitar playing jazz-inflected chord arpeggios in a slow, swinging 12/8 meter. A smooth, expressive male lead vocal immediately enters at the center of the stereo image, delivering an intimate melody with gentle vibrato and a warm, close-mic'd timbre. A backing vocal ensemble enters almost simultaneously, answering the lead phrases with wide, lush multi-part harmonies that create a deep stereo field. The rhythm section joins with a relaxed, swaying groove characterized by brushed snare patterns, soft hi-hat accents, a muted kick drum, and a warm, rounded electric bass line playing gentle walking figures.\n\nAt 0:39, the piece transitions into a bridge section with a contrasting harmonic movement. The lead vocal drops into a lower, conversational register, supported by steady rhythm guitar chops and walking bass notes, subtly raising the emotional tension while maintaining the gentle tempo and relaxed dynamics.\n\nThe music resolves back to the primary refrain at 0:59, restoring the central call-and-response dynamic between the soaring lead vocal and the wide backing vocal group. During the following section at 1:19, the lead singer engages in expressive bluesy melismas and vocal improvisations over sustained harmonic pads provided by the backing vocal ensemble, while the guitar and bass maintain a soft, steady accompaniment.\n\nA secondary bridge section enters at 1:59, mirroring the intimate dynamic of the earlier bridge before leading into the final refrain at 2:18. Here, the lead vocal reaches its peak expressiveness, delivering soaring melismatic runs over the cycling backing vocal motif. The production style features an analog warmth with short plate reverb on the vocals and a balanced room ambiance on the drums. The performance gently tapers off as the instrumentation and vocals fade out to a close.\n\nGENRES: Soul, Rhythm & Blues, Vocal Jazz, Pop, Doo-Wop"
+  },
+  "metadata": {
+    "youtube_id": "Qol952UDurQ",
+    "title_extracted": null,
+    "corpus_id": "Qol952UDurQ",
+    "uploader": "Sam Cooke",
+    "audio_file": "corpus/01_music_videos_audio/audio/Qol952UDurQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5269708,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.991968,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:28:28Z"
+  },
+  "status": "success",
+  "error": null
+}

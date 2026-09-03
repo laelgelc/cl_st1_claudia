@@ -1,0 +1,38 @@
+{
+  "corpus_id": "3T1c7GkzRQQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/3T1c7GkzRQQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/3T1c7GkzRQQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/3T1c7GkzRQQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens in a 4/4 time signature at a bright, medium-fast tempo, establishing a syncopated ska-reggae groove. An electric guitar initiates the track with staccato offbeat chord skanks, featuring a clean tone with mild overdrive and subtle delay. A warm, melodic bassline and a crisp drum kit—highlighted by tight hi-hat patterns and snappy snare rimshots—soon enter, accompanied by brief playful vocal laughter. The stereo field is balanced, with the drum kit and bass anchored in the center while guitar tracks are panned to the sides.\n\nA raspy, gritty male lead vocal enters following a short drum fill, recorded with close-mic intimacy and modest room reverb. The vocalist sings with soulful, urgent inflection over a minor-key harmonic foundation. During the verses, the dynamic level stays moderately controlled, supported by an energetic yet transparent texture that highlights the syncopated bass groove and rhythmic guitar chanks.\n\nTransitions into the chorus produce a dramatic surge in dynamics, texture, and emotional intensity. The lead vocal ascends into an impassioned belting range, joined by layered group backing vocals that deliver enthusiastic, rhythmic call-and-response refrains. The drum arrangement expands with open hi-hats, punchy crash accents, and a driving kick-snare feel, while the bassline plays with increased drive. Following a brief dynamic drop back into the second verse, the song builds into a sustained climax during the extended final chorus. Here, repeated vocal refrains, ad-libbed shouts, and a dense, driving instrumental backdrop create a triumphant, high-energy finale that abruptly terminates on a final unison accent.\n\nGENRES: Ska, Reggae Rock, Pop Rock"
+  },
+  "metadata": {
+    "youtube_id": "3T1c7GkzRQQ",
+    "title_extracted": null,
+    "corpus_id": "3T1c7GkzRQQ",
+    "uploader": "The Police",
+    "audio_file": "corpus/01_music_videos_audio/audio/3T1c7GkzRQQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6074418,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.205611,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:06:38Z"
+  },
+  "status": "success",
+  "error": null
+}

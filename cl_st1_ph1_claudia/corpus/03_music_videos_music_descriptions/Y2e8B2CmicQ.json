@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Y2e8B2CmicQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Y2e8B2CmicQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Y2e8B2CmicQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Y2e8B2CmicQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a gentle mid-tempo 4/4 rhythm driven by strummed acoustic guitar, a walking clean bassline, a steady shaker, and crisp drum percussion featuring snappy snare accents on beats two and four. A expressive, soulful female lead vocal enters over this lightweight acoustic foundation, delivering a melodic verse from a prominent, centered stereo position treated with subtle vintage chamber reverb.\n\nAs the song progresses into the second verse, multi-part female backing vocals join, panned slightly across the stereo field to provide classic rhythmic call-and-response vocables alongside sustained chordal harmonies. The tempo remains a steady, swinging mid-tempo throughout, while the overall dynamic envelope gradually expands. Delicate orchestral string arrangements enter, layering sweeping violin counter-melodies and warm sustained chords that lift the emotional intensity through the bridge and chorus sections.\n\nThe instrumentation creates a stratified vintage texture: the tight, dry rhythm section maintains a grounded groove underneath bright guitar strums, soaring string lines, and layered vocal arrangements. Harmonically, the piece rests in a bright major key, utilizing traditional diatonic pop progressions with smooth cadences. \n\nFollowing a dynamic bridge section marked by heightened vocal emotion and fuller orchestral backing, a concise melodic electric guitar solo emerges, framed by lush string pads and steady rhythm work. The final section returns to the main thematic refrain, featuring earnest lead vocal phrases supported by rhythmic backing vocal responses and soaring upper-register strings. The piece gradually fades out into silence while maintaining its warm, bittersweet tonal character.\n\nGENRES: 1960s Pop, Girl Group, Soul, Early Pop Rock"
+  },
+  "metadata": {
+    "youtube_id": "Y2e8B2CmicQ",
+    "title_extracted": null,
+    "corpus_id": "Y2e8B2CmicQ",
+    "uploader": "Bert",
+    "audio_file": "corpus/01_music_videos_audio/audio/Y2e8B2CmicQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5371504,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 8.29478,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:31:14Z"
+  },
+  "status": "success",
+  "error": null
+}

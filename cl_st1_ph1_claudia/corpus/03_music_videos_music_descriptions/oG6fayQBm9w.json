@@ -1,0 +1,38 @@
+{
+  "corpus_id": "oG6fayQBm9w",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oG6fayQBm9w.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/oG6fayQBm9w.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/oG6fayQBm9w.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens in a relaxed, mid-tempo 4/4 meter with a strummed acoustic guitar playing a rhythmic chordal pattern, quickly joined by a prominent, warm double bass playing a sliding, melodic walking bassline. A subtle brushed snare drum and soft percussion provide a gentle, swing-inflected pulse, establishing a sparse and laid-back acoustic groove.\n\nAt approximately 00:20, a deep, baritone male lead voice enters, characterized by an intimate, conversational, and almost spoken-word delivery. The vocal production is close-miked, low-register, and largely dry, with only subtle, warm spatial reverb. The harmonic structure rotates predictably around simple major chord progressions, providing a stable foundation for the narrative vocal delivery.\n\nAs the performance reaches its refrains (starting around 01:15), a group of female backing vocalists enters, singing harmonized, repetitive vocalese refrains (\"doo-doo-doo\"). These backing vocals are panned broadly across the stereo field with a slightly more reverberant space, creating a lush textural contrast against the centered, low-register lead voice.\n\nThe dynamics remain consistently restrained and conversational throughout the verses, maintaining a medium-sparse texture anchored by the persistent acoustic guitar strumming and the sliding, woody tones of the double bass. \n\nAt around 03:38, the arrangement transitions into an outro section as a soulful tenor saxophone enters, taking over the melodic lead. The saxophone plays smooth, jazz-influenced phrases over the driving rhythm section. The song gradually fades out while the saxophone continues its improvisation over the steady acoustic groove.\n\nGENRES: Folk Rock, Singer-Songwriter, Jazz Pop, Glam Rock"
+  },
+  "metadata": {
+    "youtube_id": "oG6fayQBm9w",
+    "title_extracted": null,
+    "corpus_id": "oG6fayQBm9w",
+    "uploader": "Lou Reed",
+    "audio_file": "corpus/01_music_videos_audio/audio/oG6fayQBm9w.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8146752,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.416407,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:00:24Z"
+  },
+  "status": "success",
+  "error": null
+}

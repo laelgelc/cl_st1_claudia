@@ -1,0 +1,38 @@
+{
+  "corpus_id": "n5h0qHwNrHk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/n5h0qHwNrHk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/n5h0qHwNrHk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/n5h0qHwNrHk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a solitary, warm-toned acoustic guitar playing a rhythmic strummed and fingerpicked pattern in a moderate 4/4 meter. A close-miked lead male vocal enters shortly after, delivering an intimate, breathy, and slightly raspy performance positioned centrally in the stereo image. The initial dynamic range is low and delicate, creating a reflective, melancholic atmosphere supported by minimal, natural room reverb. The harmonic foundation cycles through a warm, folk-influenced chord progression.\n\nAround the one-minute-and-twenty-second mark, the sparse acoustic texture expands into a full band arrangement with the entry of a relaxed drum kit and a warm, resonant bass guitar. The groove remains mid-tempo and steady, marked by understated snare strikes on beats two and four alongside smooth hi-hat work. As the full instrumentation establishes itself, the lead vocal ascends into a higher vocal register with increased dynamic drive and emotional urgency. Strummed acoustic guitars pan wider across the stereo field, thickening the overall acoustic texture.\n\nThe middle section reaches the song’s emotional and dynamic peak, characterized by a more forceful, belted vocal delivery with subtle double-tracking or ambient reflections adding stereo breadth. The rhythmic pulse from the drums and bass remains grounded and steady, providing a solid foundation beneath the increasingly expressive vocal lines and rich guitar strumming.\n\nThe arrangement then transitions into a prolonged, winding outro. The dynamic intensity gradually recedes as the vocal returns to a soft, hushed tone over a repeating chordal motif. The drums reduce their complexity to light, sparse hits while the bass cradles the acoustic guitar’s gentle strumming. The instrumentation steadily decays, ultimately concluding with a lingering acoustic guitar note that fades gently into silence.\n\nGENRES: Alternative Rock, Indie Folk, Singer-Songwriter, Acoustic Rock"
+  },
+  "metadata": {
+    "youtube_id": "n5h0qHwNrHk",
+    "title_extracted": null,
+    "corpus_id": "n5h0qHwNrHk",
+    "uploader": "Radiohead",
+    "audio_file": "corpus/01_music_videos_audio/audio/n5h0qHwNrHk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9348246,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 27.143497,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:10:29Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "4hj1iWqoYEc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4hj1iWqoYEc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/4hj1iWqoYEc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/4hj1iWqoYEc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens abruptly with an energetic vocal grunt and a sharp snare drum accent, launching immediately into a mid-tempo, highly syncopated funk groove in 4/4 meter. The rhythm section consists of a dominant, melodically active electric bass guitar, steady drums with crisp snare hits and ride/hi-hat timekeeping, and a rhythmic, muted electric guitar playing percussive chordal chops. A bright horn section, featuring brass and saxophones, provides rhythmic stabs and punctuation throughout the track.\n\nA prominent lead male vocal delivers passionate, rhythmically spoken-sung declarations characterized by a raw, gravelly timbre and dynamic shifts ranging from spoken text to gritty rasps and high-pitched shouts. The lead vocal frequently engages in a structured call-and-response pattern with a higher-pitched group chorus, chanting a recurring response in unison. \n\nThe piece exhibits a vamp-based sectional structure anchored by a persistent, repeating groove centered around a blues-influenced tonality. Harmonic movement is minimal, relying on modal groove development, rhythmic syncopation, and subtle instrumental texture variations. Dynamic intensity remains consistently elevated, driven by the forceful bassline, tight drum groove, and explosive horn punches.\n\nDuring the middle section, an instrumental bridge highlights a soaring, blues-inflected horn solo accompanied by rhythmic vocal interjections and percussive rhythm guitar inflections. Subsequent sections return to the core call-and-response vocal motif, maintaining an assertive, energetic, and uplifting mood. The production style reflects a vintage, analogue recording aesthetic with a warm tonal balance, subtle room ambiance, and clear stereo separation, placing the lead vocal centrally alongside the bass and drums while the horns and rhythm guitar spread across the stereo field. The excerpt eventually tapers off into a spoken ad-lib section over the continuing rhythm section vamp.\n\nGENRES: Funk, Soul, Rhythm and Blues"
+  },
+  "metadata": {
+    "youtube_id": "4hj1iWqoYEc",
+    "title_extracted": null,
+    "corpus_id": "4hj1iWqoYEc",
+    "uploader": "Harley Ambrose",
+    "audio_file": "corpus/01_music_videos_audio/audio/4hj1iWqoYEc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5824014,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.398548,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:34:35Z"
+  },
+  "status": "success",
+  "error": null
+}

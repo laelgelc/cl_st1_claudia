@@ -1,0 +1,38 @@
+{
+  "corpus_id": "GP7zpdwo3Xo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/GP7zpdwo3Xo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/GP7zpdwo3Xo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/GP7zpdwo3Xo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The piece opens in a mid-tempo 4/4 meter with a solo acoustic guitar playing a warm, intimate fingerpicked and strummed chord pattern, set softly within a moderately wide stereo space with subtle reverb. At 0:09, a raspy, expressive male lead vocal enters with an intimate, narrative delivery, supported strictly by the acoustic guitar. The dynamic level remains reflective until 0:22, when a steady rock drum groove—featuring a crisp snare, defined kick, and hi-hats—enters alongside a warm bass guitar line, steadily building momentum.\n\nAt 0:36, the texture expands dramatically into a powerful chorus as thick, distorted electric guitar layers join the mix, elevating the overall volume and density. The lead vocal ascends into a passionate belt, treated with spatial delay and reverb, and supported by backing vocal harmonies. The arrangement thins out at 1:08 for the second verse, dropping the distorted electric guitars to re-establish an acoustic-driven texture over a steady, subdued drum and bass foundation.\n\nA punchy drum fill at 1:30 launches the full ensemble back into a second chorus, reinstating the energetic rock instrumentation and driving rhythm. At 2:16, a transitional bridge section reduces the full-band weight, introducing echoing vocal textures over a pulsing acoustic strumming pattern and bassline to build dynamic tension. This resolves at 2:31 into a high-energy final chorus, reaching the track’s peak emotional and dynamic intensity with soaring vocal ad-libs, heavy rhythmic guitar chords, and energetic drum fills. The song smoothly transitions into an outro around 3:08, where the dense rock layers gradually wind down, ultimately leaving a resonant acoustic guitar chord and ambient reverb tails to fade softly into silence.\n\nGENRES: Rock, Alternative Rock, Pop Rock"
+  },
+  "metadata": {
+    "youtube_id": "GP7zpdwo3Xo",
+    "title_extracted": null,
+    "corpus_id": "GP7zpdwo3Xo",
+    "uploader": "Nickelback",
+    "audio_file": "corpus/01_music_videos_audio/audio/GP7zpdwo3Xo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7631084,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.536201,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:23:23Z"
+  },
+  "status": "success",
+  "error": null
+}

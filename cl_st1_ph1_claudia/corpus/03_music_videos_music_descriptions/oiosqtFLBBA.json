@@ -1,0 +1,38 @@
+{
+  "corpus_id": "oiosqtFLBBA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oiosqtFLBBA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/oiosqtFLBBA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/oiosqtFLBBA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a crisp, driving acoustic and clean electric rhythm guitar pattern in a 4/4 meter at a steady, upbeat mid-tempo. A warm, melodic bass guitar and a straight-ahead drum kit groove enter almost immediately, featuring a strong snare backbeat and steady hi-hat pattern. Shortly after the intro, a clear, expressive male lead vocal enters in the center of the stereo mix, delivering an emotive performance with a slight natural rasp and subtle room reverb.\n\nDuring the verses, the texture remains punchy yet open, supported by panned rhythm guitars and an active, resonant bassline. The transition to the chorus introduces bright, multi-tracked vocal harmonies panned wide across the stereo field, creating a rich vocal texture that contrasts with the direct lead vocal of the verses. The rhythmic momentum remains firm and buoyant, driven by continuous guitar strumming and crisp drum cymbal accents.\n\nA second verse maintains this arrangement before leading into a second chorus, where the layered vocal harmonies and driving rhythm section return with heightened energy. Following this, an instrumental section features a vibrant, melodic electric guitar solo with a classic overdriven timbre, subtle delay, and expressive pitch bends, soaring over the persistent rhythm section.\n\nThe chorus returns with layered vocal hooks and spirited call-and-response vocal arrangements. Moving into the extended outro, the track maintains its chorus progression while a secondary, energetic electric guitar solo weaves continuously through the vocal lines and driving instrumental backing. The drum performance gains intensity with busier cymbal work and dynamic fills. The overall production showcases a warm, vintage analog aesthetic with wide stereo separation and balanced tonal warmth, gradually fading out to conclude the track.\n\nGENRES: pop rock, soft rock, classic rock, folk rock"
+  },
+  "metadata": {
+    "youtube_id": "oiosqtFLBBA",
+    "title_extracted": null,
+    "corpus_id": "oiosqtFLBBA",
+    "uploader": "Fleetwood Mac",
+    "audio_file": "corpus/01_music_videos_audio/audio/oiosqtFLBBA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6991328,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.180665,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:27:18Z"
+  },
+  "status": "success",
+  "error": null
+}

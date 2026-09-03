@@ -1,0 +1,38 @@
+{
+  "corpus_id": "cK5G8fPmWeA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/cK5G8fPmWeA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/cK5G8fPmWeA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/cK5G8fPmWeA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief, energetic drum count-in fill featuring punchy snare strikes and crisp cymbals before a driving electric bass and rhythmic electric guitars enter, establishing a 4/4 meter with an upbeat, driving rock groove. The ensemble exhibits a vintage 1960s psychedelic pop-rock sound, characterized by warm, slightly overdriven rhythm guitar panned across the stereo field, a rounded electric bassline, and a steady, upfront drum kit.\n\nAt 0:09, a solo male lead vocal enters the center of the soundstage. The vocal audio processing includes noticeable bandpass filtering, mild tape saturation, and subtle slapback delay, conferring a distinct retro aesthetic. The bassline plays melodic walking patterns underneath the steady strumming of the rhythm guitars and upbeat drum pattern.\n\nA thematic shift occurs at 0:30 as the arrangement expands into a chorus section enriched by wide, multi-part backing vocal harmonies panned across the stereo field with moderate reverb. The rhythm section maintains its persistent momentum, driving the energetic feel.\n\nThe song returns to a verse structure at 0:50, with the lead vocal resuming over the established groove while subtle electric guitar fills accent phrase endings. A second vocal harmony section follows from 1:16, featuring high-register vocal harmonies and shimmering cymbal crashes that elevate the track's dynamic intensity.\n\nBetween 1:45 and 2:27, the arrangement cycles through additional verse and chorus passages, sustaining a consistent mid-tempo pulse and rich vocal layering. At 2:28, a drum fill marks a transition into an instrumental outro section driven by melodic guitar riffs, lingering vocal harmonies, and a persistent bass motif, culminating in a final rhythmic hit.\n\nGENRES: psychedelic rock, garage rock, pop rock, indie rock, classic rock"
+  },
+  "metadata": {
+    "youtube_id": "cK5G8fPmWeA",
+    "title_extracted": null,
+    "corpus_id": "cK5G8fPmWeA",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/cK5G8fPmWeA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6023892,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 25.314339,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:52:13Z"
+  },
+  "status": "success",
+  "error": null
+}

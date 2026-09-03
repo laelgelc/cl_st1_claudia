@@ -1,0 +1,38 @@
+{
+  "corpus_id": "8Ee4QjCEHHc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8Ee4QjCEHHc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/8Ee4QjCEHHc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/8Ee4QjCEHHc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an intimate intro featuring a solo electric guitar playing a warm, soul-inflected chord progression in an ambient, reverberant acoustic space. Around eighteen seconds in, a high-pitched, rhythmically chopped vocal sample enters, layering short, pitched-up melodic fragments over the underlying guitar chords. \n\nAt thirty-seven seconds, a drum hit marks a transition into a full mid-tempo R&B and hip-hop beat in a 4/4 meter. The groove is driven by a punchy electronic kick drum, crisp snare, tight hi-hats, a warm bassline, and upbeat funk-influenced rhythm guitar stabs. The production presents a modern, polished soundscape with clear stereo panning, deep low-end response, and bright high-frequency definition, creating a confident and relaxed mood.\n\nAt fifty-five seconds, a male lead vocal enters, singing smoothly with subtle pitch-correction, short delay effects, and ambient reverb. The pitched-up vocal sample recurs intermittently throughout the verse, serving as a background hook and melodic counterpoint. As the track moves past one minute and thirty seconds, the vocal style transitions into a rhythmic rap delivery with dense phrasing and syncopated cadence. Stereo-panned ad-libs and doubled vocal lines periodically reinforce the main vocal track.\n\nThe track maintains its steady, danceable momentum through the central section, supported by the recurring drum pattern, melodic bassline, and subtle keyboard embellishments. Around three minutes and thirty-two seconds, the full drum beat and bassline recede, stripping the texture back to the clean guitar chords and high-pitched vocal sample heard in the intro. The recording finishes with these elements lingering in a gentle, atmospheric decay.\n\nGENRES: Contemporary R&B, Hip Hop, Pop Rap, Electro-Funk"
+  },
+  "metadata": {
+    "youtube_id": "8Ee4QjCEHHc",
+    "title_extracted": null,
+    "corpus_id": "8Ee4QjCEHHc",
+    "uploader": "Calvin Harris",
+    "audio_file": "corpus/01_music_videos_audio/audio/8Ee4QjCEHHc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7409658,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.198191,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:32:08Z"
+  },
+  "status": "success",
+  "error": null
+}

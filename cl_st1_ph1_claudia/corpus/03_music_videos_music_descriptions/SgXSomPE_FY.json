@@ -1,0 +1,38 @@
+{
+  "corpus_id": "SgXSomPE_FY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/SgXSomPE_FY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/SgXSomPE_FY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/SgXSomPE_FY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The performance begins with an unbacked electric guitar introduction, showcasing clean-to-slightly-overdriven blues improvisations filled with expressive string bends, sustained notes, and vibrato, accompanied by ambient crowd reactions that indicate a live recording environment. Around 00:26, the complete rhythm section—comprising a drum kit playing a steady slow-blues groove with a triplet feel, an electric bass guitar laying down a grounded harmonic foundation, and a rhythm guitar comping chords—enters to establish a 4/4 minor blues progression.\n\nA deep, raspy male lead vocal enters shortly after, delivering emotive, gritty melodic lines. The arrangement adopts a classic call-and-response dynamic, where vocal phrases are consistently answered by melodic fills from the lead electric guitar. The mixing presents a natural live stage image, featuring centered lead vocals and drums, a warm, resonant bass, and clear spatial separation between the comping rhythm guitar and the prominent lead guitar.\n\nThroughout the piece, the structure cycles between vocal verses and extended lead guitar solos. The soloist utilizes high-register phrasing, blues-scale runs, microtonal bends, and dynamic variations to build emotional intensity. The rhythm section flexibly adapts its dynamics, dropping in volume to create space during vocal sections and spoken audience interjections, then swelling in energy during instrumental climaxes. The snare drum backbeat and ride cymbal work maintain a consistent pulse while the bass provides continuous melodic movement along the chord changes.\n\nToward the final third, after a brief spoken address over a softened groove, the energy builds once more into a high-octane instrumental section. The lead guitar delivers continuous, impassioned blues solos over the steady rhythm section beat, maintaining a rich, warm tone with subtle ambient reverb, before the recording eventually fades out to conclude the track.\n\nGENRES: Blues, Electric Blues, Soul Blues"
+  },
+  "metadata": {
+    "youtube_id": "SgXSomPE_FY",
+    "title_extracted": null,
+    "corpus_id": "SgXSomPE_FY",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/SgXSomPE_FY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 21302994,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.402167,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:11:14Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "8UVNT4wvIGY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8UVNT4wvIGY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/8UVNT4wvIGY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/8UVNT4wvIGY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is a warm, acoustic jazz and bossa-nova arrangement set in a relaxed, swung 4/4 meter at a moderate tempo. It opens with an intimate solo acoustic guitar playing syncopated, syncopated jazz chord progressions with a soft, warm timbre. A gentle rhythm section consisting of a acoustic bass playing subtle walking lines and light brush percussion—featuring soft rim clicks and rhythmic shaker patterns—enters shortly after to establish a smooth, swaying groove.\n\nA male lead vocal enters in the center of the stereo field, singing with an intimate, smooth, and relaxed tone that is treated with gentle, natural reverb. A muted trumpet or flugelhorn enters to play expressive melodic counter-lines and fill phrases that weave around the vocal melody. \n\nThe dynamics subtly elevate as the song moves into its chorus sections, where the rhythm section maintains its light, bouncy cadence while the brass instrument provides decorative accents across the stereo field. Following a brief instrumental transition, a female lead vocal takes over the lead position. Her voice is crisp, airy, and expressive, offering a bright contrast to the male vocal while maintaining the track's sophisticated acoustic aesthetic. \n\nThe arrangement reaches its dynamic peak in the final chorus, where both vocalists combine in harmony alongside active brass counter-melodies and the steady bossa-nova rhythm section. The overall production emphasizes clean, natural spatial separation, with the acoustic guitar slightly panned to one side, percussion spread gently across the stereo field, and the vocals held firmly in the center. Rich, extended jazz harmonies give the track a bittersweet, melancholic, yet relaxed emotional character. The piece gradually tapers in intensity toward the end, finishing on a gentle, unresolved acoustic cadence.\n\nGENRES: Bossa Nova, Jazz, Acoustic Pop, Lounge"
+  },
+  "metadata": {
+    "youtube_id": "8UVNT4wvIGY",
+    "title_extracted": null,
+    "corpus_id": "8UVNT4wvIGY",
+    "uploader": "Gotye",
+    "audio_file": "corpus/01_music_videos_audio/audio/8UVNT4wvIGY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7806442,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.619149,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:25:40Z"
+  },
+  "status": "success",
+  "error": null
+}

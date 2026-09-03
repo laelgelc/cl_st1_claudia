@@ -1,0 +1,38 @@
+{
+  "corpus_id": "nYh-n7EOtMA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nYh-n7EOtMA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/nYh-n7EOtMA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/nYh-n7EOtMA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a spoken intro from a male radio or television host conversing with a female guest, characterized by a slightly band-pass filtered, broadcast-style vocal timbre. At 0:18, the musical performance begins with a syncopated mid-tempo dancehall pop groove in 4/4 meter at roughly 90 BPM. The underlying instrumentation is built around a punchy electronic kick drum, crisp off-beat rimshots, light shaker percussion, a sub-bass synth tone, and staccato plucked synth chords. A male dancehall-style toaster opens the track with rhythmic hype vocals processed with stereo delay and ambient reverb.\n\nAt 0:33, the female lead vocalist enters with an expressive, soul-inflected pop delivery over the steady riddim pattern. The dynamics swell as the music transitions into the first chorus at 0:54, marked by double-tracked lead vocals, layered female harmonies, and interjecting male vocal call-and-response ad-libs. The harmonic structure rests on a continuous minor-key chord progression that maintains a driving, upbeat yet melancholic quality throughout.\n\nThe second verse commences at 1:26, maintaining the steady rhythm while male vocal accents punctuate the stereo field. The energy rises again during the second chorus at 1:48, reinforcing the dense pop texture with deep bass frequencies, wide synth chords, and prominent vocal layering. At 2:20, the song transitions into a verse extension where the male vocalist takes the lead with a rhythmic, rapid-fire vocal delivery over the ongoing beat.\n\nThe track reaches its dynamic climax during the extended final chorus sections (2:35–3:34), combining both vocalists in a polished stereo mix with rich reverb tails. An outro section follows at 3:35 featuring repetitive melodic vocal refrains over the electronic beat, until the recording terminates around 3:55 with a vinyl stop record-scratch effect.\n\nGENRES: pop, dancehall pop, reggae fusion, tropical pop"
+  },
+  "metadata": {
+    "youtube_id": "nYh-n7EOtMA",
+    "title_extracted": null,
+    "corpus_id": "nYh-n7EOtMA",
+    "uploader": "Sia",
+    "audio_file": "corpus/01_music_videos_audio/audio/nYh-n7EOtMA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8377094,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.428279,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:19:17Z"
+  },
+  "status": "success",
+  "error": null
+}

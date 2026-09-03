@@ -1,0 +1,38 @@
+{
+  "corpus_id": "96UtZPLiT90",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/96UtZPLiT90.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/96UtZPLiT90.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/96UtZPLiT90.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with an energetic electric guitar riff featuring prominent crunch and overdrive, set in a driving 4/4 meter at a tempo of approximately 135 BPM. A drum kit swiftly joins with an authoritative backbeat on the snare and a fast hi-hat groove, accompanied by a heavy, melodic bass guitar line that provides a driving harmonic foundation in a minor key setting. The overall texture is dense and rhythmic, blending elements of post-punk, ska, and rock.\n\nAt approximately 0:14, a lead male vocal enters the center of the stereo field. The vocal delivery is energetic, raw, and rhythmic, characterized by a raspy timbre and post-punk vocal inflections. Production on the vocals includes light room reverberation and a subtle slapback delay. The stereo image spreads distinct electric guitar tracks across the left and right channels: one playing syncopated offbeat chops typical of ska rhythm, while the second provides distorted accent lines and power chord swells.\n\nAround 0:51, the track builds dynamically as vocal layering and backing chants enter, creating a call-and-response structure with the lead singer. The drum pattern increases in dynamic intensity with open hi-hats and accent crashes, driving the harmonically steady progression forward. \n\nBy 1:09, the recording moves into a second verse structure, maintaining its persistent ska-rock groove. The bass guitar performs active, syncopated line work beneath crisp guitar upstrokes. Throughout this section, audio processing highlights transient tape delay trails on vocal phrase ends. The mix exhibits an analog sonic warmth, characterized by punchy mid-range drum sounds and defined bass frequencies. The recording concludes on an extended vamp featuring continuous drum fills, walking bass lines, and raw guitar riffing.\n\nGENRES: Ska Punk, Post-Punk, Reggae Rock, Punk Rock"
+  },
+  "metadata": {
+    "youtube_id": "96UtZPLiT90",
+    "title_extracted": null,
+    "corpus_id": "96UtZPLiT90",
+    "uploader": "The Clash",
+    "audio_file": "corpus/01_music_videos_audio/audio/96UtZPLiT90.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4322334,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 23.062713,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:42:04Z"
+  },
+  "status": "success",
+  "error": null
+}

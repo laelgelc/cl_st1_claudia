@@ -1,0 +1,38 @@
+{
+  "corpus_id": "4WXYjm74WFI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4WXYjm74WFI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/4WXYjm74WFI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/4WXYjm74WFI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The piece opens with a solo acoustic guitar delivering a gentle, fingerpicked introductory phrase in a moderate 4/4 meter. The tempo is slow and steady, establishing an intimate, melancholic mood grounded in a traditional country-folk harmonic palette. At roughly ten seconds, a deep, resonant male lead vocal enters, featuring a clear country twang, expressive vibrato, and a warm, close-miked production with soft spatial reverb. An upright acoustic bass joins shortly after, providing a low-end foundation with steady root-and-fifth plucking on primary beats.\n\nAs the track moves into its first instrumental transition around one minute in, a fiddle enters, weaving soaring, legato melodic fills that embellish the vocal pauses. The arrangement maintains an organic acoustic texture, with the stereo field placing the guitar slightly off-center while the lead vocal and bass anchor the middle. \n\nThe piece follows a verse-interlude structure, building emotional weight through subtle dynamic shifts rather than dense instrumentation. At under two minutes, the vocal pauses to allow the fiddle to take a full solo section. The fiddle's timbre is bright yet sweet, employing subtle pitch slides and warm bow pressure that reinforce the wistful atmosphere. Rhythm guitar and double bass maintain an unhurried, steady pulse beneath the solo.\n\nIn the final verse, the lead vocal returns alongside delicate fiddle counter-lines playing softly in the background. The overall dynamics remain controlled and understated throughout, emphasizing acoustic clarity and warm acoustic resonance over loud climax. The performance concludes with a gentle ritardando as the final vocal phrase resolves into a quiet, naturally decaying acoustic guitar chord and bass note.\n\nGENRES: Country, Folk, Americana, Bluegrass"
+  },
+  "metadata": {
+    "youtube_id": "4WXYjm74WFI",
+    "title_extracted": null,
+    "corpus_id": "4WXYjm74WFI",
+    "uploader": "wilson mcphert",
+    "audio_file": "corpus/01_music_videos_audio/audio/4WXYjm74WFI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5780176,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.037723,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:29:51Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "9kPZ9avNB2k",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/9kPZ9avNB2k.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/9kPZ9avNB2k.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/9kPZ9avNB2k.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an upbeat 1980s boogie and synth-pop rhythm set in a steady 4/4 meter at approximately 116 BPM. The groove is driven by a punchy electronic drum machine featuring a crisp snare drenched in reverb on beats two and four, steady hi-hats, syncopated handclaps, and a bouncy, octave-jumping synth bassline. Bright synth brass stabs, clean electric rhythm guitar chugs, and warm polyphonic keyboard chords establish a vibrant, major-key harmonic framework.\n\nA spoken female introduction quickly transitions into melodic lead singing in a clear, expressive voice, accompanied by a rhythmic, syncopated background chant sung in wide stereo harmony. The track swells dynamically into a full chorus where multi-tracked female vocal harmonies layer over sustained synth pads and energetic synth horn accents, creating a rich, dense texture and a joyful, danceable mood.\n\nAround the two-minute mark, a warm, soulful male lead vocal enters, taking over lead duties while the underlying rhythm groove continues seamlessly. The middle section develops into an interactive duet, featuring call-and-response vocal phrasing, soaring harmony lines, and punchy synth brass countermelodies.\n\nA dynamic breakdown near three minutes thins the arrangement to a stripped-down drum and bass groove accompanied by ambient synth pads, creating space for a spoken monologue. The intensity reconstructs as the full ensemble re-enters for an expansive outro. Male and female leads exchange energetic vocal ad-libs over dense background harmonies and rhythmic synth accents, culminating in a gradual stereo fade-out over the persistent rhythm track.\n\nGENRES: synth-pop, contemporary r&b, boogie, dance-pop"
+  },
+  "metadata": {
+    "youtube_id": "9kPZ9avNB2k",
+    "title_extracted": null,
+    "corpus_id": "9kPZ9avNB2k",
+    "uploader": "guardi",
+    "audio_file": "corpus/01_music_videos_audio/audio/9kPZ9avNB2k.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9247194,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 9.019629,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:36:31Z"
+  },
+  "status": "success",
+  "error": null
+}

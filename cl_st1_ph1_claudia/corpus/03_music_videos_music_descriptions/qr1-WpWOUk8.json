@@ -1,0 +1,38 @@
+{
+  "corpus_id": "qr1-WpWOUk8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/qr1-WpWOUk8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/qr1-WpWOUk8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/qr1-WpWOUk8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with an introspective spoken-word passage set over a dark, swelling synth pad and reverberant low-end textures. A dramatic delay effect coats the spoken male voice, creating a somber, cinematic atmosphere. At 0:13, this texture abruptly gives way to a bright, upbeat electric guitar riff featuring clean, syncopated chord plucking in a buoyant 4/4 meter.\n\nAt 0:20, a full indie-pop groove launches as punchy four-on-the-floor drums, crisp hi-hats, and a melodic, warm bassline join the guitars. The lead male vocal enters with an intimate tone and light reverb, delivering a rhythmic verse melody. The stereo image is wide, with dual-panned rhythm guitars framing the centered vocal, punchy snare, and driving bass line.\n\nThe arrangement seamlessly transitions into a lively chorus around 0:58, where the vocal expands into double-tracked harmonies that emphasize the melodic refrain. Bright percussion accents and subtle synth pads enrich the mid-frequency range, elevating the dynamic energy. After a guitar-driven instrumental interlude at 1:15, the second verse returns to a slightly leaner texture, allowing the syncopated bass groove and vocal phrasing to take center stage. \n\nAn emotional bridge section at 2:24 temporarily lowers the dynamic level, employing suspended synth chords and soft guitar strums while the vocal builds in passion and volume. This creates a build-up into the final chorus at 2:42, where all instrumental layers unite in a vibrant, full-spectrum arrangement. The track concludes with an energetic instrumental outro featuring bright guitar flourishes over a steady rhythm that gradually fades to silence. Throughout, the production contrasts reflective intro themes with an upbeat, driving indie-pop groove.\n\nGENRES: Indie Pop, Pop Rock, Alternative Pop"
+  },
+  "metadata": {
+    "youtube_id": "qr1-WpWOUk8",
+    "title_extracted": null,
+    "corpus_id": "qr1-WpWOUk8",
+    "uploader": "lovelytheband",
+    "audio_file": "corpus/01_music_videos_audio/audio/qr1-WpWOUk8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7177088,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.247455,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:58:54Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "JLYOOezs3DA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/JLYOOezs3DA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/JLYOOezs3DA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/JLYOOezs3DA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens immediately with a full, upbeat reggae ensemble playing in a four-four meter at a moderate, driving tempo. The rhythm section features a prominent, deep electric bassline paired with offbeat guitar skanking and subtle organ chordal bubbling. Drums deliver a characteristic reggae feel with sharp snare rimshots and crisp hi-hat accents, supplemented by continuous shaker percussion. \n\nA passionate, soulful male lead vocal enters at the outset, delivering energetic melodic phrases with a warm, slightly raspy timbre. The lead vocal is positioned prominently in the center of the stereo field, treated with light spatial reverb. A bright brass horn section provides punctuating chordal stabs and melodic counter-lines during phrase breaks, adding harmonic fullness and punch to the soundscape.\n\nAround 01:54, the arrangement expands into a chorus section characterized by multi-part backing vocals chanting in call-and-response fashion. These ensemble vocals are panned widely across the stereo field, creating a rich, immersive vocal texture. The overall dynamics remain consistently vibrant and medium-high, escalating slightly during these collective vocal hooks and horn flourishes. \n\nThroughout the track, the groove remains steady and infectious, anchored by the interplay between the pulsing bass and the crisp offbeat instrumentation. Subsequent sections alternate between lead-driven verse passages with slightly leaner arrangements and full chorus vamps where the horns, organ, and group vocal chants re-engage in dense layers. Around 03:32, the music transitions into an extended vocal vamp featuring improvisatory lead ad-libs, organ embellishments, and repeated choir chants over the driving rhythm section. The production style emphasizes a warm, organic mix with well-defined separation across the stereo field.\n\nGENRES: Reggae, Roots Reggae, Ska"
+  },
+  "metadata": {
+    "youtube_id": "JLYOOezs3DA",
+    "title_extracted": null,
+    "corpus_id": "JLYOOezs3DA",
+    "uploader": "Bob Marley",
+    "audio_file": "corpus/01_music_videos_audio/audio/JLYOOezs3DA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8958152,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.676744,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:38:02Z"
+  },
+  "status": "success",
+  "error": null
+}

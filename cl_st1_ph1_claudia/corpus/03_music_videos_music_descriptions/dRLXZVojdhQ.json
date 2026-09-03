@@ -1,0 +1,38 @@
+{
+  "corpus_id": "dRLXZVojdhQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/dRLXZVojdhQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/dRLXZVojdhQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/dRLXZVojdhQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The piece opens in a mid-tempo 4/4 meter with bright, rhythmic acoustic guitar strumming and a prominent, bluesy harmonica lead line. A subtle drum beat and warm bass guitar quickly enter, establishing a steady, swaying folk-rock groove. At 0:14, a raspy, expressive male lead vocal enters for the first verse as the harmonica recedes. The arrangement remains relatively sparse during the verse, driven by acoustic guitar, centered bass, and light drum work featuring soft snare and cymbal accents. The vocal performance is raw and conversational, positioned cleanly in the center of the stereo field with light room reverb.\n\nAs the music transitions into the first chorus at 0:45, a Hammond-style organ enters in the background, offering subtle chordal swells and adding warmth to the mid-range texture. A brief six-second interlude at 1:09 brings a short harmonica fill before the second verse begins at 1:15, maintaining the steady rhythm section and organ pads. The second chorus follows at 1:46 with consistent dynamic energy and smooth ensemble blending.\n\nAt 2:10, the track moves into a bridge section characterized by a shift in harmonic progression, heightened vocal intensity, and slightly more assertive drumming. This leads into the third chorus at 2:42, representing the track's emotional peak with the full instrumental arrangement supporting the vocal lines. \n\nAt 3:09, the lead vocal finishes and an extended harmonica solo takes over as the central melodic voice. The harmonica delivers expressive blues bends and upper-register embellishments over the ongoing chord progression, supported by acoustic rhythm guitar, organ, bass, and steady drums. The performance steadily winds down toward 4:45, ending on a final sustained acoustic guitar chord and natural drum decay to silence.\n\nGENRES: Folk Rock, Singer-Songwriter, Americana, Blues Rock"
+  },
+  "metadata": {
+    "youtube_id": "dRLXZVojdhQ",
+    "title_extracted": null,
+    "corpus_id": "dRLXZVojdhQ",
+    "uploader": "Bob Dylan",
+    "audio_file": "corpus/01_music_videos_audio/audio/dRLXZVojdhQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9346018,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.742404,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:57:39Z"
+  },
+  "status": "success",
+  "error": null
+}

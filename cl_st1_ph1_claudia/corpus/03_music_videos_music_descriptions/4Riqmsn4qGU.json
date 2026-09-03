@@ -1,0 +1,38 @@
+{
+  "corpus_id": "4Riqmsn4qGU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4Riqmsn4qGU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/4Riqmsn4qGU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/4Riqmsn4qGU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with ambient field recordings of outdoor environmental sounds, including footsteps and a car door closing, before bursting at 0:06 into an energetic, multi-part vocal harmony fan-fare supported by a driving 4/4 pop-rock rhythm section. The instrumentation consists of a crisp drum kit featuring punchy backbeats, an active electric bassline, clean to mid-drive electric rhythm guitars, subtle organ sustain, and a prominent male lead vocal accompanied by lush, stacked backing harmonies.\n\nThe tempo is a steady, upbeat mid-tempo, establishing a bright, optimistic groove. In the verse sections, the male lead vocal takes center stage over a rhythmic, driving rhythm section, characterized by strummed electric guitars and a steady bassline. The texture expands significantly during the choruses, where rich, call-and-response vocal harmonies dominate the mix in stereo, creating a thick, nostalgic sonic landscape reminiscent of mid-1960s pop production. The vocal timbre ranges from smooth lead lines to resonant, soaring group harmonies enhanced by warm, medium-length reverb.\n\nAn instrumental section occurs around 1:46, featuring a melodic, clean-toned electric guitar solo that mirrors the song's melodic contours while the drums and bass maintain a constant, driving backbone. The song returns to a final verse and verse-chorus cycle, maintaining high dynamic energy through layered backing vocals. The outro extends the chorus motif with repeating vocal stacks, gradually transitioning back into the natural ambient field recording of birdsong as the musical arrangement fades out, concluding the track cleanly. Overall, the production features a warm, balanced mix with clear stereo separation between rhythm instruments and wide, enveloping vocal harmonies.\n\nGENRES: Sunshine Pop, Surf Rock, Pop Rock, Classic Rock"
+  },
+  "metadata": {
+    "youtube_id": "4Riqmsn4qGU",
+    "title_extracted": null,
+    "corpus_id": "4Riqmsn4qGU",
+    "uploader": "The Beach Boys",
+    "audio_file": "corpus/01_music_videos_audio/audio/4Riqmsn4qGU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5572868,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.364546,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:12:38Z"
+  },
+  "status": "success",
+  "error": null
+}

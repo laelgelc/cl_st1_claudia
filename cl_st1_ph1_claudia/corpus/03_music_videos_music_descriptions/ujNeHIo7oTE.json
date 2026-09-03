@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ujNeHIo7oTE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ujNeHIo7oTE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ujNeHIo7oTE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ujNeHIo7oTE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The piece begins with an atmospheric synth intro featuring a rhythmic, pulsating synth bass and warm, ambient pad textures panning across the stereo field in a steady 4/4 meter at a moderate tempo. At roughly ten seconds, a clean electric guitar accented by stereo delay and chorus enters alongside a steady pop-rock drum groove driven by a punchy kick drum, a crisp snare on beats two and four, and steady hi-hats. \n\nA male lead vocal enters shortly after, delivering an intimate, breathy tone positioned directly in the center of the mix, treated with space-creating reverb and short vocal delays. The underlying chord progression relies on a continuous major-key harmonic loop that creates a bittersweet, contemplative mood. As the section progresses, the vocal intensity steadily builds, transitioning from soft, conversational phrasing to a passionate, raspy chest-voice delivery in the upper register. \n\nAround one minute and thirty seconds, the track reaches a high dynamic peak, where strummed rhythm guitars expand the frequency spectrum and accentuate the emotional intensity. The vocal performance becomes increasingly dramatic, utilizing sustained high notes, expressive vibrato, and raw vocal rasp. \n\nFollowing a brief, subtle pull-back in dynamic intensity where the driving drum and bass groove maintains forward momentum, the track embarks on an extended crescendo. By three minutes, the composition climaxes into a dense sonic wall characterized by soaring, sustained guitar textures—possibly utilizing an infinite-sustain effect or heavy delay—alongside thundering drum fills, open crash cymbals, and belt-register vocal improvisations. \n\nThis emotional peak resolves into an instrumental outro section around three minutes and forty seconds, dominated by an arpeggiated guitar motif over the persistent rhythmic foundation. Finally, the drums and bass strip away, leaving the ambient synth pads and trailing guitar delay repeats to gradually fade into silence.\n\nGENRES: rock, pop rock, alternative rock, post-punk"
+  },
+  "metadata": {
+    "youtube_id": "ujNeHIo7oTE",
+    "title_extracted": null,
+    "corpus_id": "ujNeHIo7oTE",
+    "uploader": "U2",
+    "audio_file": "corpus/01_music_videos_audio/audio/ujNeHIo7oTE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9352704,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.885919,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:24:02Z"
+  },
+  "status": "success",
+  "error": null
+}

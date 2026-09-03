@@ -1,0 +1,38 @@
+{
+  "corpus_id": "nqAvFx3NxUM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nqAvFx3NxUM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/nqAvFx3NxUM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/nqAvFx3NxUM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with an energetic, uptempo 4/4 dance groove featuring a driving electric bassline, crisp percussion including shakers and congas, a four-on-the-floor drum kit, and clean, syncopated electric rhythm guitar strums. A smooth, soulful male lead vocal enters in a clear, centered position, delivering expressive melodic phrases accompanied by subtle vocal ad-libs. \n\nAs the verse progresses into the chorus, background vocal harmonies enter, panning across the stereo image in a rich call-and-response structure with the lead singer. A punchy brass section featuring trumpets and saxophones makes its entry, injecting bright melodic stabs and rhythmic accents into the arrangement. The harmonic structure is firmly rooted in a bright, uplifting major key, reinforcing the celebratory and festive mood.\n\nMidway through, the song transitions into an instrumental break driven by syncopated horn riffs and dynamic percussion. This leads into an energetic interlude characterized by rhythmic group vocal chants and heightened percussion activity, including agogo bells and congas, creating a vibrant tropical-pop texture. The dynamic intensity remains elevated as the chorus hook returns, supported by full instrumental backing, layered vocal harmonies, and spirited lead vocal improvs. \n\nThe production reflects a polished, late-20th-century pop and funk aesthetic, with crisp high-end clarity on percussion and horns, a warm, resonant bass response, and moderate spatial reverb on the vocals. The stereo field is widely utilized, placing rhythm guitars and auxiliary percussion on the flanks while keeping the drum core, bass, and main vocals tightly focused in the center. The track concludes with an extended outro section where the vocal chorus and horn stabs loop over the persistent rhythm section, gradually fading out while maintaining its high-energy, danceable feel.\n\nGENRES: Pop, Funk, Disco, Dance-Pop"
+  },
+  "metadata": {
+    "youtube_id": "nqAvFx3NxUM",
+    "title_extracted": null,
+    "corpus_id": "nqAvFx3NxUM",
+    "uploader": "lionelrichie",
+    "audio_file": "corpus/01_music_videos_audio/audio/nqAvFx3NxUM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7315292,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.839854,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:01:25Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "knWnMKKEt88",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/knWnMKKEt88.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/knWnMKKEt88.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/knWnMKKEt88.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a muffled, low-pass filtered vocal chant and a gentle synth riser, concluding with a brief spoken producer tag before the main beat drops at 00:09. The arrangement establishes a mid-tempo, bouncy hip-hop beat in a 4/4 time signature at approximately 98 BPM. The rhythm section is minimalist yet punchy, dominated by a booming 808 sub-bass, a crisp kick drum, sharp claps or snares landing on the second and fourth beats, and fast, syncopated electronic hi-hat rolls featuring rapid triplet subdivisions.\n\nA lead male vocalist delivers the energetic chorus hook at 00:10 with a rhythmic, chanted flow centered prominently in the stereo image. The lead vocal processing is relatively dry and direct, balanced by short spatial reverb and subtle delay. Doubled vocal accents and wide stereo ad-libs periodically highlight phrase endings, giving the track extra dynamic emphasis and breadth. \n\nHarmonically, the piece is built on a dark, sparse modal outline, relying on pitch-stabs from the 808 sub-bass rather than complex chord progressions. The sound texture remains lean, creating a focused, low-end-heavy atmosphere. At 00:19, the track shifts into a verse featuring a continuous rap delivery while low-level vocal chops loop in the background. \n\nA second verse begins at 00:58, featuring a subtle shift in vocal delivery to a higher-pitched, more aggressive tone, complemented by layered call-and-response ad-libs panned across the stereo field. Around 01:57, the arrangement transitions into an extended chorus and outro sequence dominated by syncopated vocal chops, rhythmically accented hype shouts, and persistent drum patterning. The dynamics stay consistently loud and punchy throughout, concluding with a brief decay on the final beat.\n\nGENRES: Hip Hop, Trap, West Coast Hip Hop, Ratchet Music"
+  },
+  "metadata": {
+    "youtube_id": "knWnMKKEt88",
+    "title_extracted": null,
+    "corpus_id": "knWnMKKEt88",
+    "uploader": "DJ ill Will Alumni",
+    "audio_file": "corpus/01_music_videos_audio/audio/knWnMKKEt88.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4813482,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 31.083248,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:54:19Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Y5qKNlcUwKs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Y5qKNlcUwKs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Y5qKNlcUwKs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Y5qKNlcUwKs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief shouted vocal tag that immediately drops into a vibrant, mid-tempo 4/4 hip-hop groove operating at approximately 82 BPM. The instrumentation is anchored by a warm, melodic synth bassline, a tight drum kit with a prominent snare on beats two and four and driving hi-hats, and a syncopated electric guitar riff that imparts a funky, rhythmic bounce to the track.\n\nA dynamic male lead vocal enters with a melodic chorus refrain, supported by layered backing vocal harmonies panned wide across the stereo spectrum. Subtle delay and spatial reverb enhance the stereo image, giving the chorus a polished, broad sonic footprint. The performance transitions into a verse where the vocal style shifts to a smooth, rhythmic rap delivery. The primary vocal remains firmly centered in the mix while vocal double-tracking and ad-libs punctuate phrase endings.\n\nThe track proceeds through a classic verse-chorus arrangement. The bouncy chorus periodically recurs between verses, maintaining high energy and an upbeat, confident mood. During the verse sections, the instrumentation stays lean to highlight the vocal cadences, featuring the rolling bassline, steady drum groove, and subtle synth accents or string-like pads in the upper frequencies. Later verses demonstrate varied vocal phrasing, including rapid-fire rhyming passages that elevate the track’s intensity before returning to the familiar chorus hook.\n\nThe production style is clean and well-balanced. The mix places the punchy kick drum, snare, and lead vocal dead center, while rhythm guitars, synth textures, and backing vocals occupy the sides of the stereo field. Dynamics remain energetic and steady throughout, concluding as the track gradually fades out over the repeating instrumental groove and vocal ad-libs.\n\nGENRES: Hip-Hop, Pop Rap, Midwest Hip-Hop"
+  },
+  "metadata": {
+    "youtube_id": "Y5qKNlcUwKs",
+    "title_extracted": null,
+    "corpus_id": "Y5qKNlcUwKs",
+    "uploader": "Nelly",
+    "audio_file": "corpus/01_music_videos_audio/audio/Y5qKNlcUwKs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7220184,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.559715,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:16:28Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "m60XKqEEnfg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/m60XKqEEnfg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/m60XKqEEnfg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/m60XKqEEnfg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a warm, atmospheric intro featuring jazzy, warm-toned electric piano chords and low-key spoken male ad-libs against a gentle vinyl-like surface noise. A classic mid-tempo 4/4 hip-hop groove quickly enters, driven by a punchy kick drum, a snappy snare hitting precisely on beats two and four, and steady, slightly swung hi-hat patterns. A smooth, rhythmic bassline provides a deep, warm foundation that supports extended, jazz-inflected keyboard chord progressions throughout the piece.\n\nThe arrangement centers around a clear, close-mic’d male lead vocalist delivering rhythmic rap verses with a confident, effortless flow. This is complemented by smooth, melodic female vocals during the hook sections, engaging in a fluid call-and-response structure with secondary male vocal interjections. The vocals are processed with subtle dynamic compression and light spatial reverb, positioning the primary rap dead-center while double-tracked backing vocals, harmonies, and ad-libs occupy a wider stereo image.\n\nHarmonically, the track relies on a lush, repeating minor-key chord cycle that conveys a soulful, relaxed, and nostalgic mood. Subtle synthesizer embellishments, occasional brass-like synth stabs, and rhythmic turntable scratches accent key transition points between sections, notably introducing verse shifts and chorus entries.\n\nThe overall dynamics remain consistently balanced and groove-driven, experiencing slight structural builds during the chorus where layered vocals, additional keyboard textures, and dense percussion heighten the energy. Following the final chorus, the track transitions into a brief instrumental outro where the arrangement thins out, highlighting the electric piano and rhythmic kick-snare pulse before gracefully fading into silence. The production demonstrates a polished mix balance, combining a deep, resonant low end with crisp percussion and clear vocal separation.\n\nGENRES: Hip-Hop, Boom Bap, R&B, Soul Hip-Hop"
+  },
+  "metadata": {
+    "youtube_id": "m60XKqEEnfg",
+    "title_extracted": null,
+    "corpus_id": "m60XKqEEnfg",
+    "uploader": "Cam'ron",
+    "audio_file": "corpus/01_music_videos_audio/audio/m60XKqEEnfg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7602848,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.630815,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:47:44Z"
+  },
+  "status": "success",
+  "error": null
+}

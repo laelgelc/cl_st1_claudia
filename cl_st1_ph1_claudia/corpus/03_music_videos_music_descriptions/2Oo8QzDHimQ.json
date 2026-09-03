@@ -1,0 +1,38 @@
+{
+  "corpus_id": "2Oo8QzDHimQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/2Oo8QzDHimQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/2Oo8QzDHimQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/2Oo8QzDHimQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a burst of audience noise that swiftly gives way to an iconic, heavily distorted electric guitar riff playing a fast, driving 4/4 groove. A punchy acoustic drum kit joins with snappy snare hits, driving kick, and shimmering cymbals, accompanied by a warm, overdriven electric bass that anchors the harmonic foundation. A dynamic, raspy male lead vocalist delivers an energetic and rebellious performance, surrounded by gang backing vocals during the choruses. The instrumentation maintains a classic hard rock ensemble throughout: rhythmic electric guitar playing distorted power chords, expressive lead guitar fills, deep bass guitar, and a steady, driving drum kit.\n\nStructurally, the piece advances from an anthemic riff introduction into a verse-chorus arrangement. The verse relies on a steady, driving rhythm, while the chorus expands in volume and texture with vocal doubling and dramatic dynamic surges. Following a brief instrumental turnaround, a second verse and chorus lead into an intense bridge section where vocal belting and rhythmic intensity escalate. The song reaches its peak in an outro marked by lead guitar soloing and heavy drum fills before terminating on a sharp final hit. The music then resolves into an extended crowd ovation with ambient hall reverb, which slowly tapers off.\n\nProduction-wise, the recording presents a wide live stage mix. Distorted guitars are panned across the stereo image, while the drum kit, bass, and lead vocals are centered. The vocal track carries subtle stage reverb and slapback echo, blending naturally with the hall acoustics and crowd noise captured at the beginning and end. The overall tonal character is bright, aggressive, and highly saturated, conveying an anthemic, high-energy, and celebratory atmosphere.\n\nGENRES: Hard Rock, Arena Rock, Glam Rock"
+  },
+  "metadata": {
+    "youtube_id": "2Oo8QzDHimQ",
+    "title_extracted": null,
+    "corpus_id": "2Oo8QzDHimQ",
+    "uploader": "Official Alice Cooper",
+    "audio_file": "corpus/01_music_videos_audio/audio/2Oo8QzDHimQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8747872,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.105705,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:29:38Z"
+  },
+  "status": "success",
+  "error": null
+}

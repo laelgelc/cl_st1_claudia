@@ -1,0 +1,38 @@
+{
+  "corpus_id": "xoW3bqnr7tw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/xoW3bqnr7tw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/xoW3bqnr7tw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/xoW3bqnr7tw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is a mid-tempo folk-rock composition set in a 4/4 meter with a driving, heartland-style groove at approximately 115 BPM. The track opens with a solo steel-string acoustic guitar strumming an uplifting chord progression in an intimate acoustic space. At 0:12, a gritty, raspy male lead vocal enters, rendered upfront in the stereo mix with clean, natural clarity and subtle room reverb.\n\nAt 0:36, the arrangement expands dramatically as the full rhythm section enters, featuring punchy drums with a prominent snare backbeat, a resonant bass guitar, and clean electric guitar accents. Layered backing vocal harmonies join the lead singer during this chorus section, widening the stereo panorama and elevating the overall dynamic intensity.\n\nThe second verse (0:48) maintains the driving rhythm while paring back slightly in volume, allowing the acoustic rhythm guitar and subtle electric fills to weave around the vocal line. The song returns to a high-energy chorus at 1:10, where open cymbals, driving bass, and emotive vocal shouting increase the dynamic level. \n\nA dynamic bridge section begins around 1:45, starting restrained before escalating into powerful, raspy vocal belting at 2:05. This dynamic peak transitions back into a full-band chorus at 2:17. At 2:51, an overdriven electric guitar takes center stage for a soulful solo characterized by bluesy pitch bends, vibrato, and sustained tones over a continuous acoustic and bass rhythm. \n\nThe final chorus at 3:09 reaches the song’s peak emotional intensity, driven by ad-libbed lead vocals and full instrumental accompaniment. Around 3:48, the band decelerates in tempo, stripping away the heavy drums and electric instruments to finish with a soft, solo acoustic guitar strumming a lingering final chord that decays naturally into silence. The overall mix features warm, organic timbres, clear frequency separation, and a wide stereo field.\n\nGENRES: Folk Rock, Heartland Rock, Pop Rock, Roots Rock"
+  },
+  "metadata": {
+    "youtube_id": "xoW3bqnr7tw",
+    "title_extracted": null,
+    "corpus_id": "xoW3bqnr7tw",
+    "uploader": "Hootie & the Blowfish",
+    "audio_file": "corpus/01_music_videos_audio/audio/xoW3bqnr7tw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8179446,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.848059,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:15:51Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "VuNIsY6JdUw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/VuNIsY6JdUw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/VuNIsY6JdUw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/VuNIsY6JdUw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is an upbeat, energetic pop-rock and country-pop arrangement set in a driving 4/4 meter at a brisk tempo of approximately 130 BPM. The track opens with a bright, clean acoustic guitar strummed in a rhythmic syncopated pattern, accompanied by a subtle low-end bass drum pulse. A clear, expressive female lead vocal enters shortly after with a dry, modern pop production aesthetic and light, transparent reverb. The rhythm section quickly solidifies with a clean electric bass line and a steady acoustic drum kit featuring a punchy snare on beats two and four alongside crisp hi-hats.\n\nAs the music progresses into the pre-chorus, the rhythmic intensity escalates through more driving acoustic guitar strumming and expressive drum fills. The chorus marks a significant dynamic lift, introducing a full, lush sonic texture comprising wide-panned acoustic and clean electric rhythm guitars, a prominent driving bass guitar, layered vocal harmonies spread across the stereo image, and a bright tambourine reinforcing the snare beat. \n\nFollowing a brief instrumental turnaround featuring clean electric guitar lead lines, the second verse drops slightly in dynamic intensity while maintaining the established groove. The second chorus returns to the full-spectrum mix, leading into a melodic electric guitar solo with mild overdrive. This transitions into a dynamic bridge section where lead vocals build in intensity over swelling crash cymbals and a rising snare drum roll. \n\nThe final chorus reaches the track's peak dynamic level, sustained by dense vocal harmonies, accenting cymbals, and energetic rhythm guitars. The track winds down through an extended outro, featuring vocal ad-libs over acoustic guitar strumming as the drum and bass rhythm gradually dissipates, concluding on a gentle acoustic chord decay. The overall tonal character is bright, polished, and major-key, evoking an emotional yet uplifting mood.\n\nGENRES: country pop, pop rock, contemporary pop"
+  },
+  "metadata": {
+    "youtube_id": "VuNIsY6JdUw",
+    "title_extracted": null,
+    "corpus_id": "VuNIsY6JdUw",
+    "uploader": "Taylor Swift",
+    "audio_file": "corpus/01_music_videos_audio/audio/VuNIsY6JdUw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7313064,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.433253,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:28:06Z"
+  },
+  "status": "success",
+  "error": null
+}

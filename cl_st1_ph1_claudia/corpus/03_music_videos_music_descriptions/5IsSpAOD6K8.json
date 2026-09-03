@@ -1,0 +1,38 @@
+{
+  "corpus_id": "5IsSpAOD6K8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/5IsSpAOD6K8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/5IsSpAOD6K8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/5IsSpAOD6K8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief, solo whistling intro delivered with subtle room ambience and a bright timbre, concluding with a quick vocal exhalation. At 0:12, a vibrant, mid-tempo 4/4 funk groove drops abruptly. The rhythm section features punchy drum kit percussion with a prominent kick, crisp snare on beats two and four, and steady hi-hats, paired with a dynamic, syncopated bassline. Bright rhythm guitar chops and subtle keyboard synth stabs expand across the stereo soundstage, establishing a driving, buoyant feel at approximately 120 BPM.\n\nAt 0:28, a dry, eccentric lead vocal enters in the center of the mix. The vocal delivery is rhythmic, declamatory, and spoken rather than sung, processed with tight dynamic compression and clear presence. The musical texture broadens at 0:53 during the chorus, where layered group backing vocals enter, producing melodic, stereo-panned harmonies that contrast sharply with the lead vocal’s conversational cadence.\n\nThe arrangement alternates between these spoken-word verses and full-textured choruses. A rhythmic transition occurs around 1:43, where the vocal style shifts into a hypnotically repetitive chant over the persistent bass-and-drum groove. Harmonically, the piece centers on an energetic modal funk vamp anchored by repeating bass motifs and chordal guitar skanks.\n\nThe production style is crisp, direct, and spacious, utilizing stereo panning to separate the rhythm guitars and vocal harmonies while keeping the lead vocal and drums centered. The dynamic range stays consistently energetic, conveying a danceable, slightly frantic mood. The track maintains its driving tempo through the final chorus sections before gradually fading out to silence.\n\nGENRES: New Wave, Funk Rock, Post-Punk, Art Pop"
+  },
+  "metadata": {
+    "youtube_id": "5IsSpAOD6K8",
+    "title_extracted": null,
+    "corpus_id": "5IsSpAOD6K8",
+    "uploader": "Talking Heads",
+    "audio_file": "corpus/01_music_videos_audio/audio/5IsSpAOD6K8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7191948,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.760114,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:39:59Z"
+  },
+  "status": "success",
+  "error": null
+}

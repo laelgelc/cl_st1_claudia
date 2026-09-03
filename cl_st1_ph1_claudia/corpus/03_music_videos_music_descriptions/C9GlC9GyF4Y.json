@@ -1,0 +1,38 @@
+{
+  "corpus_id": "C9GlC9GyF4Y",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/C9GlC9GyF4Y.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/C9GlC9GyF4Y.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/C9GlC9GyF4Y.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a clean, warm-toned electric guitar playing a rhythmic, chordal introduction with a pronounced swung sub-division. Shortly after, a smooth electric bass and a gentle drum kit playing a relaxed shuffle beat join, establishing a steady mid-tempo 4/4 groove. A lead male vocal enters over this arrangement, featuring a distinct, raspy yet soulful crooning timbre positioned prominently in the center of the stereo field with subtle room reverberation.\n\nThe verse section maintains an intimate dynamic driven by syncopated basslines, soft snare accents, and sparse, jazzy guitar comping. As the music transitions into the chorus, the dynamic level heightens. The lead vocal ascends in pitch and intensity, delivering an emotive, melodic hook. Bright, bluesy guitar fills respond continuously to the vocal phrases, providing melodic counterpoint and enhancing the warm, layered texture. Harmonic movement relies on smooth, jazz-influenced extended chords that evoke a melancholic yet tender mood.\n\nFollowing a second verse and chorus cycle, the track moves into an extended outro vamp. Here, the vocal repeatedly delivers a passionate refrain while the clean electric guitar engages in blues-style melodic improvisation around the vocals. The rhythm section of bass and swung drums maintains its solid, hypnotic groove beneath this expressive dialogue. The mix remains balanced and vintage in feel, featuring warm low-end bass frequencies, crisp percussive detail, and moderate acoustic depth. The intensity gradually tapers as the track undergoes a continuous fade-out over the repeating groove.\n\nGENRES: soul, R&B, pop rock, jazz pop"
+  },
+  "metadata": {
+    "youtube_id": "C9GlC9GyF4Y",
+    "title_extracted": null,
+    "corpus_id": "C9GlC9GyF4Y",
+    "uploader": "daveinprogress3",
+    "audio_file": "corpus/01_music_videos_audio/audio/C9GlC9GyF4Y.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6561852,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 36.481758,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:30:01Z"
+  },
+  "status": "success",
+  "error": null
+}

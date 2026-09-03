@@ -1,0 +1,38 @@
+{
+  "corpus_id": "RBj2HN2uuNA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/RBj2HN2uuNA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/RBj2HN2uuNA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/RBj2HN2uuNA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens in a medium-tempo 12/8 shuffle groove driven by a rhythmic piano playing steady triplet chords alongside a buoyant walking bassline, light strummed rhythm guitar, and crisp drum kit accents on the snare and cymbals. Shortly after the introduction, a soulful male lead vocal enters with an expressive, resonant tone, blending smooth chest voice with dynamic belts and emotional inflection. A multi-part backing vocal ensemble joins quickly, providing smooth doo-wop style harmonies, call-and-response echoes, and sustained vocal pads across the background.\n\nHarmonically, the piece rests in a warm major key with classic mid-century pop-ballad progressions, maintaining a homophonic structure centered around the lead voice. The arrangement shifts fluidly between buoyant verse sections and higher-energy passages where the lead vocal performance grows more dramatic, accompanied by increased drum intensity and punchier piano accents. A mid-song transitional bridge elevates the emotional intensity, featuring impassioned higher-register vocal lines and denser backing vocal textures.\n\nThe sound stage features a vintage, natural acoustic balance. Warm, medium-length room reverb is applied to the lead and backing vocals, enhancing spatial depth while keeping the rhythm section crisp and defined. The lead singer commands the center of the mix, while the backing vocalists are panned across the stereo field alongside the piano and rhythm instruments.\n\nTowards the final section, the performance reaches its dynamic peak with sustained high notes from the lead vocal over steady rhythmic support. The piece concludes with a dramatic slow-down on the final phrase, resolving into a long, held harmony chord by the full vocal group and rhythm section.\n\nGENRES: Doo-Wop, Rhythm and Blues, Pop, Soul"
+  },
+  "metadata": {
+    "youtube_id": "RBj2HN2uuNA",
+    "title_extracted": null,
+    "corpus_id": "RBj2HN2uuNA",
+    "uploader": "Classic Hits Studio",
+    "audio_file": "corpus/01_music_videos_audio/audio/RBj2HN2uuNA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5357386,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.831633,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:19:56Z"
+  },
+  "status": "success",
+  "error": null
+}

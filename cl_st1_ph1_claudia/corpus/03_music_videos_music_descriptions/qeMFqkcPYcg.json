@@ -1,0 +1,38 @@
+{
+  "corpus_id": "qeMFqkcPYcg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/qeMFqkcPYcg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/qeMFqkcPYcg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/qeMFqkcPYcg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is a mid-tempo synth-pop track set in a driving 4/4 meter. It opens with an energetic, octave-pumping synthesizer bassline accompanied by punchy electronic drums and an arpeggiated upper-register synth melody. The rhythm is grounded by a four-on-the-floor kick drum and crisp hi-hat pattern, creating a steady dance groove.\n\nAt 0:08, a lead female vocal enters at the center of the stereo image, delivering the primary melodic theme with a clear, rhythmic vocal tone. The vocal is supported by the continuing synth bass and dry electronic percussion. At 0:38, a brief instrumental transition introduces vocalizations and a brass-like synth lead line, leading back into a main vocal verse at 0:50.\n\nA vocal bridge section occurs at 1:16, featuring rhythmic, chanted vocal phrasing over the persistent synth-pop beat. This leads into an instrumental interlude at 1:30, which highlights bright synthesizer counter-melodies and driving electronic bass rhythms. \n\nAt 2:14, the track returns to the primary theme with heightened dynamic energy. The sonic texture becomes richer as multi-tracked vocal harmonies, soaring high-register vocalizations, and stereo-panned synth arpeggios are introduced. The drum pattern maintains a steady, driving groove while subtle delay and reverb effects broaden the vocal space.\n\nThe final section (2:45 to 3:35) serves as the climactic peak of the recording, combining layered lead and backing vocals over a dense arrangement of synthesizers and electronic drums. The production maintains a punchy low end with tight compression on the kick and bass synth, while shimmering pads expand the stereo field. The song maintains its steady momentum until ending on a final electronic cadence.\n\nGENRES: synth-pop, electro-pop, synthwave, electronic dance music"
+  },
+  "metadata": {
+    "youtube_id": "qeMFqkcPYcg",
+    "title_extracted": null,
+    "corpus_id": "qeMFqkcPYcg",
+    "uploader": "Eurythmics",
+    "audio_file": "corpus/01_music_videos_audio/audio/qeMFqkcPYcg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6850150,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.27106,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:51:59Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "EGQi3I1v9iw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/EGQi3I1v9iw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/EGQi3I1v9iw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/EGQi3I1v9iw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a cheering crowd sound effect overlaid with a rhythmic, pitch-shifted vocal sample loop. Around 00:24, a powerful female lead vocal enters with a high-pitched, resonant belt washed in spacious reverb, signaling the transition into the main section. At 00:26, a full 90s house/eurodance groove drops in a four-on-the-floor 4/4 meter at a brisk, energetic tempo. The rhythm section consists of a punchy kick drum, snappy snare claps, crisp off-beat hi-hats, and a syncopated synth bassline. Bright piano chord stabs and synthesized brass hits expand the stereo field, providing harmonic structure in a minor tonality.\n\nThe track maintains a driving, upbeat mood as the belting female lead vocal alternates between expansive melodic phrases and rhythmic hook lines, supported by stereo-panned backing vocal harmonies. At 01:42, the arrangement transitions to a male rap verse. The vocal delivery is fast, rhythmic, and centrally positioned, keeping the groove active while the synth bass and drum beat remain steady underneath. \n\nAt 02:14, the track returns to a melodic bridge section featuring passionate, soul-styled vocal belting above dynamic brass synth stabs and house piano keys. Following this, at 02:37, an extended instrumental breakdown occurs, characterized by stutter-edited vocal chops, syncopated bass hits, and layered percussion accents that build rhythmic tension.\n\nA second male rap verse enters around 03:33 over the continuous 4/4 beat, maintaining a focused, syncopated cadence before giving way to the final chorus at 04:15. Here, the instrumentation reaches its peak dynamic level, blending dense synth textures, soaring female lead vocals, and vibrant brass stabs. At 04:50, a brief vocal edit breakdown brings the musical elements to a halt, resolving into ambient crowd cheering that fades out to end the track.\n\nGENRES: dance-pop, eurodance, house"
+  },
+  "metadata": {
+    "youtube_id": "EGQi3I1v9iw",
+    "title_extracted": null,
+    "corpus_id": "EGQi3I1v9iw",
+    "uploader": "ShoutFactoryVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/EGQi3I1v9iw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9638032,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.29536,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:13:38Z"
+  },
+  "status": "success",
+  "error": null
+}

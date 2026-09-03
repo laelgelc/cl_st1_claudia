@@ -1,0 +1,38 @@
+{
+  "corpus_id": "dBrRBZy8OTs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/dBrRBZy8OTs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/dBrRBZy8OTs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/dBrRBZy8OTs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is a mid-tempo contemporary R&B and hip-hop track set in a 4/4 meter, characterized by a smooth, bounce-infused groove at approximately 80 to 85 BPM. The primary rhythm section is built around a prominent, syncopated finger-snap motif, a subby, warm synthesizer bassline, rolling hi-hats, a punchy kick drum, and a crisp snare, all supported by sustained, lush polyphonic synth chords that provide a warm harmonic foundation.\n\nThe track opens with sparse finger snaps, a low synth bass pulse, and informal vocal ad-libs establishing the cadence. The full arrangement quickly enters for the primary chorus as a heavily pitch-corrected male lead vocal takes center stage, delivering a melodically expressive hook. Backing vocals are extensively layered across the stereo image with wide panning, octave doubles, and subtle reverb and delay tails that enhance the spatial depth and modern production aesthetic.\n\nAs the track progresses through the verses, the dynamic density subtly shifts while preserving the core beat. A featured verse section introduces a distinct secondary vocal tone—a grittier, more conversational rap delivery with less overt pitch correction, backed by subtle call-and-response ad-libs. Following this verse, the track transitions fluidly back into the chorus, re-establishing the dense, auto-tuned melodic lines.\n\nA breakdown section near the three-minute mark temporarily strips back the harmonic instruments to emphasize rhythmic vocal chants and finger snaps, creating a brief dynamic drop before launching into a final reprise of the main chorus. The track concludes with the rhythmic groove lingering alongside decaying synth tails. Throughout, the tonal character is polished, the mix balance favors punchy low-end and crisp percussive highs, and the overall mood remains celebratory, confident, and party-oriented.\n\nGENRES: Contemporary R&B, Hip Hop, Snap Music, Pop"
+  },
+  "metadata": {
+    "youtube_id": "dBrRBZy8OTs",
+    "title_extracted": null,
+    "corpus_id": "dBrRBZy8OTs",
+    "uploader": "T Pain",
+    "audio_file": "corpus/01_music_videos_audio/audio/dBrRBZy8OTs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7371764,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.286101,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:45:41Z"
+  },
+  "status": "success",
+  "error": null
+}

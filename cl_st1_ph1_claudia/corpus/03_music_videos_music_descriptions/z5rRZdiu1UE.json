@@ -1,0 +1,38 @@
+{
+  "corpus_id": "z5rRZdiu1UE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/z5rRZdiu1UE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/z5rRZdiu1UE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/z5rRZdiu1UE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens at a fast tempo in a driving 4/4 meter with a syncopated electric guitar riff characterized by heavy fuzz distortion and a gritty, mid-range bite. A high-gain electric bass and energetic rock drum kit—featuring a crisp snare, punchy kick, and rapid hi-hat pattern—join immediately, establishing an intense, rebellious punk-rock groove.\n\nAn aggressive male vocal enters, delivered in a highly shouted, rhythmic, and raspy style with overdriven vocal processing that enhances its raw urgency. The arrangement maintains a dense, driven texture through repeated power-chord guitar riffing and a solid rhythm section. The verse transitions into an interlude featuring prominent vinyl turntable scratching and rhythmic vocal chops integrated over the continuing bass and drums.\n\nA brief, expressive electric guitar solo emerges, featuring bluesy pitch bends, heavy fuzz distortion, and sustained notes. The shouted vocals re-enter shortly after, escalating in dynamic intensity alongside syncopated drum accents and soaring guitar fills.\n\nA dramatic structural breakdown occurs when the full-band groove abruptly cuts out, leaving a brief, sparse pause with a sustained low-end tone and subtle guitar feedback. This moment resolves explosively with a high-pitched vocal scream that launches the ensemble back into a climactic final section. The groove grows even more aggressive, accented by full-band syncopated hits, heavy distortion, and layered vocal chants. The production features a center-panned vocal presence with double-tracked distorted guitars spread across the stereo field, maintaining high energy until the track reaches an abrupt, punchy final stop.\n\nGENRES: Rap Rock, Punk Rock, Alternative Rock, Hard Rock"
+  },
+  "metadata": {
+    "youtube_id": "z5rRZdiu1UE",
+    "title_extracted": null,
+    "corpus_id": "z5rRZdiu1UE",
+    "uploader": "BeastieBoys",
+    "audio_file": "corpus/01_music_videos_audio/audio/z5rRZdiu1UE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5863396,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.085082,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:56:25Z"
+  },
+  "status": "success",
+  "error": null
+}

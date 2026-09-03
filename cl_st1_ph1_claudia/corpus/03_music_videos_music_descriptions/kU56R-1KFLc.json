@@ -1,0 +1,38 @@
+{
+  "corpus_id": "kU56R-1KFLc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/kU56R-1KFLc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/kU56R-1KFLc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/kU56R-1KFLc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens in a moderate 4/4 time signature at approximately 104 BPM with a low-frequency sub-bass riser and a spacious, reverb-drenched female vocal phrase set over warm electronic synth pads. At 00:06, the primary groove drops, driven by an Afrobeats rhythmic pattern featuring a steady kick drum, crisp syncopated rimshots, woodblock accents, and a wide percussive shaker loop. A smooth male lead vocal enters, processed with subtle pitch correction, present central positioning, and gentle spatial delays, carrying the melodic phrase over a lush, repetitive minor-key chord progression.\n\nThe production maintains a modern, clean audio landscape characterized by a deep, sidechained sub-bass, stereo-widened percussion, and a balanced dynamic profile. At 00:49, brief female vocal counter-melodies interject before the male lead resumes, supported by subtle background octave harmonies that enrich the harmonic texture. \n\nAt 01:35, the track transitions into a lower-dynamic breakdown section where the dominant kick drum drops out, allowing the female vocal to lead with a delicate, expressive melody framed by ambient synth swells, light rhythmic ticks, and a soft bassline. The full beat and male lead vocal re-enter at 01:53 to re-establish the main rhythmic bounce.\n\nA pronounced structural shift occurs around 02:11, as the smooth groove gives way to a high-energy, club-style remix breakdown. This sequence introduces rapid syncopated drum rolls, pitch-shifted vocal stutters, and abrupt rhythmic edits that create an intense spike in textural complexity and temporal tension. At 02:29, the instrumentation suddenly stops, leaving a decaying reverb tail that fades into ambient room noise, distant crowd chatter, and casual male laughter before resolving into total silence.\n\nGENRES: Afrobeats, Afro-pop, Dancehall, Jersey Club, Afro-fusion"
+  },
+  "metadata": {
+    "youtube_id": "kU56R-1KFLc",
+    "title_extracted": null,
+    "corpus_id": "kU56R-1KFLc",
+    "uploader": "Marvin Tittleton",
+    "audio_file": "corpus/01_music_videos_audio/audio/kU56R-1KFLc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5131502,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.562402,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:51:36Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "TIxFr2HMx6Y",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/TIxFr2HMx6Y.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/TIxFr2HMx6Y.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/TIxFr2HMx6Y.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief introduction featuring an electric guitar playing a syncopated blues motif, punctuated by sharp snare and bass drum stabs that establish a steady 4/4 blues shuffle rhythm. The performance adopts a classic stop-time structure for the verses, where a raspy, soulful male lead vocalist delivers extended vocal phrases in a call-and-response pattern. Each vocal call is answered by short, expressive electric guitar fills featuring expressive pitch bends and vibrato, alongside synchronized drum accents and sparse bass hits. The guitar tone is warm and slightly overdriven with gentle room reverb, capturing a vintage amplifier timbre.\n\nPeriodically, the tension of the stop-time verses releases into vibrant, full-band chorus sections. During these dynamic shifts, the texture thickens as the walking electric bassline and full drum kit engage in a continuous, driving shuffle groove marked by steady hi-hat, snare work, and kick drum emphasis. The vocalist sings repetitive refrains over this rolling rhythmic foundation while the guitar provides steady rhythmic comping and tonal embellishments. The arrangement cycles predictably through three iterations of this stop-time verse and driving chorus structure, maintaining clear dynamic contrast between the sparse, expectant verses and the energized chorus payoffs.\n\nThe mix features a vintage, concentrated stereo image with organic analog warmth, prominent mid-range frequencies, and cohesive room ambience. The overall mood is confident, swaggering, and highly rhythmic, defined by the vocalist's commanding presence and the band's tight blues groove. The track concludes with a final refrain that resolves into a concise instrumental cadence.\n\nGENRES: blues, electric blues, Chicago blues"
+  },
+  "metadata": {
+    "youtube_id": "TIxFr2HMx6Y",
+    "title_extracted": null,
+    "corpus_id": "TIxFr2HMx6Y",
+    "uploader": "Classic Mood Experience",
+    "audio_file": "corpus/01_music_videos_audio/audio/TIxFr2HMx6Y.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5537944,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.792395,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:59:40Z"
+  },
+  "status": "success",
+  "error": null
+}

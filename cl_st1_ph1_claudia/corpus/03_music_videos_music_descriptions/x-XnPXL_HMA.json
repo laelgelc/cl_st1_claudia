@@ -1,0 +1,38 @@
+{
+  "corpus_id": "x-XnPXL_HMA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/x-XnPXL_HMA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/x-XnPXL_HMA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/x-XnPXL_HMA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief, solemn fanfare featuring swelling brass and organ tones, establishing a dramatic, minor-key tonal center. At 0:12, a slow, spacious 4/4 rock ballad tempo settles in, driven by a steady drum kit groove, a warm electric bassline, and gently strummed rhythm guitars. The music maintains a melancholic, reflective mood characterized by rich analog textures, vintage tube overdrive, and spacious stereo separation.\n\nAn extended instrumental section (0:30–2:34) highlights a prominent electric guitar lead. The instrument possesses a warm, sustained, overdriven timbre with expressive string bends and subtle hall reverb. Positioned at the center of the stereo field, it floats above rhythm guitars panned to the flanks and an organ providing sustained harmonic pad backing. \n\nA gravelly, expressive male lead vocal enters at 2:34, delivered with a close, intimate mix placement. The arrangement recedes slightly to accommodate the voice, preserving a transparent texture. Between vocal phrases, the electric guitar provides short, bluesy counter-melodies. Following this initial vocal section, the music transitions back into an expansive electric guitar solo at 3:45, gradually increasing in dynamic intensity with more energetic drum fills and ride cymbal accents.\n\nA second vocal section begins around 4:52, where the vocal performance grows increasingly passionate, rising in pitch and power alongside fuller organ swells. By 7:07, the piece enters an extended coda section featuring emotional vocal refrains interspersed with a soaring electric guitar solo. The guitar delivers melodic, singing lead lines that dominate the soundscape, accompanied by impactful cymbal crashes and a driving rhythm section. The track reaches its dynamic peak before the energy gradually recedes, concluding with a long, sustained final guitar chord and decaying cymbal resonance that slowly fades into silence.\n\nGENRES: Heartlands Rock, Classic Rock, Folk Rock, Blues Rock, Psychedelic Rock"
+  },
+  "metadata": {
+    "youtube_id": "x-XnPXL_HMA",
+    "title_extracted": null,
+    "corpus_id": "x-XnPXL_HMA",
+    "uploader": "iosonofederico",
+    "audio_file": "corpus/01_music_videos_audio/audio/x-XnPXL_HMA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 18372450,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.704909,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:28:54Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "lbcnjGIdgK0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/lbcnjGIdgK0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/lbcnjGIdgK0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/lbcnjGIdgK0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens abruptly with an explosive, high-energy intro featuring a triumphant brass fanfare, driving drums, and passionate vocal shouts set against a live performance ambience. Built upon a fast, steady 4/4 meter with an infectious disco-funk groove, the arrangement maintains a vibrant, celebratory mood anchored in a bright major tonality.\n\nThe sonic foundation consists of a punchy rhythm section featuring a four-on-the-floor kick drum, snappy snare, crisp open hi-hats, a syncopated, walking bassline, and funk electric guitar rhythm scratches. Interlocking with the rhythm section are bright, punchy horn stabs—comprising trumpets, trombones, and saxophones—panned widely across the stereo spectrum, creating a rich and immersive instrumental texture.\n\nAt the center of the mix is a commanding lead female vocalist who delivers an expressive, soul-infused performance marked by high-volume chest belts, dramatic ad-libs, and broad vibrato. Her voice is processed with a moderate room reverb that blends naturally with the ambient venue acoustics. A multi-part backing vocal choir offers rich, harmonized call-and-response phrases, creating an anthemic texture throughout the choruses.\n\nThe performance displays a continuously rising dynamic arc. Verses flow seamlessly into expansive choruses, guided by sharp brass accents, bass fills, and syncopated drum variations that elevate the song's energy. In the final section, the arrangement reaches its peak as the lead vocalist executes soaring, high-register sustained notes while the horn section swells in counterpoint. The track concludes with a decisive, unison hit across the ensemble, immediately followed by the sound of enthusiastic audience applause and cheering.\n\nGENRES: Disco, Funk, Soul, Pop"
+  },
+  "metadata": {
+    "youtube_id": "lbcnjGIdgK0",
+    "title_extracted": null,
+    "corpus_id": "lbcnjGIdgK0",
+    "uploader": "Iconic Music",
+    "audio_file": "corpus/01_music_videos_audio/audio/lbcnjGIdgK0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4653728,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 8.050823,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:59:35Z"
+  },
+  "status": "success",
+  "error": null
+}

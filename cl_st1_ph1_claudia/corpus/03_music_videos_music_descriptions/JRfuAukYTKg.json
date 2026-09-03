@@ -1,0 +1,38 @@
+{
+  "corpus_id": "JRfuAukYTKg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/JRfuAukYTKg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/JRfuAukYTKg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/JRfuAukYTKg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an upbeat, four-on-the-floor electronic drum groove composed of a punchy kick drum, crisp snare on the even beats, and driving hi-hats, accompanied by a pulsing synth bassline in a steady four-four meter at a dance-oriented tempo. Airy, sidechained synthesizer pads establish a minor-key harmonic foundation before a processed female lead vocal enters. The vocal tone is bright and focused, enhanced by pitch correction, double-tracking, stereo delay, and short spatial reverb, delivering a melodic line over a stripped-back verse section containing syncopated bass stabs and light percussion.\n\nAs the piece transitions into the pre-chorus, dynamic intensity escalates through accelerating snare fills, rising pitch sweeps, and soaring vocal lines. The chorus explodes into a dense, full-spectrum dance-pop soundscape featuring wide, sidechained synth chords, a heavy sub-bass, and powerful multi-tracked vocals. This transitions directly into a high-energy post-chorus synth drop driven by syncopated synthesizer lead melodies, vocal chops, and bright cymbal accents distributed broadly across the stereo field.\n\nThe second verse reduces the dynamic volume, paring the instrumentation down to a pulsing bass synth, crisp handclaps, and minimalist percussion beneath the main vocal. Following a second chorus and drop, a brief bridge section thins out the drum beat, placing the lead vocal over atmospheric, low-pass filtered synth pads and wide spatial reverb effects. A rapid drum fill and pitch sweep propel the track into its climactic final chorus and energetic instrumental drop, featuring maximal dynamic volume, soaring synthesizer leads, and heavy rhythmic drive before ending with a concise, reverberant synth decay.\n\nGENRES: electronic pop, edm, dance-pop"
+  },
+  "metadata": {
+    "youtube_id": "JRfuAukYTKg",
+    "title_extracted": null,
+    "corpus_id": "JRfuAukYTKg",
+    "uploader": "David Guetta",
+    "audio_file": "corpus/01_music_videos_audio/audio/JRfuAukYTKg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7849538,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.86675,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:15:19Z"
+  },
+  "status": "success",
+  "error": null
+}

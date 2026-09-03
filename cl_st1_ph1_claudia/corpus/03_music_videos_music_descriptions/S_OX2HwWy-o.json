@@ -1,0 +1,38 @@
+{
+  "corpus_id": "S_OX2HwWy-o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/S_OX2HwWy-o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/S_OX2HwWy-o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/S_OX2HwWy-o.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a syncopated, rhythmic electric guitar motif in a bright major key, quickly joined by an energetic acoustic drum groove, a bouncing bassline, and punchy brass accents. Set in a driving 4/4 meter at an upbeat tempo, the rhythm section establishes a classic soul groove anchored by a crisp snare backbeat on beats two and four alongside an offbeat tambourine.\n\nA passionate, gritty male lead vocal enters in the first verse, delivering vocal lines with natural rasp, dynamic pitch slides, and expressive ad-lib shouts. The arrangement features clean, syncopated electric guitar chugging, an active and warm electric bass line, and steady drum kit work. As the track progresses into the chorus, the texture thickens as a full horn section plays sharp, punchy stabs in call-and-response with the vocal refrain, complemented by subtle backing vocal harmonies.\n\nThe piece follows a standard verse-chorus structure. Subsequent verses maintain the driving rhythm, while the choruses elevate the overall dynamic level through expanded brass harmonies and heightened vocal delivery. A brief interlude featuring sustained horn phrases and rhythmic guitar chugs leads into an extended vamp and outro section. During this final passage, the lead vocal engages in soulful improvisations over repeating brass riffs, maintaining high energy until the track slowly fades out.\n\nProduction-wise, the recording exhibits a warm, vintage analog character with light room reverb applied to the drums and brass. The stereo mix places the rhythm guitar and brass section across the left and right channels, while keeping the lead vocal, kick, snare, and bass centered. The emotional mood is persistently exuberant, triumphant, and highly danceable, driven by tight ensemble performance and expressive vocal energy.\n\nGENRES: Soul, Rhythm and Blues, Funk"
+  },
+  "metadata": {
+    "youtube_id": "S_OX2HwWy-o",
+    "title_extracted": null,
+    "corpus_id": "S_OX2HwWy-o",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/S_OX2HwWy-o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5083206,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 23.600663,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:51:03Z"
+  },
+  "status": "success",
+  "error": null
+}

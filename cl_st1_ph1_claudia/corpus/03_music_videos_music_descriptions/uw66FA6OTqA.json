@@ -1,0 +1,38 @@
+{
+  "corpus_id": "uw66FA6OTqA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uw66FA6OTqA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/uw66FA6OTqA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/uw66FA6OTqA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an energetic, mid-tempo ska and reggae groove set in a four-four meter. The arrangement immediately establishes its rhythmic drive with crisp, rhythmic offbeat guitar skanks, an active shaker, and syncopated auxiliary percussion alongside a punchy drum kit driven by prominent snare backbeats and rimshots. Shortly into the intro, a warm, full-bodied bass guitar enters, playing a melodic, syncopated bassline that moves fluently beneath the skank to anchor the harmonic foundation in a bright major key.\n\nAt around fifteen seconds, a soulful male lead vocal enters, delivering melodic phrases with a highly expressive, rhythmic delivery that transitions effortlessly from smooth phrasing to gritty, passionate vocal inflections during moments of higher intensity. The lead performance is bolstered by vibrant, harmonized group backing vocals that provide enthusiastic call-and-response interjections and chorus chants, heightening the track's infectious momentum. As the track unfolds, sections alternate between syncopated verse passages and driving chorus sections, marked by repeating vocal hooks, shifting dynamic layers, and heightened percussion accents.\n\nThe overall production reflects a warm, vintage analog style. The stereo image is balanced and spacious, positioning the offbeat skank guitar and crisp shaker stabs across the mid-to-high spatial field while keeping the bass guitar, lead vocal, and drum core solidly centered. Light room reverb and subtle slapback delay are applied to the vocals, creating spatial dimension while maintaining a clean, organic texture. The lively rhythm, bright harmonic tone, and spirited vocal interactions maintain a joyful, danceable, and vibrant mood from start to finish.\n\nGENRES: reggae, ska, rocksteady"
+  },
+  "metadata": {
+    "youtube_id": "uw66FA6OTqA",
+    "title_extracted": null,
+    "corpus_id": "uw66FA6OTqA",
+    "uploader": "shark5981",
+    "audio_file": "corpus/01_music_videos_audio/audio/uw66FA6OTqA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7145138,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.221671,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:47:32Z"
+  },
+  "status": "success",
+  "error": null
+}

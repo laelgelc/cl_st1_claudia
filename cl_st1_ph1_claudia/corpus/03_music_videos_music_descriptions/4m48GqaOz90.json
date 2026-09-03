@@ -1,0 +1,38 @@
+{
+  "corpus_id": "4m48GqaOz90",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4m48GqaOz90.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/4m48GqaOz90.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/4m48GqaOz90.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a dark, atmospheric synth drone and ambient sound effects, building suspense before a looped vocal chop introduces a mid-tempo 4/4 beat at roughly 130 BPM. A driving electro-hop rhythm enters featuring punchy sub-bass kicks, crisp snares, handclaps, and rhythmic hi-hats. A heavy, distorted synthesizer bassline underpins the groove, providing a dense and aggressive low-end texture.\n\nVocals feature alternating male and female rapped and chanted sections, heavily processed with pitch correction, vocoder effects, and chorus to impart a futuristic, robotic timbre. The verses utilize rhythmic, syncopated vocal delivery over minimalist electronic percussion and synth stabs. Transitioning into the chorus, the vocal arrangement shifts to a call-and-response chant format over a full, high-energy instrumental texture.\n\nDynamic intensity builds midway through the track via rising synth sweeps, accelerating snare rolls, and vocal hype cues. This transitions into a prominent electronic drop section characterized by a pumping, sidechained electro synth lead, stuttered vocal samples, and wide stereo panning effects. The mix employs heavy compression, lush spatial reverb on ambient elements, and tight delays on vocal accents. \n\nHarmonically, the track is centered around a minor modal motif, emphasizing rhythmic repetition over complex chord progressions. The mood is confident, assertive, and energetic, tailored for a club environment. Toward the end, the dense synth arrangement strips back into a brief breakdown, allowing a female vocal hook to reappear before a final chorus reprise. The track concludes by stripping away the percussion, leaving the reverberant ambient synth pad heard at the start to slowly decay into silence.\n\nGENRES: Electro-hop, Hip Hop, Dance-Pop, Electro House"
+  },
+  "metadata": {
+    "youtube_id": "4m48GqaOz90",
+    "title_extracted": null,
+    "corpus_id": "4m48GqaOz90",
+    "uploader": "Black Eyed Peas",
+    "audio_file": "corpus/01_music_videos_audio/audio/4m48GqaOz90.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6697828,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.408296,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:14:01Z"
+  },
+  "status": "success",
+  "error": null
+}

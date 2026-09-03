@@ -1,0 +1,38 @@
+{
+  "corpus_id": "i_kF4zLNKio",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/i_kF4zLNKio.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/i_kF4zLNKio.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/i_kF4zLNKio.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens abruptly with a loud, explosive sound effect that fades into a pitch-processed vocal tag. Shortly after, a soul-influenced electric guitar loop enters alongside a mid-tempo hip-hop drum beat set in a 4/4 meter. The rhythm section features a warm synth sub-bass, crisp snare and clap layering on beats two and four, and steady hi-hat patterns with occasional rapid roll subdivisions. The guitar riff remains the dominant harmonic foundation throughout the track, exhibiting a clean, slightly chorus-effected timbre.\n\nA lead male vocal enters shortly after the intro, delivering a stylized mix of melodic singing and rhythmic rapping. The vocal performance is defined by dense pitch correction (auto-tune), high-frequency brightness, and spatial effects including reverb and echo delays. Layered vocal doublings and subtle octave-shifted harmonies frequently reinforce the ends of lines during the chorus and refrain sections. The arrangement follows a straightforward verse-chorus structure where energy swells are driven primarily by vocal dynamics and additional vocal layering rather than major shifts in the underlying instrumental track.\n\nThe stereo image places the drum kit and sub-bass squarely in the center, while the guitar riff and ambient reverb tails create width in the soundstage. Dynamically, the track maintains a consistent, polished loudness profile typical of modern urban music production. Near the 2:58 mark, the primary vocal performance yields to a lower-pitched, spoken-word voice delivering ad-libbed commentary over the continuing beat. The track maintains its steady, bouncy head-nodding groove until the final bar, where the beat halts cleanly to close the piece.\n\nGENRES: Hip Hop, Trap, Melodic Rap, Contemporary R&B"
+  },
+  "metadata": {
+    "youtube_id": "i_kF4zLNKio",
+    "title_extracted": null,
+    "corpus_id": "i_kF4zLNKio",
+    "uploader": "Harlem Fetty",
+    "audio_file": "corpus/01_music_videos_audio/audio/i_kF4zLNKio.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7819072,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.037984,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:09:39Z"
+  },
+  "status": "success",
+  "error": null
+}

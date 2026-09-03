@@ -1,0 +1,38 @@
+{
+  "corpus_id": "KUmZp8pR1uc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/KUmZp8pR1uc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/KUmZp8pR1uc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/KUmZp8pR1uc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens immediately with a mid-tempo, syncopated soul-pop groove set in a 4/4 meter. The rhythm section features a punchy kick drum, crisp snare drum, syncopated hi-hats, and an active, walking bassline, complemented by clean rhythmic electric guitar comping. A punchy horn section delivers sharp stabs and chords that underscore the harmonic structure throughout the piece. A lead female vocal enters straight away, characterized by a soulful, raspy, and expressive timbre with subtle room reverb, positioned prominently in the center of the stereo mix.\n\nIn the opening chorus section, the arrangement is vibrant, featuring full horn swells and tight rhythmic accents. As the song transitions into the first verse, the musical texture thins slightly to highlight the lead vocal, supported primarily by the bass, drums, and light guitar comping, while subtle horn stabs provide occasional melodic accents. The dynamic intensity swells again during the return of the chorus, supported by full-spectrum instrumentation and layered backing vocal harmonies that enhance the melodic texture.\n\nThe second verse maintains the bouncy mid-tempo feel, featuring vocal embellishments and subtle rhythmic variations from the drum kit and bass guitar. The song then moves into a bridge section characterized by a slight harmonic shift, sustained horn chords, and an increase in dynamic tension. The lead vocal climbs into a higher register, delivering a more intense and emotionally charged performance.\n\nThe track culminates in a final chorus and outro section, where the full ensemble re-engages at peak dynamics. The lead vocal executes expressive vocal ad-libs over the recurring melodic hook, framed by emphatic brass stabs and driving percussion, before resolving on a sharp, synchronized hit. The production aesthetic emulates retro soul, characterized by warm frequency response, vintage-style saturation, clear spatial separation, and an energetic yet introspective mood.\n\nGENRES: Soul, Retro-Soul, R&B, Pop"
+  },
+  "metadata": {
+    "youtube_id": "KUmZp8pR1uc",
+    "title_extracted": null,
+    "corpus_id": "KUmZp8pR1uc",
+    "uploader": "Amy Winehouse",
+    "audio_file": "corpus/01_music_videos_audio/audio/KUmZp8pR1uc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6829346,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.988817,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:16:46Z"
+  },
+  "status": "success",
+  "error": null
+}

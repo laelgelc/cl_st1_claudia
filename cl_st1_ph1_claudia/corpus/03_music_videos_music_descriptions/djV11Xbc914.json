@@ -1,0 +1,38 @@
+{
+  "corpus_id": "djV11Xbc914",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/djV11Xbc914.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/djV11Xbc914.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/djV11Xbc914.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens in a fast 4/4 meter (approximately 170 BPM) with an energetic percussive intro featuring punchy, gated-reverb electronic drum hits, crisp hi-hats, and a driving snare on beats two and four. At 0:08, a iconic, staccato synth riff enters, characterized by a bright, chime-like timbre panned across the stereo field. An octave-pumping synth bass and rhythmic chordal accompaniment join, establishing a driving synth-pop groove in a bright major tonality.\n\nAt 0:37, a male lead vocal enters in a clear, rhythmic chest-register tenor with light stereo reverb and subtle delay. The accompaniment thins slightly to highlight the voice, while maintaining momentum through the continuous synth-bass and drum rhythm. \n\nThe section transitions into a high-energy chorus at 0:54, marked by a dramatic dynamic and vocal shift: the singer ascends into a soaring, sustained falsetto. The instrumental arrangement swells in response, introducing dense synth harmonies, bright counter-melodies, and full percussive drive to create an uplifting, expansive soundscape.\n\nThe structure proceeds through a alternating verse-chorus cycle (1:16 and 1:31), maintaining a consistent driving tempo. An instrumental interlude at 1:57 reintroduces the melodic main synth theme, surrounded by rhythmic chord stabs and active basslines. Following a brief dynamic lull and build in the subsequent verse (2:36), the song reaches its peak in a powerful final chorus (2:54), where the vocal line reaches its maximum register and pitch height alongside layered synth textures.\n\nThe track concludes with an instrumental outro starting around 3:33, centered on the recurring synth melody and driving rhythm before fading down to a gentle finish. Throughout, the production emphasizes a polished, bright 1980s synth-pop aesthetic with stereo-wide synth panning and punchy electronic drum processing.\n\nGENRES: Synth-Pop, New Wave, Pop"
+  },
+  "metadata": {
+    "youtube_id": "djV11Xbc914",
+    "title_extracted": null,
+    "corpus_id": "djV11Xbc914",
+    "uploader": "a-ha",
+    "audio_file": "corpus/01_music_videos_audio/audio/djV11Xbc914.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7808670,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.154157,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:33:49Z"
+  },
+  "status": "success",
+  "error": null
+}

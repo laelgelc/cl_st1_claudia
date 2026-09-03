@@ -1,0 +1,38 @@
+{
+  "corpus_id": "VRU2qs82DAg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/VRU2qs82DAg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/VRU2qs82DAg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/VRU2qs82DAg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with ambient urban sound effects—distant traffic and bird chirps—before a shimmering synth flourish introduces a spoken DJ voice formatted with filter effects to imitate a radio broadcast. A gentle, mid-tempo 4/4 pop-R&B ballad groove emerges beneath, featuring delicate fingerpicked acoustic guitar, warm electric piano chords, smooth bass, and a relaxed percussion rhythm driven by shakers and subtle rimshots.\n\nAt the first verse, an intimate, silky female lead vocal enters centrally, treated with warm reverb and subtle delay. Her delivery is breathed and conversational over a sparse, atmospheric arrangement of acoustic guitar and soft synth pads. As the music moves into the chorus, the dynamic level expands; the drum beat becomes fuller with a gentle kick and hi-hat pattern, while wide, multi-layered backing vocal harmonies swell across the stereo field to reinforce the lead melody.\n\nThe second verse maintains the steady groove while incorporating subtle electric guitar fills and atmospheric, whispered spoken-word accents panned into the background. A bridge section thins the rhythmic drive, allowing intimate spoken Spanish phrases to take center stage against ambient synth swells and guitar arpeggiation. \n\nFollowing this, the song builds into a powerful climax during the final chorus sections. The lead vocal rises in dynamic intensity, executing expressive melismatic ad-libs and higher-register belts over dense vocal harmonies and active basslines. Throughout the piece, the production exhibits a clean, polished studio aesthetic characteristic of mid-1990s pop ballads, featuring clear stereo separation, lush spatial effects, and a smooth, warm tonal balance.\n\nThe track concludes as the musical arrangement gradually fades, overlaid once more by the filtered radio DJ commentary, which guides the piece to a complete fade-out.\n\nGENRES: Pop, Tejano Pop, R&B, Latin Pop, Ballad"
+  },
+  "metadata": {
+    "youtube_id": "VRU2qs82DAg",
+    "title_extracted": null,
+    "corpus_id": "VRU2qs82DAg",
+    "uploader": "Selena",
+    "audio_file": "corpus/01_music_videos_audio/audio/VRU2qs82DAg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8470718,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.495401,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:23:10Z"
+  },
+  "status": "success",
+  "error": null
+}

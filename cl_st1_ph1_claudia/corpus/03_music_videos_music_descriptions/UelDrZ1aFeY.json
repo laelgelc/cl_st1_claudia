@@ -1,0 +1,38 @@
+{
+  "corpus_id": "UelDrZ1aFeY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/UelDrZ1aFeY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/UelDrZ1aFeY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/UelDrZ1aFeY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a brief intro featuring warm, clean electric guitar comping in a relaxed, swinging 4/4 meter at a comfortable medium-slow tempo. A smooth, intimate male lead vocal enters shortly after, positioned cleanly in the center of the stereo image with light, natural room reverb. The arrangement in the initial verses remains sparse and laid-back, supported by a gentle rhythm section composed of a warm bassline, soft brushed drum patterns with light ride cymbal taps, and rhythmic guitar chords that move through a warm, major-key jazz-pop harmonic progression.\n\nThe piece undergoes a dynamic shift into a more energetic bridge section, where the groove transitions to a driving rhythm with punchy snare accents while bright brass hits swell on the flanks of the stereo field. The lead vocalist raises their dynamic intensity here, delivering lines with added grit and emotional presence in a higher vocal register.\n\nFollowing the bridge, an expressive electric guitar solo takes over as the primary focus. The soloist utilizes a warm, slightly saturated guitar tone, employing vocal-like pitch bends and bluesy melodic phrasing over the steady, swung rhythm section. \n\nThe texture drops back down for a final verse section, returning to the intimate, low-intensity atmosphere of the opening. The male lead vocal resumes its smooth, soft crooning timbre alongside understated guitar comping and delicate drum accompaniment. The performance gently swells before resolving into a final, sustained guitar chord supported by a subtle drum tap to close the piece.\n\nGENRES: Pop, Soft Rock, Jazz, Singer-Songwriter"
+  },
+  "metadata": {
+    "youtube_id": "UelDrZ1aFeY",
+    "title_extracted": null,
+    "corpus_id": "UelDrZ1aFeY",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/UelDrZ1aFeY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6014232,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.922059,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:45:06Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "FGVGFfj7POA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/FGVGFfj7POA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/FGVGFfj7POA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/FGVGFfj7POA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a dynamic, syncopated brass intro featuring trumpets and saxophones playing a punchy harmonic motif over a drum hit in a brisk 4/4 meter. Within seconds, a driving soul groove consolidates as a round, resonant bass guitar and crisp rhythm guitar strums join the steady drum kit, which emphasizes a strong backbeat on beats two and four. A energetic, soulful male lead vocal enters shortly after, delivered with a raspy, passionate timbre and centered prominently in the stereo mix with light, natural plate-like reverb.\n\nThe arrangement maintains a lively, upbeat tempo around 110–115 BPM set in a bright major key. Throughout the main vocal sections, the brass section functions as a melodic counterweight, offering punchy stabs and short response riffs between vocal phrases. The rhythmic texture remains dense yet crisp: the bass line provides a syncopated, bouncing movement, while the rhythm guitar delivers sharp, rhythmic strumming panned slightly across the stereo field. The drums maintain a tight, continuous beat with steady hi-hat work and subtle snare fills.\n\nAt approximately 01:25, an instrumental bridge highlights a bright, blues-inflected electric guitar section featuring clean-toned rhythmic fills and concise single-note runs, accented by rhythmic brass swells. The lead vocal re-enters at 01:42, escalating in dynamic intensity into an expressive vamp section. Here, the singer delivers passionate ad-libs, vocal calls, and rhythmic exclamations over the repeating chord progression and persistent rhythm section groove. The track maintains a high-energy, classic soul mood throughout, driven by tight ensemble interplay, warm vintage analog mix aesthetics, and an expressive, commanding vocal performance through to the end of the clip.\n\nGENRES: soul, rhythm and blues, classic soul"
+  },
+  "metadata": {
+    "youtube_id": "FGVGFfj7POA",
+    "title_extracted": null,
+    "corpus_id": "FGVGFfj7POA",
+    "uploader": "fabrizio autore",
+    "audio_file": "corpus/01_music_videos_audio/audio/FGVGFfj7POA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5130016,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.08852,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:22:56Z"
+  },
+  "status": "success",
+  "error": null
+}

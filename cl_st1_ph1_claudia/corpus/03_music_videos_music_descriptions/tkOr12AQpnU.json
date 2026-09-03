@@ -1,0 +1,38 @@
+{
+  "corpus_id": "tkOr12AQpnU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/tkOr12AQpnU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/tkOr12AQpnU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/tkOr12AQpnU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "An upbeat, 1980s-style synth-pop and new wave track set in a driving 4/4 meter at a moderate dance tempo (approximately 125 BPM). The recording begins with an energetic electronic drum groove featuring a punchy kick drum, snappy snare, and crisp closed hi-hats, paired immediately with a pulsating arpeggiated synth bassline and staccato synthesizer chords panned across the stereo field. Bright, brassy synth lead riffs punctuate the opening bars, building momentum before the vocal entry.\n\nThe verse features a resonant male lead vocal delivered with a rhythmic, nostalgic inflection, processed with moderate plate reverb and subtle delay effects. Beneath the vocal, the four-on-the-floor electronic drum beat and driving synth bass maintain a steady groove while shimmering synth arpeggios provide harmonic support. As the track transitions into the chorus, the dynamic level rises significantly; the lead vocal lifts into a higher register, reinforced by doubled vocal harmonies, soaring synth counter-melodies, and accentuating crash cymbals. \n\nA prominent structural break occurs at 2:40, where the instrumental backing briefly drops out to spotlight a spoken-word audio sample featuring a conversation between a female and a male speaker. Following a quick electronic snare fill, the track abruptly explodes back into the high-energy chorus section with full instrumentation, wide stereo synth pads, and layered vocal lines. The production style throughout is polished and retro-inspired, marked by punchy compression, wide stereo separation of synth textures, and vibrant high-end frequency clarity. The recording concludes after a brief instrumental outro with a definitive final drum hit and lingering reverb decay.\n\nGENRES: Synth-Pop, New Wave, Dance-Pop, Synthwave"
+  },
+  "metadata": {
+    "youtube_id": "tkOr12AQpnU",
+    "title_extracted": null,
+    "corpus_id": "tkOr12AQpnU",
+    "uploader": "New Order",
+    "audio_file": "corpus/01_music_videos_audio/audio/tkOr12AQpnU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7395542,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.999429,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:22:04Z"
+  },
+  "status": "success",
+  "error": null
+}

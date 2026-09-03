@@ -1,0 +1,38 @@
+{
+  "corpus_id": "rTVjnBo96Ug",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/rTVjnBo96Ug.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/rTVjnBo96Ug.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/rTVjnBo96Ug.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief horn section fanfare playing a syncopated, upbeat melodic motif over a laid-back, mid-tempo 4/4 rhythm section. At 00:11, the brass recedes into the background as a soulful male lead vocal enters, delivering a relaxed, storytelling performance characterized by a raspy, warm, and deeply expressive timbre. The underlying arrangement is built around a steady acoustic drum kit featuring crisp snare rim clicks and gentle hi-hat patterns, a prominent, round electric bass playing a walking, syncopated line, and clean electric guitar comping on offbeats with light chorus and reverb effects.\n\nThroughout the initial verses, the performance maintains a consistent, reflective mood and gentle dynamic baseline. Subtle brass accents periodically punctuate the vocal phrasing. The stereo balance places the lead vocal, kick drum, and bass centered in the mix, while rhythm guitars and brass are panned across the stereo field, recreating an analog mid-century studio aesthetic enhanced by subtle plate reverb and tape warmth.\n\nAt 01:24, the song moves into a brief bridge section marked by a moderate dynamic escalation. Here, the lead vocalist projects with heightened emotional intensity, utilizing a raspy, soul-baring timbre before settling back into the easygoing tempo and lower dynamic level of the subsequent verse at 01:43. \n\nThe music transitions into the outro at 02:20 as the vocal gives way to a clear, melodic whistling solo that echoes the melodic theme over the continuing rhythm section groove. Integrated ambient sound effects of soft ocean waves crashing quietly in the background enhance the serene, introspective atmosphere. The whistling and steady rhythm section sustain the groove while slowly fading out to a quiet conclusion at 02:41.\n\nGENRES: Soul, Rhythm & Blues, Classic Soul, Memphis Soul"
+  },
+  "metadata": {
+    "youtube_id": "rTVjnBo96Ug",
+    "title_extracted": null,
+    "corpus_id": "rTVjnBo96Ug",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/rTVjnBo96Ug.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5185744,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.264366,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:27:26Z"
+  },
+  "status": "success",
+  "error": null
+}

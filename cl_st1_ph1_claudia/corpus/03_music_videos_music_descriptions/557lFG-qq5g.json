@@ -1,0 +1,38 @@
+{
+  "corpus_id": "557lFG-qq5g",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/557lFG-qq5g.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/557lFG-qq5g.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/557lFG-qq5g.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a brief spoken introduction over a public address system, followed immediately by enthusiastic audience applause and the start of a medium-fast swing performance in 4/4 meter. The rhythm section establishes a swinging groove led by an upright walking bass line, ride-cymbal jazz drum patterns, and subtle piano comping, joined by warm woodwind and muted brass accents. A smooth, expressive male lead vocalist enters, delivering a relaxed, melodic line in a classic mid-century crooner style.\n\nAs the performance progresses through repeated structural cycles, the music continually modulates upward step-by-step in key. Each successive section increases in dynamic intensity, rhythmic drive, and textural density. Punchy, syncopated horn stabs become more frequent and prominent in the mix, contrasting with the fluid vocal phrasing. The lead vocalist’s delivery adapts to this crescendo, evolving from restrained, elegant phrasing into an energetic, raspy, and belted performance punctuated by bluesy ad-libs.\n\nThe audio production features a vintage live broadcast aesthetic, characterized by narrow stereo width, warm mid-range tonal emphasis, and natural hall reverberation around both the vocal and the full big band. The rhythm section maintains a precise, driving swing feel, with dynamic accents from the snare drum and brass section punctuating the vocal pauses.\n\nIn the final section, the band reaches a loud, explosive dynamic level. Soaring brass harmonies swell over intense drum fills and a driving walking bass line, culminating in a sustained high vocal note and a dramatic, syncopated final cadence. The piece closes with roaring applause and cheers from the audience as a host speaks briefly over the fading ambient room response.\n\nGENRES: swing, big band, vocal jazz, traditional pop"
+  },
+  "metadata": {
+    "youtube_id": "557lFG-qq5g",
+    "title_extracted": null,
+    "corpus_id": "557lFG-qq5g",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/557lFG-qq5g.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6576712,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.921113,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:10:39Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "mzB1VGEGcSU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/mzB1VGEGcSU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/mzB1VGEGcSU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/mzB1VGEGcSU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a vintage, lo-fi prelude characterized by vinyl crackle, distant chatter, and warm, gentle acoustic guitar fingerpicking. Melodic, pitch-shifted vocal snippets and soft, reverberant humming establish an intimate, melancholic tone before a match-striking sound effect signals a transition into the main groove.\n\nUpon the drop, a punchy, contemporary trap drum pattern enters in a moderate 4/4 tempo. The rhythm is driven by a booming, pitch-bending 808 sub-bass, a crisp, centered snare, and rapid, subdivided hi-hat rolls that create rhythmic urgency. The acoustic guitar remains the dominant harmonic center throughout, arpeggiating a minor-key chord progression subtly reinforced by warm, atmospheric synth pads.\n\nThe lead male vocal performance blends rhythmic rapping with emotional, melodic singing. Sounding polished and pitch-corrected, the lead vocal is dressed in wide reverb and short delay. Key phrases are dramatically emphasized using doubled vocal tracks panned across the stereo field alongside dynamic background ad-libs. \n\nAs the song develops through verses, bridges, and recurring chorus hooks, the texture builds and shifts through subtle production techniques. Vocal stutters, sudden beat cutouts, and pitch-glide variations highlight transitional moments, keeping the arrangement engaging while preserving its dark, introspective mood. \n\nIn the final section, emotional intensity peaks through impassioned vocal delivery and dense vocal harmonies over the full, driving rhythm. The track then deconstructs into a stripped-back outro, where the drums drop away, leaving heavily filtered, pitch-shifted vocal chops and decaying acoustic guitar notes that dissolve into ambient vinyl crackle.\n\nGENRES: Emo Rap, Melodic Hip-Hop, Pop Rap, Trap"
+  },
+  "metadata": {
+    "youtube_id": "mzB1VGEGcSU",
+    "title_extracted": null,
+    "corpus_id": "mzB1VGEGcSU",
+    "uploader": "Lyrical Lemonade",
+    "audio_file": "corpus/01_music_videos_audio/audio/mzB1VGEGcSU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7365076,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.715066,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:35:00Z"
+  },
+  "status": "success",
+  "error": null
+}

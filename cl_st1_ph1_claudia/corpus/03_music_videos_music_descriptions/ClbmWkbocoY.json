@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ClbmWkbocoY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ClbmWkbocoY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ClbmWkbocoY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ClbmWkbocoY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with rhythmic handclaps and a brief spoken-word intro, quickly joined by a syncopated, clean electric guitar riff. A relaxed yet bouncy 4/4 rhythm section enters shortly after, featuring a warm electric bassline and a steady drum kit playing a mid-tempo groove with crisp hi-hats and punchy kick and snare drum hits. \n\nAt 00:13, a clear, intimate lead female vocal enters, delivered in a conversational, melodic tone with subtle room ambience and plate reverb, occupying the center of the stereo mix. The verse dynamic remains light and breezy, propelled by rhythmic electric guitar comping panned across the stereo field alongside a melodic, walking bassline. \n\nAs the arrangement transitions into the chorus around 01:01, the texture expands with the entry of lush, layered female backing vocal harmonies. The drum kit drives forward with increased open hi-hat and cymbal energy, creating a warm dynamic uplift while maintaining the steady groove. \n\nThe second verse at 01:29 returns to the leaner arrangement, preserving the sunny, singer-songwriter atmosphere while electric guitars interject subtle fills between vocal lines. At 02:08, the second chorus reiterates the full, harmonized dynamic. \n\nAn instrumental bridge section from 02:37 features a melodic electric guitar solo played with a clean, slightly overdriven tone enhanced by chorus and reverb effects. The guitar weaves expressive phrases over the driving bass and drum foundation. \n\nThe final chorus at 02:53 marks the peak dynamic level, characterized by enthusiastic lead vocal delivery and layered vocal refrains. The track enters an extended outro at 03:32, where melodic guitar riffing and vocal ad-libs play over the ongoing rhythm section before slowly decelerating to a gentle final chord ring-out.\n\nGENRES: Pop Rock, Singer-Songwriter, Roots Rock, Pop"
+  },
+  "metadata": {
+    "youtube_id": "ClbmWkbocoY",
+    "title_extracted": null,
+    "corpus_id": "ClbmWkbocoY",
+    "uploader": "Sheryl Crow",
+    "audio_file": "corpus/01_music_videos_audio/audio/ClbmWkbocoY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7862912,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.562765,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:12:40Z"
+  },
+  "status": "success",
+  "error": null
+}

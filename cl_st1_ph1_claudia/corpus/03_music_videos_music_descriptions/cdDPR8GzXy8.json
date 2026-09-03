@@ -1,0 +1,38 @@
+{
+  "corpus_id": "cdDPR8GzXy8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/cdDPR8GzXy8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/cdDPR8GzXy8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/cdDPR8GzXy8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with an expressive acoustic grand piano playing a gentle, jazz-influenced chord progression in a relaxed mid-tempo 4/4 ballad meter. Light acoustic guitar strumming, warm electric bass, and a subtle drum groove featuring soft cymbals and a laid-back snare beat quickly layer in, establishing an intimate, organic texture. \n\nAt 0:17, a soulful male lead vocal enters, characterized by a warm, slightly raspy timbre, subtle natural room reverb, and flexible dynamic control. The singer alternates between tender, conversational phrasing in the verses and powerful, chest-register belts during the refrains. Around 0:45, the texture expands significantly as rich, choir-like backing vocals join in, building harmonic depth and raising the dynamic level behind the lead vocal’s impassioned lines.\n\nAt 1:07, an overdriven electric guitar takes the lead, performing a melodic, blues-infused solo marked by vocal-like string bends, wide vibrato, and a warm mid-range tone. The rhythm section maintains a steady, grounded groove underneath with rhythmic piano comping and continuous bass movement. The vocal re-enters at 1:41 for another refraining section, delivering an increasingly energetic performance punctuated by expressive ad-libs and dramatic vocal swells.\n\nThe arrangement transitions through a second verse around 2:09 before building toward an energetic climax at 2:35. Soulful vocal improvisations blend into a soaring second electric guitar solo that dominates the remainder of the piece. Drumming becomes more active with pronounced cymbal crashes and syncopated fills, while the bass and piano reinforce a driving vamp. The recording gradually fades out over the repeating chord progression, maintaining its passionate, romantic mood to the end. The production features a warm, vintage-style mix with a wide stereo layout, placing the lead vocal at the center flanked by stereo piano and panned guitars.\n\nGENRES: rock, soul ballad, pop rock, blues rock"
+  },
+  "metadata": {
+    "youtube_id": "cdDPR8GzXy8",
+    "title_extracted": null,
+    "corpus_id": "cdDPR8GzXy8",
+    "uploader": "PAUL McCARTNEY",
+    "audio_file": "corpus/01_music_videos_audio/audio/cdDPR8GzXy8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7454242,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.356545,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:23:26Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "8WEtxJ4-sh4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8WEtxJ4-sh4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/8WEtxJ4-sh4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/8WEtxJ4-sh4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The piece opens with a cinematic sound-design introduction featuring a deep low-frequency synth sweep, sub-bass swell, and futuristic riser effect, which resolves at 0:07 into a mid-tempo, 4/4 hip-hop and R&B groove set around 88 BPM. The core instrumentation consists of warm, jazzy electric piano chords, a rounded bassline, and a crisp drum kit driven by a punchy kick, snappy snare/rimshot, and swinging hi-hat patterns. Subtle vinyl crackle and turntable scratch accents frequently complement the rhythmic framework.\n\nAt 0:17, a smooth, soulful female lead vocal enters, positioned clearly in the center of the stereo field with mild spatial reverb. The arrangement maintains a transparent, groove-focused texture through the initial verse, giving prominence to the vocal line over the steady keyboard and percussion backing. Turntable scratch transitions and drum fills punctuate the track around 1:25 and 3:05, temporarily paring down the mix to showcase turntablism and atmospheric sound effects.\n\nLush multi-tracked vocal harmonies elevate the energy in the chorus sections (entering around 1:58 and returning at 3:47), expanding the stereo field and harmonic density. A prominent stylistic shift occurs around 3:23, where the lead vocal transitions from melodic singing to a cadenced, rhythmic rap delivery, injecting dynamic contrast while remaining synced to the mid-tempo bounce.\n\nThe overall production exhibits a wide, balanced stereo image with crisp transient clarity on the drums, upfront lead vocals, and panned electronic keys. The tonal character is warm and bass-rich, invoking a classic 1990s urban soul aesthetic. The mood feels introspective yet steady and confident. The track concludes as vocal ad-libs and repeated hook harmonies ride out the main groove to a gentle fade.\n\nGENRES: R&B, Hip Hop, Neo Soul, 90s R&B"
+  },
+  "metadata": {
+    "youtube_id": "8WEtxJ4-sh4",
+    "title_extracted": null,
+    "corpus_id": "8WEtxJ4-sh4",
+    "uploader": "TLC",
+    "audio_file": "corpus/01_music_videos_audio/audio/8WEtxJ4-sh4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10228004,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.262301,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:05:11Z"
+  },
+  "status": "success",
+  "error": null
+}

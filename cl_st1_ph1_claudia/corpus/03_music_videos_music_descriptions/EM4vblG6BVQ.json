@@ -1,0 +1,38 @@
+{
+  "corpus_id": "EM4vblG6BVQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/EM4vblG6BVQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/EM4vblG6BVQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/EM4vblG6BVQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with the sound of a cheering stadium crowd, over which a passionate male voice delivers a spoken introduction with mild hall reverb. At 0:12, a high-tempo (around 135 BPM) driving rock groove in 4/4 meter erupts. The arrangement features a distinct, march-like military snare drum rhythm, a pulsating bassline, and a rhythmic, arpeggiated guitar motif played with a bright, slightly clean electric guitar tone.\n\nThe male lead vocalist enters with an urgent, earnest, and raspy delivery, positioned center in the mix with light slapback delay and room reverb. The texture remains driving and punchy through the verses, defined by tight snare rolls, steady hi-hat beats, and crisp guitar strumming. Dynamics rise significantly into the anthemic choruses, where the lead vocal soars into a belting upper register, accompanied by unison backing and gang vocals that create an expansive, rallying dynamic.\n\nFollowing the second chorus, a transition section introduces rhythmic vocal chants and pulsating bass before yielding to an energetic electric guitar solo characterized by sharp, percussive rhythmic attacks. A dynamic breakdown follows, reducing the instrumentation to a martial snare drum beat and bass, over which the vocalist leads a call-and-response section with the crowd and backing singers shouting punchy phrases in unison.\n\nThe track reaches its emotional climax as the full band re-enters with explosive dynamics, driven by heavy drum fills, strummed guitar chords, and impassioned vocal belting. The texture gradually winds down through a final refrain, ending on a sustained guitar chord and kick drum accent before resolving into massive crowd applause. The production captures a live concert environment, characterized by a wide stereo field, raw instrumental timbres, dynamic volume swings, and an emotionally intense, defiant mood throughout.\n\nGENRES: Alternative Rock, Post-Punk, Arena Rock, Live Recording"
+  },
+  "metadata": {
+    "youtube_id": "EM4vblG6BVQ",
+    "title_extracted": null,
+    "corpus_id": "EM4vblG6BVQ",
+    "uploader": "U2",
+    "audio_file": "corpus/01_music_videos_audio/audio/EM4vblG6BVQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11109990,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.765534,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:46:44Z"
+  },
+  "status": "success",
+  "error": null
+}

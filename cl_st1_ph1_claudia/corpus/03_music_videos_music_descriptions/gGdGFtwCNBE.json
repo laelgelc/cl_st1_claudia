@@ -1,0 +1,38 @@
+{
+  "corpus_id": "gGdGFtwCNBE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/gGdGFtwCNBE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/gGdGFtwCNBE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/gGdGFtwCNBE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a sharp cymbal strike leading directly into a clean, arpeggiated electric guitar motif set over subtle ambient synth tones in a driving 4/4 meter. At 0:10, the arrangement dramatically swells into a full rock ensemble featuring stereo-panned distorted rhythm guitars, a warm, driving bassline, and a punchy drum kit anchored by a crisp snare backbeat. A passionate male lead vocal enters, delivering a melodically charged performance with a lightly processed, doubled texture and spatial reverb.\n\nThe verse maintains an energetic momentum, building in intensity toward the chorus at 0:49. Here, the dynamics surge as the guitars shift into heavy, wall-of-sound chord voicings, supported by accenting crash cymbals and soaring background vocal harmonies. A subtle high-register synth or lead guitar line glides beneath the main melody, adding texture to the harmonic progression.\n\nA brief instrumental re-intro at 1:30 featuring tight drum fills leads into the second verse at 1:41. The groove remains steadfastly energetic, pushing forward into a second chorus at 2:03 with increased rhythmic drive and emotional intensity in the vocals.\n\nAt 2:30, the track moves into a dynamic bridge section where the texture expands with synth arpeggios and ringing guitar tones underneath heavy chordal stabs. The vocalist delivers high-register, impassioned lines, culminating at 3:00 in a extended, sustained vocal note as the band reaches its energetic climax through soaring lead guitar flourishes and active drum fills. The track resolves onto a final sustained guitar chord and cymbal wash that gently decays to a close at 3:40.\n\nThe production features punchy drum compression, wide stereo guitar panning, clear vocal placement, and a dynamic arc that reinforces an urgent, dramatic, and cathartic mood throughout.\n\nGENRES: Alternative Rock, Modern Rock, Indie Rock, Pop Punk"
+  },
+  "metadata": {
+    "youtube_id": "gGdGFtwCNBE",
+    "title_extracted": null,
+    "corpus_id": "gGdGFtwCNBE",
+    "uploader": "TheKillersMusic",
+    "audio_file": "corpus/01_music_videos_audio/audio/gGdGFtwCNBE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7281114,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.471643,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:10:43Z"
+  },
+  "status": "success",
+  "error": null
+}

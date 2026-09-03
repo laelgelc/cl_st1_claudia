@@ -1,0 +1,38 @@
+{
+  "corpus_id": "jQvUBf5l7Vw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/jQvUBf5l7Vw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/jQvUBf5l7Vw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/jQvUBf5l7Vw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens immediately with a high-energy rock groove in a fast 4/4 meter. The dynamic level is robust and loud from the outset, driven by a punchy drum kit featuring a crisp snare backbeat, steady kick drum, and lively hi-hat work. A prominent, mid-forward electric bass guitar plays rapid, driving eighth-note figures, anchoring the harmony alongside gritty, overdriven electric guitars panned wide in the stereo image to construct a dense, immersive wall of sound.\n\nAt approximately ten seconds, a male lead vocalist enters centrally in the mix. Delivered with a gravelly, half-spoken, and aggressive punk-rock style, the vocal sound is treated with subtle saturation and short room reverb, keeping it prominent and direct. The rhythm section maintains an unyielding, forward-thrusting tempo throughout, giving the piece an urgent, rebellious, and kinetic mood. \n\nAs the track advances through its main verse and chorus sections, dynamic contrast is achieved through subtle structural shifts rather than drastic drops in volume. Around one minute in, backing vocal accents and emphatic cymbal crashes punctuate the transition into a heightened refrain section. The guitars alternate between rhythmic chordal strumming and raw, blues-inflected riffing, reinforcing a classic harmonic foundation. \n\nToward the final minute, starting around two minutes and forty seconds, the piece escalates into a climactic ending section characterized by repetitive, chanted vocal hooks and increasingly frantic drum accents. The arrangement maintains its dense texture and bright, raw production aesthetic—reminiscent of vintage garage rock and post-punk revival styles—until the track comes to an abrupt halt.\n\nGENRES: garage rock, punk rock, post-punk revival, indie rock"
+  },
+  "metadata": {
+    "youtube_id": "jQvUBf5l7Vw",
+    "title_extracted": null,
+    "corpus_id": "jQvUBf5l7Vw",
+    "uploader": "Iggy Pop Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/jQvUBf5l7Vw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6156896,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.957675,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:19:52Z"
+  },
+  "status": "success",
+  "error": null
+}

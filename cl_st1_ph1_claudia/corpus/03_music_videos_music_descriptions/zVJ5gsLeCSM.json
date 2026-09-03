@@ -1,0 +1,38 @@
+{
+  "corpus_id": "zVJ5gsLeCSM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/zVJ5gsLeCSM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/zVJ5gsLeCSM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/zVJ5gsLeCSM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief intro featuring an acapella female vocal snippet set against atmospheric ambient noise, vinyl crackle, pitch-shifted vocal chops, and urban sound effects, including a subtle siren sweep and record scratches. At 0:16, a full beat drop initiates the main arrangement, establishing a mid-tempo 4/4 contemporary R&B groove defined by a punchy electronic kick drum, a crisp snare and clap on the backbeats, and active 16th-note electronic hi-hats. Harmonic support is provided by a repeating minor-key progression played on a warm, mellow synth electric piano, underlaid by a resonant synth bassline.\n\nA smooth, sultry female lead vocal takes center stage, delivering syncopated phrasing with polished clarity. The lead voice is processed with subtle room reverb, short delay, and smooth dynamic compression to keep it prominent and intimate in the center of the stereo field. As the track progresses into the hook and chorus sections, the vocal texture thickens significantly through wide stereo-panned harmonies, layered backing vocal stacks, and vocal ad-libs. \n\nThe overall groove remains steady and cohesive, with dynamic growth achieved primarily through vocal layering, soaring melodic embellishments, and subtle percussive fills. The timbre is sleek and modern, balancing tight, punchy drum transients with soft, warm keyboard chords. The stereo layout is well-balanced, keeping the low-end bass and lead vocal focused in the center while spreading hi-hats, harmonic synth textures, and backing vocals across the left and right channels. The mood remains confident, sensual, and smooth throughout, carrying the listener through repeated chorus cycles and melodic ad-libs to a polished conclusion.\n\nGENRES: R&B, Contemporary R&B, Pop"
+  },
+  "metadata": {
+    "youtube_id": "zVJ5gsLeCSM",
+    "title_extracted": null,
+    "corpus_id": "zVJ5gsLeCSM",
+    "uploader": "Bad Boy Entertainment",
+    "audio_file": "corpus/01_music_videos_audio/audio/zVJ5gsLeCSM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7047798,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.515425,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:49:11Z"
+  },
+  "status": "success",
+  "error": null
+}

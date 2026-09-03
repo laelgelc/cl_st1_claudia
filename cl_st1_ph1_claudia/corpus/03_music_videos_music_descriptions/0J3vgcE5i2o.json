@@ -1,0 +1,38 @@
+{
+  "corpus_id": "0J3vgcE5i2o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/0J3vgcE5i2o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/0J3vgcE5i2o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/0J3vgcE5i2o.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief spoken vocal exchange and a DJ vinyl scratch, dropping immediately into a warm, mid-tempo groove in 4/4 meter at around 92 BPM. The instrumental foundation consists of a punchy drum kit with snappy snares and crisp hi-hats, a thick, melodic synth bassline, subtle clean guitar rhythm chops, and warm electric piano pads. The vocal arrangement features a dynamic back-and-forth duet between a smooth, conversational male rap vocal and a melodic, soul-inflected female lead singer. \n\nDuring the verses, the dynamic level remains moderate, allowing the dual vocal dialogue to sit cleanly in the center of the stereo field with light reverb and delay processing. At 0:38, the track expands into a fuller chorus section, marked by an increase in dynamic intensity, multi-tracked female vocal harmonies, and punchy horn stabs panned across the stereo field. The groove maintains a consistent, laid-back bounce driven by syncopated bass movement and steady kick-snare patterns.\n\nA second verse follows at 1:10, where the texture thins slightly to highlight the rhythmic phrasing of the male and female lead vocals. The vibrant chorus section returns at 1:45 with full vocal stacks and brass accents before giving way to a bridge section at 2:18 that blends conversational spoken ad-libs with warm keyboard accompaniment. \n\nAround 3:24, the vocal elements recede, signaling a distinct transition into an instrumental outro section. Here, the arrangement centers on a soul-funk rhythm guitar riff, playing expressive, syncopated melodies over a relaxed bass and drum groove. The track closes on this smooth instrumental vamp, maintaining a warm, upbeat, and nostalgic mood throughout.\n\nGENRES: R&B, Contemporary R&B, Hip-Hop, Neo-Soul, Funk"
+  },
+  "metadata": {
+    "youtube_id": "0J3vgcE5i2o",
+    "title_extracted": null,
+    "corpus_id": "0J3vgcE5i2o",
+    "uploader": "Nelly Furtado",
+    "audio_file": "corpus/01_music_videos_audio/audio/0J3vgcE5i2o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7767060,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.971996,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:51:41Z"
+  },
+  "status": "success",
+  "error": null
+}

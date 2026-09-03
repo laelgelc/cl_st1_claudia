@@ -1,0 +1,38 @@
+{
+  "corpus_id": "01YePzk29Mc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/01YePzk29Mc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/01YePzk29Mc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/01YePzk29Mc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins abruptly with a piercing, high-pitched scream effect that instantly transitions into a fast-tempo, upbeat 1960s pop-rock groove set in a driving 4/4 meter. The foundational rhythm section is established by a prominent, walking bassline, a steady drum kit featuring a sharp snare backbeat, handclaps, and rhythmic electric guitar chops, punctuated by dramatic brass stabs from a horn section of saxophones and trumpets.\n\nA lively, expressive female lead vocal enters, delivering melodic phrases with a bright, theatrical timbre and strong dynamic presence. She is closely supported by a choir of female backing vocalists singing tight, harmonized call-and-response figures and rhythmic vocal accents. The audio mix exhibits a vintage sonic signature, characterized by warm analog compression, narrow stereo imaging, and lush plate or spring reverb applied to both the vocals and brass, creating a dense, mono-leaning mix texture.\n\nAs the song proceeds into its main chorus, the sonic density increases through syncopated brass hits and heightened vocal dynamics. The bright, major-key tonality and driving pulse maintain an exuberant, nostalgic mood. Midway through, the driving instrumentation suddenly drops away into a spoken-word interlude, where female group members engage in conversational dialogue over a stripped-back rhythm section of isolated bass and drums.\n\nFollowing this breakdown, the full instrumental and vocal ensemble returns with elevated intensity, repeating the chorus with blaring horn counter-melodies, active basslines, and passionate lead vocal belting. The percussion maintains a steady, danceable momentum throughout. In the final section, the main musical track fades, giving way to a spoken dialogue scene accompanied by informal group chatter, giggling, and energetic, high-pitched shrieks before the recording ends.\n\nGENRES: Pop, Doo-Wop, Rock & Roll, Girl Group"
+  },
+  "metadata": {
+    "youtube_id": "01YePzk29Mc",
+    "title_extracted": null,
+    "corpus_id": "01YePzk29Mc",
+    "uploader": "ferstday",
+    "audio_file": "corpus/01_music_videos_audio/audio/01YePzk29Mc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3939668,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.350846,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:42:36Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "8ZTcgmzSRzI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8ZTcgmzSRzI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/8ZTcgmzSRzI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/8ZTcgmzSRzI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with high-density audience applause, whistling, and screaming, overlaid by a spoken introduction from a host speaking through a clean microphone. A big band jazz ensemble enters shortly after, establishing a medium-fast swing tempo in a 4/4 meter. The rhythm section features a walking acoustic bass, syncopated piano comping, and swing drumming with crisp ride cymbal patterns and snare accents. A brass and woodwind section provides lush harmonic swells and rhythmic stabs.\n\nA male lead vocalist enters, singing in a smooth, crooned jazz style characterized by clear diction, controlled vibrato, and a resonant, mid-range timbre. The mix places the lead vocal prominently in the center with mild reverberation, while the brass and saxophones are panned across the stereo field. The texture remains homophonic throughout the verse and chorus sections, anchored by the driving bassline and brass call-and-response figures.\n\nAs the performance progresses past the halfway mark, the dynamic level rises. The brass section plays punchier, syncopated stabs that interlock with energetic drum fills and background audience cheers. The vocalist responds with heightened dynamic intensity, shifting from a relaxed croon to a belted delivery on sustained notes. The harmony follows classic swing progressions, maintaining a bright, major-key tonal character.\n\nThe song reaches a musical climax with an extended vocal flourish set against a brass crescendo, concluding on an emphatic, syncopated final chord hit from the full band. Immediately following the last note, the audience breaks into enthusiastic cheering and applause. The recording finishes with a brief, spoken dialogue between the host and the performer, set against ambient hall acoustics and background crowd noise.\n\nGENRES: Big Band, Swing, Traditional Pop, Vocal Jazz, Live Performance"
+  },
+  "metadata": {
+    "youtube_id": "8ZTcgmzSRzI",
+    "title_extracted": null,
+    "corpus_id": "8ZTcgmzSRzI",
+    "uploader": "NRRArchives",
+    "audio_file": "corpus/01_music_videos_audio/audio/8ZTcgmzSRzI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8274556,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.141345,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:15:25Z"
+  },
+  "status": "success",
+  "error": null
+}

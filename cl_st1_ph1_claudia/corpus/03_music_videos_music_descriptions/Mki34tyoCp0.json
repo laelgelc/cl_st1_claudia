@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Mki34tyoCp0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Mki34tyoCp0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Mki34tyoCp0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Mki34tyoCp0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The piece opens with a festive introductory motif featuring upbeat accordion vamps, brass swells, and a crisp drum fill that establishes a bouncy, fast-tempo ska and polka-infused folk-rock groove in a bright major key and 4/4 meter. The underlying rhythm is defined by tight off-beat acoustic guitar and accordion strumming spread across the stereo field, a driving bassline, and energetic drumming with sharp snare backbeats.\n\nA group vocal ensemble introduces the musical theme with harmonized multi-tracked chants before transitioning into the first verse. Here, a solo male lead vocal enters with a rustic, conversational folk delivery positioned centrally in the mix. The verse arrangement becomes slightly more transparent, highlighting the syncopated bass notes, light percussion, and rhythmic chord chops.\n\nAs the track moves into the main chorus, the dynamics swell and the texture expands significantly. Multi-voiced male backing vocals reinforce the anthemic melodic refrain, supported by warm room reverb that enhances the feeling of a live communal recording. An upbeat instrumental interlude features a melodic accordion solo playing in tandem with rhythm guitar riffs, maintaining the brisk momentum and cheerful timbre.\n\nThe performance smoothly alternates between lead-driven verses and energetic choruses. In the extended outro, the energy reaches a dynamic peak as informal spoken callouts and group sing-alongs join the continuous vocal refrain. Brass flourishes and accordion countermelodies weave throughout the mix, building a dense, celebratory polyphonic texture that slowly fades out at the conclusion.\n\nGENRES: Ska, Folk Rock, Polka, Pop Rock, World Fusion"
+  },
+  "metadata": {
+    "youtube_id": "Mki34tyoCp0",
+    "title_extracted": null,
+    "corpus_id": "Mki34tyoCp0",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/Mki34tyoCp0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7187490,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 26.26225,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:15:30Z"
+  },
+  "status": "success",
+  "error": null
+}

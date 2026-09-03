@@ -1,0 +1,38 @@
+{
+  "corpus_id": "QhW3P7_jvWY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/QhW3P7_jvWY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/QhW3P7_jvWY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/QhW3P7_jvWY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens in a moderate-tempo 4/4 time signature with a warm, clean electric guitar playing rhythmic chord vamps and melodic fingerpicked fills. A soft drum groove featuring crisp rimshots, gentle hi-hats, and a steady kick enters alongside a rounded, syncopated electric bassline, establishing a smooth, laid-back R&B groove. \n\nAt 0:36, expressive lead male vocals enter, featuring a soulful tone, natural vibrato, and tasteful spatial reverb. Stereo-panned backing vocal harmonies quickly join, creating a lush, full texture during the opening chorus section over warm major and minor chord progressions. The arrangement relaxes into a lighter verse structure around 1:00, where the lead vocal takes center stage over an understated accompaniment of rhythmic guitar strums and a solid bass and drum foundation.\n\nDynamic energy builds through the pre-chorus into a powerful second chorus at 1:36. Here, the lead vocalist sings in a higher register with emotive melismas and dynamic jumps, answered by structured backing vocal harmonies. At 2:22, the song transitions into an instrumental bridge featuring an extended electric guitar solo. The solo exhibits a warm, overdrive-tinged timbre with bluesy pitch bends, sustained phrasing, and subtle delay effects, supported by the steady rhythm section.\n\nThe full ensemble returns to the main chorus theme at 3:09 with increased intensity. From 3:50 through the end of the recording, the track transitions into an extended outro vamp. The lead vocalist delivers passionate, high-register ad-libs and vocal improvisations in call-and-response with the backing vocal section, while the rhythm guitar and drum kit maintain an energetic, driving groove as the sound gradually fades out.\n\nGENRES: Soul, R&B, Neo-Soul"
+  },
+  "metadata": {
+    "youtube_id": "QhW3P7_jvWY",
+    "title_extracted": null,
+    "corpus_id": "QhW3P7_jvWY",
+    "uploader": "Earth Wind & Fire",
+    "audio_file": "corpus/01_music_videos_audio/audio/QhW3P7_jvWY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11108504,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.874066,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:26:01Z"
+  },
+  "status": "success",
+  "error": null
+}

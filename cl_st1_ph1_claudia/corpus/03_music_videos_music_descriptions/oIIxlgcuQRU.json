@@ -1,0 +1,38 @@
+{
+  "corpus_id": "oIIxlgcuQRU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oIIxlgcuQRU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/oIIxlgcuQRU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/oIIxlgcuQRU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with studio ambient chatter and spoken technical cues, accompanied by rhythmic electronic test bleeps and a slate clapper sound. At 0:28, a high-pitched, pulsing synth melody introduces the music, leading directly into a full drum roll at 0:42 that establishes an upbeat, mid-tempo groove in 4/4 meter. The instrumental arrangement features a punchy drum kit with active hi-hats, a warm driving bassline, strummed acoustic and electric rhythm guitars, and subtle organ chords set in a bright major key.\n\nAt 0:58, a female lead vocal enters with a smooth, expressive delivery, positioned prominently in the center of the stereo mix with subtle ambient reverb and delay. Rhythm guitars are panned across the stereo field, creating a spacious texture, while the bass and kick drum anchor the low frequency center. The track flows dynamically through a verse into a driving chorus marked by expanded instrumental density and soaring vocal melodies.\n\nAfter a second verse and chorus structure, an overdriven electric guitar solo emerges at 2:25, featuring expressive pitch bends and vibrato over the persistent rhythm section. A brief dynamic breakdown at 2:43 drops the instrumental layer, creating suspense before building back into a climactic final chorus at 2:58. In this section, vocal energy peaks alongside dramatic drum fills and soaring guitar counter-melodies. The piece transitions into a high-energy outro driven by persistent drumming and lead guitar flourishes, ultimately resolving on an accented final beat and ringing guitar decay at 3:48. The track exhibits a polished production style with an optimistic, driving, and upbeat emotional character.\n\nGENRES: Indie Pop, Pop Rock, Indie Rock"
+  },
+  "metadata": {
+    "youtube_id": "oIIxlgcuQRU",
+    "title_extracted": null,
+    "corpus_id": "oIIxlgcuQRU",
+    "uploader": "yeahyeahyeahsmusic",
+    "audio_file": "corpus/01_music_videos_audio/audio/oIIxlgcuQRU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8328798,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.967782,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:33:38Z"
+  },
+  "status": "success",
+  "error": null
+}

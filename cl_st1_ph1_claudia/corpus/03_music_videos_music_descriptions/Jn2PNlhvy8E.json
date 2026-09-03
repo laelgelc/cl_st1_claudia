@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Jn2PNlhvy8E",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Jn2PNlhvy8E.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Jn2PNlhvy8E.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Jn2PNlhvy8E.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track begins with a high-energy introduction featuring a full rhythm section, bright syncopated horn stabs, and an energetic, expressive vocal call inviting the listener to dance. Driven by an upbeat 4/4 tempo, the groove features a swinging drum pattern with crisp snare snaps and steady hi-hats, paired with a punchy electric bassline and rhythmic guitar strumming. The overall production carries a warm, vintage analog quality with subtle room reverberation and panning that spreads the horn section across the stereo field.\n\nFollowing the energetic opening, the texture thins momentarily to emphasize a rhythmic vocal mouth-percussion pattern over the continuous drum beat. The track then enters an additive arrangement structure, where lead vocalists sequentially introduce each instrumental layer. First, the drums take center stage with a driving groove, followed by an electric guitar playing a rhythmic, bluesy funk riff. Next, a deep baritone vocal announces the bass, which steps forward with a prominent, warm low-end line. \n\nA female vocalist then introduces a vintage organ, adding rich mid-range chordal swells and rhythmic stabs. Finally, the vocalists call upon the brass section, prompting a powerful return of bright trumpets, saxophones, and trombones playing syncopated fanfares and soaring high notes. Throughout this building sequence, dynamic intensity steadily increases, augmented by vocal ad-libs, call-and-response harmonies, and enthusiastic shouts.\n\nA driving section follows, featuring gritty guitar riffs and punchy brass countermelodies beneath expressive vocal interjections. The groove briefly returns to the rhythmic vocal breakdown before rising into a climactic finale where all vocalists, brass, organ, guitar, bass, and drums play together at peak volume and full, saturated texture. The recording concludes in a spirited ensemble jam that gradually fades out.\n\nGENRES: soul, funk, psychedelic soul, rhythm and blues"
+  },
+  "metadata": {
+    "youtube_id": "Jn2PNlhvy8E",
+    "title_extracted": null,
+    "corpus_id": "Jn2PNlhvy8E",
+    "uploader": "Sly & The Family Stone",
+    "audio_file": "corpus/01_music_videos_audio/audio/Jn2PNlhvy8E.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5764572,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.491534,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:00:03Z"
+  },
+  "status": "success",
+  "error": null
+}

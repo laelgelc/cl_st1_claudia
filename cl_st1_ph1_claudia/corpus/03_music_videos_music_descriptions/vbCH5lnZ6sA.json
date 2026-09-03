@@ -1,0 +1,38 @@
+{
+  "corpus_id": "vbCH5lnZ6sA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/vbCH5lnZ6sA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/vbCH5lnZ6sA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/vbCH5lnZ6sA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a cinematic, theatrical flourish featuring a harp glissando, shimmering chimes, and a swelling brass and string fanfare. At 0:05, a bright, driving 4/4 pop-soul groove is established, propelled by an energetic drum kit, syncopated bassline, strummed rhythm guitar, and a lush orchestral backdrop of soaring strings and brass stabs. Polished ensemble vocals enter shortly after, delivering lush, tight harmonies over an upbeat harmonic progression.\n\nAt 0:40, a dynamic drum fill leads into a powerful, triumphant chorus where punchy horn stabs emphasize the downbeats while high string counter-melodies swell across the stereo field. The song transitions smoothly into a melodic B-section characterized by legato strings and warm bass tones before repeating the verse and chorus cycles with growing intensity and consistent, energetic dynamics.\n\nA major structural shift occurs at 2:22 as the composition transitions into a joyous, gospel-soul vamp. The groove becomes markedly funkier, driven by syncopated basslines, rhythm guitar, and energetic percussion. The backing vocal ensemble sings a repetitive, uplifting choir motif, creating a foundation for a soulful, raspy male lead vocalist who enters with improvised, highly expressive ad-libs. This vocal performance becomes increasingly passionate and intense, featuring dynamic belting, vocal rasps, and bluesy ornamentation.\n\nThroughout the vamp, the instrumental arrangement remains dense and driving, with brass accents interjecting between vocal phrases. The mix maintains a classic late-1960s production style with dry, punchy rhythm section elements centered in the soundstage, flanked by wide stereo strings and vocal harmonies enriched with subtle room reverb. The track maintains a triumphant, ecstatic mood, building continuous energy until a sudden, clean ensemble cutoff at the conclusion.\n\nGENRES: Sunshine Pop, Psychedelic Soul, Pop Rock, Musical Theatre, Gospel"
+  },
+  "metadata": {
+    "youtube_id": "vbCH5lnZ6sA",
+    "title_extracted": null,
+    "corpus_id": "vbCH5lnZ6sA",
+    "uploader": "MrHaagsesjonny1",
+    "audio_file": "corpus/01_music_videos_audio/audio/vbCH5lnZ6sA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9548866,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 7.186608,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:59:59Z"
+  },
+  "status": "success",
+  "error": null
+}

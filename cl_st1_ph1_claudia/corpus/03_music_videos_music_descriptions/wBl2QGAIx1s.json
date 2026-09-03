@@ -1,0 +1,38 @@
+{
+  "corpus_id": "wBl2QGAIx1s",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wBl2QGAIx1s.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/wBl2QGAIx1s.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/wBl2QGAIx1s.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a theatrical audio narrative featuring crowd ambient noise, comedic spoken dialogue, and dramatic sci-fi sound effects, including simulated engine revving and high-pitched synth swooshes. Mid-tempo upbeat background music plays faintly before stage announcements and enthusiastic applause introduce the main performance.\n\nA dramatic sci-fi sound effect transitions directly into a vibrant, up-tempo pop-rock song set in a steady 4/4 meter. The groove is driven by a tight rhythm section comprising a punchy drum kit with a prominent kick and snare backbeat, an active bassline, and muted, funk-style rhythm electric guitar strumming. Bright horn stabs and chorus-effected synthesizer chords punctuate the harmonic shifts. A raspy, soulful male lead vocalist enters with an energetic, grit-infused delivery, enhanced by light reverb and subtle slapback delay. Multi-part male harmony vocals join during the chorus sections, enhancing the track's polished, wide stereo image.\n\nFollowing a standard verse-chorus structure, the arrangement moves into a transitional bridge where the instrumental texture thins slightly, placing focus on warm keyboard pads and call-and-response vocal lines. This leads into a prominent electric guitar solo featuring heavy overdrive, bluesy string bends, vibrato, and scalar runs, accompanied by the driving bass and drums. The energy peaks during the final chorus through heightened vocal ad-libs, dense brass accents, and full-ensemble dynamics, climaxing on an abrupt chord hit. The music then gives way to futuristic mechanical sound effects, brief spoken dialogue, and a final tape-stop sound effect.\n\nGENRES: Pop Rock, Funk Rock, Synth-Pop, Blues Rock"
+  },
+  "metadata": {
+    "youtube_id": "wBl2QGAIx1s",
+    "title_extracted": null,
+    "corpus_id": "wBl2QGAIx1s",
+    "uploader": "hueylewisofficial",
+    "audio_file": "corpus/01_music_videos_audio/audio/wBl2QGAIx1s.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 12122010,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.926704,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:04:16Z"
+  },
+  "status": "success",
+  "error": null
+}

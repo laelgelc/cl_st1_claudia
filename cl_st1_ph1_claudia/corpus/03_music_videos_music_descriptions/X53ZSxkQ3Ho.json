@@ -1,0 +1,38 @@
+{
+  "corpus_id": "X53ZSxkQ3Ho",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/X53ZSxkQ3Ho.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/X53ZSxkQ3Ho.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/X53ZSxkQ3Ho.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a spoken dialogue performed by two female voices set against minimal ambient background sound, establishing a narrative prelude. At 0:17, an energetic drum beat enters featuring a punchy kick, crisp snare, and steady hi-hat pattern, quickly joined by rhythmic turntable scratching, brass-like synth stabs, and a deep, buoyant synth bassline. This sets up an upbeat, danceable groove in a steady 4/4 meter at a medium-fast tempo.\n\nAt 0:31, a dynamic male lead vocal enters, delivering fast, syncopated rap verses. The lead vocal is recorded close-miked with a direct, dry presence and centered stereo positioning, periodically punctuated by pitched vocal samples and brief interjections. The dynamic level rises in the chorus sections, which feature energetic call-and-response chants, vocal hook repeats, aggressive turntable scratching, and wide-panned synthesizer stabs.\n\nThroughout the verses, the texture is dense yet clearly articulated, driven by the persistent breakbeat rhythm, punchy bass hits, and bright brass-style synth stabs that highlight syncopated accents. Turntable scratching serves both as a rhythmic counterpoint and as a primary transitional device between vocal phrases. \n\nThe recording maintains a bright, humorous, and high-energy mood, supported by a punchy low-end response, crisp percussive clarity, and a wide stereo soundstage that places backing vocals and turntable effects across the left and right channels while keeping the kick drum, bass, and main rap delivery firmly in the center. The arrangement moves through alternating verse and chorus sections before resolving with repeated vocal hook iterations, heavy scratching, and a final rhythmic cadence.\n\nGENRES: Hip-Hop, Pop Rap, Electro, Funk-Pop"
+  },
+  "metadata": {
+    "youtube_id": "X53ZSxkQ3Ho",
+    "title_extracted": null,
+    "corpus_id": "X53ZSxkQ3Ho",
+    "uploader": "SirMixAlotChannel",
+    "audio_file": "corpus/01_music_videos_audio/audio/X53ZSxkQ3Ho.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8108858,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.585144,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:41:29Z"
+  },
+  "status": "success",
+  "error": null
+}

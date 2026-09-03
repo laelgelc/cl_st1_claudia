@@ -1,0 +1,38 @@
+{
+  "corpus_id": "16u6w0cjjrU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/16u6w0cjjrU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/16u6w0cjjrU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/16u6w0cjjrU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a rhythmic, blues-infused electric guitar riff playing a syncopated motif characterized by a warm, slightly overdriven tone with subtle spring reverb. It is quickly anchored by a driving 4/4 drum kit laying down a solid backbeat on two and four, alongside a syncopated, walking electric bassline that establishes a steady mid-tempo soul groove. An electric organ and a tight brass section featuring trumpets and saxophones soon enter, providing punchy accents and harmonic pad layers in the mid-range.\n\nA soulful male lead vocalist takes center stage with a powerful, raspy, and gospel-influenced delivery. His performance is highly dynamic, featuring expressive vocal slides, raspy belts, and spontaneous shouts. In the chorus sections, a chorus of female backing vocalists enters, establishing an energetic call-and-response structure with the lead singer. The dynamic level rises during these chorus sections as the brass section delivers sharp, syncopated stabs that punctuate the vocal phrases.\n\nThe production carries a vintage analog character with natural room acoustics and light tape saturation. The stereo image positions the lead vocals cleanly in the center, while the rhythm guitar, organ, and horn section are distributed across the left and right channels to create a balanced, wide spatial image. Subtle slapback delay and natural room reverb give the instruments a live ensemble atmosphere.\n\nStructurally, the piece alternates between narrative verses and high-energy call-and-response choruses, maintained by a consistent pocket groove and subtle dynamic builds. The overall mood is vibrant, danceable, and upbeat, delivering a quintessential rhythm and blues feel throughout.\n\nGENRES: Soul, Rhythm & Blues, Funk"
+  },
+  "metadata": {
+    "youtube_id": "16u6w0cjjrU",
+    "title_extracted": null,
+    "corpus_id": "16u6w0cjjrU",
+    "uploader": "vjwalleum",
+    "audio_file": "corpus/01_music_videos_audio/audio/16u6w0cjjrU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5939186,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 26.849185,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:43:26Z"
+  },
+  "status": "success",
+  "error": null
+}

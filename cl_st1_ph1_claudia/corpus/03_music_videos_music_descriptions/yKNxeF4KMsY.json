@@ -1,0 +1,38 @@
+{
+  "corpus_id": "yKNxeF4KMsY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yKNxeF4KMsY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/yKNxeF4KMsY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/yKNxeF4KMsY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a solo acoustic guitar playing an arpeggiated fingerpicking pattern in a moderate 4/4 meter. The guitar timbre is bright yet warm, setting a relaxed, introspective tempo. At around 0:13, the full band enters via a snare drum fill, establishing a steady mid-tempo groove driven by a acoustic-electric rhythm section, a resonant bass guitar, and ringing cymbal accents.\n\nA clean, intimate male lead vocal enters at 0:35, positioned prominently in the center of the stereo mix with subtle ambient reverb. The vocal delivery is conversational and melodic, supported by strummed acoustic guitar chords, soft hi-hat percussion, and a steady bassline. As the track transitions into the chorus at 1:28, the dynamic level swells: the vocal rises in pitch and intensity, the drum kit expands with heavier snare and crash cymbal hits, and layered guitars spread across the stereo field to create a fuller texture.\n\nAfter a brief instrumental interlude driven by upbeat strumming and active basswork, a second verse at 2:15 maintains the mid-tempo rock pulse. The musical arrangement builds momentum towards a high-energy climactic section starting around 2:52. Here, the lead singer shifts into a higher register with noticeable emotional strain and passion, backed by driving drum rhythms, open cymbals, and dense guitar layers. \n\nFrom 3:15 onwards, the song sustains its peak dynamic level as a repeated vocal refrain loops over a wide, room-filling backdrop of strummed guitars and steady drum beats in a uplifting major-key tonality. At 4:11, the full instrumentation abruptly strips back, returning to a delicate, close-miked acoustic guitar figure and a hushed vocal phrase. The recording ends quietly as a final acoustic chord slowly decays into silence.\n\nGENRES: acoustic pop, indie rock, alternative rock"
+  },
+  "metadata": {
+    "youtube_id": "yKNxeF4KMsY",
+    "title_extracted": null,
+    "corpus_id": "yKNxeF4KMsY",
+    "uploader": "Coldplay",
+    "audio_file": "corpus/01_music_videos_audio/audio/yKNxeF4KMsY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8712206,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:23:25Z"
+  },
+  "status": "success",
+  "error": null
+}

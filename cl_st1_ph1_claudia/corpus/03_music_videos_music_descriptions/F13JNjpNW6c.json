@@ -1,0 +1,38 @@
+{
+  "corpus_id": "F13JNjpNW6c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/F13JNjpNW6c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/F13JNjpNW6c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/F13JNjpNW6c.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an energetic, rapid non-lexical vocal call accompanied by a drum fill and piano strike, immediately launching into a fast-tempo, driving 4/4 groove. The ensemble features a gritty, highly expressive male lead vocal, a bass maintaining a steady walking line, a boogie-woogie piano providing rapid rhythmic chugging chords, and a dynamic drum kit driving the backbeat with sharp snare hits and crash cymbals. Tenor saxophone accents periodically punch through the texture, adding brassy, syncopated thrusts behind the vocal phrases.\n\nThe overarching structure follows a fast-paced twelve-bar blues harmonic framework across repeating verse and chorus cycles. The vocal delivery is exceptionally dynamic and athletic, characterized by a raspy, high-volume chest register, falsetto squeals, and syncopated rhythmic phrasing. The audio presentation reflects a vintage analog recording style with a centered sonic image, modest natural room ambience, and subtle harmonic saturation that imparts warmth and grit to the ensemble.\n\nAround the middle of the track, a prominent tenor saxophone solo assumes the melodic lead. The saxophonist utilizes a raw, growling tone and blues-inflected pitch bends while the piano, bass, and drums maintain their relentless, driving pulse underneath. Following the solo, the lead singer re-enters with intense energy for a final set of verse and chorus sections. The performance culminates in a restatement of the signature rhythmic vocal call before resolving on an emphatic, tightly coordinated final full-band stop. The mood is persistently wild, exuberant, and highly kinetic, sustained by unwavering rhythmic momentum and a dense, blues-grounded texture.\n\nGENRES: Rock and Roll, Rhythm and Blues, Jump Blues, Boogie Woogie"
+  },
+  "metadata": {
+    "youtube_id": "F13JNjpNW6c",
+    "title_extracted": null,
+    "corpus_id": "F13JNjpNW6c",
+    "uploader": "Darwinner",
+    "audio_file": "corpus/01_music_videos_audio/audio/F13JNjpNW6c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4615090,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.759647,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:41:07Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "TR3Vdo5etCQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/TR3Vdo5etCQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/TR3Vdo5etCQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/TR3Vdo5etCQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an atmospheric soundscape composed of wind, flowing water, low synth rumbles, and delicate panned whispers, setting a reflective and intimate mood. At 0:28, a warm, rhythmic acoustic guitar enters in 4/4 meter at a relaxed mid-tempo pace, strumming a reflective chord progression. A clear, intimate female lead vocal enters shortly after, positioned prominently in the center of the stereo field with subtle room reverb, delivering a soft melody over the acoustic guitar.\n\nAt 1:13, the soundscape dynamically expands into a full pop-rock arrangement with the entry of a steady drum kit groove, crisp snare, and a warm electric bass guitar anchoring the low end. The lead vocal rises in emotional intensity and dynamic projection, reinforced by doubled backing harmonies that widen the stereo field. The texture thins at 1:38 for a brief, quieter second verse driven primarily by acoustic guitar, before re-expanding into an energetic second chorus at 1:51 accompanied by ambient synth swells and full rhythm section support.\n\nThe arrangement leads into a bridge section that culminates in an expressive electric guitar solo at 2:40. The electric guitar exhibits an overdriven tone with wide bends and moderate delay, backed by strummed acoustic guitar, bass, and a steady rock beat. Following a brief drop in dynamic intensity at 3:07, the track climbs to its energetic climax in the final chorus at 3:17. Here, the lead vocal delivers soaring upper-register ad-libs alongside rich vocal harmonies, active drum fills, and melodic electric guitar fills. \n\nDuring the outro, the vocal vamps alongside bluesy electric guitar embellishments over the driving rhythm section. The musical instruments fade out around 4:48, leaving the ambient soundscape of wind and rain to slowly taper into silence.\n\nGENRES: Acoustic Pop, Pop Rock, Singer-Songwriter"
+  },
+  "metadata": {
+    "youtube_id": "TR3Vdo5etCQ",
+    "title_extracted": null,
+    "corpus_id": "TR3Vdo5etCQ",
+    "uploader": "No Doubt",
+    "audio_file": "corpus/01_music_videos_audio/audio/TR3Vdo5etCQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9632830,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.598371,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:33:52Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "1lWJXDG2i0A",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/1lWJXDG2i0A.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/1lWJXDG2i0A.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/1lWJXDG2i0A.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The piece opens with a warm, strummed acoustic guitar playing a repeating major-key chord progression in a steady 4/4 meter at a moderate, relaxed tempo. Shortly into the intro, a clear, mid-range male lead vocal enters, delivering a narrative melody with a smooth yet slightly raspy timbre. The initial texture remains intimate and sparse, driven primarily by the acoustic guitar chords and lead vocal.\n\nAt 0:37, a full rhythm section enters with a crisp drum fill, introducing a grounded kick-and-snare groove alongside a warm bass guitar and subtle electric guitar accents. This marks a significant dynamic shift as the texture expands into a full rock arrangement. The chorus section follows at 1:05, characterized by a dynamic surge and the addition of lush, multi-part vocal harmonies that stack behind the lead voice across the stereo field, creating an expansive, uplifting feel.\n\nThroughout the subsequent verses and choruses, the performance maintains a consistent, driving mid-tempo groove. The stereo mix places acoustic rhythm guitars toward the sides, while the bass and drum kit anchor the center along with the lead vocals. Subtle reverb and light spatial delay enhance the lead vocal, giving it depth while preserving its presence. Electric guitars contribute gentle, resonant licks and melodic counterlines in the mid-to-background, enriched with slight chorus and soft overdrive.\n\nA transitional section around 2:37 introduces a heightened emotional intensity, with the lead vocalist singing higher in his register while ambient vocal harmonies and steady percussion sustain the momentum. The track culminates in an extended, high-energy chorus sequence where lead and backing vocals interact over the full band arrangement, embellished by electric guitar flourishes. The music gradually fades out while the full ensemble continues playing the repeating chord cycle, maintaining an uplifting and nostalgic atmosphere.\n\nGENRES: Folk Rock, Heartland Rock, Pop Rock, Singer-Songwriter"
+  },
+  "metadata": {
+    "youtube_id": "1lWJXDG2i0A",
+    "title_extracted": null,
+    "corpus_id": "1lWJXDG2i0A",
+    "uploader": "Tom Petty & The Heartbreakers",
+    "audio_file": "corpus/01_music_videos_audio/audio/1lWJXDG2i0A.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8151212,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 12.091643,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:59:44Z"
+  },
+  "status": "success",
+  "error": null
+}

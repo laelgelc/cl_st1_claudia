@@ -1,0 +1,38 @@
+{
+  "corpus_id": "wXTJBr9tt8Q",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wXTJBr9tt8Q.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/wXTJBr9tt8Q.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/wXTJBr9tt8Q.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with the ambient sound of a large live audience cheering and screaming warmly. A spoken introduction by a male speaker over a microphone with mild venue reverb introduces the piece, accompanied by enthusiastic audience reactions. At approximately 0:23, a solo acoustic guitar enters, playing a brief chordal motif in a gentle 4/4 meter at a slow, contemplative ballad tempo.\n\nAt 0:26, a solo male lead vocal enters, delivering an intimate, expressive melody accompanied exclusively by the acoustic guitar, which provides a steady mix of fingerpicking and gentle strumming. The vocal timbre is clear, melodic, and resonant, featuring the natural reverberant acoustics of a large auditorium. High-pitched audience screams remain audible softly in the background throughout the performance.\n\nHarmonically, the song utilizes a bittersweet, melancholic major-key chord progression characteristic of acoustic pop and folk ballads. The dynamic balance remains intimate throughout, fluctuating subtly with the emotional contours of the vocal delivery. The musical structure flows through a repeating verse-bridge format; during the bridge sections, the vocal melody ascends into a higher, more emotionally charged register before resolving back to the reflective verse theme.\n\nIn the final section, the lead vocal transitions into a soft, hummed vocal coda over lingering acoustic guitar chords. The performance concludes on a quiet final guitar chord, immediately triggering a massive surge of enthusiastic applause, cheering, and screaming from the live crowd. The stereo field places the centered lead vocal and acoustic guitar prominently in the foreground, surrounded by the spacious, ambient venue acoustics characteristic of a vintage live concert recording.\n\nGENRES: Pop, Folk Ballad, Acoustic Pop, Live Recording"
+  },
+  "metadata": {
+    "youtube_id": "wXTJBr9tt8Q",
+    "title_extracted": null,
+    "corpus_id": "wXTJBr9tt8Q",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/wXTJBr9tt8Q.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4892244,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.04658,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:08:58Z"
+  },
+  "status": "success",
+  "error": null
+}

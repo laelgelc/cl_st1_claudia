@@ -1,0 +1,38 @@
+{
+  "corpus_id": "3AtDnEC4zak",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/3AtDnEC4zak.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/3AtDnEC4zak.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/3AtDnEC4zak.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief ambient sweep and an acoustic guitar motif before establishing an upbeat dance-pop groove in a steady 4/4 meter at a moderate-fast tempo. The rhythm section is driven by a punchy four-on-the-floor kick drum, crisp off-beat hi-hats, electronic snaps and claps, and a warm, bouncy synth bassline. Bright acoustic guitar strumming and delicate fingerpicked motifs provide a vibrant harmonic foundation alongside subtle background synth pads.\n\nLead vocals alternate between a clear male voice and a smooth female voice, trading verse lines before joining in layered harmonies during the choruses. Vocal processing is highly refined, utilizing pitch stabilization, tight dynamic compression, and subtle stereo delay and reverb effects. Sliced and pitch-shifted vocal chops function as melodic hooks throughout the chorus sections.\n\nThe arrangement follows a clear verse-chorus structure with dynamic contrast. Verses reduce the drum weight to highlight the lead vocals and acoustic guitar, while choruses introduce full drum instrumentation, synth fills, and wide backing vocals. Around two minutes and nineteen seconds in, the full beat drops out into a breakdown section where gentle guitar chords, vocal duets, and a swelling drum roll build tension toward the final chorus. The track concludes as the energetic instrumentation gives way to a soft vocal whisper and trailing delay effect.\n\nThe production showcases a wide stereo layout with centered lead vocals, panned guitar accents, and expansive percussion spread across the stereo field. The harmonic character is consonant and melodic, instilling a bittersweet, energetic, and danceable mood throughout.\n\nGENRES: Dance-Pop, Tropical House, Electro-Pop, EDM"
+  },
+  "metadata": {
+    "youtube_id": "3AtDnEC4zak",
+    "title_extracted": null,
+    "corpus_id": "3AtDnEC4zak",
+    "uploader": "Charlie Puth",
+    "audio_file": "corpus/01_music_videos_audio/audio/3AtDnEC4zak.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7376222,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.457703,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:40:25Z"
+  },
+  "status": "success",
+  "error": null
+}

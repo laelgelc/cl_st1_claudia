@@ -1,0 +1,38 @@
+{
+  "corpus_id": "znDgBy2mHbc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/znDgBy2mHbc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/znDgBy2mHbc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/znDgBy2mHbc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a distinctive, high-pitched arpeggiated synth motif enhanced by rhythmic delay. A driving drum groove in a steady 4/4 meter quickly joins, featuring a crisp snare on beats two and four, paired with an articulated, octave-hopping electric bassline and clean rhythm guitar strums. The moderate-fast tempo creates an energetic, danceable synth-pop and new wave rock groove.\n\nA centered, clear male lead vocal enters for the verse, processed with subtle reverb and short delay, delivering a smooth yet rhythmic melody. The arrangement balances bright synth arpeggios, stereo-panned rhythm guitars, and a solid bass-and-drum foundation. Drum fill transitions usher in the chorus, where the overall dynamic level swells noticeably. Layered vocal harmonies reinforce the lead voice, while synth pads and strummed electric guitars expand across the stereo image to yield a dense, anthemic wall of sound.\n\nAn instrumental interlude reprises the opening arpeggiated motif before moving into subsequent verse and chorus sections. This leads to a prominent instrumental bridge featuring an overdriven electric guitar solo filled with bluesy bends, sustain, and fast melodic runs over the persistent rhythm section. The track culminates in a final chorus reprise with maximum dynamic energy, combining rich vocal harmonies, driving percussion, and soaring guitar chords before coming to a structured conclusion.\n\nThe mix presents a bright, polished late-20th-century pop-rock production style, characterized by crisp percussion, prominent low-end punch, and wide spatial panning. The emotional tone is confident, nostalgic, and driving, effectively uniting synth-pop shimmer with classic rock intensity.\n\nGENRES: Synth-Pop, New Wave, Pop Rock"
+  },
+  "metadata": {
+    "youtube_id": "znDgBy2mHbc",
+    "title_extracted": null,
+    "corpus_id": "znDgBy2mHbc",
+    "uploader": "Tears For Fears",
+    "audio_file": "corpus/01_music_videos_audio/audio/znDgBy2mHbc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8036784,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.243253,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:33:07Z"
+  },
+  "status": "success",
+  "error": null
+}

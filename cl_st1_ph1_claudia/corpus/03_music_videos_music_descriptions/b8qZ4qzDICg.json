@@ -1,0 +1,38 @@
+{
+  "corpus_id": "b8qZ4qzDICg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/b8qZ4qzDICg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/b8qZ4qzDICg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/b8qZ4qzDICg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a brief introductory figure led by strummed electric guitar and a drum pickup, rapidly resolving into a full, driving 4/4 ensemble arrangement at a brisk, upbeat tempo. The core rhythm section is propelled by an energetic drum kit with a pronounced snare backbeat and steady cymbal patterns, complemented by an active, warm bassline and strummed acoustic and clean electric rhythm guitars. A tambourine adds a crisp high-frequency pulse accentuating the main beats.\n\nA warm, energetic male lead vocal enters in the center of the stereo field, processed with a subtle vintage plate or slapback reverb. The vocal line is melodically dynamic, taking center stage over the buoyant rhythm section. As the piece progresses into the chorus section, layered male backing harmonies join, delivering melodic call-and-response phrases and sustained vocal pads that widen the stereo image and elevate the track's overall energy.\n\nAn instrumental bridge section features a bright, twangy electric lead guitar performing a melodic solo line over the continuous rhythm track. The lead vocal then re-engages, accompanied by increasingly exuberant backing vocals and driving rhythm section fills. The dynamic level remains consistently vibrant throughout, building toward the finale with expressive vocal ad-libs and a soaring high vocal exclamation near the end before the song finishes on a resonant final chord.\n\nHarmonically, the piece features diatonic, major-key chord progressions characteristic of mid-20th-century pop-rock, instilling a bright, uplifting atmosphere. The production features a wide stereo balance with rhythm guitars and backing vocals spread across the soundstage while the lead vocal, kick drum, snare, and bass guitar remain focused in the center. The overall mood is cheerful, nostalgic, and high-energy.\n\nGENRES: Folk Rock, Sunshine Pop, Pop Rock, Rock and Roll"
+  },
+  "metadata": {
+    "youtube_id": "b8qZ4qzDICg",
+    "title_extracted": null,
+    "corpus_id": "b8qZ4qzDICg",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/b8qZ4qzDICg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3793290,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 12.06314,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:21:16Z"
+  },
+  "status": "success",
+  "error": null
+}

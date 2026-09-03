@@ -1,0 +1,38 @@
+{
+  "corpus_id": "xwtdhWltSIg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/xwtdhWltSIg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/xwtdhWltSIg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/xwtdhWltSIg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with approximately eighteen seconds of ambient, non-musical sound effects, including aquatic splashing, bubbling water, drinking noises, and a metal spoon clinking against a container. At 00:18, an upbeat acoustic folk-rock arrangement abruptly begins in a steady 4/4 meter at a brisk, mid-tempo groove. The rhythm section features strummed acoustic guitars, a warm, fingerstyle electric bass guitar, steady drum set percussion with prominent hi-hat and snare work, and a tambourine adding rhythmic drive.\n\nA clear, expressive male lead vocal enters at 00:32, positioned centrally in the stereo mix with a subtle room reverb. His voice displays a mid-range, slightly raspy timbre, delivering a melody that is conversational yet emotionally intense. As the piece transitions from verse into chorus, a mandolin joins the mix, panned slightly off-center, contributing bright, counter-melodic fills and tremolo picking. Vocal harmonies layer over the primary melody during the chorus sections, broadening the harmonic texture and increasing the dynamic intensity.\n\nHarmonically, the track revolves around a diatonic minor-to-major progression typical of acoustic rock, conveying a bittersweet, reflective mood. The mix highlights clean acoustic timbres with clear stereo separation between the doubled rhythm guitars and lead accents.\n\nAt 03:08, an instrumental solo section features a prominent, plucked mandolin line supported by energetic strumming and driving drums. The piece moves into a final, impassioned chorus before tapering into a quiet, sparse coda at 04:09. The arrangement strips down to gentle acoustic guitar strumming, subtle bass notes, and an intimate, near-whispered vocal delivery. The performance decelerates slightly, concluding on a final resonant guitar chord that rings out until 04:42.\n\nGENRES: acoustic rock, folk rock, country rock, americana"
+  },
+  "metadata": {
+    "youtube_id": "xwtdhWltSIg",
+    "title_extracted": null,
+    "corpus_id": "xwtdhWltSIg",
+    "uploader": "remhq",
+    "audio_file": "corpus/01_music_videos_audio/audio/xwtdhWltSIg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9408432,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.785265,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:33:20Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "xU21gzEtmuw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/xU21gzEtmuw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/xU21gzEtmuw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/xU21gzEtmuw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a multi-layered doo-wop vocal intro in an upbeat 4/4 meter. Deep, rhythmic vocal bass notes alternate with harmonized group vocables chanting a syncopated, repetitive motif. A driving rhythm section enters alongside the vocals, establishing a swing-inflected R&B shuffle groove driven by a walking bassline, crisp snare backbeats on counts two and four, and rhythmic electric guitar comping.\n\nAt around fifteen seconds, an expressive male lead vocal enters, delivering a soulful performance marked by a raspy timbre, passionate dynamic swells, and bluesy pitch bends. The group backing vocals persist throughout, offering structured call-and-response phrases and warm vocal harmonies that respond directly to the lead vocal lines. Brief, bluesy electric guitar fills punctuate the ends of vocal phrases, adding harmonic embellishments.\n\nDuring the central sections, the dynamic intensity rises as the lead vocalist belts in a higher register with emotional urgency. The harmony follows a classic, major-key R&B chord progression with warm tonal character. The production style evokes a vintage analog recording aesthetic, featuring stereo panning—with the lead vocal positioned prominently in the center, flanked by backing vocal harmonies and comping guitars—alongside a natural room reverb that unifies the arrangement.\n\nIn the final section, the musical texture remains dense and energetic. The lead singer shifts toward melismatic ad-libs and soaring vocal declamations over the relentless shuffle rhythm. The opening doo-wop vocal motif re-emerges beneath the lead vocalist’s improvised phrases, reinforcing the cohesive structure of the arrangement. The track maintains its lively momentum through a gradual, smooth fade-out until the recording fades completely into silence.\n\nGENRES: Doo-Wop, Rhythm and Blues, Soul, Rock and Roll"
+  },
+  "metadata": {
+    "youtube_id": "xU21gzEtmuw",
+    "title_extracted": null,
+    "corpus_id": "xU21gzEtmuw",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/xU21gzEtmuw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4258432,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.838981,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:08:14Z"
+  },
+  "status": "success",
+  "error": null
+}

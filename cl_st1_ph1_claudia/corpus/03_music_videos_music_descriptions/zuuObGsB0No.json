@@ -1,0 +1,38 @@
+{
+  "corpus_id": "zuuObGsB0No",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/zuuObGsB0No.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/zuuObGsB0No.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/zuuObGsB0No.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an energetic, mid-tempo 4/4 groove at approximately 123 BPM, established by clean, jangling electric guitars playing rhythmic chord patterns alongside a chorus-infused melodic lead riff. A full rock drum kit enters immediately, driving the beat with crisp hi-hats, a prominent kick, and a punchy snare on beats two and four. A warm, melodic electric bassline provides a solid harmonic foundation, reinforcing a bright, major-key progression.\n\nA male lead vocal enters shortly after, positioned centrally in the mix with a warm, conversational, and slightly melancholic timbre. The vocal processing includes subtle room reverb and a faint delay, keeping the voice intimate yet present. In the verse sections, the musical texture remains clear and spacious, with rhythm guitars panned across the stereo field while the bass and drums anchor the rhythm section.\n\nDuring the chorus passages, the arrangement expands slightly in dynamic intensity. The vocal line transitions into a repetitive, memorable melodic hook, backed by subtle double-tracking that widens the vocal presence in the stereo field. The rhythm section maintains its relentless pulse, sustaining an urgent, driving momentum throughout.\n\nAn instrumental interlude features a melodic electric guitar solo with a bright, chorus-laden tone that sits prominently over the continuous rhythm guitars and active bassline. Following subsequent verse and chorus iterations, the song transitions into an extended outro. Here, the lead guitar resumes expressive melodic variation over the repeating chord cycle while the rhythm section maintains its steady drive. The production reflects a classic post-punk and alternative rock aesthetic, characterized by natural drum dynamics, clear stereo separation, and a bittersweet, energetic mood. The track concludes with a gradual fade-out.\n\nGENRES: indie rock, post-punk, new wave, alternative rock"
+  },
+  "metadata": {
+    "youtube_id": "zuuObGsB0No",
+    "title_extracted": null,
+    "corpus_id": "zuuObGsB0No",
+    "uploader": "Joy Division",
+    "audio_file": "corpus/01_music_videos_audio/audio/zuuObGsB0No.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6724578,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.69858,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:43:04Z"
+  },
+  "status": "success",
+  "error": null
+}

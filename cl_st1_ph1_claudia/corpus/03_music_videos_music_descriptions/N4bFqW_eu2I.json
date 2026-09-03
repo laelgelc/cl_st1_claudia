@@ -1,0 +1,38 @@
+{
+  "corpus_id": "N4bFqW_eu2I",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/N4bFqW_eu2I.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/N4bFqW_eu2I.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/N4bFqW_eu2I.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a solo acoustic guitar playing a steady, arpeggiated figure in a compound duple meter within a minor key. The acoustic guitar timbre is warm and resonant, positioned widely across the stereo field. At 0:12, a raspy, expressive male lead vocal enters in the center image, accompanied by subtle low-end bass notes and light, brushed percussion that establish a brooding folk-rock groove.\n\nAs the track moves through successive thematic sections, the dynamic level and textural density progressively expand. During the second verse at 0:44, a soft kick drum and subtle hi-hat accents enter, providing a firmer rhythmic foundation alongside additional strummed acoustic guitar chords. The lead vocal intensity rises steadily, exhibiting a gritty, soulful delivery with mild room reverb.\n\nAt 1:48, the song transitions into an instrumental solo section featuring a bluesy lead guitar and harmonica. The soloist plays expressive, bending melodic lines over the repeating minor-key chord cycle, supported by an increasingly active drum performance with crisp snare hits and ride cymbal accents. \n\nWhen the vocal re-enters at 2:20, the ensemble reaches a powerful dynamic peak. The drums drive the groove with full kit playing, punchy kick drum patterns, and accenting cymbals, while the vocal delivery becomes more emotionally charged and forceful. The harmonic structure maintains a consistent minor-to-major movement throughout, giving the piece a driving, cyclical quality.\n\nAround 3:51, the performance begins an extended coda, marked by a gradual deceleration in tempo. The drums and bass drop back, allowing the fingerpicked acoustic guitar to take focus once more as it plays a final slowing arpeggio that gently decays into silence.\n\nGENRES: Folk Rock, Blues Rock, Acoustic, Singer-Songwriter"
+  },
+  "metadata": {
+    "youtube_id": "N4bFqW_eu2I",
+    "title_extracted": null,
+    "corpus_id": "N4bFqW_eu2I",
+    "uploader": "Timeless Music",
+    "audio_file": "corpus/01_music_videos_audio/audio/N4bFqW_eu2I.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8325082,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 11.286603,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:26:58Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "SCngPse1iiI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/SCngPse1iiI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/SCngPse1iiI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/SCngPse1iiI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a high-energy instrumental intro in a driving 4/4 blues-rock tempo. A lively drum kit provides a punchy backbeat alongside a rhythmic bassline, complemented by overdriven electric rhythm guitar chords and a bluesy electric guitar lead riff featuring vibrato and sustain.\n\nA passionate, raspy female lead vocal enters with powerful belting and raw vocal grit, singing over the driving groove. As the verse unfolds, the rhythm section maintains a steady chugging motion, featuring a melodic, syncopated bassline and rhythmic hi-hat and snare work. The dynamics escalate dramatically into the chorus, where the vocal style reaches peak emotional intensity with soaring, gravelly belts. Stereo-panned backing vocals join in call-and-response harmony, creating a dense, expansive texture backed by saturated rhythm guitar strums and crashing drum cymbals.\n\nA second verse follows, slightly reducing the dynamic volume while keeping the driving rhythm intact. The lead vocal continues its soul-infused, expressive delivery, framed by responsive bluesy guitar embellishments and dynamic bass runs. The track transitions seamlessly back into a thunderous second chorus, re-establishing the full ensemble sound and layered vocal counter-harmonies.\n\nThe song then moves into a blues-rock guitar solo. The lead electric guitar takes center stage, delivering a melodic solo complete with wide string bends, blues scale runs, and a vintage fuzz-overdrive timbre. The lead vocal re-enters shortly after, driving the track into an extended, climaxing final chorus section. The vocal performance becomes increasingly uninhibited, featuring dramatic belts and improvisational blues phrases over a soaring, full-band accompaniment. The piece culminates in a final dramatic cadence, resolving on a ringing electric guitar chord and a decisive drum hit that gently decays into room reverb.\n\nGENRES: blues rock, classic rock, psychedelic soul"
+  },
+  "metadata": {
+    "youtube_id": "SCngPse1iiI",
+    "title_extracted": null,
+    "corpus_id": "SCngPse1iiI",
+    "uploader": "Janis Joplin",
+    "audio_file": "corpus/01_music_videos_audio/audio/SCngPse1iiI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8174246,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.791547,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:21:25Z"
+  },
+  "status": "success",
+  "error": null
+}

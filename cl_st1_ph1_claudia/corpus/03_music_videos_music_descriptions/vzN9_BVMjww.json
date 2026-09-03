@@ -1,0 +1,38 @@
+{
+  "corpus_id": "vzN9_BVMjww",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/vzN9_BVMjww.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/vzN9_BVMjww.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/vzN9_BVMjww.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording captures a high-energy live performance set in a large venue, characterized by prominent crowd cheers, venue reverberation, and a heavy, trap-influenced hip-hop backing track. The track opens in a 4/4 meter with an uptempo, syncopated rhythm driven by punchy 808 sub-bass, crisp electronic snares, snappy claps, and fast, rolling hi-hat patterns. Layered over the rhythmic foundation are repetitive synth brass stabs and sustained synth pads that provide harmonic structure and a triumphant, energetic tone. \n\nA female lead vocalist dominates the center of the stereo image, delivering fast-paced, rhythmic rap verses with confident, authoritative vocal phrasing. The vocal sound reflects a live concert environment, exhibiting raw acoustic presence and natural hall reverberations alongside standard live amplification. Dynamic levels remain consistently high throughout, punctuated by short structural shifts where the drum pattern thins to highlight spoken vocal interjections and crowd interactions. \n\nAround the midpoint, the main drum groove recedes slightly into the background as the performer engages directly with the audience over sustained low-end bass tones and synth accents. The audience's enthusiastic screaming and applause create a wide, immersive ambient field that enhances the live concert atmosphere. Following this interlude, the beat re-engages with heavy bass stabs and energetic brass motifs as the vocalist resumes a driving rap delivery, incorporating expressive vocal flourishes and ad-libs toward the conclusion.\n\nThe overall soundscape is dense and low-end heavy, balanced by sharp high-frequency percussion and clear vocal projection. The mood is exhilarating, celebratory, and intensely hyped, driven by the strong syncopation of the trap-style rhythm and the dynamic exchange between the live performer and the responsive crowd.\n\nGENRES: Hip-Hop, Trap, Rap, Live Performance"
+  },
+  "metadata": {
+    "youtube_id": "vzN9_BVMjww",
+    "title_extracted": null,
+    "corpus_id": "vzN9_BVMjww",
+    "uploader": "Milo",
+    "audio_file": "corpus/01_music_videos_audio/audio/vzN9_BVMjww.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3990196,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 39.460872,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:38:26Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "hic-dnps6MU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hic-dnps6MU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/hic-dnps6MU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/hic-dnps6MU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens in 4/4 meter at a relaxed mid-tempo with an electric guitar playing a syncopated, rhythmically modulated blues-funk riff. A punchy electric bass and a steady drum kit—featuring a crisp snare, defined kick drum, and prominent hi-hat—quickly join to establish a tight, syncopated groove. The stereo field is widely utilized, with rhythm guitar chops panned across the soundstage while the drums and bass remain centered to provide a solid low-end foundation.\n\nA gritty, soulful male lead vocal enters, delivered with expressive dynamic shifts, bluesy inflections, and subtle room reverb. As the verse progresses, the arrangement maintains a moderate texture, driven by the steady interplay between the walking bassline, rhythmic guitar stabs, and occasional bluesy lead guitar counter-melodies. Vocal embellishments, including high-register falsetto calls and call-and-response backing vocal harmonies, emerge at key structural transitions to elevate the overall dynamic intensity.\n\nIn the refrain, the texture expands significantly with the arrival of layered, multi-tracked vocal harmonies alongside energetic lead vocal ad-libs. The dynamic energy lifts as the drums play with increased assertiveness, incorporating strategic cymbal crashes. A subsequent section drops slightly in density, featuring a conversational vocal delivery supported by an active bassline and percussive drum accents, before building back into the full-ensemble groove.\n\nThroughout the piece, the harmonic language remains rooted in a blues-based tonal center, defined by minor-pentatonic guitar flourishes and chromatic bass movements. The production reflects a warm, analogue aesthetic with natural drum timbres and clear vocal presence. The track concludes with a gradual fade-out, continuing the repetitive funk-rock vamp while the lead vocalist delivers spontaneous ad-libs over the sustaining rhythm section.\n\nGENRES: Funk, Blues Rock, Soul"
+  },
+  "metadata": {
+    "youtube_id": "hic-dnps6MU",
+    "title_extracted": null,
+    "corpus_id": "hic-dnps6MU",
+    "uploader": "The Rolling Stones",
+    "audio_file": "corpus/01_music_videos_audio/audio/hic-dnps6MU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8007804,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.6349,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:13:25Z"
+  },
+  "status": "success",
+  "error": null
+}

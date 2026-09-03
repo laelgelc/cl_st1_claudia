@@ -1,0 +1,38 @@
+{
+  "corpus_id": "EfK-WX2pa8c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/EfK-WX2pa8c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/EfK-WX2pa8c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/EfK-WX2pa8c.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track begins with a prominent, melodic electric bass riff in a minor key, featuring steady eighth-note octave bounces. A punchy drum kit enters almost immediately in a driving 4/4 meter, defined by crisp snare hits on beats two and four, a clear kick drum, and tight hi-hats. A rhythm guitar joins shortly after, playing sharp, staccato offbeat upstrokes with subtle overdrive, followed by a ringing lead guitar motif that establishes the primary harmonic hook.\n\nA gritty male lead vocal enters, delivered with a raw, rhythmic cadence and processed with subtle slapback delay and room reverb. The verse maintains a propulsive punk-rock groove, anchored by the continuous, melodic movement of the bassline. The rhythm guitar alternates between sharp offbeat chops and fuller chordal strumming, while the drum kit provides steady timekeeping punctuated by occasional snare fills.\n\nThe music swells into the chorus section, where the dynamic level increases. Saturated electric guitars expand across the stereo image with broad power chords. The lead vocal rises in pitch and intensity, complemented by layered, unison backing vocals in a call-and-response arrangement. A second verse follows, returning to the tighter instrumental texture before escalating into another energetic chorus featuring atmospheric vocal echoes and wide stereo panning.\n\nAn instrumental bridge introduces an expressive electric guitar solo characterized by dramatic pitch bends, sustained notes, and controlled harmonic feedback. Vocal ad-libs and dramatic drum fills build dynamic tension. The final chorus returns with maximum sonic saturation, leading into an extended outro where the rhythm section maintains its relentless tempo while the lead vocal transitions to expressive, spoken-sung ad-libs. The guitars slowly dissipate into trailing feedback and rhythmic accents as the song concludes on a decisive final hit.\n\nGENRES: punk rock, post-punk, alternative rock"
+  },
+  "metadata": {
+    "youtube_id": "EfK-WX2pa8c",
+    "title_extracted": null,
+    "corpus_id": "EfK-WX2pa8c",
+    "uploader": "The Clash",
+    "audio_file": "corpus/01_music_videos_audio/audio/EfK-WX2pa8c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6453368,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 29.102087,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:31:27Z"
+  },
+  "status": "success",
+  "error": null
+}

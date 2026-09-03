@@ -1,0 +1,38 @@
+{
+  "corpus_id": "yEbaeLv-aOo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yEbaeLv-aOo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/yEbaeLv-aOo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/yEbaeLv-aOo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is an upbeat 80s-style synthpop and electropop composition set in a steady 4/4 meter at a driving tempo of approximately 122 BPM. The piece opens with a spacious synth pad and metallic chime accent before launching into an energetic, arpeggiated retro synthesizer bassline paired with a full electronic drum machine beat containing a punchy four-on-the-floor kick, crisp snare/clap stabs on beats two and four, and continuous offbeat hi-hats.\n\nAt 0:13, the main groove achieves full intensity as bright synth chords and rhythmic bass patterns establish a buoyant tonal foundation. Pitch-shifted, formant-processed vocal chops introduce melodic accents before a main synthetic/heavily processed female-sounding lead vocal enters at 0:43. The vocals exhibit melismatic phrasing, treated with lush stereo chorusing and subtle rhythmic delays that blend seamlessly into the dense electronic mix.\n\nThe track lifts into a chorused hook section around 1:12, marked by higher-register vocal refrains, soaring synth countermelodies, and expanded harmonic textures. The dynamic level remains high and punchy, supported by a deep, resonant synth bass and shimmering high-frequency synth arpeggios distributed widely across the stereo field. A second verse-and-refrain cycle from 1:44 to 2:45 maintains the driving momentum, adding subtle variation through rhythmic synth stabs and vocal ad-lib accents.\n\nAt 2:45, a brief bridge breakdown alters the texture, allowing drum fills and isolated synth chords to build anticipation before the final section at 3:15 brings a full-textured recap of the melodic refrains. Stereo reverbs impart a spatial, retro-futuristic atmosphere across all elements. The arrangement slowly winds down towards 3:58, with the synth arpeggios and electronic drum pattern gradually fading into a clean decay.\n\nGENRES: Synthpop, Electropop, Synthwave, Italo Disco"
+  },
+  "metadata": {
+    "youtube_id": "yEbaeLv-aOo",
+    "title_extracted": null,
+    "corpus_id": "yEbaeLv-aOo",
+    "uploader": "Donna Summer",
+    "audio_file": "corpus/01_music_videos_audio/audio/yEbaeLv-aOo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7635542,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.884356,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:44:55Z"
+  },
+  "status": "success",
+  "error": null
+}

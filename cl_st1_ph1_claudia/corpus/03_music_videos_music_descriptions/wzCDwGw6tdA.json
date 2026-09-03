@@ -1,0 +1,38 @@
+{
+  "corpus_id": "wzCDwGw6tdA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wzCDwGw6tdA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/wzCDwGw6tdA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/wzCDwGw6tdA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an energetic, mid-tempo 4/4 shuffle groove featuring a syncopated horn section—dominated by punchy saxophones—playing a catchy introductory riff alongside a steady drumbeat and walking bass line. \n\nAt 0:06, a female lead vocalist enters with a bright, soulful, and expressive tone. She is immediately supported by a harmony-rich female backing vocal ensemble that delivers rhythmic call-and-response backing figures. The rhythm section behind the vocals remains driving and tight, powered by crisp snare backbeats, bass, and rhythmic brass stabs that punctuate the end of vocal phrases. The production carries a vintage aesthetic, characterized by a relatively narrow stereo image, warm mid-range, subtle room resonance, and slapback-style reverb.\n\nAround 0:51, the piece transitions into a contrasting bridge section where the lead vocals become more sustained and intense. The backing vocalists shift to rhythmic vocal fills, supporting a harmonic shift that heightens the emotional momentum. The bass line continues its melodic, walking movement while the drums maintain a reliable, driving pulse.\n\nAt 1:14, the track returns to the primary verse structure with renewed energy. The lead vocalist delivers a dynamic performance, framed by fuller brass swells and counter-melodies that fill the musical space between vocal lines. \n\nThe piece moves into an extended vamp-like outro at 1:36, building around repeating melodic hooks and driving vocal accentuations. The horn section provides supportive, syncopated accents underneath the lead vocal as the arrangement maintains an upbeat, exuberant mood until the audio clip ends around 2:00.\n\nGENRES: Girl Group, Vintage Pop, Rhythm & Blues, Early Rock & Roll, Soul"
+  },
+  "metadata": {
+    "youtube_id": "wzCDwGw6tdA",
+    "title_extracted": null,
+    "corpus_id": "wzCDwGw6tdA",
+    "uploader": "catman916",
+    "audio_file": "corpus/01_music_videos_audio/audio/wzCDwGw6tdA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3856448,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.501884,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:33:59Z"
+  },
+  "status": "success",
+  "error": null
+}

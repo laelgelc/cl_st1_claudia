@@ -1,0 +1,38 @@
+{
+  "corpus_id": "gZXjFV8nT4E",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/gZXjFV8nT4E.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/gZXjFV8nT4E.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/gZXjFV8nT4E.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens in a live performance atmosphere, starting with brief spoken banter over soft audience chatter and gentle applause. An electric piano plays a warm, jazz-inflected chord progression in a relaxed 4/4 meter, joined shortly by rhythmic finger snaps and subtle rim clicks. At 00:16, a male lead vocalist enters with a smooth, expressive tone, delivering soulful phrases with gentle vibrato and intricate melismas over the delicate keyboard accompaniment.\n\nAt 00:44, the full rhythm section enters as a deep, rounded electric bassline, steady kick drum, crisp snare backbeat, and clean electric guitar rhythm chops establish a syncopated R&B groove. The dynamic level rises noticeably with this addition. The vocal performance becomes increasingly impassioned, shifting from intimate chest tones to powerful upper-register belts, raspy timbral accents, and fluid falsetto transitions. Throughout the song, the electric piano provides lush harmonic support, while the electric guitar supplies subtle rhythmic comping.\n\nAs the performance progresses into its central sections, the dynamic intensity steadily escalates. The bass guitar plays melodic counterlines beneath the lead vocal, and the drummer accents phrase transitions with dynamic cymbal crashes and active fill patterns. The acoustic environment features natural hall reverberation on the lead vocal and instruments, enhancing the live concert aesthetic while maintaining spatial depth across the stereo field, where lead vocal and bass occupy the center while keys, guitar, and drums broaden the soundscape.\n\nReaching a dynamic climax around 02:12, the vocalist delivers high-energy belts and extended vocal runs that showcase peak volume and emotional intensity. The band matches this energy with a dense, resonant texture before resolving onto a sustained final chord at 03:12. The musical performance concludes as the final chord decays, giving way to enthusiastic applause and cheering from the audience.\n\nGENRES: Soul, Rhythm and Blues, Neo-Soul, Live Performance"
+  },
+  "metadata": {
+    "youtube_id": "gZXjFV8nT4E",
+    "title_extracted": null,
+    "corpus_id": "gZXjFV8nT4E",
+    "uploader": "Harry Varthakouris",
+    "audio_file": "corpus/01_music_videos_audio/audio/gZXjFV8nT4E.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6649530,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.972237,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:13:19Z"
+  },
+  "status": "success",
+  "error": null
+}

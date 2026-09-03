@@ -1,0 +1,38 @@
+{
+  "corpus_id": "GMezwtB1oCU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/GMezwtB1oCU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/GMezwtB1oCU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/GMezwtB1oCU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The piece opens immediately with a male lead vocal accompanied by a light, rhythmically energetic acoustic arrangement in a bright major key. The track moves at an upbeat mid-tempo in a simple quadruple meter, driven by crisp acoustic guitar strumming, a steady, warm bassline—possibly played on an upright bass—and understated percussion consisting of shaker accents and soft drum rim clicks. The vocal style is clean, expressive, and slightly conversational, characterized by a playful, warm tone with subtle reverb that positions the voice cleanly in the center of the mix.\n\nAs the song progresses, the rhythm section maintains a bouncy, synchronized groove that evokes a retro rockabilly or folk-pop aesthetic. The stereo image features rhythm guitars spread across the left and right channels, creating an open, organic spatial feel, while the bass and lead vocal remain centered. Occasional melodic vocal interjections punctuate the ends of phrases, adding rhythmic emphasis and elevating the song's cheerful energy.\n\nAt approximately one minute into the track, the arrangement transitions smoothly into an instrumental break. A clean-toned acoustic or archtop electric guitar takes over the lead role, performing a melodic, single-note solo embellished with light slapback or short room reverb. The underlying rhythm guitars, bass, and subtle percussion continue beneath to provide a buoyant, consistent foundation.\n\nAt approximately one minute and twenty-nine seconds, the lead vocal re-enters for the final verse and refrain, matching the initial dynamic level and lighthearted mood. The recording maintains its tight, acoustic-driven texture until the final phrase, where the arrangement eases slightly in intensity and resolves cleanly on a sustained acoustic chord. Throughout the piece, the production remains warm and balanced, emphasizing natural instrumental timbres, gentle dynamic shading, and an overall intimate emotional quality.\n\nGENRES: acoustic pop, rockabilly, folk pop, singer-songwriter"
+  },
+  "metadata": {
+    "youtube_id": "GMezwtB1oCU",
+    "title_extracted": null,
+    "corpus_id": "GMezwtB1oCU",
+    "uploader": "nocturon",
+    "audio_file": "corpus/01_music_videos_audio/audio/GMezwtB1oCU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4129886,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.363717,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:56:02Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "X2BYmmTI04I",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/X2BYmmTI04I.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/X2BYmmTI04I.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/X2BYmmTI04I.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an energetic, up-tempo pop-punk groove in a 4/4 meter at a fast tempo. An infectious introductory section features unison male gang chants singing rhythmic \"hey\" phrases over a driving rhythm section composed of punchy kick and snare drums, crisp hi-hats, an active bassline, and upbeat strumming from lightly distorted electric guitars. The stereo field is wide, with gang vocals panned to the flanks while the core rhythm section remains centered.\n\nAt 0:15, the overall dynamic drops into the first verse. A clear, youthful male lead vocal enters centrally in the mix, delivering melodic phrases with direct, smooth phrasing. The accompaniment thins to palm-muted electric guitars, a prominent melodic bass, and a steady drum backbeat. Snare rolls and guitar swells build dynamic tension into an explosive chorus at 0:45. Here, the arrangement expands into a dense, wall-of-sound texture driven by heavily distorted stereo electric guitars, crashing cymbals, layered vocal harmonies, and exuberant gang chant accents.\n\nThe second verse at 1:21 temporarily scales back the dynamic intensity, highlighting the punchy bassline and drum groove before building once again into a powerful second chorus at 1:45. A driving bridge section arrives at 2:21, maintaining forward momentum through syncopated guitar hits, emotive lead vocals, and an accelerating drum fill transition. This propels the track into its final, climactic chorus at 2:45, characterized by full band dynamics, bright brassy cymbals, and anthemic vocal layering. The song abruptly ends at 3:21, cutting straight into a tail of vinyl crackle and radio static hiss.\n\nThe production style is polished and modern, utilizing bright equalization, subtle reverb on lead vocals, and wide stereo separation. The major tonality, driving bounce, and buoyant vocal delivery create a celebratory, high-energy mood throughout.\n\nGENRES: Pop Punk, Power Pop, Pop Rock"
+  },
+  "metadata": {
+    "youtube_id": "X2BYmmTI04I",
+    "title_extracted": null,
+    "corpus_id": "X2BYmmTI04I",
+    "uploader": "5SOS",
+    "audio_file": "corpus/01_music_videos_audio/audio/X2BYmmTI04I.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6995786,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.759283,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:17:12Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Ixrje2rXLMA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Ixrje2rXLMA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Ixrje2rXLMA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Ixrje2rXLMA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a fast, intricate fingerpicked acoustic guitar motif set in a minor key and a steady 4/4 meter at a moderate-upbeat tempo. A warm, smooth bass guitar and soft, brushed percussion enter alongside it, establishing a rhythmic, driving groove. \n\nAt 00:09, a dynamic female lead vocal enters with an urgent, pleading melody during the chorus section. Her voice is clear, mid-forward, and expressive, accented by a subtle, natural plate reverb. Backing vocal harmonies join on key phrases, widening the stereo image and adding harmonic depth. The rapid, continuous acoustic guitar fingerpicking serves as the central rhythmic and harmonic engine throughout the track, supported by steady bass notes and light cymbal and snare work.\n\nIn the verses starting around 00:33, the lead vocal shifts to a more intimate narrative delivery, dropping slightly in volume while keeping tight synchronization with the fast acoustic picking. The arrangement stays remarkably transparent, maintaining a consistent dynamic level with minimal instrumentation changes between sections. \n\nAs the song progresses through alternating verses and choruses, emotional tension builds through subtle variations in vocal power and harmony layering. The cyclic minor-key chord progression imparts a melancholic, earnest, and anxious emotional quality to the performance. \n\nThe piece concludes with a brief outro starting around 02:27, where the lead vocal repeats the central melodic motif before stepping back, allowing the fingerpicked acoustic guitar pattern and bassline to carry the song to a gentle finish as the sound decays into silence.\n\nGENRES: Country, Folk, Country Pop, Americana"
+  },
+  "metadata": {
+    "youtube_id": "Ixrje2rXLMA",
+    "title_extracted": null,
+    "corpus_id": "Ixrje2rXLMA",
+    "uploader": "Dolly Parton",
+    "audio_file": "corpus/01_music_videos_audio/audio/Ixrje2rXLMA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5220668,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.724018,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:47:26Z"
+  },
+  "status": "success",
+  "error": null
+}

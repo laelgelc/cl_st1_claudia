@@ -1,0 +1,38 @@
+{
+  "corpus_id": "QD8dZGZtGkA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/QD8dZGZtGkA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/QD8dZGZtGkA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/QD8dZGZtGkA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an energetic, fast-paced introduction led by a twangy electric guitar playing a blues-infused riff. It is immediately joined by a walking upright bass and a crisp drum kit executing a swinging shuffle beat in a quick 4/4 meter. The overall groove carries an upbeat boogie-woogie rhythm with a steady, driving tempo.\n\nAt approximately eight seconds, a male lead vocalist enters with an expressive, energetic delivery, singing with rhythmic phrasing and a raw, vintage vocal tone. The production exhibits a classic early-era aesthetic, with slapback delay and room reverb applied to both the vocals and electric guitars within a relatively narrow stereo image. The accompaniment features a rhythm electric guitar strumming boogie-style chord patterns, providing harmonic structure over a standard blues-based progression.\n\nMidway through the piece, at roughly forty-six seconds, the vocal pauses to yield to an extended electric guitar solo. The soloist showcases fast blues licks, expressive string bends, double-stops, and rapid picking, sustaining the track's vibrant energy while the bass and drums maintain a tight, driving rhythmic foundation underneath.\n\nAround one minute and twenty-four seconds, the lead vocal re-enters to take center stage once more, continuing the dynamic vocal performance alongside the persistent shuffle rhythm. The instrumentation remains dense and vibrant, dominated by the bright, bitey guitar timbres, warm acoustic bass low-end, and snappy drum backbeat. Toward the end of the recording, around two minutes and three seconds, the vocal phrase concludes, leading into a brief instrumental cadence that gradually fades out as the ensemble settles on the final resolving chord.\n\nGENRES: Rockabilly, Rock and Roll, Rhythm and Blues"
+  },
+  "metadata": {
+    "youtube_id": "QD8dZGZtGkA",
+    "title_extracted": null,
+    "corpus_id": "QD8dZGZtGkA",
+    "uploader": "Let's Rock!",
+    "audio_file": "corpus/01_music_videos_audio/audio/QD8dZGZtGkA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4465740,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 23.979579,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:10:54Z"
+  },
+  "status": "success",
+  "error": null
+}

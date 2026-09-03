@@ -1,0 +1,38 @@
+{
+  "corpus_id": "oBcXOmwq58U",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oBcXOmwq58U.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/oBcXOmwq58U.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/oBcXOmwq58U.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an a cappella vocal ensemble featuring multi-part female harmonies singing a rhythmic, syncopated introductory motif in a buoyant 4/4 meter. The tone is warm and resonant, featuring a close-harmony vocal arrangement set within a spacious acoustic environment. At approximately sixteen seconds, a full rhythm section enters abruptly with a strummed acoustic guitar, a warm, melodic electric bassline, a steady drum kit, and a rhythmic tambourine accenting the backbeat.\n\nA distinct female lead vocal takes center stage over the driving rhythm, possessing a smooth, expressive vocal tone with subtle room reverberation. The backing vocal group continues to provide rich, response-style harmonic support, panned slightly across the stereo field to create a lush, wide vocal texture. The musical arrangement follows a classic pop verse-chorus structure propelled by an upbeat, swinging mid-tempo groove.\n\nHarmonically, the track relies on an uplifting major-key chord progression carried primarily by the strummed acoustic guitar and a bouncy, syncopated bassline that moves fluently between root notes and passing tones. Dynamics remain energetic throughout, with noticeable dynamic lifts occurring during the chorus sections as the vocal harmonies expand into wider multi-part arrangements.\n\nIn the verse sections, the vocal texture thins slightly to emphasize the lead vocal melody while the acoustic guitar, bass, and drums maintain a steady rhythmic drive. The chorus sections reintroduce dense vocal harmonies and prominent tambourine accents, creating an exuberant, celebratory mood. The overall production style presents a vintage-inspired, well-balanced mix with crisp percussive clarity, warm low-end frequencies, and a clear spatial distribution of instruments and vocals. The track concludes with a repeating chorus refrain driven by energetic call-and-response vocal arrangements that slowly fade to silence.\n\nGENRES: Pop, Indie Pop, Doo-Wop, Girl Group"
+  },
+  "metadata": {
+    "youtube_id": "oBcXOmwq58U",
+    "title_extracted": null,
+    "corpus_id": "oBcXOmwq58U",
+    "uploader": "The Dixie Cups - Topic",
+    "audio_file": "corpus/01_music_videos_audio/audio/oBcXOmwq58U.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5361102,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.225901,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:43:07Z"
+  },
+  "status": "success",
+  "error": null
+}

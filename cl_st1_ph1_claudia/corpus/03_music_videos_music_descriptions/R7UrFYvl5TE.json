@@ -1,0 +1,38 @@
+{
+  "corpus_id": "R7UrFYvl5TE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/R7UrFYvl5TE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/R7UrFYvl5TE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/R7UrFYvl5TE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is a high-energy pop-rock track set in a moderate 4/4 meter with a steady, driving tempo. It opens with a brief introductory section featuring a rhythmic, clean electric guitar riff accompanied by a pulsing electric bass line and a punchy pop beat.\n\nAt 0:08, the first verse begins as a smooth female solo vocal enters, possessing a clear, expressive tone enhanced by subtle reverb and short delay. The verse maintains a relatively restrained dynamic level and sparse texture, driven primarily by the rhythmic bass line, crisp snare hits, and subtle electric guitar accents.\n\nAt 0:47, the dynamics surge dramatically into the chorus. Heavily distorted rhythm guitars enter across the stereo field, creating a broad, dense wall of sound. The drums transition to a powerful rock groove with open hi-hats and a punchy kick drum, while the lead vocal ascends in volume and pitch, supported by multi-tracked vocal harmonies.\n\nThe track drops back into a subdued second verse at 1:06, restoring the minimalist rhythm section and conversational vocal delivery. This quiet-loud dynamic contrast continues as the song swells into a second expansive chorus at 1:35, characterized by wide stereophonic panning and thick harmonic textures.\n\nA bridge section at 1:54 builds emotional and dynamic tension through driving drum patterns, energetic guitar strumming, and increasingly intense vocal phrasing. This transitions at 2:11 into a melodic electric guitar solo featuring a bright timbre, pitch bends, and sustained distortion set over a heavy rhythm section.\n\nThe final chorus at 2:23 serves as the track’s climax, featuring high-register vocal ad-libs, rich backing harmonies, and dense wall-of-sound instrumentation. At 2:59, the heavy drums and rhythm guitars subside into a brief outro, leaving clean guitar strums and a fading bass tone to conclude the track.\n\nGENRES: Pop Rock, Power Pop, Synth Pop"
+  },
+  "metadata": {
+    "youtube_id": "R7UrFYvl5TE",
+    "title_extracted": null,
+    "corpus_id": "R7UrFYvl5TE",
+    "uploader": "Kelly Clarkson",
+    "audio_file": "corpus/01_music_videos_audio/audio/R7UrFYvl5TE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6139806,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.943029,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:41:32Z"
+  },
+  "status": "success",
+  "error": null
+}

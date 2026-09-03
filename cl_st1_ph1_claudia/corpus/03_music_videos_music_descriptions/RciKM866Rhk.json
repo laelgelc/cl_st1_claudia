@@ -1,0 +1,38 @@
+{
+  "corpus_id": "RciKM866Rhk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/RciKM866Rhk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/RciKM866Rhk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/RciKM866Rhk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with roughly 36 seconds of ambient environmental sound, capturing a natural acoustic space filled with footsteps, casual conversation, laughter, a door closing, and a ringing telephone. At 0:36, the audio abruptly shifts into a polished, mid-tempo urban track structured in a 4/4 meter at approximately 96 BPM.\n\nThe rhythm is driven by a punchy electronic drum kit consisting of a dense kick drum, a crisp snare layered with a metallic clap on beats two and four, and steady subdivisions on the hi-hats. A warm, melodic electric synth bassline anchors the harmonic movement, working alongside syncopated horn-like synth stabs and subtle string pads that add rhythmic bounce and harmonic warmth.\n\nThe musical section opens with an introductory male rap verse characterized by a direct, percussive, and conversational delivery. At 1:11, the arrangement transitions into a primary chorus dominated by a soulful, expressive female lead vocal. This hook features rich multi-tracked vocal harmonies and stereo-panned doubles. The song structure then alternates between rhythmic, sing-spoken female verses and the main chorus, punctuated by interjecting male vocal ad-libs and call-and-response backing figures.\n\nProduction style is clean and commercially polished, featuring a broad stereo image. The low-end elements and primary lead vocals remain prominently in the center channel, while vocal harmonies, hi-hats, and synth chords are spread across the left and right channels. Subtle room reverb and short delay effects enhance the vocal presence without overwhelming the mix. Dynamically, the track stays consistently energetic and vibrant, conveying an upbeat, confident, and celebratory emotional quality before cutting off abruptly during a repeating chorus cycle.\n\nGENRES: Hip-Hop, Contemporary R&B, Pop Rap"
+  },
+  "metadata": {
+    "youtube_id": "RciKM866Rhk",
+    "title_extracted": null,
+    "corpus_id": "RciKM866Rhk",
+    "uploader": "Jennifer Lopez",
+    "audio_file": "corpus/01_music_videos_audio/audio/RciKM866Rhk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7334612,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.161133,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:46:15Z"
+  },
+  "status": "success",
+  "error": null
+}

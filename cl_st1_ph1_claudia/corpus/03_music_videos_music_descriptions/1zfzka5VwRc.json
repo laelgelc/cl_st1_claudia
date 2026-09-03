@@ -1,0 +1,38 @@
+{
+  "corpus_id": "1zfzka5VwRc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/1zfzka5VwRc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/1zfzka5VwRc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/1zfzka5VwRc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a clean, syncopated rhythm electric guitar riff in a fast 4/4 meter, quickly joined by a punchy electronic beat featuring a prominent kick drum, crisp snare snaps, handclaps, and a driving synth bass line. A female lead vocal enters shortly after, delivering a clear melody with close microphone proximity, light reverb, and a polished, contemporary timbre. The dynamic arrangement builds steadily through the initial verse into an energetic pre-chorus, where layered backing harmonies and subtle vocal doubling expand the stereo width.\n\nAt the chorus, the arrangement reaches full dynamic intensity. The musical texture becomes dense and bright, driven by rhythmic electric guitar strumming, syncopated low-end bass synth notes, and stacked multi-tracked vocal harmonies. The stereo mix positions the kick drum, snare, and primary lead vocal squarely in the center, while guitars and vocal harmonies are panned wide across the left and right channels. \n\nFollowing the chorus, the dynamic level drops slightly for the second verse, creating room for a more intimate vocal delivery accompanied by lighter guitar accents. The intensity rebuilds through a second pre-chorus into a high-energy chorus that features expressive vocal melismas and vocalizations in the higher register. \n\nA distinct bridge section provides a breakdown in texture, stripping away the heavy drum groove to focus on sustained synth pads, gentle guitar chords, and a passionate, belted vocal performance processed with audible delay effects. This builds dramatically back into the final chorus, where the track reaches its emotional climax with expansive vocal improvisations layered over the full rhythm section. The track winds down in an outro as the heavy instrumentation recedes, ending on the returning electric guitar motif and a final soft vocal line.\n\nGENRES: Pop, Dance-Pop, Synth-Pop"
+  },
+  "metadata": {
+    "youtube_id": "1zfzka5VwRc",
+    "title_extracted": null,
+    "corpus_id": "1zfzka5VwRc",
+    "uploader": "Demi Lovato",
+    "audio_file": "corpus/01_music_videos_audio/audio/1zfzka5VwRc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6905136,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.034112,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:37:39Z"
+  },
+  "status": "success",
+  "error": null
+}

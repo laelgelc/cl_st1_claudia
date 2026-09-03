@@ -1,0 +1,38 @@
+{
+  "corpus_id": "HuS5NuXRb5Y",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/HuS5NuXRb5Y.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/HuS5NuXRb5Y.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/HuS5NuXRb5Y.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a multi-part vocal harmony singing a sustained wordless refrain, set over an energetic acoustic backdrop featuring strummed acoustic guitar, rhythmic violin bowing, and a supportive acoustic bass line. Set in a fast-paced 4/4 meter with a driving, syncopated rhythm, the music establishes an upbeat yet melancholic mood through its minor-key tonal character.\n\nAt 0:15, the track transitions into the first verse as a clear, centrally placed male lead vocal enters. The backing vocal harmonies recede, allowing the lead voice to take prominence over an accompaniment driven by steady guitar strumming, plucked acoustic bass, and accented violin fills. Reverb across the mix remains minimal, imparting a close, direct, and organic aesthetic.\n\nThe chorus follows at 0:30, marked by the re-emergence of layered background vocal harmonies that respond to the lead vocal phrases. The overall dynamic level stays lively, sustained by the continuous acoustic groove. The violin continues to play melodic counter-lines and rhythmic chops between vocal phrases, adding texture and motion.\n\nA second verse arrives at 0:46, maintaining the established verse texture with continuous acoustic guitar, acoustic bass, and expressive fiddle phrasing interjected between vocal lines. The structure moves into a second chorus at 1:01, where backing vocal harmonies return to swell behind the lead vocal line.\n\nA brief transitional interlude occurs at 1:17, reintroducing the opening wordless vocal refrain alongside driving string lines. This leads directly into the third verse at 1:31, where the lead vocal continues over an increasingly active violin accompaniment. At 1:46, the chorus refrain overlaps with the lead vocal for a final climax, combining rich vocal counterpoint with energetic acoustic strumming before terminating on a clean, collective final chord accent at 2:03. Overall, the production features a crisp acoustic soundscape with balanced stereo placement.\n\nGENRES: Folk, Bluegrass, Acoustic, Singer-Songwriter"
+  },
+  "metadata": {
+    "youtube_id": "HuS5NuXRb5Y",
+    "title_extracted": null,
+    "corpus_id": "HuS5NuXRb5Y",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/HuS5NuXRb5Y.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4204190,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.892556,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:22:09Z"
+  },
+  "status": "success",
+  "error": null
+}

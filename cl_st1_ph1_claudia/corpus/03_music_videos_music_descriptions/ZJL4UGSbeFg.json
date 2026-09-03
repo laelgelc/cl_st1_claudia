@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ZJL4UGSbeFg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ZJL4UGSbeFg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ZJL4UGSbeFg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ZJL4UGSbeFg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is an energetic, upbeat country-pop and rock track set in a 4/4 meter at a steady, danceable tempo of around 125 BPM. It opens with a brief spoken vocal line over an accordion-like synth swell, immediately launching into a signature crunchy, distorted electric guitar riff. A driving rock drum kit enters with a solid four-on-the-floor kick pattern and crisp snare hits on beats two and four, supported by a warm, melodic bassline and rhythmic electric guitar strumming.\n\nThe primary lead vocal is performed by a female singer with a clear, confident tone, positioned prominently in the center of the stereo field with tasteful vocal compression, light reverb, and subtle delay. During the verses, the arrangement maintains a moderate dynamic level, focusing on the lead vocal while electric guitars provide sparse rhythmic fills. The pre-chorus builds tension and momentum through syncopated guitar accents and escalating drum fills.\n\nThe chorus delivers a dramatic increase in texture and dynamic intensity. Wide stereo-panned backing vocals join in harmony, while punchy brass/synth horn hits and driving guitar riffs enrich the frequency spectrum. The harmonic structure throughout is straightforward and rooted in a major key, conveying a triumphant, celebratory mood.\n\nAfter a second chorus iteration, an instrumental break highlights an overdrive-drenched electric guitar solo, featuring bluesy pitch bends and expressive vibrato over the persistent rhythm section groove. The song climaxes with a final, full-textured chorus before transitioning into an energetic outro featuring playful vocal ad-libs, syncopated guitar flourishes, and a decisive, punctuated final hit.\n\nGENRES: Country Pop, Pop Rock, Dance-Pop"
+  },
+  "metadata": {
+    "youtube_id": "ZJL4UGSbeFg",
+    "title_extracted": null,
+    "corpus_id": "ZJL4UGSbeFg",
+    "uploader": "Shania Twain",
+    "audio_file": "corpus/01_music_videos_audio/audio/ZJL4UGSbeFg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7520372,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.791246,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:09:58Z"
+  },
+  "status": "success",
+  "error": null
+}

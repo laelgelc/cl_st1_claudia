@@ -1,0 +1,38 @@
+{
+  "corpus_id": "4l5t1FUscUI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4l5t1FUscUI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/4l5t1FUscUI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/4l5t1FUscUI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief dramatic sound effect before launching into an upbeat 1960s-style pop arrangement in 4/4 meter. The groove is driven by a steady drum beat, accented tambourine, warm bass guitar, and strummed rhythm guitar. A lead female vocal enters with a clean, expressive delivery treated with vintage reverb, accompanied by melodic call-and-response backing vocals panned across the stereo field. The overall texture is lush and analog, defined by mid-century pop harmony and buoyant rhythmic momentum.\n\nDuring the verse sections, the dynamic remains moderate and tight, placing the lead vocal prominently in the center of the mix. Strummed guitars and a walking bassline provide a stable harmonic framework. The arrangement transitions seamlessly into the chorus, where the dynamics expand through sweeping vocal harmonies, a busier bassline, and prominent tambourine hits that heighten the emotional energy.\n\nA bridge section introduces a playful call-and-response vocal dynamic, where layered backing vocals interject short melodic phrases answered by the lead singer. Build-up in the drum pattern creates anticipation, resolving smoothly into an energetic recap of the chorus. Here, the lead vocal delivers expressive ad-libs over the full multi-part vocal arrangement. \n\nThe song concludes with an extended outro section where the main groove continues alongside repeating vocal refrains and strummed guitar chords. The track gradually fades out, bringing the piece to a polished close. The overall mood is romantic, upbeat, and nostalgic.\n\nGENRES: 1960s pop, girl group, retro pop, pop rock"
+  },
+  "metadata": {
+    "youtube_id": "4l5t1FUscUI",
+    "title_extracted": null,
+    "corpus_id": "4l5t1FUscUI",
+    "uploader": "The Ronettes",
+    "audio_file": "corpus/01_music_videos_audio/audio/4l5t1FUscUI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6345628,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.346849,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:47:25Z"
+  },
+  "status": "success",
+  "error": null
+}

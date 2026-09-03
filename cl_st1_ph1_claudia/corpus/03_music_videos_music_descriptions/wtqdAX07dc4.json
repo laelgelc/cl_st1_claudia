@@ -1,0 +1,38 @@
+{
+  "corpus_id": "wtqdAX07dc4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wtqdAX07dc4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/wtqdAX07dc4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/wtqdAX07dc4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an upbeat, syncopated soul introduction in a steady 4/4 meter at a moderate tempo. A clean electric guitar plays a rhythmic, syncopated riff accompanied by a warm, highly melodic electric bassline, a driving drum kit beat with a crisp snare and active hi-hat, and brief brass and keyboard accents. This groove establishes a bright, vintage soul atmosphere with a wide stereo soundstage, placing the rhythm section centrally while guitars and horn accents are panned across the stereo field.\n\nAt approximately 0:30, a smooth, expressive male lead vocal enters to deliver the first verse, featuring a warm tenor timbre enhanced by subtle plate-style reverb. The instrumentation maintains a steady, danceable groove beneath the vocal, supported by rhythmic guitar chugging, active bass phrasing, and gentle keyboard chords. As the track progresses into the first chorus around 1:07, multi-part vocal harmonies enter in a call-and-response pattern with the lead singer, enriching the texture alongside swelling brass stabs and energetic percussion.\n\nThe second verse around 1:35 returns to a slightly leaner arrangement, allowing the dynamic nuance of the lead vocal and the continuous melodic motion of the bass guitar to take center stage. The second chorus at 2:16 reintroduces the lush vocal harmonies and full-spectrum arrangement, building emotional energy. At 2:39, an instrumental bridge features an expressive electric guitar solo with a warm, slightly chorused tone, punctuated by tight drum fills and punchy horn stabs.\n\nFollowing the solo at 3:10, the song transitions into a final chorus and outro section. The lead vocalist performs increasingly impassioned ad-libs over the repeating harmonic cycle and backing vocal refrain. The dynamic intensity remains buoyant and uplifting as the song gradually fades out toward the conclusion, maintaining its bright, romantic mood throughout.\n\nGENRES: soul, r&b, funk, pop"
+  },
+  "metadata": {
+    "youtube_id": "wtqdAX07dc4",
+    "title_extracted": null,
+    "corpus_id": "wtqdAX07dc4",
+    "uploader": "Louis De Nennie",
+    "audio_file": "corpus/01_music_videos_audio/audio/wtqdAX07dc4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7880746,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.780547,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:22:39Z"
+  },
+  "status": "success",
+  "error": null
+}

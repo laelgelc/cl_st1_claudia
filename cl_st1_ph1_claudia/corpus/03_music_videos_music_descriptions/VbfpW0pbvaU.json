@@ -1,0 +1,38 @@
+{
+  "corpus_id": "VbfpW0pbvaU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/VbfpW0pbvaU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/VbfpW0pbvaU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/VbfpW0pbvaU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a field recording of street traffic and passing vehicles, establishing an atmospheric intro. At 0:22, a warm, fingerpicked acoustic guitar enters in a bright major key, setting a steady mid-tempo 4/4 pulse. A smooth male lead vocal enters shortly after, captured with close-mic intimacy and mild room reverb, creating a personal, reflective tone.\n\nAround 0:55, the arrangement builds through percussive handclaps, body slaps, and subtle beatboxing accents that elevate the dynamic level. The first chorus at 1:07 expands into a vibrant acoustic pop arrangement with strummed guitar chords, resonant low-end acoustic bass, and multi-layered backing vocal harmonies spread wide across the stereo image. The lead vocal displays heightened emotional intensity and vocal strain in its upper register.\n\nThe second verse (1:34) reduces the sonic density, maintaining subtle percussive taps beneath clean guitar picking to sustain forward motion. Following a second pre-chorus and chorus, the track transitions into a bridge at 2:37 featuring palm-muted guitar strumming and rhythmic vocal chants. Call-and-response vocal layers systematically build tension until 2:56, where the final chorus delivers the dynamic peak of the song with dense vocal stacking, full acoustic strumming, and driving syncopated percussion.\n\nAt 3:48, the musical arrangement concludes on a decaying guitar chord, followed immediately by a short ambient audio sound effect of gargling water before fading out entirely. Throughout, the production emphasizes acoustic clarity, warm natural timbres, and pronounced dynamic contrasts between quiet verses and explosive choruses.\n\nGENRES: acoustic pop, folk pop, singer-songwriter"
+  },
+  "metadata": {
+    "youtube_id": "VbfpW0pbvaU",
+    "title_extracted": null,
+    "corpus_id": "VbfpW0pbvaU",
+    "uploader": "Shawn Mendes",
+    "audio_file": "corpus/01_music_videos_audio/audio/VbfpW0pbvaU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7674180,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.565008,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:12:52Z"
+  },
+  "status": "success",
+  "error": null
+}

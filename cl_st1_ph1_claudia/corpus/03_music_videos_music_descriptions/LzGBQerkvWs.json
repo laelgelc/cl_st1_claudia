@@ -1,0 +1,38 @@
+{
+  "corpus_id": "LzGBQerkvWs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/LzGBQerkvWs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/LzGBQerkvWs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/LzGBQerkvWs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens in a bright, mid-tempo four-four meter featuring a fingerpicked acoustic guitar with a warm, resonant timbre panned centrally across the stereo field. A relaxed yet steady rhythmic pulse is established before a clean, mid-range male lead vocal enters with subtle room reverb, supported by a gentle bassline and light, understated percussion. The harmonic framework utilizes upbeat, folk-inspired major-key chord progressions, establishing an intimate, rustic texture.\n\nAround fifty seconds into the performance, the track undergoes a dramatic dynamic and stylistic transition as a full rock rhythm section enters. A driving drum kit introduces a lively backbeat with crisp snare hits and steady hi-hats, paired with a prominent, highly melodic bassline. The lead vocal style shifts from conversational to an energetic, gritty belt, reinforced by layered backing vocal harmonies panned across the stereo image. This expansion transforms the arrangement into a dense, driving folk-rock groove with heightened emotional urgency.\n\nThe momentum continues through subsequent verses until an instrumental bridge emerges around one minute and forty-seven seconds. Here, a rapidly plucked acoustic stringed instrument—resembling a mandolin or acoustic guitar—takes center stage, executing fluid, intricate solo lines over a steady rhythm section. \n\nFollowing the solo section, the high-energy chorus returns with maximum dynamic output. The lead vocalist delivers expressive ad-libs, vocal calls, and sustained high notes over punchy basslines, driving acoustic guitar strums, and active drum fills. The overall production maintains a clear balance, placing the vocal front and center within a warm, open acoustic-electric soundscape that fades out toward the ending, leaving a triumphant, adventurous impression.\n\nGENRES: folk rock, classic rock, acoustic rock, hard rock"
+  },
+  "metadata": {
+    "youtube_id": "LzGBQerkvWs",
+    "title_extracted": null,
+    "corpus_id": "LzGBQerkvWs",
+    "uploader": "Led Zeppelin",
+    "audio_file": "corpus/01_music_videos_audio/audio/LzGBQerkvWs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8770162,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 26.555037,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:43:01Z"
+  },
+  "status": "success",
+  "error": null
+}

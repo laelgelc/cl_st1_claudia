@@ -1,0 +1,38 @@
+{
+  "corpus_id": "GtUVQei3nX4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/GtUVQei3nX4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/GtUVQei3nX4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/GtUVQei3nX4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a laid-back, mid-tempo hip-hop groove in 4/4 meter at approximately 90 BPM. The intro introduces a high-pitched, melodic vocal sample loop set against a warm, buoyant bassline and a crisp, syncopated drum kit featuring punchy kick drums, snappy snares, and steady hi-hat patterns. Subtle vinyl crackle and ambient hiss provide a nostalgic, classic analog texture across the stereo field.\n\nA smooth, confident male rap lead enters over the central instrumental loop, delivering rhythmic verses with a relaxed, conversational flow. The lead vocal is positioned centrally in the mix, enhanced by subtle reverb and tight compression that highlights its clear enunciation and rhythmic precision. The harmonic structure is centered around a repeating, minor-key chord progression supported by electric piano keys and low-end synth bass.\n\nThe track moves into a recurring chorus section characterized by rhythmic call-and-response vocal phrases. During these hooks, the vocal presence expands with subtle pitch-shifting, panning, and backing doubles that create a wider stereo image and elevated dynamic energy. As the arrangement progresses through alternating verse and chorus sections, the drum groove maintains a consistent, head-nodding pulse while understated percussive accents and occasional turntable scratch textures signal structural transitions.\n\nIn the latter half, the performance maintains its nonchalant, cool atmosphere, with the main vocal continuing its steady cadence supported by short ad-lib echoes. The composition concludes with an instrumental outro where the main rap vocal fades out, leaving the high-pitched vocal sample, electric piano chords, and drum beat to play out before gently tapering off into silence.\n\nGENRES: hip hop, boom bap, g-funk"
+  },
+  "metadata": {
+    "youtube_id": "GtUVQei3nX4",
+    "title_extracted": null,
+    "corpus_id": "GtUVQei3nX4",
+    "uploader": "SnoopDoggTV",
+    "audio_file": "corpus/01_music_videos_audio/audio/GtUVQei3nX4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8420934,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.431172,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:09:44Z"
+  },
+  "status": "success",
+  "error": null
+}

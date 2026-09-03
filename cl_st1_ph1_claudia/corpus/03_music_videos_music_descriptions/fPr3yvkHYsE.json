@@ -1,0 +1,38 @@
+{
+  "corpus_id": "fPr3yvkHYsE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/fPr3yvkHYsE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/fPr3yvkHYsE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/fPr3yvkHYsE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a dramatic, ascending orchestral string motif supported by soft cymbal swells and sustained harmonic pads, establishing an emotional, slow-tempo soul ballad in a compound meter (12/8). An expressive male lead vocal enters shortly after, positioned prominently in the center of the stereo mix with warmth and subtle ambient reverb. The backing arrangement consists of a warm electric bassline, a clean electric guitar comping gentle arpeggios, a sustained electric organ pad, and a laid-back drum groove utilizing soft snare accents and delicate cymbal timekeeping.\n\nAs the track moves into the second verse, the lead vocal’s intensity increases, displaying a rich dynamic range that transitions from intimate, breathy phrases to powerful, raspy belting in the upper register. The lush string section responds with expressive counter-melodies and dynamic swells that accent the harmonic shifts. In the subsequent section, the rhythmic drive becomes slightly more defined with crisp guitar offbeat comping and emphatic drum fills. \n\nThe piece reaches its emotional peak in the latter half, where the vocalist delivers an impassioned, blues-inflected performance characterized by wide dynamic leaps, soaring chest tones, and expressive vibrato. The accompaniment swells beneath the voice, with full orchestral strings, organ, and a driving rhythm section creating a dense, expansive sonic texture. Following this powerful climax, the vocal energy softens, guiding the music into an instrumental coda. The strings take center stage once again with a graceful, melodic line that gradually settles onto a resolved harmonic cadence, allowing the track to gently fade into silence.\n\nGENRES: Soul, Orchestral Soul, Rhythm and Blues, Soul Ballad"
+  },
+  "metadata": {
+    "youtube_id": "fPr3yvkHYsE",
+    "title_extracted": null,
+    "corpus_id": "fPr3yvkHYsE",
+    "uploader": "Entre Ciel Et Terre",
+    "audio_file": "corpus/01_music_videos_audio/audio/fPr3yvkHYsE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6106370,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.952317,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:33:48Z"
+  },
+  "status": "success",
+  "error": null
+}

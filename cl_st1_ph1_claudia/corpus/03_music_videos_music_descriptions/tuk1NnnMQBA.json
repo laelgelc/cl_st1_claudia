@@ -1,0 +1,38 @@
+{
+  "corpus_id": "tuk1NnnMQBA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/tuk1NnnMQBA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/tuk1NnnMQBA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/tuk1NnnMQBA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a syncopated electric guitar chord riff panned across the stereo field, quickly joined by a punchy drum fill, a driving acoustic drum kit, and a warm, melodic bassline that establishes a mid-tempo, four-four soul-rock groove. \n\nAt 00:06, a raspy, expressive male lead vocal enters at the center of the mix, processed with subtle vintage plate reverb and slight harmonic saturation. The arrangement expands as a punchy brass section enters, delivering bright horn stabs that punctuate the cadence of the vocal phrases. The rhythmic foundation remains steady and driving, propelled by a crisp snare on beats two and four, buoyant bass syncopation, and clean, rhythmic guitar chops. \n\nDuring the refrain sections, first arriving around 00:58, the vocal intensity ascends into a passionate, belted upper register. The overall texture thickens with dynamic horn swells, wider stereo separation, and energetic cymbal accents. The subsequent verse returns to a slightly leaner dynamic profile, allowing the gritty timbre and emotional nuances of the lead vocal to stand out over the steady rhythm section.\n\nAt 01:40, the track transitions into an extended vamp and groove section. The horn section plays repetitive, catchy response lines while bluesy guitar licks and improvised vocal calls interact in a lively call-and-response dynamic. A brief breakdown around 02:20 reduces the textural density to focus on the steady bassline, tight drum pattern, and urgent vocal delivery before rebuilding into a full ensemble sound.\n\nThe song climactically returns to its main refrain around 02:40, sustaining a dense, upbeat texture filled with brass harmonies, driving percussion, and expressive vocal improvisation. The track maintains this energetic groove through a extended vamp outro, repeating the central harmonic progression while the vocalist ad-libs over rich horn hits until the audio gradually fades out.\n\nGENRES: Soul, Funk Rock, Rhythm and Blues, Blues Rock"
+  },
+  "metadata": {
+    "youtube_id": "tuk1NnnMQBA",
+    "title_extracted": null,
+    "corpus_id": "tuk1NnnMQBA",
+    "uploader": "The Rolling Stones",
+    "audio_file": "corpus/01_music_videos_audio/audio/tuk1NnnMQBA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8522730,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 27.459662,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:44:16Z"
+  },
+  "status": "success",
+  "error": null
+}

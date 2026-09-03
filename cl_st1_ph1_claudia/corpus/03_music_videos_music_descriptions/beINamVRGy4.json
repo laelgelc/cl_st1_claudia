@@ -1,0 +1,38 @@
+{
+  "corpus_id": "beINamVRGy4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/beINamVRGy4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/beINamVRGy4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/beINamVRGy4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track is an energetic, mid-tempo funk-rock and pop-rock song set in a four-four meter with a driving, syncopated groove. It begins with a drum stick count-in that immediately launches into a full-band intro featuring a syncopated bassline, punchy drum kit, crunchy electric guitar riffs, and bright brass section stabs. \n\nIn the first verse, a dynamic male lead vocal enters with a half-spoken, rhythmic delivery. The vocal production features slapback delay and subtle room reverb, positioned prominently above a tight, groove-driven accompaniment of bass guitar and rhythmic electric guitar strums. The track swells dynamically into the chorus, where the texture thickens with heavier, distorted rhythm guitars, multi-tracked vocal harmonies, and punchy horn accents. A short post-chorus follows, featuring a vocal scat motif over the returning funk-rock guitar riff.\n\nThe second verse and chorus maintain this high-energy momentum, featuring a bright, expansive mix with wide stereo panning on the guitars and brass section. Following the second chorus, a breakdown marks the transition to a bridge section. Here, the dynamic level drops significantly, and the texture thins to reveal smoother, sustained chordal backing on cleaner electric guitar and subtle keyboard pads, supported by gentle bass and subdued percussion. The lead vocal style shifts from rhythmic rapping to a melodic, expressive singing tone.\n\nThis quiet bridge builds emotional tension, gradually re-introducing rhythmic drum fills and rising dynamic levels that culminate in a explosive final chorus. This closing section reaches the song's peak dynamic level, driven by belted lead vocals, full chorus harmonies, aggressive drum fills, and resonant horn stabs. The song concludes with a reprise of the scat vocal hook before ending abruptly on a final, resonant band hit.\n\nGENRES: Funk Rock, Pop Rock, Alternative Rock"
+  },
+  "metadata": {
+    "youtube_id": "beINamVRGy4",
+    "title_extracted": null,
+    "corpus_id": "beINamVRGy4",
+    "uploader": "thirdeyeblind",
+    "audio_file": "corpus/01_music_videos_audio/audio/beINamVRGy4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7733624,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.607931,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:53:12Z"
+  },
+  "status": "success",
+  "error": null
+}

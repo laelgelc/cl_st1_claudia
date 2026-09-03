@@ -1,0 +1,38 @@
+{
+  "corpus_id": "zx2TFk0vh1I",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/zx2TFk0vh1I.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/zx2TFk0vh1I.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/zx2TFk0vh1I.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a striking, highly resonant chordal accent—a sharp, ringing burst featuring electric guitar, bass, and a cymbal hit that quickly decays into a fast-tempo, driving 4/4 groove. A classic mid-20th-century pop-rock instrumentation immediately establishes itself, comprising punchy drums with a prominent snare backbeat, a melodic and propulsive bassline, and rhythmic electric guitar strumming spread across the stereo image.\n\nAn energetic male lead vocal enters immediately after the opening accent, delivering rhythmic, forward-thrusting melodic phrases. The vocal timbre is clear and punchy, exhibiting subtle double-tracking and light natural room reverb. The dynamic energy is consistently high, driven by the steady drum groove and bright, mid-focused guitar textures. \n\nAs the song transitions into its contrasting bridge sections, tight two-part male vocal harmonies enter in close intervals, creating a richer, more polyphonic vocal texture while shifting the harmonic color. The rhythm section maintains its unflagging momentum, with the bass guitar providing active scalar runs beneath the steady rhythm guitars.\n\nA brief instrumental solo section features a crisp, agile electric guitar melody paired alongside a bright, percussive keyboard—likely an upright piano—playing rapid octave and arpeggiated figures in unison, adding a distinct rhythmic crispness to the texture. \n\nFollowing the solo, the structure cycles back through the secondary and main vocal sections, reinforcing the upbeat, celebratory mood. The track concludes with an extended repeating coda, where vocal tags repeat over the driving rhythm, before transitioning into a smooth fade-out centered around a clean, multi-note arpeggiated electric guitar pattern that gently resolves into silence.\n\nGENRES: Pop Rock, Beat Music, Rock and Roll, Classic Rock"
+  },
+  "metadata": {
+    "youtube_id": "zx2TFk0vh1I",
+    "title_extracted": null,
+    "corpus_id": "zx2TFk0vh1I",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/zx2TFk0vh1I.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4934598,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.727462,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:17:47Z"
+  },
+  "status": "success",
+  "error": null
+}

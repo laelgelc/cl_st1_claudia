@@ -1,0 +1,38 @@
+{
+  "corpus_id": "aehwEu8SBSo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/aehwEu8SBSo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/aehwEu8SBSo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/aehwEu8SBSo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a mid-tempo 4/4 folk-rock groove featuring strummed acoustic guitar, a warm walking bassline, a steady drum kit laying down a prominent backbeat on beats two and four, and a swirling organ sound characteristic of a rotary speaker cabinet. The tonal foundation is set in a bright major key, established by a cyclical, repeating chord progression that continues throughout the duration of the track.\n\nAt 0:10, a lead male vocal enters at the center of the stereo field. The vocal delivery is dry, nasal, and conversational, carrying an incisive, rhythmic cadence and a slightly biting tone. Production-wise, the vocal is positioned upfront with minimal spatial processing, accompanied by a subtle room-reverb tail that preserves its raw, intimate detail. The stereo image places the strumming rhythm guitars and organ slightly panned to create space around the central bass, drums, and lead vocal.\n\nStructurally, the piece is strictly strophic, proceeding through repeated verses without a traditional chorus or bridge. The musical arrangement remains largely consistent throughout, creating a hypnotic, driving continuity. Subtle textural variations occur between vocal phrases, where the organ provides brief melodic counter-lines and accents, and the drummer introduces light snare and cymbal fills to mark phrase transitions. \n\nAs the track progresses past the three-minute mark, the lead singer’s delivery gains emotional weight and slight dynamic intensity. The final vocal phrase concludes around 3:38, after which the song transitions into an instrumental coda. The ensemble maintains the established cyclical rhythm and chord loop as the overall volume gradually fades out, bringing the track to a complete close at approximately 4:05.\n\nGENRES: folk rock, singer-songwriter, classic rock"
+  },
+  "metadata": {
+    "youtube_id": "aehwEu8SBSo",
+    "title_extracted": null,
+    "corpus_id": "aehwEu8SBSo",
+    "uploader": "Bob Dylan",
+    "audio_file": "corpus/01_music_videos_audio/audio/aehwEu8SBSo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7962480,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.789833,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:05:22Z"
+  },
+  "status": "success",
+  "error": null
+}

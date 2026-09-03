@@ -1,0 +1,38 @@
+{
+  "corpus_id": "puM1k-S86nE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/puM1k-S86nE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/puM1k-S86nE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/puM1k-S86nE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a rhythmic acoustic guitar figure, joined immediately by a warm, melodic electric bassline and a steady mid-tempo drum kit in 4/4 time. The arrangement establishes a comfortable, swing-accented groove grounded in a bright major key. A soulful male lead vocal enters at the center of the stereo field, delivering melodic phrasing with a smooth, expressive timbre and subtle plate reverb.\n\nAs the track moves into its chorus sections, the sonic texture expands with stacked backing vocals providing lush call-and-response harmonies that spread wide across the stereo spectrum. Punctuating brass stabs and subtle horn fills re-enter in the background, subtly boosting the dynamic level. The rhythm section remains steady throughout, driven by crisp snare drum work, rhythmic acoustic guitar strumming, and an active, walking bassline that grounds the harmonic movement.\n\nAn instrumental bridge provides a textural contrast, featuring a featured melodic solo led by acoustic guitar alongside expressive woodwind and brass counter-lines. Following the bridge, the structure returns to a verse and an extended chorus refrain. During this final section, the lead singer delivers dynamic vocal ad-libs over repeating ensemble refrains and increasingly energetic horn fills. \n\nThe mix reflects a vintage pop and soul production style, featuring clear instrument separation, warm acoustic timbres, and moderate dynamic contrast between intimate verses and full chorus arrangements. The overall emotional character is optimistic and relaxed, concluding with a gradual fade-out on the repeating vocal refrain.\n\nGENRES: Pop, Soul, Rhythm and Blues, Brill Building Pop"
+  },
+  "metadata": {
+    "youtube_id": "puM1k-S86nE",
+    "title_extracted": null,
+    "corpus_id": "puM1k-S86nE",
+    "uploader": "Jack Gauntt",
+    "audio_file": "corpus/01_music_videos_audio/audio/puM1k-S86nE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4992554,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.852266,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:29:13Z"
+  },
+  "status": "success",
+  "error": null
+}

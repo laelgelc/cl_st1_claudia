@@ -1,0 +1,38 @@
+{
+  "corpus_id": "-CCgDvUM4TM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/-CCgDvUM4TM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/-CCgDvUM4TM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/-CCgDvUM4TM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an energetic drum pickup featuring snappy snare hits and a crash cymbal, establishing an upbeat, driving 4/4 meter with a classic rock-and-roll groove. The full band texture enters immediately after, driven by a prominent backbeat, a bouncy walking bassline, and a gritty, overdriven electric guitar playing blues-oriented rhythm chords. \n\nShortly into the track, a passionate, gritty male lead vocal enters, delivering an energetic performance with raw bluesy pitch inflections and dynamic shouting. Group backing vocals join almost simultaneously, providing harmonic call-and-response backing and rhythmic vocal chants that enrich the mid-frequency texture.\n\nThe production style evokes a vintage analog aesthetic, marked by warm low-end saturation, natural room reverberation, and a subtle slapback delay applied to the vocals. In the stereo mix, the rhythm section—comprising the kick, snare, and bass—occupies the center, while the electric guitar and backing vocal ensemble are spread across the left and right channels to create a lively, concert-like soundstage.\n\nHarmonically, the track relies on a straightforward, major-key blues progression, maintaining a consistent harmonic motion and an exuberant, danceable mood throughout. Sectional transitions are signaled by punchy drum fills and vocal cues that heighten the overall energy. Around 1:20, the lead vocal steps aside for a blaring, raspy tenor saxophone solo. The saxophone introduces a brighter timbre, performing bluesy pitch bends, growls, and fast melodic runs over the persistent rhythm section. Following the solo, the lead singer re-enters with increased vocal intensity, driving the piece toward an energetic climax before concluding with an abrupt unison hit and drum stinger at approximately 2:30.\n\nGENRES: Rock 'n' Roll, Rhythm & Blues, Twist"
+  },
+  "metadata": {
+    "youtube_id": "-CCgDvUM4TM",
+    "title_extracted": null,
+    "corpus_id": "-CCgDvUM4TM",
+    "uploader": "Chubby Checker",
+    "audio_file": "corpus/01_music_videos_audio/audio/-CCgDvUM4TM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5009644,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.00134,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:12:03Z"
+  },
+  "status": "success",
+  "error": null
+}

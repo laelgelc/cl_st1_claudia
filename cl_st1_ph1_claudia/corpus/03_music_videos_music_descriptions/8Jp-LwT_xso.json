@@ -1,0 +1,38 @@
+{
+  "corpus_id": "8Jp-LwT_xso",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8Jp-LwT_xso.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/8Jp-LwT_xso.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/8Jp-LwT_xso.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens in 4/4 meter at a moderate, steady tempo (approximately 105 BPM) with percussive snapping or clicking paired with a warm, strummed acoustic guitar playing a major-key chord progression. At 0:07, a smooth male lead vocalist enters, singing in a clear, resonant mid-register with subtle plate reverb that enhances its intimate, conversational quality. The accompaniment remains acoustic and understated, composed of strummed acoustic guitar, soft bass notes grounding the harmony, and light percussive accents. \n\nThe overall mood is melancholic yet gentle and nostalgic, characterized by predictable, diatonic folk-pop chord movements and a warm, organic timbre. Around 1:00, the musical texture swells slightly in dynamic volume and emotional intensity during a chorus section, with the singer moving into a higher vocal range before the arrangement settles back into a calmer dynamic. At 1:38, a lead instrumental melody featuring heavy vibrato takes over the main thematic line, performing an expressive solo over the backing acoustic guitar and bass. The musical section then gently fades down into complete silence around 2:17.\n\nA total texture transition occurs at 2:18, shifting from music into an ambient field recording montage. Deep, resonant church bells toll in the distance alongside the sound of dogs barking in an open environment. At 2:28, the sound of a steam train engine chugging along tracks and blowing its horn dominates the mix, panning gently across the stereo field against the background ambient noise before slowly fading out completely near 2:51.\n\nGENRES: Folk Pop, Singer-Songwriter, Traditional Pop, Acoustic Pop"
+  },
+  "metadata": {
+    "youtube_id": "8Jp-LwT_xso",
+    "title_extracted": null,
+    "corpus_id": "8Jp-LwT_xso",
+    "uploader": "The Beach Boys",
+    "audio_file": "corpus/01_music_videos_audio/audio/8Jp-LwT_xso.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5505994,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 23.894139,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:03:19Z"
+  },
+  "status": "success",
+  "error": null
+}

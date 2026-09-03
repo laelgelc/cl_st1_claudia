@@ -1,0 +1,38 @@
+{
+  "corpus_id": "-9dtQzg7gDM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/-9dtQzg7gDM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/-9dtQzg7gDM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/-9dtQzg7gDM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is an intimate acoustic ballad featuring a minimalist, homophonic arrangement composed solely of a lead male vocal and a fingerpicked acoustic guitar. Set in a slow, steady duple or quadruple meter at a relaxed tempo of approximately 60 beats per minute, the piece conveys a warm, romantic, and tranquil atmosphere throughout its duration.\n\nThe track begins with a short three-second instrumental intro played on an acoustic guitar, establishing a gentle, fingerstyle accompaniment pattern with warm resonance and natural steel-string brightness. At 0:03, the male vocalist enters with a deep, smooth baritone tone. The vocals are close-mic’d and positioned centrally in the stereo field, processed with a light touch of room reverb that enhances the performer's dry, crooning delivery and subtle vibrato. The acoustic guitar is panned with a gentle stereo spread, providing steady rhythmic grounding through arpeggiated chord voicings, subtle bassline movements, and brief melodic fills during pauses between vocal lines.\n\nHarmonically, the performance relies on a diatonic major key progression typical of traditional pop and folk ballads, characterized by sweet, consonant harmony. The dynamics remain quietly restrained, maintaining a consistent soft-to-medium dynamic contour. Subtle dynamic swells occur during the recurring refrain sections at 0:28, 1:19, and 2:09, where the vocalist subtly increases emotional intensity and vocal volume before settling back into a softer dynamic for subsequent verses.\n\nThe structure proceeds through three sequential verse-refrain cycles without any dramatic shift in instrumentation or production style. Transitions between sections are organic and fluid, driven by slight rhythmic rubato and vocal phrasing rather than harsh compositional cues. Following the final refrain, the vocal finishes at 2:35, leaving the acoustic guitar to perform a brief, delicate resolving chord cadence that naturally rings out into silence by 2:42.\n\nGENRES: acoustic, ballad, folk, singer-songwriter, pop"
+  },
+  "metadata": {
+    "youtube_id": "-9dtQzg7gDM",
+    "title_extracted": null,
+    "corpus_id": "-9dtQzg7gDM",
+    "uploader": "Elvis Presley",
+    "audio_file": "corpus/01_music_videos_audio/audio/-9dtQzg7gDM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5175342,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 22.389496,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:44:43Z"
+  },
+  "status": "success",
+  "error": null
+}

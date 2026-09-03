@@ -1,0 +1,38 @@
+{
+  "corpus_id": "QkF3oxziUI4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/QkF3oxziUI4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/QkF3oxziUI4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/QkF3oxziUI4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track begins with a slow, intimate acoustic fingerpicking pattern in a minor key and 4/4 meter. Panned across the stereo field, the acoustic guitar delivers a warm, natural timbre. Soft, ambient organ or synth pads gently swell underneath to provide harmonic depth. At 00:53, a solo male vocal enters near the center of the stereo mix. The vocal presentation is clean, close-miked, and reflective, with subtle room reverb accentuating its delicate phrasing.\n\nAs the track progresses past 02:10, the arrangement gradually builds in complexity and dynamic intensity. The acoustic guitar pattern shifts toward broader strumming, while a deep, steady bass guitar enters the mix to reinforce the low-end harmony. The vocal delivery expands in volume and pitch range, conveying heightened emotion.\n\nAround 04:18, an acoustic drum kit enters with a steady mid-tempo 4/4 pulse driven by kick, snare, and hi-hats. The musical texture thickens further around 05:35 as the piece transitions into an upbeat, driving folk-rock groove. The tempo accelerates, and strummed guitars, punchy drum hits, and prominent bass create a lively, energetic momentum. The lead vocal transforms into a powerful, expressive belt with noticeable grit, enhanced by slight delay and plate reverb effects that extend across the stereo field. Cymbal crashes and driving rhythm section patterns mark the song's dynamic peak around 07:18.\n\nFollowing the climax, the full band instrumentation suddenly strips away around 07:45, returning to a delicate, solitary acoustic guitar line. A soft, dynamic, dry lead vocal performs a final, reflective line in a rubato tempo before fading out into complete silence. Overall, the track transitions from a quiet, mystical acoustic ballad into a high-energy rock arrangement before closing with an intimate, minimalist coda.\n\nGENRES: folk rock, acoustic, classic rock, singer-songwriter"
+  },
+  "metadata": {
+    "youtube_id": "QkF3oxziUI4",
+    "title_extracted": null,
+    "corpus_id": "QkF3oxziUI4",
+    "uploader": "Led Zeppelin",
+    "audio_file": "corpus/01_music_videos_audio/audio/QkF3oxziUI4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 15452308,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.707637,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:46:45Z"
+  },
+  "status": "success",
+  "error": null
+}

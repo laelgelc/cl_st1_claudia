@@ -1,0 +1,38 @@
+{
+  "corpus_id": "99j0zLuNhi8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/99j0zLuNhi8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/99j0zLuNhi8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/99j0zLuNhi8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a subtle, low-frequency heartbeat sound effect before a warm acoustic guitar enters, strumming a cyclic chord progression in a steady, mid-tempo 4/4 meter. A gritty, raspy male lead vocal enters in the center channel, delivered with intimate close-miking and subtle room reverb. This acoustic-driven texture is gently augmented by a warm electric bass line and soft electric guitar swells, creating a reflective and contemplative mood.\n\nAt 0:44, the dynamic energy escalates dramatically as the full band enters for an explosive chorus. The arrangement expands into a dense wall of sound featuring wide-panned, heavily distorted electric rhythm guitars, a driving bass line, and a full rock drum kit playing a steady groove with a punchy kick, crisp snare, and accenting cymbal crashes. The lead vocal transitions from an intimate mid-register tone to a soaring, passionate belt.\n\nThe second verse at 1:11 dynamically recedes back to an acoustic-led texture supported by a lighter drum beat and ambient electric guitar countermelodies, before returning to the full-force chorus dynamic at 1:38.\n\nAt 2:07, an expressive lead electric guitar solo takes center stage, featuring a saturated distorted tone, melodic pitch bends, sustained vibrato, and atmospheric delay. This leads directly into a high-intensity bridge section around 2:39, where the vocal reaches its peak emotional intensity alongside energetic drum fills and aggressive guitar strumming. The continuous high energy flows into a final chorus until 3:35, where the heavy rock instrumentation abruptly drops away. The piece concludes quietly with the solitary acoustic guitar strumming its initial chord pattern as the ambient decay fades into silence.\n\nGENRES: post-grunge, alternative rock, hard rock"
+  },
+  "metadata": {
+    "youtube_id": "99j0zLuNhi8",
+    "title_extracted": null,
+    "corpus_id": "99j0zLuNhi8",
+    "uploader": "Creed",
+    "audio_file": "corpus/01_music_videos_audio/audio/99j0zLuNhi8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7461672,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.946713,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:27:22Z"
+  },
+  "status": "success",
+  "error": null
+}

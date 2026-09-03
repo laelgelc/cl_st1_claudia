@@ -1,0 +1,38 @@
+{
+  "corpus_id": "tg0C26QjDgw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/tg0C26QjDgw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/tg0C26QjDgw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/tg0C26QjDgw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an isolated, syncopated drum kit groove in a driving 4/4 meter at a moderate-fast tempo (approximately 125 BPM), featuring a crisp hi-hat pattern, sharp snare hits, and a punchy kick drum. Shortly after, a warm, resonant bass guitar enters with a rhythmic, bluesy bassline, joined by crunch-overdriven electric rhythm guitars. At 00:15, the full ensemble establishes an energetic instrumental intro section marked by biting guitar vamps, punchy bass, and driving drum fills.\n\nAt 00:35, a male lead vocalist enters with a raspy, gritty, and soulful rock delivery, subtly enhanced by subtle room reverb. The rhythm section provides a tight, syncopated blues-rock backdrop beneath the vocals, anchored by minor pentatonic harmony and rhythmic guitar chord chops. The mix presents a broad stereo image with rhythm guitars spread across the flanks, drums and bass grounded in the center, and the vocals cleanly positioned front and center.\n\nBetween 01:14 and 02:22, the performance progresses through dynamic verse and chorus sections. The dynamic level remains high and driving throughout, with the vocalist alternating between energetic, rhythmic phrasing and high-register rock belts. The drum performance features expressive cymbal crashes and syncopated snare accents that accentuate the shifting vocal lines.\n\nAt 02:22, a brief drum transition introduces a screaming electric guitar solo. The lead guitar tone is characterized by saturated overdrive, wide vibrato, and blues-style pitch bends, cutting sharply over the driving rhythm section until the recording cuts out. The overall mood is passionate, rowdy, and energetic, defined by a classic live-band aesthetic and raw blues-rock aesthetic.\n\nGENRES: Blues Rock, Hard Rock, Classic Rock, Funk Rock"
+  },
+  "metadata": {
+    "youtube_id": "tg0C26QjDgw",
+    "title_extracted": null,
+    "corpus_id": "tg0C26QjDgw",
+    "uploader": "G C",
+    "audio_file": "corpus/01_music_videos_audio/audio/tg0C26QjDgw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 12542570,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.273487,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:29:15Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "-N4jf6rtyuw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/-N4jf6rtyuw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/-N4jf6rtyuw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/-N4jf6rtyuw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a mid-tempo, 4/4 soul and funk groove established by a dry drum kit featuring crisp hi-hat syncopation, a steady snare backbeat, and a rounded, warm electric bassline. Layered above the rhythm section is a clean, chorused rhythm electric guitar playing a rhythmic comping pattern alongside warm electric piano chords. The soundscape carries a vintage analog production warmth, characterized by full low-end frequencies and smooth tape-like saturation across the stereo field.\n\nAt 0:03, an expressive male lead vocal enters, characterized by a soulful, gritty timbre and processed with a spacious plate reverb and subtle stereo delay. The arrangement alternates between intimate, mid-register verses and explosive chorus sections—first entering around 0:36—where the singer jumps an octave into a powerful, belted delivery. These high-energy choruses expand the harmonic texture with multi-tracked backing vocal harmonies and sustained organ chords, lifting the overall dynamic profile.\n\nFollowing the initial chorus, the music drops back to the buoyant, syncopated verse texture at 0:54, punctuated by playful spoken ad-libs and raspy vocal inflections around 1:12. The chorus returns with heightened vocal intensity at 1:28 before transitioning into a brief, reflective bridge around 1:46, where the persistent drum groove and active bassline continue while guitar licks answer the vocal phrases. A final dynamic swell at 2:20 delivers peak emotional intensity through soaring vocal improvisations and dense vocal harmonies. The song transitions into an extended outro around 2:36, eventually decelerating slightly as the instrumental layers subside, leaving a decaying vocal phrase and an echoing guitar chord to close the piece.\n\nGENRES: soul, funk, neo-soul, rhythm and blues, pop"
+  },
+  "metadata": {
+    "youtube_id": "-N4jf6rtyuw",
+    "title_extracted": null,
+    "corpus_id": "-N4jf6rtyuw",
+    "uploader": "Gnarls Barkley Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/-N4jf6rtyuw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5780918,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.053963,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:30:47Z"
+  },
+  "status": "success",
+  "error": null
+}

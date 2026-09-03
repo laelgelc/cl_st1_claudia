@@ -1,0 +1,38 @@
+{
+  "corpus_id": "CS9OO0S5w2k",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CS9OO0S5w2k.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/CS9OO0S5w2k.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/CS9OO0S5w2k.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a triumphant, high-energy instrumental introduction featuring punchy brass fanfares, soaring string embellishments, and a driving disco rhythm section. Set in a fast, steady 4/4 meter, the groove is anchored by a four-on-the-floor bass drum, crisp hi-hat accents, snare hits on the second and fourth beats, an octave-jumping bassline, and funk-style electric guitar strums. The production features a wide stereo image, placing the drums and bass centrally while brass and strings span across the stereo field with a bright, polished tone enhanced by subtle reverb.\n\nAt the entrance of the first verse, the dynamic drops slightly to accommodate a confident, warm lead male vocal delivered in a mid-register. The vocal remains clear and centered, supported by sustained string pads, rhythmic guitar chugging, and periodic brass hits that accent the ends of vocal phrases. \n\nThe overall energy elevates dramatically during the chorus as a powerful, multi-tracked male group ensemble joins in rich harmony. Soaring, syncopated brass stabs and cascading string runs create a dense, uplifting texture, while percussive accents reinforce the danceable rhythm and celebratory mood.\n\nA second verse follows, returning to the slightly reduced arrangement driven by solo lead vocals over the active bassline and drum groove, punctuated by short horn stabs. This transitions smoothly into a second chorus, restoring the full-spectrum arrangement, group harmonies, and prominent brass and string counter-melodies.\n\nA third verse maintains the established tempo and rhythmic momentum, featuring a narrative vocal delivery supported by continuous bass motion. The recording concludes with an extended final chorus where the chorus refrains repeat alongside spirited, ad-libbed lead vocal exclamations, rising string flourishes, and exuberant brass stabs, gradually fading out while maintaining its buoyant energy.\n\nGENRES: Disco, Dance-Pop, Funk, Pop"
+  },
+  "metadata": {
+    "youtube_id": "CS9OO0S5w2k",
+    "title_extracted": null,
+    "corpus_id": "CS9OO0S5w2k",
+    "uploader": "Village People",
+    "audio_file": "corpus/01_music_videos_audio/audio/CS9OO0S5w2k.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7718020,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.701232,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:28:19Z"
+  },
+  "status": "success",
+  "error": null
+}

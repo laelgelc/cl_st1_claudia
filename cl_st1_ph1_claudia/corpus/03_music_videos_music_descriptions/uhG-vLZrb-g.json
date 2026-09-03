@@ -1,0 +1,38 @@
+{
+  "corpus_id": "uhG-vLZrb-g",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uhG-vLZrb-g.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/uhG-vLZrb-g.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/uhG-vLZrb-g.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with serene ambient stereo sound effects of birds chirping and gentle wind. At twelve seconds, this brief ambient introduction abruptly cuts into an energetic, fast-tempo alternative rock groove in 4/4 meter. The full band enters with driving drums, a punchy bassline, and heavy, distorted rhythm guitars panned across the stereo field, establishing a high-energy, uptempo momentum. \n\nAt the entrance of the first verse, the texture streamlines slightly to emphasize a melodic male lead vocal characterized by a raspy, passionate delivery with subtle delay and reverb processing. The driving drum pattern of crisp snare snaps, steady kick drum, and sizzling hi-hats propels the verse alongside rhythmic bass and muted guitar riffs. The pre-chorus builds dynamic tension with syncopated drum accents and soaring vocal lines, culminating in an explosive chorus.\n\nThe chorus delivers a prominent dynamic lift, featuring a dense wall of sound created by wide-panned distorted electric guitars, expressive lead vocal melodies, and layered backing harmony vocals that accentuate key phrases. The drum performance swells with prominent crash cymbals and driving fills, maintaining a relentless rock groove. \n\nA brief rhythmic drop transitions into the second verse and pre-chorus, following a similar structural pattern while sustaining the energetic momentum. The song then launches into a dramatic guitar solo section, where an expressive, soaring electric guitar lead takes center stage over a relentless bass and drum rhythm. This leads seamlessly into a triumphant final chorus and extended outro, where the lead vocal reaches its peak emotional intensity amidst powerful backing vocal accents and dense guitar riffs. The track concludes on a decisive, reverberant final guitar chord and drum hit, ringing out into silence.\n\nGENRES: Pop Punk, Alternative Rock, Emo Rock"
+  },
+  "metadata": {
+    "youtube_id": "uhG-vLZrb-g",
+    "title_extracted": null,
+    "corpus_id": "uhG-vLZrb-g",
+    "uploader": "Fall Out Boy",
+    "audio_file": "corpus/01_music_videos_audio/audio/uhG-vLZrb-g.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7346500,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.6473,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:13:04Z"
+  },
+  "status": "success",
+  "error": null
+}

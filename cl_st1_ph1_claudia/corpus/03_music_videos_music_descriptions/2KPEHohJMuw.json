@@ -1,0 +1,38 @@
+{
+  "corpus_id": "2KPEHohJMuw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/2KPEHohJMuw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/2KPEHohJMuw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/2KPEHohJMuw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief, solo a cappella vocal shout before abruptly launching into a high-energy, driving rock-and-roll groove in 4/4 meter at a fast tempo. The core instrumentation comprises a punchy drum kit featuring a crisp, cracking snare, energetic kick, and sizzling hi-hat pulse, a prominent electric bassline providing a steady harmonic anchor, and overdriven rhythm electric guitars panned across the stereo field playing blues-infused riff patterns.\n\nA gritty, raspy male lead vocal commands the arrangement with an aggressive, highly expressive performance, treated with subtle saturation and room reverb. As the song unfolds through its verses, multi-tracked backing vocals periodically join in vibrant call-and-response phrases, expanding the textural density and accentuating key rhythmic turns. The underlying blues-based harmony and driving beat maintain an energetic, celebratory mood throughout.\n\nStructurally, the track moves between driving verse sections and dynamic breakdown moments. A notable transition occurs near the middle of the excerpt, where the full drum groove briefly recedes to accommodate atmospheric, multi-part vocal chants and sustained guitar swells, building anticipation before the full rhythm section re-engages at high dynamic volume.\n\nThe final section is highlighted by an extended, expressive electric guitar solo. The lead guitar tone is saturated with warm distortion and central stereo placement, delivering fast pentatonic runs, dramatic pitch bends, double-stops, and wide vibrato. The driving drums and bass maintain their relentless forward momentum underneath, supporting the guitar’s soaring lines through peak dynamic intensity until the audio fades and comes to a halt.\n\nGENRES: Blues Rock, Hard Rock, Rock and Roll, Classic Rock"
+  },
+  "metadata": {
+    "youtube_id": "2KPEHohJMuw",
+    "title_extracted": null,
+    "corpus_id": "2KPEHohJMuw",
+    "uploader": "Led Zeppelin",
+    "audio_file": "corpus/01_music_videos_audio/audio/2KPEHohJMuw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9453758,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.544963,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:38:48Z"
+  },
+  "status": "success",
+  "error": null
+}

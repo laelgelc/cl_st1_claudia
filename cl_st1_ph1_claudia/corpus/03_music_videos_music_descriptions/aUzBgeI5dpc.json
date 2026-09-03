@@ -1,0 +1,38 @@
+{
+  "corpus_id": "aUzBgeI5dpc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/aUzBgeI5dpc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/aUzBgeI5dpc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/aUzBgeI5dpc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track begins with an intro featuring a tight, syncopated 4/4 funk-soul groove. A punchy drum kit establishes a mid-tempo rhythm with crisp hi-hats and a dry snare on beats two and four, paired with a driving, syncopated bassline and clean electric rhythm guitar playing syncopated chords across the stereo mix. An expressive, high-register male lead vocal enters shortly after, delivering a soulful and emotionally charged performance punctuated by a natural rasp and subtle reverb processing.\n\nThroughout the first verse, the arrangement stays grounded in the rhythm section, emphasizing the tight interplay between the bass and drums while rhythm guitar fills add textural interest. As the music moves into the chorus, the vocal intensity increases, supported by faint backing vocal harmonies and sustained organ tones that enrich the mid-frequency texture. The dynamic energy lifts slightly while maintaining a steady, head-nodding groove.\n\nThe second verse builds on this foundation, with the lead vocalist employing passionate upper-register inflections and melodic ad-libs. The arrangement maintains a warm, vintage analog production aesthetic; the bass guitar and kick drum remain centered to provide low-end punch, while rhythm guitars are panned wide across the stereo field. \n\nFollowing a bridge section where the vocal melody becomes more insistent and interrogative, the track enters an extended chorus breakdown. Here, melodic electric guitar fills take a prominent role alongside the lead vocals, trading phrases over the repeating chord cycle. The dynamic energy remains consistently high as passionate vocal improvisations overlay the syncopated rhythm section, continuing through a gradual fade-out that brings the recording to its conclusion.\n\nGENRES: soul, funk, rhythm and blues, pop"
+  },
+  "metadata": {
+    "youtube_id": "aUzBgeI5dpc",
+    "title_extracted": null,
+    "corpus_id": "aUzBgeI5dpc",
+    "uploader": "The Clash",
+    "audio_file": "corpus/01_music_videos_audio/audio/aUzBgeI5dpc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6168784,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.055433,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:39:30Z"
+  },
+  "status": "success",
+  "error": null
+}

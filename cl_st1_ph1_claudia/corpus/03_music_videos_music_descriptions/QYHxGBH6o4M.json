@@ -1,0 +1,38 @@
+{
+  "corpus_id": "QYHxGBH6o4M",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/QYHxGBH6o4M.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/QYHxGBH6o4M.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/QYHxGBH6o4M.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a driving, mid-tempo 4/4 funk groove defined by a crisp drum kit featuring a punchy kick drum, snappy snare on beats two and four, and a steady hi-hat pattern. A syncopated, highly resonant electric bassline immediately enters alongside rhythmic, wah-wah-filtered electric guitar comping and bright synthesizer stabs. The overall texture is rich, danceable, and vibrant, establishing a wide stereo presentation with rhythm guitars panned across the stereo field while the bass and kick drum remain centered.\n\nAt 0:15, a soulful lead male vocal enters, positioned prominently in the center of the mix with light room reverb. The vocal delivery is dynamic, expressive, and rhythmically precise, singing over a stable minor-key funk chord progression. The chorus section at 0:47 introduces a significant dynamic and textural swell, featuring layered multi-part group backing vocals that provide call-and-response harmonies, unison chants, and high-register accents.\n\nFollowing an energetic interlude with vocal ad-libs and percussive accents at 1:10, the second verse commences at 1:26, maintaining the driving pulse and intricate bass-and-guitar groove. The chorus returns at 1:55 with expanded backing vocal harmonies and punchy synth-brass accents. At 2:20, the track transitions into an extended vocal vamp section characterized by background choir chants and melodic lead vocal interactions over the continuous, steady rhythm track. \n\nAt 2:58, a featured electric guitar solo takes over, utilizing distorted, sustained lead tones with expressive string bends and bluesy phrasing. The dense instrumentation, solid backbeat, and high-energy atmosphere continue seamlessly through this guitar breakdown until the recording finishes.\n\nGENRES: Funk, Post-Disco, Pop, Dance-Pop, Soul"
+  },
+  "metadata": {
+    "youtube_id": "QYHxGBH6o4M",
+    "title_extracted": null,
+    "corpus_id": "QYHxGBH6o4M",
+    "uploader": "Rick James",
+    "audio_file": "corpus/01_music_videos_audio/audio/QYHxGBH6o4M.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6495722,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 23.755524,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:56:52Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "gJLIiF15wjQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/gJLIiF15wjQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/gJLIiF15wjQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/gJLIiF15wjQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an ambient street soundscape dominated by diegetic urban field recordings. Footsteps, casual laughter, overlapping chatter, rustling paper, and the low-frequency rumble of passing road traffic establish an uncompressed, realistic outdoor acoustic environment with natural open-air ambience.\n\nAt 00:48, the audio abruptly shifts into a high-fidelity studio dance-pop production set in a 4/4 meter at a steady mid-tempo of approximately 110 BPM. The groove is driven by a crisp electronic drum machine featuring a punchy four-on-the-floor kick drum, snappy snare and clap layering on beats two and four, and continuous sixteenth-note hi-hat patterns. A bouncy synth bass line provides the low-end harmonic foundation, complemented by syncopated, staccato rhythm guitar chords and bright synth stabs.\n\nThe vocal arrangement features multiple distinct female lead voices taking turn throughout the track. The verses employ a rhythmic, conversational, near-spoken vocal style with clean, center-panned, close-miced clarity. The track transitions smoothly into energetic choruses, where multi-tracked female vocal harmonies expand broadly across the stereo panorama, enriched with polished plate reverb and subtle delay effects. The harmonic progression remains in a bright, diatonic major tonality, sustaining a buoyant, upbeat mood.\n\nA dynamic breakdown section occurs at 02:30, highlighting a syncopated, rapid-fire rap delivery over driving percussion and rhythmic synth hits. This section escalates into a final chorus filled with dense vocal countermelodies, high-register harmonies, and vocal ad-libs. \n\nAt 03:34, the music abruptly cuts out, returning to the diegetic street soundscape. The remaining seconds fade out with the ambient sounds of passing traffic, accelerating engine noises, and outdoor environmental atmosphere.\n\nGENRES: Pop, Dance-Pop, Eurodance"
+  },
+  "metadata": {
+    "youtube_id": "gJLIiF15wjQ",
+    "title_extracted": null,
+    "corpus_id": "gJLIiF15wjQ",
+    "uploader": "Spice Girls",
+    "audio_file": "corpus/01_music_videos_audio/audio/gJLIiF15wjQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7553066,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.914916,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:30:12Z"
+  },
+  "status": "success",
+  "error": null
+}

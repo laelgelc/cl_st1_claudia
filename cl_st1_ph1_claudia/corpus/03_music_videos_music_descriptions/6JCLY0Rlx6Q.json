@@ -1,0 +1,38 @@
+{
+  "corpus_id": "6JCLY0Rlx6Q",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/6JCLY0Rlx6Q.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/6JCLY0Rlx6Q.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/6JCLY0Rlx6Q.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an upbeat, high-energy intro in a 4/4 meter at a brisk disco-pop tempo (around 128 BPM). A groovy rhythm section featuring a punchy four-on-the-floor kick drum, crisp hi-hats, a syncopated bassline, and funky strummed electric guitars establishes the driving rhythmic foundation. Bright synth pads and brass stabs join before transitioning into the first chorus at 0:17. Here, a dynamic male lead vocal sings in an energetic mid-to-high register, accompanied by stereo-panned vocal harmonies and punchy synth-brass stabs.\n\nThe track moves into a driving verse at 0:37, where the arrangement slightly strips back to emphasize the rhythmic bass and guitar strumming beneath the lead vocal. Vocal processing includes modest reverb and short delay. The pre-chorus at 0:58 builds dynamic intensity toward another vibrant chorus at 1:06 featuring rich harmonic textures. A second verse (1:23) and chorus cycle (1:40) maintain the relentless tempo and danceable groove.\n\nAt 2:04, an electric guitar solo takes center stage, featuring overdriven tone, expressive pitch bends, and melodic flourishes over the driving rhythm section. A brief atmospheric bridge at 2:21 with sustained synth pads and driving kick drums creates a brief tonal drop before bursting back into the full chorus at 2:35.\n\nAt 2:56, a vocal exclamation abruptly cuts the music entirely. An interlude follows from 3:00 to 3:16, replacing all music with dry Foley sound effects including footsteps, ambient rustling, and prominent crunching sounds of someone eating a snack. At 3:17, a vocal shout instantly restarts the full disco-pop chorus with maximum dynamic energy, synth stabs, and driving drums, which slowly fades out to close the recording at 3:53.\n\nGENRES: Pop, Synth-pop, Dance-pop, Disco-pop"
+  },
+  "metadata": {
+    "youtube_id": "6JCLY0Rlx6Q",
+    "title_extracted": null,
+    "corpus_id": "6JCLY0Rlx6Q",
+    "uploader": "WALK THE MOON",
+    "audio_file": "corpus/01_music_videos_audio/audio/6JCLY0Rlx6Q.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7879260,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.31131,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:00:24Z"
+  },
+  "status": "success",
+  "error": null
+}

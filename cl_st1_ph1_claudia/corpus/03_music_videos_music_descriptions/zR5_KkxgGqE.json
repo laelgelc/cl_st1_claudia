@@ -1,0 +1,38 @@
+{
+  "corpus_id": "zR5_KkxgGqE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/zR5_KkxgGqE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/zR5_KkxgGqE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/zR5_KkxgGqE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a rhythmic solo percussion intro featuring vinyl turntable scratching, snappish beatboxing effects, finger snaps, and synthetic hi-hat clicks. At twelve seconds, the full groove drops abruptly, establishing an upbeat mid-tempo funk-pop beat in a steady 4/4 meter. The instrumentation is driven by a prominent, syncopated electric bassline, a punchy drum kit with a crisp backbeat snare, and clean, muted funk electric guitar strumming.\n\nA smooth, expressive male lead vocal enters over this groove, processed with warm equalization and subtle reverb that places it upfront in the central stereo image. As the track progresses into the chorus section around thirty-six seconds, the texture expands considerably with multi-tracked backing vocal harmonies, subtle synth stabs, and underlying pad textures. The stereo field broadens as harmony voices are panned across the soundstage, creating a dense, celebratory sonic atmosphere.\n\nFollowing the chorus, a post-chorus refrain features vocal ad-libs and rhythmic vocal hooks over the persistent bass and drum groove. The second verse restores the sparser, rhythmic verse texture, highlighting the rhythmic interplay between the syncopated bass and muted guitar riffs. The second chorus and subsequent vocal vamp build upon the dynamic intensity, incorporating melismatic lead ad-libs and soaring upper-register harmonies.\n\nA bridge section around two minutes and thirteen seconds provides subtle structural contrast, featuring rhythmic vocal phrasing and adjusted instrumental layers before launching into a final, high-energy chorus. The production throughout maintains a modern, polished aesthetic with clean compression, crisp transient response, and balanced frequency representation. The song concludes with an extended outro section where melodic vocal ad-libs flourish over the full instrumental groove, eventually tapering off into a lingering instrumental decay.\n\nGENRES: Contemporary R&B, Funk Pop, Dance-Pop"
+  },
+  "metadata": {
+    "youtube_id": "zR5_KkxgGqE",
+    "title_extracted": null,
+    "corpus_id": "zR5_KkxgGqE",
+    "uploader": "HollywoodRecordsVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/zR5_KkxgGqE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7036654,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.923106,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:18:52Z"
+  },
+  "status": "success",
+  "error": null
+}

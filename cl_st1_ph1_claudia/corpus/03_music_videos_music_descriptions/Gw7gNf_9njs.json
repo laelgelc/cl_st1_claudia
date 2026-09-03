@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Gw7gNf_9njs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Gw7gNf_9njs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Gw7gNf_9njs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Gw7gNf_9njs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief drum pick-up that launches directly into a driving 4/4 country-rock groove at a moderate-fast tempo. The rhythm section establishes a steady foundation with a punchy kick drum, crisp backbeat snare, syncopated hi-hat pattern, and an agile bass guitar articulating root-and-fifth basslines. Acoustic rhythm guitars provide a continuous strummed texture, while overdriven electric guitars contribute riffing fills and accent chords spread across the stereo field. \n\nA solo female lead vocal enters in the verse, characterized by a bright, resonant timbre with country tonal inflections, clear diction, and light spatial reverb. The storytelling verses maintain a buoyant, mid-dynamic feel, allowing the vocal narrative to remain prominent above the driving rhythm section. As the arrangement transitions into the chorus, the dynamic intensity swells significantly into a full-band texture. Stacked female vocal harmonies expand across the stereo field, reinforcing the lead voice above soaring electric guitar chords and energetic crash cymbal hits.\n\nHarmonically, the piece utilizes classic major-key chord progressions, briefly introducing minor harmonic tension during narrative transitions before resolving back into triumphant major chords. The production is modern and polished, featuring a balanced stereo panorama where the lead vocal, kick, snare, and bass occupy the center, flanked by guitars and wide harmony vocals. \n\nA distinct break section introduces conversational vocal ad-libs and playful spoken delivery over a stripped-back, bouncy rhythm track punctuated by guitar accents. The song then builds into an extended, high-energy outro driven by syncopated drum fills, persistent vocal chants, multi-tracked harmony stacks, and energetic guitar riffs, culminating in an emphatic full-band final hit and cymbal ring-out. The overall mood is rowdy, theatrical, energetic, and lighthearted.\n\nGENRES: Country, Country Rock, Country Pop"
+  },
+  "metadata": {
+    "youtube_id": "Gw7gNf_9njs",
+    "title_extracted": null,
+    "corpus_id": "Gw7gNf_9njs",
+    "uploader": "The Chicks",
+    "audio_file": "corpus/01_music_videos_audio/audio/Gw7gNf_9njs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8258208,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.015139,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:14:12Z"
+  },
+  "status": "success",
+  "error": null
+}

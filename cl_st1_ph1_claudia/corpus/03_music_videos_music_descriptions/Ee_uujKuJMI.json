@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Ee_uujKuJMI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Ee_uujKuJMI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Ee_uujKuJMI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Ee_uujKuJMI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an energetic punk rock introduction featuring a distorted electric guitar playing a syncopated, high-register power-chord riff in a fast 4/4 tempo (approximately 180 BPM). Punchy bass guitar and a driving drum kit enter almost immediately, establishing a relentless groove with rapid snare hits on beats two and four and driving hi-hats.\n\nAt 0:11, the first verse commences as a gritty male lead vocal takes center stage. The vocal delivery is passionate and aggressive, processed with light compression and subtle space-filling reverb. Double-tracked, overdriven rhythm guitars are panned wide across the stereo field, backed by steady eighth-note basslines and energetic drum work.\n\nThe track swells into its first chorus at 0:31, marked by an increase in dynamic volume, open crash cymbals, and a fuller sonic wall of distorted guitars. Backing vocal harmonies double the lead line on key accent points, enhancing the anthemic, rebellious mood. \n\nAt 0:50, the second verse reinstates the tight, verse-section drive before Chorus 2 arrives at 1:17, maintaining high dynamic intensity, bright cymbal crashes, and thick guitar textures.\n\nAn instrumental bridge begins at 1:36, showcasing a lead electric guitar solo characterized by melodic pitch bends, fast runs, and sustained notes over the driving rhythm section. \n\nAt 2:07, the texture breaks down significantly into a stripped-back rhythm section with muted guitar strumming. A distinct bandpass telephone-filter effect is briefly applied to a vocal spoken-word interlude around 2:20, creating a narrative sense of distance.\n\nThis breakdown explodes into the final chorus at 2:21, reaching the song's maximum dynamic climax with dense wall-of-sound guitar distortion and expansive cymbal wash. The track moves into an outro at 2:40, reprising the main guitar riff before ending on a final sustained power chord that fades with amplifier feedback.\n\nGENRES: Pop Punk, Punk Rock, Alternative Rock"
+  },
+  "metadata": {
+    "youtube_id": "Ee_uujKuJMI",
+    "title_extracted": null,
+    "corpus_id": "Ee_uujKuJMI",
+    "uploader": "Green Day",
+    "audio_file": "corpus/01_music_videos_audio/audio/Ee_uujKuJMI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5806182,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 23.841223,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:40:34Z"
+  },
+  "status": "success",
+  "error": null
+}

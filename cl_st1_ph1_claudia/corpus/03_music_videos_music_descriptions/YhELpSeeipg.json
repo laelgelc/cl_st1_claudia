@@ -1,0 +1,38 @@
+{
+  "corpus_id": "YhELpSeeipg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/YhELpSeeipg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/YhELpSeeipg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/YhELpSeeipg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a spoken introduction by a male host over rhythmic handclaps that establish a steady 4/4 meter at a moderate swing tempo (around 115–120 BPM). Ambient audience murmur and natural room reverberation create an authentic live concert atmosphere. Following an enthusiastic vocal cue, a warm applause swells as the full rhythm section enters, featuring a swinging drum kit, walking bassline, and a clean-to-slightly overdriven electric guitar playing rhythmic chops on the offbeats.\n\nA male lead vocalist enters with a powerful, resonant blues-shouting delivery, characterized by wide dynamic projection, clear diction, and expressive pitch slides. The music follows a traditional 12-bar blues harmonic progression in a bright major key. The instrumentation maintains a consistent, driving swing groove throughout, with the drums providing a crisp backbeat on snare and cymbals while the bass holds down a fluid walking pattern. The electric guitar provides rhythmic punctuation and blues fills in the spaces between vocal phrases, creating an interactive call-and-response dynamic. \n\nMidway through the performance, an electric guitar solo takes center stage. The guitar timbre features a bright, vintage tube-amp tone with mild overdrive, delivering blues bends, sustained vibrato, and syncopated melodic runs over the continuous swing accompaniment. Brief audience cheers punctuate the energetic instrumental break. Following the solo, the vocalist returns for additional verses and the repeating chorus refrain, pushing the performance to a higher dynamic intensity.\n\nThe audio mix reflects a live mid-20th-century performance aesthetic, featuring a mid-range-focused tonal balance, subtle room reverberation on the vocals and drums, and a narrow stereo image. The overall mood is buoyant, energetic, and rhythmically captivating. The piece culminates in an accented, syncopated cadence ending, immediately met with enthusiastic audience applause and cheering.\n\nGENRES: Jump Blues, Rhythm and Blues, Electric Blues, Rock and Roll"
+  },
+  "metadata": {
+    "youtube_id": "YhELpSeeipg",
+    "title_extracted": null,
+    "corpus_id": "YhELpSeeipg",
+    "uploader": "Default Name",
+    "audio_file": "corpus/01_music_videos_audio/audio/YhELpSeeipg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7290772,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.302235,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:25:56Z"
+  },
+  "status": "success",
+  "error": null
+}

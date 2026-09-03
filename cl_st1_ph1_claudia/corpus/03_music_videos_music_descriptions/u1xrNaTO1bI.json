@@ -1,0 +1,38 @@
+{
+  "corpus_id": "u1xrNaTO1bI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/u1xrNaTO1bI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/u1xrNaTO1bI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/u1xrNaTO1bI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief vocal call phrase before launching immediately into an energetic, upbeat pop-rock groove in a four-four meter at a moderate-fast tempo. The instrumentation is driven by a tight rhythm section featuring a punchy kick drum, snappy snare, steady hi-hats, and an active, melodic electric bassline with a warm, punchy timbre. A clean electric rhythm guitar delivers syncopated funk-style chords and rhythmic muted strumming, panned across the stereo field to establish broad stereo width.\n\nThe lead male vocal enters shortly after the intro, positioned prominently in the center of the mix. The singer’s voice is smooth, soulful, and dynamic, treated with subtle reverb and short delay that provide spatial depth while maintaining clear presence. Backing vocals enter during the refrain, providing warm multi-part harmonies that expand into the far left and right channels, creating a call-and-response texture with the main vocal.\n\nAs the track moves through verse and chorus sections, the dynamic energy remains consistently high and driving. Percussive additions like shakers add further rhythmic texture to the drum pattern. A brief transition section occurs around the two-minute mark, marked by an audible rhythmic breathing sound effect, leading into a clean electric guitar solo filled with melodic licks and subtle bluesy inflections that interact with the persistent bassline.\n\nThe climax of the track features a full-textured repetition of the main refrain with dense backing harmonies and expressive lead ad-libs, elevating the emotional intensity. The arrangement thins in the final seconds, resolving on a clean guitar phrase and vocal tail. The overall tonal character is bright and major-key oriented, creating a soulful, danceable, and uplifting atmosphere throughout.\n\nGENRES: Funk Pop, Pop Rock, Soul Pop"
+  },
+  "metadata": {
+    "youtube_id": "u1xrNaTO1bI",
+    "title_extracted": null,
+    "corpus_id": "u1xrNaTO1bI",
+    "uploader": "Depeche Mode",
+    "audio_file": "corpus/01_music_videos_audio/audio/u1xrNaTO1bI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7230958,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 10.573783,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:13:55Z"
+  },
+  "status": "success",
+  "error": null
+}

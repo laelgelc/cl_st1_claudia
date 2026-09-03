@@ -1,0 +1,38 @@
+{
+  "corpus_id": "My2FRPA3Gf8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/My2FRPA3Gf8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/My2FRPA3Gf8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/My2FRPA3Gf8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is an energetic folk-pop and pop-rock arrangement set in a standard 4/4 meter at a moderate-fast tempo of approximately 117 BPM. The piece opens intimately with a bright, syncopated rhythm played on a plucked acoustic stringed instrument, likely a ukulele or small folk acoustic guitar. A solo female lead vocal enters with a dry, warm, and conversational delivery, positioned front and center in a relatively sparse acoustic texture.\n\nAt the transition to the chorus, the arrangement undergoes a dramatic dynamic drop-in into a full, high-energy pop production. A complete drum kit enters with a driving kick drum, crisp snare, and hi-hat groove, accompanied by a deep bass guitar, synth/string sustain pads, and multi-layered strummed acoustic guitars. The stereo image widens significantly, and the lead vocal transforms into a powerful, soaring belt, augmented by stereo double-tracking, wide backing vocal harmonies, and lush hall reverb.\n\nThe second verse reduces the density, retaining a light percussion and bass pulse beneath the rhythmic strumming to maintain momentum while returning focus to the intimate single lead vocal. A second chorus reiterates the dense, expansive wall-of-sound production with maximum dynamic impact. \n\nA sudden breakdown marks the bridge, stripping away the heavy rhythm section to reveal a soft, sustained backing pad and an exceptionally emotive, breathy vocal performance. This reflective pause builds anticipation before the final burst of full-band pop-rock instrumentation leads into a triumphant climactic chorus. The track finishes with a short acoustic outro as the original strummed acoustic instrument plays a lingering final chord that fades out naturally.\n\nThroughout the track, the production style is modern and polished, balancing bright high-frequency transient detail in the drums and acoustic instruments with a full low-end, framing an expressive vocal performance through extreme dynamic contrast between sections.\n\nGENRES: Folk Pop, Pop Rock, Indie Pop, Contemporary Pop"
+  },
+  "metadata": {
+    "youtube_id": "My2FRPA3Gf8",
+    "title_extracted": null,
+    "corpus_id": "My2FRPA3Gf8",
+    "uploader": "MILEY",
+    "audio_file": "corpus/01_music_videos_audio/audio/My2FRPA3Gf8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7081978,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.003387,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:46:24Z"
+  },
+  "status": "success",
+  "error": null
+}

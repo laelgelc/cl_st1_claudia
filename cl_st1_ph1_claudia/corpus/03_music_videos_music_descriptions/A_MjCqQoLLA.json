@@ -1,0 +1,38 @@
+{
+  "corpus_id": "A_MjCqQoLLA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/A_MjCqQoLLA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/A_MjCqQoLLA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/A_MjCqQoLLA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a live master of ceremonies speaking over a muted, swinging jazz band backing track with brass, drums, and bass playing in a moderate swing tempo. Following a brief spoken introduction and audience applause, a count-in transitions the audio into a mid-tempo acoustic pop-rock song set in a relaxed 4/4 time signature.\n\nThe main performance begins delicately with a solo male lead vocalist singing in an intimate tone, accompanied primarily by strummed acoustic guitar. At the arrival of the second verse, the musical texture thickens as warm bass guitar, subtle drum kit percussion, and smooth multi-part male vocal harmonies enter the mix. Moving into the bridge sections, the arrangement expands into a full band sound featuring steady snare and hi-hat drum patterns, rhythmic guitars, and lush backing harmonies that add harmonic richness.\n\nThe lead vocalist delivers a dynamic, increasingly expressive performance, moving from a tender delivery in the opening verses to powerful, raspy, high-register vocal belts and bluesy improvisational ad-libs as the song builds. The soundscape is warm and organic, featuring a wide stereo panorama that separates the rhythm guitars, centered lead vocals, layered backing harmonies, and a solid rhythm section, creating a vibrant, communal concert atmosphere.\n\nThe final section of the track transitions into an extended, highly repetitive coda based on a driving, cyclical chord progression. The band maintains an upbeat, festive groove anchored by a pumping bassline, steady drum beat, and energetic acoustic guitar strumming. Over this foundation, a massive ensemble chorus chants a repeating melodic hook, while the lead singer improvises passionate vocal shouts, melismas, and high falsetto flourishes above the crowd-like chant. The overall dynamic remains consistently high, joyful, and driving until the audio gradually fades to a close.\n\nGENRES: Pop Rock, Singer-Songwriter, Classic Rock, Live Performance"
+  },
+  "metadata": {
+    "youtube_id": "A_MjCqQoLLA",
+    "title_extracted": null,
+    "corpus_id": "A_MjCqQoLLA",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/A_MjCqQoLLA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 15664818,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.52924,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:57:12Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "PbgKEjNBHqM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/PbgKEjNBHqM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/PbgKEjNBHqM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/PbgKEjNBHqM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a spoken broadcast announcement over enthusiastic audience applause and cheering. At 0:23, the performance erupts into a heavy, mid-tempo 4/4 rock groove driven by crunchy distorted electric guitar, a pulsating bassline, and punchy acoustic drums.\n\nThe track exhibits a dramatic dynamic contrast, alternating between restrained verses and explosive choruses. During the verses, the volume drops significantly into a sparse, brooding texture centered around a melodic electric bassline and a steady drum beat, accompanied by subtle, clean electric guitar chords. The male lead vocal delivers a calm, restrained, and melodic performance in a low-to-mid register.\n\nIn the chorus sections, the dynamics swell dramatically as the electric guitar shifts to thick, heavily distorted power chords, the drums hit loud crash cymbals, and the bass thickens the mix. The lead vocal transitions to a raspy, passionate, and strained delivery, supported by layered melodic vocal harmonies that create a dense, soaring texture.\n\nAn instrumental bridge section features an abrasive electric guitar solo characterized by pitch bends, feedback, and intentional harmonic dissonance over a driving rhythm section. \n\nThe song climaxes through a final, high-energy chorus section before concluding on a sustaining distorted chord accompanied by drum fills, decaying into guitar feedback at 4:35. The recording ends with renewed audience applause and brief closing remarks from the host. \n\nThe overall production style reflects a dynamic live broadcast aesthetic, featuring wide stereo guitar panning, a centered drum kit, and a raw, high-contrast mix.\n\nGENRES: Alternative Rock, Grunge, Hard Rock, Noise Rock"
+  },
+  "metadata": {
+    "youtube_id": "PbgKEjNBHqM",
+    "title_extracted": null,
+    "corpus_id": "PbgKEjNBHqM",
+    "uploader": "Nirvana",
+    "audio_file": "corpus/01_music_videos_audio/audio/PbgKEjNBHqM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9534006,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 22.616455,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:35:34Z"
+  },
+  "status": "success",
+  "error": null
+}

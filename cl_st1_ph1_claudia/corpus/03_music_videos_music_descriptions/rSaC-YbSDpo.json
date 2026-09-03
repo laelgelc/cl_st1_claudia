@@ -1,0 +1,38 @@
+{
+  "corpus_id": "rSaC-YbSDpo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/rSaC-YbSDpo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/rSaC-YbSDpo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/rSaC-YbSDpo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief, serene introduction characterized by rubato arpeggiated electric piano, gentle bell-like tones, and warm, atmospheric synth pads bathed in lush reverb. At 0:15, a dramatic transition introduces an upbeat synth-pop groove in a steady 4/4 meter. The tempo accelerates into a vibrant dance pace driven by an electronic drum kit featuring a four-on-the-floor kick, crisp snare, and hi-hats, alongside a bouncy, syncopated slap-synth bassline and clean, funk-inflected electric guitar rhythm chops.\n\nA clear, expressive female lead vocal enters during the verse, positioned centrally in the stereo field with mild spatial reverb and short delay. The vocal delivery is agile and rhythmic. As the song advances into the pre-chorus, dynamic tension builds through ascending melodic lines and punctuated keyboard chords. \n\nThe chorus expands the sonic texture significantly, introducing punchy synth-brass stabs, shimmering keyboard accents, and lush, multi-tracked female backing vocal harmonies that reinforce the lead singer’s emotional refrain. Bright pop harmonic progressions anchored in a minor key yield a blend of emotional urgency and energetic, danceable appeal. \n\nAn instrumental interlude highlights syncopated guitar strums and keyboard motifs before transitioning smoothly into the second verse and pre-chorus, where the lead vocalist delivers subtle melodic variations with heightened dynamic intensity. The final chorus section arrives with full instrumentation, leading into an extended outro where the lead vocal engages in soulful ad-libs over repeating chorus refrains, backed by continuous percussion, driving bass, and brief guitar flourishes. The music maintains its driving rhythm while slowly fading out to a conclusion.\n\nGENRES: Synth-Pop, Dance-Pop, 1980s Pop, Pop/Rock"
+  },
+  "metadata": {
+    "youtube_id": "rSaC-YbSDpo",
+    "title_extracted": null,
+    "corpus_id": "rSaC-YbSDpo",
+    "uploader": "Madonna",
+    "audio_file": "corpus/01_music_videos_audio/audio/rSaC-YbSDpo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7726936,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.303781,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:56:48Z"
+  },
+  "status": "success",
+  "error": null
+}

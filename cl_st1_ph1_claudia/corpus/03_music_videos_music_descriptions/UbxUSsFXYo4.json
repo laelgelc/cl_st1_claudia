@@ -1,0 +1,38 @@
+{
+  "corpus_id": "UbxUSsFXYo4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/UbxUSsFXYo4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/UbxUSsFXYo4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/UbxUSsFXYo4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a lively, high-tempo introduction featuring bright strummed acoustic guitars, a crisp banjo picking a melodic lead line, a steady bass guitar, and an energetic drum kit playing a driving four-four country-shuffle rhythm with a prominent snare beat. The production is clean and polished, establishing a wide stereo panorama with rhythm instruments panned to the sides while the drums and bass occupy the center.\n\nAt ten seconds, a bright, expressive female lead vocal enters in the center of the mix. Her vocal delivery is twangy, rhythmic, and energetic, processed with a light hall reverb that enhances clarity and presence. The verse maintains a light homophonic texture, driven by the buoyant rhythm section's walking bassline, steady acoustic guitar chords, and crisp drum pattern supporting the main vocal melody.\n\nAs the piece transitions into the chorus around twenty-eight seconds, the overall dynamic level swells. The vocal delivery becomes more emotive and forceful, rising into a higher pitch register. The drum kit expands its pattern with subtle cymbal crashes and fuller snare fills, while additional guitar fills and warm keyboard textures layer into the background, reinforcing a bright major-key harmonic framework. \n\nFollowing a brief instrumental phrase, the second verse commences around one minute and eight seconds, re-establishing the persistent, driving bounce of the rhythm section. The vocal performance navigates through dynamic shifts, seamlessly moving from rhythmic, conversational verse phrasing into the expanded, powerful choruses that follow. Backing vocal harmonies subtly blend in during the later choruses, enriching the overall vocal texture. \n\nThroughout the recording, the persistent two-step rhythm, bright acoustic timbres, balanced dynamics, and commanding vocal performance create an optimistic, energetic, and determined mood.\n\nGENRES: country, pop, country pop, folk"
+  },
+  "metadata": {
+    "youtube_id": "UbxUSsFXYo4",
+    "title_extracted": null,
+    "corpus_id": "UbxUSsFXYo4",
+    "uploader": "Dolly Parton",
+    "audio_file": "corpus/01_music_videos_audio/audio/UbxUSsFXYo4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4919736,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.841607,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:33:33Z"
+  },
+  "status": "success",
+  "error": null
+}

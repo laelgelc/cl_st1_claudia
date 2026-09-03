@@ -1,0 +1,38 @@
+{
+  "corpus_id": "xLFAQuWFcTo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/xLFAQuWFcTo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/xLFAQuWFcTo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/xLFAQuWFcTo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a rhythmic, fingerpicked and strummed acoustic guitar, establishing a steady mid-tempo 4/4 groove with a gentle bounce. Shortly after, a warm bass guitar and a soft, roots-style drum kit—accented by subtle kick drum, snare rim taps, and gentle percussion—join to complete a grounded, organic rhythm section. The soundscape is acoustic-driven and rustic, characterized by warm, natural timbres and a relaxed feel.\n\nA lead male vocalist enters with a soulful, slightly raspy timbre, delivering a storytelling performance positioned clearly in the center of the stereo mix. His voice is processed with subtle, natural room reverberation, enhancing its intimate, live quality. Acoustic guitars are panned across the stereo field to provide spatial width, while the bass and drums remain anchored down the center.\n\nAs the arrangement moves into the refrain, dynamic intensity rises as multi-part male backing vocals join in rich, harmonized chorus lines. This sudden expansion in vocal texture creates an uplifting, communal mood that strongly contrasts with the leaner, narrative style of the verses. The song follows a repeating verse-chorus structure where narrative verses driven by the solo voice alternate with cheerful, full-bodied harmonized refrains. \n\nHarmonically, the track relies on clear, major-key acoustic chord progressions that convey warmth and camaraderie. The tempo remains consistently steady throughout, sustained by the walking bassline and continuous acoustic strumming. Near the conclusion, the full-band dynamic reaches a joyous peak during the final harmonized chorus before gradually unwinding, leaving the acoustic guitar and bass to bring the track to a clean, quiet close.\n\nGENRES: Folk Rock, Americana, Roots Rock, Singer-Songwriter"
+  },
+  "metadata": {
+    "youtube_id": "xLFAQuWFcTo",
+    "title_extracted": null,
+    "corpus_id": "xLFAQuWFcTo",
+    "uploader": "The Band",
+    "audio_file": "corpus/01_music_videos_audio/audio/xLFAQuWFcTo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8813258,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.889236,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:45:37Z"
+  },
+  "status": "success",
+  "error": null
+}

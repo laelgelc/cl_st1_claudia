@@ -1,0 +1,38 @@
+{
+  "corpus_id": "jSUSFow70no",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/jSUSFow70no.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/jSUSFow70no.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/jSUSFow70no.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a spoken-word dramatic intro featuring a man and woman arguing inside a vehicle, concluded by the audible sound of a car door slamming around 0:20. At 0:21, a warm, fingerpicked acoustic guitar introduces a slow-to-mid-tempo chord progression in a 4/4 meter. At 0:31, a smooth R&B drum groove drops in, featuring a soft kick, snappy snare drum, subtle hi-hats, and a deep, melodic electric bassline. \n\nAn expressive male lead vocal enters at 0:43, displaying a polished, romantic delivery with frequent melismas, vibrato, and dynamic shifts. The vocal mix is treated with spacious stereo reverb and light delay. At 1:15, the music transitions into the chorus as lush, multi-part backing vocal harmonies layer behind the lead, expanding the harmonic texture and stereo width while the rhythm section maintains a steady, relaxed groove.\n\nThe second verse and chorus (1:41–2:39) maintain this steady mid-tempo rhythm while the lead vocals become increasingly emotional, incorporating falsetto leaps and impassioned belts. Soft synth pads reinforce the acoustic guitar and bassline beneath the percussion.\n\nAround 2:40, the music moves into an intense bridge section with high-register vocal ad-libs before paring back at 3:31 for an intimate spoken-word monologue. A low male voice delivers an apology over a pared-down accompaniment of acoustic guitar and muted drum hits. \n\nAt 3:48, the track builds into a final, highly dynamic chorus. The lead and backing vocals engage in intricate call-and-response phrasing, backed by full instrumentation at peak dynamic volume. The recording concludes with an extended vocal outro featuring passionate ad-libs before the instrumental texture thins down to a final acoustic guitar motif and decaying reverb tail.\n\nGENRES: R&B, Contemporary R&B, Soul"
+  },
+  "metadata": {
+    "youtube_id": "jSUSFow70no",
+    "title_extracted": null,
+    "corpus_id": "jSUSFow70no",
+    "uploader": "Boyz II Men",
+    "audio_file": "corpus/01_music_videos_audio/audio/jSUSFow70no.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11269744,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.359571,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:11:03Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "waRbcqP4cUI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/waRbcqP4cUI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/waRbcqP4cUI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/waRbcqP4cUI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with an upbeat, driving 4/4 tempo featuring a bright rhythm section composed of punchy drums, crisp hi-hats, handclaps on beats two and four, a warm, melodic bassline, and rhythmic offbeat guitar strumming. Bright, syncopated brass stabs punctuate the intro, establishing an energetic, nostalgic pop mood. \n\nA female lead vocalist enters in the first verse, delivering a melody with a clear, expressive mid-range tone enhanced by light vintage reverb. She is quickly joined by a female backing vocal group that provides lush multi-part harmonies and call-and-response accents. The texture is predominantly homophonic, balanced by rhythmic counter-lines from the bass and brass sections. \n\nIn the chorus, the arrangement swells in dynamic intensity as the backing vocals join the lead in full harmony, supported by accentuated horn stabs and a steady, driving drum groove. The tonality remains firmly in a bright major key, utilizing standard mid-century pop chord progressions with vibrant, uplifting harmonic movement.\n\nFollowing the chorus, an instrumental bridge features a prominent tenor saxophone solo. The saxophone exhibits a raspy, brassy timbre, performing expressive bluesy riffs over the ongoing drum, bass, and rhythm guitar foundation. \n\nThe lead vocalist returns for a subsequent verse and chorus, where the full ensemble re-engages with high dynamic energy. Horn stabs become more frequent, filling the gaps between vocal phrases. The track transitions into an extended outro where the lead vocalist performs dynamic melodic variations over repetitive, rhythmic backing vocal chants and continuous brass accents. The mix slowly fades out to complete the track.\n\nThroughout the piece, the production style reflects a vintage 1960s pop aesthetic, characterized by a cohesive stereo image, warm mid-range saturation, clear vocal separation, and an exuberantly upbeat emotional character.\n\nGENRES: Pop, Soul, Girl Group, Rock & Roll, Rhythm and Blues"
+  },
+  "metadata": {
+    "youtube_id": "waRbcqP4cUI",
+    "title_extracted": null,
+    "corpus_id": "waRbcqP4cUI",
+    "uploader": "Smurfstools Oldies Music Time Machine",
+    "audio_file": "corpus/01_music_videos_audio/audio/waRbcqP4cUI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4999984,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 38.294515,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:48:26Z"
+  },
+  "status": "success",
+  "error": null
+}

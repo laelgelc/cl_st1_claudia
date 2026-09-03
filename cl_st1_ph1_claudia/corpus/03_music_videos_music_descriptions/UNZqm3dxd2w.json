@@ -1,0 +1,38 @@
+{
+  "corpus_id": "UNZqm3dxd2w",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/UNZqm3dxd2w.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/UNZqm3dxd2w.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/UNZqm3dxd2w.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with the sound effect of a high-performance car engine revving and accelerating, panning across the stereo image. This fades into a dark, cinematic intro featuring sustained minor-key organ chords, low orchestral strings, and a high-pitched, vocalized opera sample repeating a haunting, minor-mode melody. Heavy reverb and building dynamic swells generate a tense, gothic atmosphere.\n\nAt 00:25, a modern trap beat drops abruptly in a 4/4 meter with a steady half-time groove. The low end is dominated by a deep, saturated 808 sub-bass that glides pitchwise beneath a punchy kick drum. Crisp, snappy snares and claps mark the downbeats, accompanied by intricate, rapid hi-hat rolls and subtle percussion accents. The dramatic organ, choir, and string loop from the intro persists as the primary melodic and harmonic layer throughout the track.\n\nA lead male rap vocal enters, delivering melodic, syncopated lines with a consistent rhythmic, cadenced flow. The vocals are centrally positioned and heavily processed with auto-tune, double-tracking, short room reverb, and delay effects. Stereo-panned vocal ad-libs punctuate the ends of phrases. The track maintains a high-energy, punchy dynamic level through repeated chorus and verse cycles, occasionally dropping the drums for brief moments to emphasize vocal transitions.\n\nAt 03:09, the beat and bass suddenly cease, transitioning into an atmospheric outro where only the reverberant organ chords and ethereal high vocal sample remain. The texture becomes sparse and spacious as the reverb trail fades, concluding abruptly with the mechanical sound effect of a camera shutter click at the very end.\n\nGENRES: Trap, Hip Hop, Gothic Rap"
+  },
+  "metadata": {
+    "youtube_id": "UNZqm3dxd2w",
+    "title_extracted": null,
+    "corpus_id": "UNZqm3dxd2w",
+    "uploader": "Roddy Ricch",
+    "audio_file": "corpus/01_music_videos_audio/audio/UNZqm3dxd2w.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6811512,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.870852,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:45:31Z"
+  },
+  "status": "success",
+  "error": null
+}

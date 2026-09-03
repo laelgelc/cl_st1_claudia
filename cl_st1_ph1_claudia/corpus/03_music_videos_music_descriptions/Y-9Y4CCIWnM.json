@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Y-9Y4CCIWnM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Y-9Y4CCIWnM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Y-9Y4CCIWnM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Y-9Y4CCIWnM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The performance begins with an energetic, fast-tempo instrumental introduction centered around a briskly picked banjo and twangy guitar lead playing bright melodic motifs. Supporting the lead melodic line is a steady 4/4 country-rock boogie groove defined by strummed acoustic rhythm guitar, a rhythmic walking upright bass line, and lightweight drum percussion emphasizing a steady snare backbeat. \n\nAt approximately eighteen seconds, a male lead vocalist enters with a rustic, twangy timbre and energetic, rhythmic delivery. The vocal signal is placed centrally in the stereo image with subtle room ambiance or short slapback delay, providing a present and direct sound. The supporting instrumentation creates a rich, polyphonic texture with the acoustic rhythm guitar panned slightly to one side and counter-melodic banjo picking playing interactive fills on the other. \n\nThe structure transitions fluidly into a dynamic chorus where the lead vocal delivers rhythmic, repeating call-and-response phrases supported by lively instrumental hits. The harmonic framework relies on a classic major-key boogie progression, imparting a cheerful, rowdy mood. Following a second verse and chorus, the middle section features an extended instrumental solo dominated by fast banjo rolls, syncopated picking patterns, and quick pitch bends, accompanied by driving bass and drums that maintain the unrelenting momentum.\n\nA third verse re-engages the vocal narrative over the continuous walking bass and rhythm guitar framework. The track climaxes in a final chorus enhanced by vocal shouts, accentuated drum fills, and peak dynamic intensity. The song concludes with a short, synchronized cadence and a final flourish on the stringed instruments. The mix displays a balanced, warm analog production quality with clear instrument separation and natural room resonance throughout.\n\nGENRES: Country, Bluegrass, Rockabilly, Rock & Roll, Folk"
+  },
+  "metadata": {
+    "youtube_id": "Y-9Y4CCIWnM",
+    "title_extracted": null,
+    "corpus_id": "Y-9Y4CCIWnM",
+    "uploader": "Chuck Berry",
+    "audio_file": "corpus/01_music_videos_audio/audio/Y-9Y4CCIWnM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5202092,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.192836,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:40:23Z"
+  },
+  "status": "success",
+  "error": null
+}

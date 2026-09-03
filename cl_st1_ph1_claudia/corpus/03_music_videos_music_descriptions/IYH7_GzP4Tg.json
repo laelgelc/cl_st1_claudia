@@ -1,0 +1,38 @@
+{
+  "corpus_id": "IYH7_GzP4Tg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/IYH7_GzP4Tg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/IYH7_GzP4Tg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/IYH7_GzP4Tg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a spoken hype introduction over a low, swelling synth tone and building percussive hits. At 00:20, the main Southern hip-hop beat drops into an explosive main chorus. The track is set in a steady 4/4 meter at a mid-tempo crunk pace (approximately 102 BPM). The rhythm section is driven by a deep, resonant 808 sub-bass, snappy claps and snares on beats two and four, rapid rolling hi-hats, and bright, rhythmic synth-brass horn stabs.\n\nThe vocals are aggressive, energetic, and heavily layered. Group-chanted vocal calls dominate the chorus sections (00:20, 01:36, 02:43, and 03:40), utilizing call-and-response phrasing and doubled shout vocals that create a boisterous party atmosphere. During the main verse (00:48–01:36), the arrangement centers on a single male lead rapper delivering fast, rhythmic verse lines, punctuated by wide-panned ad-libs and percussive vocal accents.\n\nAt 02:04, the song transitions into an instructional dance breakdown. The groove remains constant while vocal callouts issue directional dance commands (\"to the left, to the right\"), featuring rhythmic pauses and dynamic hits on \"Now stop.\" A hypeman interlude at 03:13 ramps up crowd participation chants before re-engaging the full group chorus at 03:40.\n\nThe texture breaks down at 04:08 as the heavy drums, claps, and sub-bass abruptly cut out. The outro features a smooth, lush synth pad chord progression underneath pitch-processed, chopped vocal loops. The soundscape gradually fades out, concluding with a faint police siren sound effect at 04:27. The production features prominent low-end sub-bass, crisp high-frequency percussive detail, and wide stereo separation of backing vocals and ad-libs.\n\nGENRES: Crunk, Southern Hip-Hop, Dirty South, Party Rap"
+  },
+  "metadata": {
+    "youtube_id": "IYH7_GzP4Tg",
+    "title_extracted": null,
+    "corpus_id": "IYH7_GzP4Tg",
+    "uploader": "Radial by The Orchard",
+    "audio_file": "corpus/01_music_videos_audio/audio/IYH7_GzP4Tg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8620068,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.561525,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:29:04Z"
+  },
+  "status": "success",
+  "error": null
+}

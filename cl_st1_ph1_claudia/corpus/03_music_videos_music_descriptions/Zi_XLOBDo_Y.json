@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Zi_XLOBDo_Y",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Zi_XLOBDo_Y.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Zi_XLOBDo_Y.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Zi_XLOBDo_Y.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The piece opens in a 4/4 meter with a crisp, four-on-the-floor drum groove featuring a punchy kick drum, dry snare on beats two and four, steady hi-hat subdivisions, and a brief vinyl scratch sound effect. A syncopated, resonant synth bassline quickly establishes a driving funk groove alongside warm electric piano chords. At around twenty seconds, a clean, compressed rhythm electric guitar enters with staccato funk strums, broadening the stereo field.\n\nAn expressive male lead vocal enters shortly after, delivering a rhythmic and soulful vocal line characterized by light reverb, occasional melodic bends, and dynamic phrasing. The harmonic foundation remains centered in a minor key, driven by rich minor seventh keyboard chords and a persistent, melodic bassline.\n\nAs the arrangement progresses toward the chorus around one minute and twenty-eight seconds, the musical texture densifies with the addition of bright synth-brass accents and sweeping pad textures. The lead vocals rise in intensity, supported by layered background vocal harmonies that add depth across the stereo panorama. The dynamic level remains high and energetic, maintaining a danceable momentum.\n\nA second verse follows, returning to a slightly stripped-down texture that highlights the interaction between the rhythm guitar, punchy bass, and vocal line, before building back up into a subsequent chorus section. At approximately three minutes and six seconds, an instrumental section features an expressive, wah-wah-filtered electric guitar solo supported by rhythmic brass hits and a steady percussion track.\n\nThe final section reintroduces the lead vocal with increasingly passionate ad-libs, soaring call-and-response vocal layers, and lively brass embellishments. The track maintains a consistent tempo and upbeat, driving rhythm throughout, gradually tapering off as the song reaches its conclusion.\n\nGENRES: funk, disco, soul, r&b, dance-pop"
+  },
+  "metadata": {
+    "youtube_id": "Zi_XLOBDo_Y",
+    "title_extracted": null,
+    "corpus_id": "Zi_XLOBDo_Y",
+    "uploader": "Michael Jackson",
+    "audio_file": "corpus/01_music_videos_audio/audio/Zi_XLOBDo_Y.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9468618,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.661405,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:40:47Z"
+  },
+  "status": "success",
+  "error": null
+}

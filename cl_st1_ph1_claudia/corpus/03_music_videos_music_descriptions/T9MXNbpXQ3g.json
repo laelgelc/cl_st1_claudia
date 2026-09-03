@@ -1,0 +1,38 @@
+{
+  "corpus_id": "T9MXNbpXQ3g",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/T9MXNbpXQ3g.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/T9MXNbpXQ3g.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/T9MXNbpXQ3g.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a solo acoustic guitar delivering a driving, rhythmic strumming pattern in a bright 4/4 meter at a steady, upbeat tempo. Within a few seconds, a full rhythm section enters, featuring a punchy bass drum, crisp snare on the backbeat, bouncy hi-hats, and an energetic, melodic bassline that establishes a walking roots-rock groove. Shortly after, a gritty, raspy male lead vocal enters, positioned prominently in the center of the stereo image with a warm, intimate character and light room reverberation.\n\nStructurally, the piece alternates between storytelling verses and a melodic, rising chorus section. The harmonic language is built upon a familiar diatonic major-key progression common in folk-rock and country-rock styles. As the song progresses into the chorus, the vocal dynamics lift with added emotional intensity and sustained phrasing, supported by subtle backing vocal layers and accenting guitar strums. \n\nAround 1:16, an instrumental bridge features an electric guitar lead solo playing melodic, blues-influenced phrases with a warm, slightly overdriven timbre and light reverb. The rhythm section maintains its steady, driving momentum beneath the solo before returning to a final verse and chorus cycle where the vocal intensity reaches its peak. \n\nThe production exhibits an organic, vintage aesthetic with clear spatial separation. Acoustic and electric guitars are panned towards opposite sides of the stereo field, balancing the central arrangement of bass, drums, and vocals. The overall tone is driving, nostalgic, and spirited. The recording concludes with a brief outro where the rhythm section tapers off, leaving the acoustic guitar to slow down its strumming pattern and resolve on a final sustained chord.\n\nGENRES: Folk Rock, Roots Rock, Country Rock"
+  },
+  "metadata": {
+    "youtube_id": "T9MXNbpXQ3g",
+    "title_extracted": null,
+    "corpus_id": "T9MXNbpXQ3g",
+    "uploader": "Creedence Clearwater Revival",
+    "audio_file": "corpus/01_music_videos_audio/audio/T9MXNbpXQ3g.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4801594,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.303051,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:09:39Z"
+  },
+  "status": "success",
+  "error": null
+}

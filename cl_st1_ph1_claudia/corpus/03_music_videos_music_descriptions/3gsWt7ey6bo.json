@@ -1,0 +1,38 @@
+{
+  "corpus_id": "3gsWt7ey6bo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/3gsWt7ey6bo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/3gsWt7ey6bo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/3gsWt7ey6bo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a heavily distorted electric guitar playing a raw, fuzz-laden riff accompanied by dramatic cymbal accents and guitar feedback. Following this intro, the full ensemble bursts in with a fast-tempo, high-energy rhythm in a straight 4/4 meter at approximately 145 BPM. The rhythm section consists of a punchy drum kit delivering an unyielding kick-and-snare backbeat with driving hi-hats, paired with an overdriven bass guitar that reinforces a repeating, modal power-chord progression.\n\nUpon entering, the male lead vocalist delivers a gritty, raspy, and energetic performance. The vocals are positioned centrally in the stereo mix and feature vintage-style warmth, slight overdrive saturation, and subtle room reverb. The harmonic framework relies on a simple, repeating minor-key power chord motif that builds a relentless, primal garage-rock groove beneath the verses and infectious refrains.\n\nDynamically, the track operates at a loud (*forte*) level throughout, generating an aggressive, energetic, and rebellious emotional atmosphere. The production style embraces an authentic, raw aesthetic: rhythm guitars are panned across the stereo field to create a wide sonic wall, while the kick drum, snare, bass guitar, and lead vocals anchor the center. \n\nAs the arrangement transitions through verses and repeating refrain hooks, vocal delivery grows increasingly impassioned, marked by raw shouts and exclamations. An instrumental lead break introduces biting electric guitar fills, driving drum fills, and vocal ad-libs over the main groove before the excerpt fades.\n\nGENRES: Garage Rock, Proto-Punk, Punk Rock, Hard Rock"
+  },
+  "metadata": {
+    "youtube_id": "3gsWt7ey6bo",
+    "title_extracted": null,
+    "corpus_id": "3gsWt7ey6bo",
+    "uploader": "The Stooges - Topic",
+    "audio_file": "corpus/01_music_videos_audio/audio/3gsWt7ey6bo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6034294,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 26.809821,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:45:11Z"
+  },
+  "status": "success",
+  "error": null
+}

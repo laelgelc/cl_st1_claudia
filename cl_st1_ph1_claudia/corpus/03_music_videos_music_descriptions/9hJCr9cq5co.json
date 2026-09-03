@@ -1,0 +1,38 @@
+{
+  "corpus_id": "9hJCr9cq5co",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/9hJCr9cq5co.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/9hJCr9cq5co.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/9hJCr9cq5co.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with the ambient sound of audience applause that quickly fades as an acoustic guitar strums lush chords alongside a warm, subtle organ pad. A soft female lead vocal enters with an intimate, clear tone, singing expressively over the gentle acoustic accompaniment. Shortly after, a bass guitar joins, providing a grounded low end to the medium-slow tempo in compound triple meter. As the melody progresses, rich multi-part vocal harmonies—comprising both male and female backing voices—enter, accompanied by a soft drum kit laying down a gentle pop-folk groove. \n\nThe arrangement builds dynamically through the verse and chorus sections, with the organ swelling and the backing vocals expanding in texture to create a lush, choir-like counterpoint behind the lead singer. Mid-song, the arrangement drops into a quieter, more reflective dynamic where the acoustic guitar, bass, and organ take prominence under a tender vocal delivery before building back up to a soaring vocal climax. The first section concludes with acoustic guitar strumming to a final cadence, prompting warm applause from the audience.\n\nWithout pause, the recording transitions into a second musical segment set in a relaxed 4/4 meter. Acoustic guitar strumming and sustained organ chords re-establish a gentle harmonic foundation. The lead female vocal returns, delivering a melodic line that is regularly punctuated by lush, multi-voiced backing vocal harmonies singing call-and-response refrain lines. The rhythm section maintains a light, steady ballad pulse with soft drum accentuation and subtle bass lines. The soundscape throughout remains organic, warm, and natural, characterized by clean room ambience and minimal processing beyond gentle reverb on the vocals. The piece finishes on a sustained acoustic chord supported by lingering organ, resolving as the audience applauds enthusiastically once again.\n\nGENRES: soft rock, folk pop, vocal pop, pop ballad"
+  },
+  "metadata": {
+    "youtube_id": "9hJCr9cq5co",
+    "title_extracted": null,
+    "corpus_id": "9hJCr9cq5co",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/9hJCr9cq5co.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5655344,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.458434,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:35:06Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "5tpxXDILZHs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/5tpxXDILZHs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/5tpxXDILZHs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/5tpxXDILZHs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a brief spoken voice-over before abruptly launching into an energetic 4/4 pop-rock groove at a fast tempo of roughly 160 BPM. The initial instrumental arrangement is bright and rhythmic, driven by strummed acoustic rhythm guitar, a bouncy electric bassline, a crisp drum kit with prominent tambourine accents on the offbeats, and an electric organ providing sustained harmonic backing. A clear lead male vocal enters centrally in the stereo field, delivering a narrative melody with an optimistic tone and subtle room reverb.\n\nAs the music transitions into the chorus, the dynamic intensity increases significantly. Bright, multi-part male backing harmonies enter to reinforce the lead vocal, creating a dense, layered texture with call-and-response elements. The organ plays punchy, syncopated chordal stabs while the bass and drums maintain a driving, forward-propelling backbeat. The subsequent verse temporarily thins the arrangement back down, re-focusing on the narrative lead vocal alongside acoustic guitar strumming and steady bass movement, before building back up into the expansive chorus structure.\n\nA short instrumental solo section highlights an upbeat melody played on electric guitar and organ, supported by energetic drum fills. The harmonic language remains grounded in bright, major-key pop progressions throughout, maintaining a buoyant and celebratory atmosphere. In the final section, the chorus repeats extensively as an extended hook, enriched by continuous group harmonies and expressive, improvised vocal ad-libs from the lead singer. The mix features a vintage, mid-range focused sonic profile, with guitars and organ spread across the stereo field while the rhythm section and lead vocals remain anchored in the center. The track maintains its vibrant energy until it gradually fades out to silence.\n\nGENRES: Pop Rock, Power Pop, Beat Music, Sunshine Pop"
+  },
+  "metadata": {
+    "youtube_id": "5tpxXDILZHs",
+    "title_extracted": null,
+    "corpus_id": "5tpxXDILZHs",
+    "uploader": "Classics in HD",
+    "audio_file": "corpus/01_music_videos_audio/audio/5tpxXDILZHs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5254846,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.438894,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:19:43Z"
+  },
+  "status": "success",
+  "error": null
+}

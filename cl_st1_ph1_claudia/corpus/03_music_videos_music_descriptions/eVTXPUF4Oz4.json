@@ -1,0 +1,38 @@
+{
+  "corpus_id": "eVTXPUF4Oz4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/eVTXPUF4Oz4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/eVTXPUF4Oz4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/eVTXPUF4Oz4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with an arpeggiated clean acoustic guitar riff played in a mid-tempo 4/4 meter, establishing a sombre, melancholic mood. A steady hip-hop beat and bassline enter to create a driving groove as a rhythmic male rap vocal takes center stage for the verse, processed clearly and dryly in the center of the stereo image.\n\nAt the chorus, the arrangement experiences a dramatic dynamic leap. Heavy, highly saturated rhythm electric guitars crash in panned widely across the stereo field, accompanied by a punchy acoustic drum kit and a dense bassline. The vocal style transforms into a soaring, aggressive rock delivery featuring rasp, double-tracking, and subtle room reverb, creating a thick, high-energy texture.\n\nThe second verse drops abruptly back down in volume and density, returning to the hip-hop rhythm groove, clean guitar riff, and rhythmic rap vocals. This transitions seamlessly into a second heavy chorus that replicates the explosive dynamic contrast of the first.\n\nA transitional bridge follows, initially paring back the instrumentation to clean guitar and bass underneath a melodic, clean vocal line that gradually builds tension. This leads into a fierce climax where the heavy distorted guitars and full drums burst back in alongside raw, belted screaming vocals treated with intense overdrive and spatial delay.\n\nAfter a final, high-intensity chorus, the song strips away all heavy elements for the outro, ending on the lone, reflective acoustic guitar pattern from the intro before softly fading into silence.\n\nGENRES: Nu Metal, Rap Rock, Alternative Rock"
+  },
+  "metadata": {
+    "youtube_id": "eVTXPUF4Oz4",
+    "title_extracted": null,
+    "corpus_id": "eVTXPUF4Oz4",
+    "uploader": "Linkin Park",
+    "audio_file": "corpus/01_music_videos_audio/audio/eVTXPUF4Oz4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6984640,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.92289,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:16:11Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "wo1OwRTRKRk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wo1OwRTRKRk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/wo1OwRTRKRk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/wo1OwRTRKRk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an atmospheric sci-fi prelude featuring a low-frequency synth drone, filtered ambient noise, and sweeping pitch-modulated sound effects that establish a cavernous, mysterious space. At 0:20, a deep, spoken-word male voice enters, processed with a radio bandpass filter, pronounced reverb, and delay to emulate a futuristic broadcast. \n\nA drum roll at 0:40 abruptly shifts the piece into a vibrant, mid-tempo funk-rock groove in a steady 4/4 meter. The instrumentation expands to include a driving drum kit with crisp snare accents, a warm syncopated electric bassline, rhythmic electric guitar comping, and bright, punchy horn section stabs. At 0:55, energetic lead male vocals enter at the center of the stereo image, featuring a clear, expressive timbre with light room reverb. Layered audience cheer sound effects enter periodically, enhancing the illusion of a live stadium performance.\n\nHarmonically, the track relies on uplifting pop-funk chord progressions, alternating between melodic verse sections and hook-driven choruses. The stereo field is widely utilized, with rhythm guitars and brass sections panned across the sides while the bass, kick drum, and lead vocal remain grounded in the center. Texture-wise, the arrangement remains dense and layered, maintaining high dynamic energy throughout. \n\nAround 2:30, the song transitions through rhythmic breakdowns where funky guitar riffs and syncopated brass hits take center stage before returning to the vocal hooks. The energy culminates in an extended outro vamp featuring soaring vocal ad-libs, rhythmic call-and-response patterns, and prominent crowd cheer sound effects. The musical groove climaxes around 5:25 and dissolves back into the low-frequency sci-fi synth drone and rumble, which gradually fades out into silence by the end of the track.\n\nGENRES: Funk Rock, Pop Rock, Glam Rock, Funk"
+  },
+  "metadata": {
+    "youtube_id": "wo1OwRTRKRk",
+    "title_extracted": null,
+    "corpus_id": "wo1OwRTRKRk",
+    "uploader": "Elton John",
+    "audio_file": "corpus/01_music_videos_audio/audio/wo1OwRTRKRk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11160518,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.273318,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:36:06Z"
+  },
+  "status": "success",
+  "error": null
+}

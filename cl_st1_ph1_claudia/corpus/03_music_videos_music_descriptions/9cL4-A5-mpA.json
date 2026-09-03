@@ -1,0 +1,38 @@
+{
+  "corpus_id": "9cL4-A5-mpA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/9cL4-A5-mpA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/9cL4-A5-mpA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/9cL4-A5-mpA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a vibrant, upbeat groove featuring a driving 4/4 shuffle rhythm on drums, a crisp snare backbeat, an energetic walking electric bassline, and rhythmically comping electric guitars bathed in subtle spring reverb. Punchy brass stabs from a horn section punctuate the intro, establishing a bright, energetic 1960s-style pop-rock and soul aesthetic at a brisk tempo of approximately 128 BPM.\n\nAt 0:13, a male lead vocal enters with a soulful, slightly raspy timbre, processed with warm vintage tape saturation and light plate reverb. The verse unfolds over a major-key harmonic progression, with the horn section providing lively call-and-response accents between vocal phrases. The stereo image positions the drums and lead vocals prominently in the center, flanked by panned electric guitars and a wide brass section that fills the soundstage.\n\nThe arrangement lifts into a chorus section near 0:40, marked by a slight increase in dynamics and an increasingly passionate vocal performance that ascends into higher pitch registers. The rhythm section maintains an unwavering, driving swing, while brass countermelodies reinforce the harmonic movement. The second verse at 1:34 and the subsequent chorus repeat at 2:01 build on this celebratory momentum, keeping the sound texture dense, warm, and highly continuous.\n\nFrom 2:29 onwards, the song transitions into an outro tag where the lead vocalist vamps and repeats melodic hooks over a persistent groove. Guitar accents and bright horn bursts continue alongside the steady beat as the track undergoes a smooth, gradual fade-out, bringing the recording to a close at 2:48. Throughout the track, the mood remains exuberant, nostalgic, and joyous, characterized by clear instrument separation, dynamic punch, and classic analog warmth.\n\nGENRES: Pop Rock, Soul, Rock and Roll, Classic Rock"
+  },
+  "metadata": {
+    "youtube_id": "9cL4-A5-mpA",
+    "title_extracted": null,
+    "corpus_id": "9cL4-A5-mpA",
+    "uploader": "moondoggy",
+    "audio_file": "corpus/01_music_videos_audio/audio/9cL4-A5-mpA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5378192,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.442287,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:01:33Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "DMM7pruBx_A",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/DMM7pruBx_A.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/DMM7pruBx_A.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/DMM7pruBx_A.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with ambient outdoor dialogue and environmental field sounds, including casual male conversation and footsteps. At 0:16, the mechanical sound of a cassette tape loading and playing transitions the audio directly into an upbeat, medium-tempo disco-pop and funk track set in a standard 4/4 meter at approximately 118 BPM.\n\nThe musical arrangement features a punchy, driving drum kit with a steady kick, tight snare on beats two and four, crisp hi-hat patterns, and subtle percussion accents. A prominent, rhythmic electric bassline provides a syncopated, slap-bass groove that underpins bright synth stabs, lush keyboard pads, and funky rhythm electric guitars panned wide across the stereo image. \n\nThe primary vocal is a female lead with a soulful, expressive pop timbre, positioned centrally with polished spatial reverb and subtle delay effects. As the track moves from the dynamic verse into the chorus, the arrangement thickens with energetic synth brass and horn punches, layered vocal harmonies, and doubled lead lines that elevate the harmonic density and dynamic intensity.\n\nAround 2:30, the track transitions into a breakdown featuring a rhythmic male rap vocal feature with a punchy, upfront delivery. This section maintains the steady funk groove while introducing call-and-response ad-libs. The piece builds into a high-energy final chorus where the vibrant brass hits, soaring female lead vocals, and dense instrumental layering reach a dynamic climax. \n\nAt 3:08, the music cuts off abruptly, returning to the ambient outdoor recording setting. A brief, casual male dialogue exchange occurs over faint environmental background noise before the audio fades out. The overall mood is vibrant, danceable, and retro-inspired, marked by crisp pop production and dynamic structural transitions.\n\nGENRES: Disco, Funk, Pop, Synth-Pop, Nu-Disco"
+  },
+  "metadata": {
+    "youtube_id": "DMM7pruBx_A",
+    "title_extracted": null,
+    "corpus_id": "DMM7pruBx_A",
+    "uploader": "4KD",
+    "audio_file": "corpus/01_music_videos_audio/audio/DMM7pruBx_A.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6386494,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 10.948947,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:19:40Z"
+  },
+  "status": "success",
+  "error": null
+}

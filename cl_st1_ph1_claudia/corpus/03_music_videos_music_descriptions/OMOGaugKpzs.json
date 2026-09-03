@@ -1,0 +1,38 @@
+{
+  "corpus_id": "OMOGaugKpzs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/OMOGaugKpzs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/OMOGaugKpzs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/OMOGaugKpzs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens in a steady 4/4 meter at a moderate tempo, led by a prominent, crisp drum beat featuring a defined kick, snappy snare on beats two and four, and steady hi-hats. A clean, palm-muted electric guitar arpeggio immediately sets the iconic melodic motif, processed with subtle chorus and stereo delay. A warm, precise bassline enters alongside the guitar to establish a melancholic minor-key harmonic progression.\n\nAt around sixteen seconds, a male lead vocal enters with a clean, centered mix, treated with subtle short reverb. The delivery is direct and expressive, maintaining a smooth, dynamic mid-range tone. As the verse transitions into the chorus, the vocal shifts to a higher, more intense register, accented by subtle vocal doubling and reverberant tails that widen the stereo field. The rhythm section remains steady and driving, maintaining an energetic, danceable pulse underneath the melodic elements.\n\nIn the mid-section, the arrangement expands with a brief bridge section featuring atmospheric synth pads and emotional vocal phrasing before leading into an instrumental solo. The clean electric guitar takes center stage with an expressive solo featuring smooth bends, vibrato, and a shimmering chorused timbre. The driving bass and crisp drum groove provide unbroken rhythmic momentum beneath the guitar lines.\n\nThe vocal re-enters for a final, high-energy pass of the main chorus before moving into an extended outro section. In this final segment, repeating vocal vamps and ad-libbed backing harmonies overlay the persistent instrumental loop. Delay effects become more audible on the vocal tails as the arrangement gradually fades, ending on a sustained decay of guitars and drums. The overall mood combines rhythmic urgency with melancholic drama, showcasing a polished production style with clean timbres and a defined stereo image.\n\nGENRES: new wave, pop rock, synth-pop, post-punk"
+  },
+  "metadata": {
+    "youtube_id": "OMOGaugKpzs",
+    "title_extracted": null,
+    "corpus_id": "OMOGaugKpzs",
+    "uploader": "The Police",
+    "audio_file": "corpus/01_music_videos_audio/audio/OMOGaugKpzs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7326438,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.621268,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:57:38Z"
+  },
+  "status": "success",
+  "error": null
+}

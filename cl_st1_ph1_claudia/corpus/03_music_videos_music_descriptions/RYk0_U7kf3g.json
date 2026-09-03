@@ -1,0 +1,38 @@
+{
+  "corpus_id": "RYk0_U7kf3g",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/RYk0_U7kf3g.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/RYk0_U7kf3g.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/RYk0_U7kf3g.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief spoken dialogue segment set over a nostalgic orchestral musical background, transitioning at 00:10 into a high-energy, fast-tempo 4/4 pop-rock and rockabilly track. The instrumental foundation consists of a punchy, driving synth bassline, a sharp drum kit maintaining a prominent snare backbeat, rhythmic handclaps, and bright electric guitar chugging. A theatrical female lead vocal enters with expressive dynamic variation, quickly followed by a male lead vocal in an alternating call-and-response verse structure. Exuberant brass stabs punctuate key transitions, and multi-tracked backing vocal harmonies singing rhythmic responses enrich the choruses. The stereo production is polished, placing lead vocals centrally with backing choruses and horn sections panned across the stereo field, enhanced by moderate reverb and compression for a full, energetic mix.\n\nAt 03:18, the music fades into ambient chatter, applause, and a brief spoken dialogue exchange among speakers. At 03:38, a second upbeat retro rock-and-roll and doo-wop track begins following a quick brass flourish and drum roll. This section features a bouncy swing-influenced 4/4 rhythm, a walking bassline, upbeat rhythm guitar, and energetic horn stabs. The vocal presentation shifts to a full group ensemble of male and female voices performing fast, synchronized doo-wop vocalise and harmonized group choruses. The dynamic intensity remains consistently high, driven by playful, exuberant energy and a dense, layered texture.\n\nFollowing an extended chorus, the musical arrangement cuts out around 06:27. The recording concludes between 06:28 and 06:43 with a sudden stylistic shift into a deep, low-frequency ambient rumble accompanied by reverberant, atmospheric synth pads that slowly decay into complete silence.\n\nGENRES: Pop Rock, Rock & Roll, Doo-Wop, Musical Theatre"
+  },
+  "metadata": {
+    "youtube_id": "RYk0_U7kf3g",
+    "title_extracted": null,
+    "corpus_id": "RYk0_U7kf3g",
+    "uploader": "Boxoffice Movie Scenes",
+    "audio_file": "corpus/01_music_videos_audio/audio/RYk0_U7kf3g.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 12926720,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.772247,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:11:43Z"
+  },
+  "status": "success",
+  "error": null
+}

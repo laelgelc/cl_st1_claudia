@@ -1,0 +1,38 @@
+{
+  "corpus_id": "hCuMWrfXG4E",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hCuMWrfXG4E.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/hCuMWrfXG4E.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/hCuMWrfXG4E.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with narrative sound effects, including the shaking and spraying of an aerosol can, followed by a metallic latch sound and a bell, before launching into a vibrant, upbeat tempo in a 4/4 meter. A high-energy synth-brass fanfare and punchy drum fill establish a driving, danceable pop groove defined by a prominent backbeat snare, tight hi-hats, and an energetic, melodic bassline. \n\nA clear, expressive male tenor lead vocal enters, delivering a melodic verse over the rhythmic foundation of strummed electric guitar, synth pads, and bass. As the track progresses into the chorus and subsequent verses, rich multi-part backing vocal harmonies join, providing call-and-response textures, falsetto accents, and sustained harmonic chords that widen the stereo field. Bright horn stabs and brass fanfares periodically punctuate key phrases, accentuating dynamic transitions throughout the structure. \n\nHarmonically, the track remains grounded in an uplifting major key, featuring classic pop chord progressions that create an optimistic and carefree mood. The arrangement demonstrates a layered, full-bodied texture where lead vocal belting alternates with intricate vocal stacks. Production-wise, the recording features a polished pop aesthetic with subtle reverb and short delay on the lead vocals, gated snare drum reverb, and clear stereo separation panning guitars and backing vocals across the left and right channels. \n\nThe track moves through distinct verse-chorus cycles and an emotionally heightened vocal bridge before transitioning into an extended outro where the lead singer ad-libs over repeating vocal refrains and driving rhythms. The recording concludes as the musical arrangement fades out, punctuated by the sound effect of a speeding vehicle’s engine and screeching tires.\n\nGENRES: pop, synth-pop, pop rock, doo-wop"
+  },
+  "metadata": {
+    "youtube_id": "hCuMWrfXG4E",
+    "title_extracted": null,
+    "corpus_id": "hCuMWrfXG4E",
+    "uploader": "Billy Joel",
+    "audio_file": "corpus/01_music_videos_audio/audio/hCuMWrfXG4E.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6480860,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.728267,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:56:53Z"
+  },
+  "status": "success",
+  "error": null
+}

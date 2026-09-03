@@ -1,0 +1,38 @@
+{
+  "corpus_id": "GlPlfCy1urI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/GlPlfCy1urI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/GlPlfCy1urI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/GlPlfCy1urI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a solo acoustic grand piano performing a mid-tempo, arpeggiated chordal pattern in a steady 4/4 meter at approximately 63 BPM. The piano timbre is warm, reverberant, and spatially wide across the stereo soundstage. At approximately 0:02, an intimate male lead vocal enters, delivered with a smooth, conversational, and natural timbre, positioned centrally in the mix with a subtle hall reverb. The introductory section maintains a delicate, minimalist texture and quiet dynamics, establishing a contemplative and heartfelt mood within a warm major key harmony.\n\nAt 1:02, the arrangement expands with the entry of a gentle rhythm section. A warm, round electric bass provides grounded low-end support, while a drum kit playing a soft brush and rim-click pattern establishes a subtle shuffling groove. The texture becomes moderately denser, though the acoustic piano remains the primary harmonic engine. The vocal dynamics gradually rise as the singer moves into higher pitch registers with increased emotional resonance.\n\nDuring the second verse starting around 1:37, the full band dynamic is maintained. The electric bass plays a melodic, sliding line, and the drums maintain a steady, light rhythmic drive. The mix is clean and acoustic-focused, featuring broad stereo separation between the piano's left-right panning and the centered vocals, bass, and kick drum.\n\nThe piece reaches its dynamic peak around 2:48 during a repeated chorus section. Here, the lead vocal reaches its most passionate and expressive height, supported by accentuated piano chords and steady percussion. At 3:23, the outro initiates a gradual taper in energy, with the rhythm section relaxing its drive. The track concludes as the rhythm instruments soften, leaving a final sustained acoustic piano chord to gently decay into silence by 3:48.\n\nGENRES: Pop, Singer-Songwriter, Soft Rock, Piano Ballad"
+  },
+  "metadata": {
+    "youtube_id": "GlPlfCy1urI",
+    "title_extracted": null,
+    "corpus_id": "GlPlfCy1urI",
+    "uploader": "Elton John",
+    "audio_file": "corpus/01_music_videos_audio/audio/GlPlfCy1urI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7307862,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.881543,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:23:47Z"
+  },
+  "status": "success",
+  "error": null
+}

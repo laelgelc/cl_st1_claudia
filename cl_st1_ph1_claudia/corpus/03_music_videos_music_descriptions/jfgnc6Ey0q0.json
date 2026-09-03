@@ -1,0 +1,38 @@
+{
+  "corpus_id": "jfgnc6Ey0q0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/jfgnc6Ey0q0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/jfgnc6Ey0q0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/jfgnc6Ey0q0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens in a driving 4/4 meter at a bright, danceable tempo of approximately 125 BPM, establishing an energetic pop-soul and rock-and-roll groove. An electric guitar with a crisp, slightly overdriven crunch tone introduces a rhythmic chordal riff, paired with a dynamic, melodic bassline, a punchy drum kit featuring a snappy snare on the backbeat, and sharp brass section accents. Exuberant vocal shouts wet with slapback delay punctuate the introductory phrase, building excitement before transitioning into the first verse.\n\nAs the main verse begins, the musical texture opens up to highlight the lead male vocalist, who delivers a soulful, expressive performance positioned prominently in the center of the stereo field with short plate reverb. The rhythm section maintains a steady, driving momentum through muted guitar strums on offbeats and a walking bassline in the low-mid frequencies. Warm, harmonized male backing vocals enter, creating a dynamic call-and-response arrangement that spreads broadly across the stereo field. The brass section periodically interjects with tight, punchy chord stabs in the upper frequencies to emphasize key rhythmic accents.\n\nDuring the chorus and bridge, the overall dynamic intensity escalates as backing vocal harmonies become denser and the lead vocal gains a raspy, passionate grit. Rhythmic chants and vocal exclamations from the ensemble interact with the lead phrase, while the drums drive the section forward with syncopated snare fills and crisp hi-hat accents. The mix reflects a warm, vintage analog production style with distinct panning separation between guitars and horns, generating a vibrant, celebratory, and retro atmosphere. The piece culminates in a lively coda featuring passionate vocal ad-libs, interactive drum fills, and a decisive final ensemble hit.\n\nGENRES: soul, pop rock, rhythm and blues, funk"
+  },
+  "metadata": {
+    "youtube_id": "jfgnc6Ey0q0",
+    "title_extracted": null,
+    "corpus_id": "jfgnc6Ey0q0",
+    "uploader": "rockarchieve",
+    "audio_file": "corpus/01_music_videos_audio/audio/jfgnc6Ey0q0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6428848,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.981441,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:37:13Z"
+  },
+  "status": "success",
+  "error": null
+}

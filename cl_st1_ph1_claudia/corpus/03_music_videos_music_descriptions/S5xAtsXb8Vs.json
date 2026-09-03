@@ -1,0 +1,38 @@
+{
+  "corpus_id": "S5xAtsXb8Vs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/S5xAtsXb8Vs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/S5xAtsXb8Vs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/S5xAtsXb8Vs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with an extended instrumental introduction featuring a solo drum groove marked by crisp hi-hat accents and snare rimshots, joined immediately by a melodic, syncopated bassline operating within a mid-tempo, 4/4 reggae groove. Offbeat electric guitar skank chords and bubbling electric organ keys establish the rhythmic foundation in a minor key. Additional layers enter sequentially: fluttery melodic flute phrases and warm, clean-toned electric guitar lead lines alternate over conga percussion and swelling stabs from a brass section consisting of trumpets and saxophones. \n\nAt roughly two minutes, the male lead vocal enters with a soulful, narrative timbre enhanced by subtle room reverb. The arrangement temporarily thins during the verse to accentuate the vocal delivery, supported by the steady one-drop rhythm, walking bass, and low organ pads. The chorus introduces a pronounced dynamic swell as layered backing vocal harmonies join the lead singer, punctuated by punchy, syncopated brass riffs. \n\nFollowing the chorus, an instrumental interlude features improvised lead lines from the flute and electric guitar alongside active bass counterpoint. The song continues through alternating verse and chorus sections, maintaining a steady, rhythmic impulse while building dynamic contrast through instrumental density and vocal intensity. Vocal ad-libs and dramatic, speech-like inflections punctuate the later verses. The track eventually transitions into an extended outro jam, where flute, saxophone, and electric guitar take turns soloing over the repeating minor-key rhythm section before the arrangement sustainedly winds down to its conclusion.\n\nGENRES: Reggae, Ska, Funk, Soul"
+  },
+  "metadata": {
+    "youtube_id": "S5xAtsXb8Vs",
+    "title_extracted": null,
+    "corpus_id": "S5xAtsXb8Vs",
+    "uploader": "Michael Thomas",
+    "audio_file": "corpus/01_music_videos_audio/audio/S5xAtsXb8Vs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 13404494,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.488769,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:14:55Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "na8xgu-KLAk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/na8xgu-KLAk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/na8xgu-KLAk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/na8xgu-KLAk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with an iconic electric guitar intro, delivering a rhythmic, overdriven chord progression with a warm, retro crunch. A classic 4/4 rock drum beat—featuring a punchy kick, snappy snare, and steady hi-hats—joins almost immediately alongside an agile, melodic bassline to set an upbeat, driving mid-tempo groove.\n\nAt 0:25, a charismatic male lead vocal enters in the center of the stereo field. The vocal style is dramatic, gritty, and expressive, treated with subtle slapback delay and room reverb that lend a spacey depth. The arrangement maintains a medium dynamic through the verse, grounded by crisp rhythm guitar strumming and steady bass counter-melodies.\n\nThe texture expands at 1:12 with the arrival of the refrain. Rich, multi-tracked backing vocal harmonies, sweeping guitar voicings, and emphatic drum fills elevate the dynamic intensity, introducing a victorious yet melancholic emotional tone. The harmonic foundation relies on traditional rock major-scale progressions with chromatic voice-leading in the bass.\n\nFollowing a brief transition at 1:36, the second verse commences around 1:48. The lead vocal grows more urgent and passionate, driving over persistent rhythm guitar and active basslines. A secondary chorus at 2:12 re-establishes the full, widescreen production, filling the stereo field with dense vocal and instrumental layering.\n\nThe outro begins at 2:35, anchored by repeating guitar riffs and declarative vocal phrases. Around 2:57, the track initiates a pronounced ritardando, smoothly decelerating the tempo as the vocalist holds a long, expressive final note. The recording culminates in a final, sustained overdriven guitar chord and drum accent that gradually decays into quiet reverberation.\n\nGENRES: glam rock, classic rock, pop rock, hard rock"
+  },
+  "metadata": {
+    "youtube_id": "na8xgu-KLAk",
+    "title_extracted": null,
+    "corpus_id": "na8xgu-KLAk",
+    "uploader": "David Bowie",
+    "audio_file": "corpus/01_music_videos_audio/audio/na8xgu-KLAk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6338198,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.171206,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:43:56Z"
+  },
+  "status": "success",
+  "error": null
+}

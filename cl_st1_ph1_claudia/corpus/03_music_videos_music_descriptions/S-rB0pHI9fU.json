@@ -1,0 +1,38 @@
+{
+  "corpus_id": "S-rB0pHI9fU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/S-rB0pHI9fU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/S-rB0pHI9fU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/S-rB0pHI9fU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief introduction featuring an acoustic guitar played with a lively, strummed rhythm in a steady, moderate 4/4 meter. At approximately three seconds in, a warm and clear lead male vocal enters, carrying a melodic narrative above a walking acoustic bass line and rhythmic guitar strumming. The production presents an intimate, close-miked sound stage with a dry tone on the central lead voice, while the acoustic guitar provides a rich stereo width.\n\nAs the track transitions into the first chorus at thirty-seven seconds, the overall dynamics swell slightly with the addition of layered, multi-part vocal harmonies panned across the stereo field, highlighting a harmonic movement into a brighter tonal area. The texture thins back to a leaner verse arrangement at fifty-four seconds, driven by the persistent, upbeat acoustic groove. \n\nAt one minute and twelve seconds, an acoustic instrumental solo takes center stage, playing an intricate melodic phrase over bouncy guitar chords and driving bass notes before returning to the chorus vocal at one minute and twenty-eight seconds. The vocal delivery remains smooth, expressive, and optimistic throughout, reinforced by subtle backing harmonies that enhance the lighthearted, nostalgic mood.\n\nFollow-up verses at one minute and forty-five seconds and two minutes and one second maintain the mid-tempo momentum, building toward the final chorus section at two minutes and eighteen seconds. In this passage, the arrangement reaches its dynamic peak, utilizing dense vocal harmonies and energetic guitar rhythm. The recording enters its outro at two minutes and thirty-five seconds, featuring repeated melodic vocal hooks and high-register ad-libs. The overall intensity gradually winds down until the song ends on a final, sustained acoustic guitar chord that naturally decays into silence near three minutes.\n\nGENRES: acoustic pop, folk pop, singer-songwriter"
+  },
+  "metadata": {
+    "youtube_id": "S-rB0pHI9fU",
+    "title_extracted": null,
+    "corpus_id": "S-rB0pHI9fU",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/S-rB0pHI9fU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5977824,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.295039,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:48:40Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "byQIPdHMpjc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/byQIPdHMpjc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/byQIPdHMpjc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/byQIPdHMpjc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an ambient soundscape of urban traffic, car horns, and sirens, which smoothly crossfades into the cheering and applause of a live audience. At approximately twenty-one seconds, a moderate-tempo, driving 4/4 country-rock groove kicks in. The instrumentation consists of a warm, strummed acoustic guitar, punchy electric bass, a steady drum kit featuring a prominent snare and kick, and crisp electric guitar licks.\n\nAt thirty seconds, a lead male vocalist enters with a twangy, slightly raspy, and expressive tone. Positioned centrally in the stereo mix, his vocals are treated with subtle reverb that enhances the live concert atmosphere. The harmonic structure is simple and diatonic, maintaining an upbeat and accessible feel. The verse transitions at one minute into a high-energy chorus, characterized by a lift in dynamics, punchy rhythmic accents, and a driving rhythm section.\n\nA short instrumental interlude featuring electric guitar embellishments leads into a second verse around one minute thirty-three seconds, maintaining the steady mid-tempo groove. The second chorus at two minutes four seconds returns with heightened vocal passion, followed immediately by a melodic electric guitar solo at two minutes nineteen seconds that features mild overdrive and expressive pitch bends.\n\nAt two minutes thirty-five seconds, the chorus repeats, enriched by layered backing vocal harmonies and audible crowd participation, creating a dense, communal texture. The track reaches its climax at three minutes six seconds with an extended, energetic electric guitar solo over an insistent, driving drum beat. Audience cheers resurface in the mix as the song approaches an emphatic, sustained final cadence around three minutes thirty-eight seconds, concluding with enthusiastic crowd applause fading to the end.\n\nGENRES: country, country rock, pop rock, live recording"
+  },
+  "metadata": {
+    "youtube_id": "byQIPdHMpjc",
+    "title_extracted": null,
+    "corpus_id": "byQIPdHMpjc",
+    "uploader": "Billy Ray Cyrus",
+    "audio_file": "corpus/01_music_videos_audio/audio/byQIPdHMpjc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7472074,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.077381,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:48:49Z"
+  },
+  "status": "success",
+  "error": null
+}

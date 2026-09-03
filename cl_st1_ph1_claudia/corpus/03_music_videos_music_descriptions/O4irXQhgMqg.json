@@ -1,0 +1,38 @@
+{
+  "corpus_id": "O4irXQhgMqg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/O4irXQhgMqg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/O4irXQhgMqg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/O4irXQhgMqg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an isolated, clean electric guitar playing an arpeggiated, minor-key melodic hook in an upbeat tempo. At 00:09, a rapid, ascending snare drum fill propels the track into a high-energy 4/4 garage-rock groove. The full rhythm section enters abruptly, featuring a driving drum kit with a prominent backbeat, a pulsing bass guitar, and strummed electric rhythm guitars panned across the stereo field. \n\nA gritty, expressive male lead vocal enters at 00:13, processed with warm tape saturation and a light room reverb. The vocal delivery shifts between melodic singing, soulful phrasing, and raspy belts. The composition maintains a fast, relentless tempo and a driving minor-key chord progression throughout the verse structures. The stereo mix positions the lead vocal and bass firmly in the center, flanked by rhythm guitars and stereo drum overheads that convey an organic, mid-60s vintage production style.\n\nAs the track proceeds through alternating verse and bridge sections, the dynamic intensity steadily elevates. Tambourine accents join the percussion, enhancing the forward momentum. At 02:15, the lead vocalist transitions from articulated lyrics to a rhythmic, humming motif that echoes the main guitar riff, backed by an energetic, continuous drum pattern and active bassline. \n\nBy 02:38, the arrangement reaches its dynamic climax in an extended outro section. The lead vocals become increasingly impassioned and raw, delivering bluesy ad-libs, shouting, and raspy vocalisations. The instrumentals maintain a dense texture with aggressive rhythmic strums and frequent drum fills, sustaining a dark, urgent, and driving emotional tone until the performance terminates in a sudden, emphatic final rhythmic cadence.\n\nGENRES: Garage Rock, Psychedelic Rock, Soul Rock, Pop Rock"
+  },
+  "metadata": {
+    "youtube_id": "O4irXQhgMqg",
+    "title_extracted": null,
+    "corpus_id": "O4irXQhgMqg",
+    "uploader": "ABKCOVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/O4irXQhgMqg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7241732,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.999201,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:13:25Z"
+  },
+  "status": "success",
+  "error": null
+}

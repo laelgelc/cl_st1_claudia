@@ -1,0 +1,38 @@
+{
+  "corpus_id": "OJWJE0x7T4Q",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/OJWJE0x7T4Q.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/OJWJE0x7T4Q.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/OJWJE0x7T4Q.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with atmospheric ambient noise and tape static, through which a solo synth-flute melodic line featuring pitch slides, heavy reverb, and delay echoes over a low, resonant sub-bass drone. This spacious, mysterious intro creates a sense of anticipation before a sudden transition at 0:31 introduces an energetic, upbeat 4/4 funk-pop groove at a danceable tempo of approximately 98 BPM. \n\nThe main arrangement features a tight rhythm section comprising a punchy, slap-tinged electric bassline, steady kick drum, crisp hi-hats, and a snappy, reverberant snare drum. Clean, syncopated rhythm guitar chugs are panned to the sides, widening the stereo image. A soulful, expressive male lead vocal enters at 0:53, positioned prominently in the center of the mix with a warm, dry timbre and subtle slapback delay. His performance transitions smoothly between rhythmic, syncopated verses and emotionally charged, soaring melodic phrases.\n\nDuring the chorus sections, punchy synth-brass stabs and horn fills punctuate the downbeats, boosting the overall dynamic drive. Lush, multi-tracked female backing vocals join in a call-and-response structure, adding harmonic depth and brightening the high-frequency texture. The harmonic structure centers around a driving minor-key funk chord progression with bright modal colorations.\n\nA brief transitional bridge at 3:13 reintroduces the sliding whistle synth motif from the intro, offering a moment of thematic contrast before the music surges back into the full-ensemble groove. The track reaches its dynamic peak in the final section, featuring impassioned vocal ad-libs, dense backing harmonies, and active bass fills. The energy gradually tapers off as the main arrangement fades, leaving a repeating low-end bass rhythm and trailing ambient pad that slowly dissipate into soft static and silence.\n\nGENRES: funk pop, synth-pop, dance-pop, soul"
+  },
+  "metadata": {
+    "youtube_id": "OJWJE0x7T4Q",
+    "title_extracted": null,
+    "corpus_id": "OJWJE0x7T4Q",
+    "uploader": "Peter Gabriel",
+    "audio_file": "corpus/01_music_videos_audio/audio/OJWJE0x7T4Q.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11041632,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.195917,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:50:07Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "IAkY5m00rpY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/IAkY5m00rpY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/IAkY5m00rpY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/IAkY5m00rpY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with atmospheric sound effects of a train arriving and doors opening, which quickly transition into a mid-tempo electronic dance track set in 4/4 meter with a steady four-on-the-floor pulse at approximately 120–125 BPM. \n\nThe instrumentation is built around a punchy electronic kick drum, crisp offbeat hi-hats, snappy claps, a bouncy synth bassline, and layered electronic pads and arpeggiated synths. A lead female vocal occupies the center of the mix, delivered with a smooth, expressive tone treated with spatial reverb and subtle delay that enhances its melancholic, reflective quality.\n\nStructurally, the piece progresses through recurring verse and chorus cycles with distinct dynamic contrasts. During the verses, the arrangement is lean and groove-driven, allowing the vocal line and bass synth to take center stage. Chorus sections bring a swell in dynamic intensity, characterized by wider stereo synth pads, rhythmic chord stabs, and lush vocal harmonies. A breakdown near the middle of the track strips away the primary percussion, leaving filtered synth chords and softer vocal phrases to build subtle tension before the full dance groove drops back in.\n\nThe production is bright and modern, featuring clean channel separation. The low-end synth bass and kick drum remain tightly focused in the center, while shimmering synth textures and vocal delay effects are spread widely across the stereo field. The overall atmosphere combines an energetic, danceable rhythmic drive with an underlying nostalgic mood. \n\nIn the final section, the full drum beat and bassline fade, leaving trailing synth pads, ambient vocal effects, and the returning ambient train sound effect to close the track.\n\nGENRES: Synth-pop, Dance-pop, Eurodance, Deep House"
+  },
+  "metadata": {
+    "youtube_id": "IAkY5m00rpY",
+    "title_extracted": null,
+    "corpus_id": "IAkY5m00rpY",
+    "uploader": "Everything But The Girl",
+    "audio_file": "corpus/01_music_videos_audio/audio/IAkY5m00rpY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7885204,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.384676,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:25:52Z"
+  },
+  "status": "success",
+  "error": null
+}

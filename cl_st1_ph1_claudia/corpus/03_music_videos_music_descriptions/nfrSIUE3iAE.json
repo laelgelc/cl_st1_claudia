@@ -1,0 +1,38 @@
+{
+  "corpus_id": "nfrSIUE3iAE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nfrSIUE3iAE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/nfrSIUE3iAE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/nfrSIUE3iAE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with an energetic 4/4 blues-rock shuffle groove, led by a distorted electric guitar riff supported by a syncopated electric bass line and tight drum kit playing an active hi-hat and snare backbeat rhythm. A second rhythm guitar adds chordal weight, while the primary electric guitar features a warm, overdriven tube tone enriched with subtle room reverb.\n\nAt 0:27, a soulful male lead vocal enters in the center of the stereo image. The singer delivers a raspy, passionate performance marked by bluesy pitch inflections, dynamic belts, and grit. The lead guitar responds between vocal phrases with bluesy call-and-response fills. The harmonic structure is rooted in a minor blues progression, propelled by a walking bass line and steady drum rhythm.\n\nThe intensity swells at 0:57 as the song moves into a dramatic chorus refrain, characterized by heightened vocal volume and dynamic energy. This leads directly into an extended electric guitar solo at 1:17, featuring expressive string bends, vibrato, fast blues licks, and sustained overdriven notes over the driving rhythm section.\n\nA second verse reintroduces the vocals at 2:07 while preserving the driving shuffle feel, followed by a second emotional refrain at 2:37. A longer, highly expressive guitar solo begins at 2:57, showcasing scalar blues runs, bends, and soaring high-register phrasing. The vocals return for a final dramatic refrain at 4:19, reaching a peak of emotional urgency before resolving at 4:44 into a sustained cadential chord holding over drum rolls, slowly ringing out to the conclusion.\n\nThe overall mix conveys a warm, live studio atmosphere with clear stereo separation between rhythm guitars, punchy central bass and kick drum, and a high-energy, fiery emotional character throughout.\n\nGENRES: Blues Rock, Electric Blues, Hard Rock"
+  },
+  "metadata": {
+    "youtube_id": "nfrSIUE3iAE",
+    "title_extracted": null,
+    "corpus_id": "nfrSIUE3iAE",
+    "uploader": "Allman Brothers Band",
+    "audio_file": "corpus/01_music_videos_audio/audio/nfrSIUE3iAE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10143298,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 42.377547,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:08:09Z"
+  },
+  "status": "success",
+  "error": null
+}

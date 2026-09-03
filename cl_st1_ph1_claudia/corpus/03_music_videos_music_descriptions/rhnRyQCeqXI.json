@@ -1,0 +1,38 @@
+{
+  "corpus_id": "rhnRyQCeqXI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/rhnRyQCeqXI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/rhnRyQCeqXI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/rhnRyQCeqXI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a warm, clean electric guitar playing a syncopated soul-style rhythmic chord pattern, accompanied by a subtle reverb effect. A melodic bassline and a steady 4/4 mid-tempo drum groove featuring crisp hi-hats, punchy snare backbeats, and soft kick drum impacts join shortly after, setting a relaxed yet driving soul shuffle groove. \n\nAt around twenty seconds, a soulful female lead vocalist enters with a smooth, expressive tone characterized by natural vibrato and dynamic control. A backing vocal ensemble enters in call-and-response fashion, delivering lush gospel-style harmonies that reinforce the chord progressions and emphasize key lyrical phrases. The dynamic level remains moderately restrained during the verse, allowing the conversational vocal delivery to take center stage against the supportive rhythm section.\n\nAs the music transitions into the chorus, the energy and volume elevate significantly. The lead vocalist adopts a more powerful belting register with emotive melismas, while the backing vocalists deliver prominent, repeating melodic responses. The stereo field places the lead vocals and bassline firmly in the center, while the backing vocals and rhythm guitar are spread across the left and right channels to create a spacious, expansive mix. The harmonic foundation is rooted in classic major-key soul progressions, with warm bass notes grounding the mid-range guitar chords and subtle organ pads playing in the background.\n\nIn the second verse and subsequent chorus sections, the intensity steadily builds. The drum pattern gains momentum with more accent hits, and the lead singer incorporates expressive vocal runs, pitch bends, and dramatic vocal declamations. The song culminates in an emotionally charged climax featuring high-register vocal improvisations set against full choir harmonies. The performance resolves on a decisive cadence, followed immediately by enthusiastic audience applause and cheers, indicating a live performance context.\n\nGENRES: Soul, Classic Soul, Gospel, Rhythm and Blues"
+  },
+  "metadata": {
+    "youtube_id": "rhnRyQCeqXI",
+    "title_extracted": null,
+    "corpus_id": "rhnRyQCeqXI",
+    "uploader": "masa rabbit (rabbitvwyokohama)",
+    "audio_file": "corpus/01_music_videos_audio/audio/rhnRyQCeqXI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7269224,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 30.678796,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:16:27Z"
+  },
+  "status": "success",
+  "error": null
+}

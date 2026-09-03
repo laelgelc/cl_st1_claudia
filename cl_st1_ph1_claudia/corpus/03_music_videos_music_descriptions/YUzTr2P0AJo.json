@@ -1,0 +1,38 @@
+{
+  "corpus_id": "YUzTr2P0AJo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/YUzTr2P0AJo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/YUzTr2P0AJo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/YUzTr2P0AJo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an energetic drum fill and beat in a bouncy 4/4 meter, featuring crisp snare hits and active hi-hat work. A syncopated, highly melodic electric bassline enters alongside a clean electric rhythm guitar playing syncopated funk chops. A tambourine provides persistent offbeat accents, establishing a driving, uptempo rhythm section. A brass horn section soon interjects with punchy, staccato stabs, creating a warm, organic vintage soul texture with stereo separation placing drums and bass in the center while guitars and horns occupy the side channels.\n\nA male lead vocalist enters, delivering a soulful, expressive performance characterized by a raspy timbre, wide dynamic range, and subtle vocal saturation with moderate room reverb. The vocal line is punctuated by responsive horn accents and rhythmic guitar strumming. As the song progresses into the chorus, a harmonic backing vocal ensemble enters, engaging in lush call-and-response phrasing that thickens the arrangement and expands the stereo image. The harmonic foundation features classic soul chord progressions in a minor key setting, supported by the walking, syncopated bassline and a firm snare drum emphasizing beats two and four.\n\nIn subsequent verses and choruses, the lead vocalist intensifies the emotional delivery through bluesy melismas, raspy belts, and dynamic swells. A brief transitional instrumental section highlights the horn section playing melodic riffs accompanied by active bass fills and driving percussion. The arrangement re-engages the main chorus motif before moving into an extended outro vamp, where the lead vocalist improvises passionate ad-libs over the repeating backing vocal refrain as the mix gradually fades out.\n\nGENRES: Soul, Funk, Rhythm and Blues"
+  },
+  "metadata": {
+    "youtube_id": "YUzTr2P0AJo",
+    "title_extracted": null,
+    "corpus_id": "YUzTr2P0AJo",
+    "uploader": "Marcello Lourenço",
+    "audio_file": "corpus/01_music_videos_audio/audio/YUzTr2P0AJo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6382780,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.769285,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:49:11Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "v0KpfrJE4zw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/v0KpfrJE4zw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/v0KpfrJE4zw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/v0KpfrJE4zw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a pulsating mid-tempo drum machine groove in 4/4 meter, anchored by a tight kick drum, crisp hi-hats, and a snare featuring prominent gated reverb. Warm, atmospheric synth pads provide sustained harmonic backing alongside a rhythmic synth bassline and clean, funky rhythm guitar stabs panned to the sides. The texture is punchy, polished, and quintessential of 1980s synth-pop and pop-rock production, establishing an energetic yet alluring mood.\n\nA soulful lead male vocal enters in the first verse, positioned centrally in the stereo image with subtle slapback delay and ambient reverb. The vocal delivery shifts effortlessly between a smooth mid-register narrative and expressive, emotive inflections. As the song transitions into the chorus, the dynamic level rises with the entry of lush, multi-tracked backing vocal harmonies spread wide across the stereo field, accompanied by punchier drum accents and bright synth brass stabs.\n\nThe second verse maintains the steady electronic groove while the lead vocal gains emotional intensity, leading smoothly into a repeated chorus with expanded synth textures. A key structural transition occurs as the piece enters a bridge section dominated by a soaring, overdriven electric guitar solo. The guitar exhibits a biting, expressive timbre with sustained pitch bends, vibrato, and blues-inflected phrasing that contrasts dynamically against the polished synthesizer backdrop.\n\nFollowing the solo, the track builds into a high-energy final chorus section characterized by impassioned falsetto ad-libs and expressive vocal improvisations. The wide stereo imaging, punchy low-end synth bass, and relentless electronic percussion sustain the driving groove throughout the fade-out conclusion.\n\nGENRES: synth-pop, funk rock, new wave, pop rock"
+  },
+  "metadata": {
+    "youtube_id": "v0KpfrJE4zw",
+    "title_extracted": null,
+    "corpus_id": "v0KpfrJE4zw",
+    "uploader": "Prince",
+    "audio_file": "corpus/01_music_videos_audio/audio/v0KpfrJE4zw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6055100,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.106267,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:57:10Z"
+  },
+  "status": "success",
+  "error": null
+}

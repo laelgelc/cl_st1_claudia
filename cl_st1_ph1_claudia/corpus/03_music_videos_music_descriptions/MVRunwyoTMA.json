@@ -1,0 +1,38 @@
+{
+  "corpus_id": "MVRunwyoTMA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/MVRunwyoTMA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/MVRunwyoTMA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/MVRunwyoTMA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an intimate, slow 4/4 introduction featuring a solo acoustic guitar strumming gentle, warm chords with a soft, natural decay. A deep, smooth baritone male lead vocal enters shortly after, positioned prominently in the center of the stereo mix with a generous coating of vintage hall reverb. The vocal delivery is initially soft and melancholic, establishing a quiet, dreamlike atmosphere.\n\nAs the verse progresses, a subtle rhythm section enters, consisting of a rounded bass guitar providing warm low-end anchor notes alongside light, brushed drum accompaniment. An electric guitar adds delicate, vibrato-infused chordal accents and melodic fills, enhancing the lush, nostalgic timbre. The dynamic level gradually swells as multi-layered backing vocals enter, creating a wide stereo bed behind the lead singer. \n\nMidway through the track, the rhythm section shifts into a steady pop-ballad groove with clearer drum accents and a more pronounced bassline. The dynamic intensity rises noticeably as the lead vocal transitions from a restrained croon into an impassioned, resonant belt, showcasing expanding vocal range and emotional intensity. The acoustic guitar strums become fuller, and the backing harmonies widen across the soundstage, filling the frequency spectrum and creating a dense, dramatic texture. \n\nThe piece reaches a climactic emotional peak near the end, where the lead vocal soars over the full ensemble with sustained high notes, accompanied by dramatic, swelling chord progressions. The drum beat delivers emphatic accents before the texture de-escalates into a slow, rubato-like final cadence. The recording closes on a final, resonant acoustic guitar strum and a long, lush reverb tail that slowly fades into silence.\n\nGENRES: Pop Ballad, Traditional Pop, Rock & Roll Ballad, Classic Rock, Crooner"
+  },
+  "metadata": {
+    "youtube_id": "MVRunwyoTMA",
+    "title_extracted": null,
+    "corpus_id": "MVRunwyoTMA",
+    "uploader": "Roy Orbison",
+    "audio_file": "corpus/01_music_videos_audio/audio/MVRunwyoTMA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5431690,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.275895,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:31:54Z"
+  },
+  "status": "success",
+  "error": null
+}

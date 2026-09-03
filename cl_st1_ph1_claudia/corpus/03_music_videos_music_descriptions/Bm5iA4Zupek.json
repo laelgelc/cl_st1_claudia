@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Bm5iA4Zupek",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Bm5iA4Zupek.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Bm5iA4Zupek.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Bm5iA4Zupek.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with atmospheric sound effects depicting footsteps walking slowly across a highly reverberant space, accompanied by a high-pitched squeak before accelerating into frantic running footsteps. At 0:38, these Foley effects dissolve as a minimalistic, melancholic piano motif enters, playing a gentle minor-key melody in a high register processed with generous hall reverb and delay, establishing a reflective, dramatic tone.\n\nAt 0:56, a distinct dynamic transition occurs as a full mid-tempo hip-hop groove drops in a solid 4/4 meter. The rhythm section is built upon punchy electronic kick drums, crisp snares, ticking hi-hats, a warm, undulating sub-bass synth, and syncopated chordal stabs that loop beneath the piano melody. \n\nAt 1:20, a pitch-corrected male lead vocal enters, characterized by heavy auto-tune processing, spatial delay, and a delivery that blends melodic vocal phrasing with rhythmic cadence. During the chorus sections at 1:42 and 2:45, the texture grows denser through the addition of wide stereo-panned vocal harmonies and atmospheric backing chants. \n\nA prominent structural transition occurs around 3:08, where high-pitched, expressive female vocal responses swell into the mix, creating a dramatic call-and-response counterpoint across the stereo field. The underlying beat maintains a steady, driving momentum throughout. At 3:52, a second male vocal enters with a rhythmic rap verse, delivered assertively over the continuous loop of electronic percussion, sub-bass, and piano chords.\n\nThe overall production style is modern and atmospheric, characterized by clear frequency separation, punchy low-end dynamics, expansive spatial effects, and a bittersweet, anthemic mood that balances vulnerability with energetic rhythm.\n\nGENRES: Hip Hop, Pop Rap, Contemporary R&B, Art Pop"
+  },
+  "metadata": {
+    "youtube_id": "Bm5iA4Zupek",
+    "title_extracted": null,
+    "corpus_id": "Bm5iA4Zupek",
+    "uploader": "Kanye West",
+    "audio_file": "corpus/01_music_videos_audio/audio/Bm5iA4Zupek.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8893506,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 7.26864,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:38:53Z"
+  },
+  "status": "success",
+  "error": null
+}

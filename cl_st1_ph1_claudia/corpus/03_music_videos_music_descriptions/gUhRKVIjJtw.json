@@ -1,0 +1,38 @@
+{
+  "corpus_id": "gUhRKVIjJtw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/gUhRKVIjJtw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/gUhRKVIjJtw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/gUhRKVIjJtw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with ambient outdoor sound effects, including distant birdsong, followed by spoken dialogue mimicking a sports broadcast commentary. A brief, quiet whisper is overheard before a dramatic golf swing sound effect triggers an abrupt burst of loud crowd cheering and applause.\n\nAt 0:38, a high-energy hip-hop track emerges featuring a prominent sample built on a bouncy, syncopated funk bassline, rhythmic electric guitar stabs, punchy acoustic-style drums, and bright horn section accents. Set to a steady four-four meter at a moderate-fast tempo, the beat provides a danceable, uptempo groove. A female vocal sample sings a melodic, soul-influenced hook in the upper register, contrasting with the lower-pitched male rap verses that enter over the beat. The primary rap vocal is centered with moderate clarity and subtle reverb processing, while secondary hyped ad-lib vocals are panned across the stereo field.\n\nAt 1:50, the music temporarily pauses for a dialogue interlude over sustained crowd cheering, featuring a mock post-game interview between two speakers. The music re-engages at 2:23 as a second male rapper delivers a verse with a rapid, confident flow over the continuing funk instrumental loop. A brief spoken interlude around 3:20 introduces a third male rapper, whose deeper timbre and precise cadence drive the subsequent verse.\n\nThroughout the musical sections, the mix maintains a warm, wide stereo balance with the rhythmic bass and drums anchored in the center and horn embellishments spread wide. Dynamic levels peak during the anthemic chorus sections where the female lead vocal hook layers with brass fanfares and energetic vocal ad-libs. The track concludes with extended repetitions of the chorus hook over the looping funk instrumental, accompanied by spoken ad-libs and a gradual fade.\n\nGENRES: Hip-Hop, Pop Rap, East Coast Hip-Hop, Funk, Soul"
+  },
+  "metadata": {
+    "youtube_id": "gUhRKVIjJtw",
+    "title_extracted": null,
+    "corpus_id": "gUhRKVIjJtw",
+    "uploader": "The Notorious B.I.G.",
+    "audio_file": "corpus/01_music_videos_audio/audio/gUhRKVIjJtw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11127824,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.915175,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:18:14Z"
+  },
+  "status": "success",
+  "error": null
+}

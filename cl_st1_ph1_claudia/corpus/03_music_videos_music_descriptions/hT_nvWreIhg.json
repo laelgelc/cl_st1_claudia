@@ -1,0 +1,38 @@
+{
+  "corpus_id": "hT_nvWreIhg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hT_nvWreIhg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/hT_nvWreIhg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/hT_nvWreIhg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an intimate acoustic intro featuring fingerpicked acoustic guitar and a gentle, dry male solo vocal performing a melodic line in 4/4 meter at an upbeat tempo of approximately 122 BPM. The initial texture is sparse and atmospheric, with subtle reverb providing depth in a centered stereo field. At 00:22, a sharp dynamic transition occurs as a full driving rhythm section enters, introducing a four-on-the-floor kick drum, snappy backbeat snare and handclaps, rhythmic acoustic guitar strumming, and a pulsing bass synth. The vocal delivery simultaneously shifts from soft and reflective to projected and energetic, enhanced by subtle double-tracking and stereo delay.\n\nHarmonically, the track relies on a continuous, driving four-chord minor-mode progression that creates a sense of steady forward momentum. During the verses and pre-choruses, tension builds through ascending vocal lines, rising dynamic levels, and the addition of atmospheric vocal harmonies in the background. The chorus sections (first appearing around 01:17) mark dynamic peaks, featuring maximum texture density with layered backing vocals, bright strummed guitars, and driving percussion. \n\nAt 03:00, the song transitions into a rhythmic bridge breakdown driven by a chanted, call-and-response vocal motif set against syncopated handclaps, rhythmic guitar accents, and a steady bass pulse. This section steadily builds in texture and intensity until exploding into a final, highly triumphant chorus at 03:26, characterized by soaring lead vocals and layered multi-tracked harmonies. The musical performance terminates abruptly at 04:13, followed by a sudden shift to ambient room audio consisting of paper rustling, footsteps, and a door creaking and closing, bringing the recording to a quiet close.\n\nGENRES: pop, folk pop, pop rock, acoustic pop"
+  },
+  "metadata": {
+    "youtube_id": "hT_nvWreIhg",
+    "title_extracted": null,
+    "corpus_id": "hT_nvWreIhg",
+    "uploader": "OneRepublic",
+    "audio_file": "corpus/01_music_videos_audio/audio/hT_nvWreIhg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9059204,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.412308,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:31:43Z"
+  },
+  "status": "success",
+  "error": null
+}

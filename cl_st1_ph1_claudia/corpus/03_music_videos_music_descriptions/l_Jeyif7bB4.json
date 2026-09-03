@@ -1,0 +1,38 @@
+{
+  "corpus_id": "l_Jeyif7bB4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/l_Jeyif7bB4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/l_Jeyif7bB4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/l_Jeyif7bB4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a spoken radio-style introduction over a subtle, low-level synth pad, which rapidly transitions into enthusiastic vocal hype and call-and-response exclamations accompanied by rising, brass-like synthetic stabs. At around twenty seconds, the main track drops abruptly at a fast, driving tempo in a straight 4/4 meter. The rhythm section is propelled by a punchy, syncopated breakbeat featuring a heavy kick, sharp snare, and rapid hi-hats, anchored by a pulsing low-end bassline. A prominent feature of the arrangement is a high-pitched, abrasive, and looping sample—resembling a screeching horn or distorted synth line—that repeats continuously, creating a dense, chaotic, and wall-of-sound texture.\n\nThe lead vocal consists of a commanding, authoritative male rapper delivering rapid, rhythmic verses with a raw, booming acoustic presence and close-mic compression. A second, hyperactive backing vocalist provides frequent high-energy interjections, vocal stabs, and call-and-response accents panned across the stereo field to enhance spatial dynamism. Between vocal verses, the arrangement periodically breaks into turntablism sections highlighted by aggressive vinyl scratching, rhythmic stutter edits, and transformed vocal cuts.\n\nStructurally, the track maintains an unrelenting momentum through alternating verses and turntablism breakdowns, driven continuously by the relentless drum groove and looping screech motif. The dynamic level remains consistently loud and intense, reflecting a gritty, saturated late-1980s sampler production aesthetic with dense mid-range frequencies and raw compression. Near the conclusion, the full instrumental texture gives way to a final scratch solo before transitioning back to a closing spoken presenter outro as the beat resolves. The overall mood is rebellious, intensely energetic, and confrontational.\n\nGENRES: East Coast Hip Hop, Hardcore Hip Hop, Golden Age Hip Hop"
+  },
+  "metadata": {
+    "youtube_id": "l_Jeyif7bB4",
+    "title_extracted": null,
+    "corpus_id": "l_Jeyif7bB4",
+    "uploader": "TheOriginal808beats",
+    "audio_file": "corpus/01_music_videos_audio/audio/l_Jeyif7bB4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5923582,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.74637,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:16:23Z"
+  },
+  "status": "success",
+  "error": null
+}

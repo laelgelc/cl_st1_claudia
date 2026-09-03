@@ -1,0 +1,38 @@
+{
+  "corpus_id": "hqwLrJ6QWho",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hqwLrJ6QWho.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/hqwLrJ6QWho.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/hqwLrJ6QWho.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with live stage dialogue and audience applause, establishing a warm, unpolished concert environment. A brief acoustic tuning moment leads into the main musical performance, set in a relaxed, mid-tempo 4/4 swing-infused jazz-pop groove. The primary instrumentation features a resonant acoustic piano providing rhythmic chordal comping alongside subtle, clean-toned guitar accompaniment.\n\nThe performance is anchored by a solo female vocalist whose delivery is intimate, conversational, and soulful. Her vocal timbre is clear and warm, with minimal dynamic processing, allowing the natural room acoustics and delicate vibrato to shine. The texture remains light and acoustically transparent throughout the opening verses, with the vocal melody smoothly floating over syncopated piano chords and gentle guitar accents.\n\nAs the arrangement progresses into the chorus, the dynamic level expands through subtle vocal swells, melismatic embellishments, and more pronounced rhythmic comping from the piano. In the middle section, an electric guitar steps forward to deliver an extended melodic solo. Featuring a clean, slightly rounded tone, the guitar phrasing incorporates bluesy bends and fluid runs while the piano maintains the steady chord progression underneath.\n\nFollowing the solo, the vocalist re-enters for a final verse and an expanded chorus. Her performance grows increasingly expressive, incorporating impassioned vocal extensions against a swelling dynamic accompaniment. The section transitions into an extended outro where the ensemble executes a gradual tempo deceleration, resolving gracefully on a final sustained piano chord. The performance concludes with enthusiastic audience applause and cheering fading out.\n\nGENRES: pop, jazz pop, singer-songwriter, live acoustic, soft rock"
+  },
+  "metadata": {
+    "youtube_id": "hqwLrJ6QWho",
+    "title_extracted": null,
+    "corpus_id": "hqwLrJ6QWho",
+    "uploader": "Carole King",
+    "audio_file": "corpus/01_music_videos_audio/audio/hqwLrJ6QWho.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9739828,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.132616,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:23:20Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "OSxuXsyanCI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/OSxuXsyanCI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/OSxuXsyanCI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/OSxuXsyanCI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is a driving, mid-tempo hard rock track in a steady 4/4 meter, defined by heavy guitar riffs, gritty vocals, and a rebellious, theatrical atmosphere. The instrumentation consists of double-tracked distorted electric guitars, a prominent electric bass guitar, a full rock drum kit, raspy male lead vocals, and shouted gang backing vocals.\n\nThe track opens with an iconic, heavy electric guitar riff panned across the stereo field, accompanied by punchy drum fills, crashing cymbals, and a driving bassline. The dynamic level is loud and aggressive from the start, establishing a dense rock texture. At 0:30, the first verse begins as the lead vocal enters with a raw, gravelly, and raspy timbre, delivered with intense dramatic flair and subtle reverb. The instrumentation recedes slightly to create space for the vocal, maintaining a steady, driving groove through punchy snare hits on beats two and four alongside articulate bass lines.\n\nThe dynamic intensity swells during the chorus sections, marked by open crash cymbals, heavy rhythm guitar chords, and energetic gang vocals echoing key phrases. At 2:04, a blues-influenced guitar solo emerges, featuring pronounced pitch bends, vibrato, and expressive phrasing over a solid rhythm section foundation. Following the solo, the song returns to a repeated chorus structure with rising emotional intensity and soaring raspy vocal belting.\n\nAround 3:45, the song transitions into a dramatic breakdown section where the rhythm instruments simplify into sustained, feedback-tinged guitar chords and a steady drum motif. The lead vocalist shifts from singing to a spoken, menacingly raspy monologue. As the monologue reaches its peak, ambient crowd noise and theatrical vocal accents fade into the background stereo image, culminating in a dramatic, sustained climax of guitar feedback and drum accents.\n\nGENRES: Hard Rock, Glam Rock, Shock Rock, Heavy Metal"
+  },
+  "metadata": {
+    "youtube_id": "OSxuXsyanCI",
+    "title_extracted": null,
+    "corpus_id": "OSxuXsyanCI",
+    "uploader": "Official Alice Cooper",
+    "audio_file": "corpus/01_music_videos_audio/audio/OSxuXsyanCI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9848312,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 36.11714,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:58:30Z"
+  },
+  "status": "success",
+  "error": null
+}

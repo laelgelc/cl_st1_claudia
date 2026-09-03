@@ -1,0 +1,38 @@
+{
+  "corpus_id": "thIVtEOtlWM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/thIVtEOtlWM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/thIVtEOtlWM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/thIVtEOtlWM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an energetic, hard-hitting hip-hop beat set in a steady 4/4 meter at a moderate, driving tempo (approximately 95–100 BPM). The rhythm section is anchored by punchy kick drums, crisp snares landing on beats two and four, sub-bass synth pulses, and sharp, brassy synthesizer stabs set in a minor tonality. Turntable scratches and vocal sample chops introduce the groove with an aggressive, urban mood.\n\nAn intense male rap lead enters immediately, delivering fast, highly rhythmic verses with a raw, gravelly vocal timbre. The main vocal is positioned prominently in the center of the stereo image, while double-tracked vocals, wide-panned ad-libs, and group call-and-response chants emphasize key phrases to create a dense, layered texture. Short delay effects and subtle reverb tails are applied selectively to backings and exclamation cuts, maintaining a direct, present sound for the main voice.\n\nThe track moves into a recurring main chorus hook characterized by shouted, multi-tracked vocal layers chanting over the persistent boom-bap drum pattern and dark synthesizer stabs. The verse sections alternate between rapid, dense vocal flows and syncopated rhythmic pauses, punctuated by sharp record scratches and rhythmic backings. Around the mid-point, a brief spoken interlude transitions into another verse segment featuring a deep, commanding vocal cadence accompanied by rhythmic back-up shouts scattered across the stereo field.\n\nThe intensity climaxes as the main chorus hook returns, maximizing dynamic impact with full vocal layering over the driving drum rhythm and synth bass motif. The track concludes with an extended outro section featuring energetic call-and-response group chants, turntable scratching, and fading synth accents over the continuous drum loop before gradually fading out to silence.\n\nGENRES: Hip-Hop, Hardcore Hip-Hop, Boom Bap, East Coast Hip-Hop"
+  },
+  "metadata": {
+    "youtube_id": "thIVtEOtlWM",
+    "title_extracted": null,
+    "corpus_id": "thIVtEOtlWM",
+    "uploader": "DMX",
+    "audio_file": "corpus/01_music_videos_audio/audio/thIVtEOtlWM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7733624,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.607193,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:07:04Z"
+  },
+  "status": "success",
+  "error": null
+}

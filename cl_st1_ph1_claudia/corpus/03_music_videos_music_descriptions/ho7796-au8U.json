@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ho7796-au8U",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ho7796-au8U.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ho7796-au8U.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ho7796-au8U.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a spoken introduction by a presenter over a short, upbeat swing-style brass fanfare and background chatter, culminating in audience applause. At fifteen seconds, a fast-tempo, highly energetic soul-pop track initiates in a steady four-four meter.\n\nThe groove is driven by a prominent, syncopated electric bassline playing melodic scalar runs, accompanied by a punchy drum kit with prominent snare backbeats, handclaps, and crisp hi-hats. Rhythm guitar and piano supply tight percussive chord stabs that reinforce the upbeat syncopation. A youthful, high-pitched male lead vocal enters with an enthusiastic, highly expressive tone, featuring clear intonation and soul-inflected pitch bends. Bright, multi-part backing vocals regularly respond to the lead phrasing, creating a dynamic call-and-response structure.\n\nHarmonically centered in a bright major key, the track maintains an exuberant and uplifting mood. The chorus increases the overall dynamic volume and musical texture through layered vocal harmonies, shimmering tambourines, and punchy horn section accents. The production style exhibits a warm aesthetic; the lead vocal remains front and center, while backing vocals, rhythmic guitar, and brass elements are spread wide across the stereo field with subtle ambient reverb.\n\nMidway through, the song transitions into a dynamic breakdown featuring rhythmic spoken exchanges and playful vocal chants over the persistent bass and drum pattern. The intensity builds back up through repeated chorus hooks and spirited vocal ad-libs, maintaining a dense, polyphonic texture. The song eventually comes to a sudden finish, giving way to loud audience cheering and clapping.\n\nGENRES: Soul, Pop, Motown, Funk, R&B"
+  },
+  "metadata": {
+    "youtube_id": "ho7796-au8U",
+    "title_extracted": null,
+    "corpus_id": "ho7796-au8U",
+    "uploader": "Czikes",
+    "audio_file": "corpus/01_music_videos_audio/audio/ho7796-au8U.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6742410,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.529233,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:39:49Z"
+  },
+  "status": "success",
+  "error": null
+}

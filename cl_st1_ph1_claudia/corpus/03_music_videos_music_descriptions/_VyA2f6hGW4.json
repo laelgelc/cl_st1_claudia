@@ -1,0 +1,38 @@
+{
+  "corpus_id": "_VyA2f6hGW4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/_VyA2f6hGW4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/_VyA2f6hGW4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/_VyA2f6hGW4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a solo acoustic ukulele playing a bright, rhythmic swing-strumming pattern in a moderate, steady four-quarter meter. At approximately 0:05, a warm, resonant male lead voice enters centrally in the stereo mix, delivering a relaxed, conversational crooning melody with close-mic intimacy and gentle room reverb. Shortly after, a warm acoustic bass provides subtle harmonic grounding, walking gently beneath the light acoustic chord progressions.\n\nThroughout the main vocal sections (0:05–2:25), the arrangement remains light, transparent, and uncluttered. The texture is dominated by the dialogue between the lead vocals and the bouncy, syncopated ukulele strumming. The mood is easygoing and optimistic, enhanced by the smooth, fluid vocal delivery that features subtle dynamic swells, clean phrasing, and occasional gentle vibrato on sustained notes. The harmonic structure follows a classic major-key jazz-pop progression, driven by clear chord changes on the stringed instrumentation.\n\nA brief instrumental turnaround on the ukulele at 1:35 smoothly leads back into another vocal section. Around 2:20, the singer gradually builds dynamic intensity, holding a long, expressive cadential note that resolves smoothly into the track's instrumental climax.\n\nAt 2:25, the performance transitions into a vibrant instrumental coda. The lead vocals recede completely, leaving the acoustic ukulele to take center stage with energetic, rapid chord strums and syncopated rhythmic flourishes reminiscent of traditional swing and gypsy jazz styles. The bass line maintains a steady walking rhythm underneath, propelling the performance forward. The piece concludes at 2:58 with a final syncopated strumming flourish on the ukulele, ending on a resonant chord that decays naturally into silence.\n\nGENRES: Jazz, Acoustic, Swing, Easy Listening, Folk Pop"
+  },
+  "metadata": {
+    "youtube_id": "_VyA2f6hGW4",
+    "title_extracted": null,
+    "corpus_id": "_VyA2f6hGW4",
+    "uploader": "LilLinks",
+    "audio_file": "corpus/01_music_videos_audio/audio/_VyA2f6hGW4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5807668,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.144137,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:34:49Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "_qQzuvfvBdE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/_qQzuvfvBdE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/_qQzuvfvBdE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/_qQzuvfvBdE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track begins with a brief spoken male introduction accompanied by a crisp drum roll before launching into a fast-tempo (approximately 148 BPM) 4/4 rock and roll groove. The arrangement is built around a bright electric guitar playing rhythmic chord strumming, a low-frequency plucked bass anchoring the root notes, a distinctive continuous rolling tom-tom and snare drum pattern playing rapid paradiddle figures, and a male lead vocalist. Harmonically, the song utilizes a classic major-key chord progression featuring standard primary triad changes.\n\nThe lead vocal is characterized by a high-energy vintage delivery, utilizing vocal hiccups, expressive pitch inflections, and rhythmic phrasing. The vocal track sits prominently in the center of the mix with a warm, slightly slapback-reverberant spatial texture. The overall mix features a narrow stereo width and a mid-20th-century sonic profile, giving the recording an authentic retro texture with a warm tone. \n\nThroughout the performance, the drum groove remains remarkably steady and relentless, eschewing traditional ride or crash cymbals in favor of an unrelenting, rhythmic tom-tom motif that drives the track's momentum. Midway through the piece, the electric guitar takes center stage for an instrumental solo featuring rhythmic chord-chugging and treble-heavy articulations played with a twangy tone. The dynamic intensity remains elevated and cohesive through the recurring verse structures, leading to a sharp unison chord ending. The track concludes with the immediate sound of enthusiastic audience applause, pointing to a live stage or studio broadcast context. The emotional tone throughout is playful, upbeat, and energetic.\n\nGENRES: Rockabilly, Rock and Roll, Classic Rock"
+  },
+  "metadata": {
+    "youtube_id": "_qQzuvfvBdE",
+    "title_extracted": null,
+    "corpus_id": "_qQzuvfvBdE",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/_qQzuvfvBdE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3672174,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.165046,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:07:46Z"
+  },
+  "status": "success",
+  "error": null
+}

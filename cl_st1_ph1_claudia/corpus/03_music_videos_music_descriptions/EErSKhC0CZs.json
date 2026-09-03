@@ -1,0 +1,38 @@
+{
+  "corpus_id": "EErSKhC0CZs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/EErSKhC0CZs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/EErSKhC0CZs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/EErSKhC0CZs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a bright, energetic, upbeat groove in a steady 4/4 meter at a moderate-fast tempo. An electric bass delivers a syncopated, bouncy bassline accompanied by clean, funky electric guitar chord chops and a punchy drum kit featuring a crisp snare backbeat and driving hi-hat pattern. \n\nA soulful male lead vocal enters in the center channel, characterized by a raspy, highly expressive tone with bluesy inflections and warm mid-range presence. The rhythm section maintains a steady, danceable funk groove while subtle guitar scratches and accents outline the major-key chord progression. The dynamic level rises into the chorus as punchy brass stabs inject bright harmonic accents across the stereo field. Layered multi-tracked backing vocals join in close harmony to reinforce the chorus refrain, creating a significantly denser and punchier texture. The stereo image widens noticeably during these sections, with rhythm guitars panned to the flanks and brass filling the ambient space.\n\nThe arrangement transitions into a second verse where the lead vocal continues its playful, rhythmic delivery over the persistent drum pocket and bass. Short plate-like reverb on the lead voice maintains clarity and immediacy. The song seamlessly propels into a second chorus, ramping up emotional energy through higher vocal registers, energetic drum fills, and call-and-response backing vocals.\n\nA mid-song breakdown section briefly strips back the full instrumentation, highlighting syncopated guitar stabs, rhythmic handclaps, and a driving bass groove. Dynamic excitement builds as the lead vocalist delivers energetic shouts and ad-libs over ascending brass flourishes. The final section returns to the peak chorus hook, where the lead vocalist improvises passionate ad-libs and vocal riffs over the relentless, upbeat rhythm. The dense full-ensemble texture maintains its high dynamic intensity until the track smoothly fades out on the looping chorus groove.\n\nGENRES: Funk, Pop, Soul, Blue-Eyed Soul, R&B"
+  },
+  "metadata": {
+    "youtube_id": "EErSKhC0CZs",
+    "title_extracted": null,
+    "corpus_id": "EErSKhC0CZs",
+    "uploader": "Daryl Hall & John Oates",
+    "audio_file": "corpus/01_music_videos_audio/audio/EErSKhC0CZs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5859680,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.8311,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:18:18Z"
+  },
+  "status": "success",
+  "error": null
+}

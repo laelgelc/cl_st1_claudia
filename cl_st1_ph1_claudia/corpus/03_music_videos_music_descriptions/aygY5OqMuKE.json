@@ -1,0 +1,38 @@
+{
+  "corpus_id": "aygY5OqMuKE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/aygY5OqMuKE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/aygY5OqMuKE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/aygY5OqMuKE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is an upbeat, driving dance-rock and indie-rock track set in a standard 4/4 meter at a brisk tempo of approximately 125 BPM. It opens immediately with a pulse of synthesized bass and electronic textures alongside a punchy drum kit featuring a steady kick-drum rhythm, crisp snare on beats two and four, and continuous hi-hats. Overdriven electric guitars enter shortly after, panned across the stereo field to establish a bright, energetic harmonic foundation in a major key.\n\nA male lead vocal enters at approximately 0:10, positioned centrally in the soundstage with subtle reverb and saturation that accentuates an expressive, mid-range indie-rock timbre. During the verses, the texture remains dense and rhythmic, anchored by a prominent bass guitar line playing continuous, driving eighth-note patterns while dual electric guitars supply rhythmic strumming and occasional melodic counter-phrases. Drum fills and crash cymbal accents punctuate phrase transitions as the musical momentum steadily builds.\n\nAs the track progresses toward the chorus around 2:10, the dynamic intensity swells through increased vocal urgency, rising guitar chords, and heavier cymbal work. The chorus marks the dynamic peak of the piece, expanding the stereo field with thick, distorted rhythm guitars, soaring vocal melodies backed by subtle harmony doubling, and bright keyboard accents. The overall emotional quality is anthemic, nostalgic, and urgent, blending the danceable propulsion of synth-rock with alternative guitar-rock grit.\n\nFollowing a second verse and chorus cycle, the song reaches an extended climax from 3:31 to 3:59, featuring repeated vocal refrains over full-throttle drumming and expansive guitar textures. The energy then subsides into an outro around 4:00, where the full arrangement strips back to strummed electric guitar chords and trailing delay effects, slowly fading to complete silence at 4:12.\n\nGENRES: Indie Rock, Dance-Rock, Post-Punk Revival, Alternative Rock"
+  },
+  "metadata": {
+    "youtube_id": "aygY5OqMuKE",
+    "title_extracted": null,
+    "corpus_id": "aygY5OqMuKE",
+    "uploader": "LCD Soundsystem",
+    "audio_file": "corpus/01_music_videos_audio/audio/aygY5OqMuKE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8283472,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.23753,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:53:40Z"
+  },
+  "status": "success",
+  "error": null
+}

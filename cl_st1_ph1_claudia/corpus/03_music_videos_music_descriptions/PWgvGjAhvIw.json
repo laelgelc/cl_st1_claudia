@@ -1,0 +1,38 @@
+{
+  "corpus_id": "PWgvGjAhvIw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/PWgvGjAhvIw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/PWgvGjAhvIw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/PWgvGjAhvIw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an intimate intro featuring spoken male dialogue and casual banter set against a steady, ticking percussion rhythm and subtle room ambience. At roughly forty seconds, the audio transitions into a simulated live concert setting complete with wide-panned stadium crowd cheering and a reverberant, announcer-style vocal introduction. This leads into an uptempo, energetic groove set in a driving four-four meter.\n\nAs the main arrangement enters, the instrumentation is driven by a crisp acoustic drum kit featuring a punchy snare backbeat, steady hi-hat subdivision, and an active, syncopated electric bassline. Funky, clean-toned electric guitars execute bright, staccato chord vamps panned across the stereo field. The lead male vocal alternates between rhythmic spoken delivery, expressive melodic phrases, and exuberant shouted call-outs, processed with ambient reverb and subtle vocal delay while remaining centered in the stereo image.\n\nThe composition alternates between high-energy verse-chorus sections and dynamic rhythmic breakdowns. Choruses introduce multi-layered backing vocal harmonies in call-and-response patterns, producing a dense, anthemic texture. During breakdown sections, the harmonic density thins, highlighting the lead vocal’s spoken interactions over the persistent drum and bass groove before building back up into dense, rhythmically complex ensemble passages.\n\nOverall, the production style is bright and spacious, using stereo separation to balance the rhythmic guitars, central rhythm section, and ambient crowd sound effects. The dynamic range shifts smoothly from conversational spoken passages to loud, full-ensemble climaxes. Syncopated rhythms, bright instrument timbres, and lively vocal interactions convey an exuberant, festive, and highly danceable emotional character. The performance culminates in a high-intensity reprise of the main chorus before concluding on a sharp rhythmic cadence.\n\nGENRES: Funk, Pop, Hip-Hop, Soul"
+  },
+  "metadata": {
+    "youtube_id": "PWgvGjAhvIw",
+    "title_extracted": null,
+    "corpus_id": "PWgvGjAhvIw",
+    "uploader": "Outkast",
+    "audio_file": "corpus/01_music_videos_audio/audio/PWgvGjAhvIw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9721252,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.430748,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:38:10Z"
+  },
+  "status": "success",
+  "error": null
+}

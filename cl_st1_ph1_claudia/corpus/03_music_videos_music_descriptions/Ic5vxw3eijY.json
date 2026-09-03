@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Ic5vxw3eijY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Ic5vxw3eijY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Ic5vxw3eijY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Ic5vxw3eijY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief, reflective introduction featuring warm electric piano chords set in a relaxed, mid-tempo 4/4 meter. A punchy drum beat—comprising a tight kick drum, snappy snare and clap on beats two and four, and crisp hi-hats—enters alongside a rhythmic male rap vocal processed with subtle pitch-correction and compression. A buoyant bassline grounds the harmony, establishing a polished, upbeat pop and R&B groove.\n\nThe track moves into a chorus section where a bright, expressive female lead vocal introduces a catchy melodic hook, supported by smooth backing vocal harmonies spread across the stereo field. The texture expands with lush electric piano chords, steady synth bass, and crisp electronic drum percussion.\n\nIn the subsequent verse, the female vocalist takes over the lead over a bouncy instrumental arrangement. The groove remains consistent with subtle variations in percussion, such as delicate hi-hat subdivisions and accented drum hits. Her vocal delivery is clear and dynamic, enhanced by spatial reverb and brief delay effects.\n\nA returning chorus reinforces the vibrant, energetic mood through layered vocal harmonies and a steady, danceable rhythm. This transitions into a section led by an energetic male rap delivery, characterised by precise cadence, centered vocal placement, and rhythmic phrasing over the continuing electric piano and drum loop. \n\nA brief melodic interlude follows, featuring softer female vocal phrases over a slightly stripped-back instrumental backing, creating a brief dynamic contrast. The music then climbs into a full-textured final chorus featuring prominent lead and backing vocals, vibrant synth keys, and a steady bassline. The recording concludes with an outro section where the drum beat thins out, leaving warm electric piano chords and melodic female vocal ad-libs that gently fade to silence.\n\nGENRES: Pop, R&B, Hip Hop, Disco Pop"
+  },
+  "metadata": {
+    "youtube_id": "Ic5vxw3eijY",
+    "title_extracted": null,
+    "corpus_id": "Ic5vxw3eijY",
+    "uploader": "Estelle",
+    "audio_file": "corpus/01_music_videos_audio/audio/Ic5vxw3eijY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7740310,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.546908,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:28:47Z"
+  },
+  "status": "success",
+  "error": null
+}

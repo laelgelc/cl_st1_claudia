@@ -1,0 +1,38 @@
+{
+  "corpus_id": "oAZLgsDRUv4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oAZLgsDRUv4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/oAZLgsDRUv4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/oAZLgsDRUv4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a mid-tempo, 4/4 soul-R&B groove driven by a clean, bluesy electric guitar playing rhythmic chord chops and syncopated melodic fills. A warm, round electric bassline enters alongside a crisp drum kit playing a steady rimshot and hi-hat pattern. The overall audio quality exhibits a vintage aesthetic, characterized by warm analogue-style tape saturation, distinct stereo panning, and subtle room reverberation.\n\nAt 00:11, a soulful female lead vocal enters with a raspy, expressive, and intimate delivery. The vocal sits centrally in the stereo image, treated with subtle plate reverb. The verse maintains a restrained dynamic level, keeping the spotlight on the vocal phrasing and the interplay between the bass and guitar.\n\nThe energy escalates at 00:30 as the arrangement expands into the chorus. Layered female backing vocals enter across the stereo spectrum, providing tight call-and-response harmonies and unison phrases. A dynamic brass section—likely featuring trumpets and saxophones—punctuate the groove with bright, punchy stabs and soaring counter-melodies. \n\nA second verse begins at 00:45, scaling back the instrumentation to the core rhythm section before building again into a second chorus at 01:07 with full horn and backing vocal accompaniment. At 01:23, a bridge breakdown section introduces a shift in harmonic texture, highlighted by sustained guitar chords, swelling organ pads, and a more introspective vocal performance. \n\nThe song reaches its emotional peak from 01:43 onward, returning to the anthemic chorus theme. The lead vocalist performs energetic ad-libs and dramatic vocal slides above the driving rhythm section, punchy brass accents, and dense backing harmonies. The track slowly fades out toward 02:28 while maintaining its energetic groove.\n\nGENRES: Soul, Classic Soul, Rhythm and Blues, Pop Soul"
+  },
+  "metadata": {
+    "youtube_id": "oAZLgsDRUv4",
+    "title_extracted": null,
+    "corpus_id": "oAZLgsDRUv4",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/oAZLgsDRUv4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4775588,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.128022,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:54:36Z"
+  },
+  "status": "success",
+  "error": null
+}

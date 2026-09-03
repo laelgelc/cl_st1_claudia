@@ -1,0 +1,38 @@
+{
+  "corpus_id": "5gqEJT1lxgk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/5gqEJT1lxgk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/5gqEJT1lxgk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/5gqEJT1lxgk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a dark, atmospheric synthesizer pad and a deep, resonant sub-bass drone, accented by subtle white-noise sweeps that establish a spacious and brooding atmosphere. A female vocal enters, characterized by a breathy, intimate vocal tone heavily processed with stereo delay and ambient reverb. The initial verses maintain a minimal texture, relying on low-end bass swells and muted ambient pads to keep the vocal front and center.\n\nAs the piece moves into the pre-chorus sections, rhythmic tension gradually accumulates through ascending synth risers, sweeping filter effects, and an accelerating snare drum roll. This tension releases into an energetic electronic dance drop driven by a crisp, four-on-the-floor kick drum, snappy off-beat hi-hats, and a punchy, sidechained slap-bass synthesizer line. Rhythmic vocal chops and bright, shimmering synth leads layer over the groove, shifting the mood from contemplative to vibrant and driving.\n\nFollowing the drop, the dense percussion strips back for the subsequent verse, retaining a rhythmic synth bassline and sparse percussion to sustain momentum while creating dynamic contrast. The track repeats a tension-building transition featuring pitched synth risers and rapid percussive fills, leading into a second, fully realized dance section. \n\nThroughout the high-energy sections, the mix is wide, punchy, and tightly compressed, highlighting modern electronic dance production techniques with strong sidechain pumping effects. The piece reaches its peak dynamic intensity during the final drop before abruptly concluding, allowing the trailing reverb and synthesizer echoes to fade out.\n\nGENRES: Slap House, Dance-Pop, EDM"
+  },
+  "metadata": {
+    "youtube_id": "5gqEJT1lxgk",
+    "title_extracted": null,
+    "corpus_id": "5gqEJT1lxgk",
+    "uploader": "Lana Del Rey",
+    "audio_file": "corpus/01_music_videos_audio/audio/5gqEJT1lxgk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6893246,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.698727,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:06:29Z"
+  },
+  "status": "success",
+  "error": null
+}

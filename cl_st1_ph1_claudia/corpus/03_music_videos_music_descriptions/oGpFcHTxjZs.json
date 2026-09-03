@@ -1,0 +1,38 @@
+{
+  "corpus_id": "oGpFcHTxjZs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oGpFcHTxjZs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/oGpFcHTxjZs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/oGpFcHTxjZs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens in a mid-tempo 4/4 meter with a steady, danceable groove driven by a plump synth bassline, a crisp electronic drum pattern featuring a punchy kick and snap-heavy snare, and rhythmic, off-beat electric guitar chugs. Warm synth pads and bright keyboard accents fill the harmonic space, establishing a funky synth-pop R&B atmosphere across a spacious stereo field.\n\nAt approximately twenty seconds, a soulful female lead vocal enters with a confident, expressive tone to deliver the opening verse. The vocal production is polished and clear, enhanced by a smooth hall reverb and subtle stereo delay that places the lead singer prominently in the center of the mix. The verse maintains a moderate dynamic level, supported by the continuous rhythm section of grooving bass, guitar skanks, and gentle keyboard chords.\n\nTransitioning into the chorus around fifty-two seconds, the overall dynamics swell noticeably. Bright synth stabs and layered backing vocals enter, reinforcing the catchy melodic refrain with rich multi-part harmonies. The rhythm section maintains its driving feel, punctuated by snappy hi-hat patterns and light electronic percussion fills.\n\nThe second verse returns to a slightly lower dynamic intensity, allowing the lead singer’s expressive inflections and raspy vocal textures to take center stage. This leads seamlessly into another chorus, where the soundscape expands further with vibrant synth counter-melodies and enthusiastic vocal ad-libs.\n\nAt two minutes and three seconds, an instrumental bridge features an expressive synth solo that mimics a brass instrument, framed by dynamic drum accents and vocal interjections. A short vocal breakdown follows before the track launches into its extended final chorus section around two minutes and forty-one seconds. The music reaches an energetic climax with soaring vocal improvisations, call-and-response backing harmonies, and layered synth accents, slowly fading out while maintaining its infectious rhythmic momentum.\n\nGENRES: Synth-pop, R&B, Pop, Funk"
+  },
+  "metadata": {
+    "youtube_id": "oGpFcHTxjZs",
+    "title_extracted": null,
+    "corpus_id": "oGpFcHTxjZs",
+    "uploader": "Tina Turner",
+    "audio_file": "corpus/01_music_videos_audio/audio/oGpFcHTxjZs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7261052,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.49312,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:44:56Z"
+  },
+  "status": "success",
+  "error": null
+}

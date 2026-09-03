@@ -1,0 +1,38 @@
+{
+  "corpus_id": "a01QQZyl-_I",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/a01QQZyl-_I.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/a01QQZyl-_I.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/a01QQZyl-_I.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens in a brisk 4/4 meter at a mid-tempo pace, established by an iconic, staccato bass guitar riff alongside a crisp drum groove featuring a prominent snare on beats two and four, steady hi-hats, and rhythmic finger snaps. Bright, clean electric guitar accents soon join, establishing an infectious, upbeat pop-funk groove with a buoyant, driving emotional quality.\n\nExpressive male and female lead vocals enter shortly after, featuring clean, polished vocal processing with gentle spatial reverb. The vocalists alternate between rhythmic scat-like phrasing and melodic lines, blending into tight two-part harmonies during chorus sections. Mid-range organ pads and rhythm guitar strumming flesh out the harmonic structure, creating a full yet balanced multi-layered texture. The stereo image is wide, with rhythm guitars and backing vocal harmonies panned across the soundstage while the bass, kick drum, snare, and main lead vocals remain solidly centered.\n\nThe track maintains a steady dynamic energy through its initial verses, driven by the persistent bassline and tight drumming. Just past the two-minute mark, a textural transition occurs as the dynamic level drops significantly into a sparse breakdown. Here, the heavy drum groove recedes, leaving delicate acoustic guitar strumming and intimate, softly phrased vocal delivery.\n\nThis quieter passage quickly resolves into a dramatic, high-energy climax. A punchy drum fill and crash cymbal strike mark the return of the full ensemble, now reinforced by crunchy electric guitars and powerful, high-register vocal belting. The vocal delivery becomes highly passionate and soul-infused, supported by lush, multi-tracked harmonies.\n\nAs the track approaches its conclusion, the arrangement winds down into an outro section, stripping away the dense guitars and heavy harmonies to return to the isolated, buoyant bassline and light percussion before bringing the song to a final resolution.\n\nGENRES: Pop, Funk, Soul, Pop Rock"
+  },
+  "metadata": {
+    "youtube_id": "a01QQZyl-_I",
+    "title_extracted": null,
+    "corpus_id": "a01QQZyl-_I",
+    "uploader": "Queen Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/a01QQZyl-_I.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8097712,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.235143,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:27:29Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "IePTH1PWzAs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/IePTH1PWzAs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/IePTH1PWzAs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/IePTH1PWzAs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a mid-tempo, swing-influenced jazz rhythm in 4/4 meter. An acoustic piano plays syncopated, jazz-inflected chordal progressions alongside a warm, rounded upright bassline and light drum accompaniment featuring crisp snare brushwork and subtle ride cymbal accents. The mix presents a warm, acoustic soundstage with a balanced stereo spread, placing the bass and lead vocal centrally while the piano and drums occupy a wider stereo field enhanced by natural room reverberation.\n\nAt approximately fifteen seconds, a soulful female lead vocal enters. The singer possesses a raspy, highly expressive timbre characterized by a wide dynamic range, moving effortlessly between intimate, soft low tones and full-throated, belted high notes featuring dramatic vibrato. As the performance unfolds, the instrumental accompaniment maintains a steady, swinging groove, providing harmonic support with syncopated piano fills and dynamic adjustments that accent the lead singer's emotional intensity. The harmonic language is built around a major-key jazz ballad framework featuring chromatic passing chords and blues-influenced cadences.\n\nAs the arrangement progresses toward the second half, the overall dynamic intensity builds. A chorus of harmony backing vocals joins the texture, delivering rhythmic counter-responses and repeating melodic hooks that pad the background. These backing vocals consist of tight, layered harmonies panned across the stereo space, creating a lush, dense backdrop that contrasts with the upfront, intimate presence of the lead voice. The mood throughout is bittersweet, romantic, and soul-stirring. In the final section, the lead vocalist engages in expressive melismatic improvisation over the repeating backing vocal motifs, supported by lively piano fills and driving bass, before the song gently resolves on a soft, lingering piano cadence.\n\nGENRES: Vocal Jazz, Soul, Traditional Pop"
+  },
+  "metadata": {
+    "youtube_id": "IePTH1PWzAs",
+    "title_extracted": null,
+    "corpus_id": "IePTH1PWzAs",
+    "uploader": "77GhettoD",
+    "audio_file": "corpus/01_music_videos_audio/audio/IePTH1PWzAs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5442836,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.207006,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:07:23Z"
+  },
+  "status": "success",
+  "error": null
+}

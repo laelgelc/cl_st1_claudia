@@ -1,0 +1,38 @@
+{
+  "corpus_id": "RQRIOKvR2WM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/RQRIOKvR2WM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/RQRIOKvR2WM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/RQRIOKvR2WM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with an energetic snare drum roll that immediately establishes an uptempo 4/4 groove at approximately 130 BPM, featuring a driving drum kit beat, active bass guitar line, and a steady, shaking tambourine. Shortly after the intro, a soulful female lead vocalist enters, delivering a passionate and expressive vocal performance characterized by a full, dynamic belt processed with vintage tape-style room reverb. She is supported by a female backing vocal ensemble performing continuous call-and-response harmonies that echo and reinforce the main melodic motifs.\n\nThe arrangement is built on a classic mid-20th-century soul instrumentation comprising punchy drums, driving bass guitar, rhythmic electric guitar stabs, and a brass horn section that executes sharp chordal stabs and melodic accents behind the vocals. The texture is dense and layered, maintaining a vintage analog warmth with a relatively compact stereo image typical of early-to-mid 1960s soul recordings. \n\nHarmonically, the piece revolves around a driving, repetitive modal soul progression that alternates between major and minor tonalities, generating a sense of rhythmic urgency and dramatic tension. The dynamics remain elevated and potent throughout, sustaining an energetic, motion-filled momentum.\n\nStructurally, the track follows an alternating section structure where memorable chorus refrains driven by call-and-response vocal hooks alternate with melodic verse passages. Brass fanfares punctuate transitions between vocal phrases while the rhythm section maintains an unwavering, dance-oriented pulse. In the latter half, the performance escalates in emotional intensity as the lead vocal becomes progressively more expansive against the persistent instrumental backing. The song eventually moves into a repeating refrain section that slowly fades out while the full ensemble continues to perform at peak dynamic intensity.\n\nGENRES: Soul, Motown, Northern Soul, Pop Soul, Rhythm and Blues"
+  },
+  "metadata": {
+    "youtube_id": "RQRIOKvR2WM",
+    "title_extracted": null,
+    "corpus_id": "RQRIOKvR2WM",
+    "uploader": "bigdave706",
+    "audio_file": "corpus/01_music_videos_audio/audio/RQRIOKvR2WM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5777204,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.792261,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:17:11Z"
+  },
+  "status": "success",
+  "error": null
+}

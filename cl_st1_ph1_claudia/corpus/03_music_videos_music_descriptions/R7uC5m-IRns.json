@@ -1,0 +1,38 @@
+{
+  "corpus_id": "R7uC5m-IRns",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/R7uC5m-IRns.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/R7uC5m-IRns.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/R7uC5m-IRns.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording features an energetic, uptempo rockabilly and vintage pop-rock composition set in a steady 4/4 shuffle rhythm. The track opens with a driving rhythm section consisting of a bouncy, walking bassline and a crisp drum kit executing a tight swing beat on the snare and cymbals. Accompanying this is a clean electric guitar with a bright, twangy timbre, characterized by subtle slapback delay and spring reverb, playing staccato rhythm accents on the offbeats alongside occasional melodic fills. The key is major and tonal, grounded in traditional blues-influenced chord progressions.\n\nA lead male vocalist enters delivering an upbeat, crooning vocal line with a resonant midrange quality. The lead voice is processed with a distinct retro tape-delay effect, giving it a prominent, slightly spacious presence in the center of the stereo field. Rich doo-wop style backing vocals join shortly after, providing warm, multi-part harmonic responses and rhythmic vocal stabs that enrich the overall musical texture.\n\nStructurally, the piece alternates between melodic verses and a catchy, repeating refrain, maintaining a consistently high dynamic energy throughout. Subtle textural variations occur as the guitar transitions between rhythmic strumming and brief melodic responses to the vocal phrases. Towards the end of the piece, the lead vocal becomes more dynamic and expressive, incorporating bluesy inflections and spoken ad-libs over an increasingly emphatic drum beat. The track concludes with a sharp, synchronized hit from the full ensemble on the tonic chord, followed immediately by the sound of enthusiastic audience applause and cheering that fades out alongside the lingering reverb.\n\nGENRES: Rockabilly, Doo-Wop, Rock and Roll, Vintage Pop"
+  },
+  "metadata": {
+    "youtube_id": "R7uC5m-IRns",
+    "title_extracted": null,
+    "corpus_id": "R7uC5m-IRns",
+    "uploader": "60s70sVintageRock",
+    "audio_file": "corpus/01_music_videos_audio/audio/R7uC5m-IRns.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4939798,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.831581,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:31:01Z"
+  },
+  "status": "success",
+  "error": null
+}

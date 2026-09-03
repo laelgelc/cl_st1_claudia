@@ -1,0 +1,38 @@
+{
+  "corpus_id": "gOMhN-hfMtY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/gOMhN-hfMtY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/gOMhN-hfMtY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/gOMhN-hfMtY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with atmospheric sound design featuring heavy ambient rain and distant, low-frequency thunderclaps. Foley sound effects emerge, including footsteps, muffled banging, an anxious female voice shouting outside a door, an opening door, and a heated verbal confrontation between an aggressive male voice and the female voice, punctuated by sharp thunder accents.\n\nAt 1:21, a mid-tempo hip-hop groove drops, built around a crisp drum beat with kick and snare, a simple repeating acoustic guitar strumming pattern, a warm bassline, and subtle rain ambience. A soft, intimate female vocal enters, singing a melodic, folk-inflected refrain processed with gentle room reverb. The soundscape then transitions into the first verse, introducing a dry, upfront male rap vocal delivering a steady, conversational rhythm over the looped acoustic guitar, bass, and drum arrangement.\n\nThe structure proceeds into a second chorus and verse, where the male vocal delivery gradually increases in dynamic intensity and emotional urgency. After another chorus, the sonic texture shifts dramatically for the third verse: the male vocal is processed with bandpass filtering and tape saturation, mimicking a lo-fi cassette recording or telephone signal. The ambient background intensifies with heavy rain, thunder, windshield wiper clicks, and tape hiss. The vocal delivery escalates to strained, aggressive shouting, reaching a dramatic climax marked by screeching tires, a horn blast, and a heavy splash and crash sound effect.\n\nThe melodic chorus returns once more, re-establishing the clean instrumentation and rhythm loop. The fourth verse introduces a clearer, calmer male rap vocal with a reflective tone, set against the ongoing mid-tempo beat and acoustic guitar motif. The track resolves with a final loud thunderclap that abruptly cuts the musical accompaniment, leaving only the sound of falling rain to slowly fade out.\n\nGENRES: hip hop, pop rap, story song, alternative hip hop"
+  },
+  "metadata": {
+    "youtube_id": "gOMhN-hfMtY",
+    "title_extracted": null,
+    "corpus_id": "gOMhN-hfMtY",
+    "uploader": "EminemMusic",
+    "audio_file": "corpus/01_music_videos_audio/audio/gOMhN-hfMtY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 15638810,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.951372,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:39:53Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ADtnUC_ctNk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ADtnUC_ctNk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ADtnUC_ctNk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ADtnUC_ctNk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a soft, intimate introduction featuring an arpeggiated acoustic piano playing a gentle, reflective chord sequence in a moderate 4/4 meter. At 0:03, a lead male vocal enters, delivering a clean, warm, and conversational melody over the piano's delicate accompaniment. The initial verse maintains a sparse, acoustic texture with subtle ambient reverb accentuating the emotional clarity of the voice.\n\nAt 0:38, the piece transitions into a dynamic, upbeat chorus as a full rhythm section enters. Driving drums with a steady kick and crisp backbeat snare, an active bass guitar, strummed acoustic guitars, and a bright, jangling tambourine join the soundscape. The overall dynamic level shifts markedly from quiet and contemplative to energetic and full, elevating the mood into a driving folk-pop groove.\n\nThe second verse at 0:56 scales back the dynamic intensity, though it retains a light rhythmic pulse supported by soft acoustic guitar strumming and gentle bass beneath the piano and narrative lead vocal. At 1:33, the arrangement swells once again into the energetic chorus, re-engaging the driving drums, tambourine, and strummed guitars to create a wide stereo field with guitars panned across the stereo image while the vocal, bass, and kick drum remain centered.\n\nA bridge section at 1:51 alters the harmonic flow, offering a brief reflective breakdown where sustained piano chords and gentle bass support a more introspective vocal delivery. This builds tension that resolves into the final chorus at 2:26, where the track reaches its emotional peak through passionate vocal projection and full rhythmic drive. At 3:02, the full ensemble recedes, leaving a solo acoustic piano phrase that brings the piece to a soft, lingering close.\n\nGENRES: Folk Rock, Singer-Songwriter, Pop Rock, Acoustic Rock"
+  },
+  "metadata": {
+    "youtube_id": "ADtnUC_ctNk",
+    "title_extracted": null,
+    "corpus_id": "ADtnUC_ctNk",
+    "uploader": "ABKCOVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/ADtnUC_ctNk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6397640,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.377823,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:35:44Z"
+  },
+  "status": "success",
+  "error": null
+}

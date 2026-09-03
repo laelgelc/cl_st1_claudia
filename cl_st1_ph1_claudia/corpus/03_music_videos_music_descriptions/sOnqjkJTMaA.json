@@ -1,0 +1,38 @@
+{
+  "corpus_id": "sOnqjkJTMaA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/sOnqjkJTMaA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/sOnqjkJTMaA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/sOnqjkJTMaA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with ambient sound effects including nocturnal crickets, heavy breathing, crunching footsteps, and a car door shutting. Spoken dialogue between a man and a woman unfolds over a quiet, tense soundtrack featuring low sustained orchestral strings and subtle ambient synth textures. Around 02:11, the audio shifts dramatically into a cinematic horror score featuring sudden brass stingers, tremolo string passages, monster growls, and high-pitched female screams. At 03:45, the audio transitions to the sound of a movie theater audience murmuring and brief dialogue as the characters exit.\n\nAt 04:12, a mid-tempo 4/4 dance groove enters with a driving electronic drum beat, four-on-the-floor kick drum, crisp snare snaps, syncopated handclaps, a prominent slap bassline, and rhythmic funk electric guitar strumming. A dynamic male lead vocal enters, delivering expressive, syncopated melodies punctuated by energetic falsetto cries and vocal hiccup accents. The arrangement expands in the chorus with layered vocal harmonies, vibrant horn section stabs, and lush synthesizer pads.\n\nAt 06:32, the main groove yields to a deep, theatrical male spoken-word narration set against a pulsing bass synth and suspenseful orchestral strings, before returning to the full-band chorus with soaring brass countermelodies. A cinematic bridge section at 08:03 features sound effects including creaking doors, wind, and footsteps, leading into an extended funk breakdown at 08:27. This section highlights energetic horn section riffs, rhythmic bass improvisations, and layered vocal chants over the steady dance beat. \n\nFollowing a brief dialogue reprise at 11:46, the track concludes with a final section featuring the main chorus groove, punchy brass accents, and a deep, sinister spoken-word narration that finishes with a dramatic, evil laugh fading into ambient wind effects.\n\nGENRES: Pop, Funk, Post-Disco, Synth-Pop, Horror Soundtrack"
+  },
+  "metadata": {
+    "youtube_id": "sOnqjkJTMaA",
+    "title_extracted": null,
+    "corpus_id": "sOnqjkJTMaA",
+    "uploader": "Michael Jackson",
+    "audio_file": "corpus/01_music_videos_audio/audio/sOnqjkJTMaA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 26302156,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:25:35Z"
+  },
+  "status": "success",
+  "error": null
+}

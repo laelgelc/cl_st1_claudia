@@ -1,0 +1,38 @@
+{
+  "corpus_id": "sR85q5jmu20",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/sR85q5jmu20.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/sR85q5jmu20.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/sR85q5jmu20.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens in an uptempo four-four meter with a syncopated, rhythmically chopped electric guitar riff possessing a clean, slightly warm overdrive tone. Almost immediately, a driving rhythm section enters, featuring a crisp drum kit—characterized by a punchy kick, clear snare hits on beats two and four, and steady hi-hat work—alongside a prominent, melodic bassline. Initial melodic ad-libs from a female lead vocalist introduce a soulful, joyous mood before the main vocal performance begins around twenty-eight seconds in.\n\nThe lead female vocal is mixing-focused and front-and-center in the stereo image, treated with subtle, warm studio reverb. Her delivery is dynamic and highly expressive, moving effortlessly between agile mid-range phrasing and powerful, bluesy vocal belts. As the arrangement progresses, a full brass section featuring trumpets and saxophones enters, providing sharp, syncopated horn stabs and short counter-melodic fills that punctuate the vocal phrases. The electric guitar continues to supply rhythmic chordal foundation in the right-to-center field, while the bass and drums maintain a consistent, swinging groove.\n\nSectional transitions are signaled by subtle drum fills, cymbal accents, and rising brass lines. In the latter half of the piece, the performance reaches a dynamic peak as the lead vocalist engages in energetic, high-pitched melodic runs and rhythmic vocal repetitions over a tight harmonic vamp. The interaction between the vocal improvisations and the brass section creates a vibrant call-and-response texture. Around two minutes and twelve seconds, the vocal line shifts into a rhythmic, repeating motif that steadily builds tension over the continuing groove. The song transitions into an outro vamp where repeating vocal phrases are underscored by energetic horn hits and a driving bass pattern, slowly fading out until the recording concludes.\n\nGENRES: Soul, Rhythm and Blues, Pop, Funk"
+  },
+  "metadata": {
+    "youtube_id": "sR85q5jmu20",
+    "title_extracted": null,
+    "corpus_id": "sR85q5jmu20",
+    "uploader": "NatalieColeMusic",
+    "audio_file": "corpus/01_music_videos_audio/audio/sR85q5jmu20.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5195404,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.295413,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:45:52Z"
+  },
+  "status": "success",
+  "error": null
+}

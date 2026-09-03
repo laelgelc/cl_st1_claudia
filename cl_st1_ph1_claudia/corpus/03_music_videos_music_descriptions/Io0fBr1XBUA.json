@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Io0fBr1XBUA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Io0fBr1XBUA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Io0fBr1XBUA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Io0fBr1XBUA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with sound effects of a car door shutting and an engine revving, transitioning abruptly into an intimate solo acoustic guitar section featuring Spanish-style fingerpicking, warm tone, and intricate melodic arpeggios. At approximately 0:17, a driving dance-pop beat abruptly enters in a 4/4 meter at a mid-tempo pace, featuring a punchy four-on-the-floor kick drum, crisp claps, deep sub-bass, and upbeat guitar strumming. A smooth, melodic female lead vocal enters, processed with subtle pitch-correction, crisp EQ, and spacious stereo delay and reverb.\n\nThe song follows a structured verse-chorus-drop arrangement in a minor key. The pre-chorus builds dynamic intensity through rising synth sweeps, swelling pads, and accelerating snare drum fills. This leads into an energetic drop section featuring side-chained synth lead hooks, rhythmic vocal chops, and a full electronic drum groove. The production is polished and radio-friendly, utilizing wide stereo imaging, crisp percussion panning, and clean spatial separation between the vocal and synth layers.\n\nA second verse and chorus repeat this structural arc before a bridge section filters out the low-end frequency content, creating a brief sense of suspense and vulnerability highlighted by soaring vocal ad-libs. The final drop at 2:30 reaches peak dynamic loudness, combining intense vocal belting in a higher register with thick synth layers, heavy bass, and driving percussion. In the extended outro, acoustic guitar flourishes blend back into the electronic instrumentation. The beat eventually dissipates, leaving soft acoustic guitar strums and vocal reverb tails that fade into ambient natural sound effects of crickets chirping in the night. The overall mood shifts dynamically between emotional urgency and uplifting, high-energy dance club appeal.\n\nGENRES: Dance-Pop, EDM, Tropical House, Pop"
+  },
+  "metadata": {
+    "youtube_id": "Io0fBr1XBUA",
+    "title_extracted": null,
+    "corpus_id": "Io0fBr1XBUA",
+    "uploader": "The Chainsmokers",
+    "audio_file": "corpus/01_music_videos_audio/audio/Io0fBr1XBUA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6972752,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.789584,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:14:23Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "uhzy7JaU2Zc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uhzy7JaU2Zc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/uhzy7JaU2Zc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/uhzy7JaU2Zc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is an upbeat, high-energy synth-pop and disco arrangement set in a fast 4/4 meter. It opens at 0:00 with a driving four-on-the-floor electronic kick drum, crisp offbeat hi-hats, handclaps, a syncopated, octave-leaping synth bassline, and bright, brass-like synthesizer stabs playing a catchy melodic motif. The overall texture is dense, polished, and highly danceable, featuring a prominent stereo spread where rhythm guitars and synth accents occupy the sides while the kick, bass, and lead elements remain centered.\n\nAt 0:12, a bright, high-pitched female lead vocal enters with rhythmic phrasing. The vocal is centrally panned and treated with light stereo reverb and subtle pitch stabilization, giving it a sleek, modern synth-pop clarity. At 0:27, the arrangement moves into a vocal hook section featuring syncopated melodic repetition over the continuous funk-infused disco groove.\n\nAn abrupt section shift occurs at 0:59, marked by a brief drum cue. The arrangement introduces a clean-toned electric rhythm guitar playing funk-style strumming alongside synth brass accents, while a new, melodic vocal hook takes over. At 1:22, the vocals give way to an instrumental solo section where a mildly overdriven electric guitar plays an expressive lead melody over the relentless dance beat, synth bass, and rhythm guitar background.\n\nThe vocals return at 1:53 to repeat the second section's hook, maintaining high dynamic energy and rich texture. At 2:09, another sharp transition reverts the harmonic pattern and groove back to the initial theme. The opening vocal melody and synth brass motifs return at 2:20, driving the high-tempo energy through to the track's conclusion at 2:42. The tonal character throughout is bright, punchy, and retro-inspired, built on major-key harmonies and a persistent dance groove.\n\nGENRES: Synth-pop, Disco, Dance-pop, Electronic, Funk"
+  },
+  "metadata": {
+    "youtube_id": "uhzy7JaU2Zc",
+    "title_extracted": null,
+    "corpus_id": "uhzy7JaU2Zc",
+    "uploader": "Musikladen",
+    "audio_file": "corpus/01_music_videos_audio/audio/uhzy7JaU2Zc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5281596,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.193437,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:53:19Z"
+  },
+  "status": "success",
+  "error": null
+}

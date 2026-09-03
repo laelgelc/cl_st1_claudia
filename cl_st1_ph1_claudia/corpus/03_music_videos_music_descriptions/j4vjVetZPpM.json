@@ -1,0 +1,38 @@
+{
+  "corpus_id": "j4vjVetZPpM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/j4vjVetZPpM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/j4vjVetZPpM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/j4vjVetZPpM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a brief tape-rewind sound effect and a toasted, echo-laden vocal exclamation set over a brief drum fill, immediately establishing an upbeat 4/4 reggae rhythm at a moderate tempo. The core groove quickly forms around an offbeat electric guitar skank, a bubbling Hammond organ, a resonant, melodic bassline, and crisp drums defined by a snappy snare rimshot and steady hi-hat pattern.\n\nAt 00:15, a soulful female lead vocal enters, delivering a smooth, expressive melodic performance enhanced by subtle reverb and delay. Intermittent toaster-style vocal ad-libs and delay-drenched vocal stabs pepper the stereo field throughout the verses, adding a classic sound-system production flavor. The track maintains a consistent, warm analogue timbre and a dense yet spacious texture, balancing a prominent low-end bass response with bright, articulate percussive elements. The harmony revolves around a cyclic, minor-leaning chord progression, creating a bittersweet and emotionally resonant mood that contrasts with the infectious, danceable rhythm.\n\nDynamics remain largely stable throughout the track, preserving a steady, driving feel. As the song develops through verse and chorus cycles, the lead vocal displays slight dynamic build-ups to match the emotional intensity of the lyrics. At 02:22, an instrumental section introduces a bright brass line playing a melodious melody over the established rhythm track. The female lead vocal returns at 02:44 for a final chorus reiteration before the mix gently fades out, concluding the piece with a gradual drop in overall volume.\n\nGENRES: reggae, rocksteady, lovers rock, ska"
+  },
+  "metadata": {
+    "youtube_id": "j4vjVetZPpM",
+    "title_extracted": null,
+    "corpus_id": "j4vjVetZPpM",
+    "uploader": "Dawn Penn | Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/j4vjVetZPpM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6737208,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.160082,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:52:21Z"
+  },
+  "status": "success",
+  "error": null
+}

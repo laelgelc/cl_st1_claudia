@@ -1,0 +1,38 @@
+{
+  "corpus_id": "tbIEwIwYz-c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/tbIEwIwYz-c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/tbIEwIwYz-c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/tbIEwIwYz-c.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a brief car tire screech sound effect, instantly launching into a high-energy synth-funk and dance-pop groove set in a steady 4/4 meter at an upbeat tempo. A punchy drum machine featuring a prominent kick, crisp snare-clap combination, and fast hi-hat patterns provides the main rhythmic foundation alongside a syncopated, bouncing electric bassline. Bright, punchy synth brass stabs and clean, chorus-drenched electric guitar strumming punctuate the dynamic texture. \n\nA clear, expressive male lead vocal enters during the verse, delivered with soulful inflection and light reverb processing. The texture thickens as the music moves into the chorus, where multi-tracked group harmonies answer the lead vocal, creating a call-and-response dynamic backed by persistent rhythmic brass accents. A contrasting bridge section follows, softening the rhythmic intensity slightly to allow lush, soaring vocal harmonies and smooth synth pads to lead the harmonic progression before returning to an energetic chant interlude driven by rhythmic group vocalizations.\n\nThe second verse and chorus maintain this energetic bounce, with subtle vocal ad-libs and playful rhythmic variations added to the main lead line. The stereo field is widely utilized, placing rhythm guitars and synth hits across the panorama while keeping the bass, kick, and lead vocals firmly anchored in the center. \n\nThe composition transitions into an extended outro featuring soul-infused vocal ad-libs, repeating group chants, and playful spoken vocal interjections over the driving drum-and-bass rhythm section. Synth brass hits continue to accent the syncopated groove as the arrangement plays out with high energy until the final beat. Throughout the track, the mood remains celebratory, optimistic, and dance-oriented, characterized by tight rhythmic precision and polished pop production.\n\nGENRES: synth-pop, dance-pop, new jack swing, synth-funk"
+  },
+  "metadata": {
+    "youtube_id": "tbIEwIwYz-c",
+    "title_extracted": null,
+    "corpus_id": "tbIEwIwYz-c",
+    "uploader": "New Kids on the Block",
+    "audio_file": "corpus/01_music_videos_audio/audio/tbIEwIwYz-c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8044214,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.130666,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:36:04Z"
+  },
+  "status": "success",
+  "error": null
+}

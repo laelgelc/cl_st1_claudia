@@ -1,0 +1,38 @@
+{
+  "corpus_id": "etviGf1uWlg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/etviGf1uWlg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/etviGf1uWlg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/etviGf1uWlg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with crowd applause and ambience alongside a playful, spoken female monologue interspersed with vocalizations and sound effects like vinyl scratches and a popping sound. At 0:31, a vocal sample (\"We're going to dance...\") triggers a upbeat transition as a four-on-the-floor kick drum, energetic syncopated bassline, hi-hats, and rhythmic funk guitar riffs enter to establish a groovy, danceable 4/4 meter.\n\nBright synth-brass stabs build the texture into the first verse at 0:58, where a soulful female lead vocal takes center stage with dynamic agility, accompanied by occasional male spoken interjections. The production features a wide stereo field, with punchy low-end bass, crisp drum machine elements, and prominent percussive embellishments like shakers and tambourines. \n\nAt 1:47, the track swells into the vibrant main chorus, characterized by layered vocal harmonies singing the central hook over a dense instrumental arrangement of driving bass, funk guitar, and energetic horn stabs. At 2:03, the dynamic drops sharply into a percussive breakdown showcasing hand drums and agogô-like tones, quickly transitioning into a rhythmic female rap verse supported by DJ turntablism and vinyl scratch effects. A second male rap verse follows at 2:43 over a buoyant, funk-infused instrumental bed.\n\nThe energy peaks again at 3:14 as the song returns to the full chorus. A brief breakdown at 3:39 features finger snaps and a spoken count-in (\"1, 2, 3, 4!\") before a syncopated bass riff re-establishes the driving beat. The arrangement tapers down into a guitar-focused outro accompanied by spoken vocal commentary, finally concluding with a fade to returning crowd applause. Throughout, the atmosphere remains infectious, joyful, and rhythmically propelled.\n\nGENRES: Dance-Pop, House, Funk, Nu-Disco, Hip Hop"
+  },
+  "metadata": {
+    "youtube_id": "etviGf1uWlg",
+    "title_extracted": null,
+    "corpus_id": "etviGf1uWlg",
+    "uploader": "Deee-Lite",
+    "audio_file": "corpus/01_music_videos_audio/audio/etviGf1uWlg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9305150,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.974895,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:18:34Z"
+  },
+  "status": "success",
+  "error": null
+}

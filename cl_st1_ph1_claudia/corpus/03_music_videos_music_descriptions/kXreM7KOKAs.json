@@ -1,0 +1,38 @@
+{
+  "corpus_id": "kXreM7KOKAs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/kXreM7KOKAs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/kXreM7KOKAs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/kXreM7KOKAs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with the sound of enthusiastic crowd cheering and applause, immediately followed by a powerful brass fanfare and a driving, mid-tempo funk-soul groove set in a 4/4 meter. The rhythm section is built around a crisp, punchy drum kit playing a strong syncopated backbeat, an energetic, melodic electric bassline, clean electric rhythm guitar comping, and subtle organ fills underneath. Bright, punchy horn stabs accentuate the syncopated rhythm throughout the introduction.\n\nAt approximately 0:14, a soulful, expressive female lead vocalist enters, delivering an assertive performance characterized by crisp diction, dynamic belting, and expressive pitch slides. The vocal is centered in the mix with a subtle room reverb, capturing a warm, live performance ambience. The harmony rests on a classic soul chord progression in a major key, establishing a confident, playful, and upbeat emotional tone.\n\nAs the track proceeds into the main hook, the dynamic intensity increases through tight call-and-response phrasing between the lead vocals and the horn section. The verses present a slightly lighter texture, allowing the vocal line to float above the rhythmic bass and guitar vamp. At 1:31, a short instrumental interlude showcases lively horn section stabs and syncopated rhythmic fills before the lead vocal re-enters with heightened intensity.\n\nAround 2:27, the song transitions into an extended vamp section where the lead vocalist engages in expressive ad-libs and rhythmic vocalizations. The rhythm section maintains an unwavering groove while horn accents continuously punctuate the phrases. The energy builds to a climactic conclusion as the full ensemble plays a final hit, ending the musical performance into a wave of audience applause. The production is punchy, warm, and spacious, emphasizing a live ensemble aesthetic.\n\nGENRES: Soul, Funk, R&B, Live Performance"
+  },
+  "metadata": {
+    "youtube_id": "kXreM7KOKAs",
+    "title_extracted": null,
+    "corpus_id": "kXreM7KOKAs",
+    "uploader": "Valdenir Chaves",
+    "audio_file": "corpus/01_music_videos_audio/audio/kXreM7KOKAs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6725320,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.197196,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:15:04Z"
+  },
+  "status": "success",
+  "error": null
+}

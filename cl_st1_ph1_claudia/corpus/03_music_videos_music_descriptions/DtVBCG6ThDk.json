@@ -1,0 +1,38 @@
+{
+  "corpus_id": "DtVBCG6ThDk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/DtVBCG6ThDk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/DtVBCG6ThDk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/DtVBCG6ThDk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens in a slow-to-moderate 4/4 tempo with a gentle, reflective acoustic piano playing arpeggiated and block chords in a major key. Shortly after, a clear male lead vocal enters in the stereo center with an intimate, smooth delivery and mild spatial reverb, keeping the overall dynamics soft and predominantly acoustic.\n\nAt approximately fifty seconds in, the arrangement expands into a full pop-rock ballad texture. An acoustic guitar provides rhythmic strumming while an electric bass guitar enters with warm, rounded low-end frequencies. A drum kit joins with a relaxed, steady groove driven by crisp snare backbeats and subtle cymbal work. The dynamic level rises significantly during this chorus section, complemented by stereo-panned background vocal harmonies that double key melodic phrases behind the lead vocal's soaring, resonant delivery.\n\nFollowing the chorus, the arrangement dips back down into a second verse where the acoustic piano and strummed acoustic guitar remain prominent, augmented by lighter drum patterns and clean electric guitar fills. The lead vocal continues with dynamic storytelling, shifting effortlessly between mid-register intimacy and emotive higher tones.\n\nThe second chorus reinstates the full, driving rhythm section and broadens the stereo field with lush instrumental layers. This smoothly transitions into an extended outro vamp based on a repeating harmonic cycle. During this final section, the lead vocal delivers passionate, repetitive hooks while an electric guitar performs expressive, blues-influenced melodic fills. The rhythmic momentum remains steady as the full ensemble plays out, maintaining a warm timbre and a nostalgic, reflective mood until the performance gracefully fades away.\n\nGENRES: Soft Rock, Pop Ballad, Singer-Songwriter"
+  },
+  "metadata": {
+    "youtube_id": "DtVBCG6ThDk",
+    "title_extracted": null,
+    "corpus_id": "DtVBCG6ThDk",
+    "uploader": "Elton John",
+    "audio_file": "corpus/01_music_videos_audio/audio/DtVBCG6ThDk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9029482,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.918978,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:53:58Z"
+  },
+  "status": "success",
+  "error": null
+}

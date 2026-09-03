@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ghFBvBmXv4E",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ghFBvBmXv4E.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ghFBvBmXv4E.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ghFBvBmXv4E.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens immediately with a fast-tempo, swing-inflected 4/4 rock ’n’ roll rhythm. The instrumentation features a prominent, rhythmic slap double bass, a driving drum kit with punchy snare hits, twangy electric guitar strumming, and energetic male lead vocals. A group of backing vocalists provides rhythmic call-and-response phrases behind the lead singer, enhancing the upbeat, driving feel.\n\nThe vocal delivery is expressive, bluesy, and highly rhythmic, accented by classic rockabilly-style vocal inflections, light slapback echo, and retro reverb. The harmonic structure follows a traditional 12-bar blues progression in a bright major key. Throughout the verses and choruses, the double bass maintains a percussive walking rhythm, while the guitar plays sharp, syncopated chord chops and quick bluesy embellishments.\n\nAround 00:43, a narrative bridge section unfolds where the lead singer adopts a more urgent, rapid-fire vocal delivery, propelled by the persistent, bouncing slap bass and steady snare pattern. This leads back into a high-energy chorus section at 00:58, where the call-and-response vocal arrangement intensifies alongside dynamic accents from the drum kit.\n\nAt 01:19, the arrangement transitions into a vibrant electric guitar solo. The guitar features a bright, twangy mid-range tone with spring reverb and slapback delay, performing fast blues runs, double-stop bends, and syncopated phrasing over the steady rhythm section.\n\nFollowing the solo at 01:34, the narrative bridge repeats with increased dynamic intensity, seamlessly segueing at 01:49 into a final chorus section. The lead singer and backing vocalists exchange energetic phrases over the relentless, swing-shuffle groove. The song concludes around 02:16 with a sharp, synchronized musical hit and a decaying guitar resonance. The overall mood is exuberant, danceable, and vintage in stylistic execution.\n\nGENRES: Rockabilly, Rock 'n' Roll, Rhythm & Blues, Swing"
+  },
+  "metadata": {
+    "youtube_id": "ghFBvBmXv4E",
+    "title_extracted": null,
+    "corpus_id": "ghFBvBmXv4E",
+    "uploader": "AK47bandit",
+    "audio_file": "corpus/01_music_videos_audio/audio/ghFBvBmXv4E.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4518496,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.220104,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:08:21Z"
+  },
+  "status": "success",
+  "error": null
+}

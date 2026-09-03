@@ -1,0 +1,38 @@
+{
+  "corpus_id": "5Aa_9ruWPnA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/5Aa_9ruWPnA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/5Aa_9ruWPnA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/5Aa_9ruWPnA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a spoken television host introduction over enthusiastic audience applause, leading directly into an energetic, upbeat holiday pop-soul arrangement in a driving four-four meter at a moderate-fast tempo. The instrumentation features a full live big band orchestra consisting of punchy brass stabs, warm woodwinds, electric rhythm guitar, driving bass, a crisp drum kit with a steady backbeat, and shimmering sleigh bells that provide a persistent festive groove throughout.\n\nA powerful female lead vocalist enters with a soulful, highly expressive tone, utilizing a robust chest register, broad dynamic range, and expressive vocal ornamentation. She is backed by a large mixed choir providing tight, multi-part vocal harmonies in a frequent call-and-response pattern. The musical texture is dense and layered, balancing the punchy horn section with the lush backing choir and a driving rhythm section.\n\nAs the arrangement progresses through verses and choruses, the dynamic intensity steadily rises. A brief instrumental bridge driven by brass accents and rhythmic guitar strumming builds momentum before returning to the primary thematic chorus. A dramatic key modulation heightens the emotional energy, leading into an extended climactic outro section. During this passage, the lead vocalist delivers impassioned, high-register belting with wide vibrato over repeating, rhythmic choir chants and increasingly dramatic brass swells and drum fill transitions.\n\nThe song culminates in a grand cadential finale, where the lead vocalist sustains a powerful high note alongside a full, ringing orchestral chord and a final drum roll and cymbal crash. The music resolves into loud, enthusiastic audience applause and cheers, followed by brief closing remarks from the host over ambient studio acoustics as the audio segment concludes.\n\nGENRES: Holiday Music, Soul, Pop, Big Band, Christmas Music"
+  },
+  "metadata": {
+    "youtube_id": "5Aa_9ruWPnA",
+    "title_extracted": null,
+    "corpus_id": "5Aa_9ruWPnA",
+    "uploader": "Letterman",
+    "audio_file": "corpus/01_music_videos_audio/audio/5Aa_9ruWPnA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6819686,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 35.917165,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:45:09Z"
+  },
+  "status": "success",
+  "error": null
+}

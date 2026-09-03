@@ -1,0 +1,38 @@
+{
+  "corpus_id": "gxEPV4kolz0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/gxEPV4kolz0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/gxEPV4kolz0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/gxEPV4kolz0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a solo acoustic guitar playing a jaunty, swinging 3/4 waltz rhythm using a combination of thumbed bass-note downbeats and fingerstrummed chordal fills. A warm, expressive harmonica enters shortly after, playing bluesy trills, bends, and melodic accents that counter the guitar’s driving rhythmic pulse. The overall production is intimate and organic, featuring a modest acoustic arrangement with a natural room ambience where the acoustic guitar anchors the center and the harmonica echoes across the stereo field.\n\nAt thirty seconds, a raspy, expressive male lead vocal enters with a narrative, conversational tone. The vocals are captured with clear upper-midrange detail, subtle room reverb, and an earnest, ballad-like presence. Throughout the verses, the dynamic level remains restrained, driven by the bouncing waltz groove of the acoustic guitar while the harmonica fills the spaces between vocal lines with blues-inflected melodic counterpoints. As the piece transitions into the chorus, the performance dynamics swell significantly; the lead vocals transition into an impassioned, belted delivery with heightened emotional grit, accompanied by fuller, percussive acoustic guitar strumming and soaring harmonica countermelodies.\n\nThe arrangement follows a traditional verse-chorus structure punctuated by brief instrumental interludes and melodic vocalization refrains. The harmony relies on diatonic, folk-oriented major chord progressions enriched with subtle chromatic passing tones, imparting a nostalgic and bittersweet character. In the final third of the track, the dynamic intensity peaks with high-register vocal belting, energetic acoustic strumming, and crying harmonica notes. The recording finishes with a brief instrumental outro where the tempo gradually decelerates, concluding on a final, resonant acoustic guitar chord.\n\nGENRES: Folk, Singer-Songwriter, Acoustic, Blues Rock"
+  },
+  "metadata": {
+    "youtube_id": "gxEPV4kolz0",
+    "title_extracted": null,
+    "corpus_id": "gxEPV4kolz0",
+    "uploader": "Billy Joel",
+    "audio_file": "corpus/01_music_videos_audio/audio/gxEPV4kolz0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10933148,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 27.756887,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:39:25Z"
+  },
+  "status": "success",
+  "error": null
+}

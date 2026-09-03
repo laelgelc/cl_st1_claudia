@@ -1,0 +1,38 @@
+{
+  "corpus_id": "GswJOWEkLJM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/GswJOWEkLJM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/GswJOWEkLJM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/GswJOWEkLJM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "Beginning with live audience applause, the track rapidly transitions into a mid-tempo, driving 4/4 soul beat anchored by crisp drumkit backbeats, a buoyant electric bassline, and rhythmic electric guitar comping. A warm, expressive female lead vocalist enters shortly after, delivering a poignant, emotive melody characterized by smooth vibrato, dynamic swells, and soulful inflections polished with vintage plate reverb.\n\nThe arrangement expands during the chorus with punchy brass section stabs—featuring trumpets and saxophones—interlocking with a multi-part female backing vocal chorus that provides harmonized call-and-response phrases. The texture remains richly layered throughout the verses, balancing a steady, upbeat rhythm with the reflective, slightly melancholic harmonic movement of the chord progression.\n\nMidway through, the performance transitions into a vibrant instrumental interlude where the brass section takes center stage, performing crisp, syncopated melodic hooks over driving drums, keyboard accompaniment, and continuous, melodic bass movement. This section escalates the overall dynamic energy before smoothly ushering the lead vocalist back into the song.\n\nIn the closing section, the arrangement transitions into an extended outro vamp built around repeating call-and-response motifs between the lead singer and backing vocalists. Over persistent brass accents and an unyielding rhythm section groove, the lead singer’s delivery becomes increasingly impassioned with expressive vocal improvisations. The track gradually fades out alongside returning audience applause. The recording exhibits a warm analog production aesthetic with a balanced stereo image—placing the lead vocal and rhythm section prominently in the center while panning guitar, keyboards, and brass section highlights across the spatial field.\n\nGENRES: Soul, Rhythm and Blues, Northern Soul, Classic Soul, Pop Soul"
+  },
+  "metadata": {
+    "youtube_id": "GswJOWEkLJM",
+    "title_extracted": null,
+    "corpus_id": "GswJOWEkLJM",
+    "uploader": "Justin Fung",
+    "audio_file": "corpus/01_music_videos_audio/audio/GswJOWEkLJM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7129534,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 38.075218,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:56:24Z"
+  },
+  "status": "success",
+  "error": null
+}

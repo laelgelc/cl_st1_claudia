@@ -1,0 +1,38 @@
+{
+  "corpus_id": "vCadcBR95oU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/vCadcBR95oU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/vCadcBR95oU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/vCadcBR95oU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a rhythmic, breathy vocal phrase accompanied by a punchy 4/4 dance beat featuring a crisp snare, driving kick, and steady hi-hats, anchored by a synth bassline. Turntable scratching sounds punctuate the texture alongside energetic, multi-tracked female vocals delivering rhythmic spoken-singing hooks. The musical style blends elements of late-1980s hip-house, electro-funk, and dance-pop, maintained at an upbeat, mid-tempo groove with a high-energy, party-oriented mood.\n\nAs the track progresses, the arrangement expands with layered brass stabs playing syncopated melodic hooks over the continuous bass-heavy groove. A male spoken voice briefly intervenes over a simplified drum and bass section, creating a temporary breakdown before the full arrangement resumes. A funky, clean-toned electric rhythm guitar enters periodically, playing rhythmic chordal chops that add texture alongside the synth bass and drum machine beat. Stereo panning is used dynamically, spreading scratching effects and vocal ad-libs across the left and right channels, while short reverb gives the drums and vocals a polished, spacious presence.\n\nHarmonically, the track relies on a simple, repeating minor-key vamp driven predominantly by the synth bassline and brass riffs. Dynamics remain consistently loud and driving throughout, with minor textural shifts created by dropping instruments in and out—such as isolating the drums and vocal chants, or bringing brass and guitar riffs to the foreground. Breathy vocal interjections and rhythmic vocal cuts serve as a recurring motif across all sections. Towards the end, the brass theme and rhythmic vocal chants repeat over the persistent four-on-the-floor beat, eventually bringing the track to a close as the instrumental groove completes its final phrase.\n\nGENRES: Hip-House, Dance-Pop, Electro-Funk, Synth-Pop"
+  },
+  "metadata": {
+    "youtube_id": "vCadcBR95oU",
+    "title_extracted": null,
+    "corpus_id": "vCadcBR95oU",
+    "uploader": "Salt-N-Pepa",
+    "audio_file": "corpus/01_music_videos_audio/audio/vCadcBR95oU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8465516,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.083693,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:23:52Z"
+  },
+  "status": "success",
+  "error": null
+}

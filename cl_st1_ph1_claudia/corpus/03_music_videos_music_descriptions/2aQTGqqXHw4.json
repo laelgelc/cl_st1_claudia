@@ -1,0 +1,38 @@
+{
+  "corpus_id": "2aQTGqqXHw4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/2aQTGqqXHw4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/2aQTGqqXHw4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/2aQTGqqXHw4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with ambient sound of a cheering crowd, punctuated by an energetic vocal whistle and shout. A fast-paced, driving 4/4 drum count-in immediately establishes an upbeat rock 'n' roll groove. Distorted electric guitars, a throbbing electric bass, and punchy drums build a gritty, full-bodied texture. The lead vocal enters with raw, dramatic shouts and raspy theatrical flourishes, setting a rebellious, high-energy mood.\n\nIn the first verse, the rhythm section maintains a relentless, driving eighth-note feel while rhythm guitars provide crunchy harmonic support. The lead vocals alternate between rhythmic, spoken-style phrasing and intense, strained belts. Dynamic density increases as the arrangement moves into the chorus, where the vocalist shouts the lead refrain over sustained guitar chords, accenting crash cymbals, and double-tracked vocal layers with noticeable room reverb.\n\nThe second verse continues the steady, driving tempo with prominent hi-hat patterns and a punchy bassline. The vocal delivery grows progressively frantic, climbing in pitch with raspy screeches and expressive vocalisations. Following another high-impact chorus, a short transition features drum rolls and ambient stadium applause, creating a momentary breather in the arrangement.\n\nThe third verse re-engages the driving groove, enhanced by sharp guitar fills and punchy snare accents. The vocal performance becomes increasingly unhinged, incorporating wild, high-register screams and syncopated shouting over a repetitive major-key chord progression. The track reaches its climax in an extended, highly volatile outro where the vocals push into intense, uninhibited screeches. The performance terminates in a dramatic, heavy multi-instrumental chord cadence, leaving guitar feedback decay and wild vocal shouts that blend into roaring crowd cheers at the finish.\n\nGENRES: rock, punk rock, glam rock, rock and roll"
+  },
+  "metadata": {
+    "youtube_id": "2aQTGqqXHw4",
+    "title_extracted": null,
+    "corpus_id": "2aQTGqqXHw4",
+    "uploader": "TheNewYorkDollsVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/2aQTGqqXHw4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7524086,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.796716,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:47:05Z"
+  },
+  "status": "success",
+  "error": null
+}

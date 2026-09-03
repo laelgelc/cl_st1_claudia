@@ -1,0 +1,38 @@
+{
+  "corpus_id": "JkRKT6T0QLg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/JkRKT6T0QLg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/JkRKT6T0QLg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/JkRKT6T0QLg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief spoken dialogue in a room ambience before abruptly transitioning at 0:11 into a high-energy pop-rock dance groove in 4/4 meter at a brisk tempo. The rhythm section is driven by a punchy drum kit featuring a reverberant, gated-style snare drum, syncopated hi-hat patterns, a prominent bassline, and funk-influenced rhythm electric guitar chords accompanied by energetic brass stabs.\n\nAt 0:27, the song proceeds into its initial verse featuring a clear, melodic male lead vocal delivered with a soulful, energetic timbre. As the section moves into the chorus around 0:54, a second distinct male vocalist joins, introducing alternating lead phrases and harmonized dual vocals. Punchy horn stabs emphasize the ends of vocal lines, supported by stereo-panned electric guitars and a steady, danceable rhythm. \n\nAround 2:19, a brief studio interlude with spoken laughter momentarily interrupts the formal structure before launching into an instrumental section at 2:25 led by a distorted electric guitar solo. The solo features blues-inflected melodic bends and fast scalar passages over the continuous drum and bass rhythm. The song re-engages its full vocal intensity from 2:49 onwards, combining both lead vocalists in call-and-response ad-libs, high-register belted phrases, active drum fills, and full brass accents. \n\nThe production aesthetic exhibits a polished 1980s pop/rock character, marked by a wide stereo image, distinct spatial reverb on the drums and vocals, and bright tonal shaping across all instruments. The emotional atmosphere remains consistently upbeat, driving, and triumphant through to the eventual fade-out ending.\n\nGENRES: Pop Rock, Dance-Pop, Funk Pop, Synth-Pop"
+  },
+  "metadata": {
+    "youtube_id": "JkRKT6T0QLg",
+    "title_extracted": null,
+    "corpus_id": "JkRKT6T0QLg",
+    "uploader": "Philip Bailey",
+    "audio_file": "corpus/01_music_videos_audio/audio/JkRKT6T0QLg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9180320,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.882648,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:29:10Z"
+  },
+  "status": "success",
+  "error": null
+}

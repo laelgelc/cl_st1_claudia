@@ -1,0 +1,38 @@
+{
+  "corpus_id": "4WW4qcmrJ3E",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4WW4qcmrJ3E.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/4WW4qcmrJ3E.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/4WW4qcmrJ3E.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "An acoustic, introspective folk-pop composition in a moderate 4/4 time signature opens with a solo steel-string acoustic guitar playing a warm, rhythmic fingerpicking pattern. At 0:09, an intimate, close-mic'd female lead vocal enters in the center of the stereo field, delivering a conversational and emotive melody with subtle room reverb. A gentle acoustic bass guitar joins underneath, providing a soft, grounding low-end foundation to the diatonic major chord progression.\n\nThe arrangement remains sparse and uncluttered through the first verse, highlighting the guitar's warm, woody timbre and the dry, front-and-center vocal placement. As the song transitions into the chorus around 0:41, the acoustic guitar strumming expands slightly in dynamic resonance, supporting an elevated, emotionally expressive vocal line while preserving the steady, unhurried groove.\n\nIn the second verse starting at 1:06, the vocal returns to its narrative delivery over the consistent acoustic guitar fingerpicking and understated bass accompaniment. The overall dynamics rise slightly into the second chorus at 1:40, where the vocal tone grows brighter and more expressive, contrasting against the stable acoustic backing.\n\nA bridge section at 2:05 introduces slightly altered melodic phrasing before transitioning smoothly into a third verse at 2:23. The acoustic guitar maintains its fluid fingerpicked groove while the bass provides warm root-note support. The final chorus arrives at 3:04, reaching a modest dynamic peak driven by a poignant vocal delivery.\n\nThe composition moves into an outro at 3:28, where the vocal melody slows and lingers. The vocals fade, leaving the acoustic guitar to play a gentle descending fingerpicked cadence that resolves on a final, softly decaying chord around 3:41. The overall mood is melancholic and reflective, conveyed through minimal acoustic instrumentation and a clean, intimate production style.\n\nGENRES: Folk, Singer-Songwriter, Acoustic Pop"
+  },
+  "metadata": {
+    "youtube_id": "4WW4qcmrJ3E",
+    "title_extracted": null,
+    "corpus_id": "4WW4qcmrJ3E",
+    "uploader": "Jewel",
+    "audio_file": "corpus/01_music_videos_audio/audio/4WW4qcmrJ3E.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7207552,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.326425,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:27:42Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "YtbFPLK-JWI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/YtbFPLK-JWI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/YtbFPLK-JWI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/YtbFPLK-JWI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a playhead noise and a rhythmic DJ scratch pattern over a punchy, danceable electronic drum beat, quickly introducing a bubbling synth bassline, bright synth brass stabs, and playful vocal sound effects. The rhythm settles into a medium-fast, highly syncopated 4/4 groove driven by an electronic drum machine featuring a crisp snare, bright hi-hats, and rhythmic rimshots.\n\nA youthful male lead vocal enters with a smooth, expressive melodic delivery, accompanied by multi-layered group vocal harmonies that create a lush, dense chorus texture. The stereo field is filled with rhythmic synth brass accents, subtle stereo panning of backing vocal ad-libs, and upbeat synth fills. Short transitional breakdowns occur periodically, using vinyl scratching, vocal zaps, and brief drum breaks to mark section changes between verses and chorus hooks.\n\nMidway through the recording, a spoken and rapped call-and-response bridge introduces a conversational group dynamic over the persistent funk bassline. Turntable scratches and synth accents highlight the vocal interplay before transitioning seamlessly back into the primary chorus section. Here, the musical texture reaches its peak density, layering soaring, high-register lead improvisations over the repeating vocal hook and active synth rhythm section.\n\nHarmonically, the track utilizes a warm, major-key R&B progression with a bright, joyful, and energetic mood. The production features tight quantization, dry-to-moderate reverb on the snare drum and lead vocals, and clear stereo separation between the central lead singer and surrounding backing harmonies. The high dynamic energy is sustained through to the outro, where lead vocal ad-libs improvise over the driving beat and synth arrangement.\n\nGENRES: New Jack Swing, Contemporary R&B, Dance-Pop, Electro-Pop, Synth-Pop"
+  },
+  "metadata": {
+    "youtube_id": "YtbFPLK-JWI",
+    "title_extracted": null,
+    "corpus_id": "YtbFPLK-JWI",
+    "uploader": "New Edition",
+    "audio_file": "corpus/01_music_videos_audio/audio/YtbFPLK-JWI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7049286,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.554129,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:32:57Z"
+  },
+  "status": "success",
+  "error": null
+}

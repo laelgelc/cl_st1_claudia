@@ -1,0 +1,38 @@
+{
+  "corpus_id": "9FBUgdhxe9M",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/9FBUgdhxe9M.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/9FBUgdhxe9M.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/9FBUgdhxe9M.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a solo drum beat in a steady 4/4 meter at a mid-tempo groove, featuring a tight snare backbeat and crisp hi-hat pattern. Moments later, a clean electric bass enters playing a syncopated bassline alongside rhythmic electric guitar chord chops. A spoken male voice introduces the piece before shifting into a passionate singing vocal performance at the start of the first verse. The male lead vocal exhibits a gritty, soulful timbre with expressive pitch bends, subtle vibrato, dynamic raspy belting, and occasional bluesy shouts.\n\nThroughout the verses and choruses, the arrangement maintains a tight soul-blues groove driven by the persistent bassline and drum backbeat. A strong call-and-response texture develops between the lead vocals and the lead electric guitar, which inserts bluesy bends, fill-in licks, and rhythmic chops into the spaces between vocal phrases. The harmonic language stays firmly rooted in a traditional soul chord progression over a repeating cyclic bass pattern. In terms of production, the mix presents a vintage analog sound quality with gentle room reverb applied to the vocals; the lead vocals and drum kit are centrally panned, while the electric guitar and bass guitar are distributed across the stereo field to establish spacious clarity.\n\nThe song builds dynamically through its mid-section, driven by increasingly intense vocal belting, high sustained tones, and accented drum fills. A guitar solo section showcases melodic blues-driven lead lines with expressive string bends and syncopated strumming. As the track progresses into its final section, the energy remains high with improvised vocal ad-libs, energetic exclamations, and continuous guitar flourishes riding over the persistent rhythm section before bringing the piece to a dynamic conclusion. The overall emotional quality is energetic, soulful, and raw.\n\nGENRES: Soul, Rhythm and Blues, Blues, Funk"
+  },
+  "metadata": {
+    "youtube_id": "9FBUgdhxe9M",
+    "title_extracted": null,
+    "corpus_id": "9FBUgdhxe9M",
+    "uploader": "Al Green",
+    "audio_file": "corpus/01_music_videos_audio/audio/9FBUgdhxe9M.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7201608,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.47214,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:27:45Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "skdE0KAFCEA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/skdE0KAFCEA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/skdE0KAFCEA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/skdE0KAFCEA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens immediately with an aggressive, high-energy intro featuring a heavily distorted electric guitar driving a fast, repeated power-chord progression. Within seconds, the full rhythm section enters, introducing a punchy kick drum, a crisp snare accenting beats two and four, bright crash cymbals, and a steady, driving bass guitar that anchors the low end. The tempo is fast and driving, set in a straight 4/4 meter around 177 BPM with an unyielding, propulsive pulse.\n\nAt 0:22, the full band dynamic slightly adjusts as a group of male gang vocals enthusiastically shouts a rhythmic chant in unison. This chant repeats four times, interspersed with sharp drum accents and short guitar stabs. At 0:31, the track transitions into the first verse as a lead male vocal enters in the center of the stereo field. The vocal tone is melodic, raw, and direct, styled with classic punk-rock attitude and treated with mild room reverb and light spatial processing. Wide stereo-panned electric guitars create a dense, crunchy wall of sound around the vocal, backed by continuous bass guitar and driving drum kit rhythms.\n\nAround 1:00, the track shifts into a chorus section featuring a slightly higher vocal register and subtle backing vocal support, while the chord progression maintains its relentless momentum. The song moves into a second verse and chorus cycle at 1:30, keeping the dynamic volume uniformly loud and high-energy without dynamic relief.\n\nAt 2:00, the arrangement returns to the opening shouted gang-vocal chant section. The group vocals repeat the chant four times over the driving instrumental backing before the song concludes at 2:11 with a single, sudden final power chord strike that decays with a lingering cymbal sizzle.\n\nGENRES: punk rock, pop punk, garage rock"
+  },
+  "metadata": {
+    "youtube_id": "skdE0KAFCEA",
+    "title_extracted": null,
+    "corpus_id": "skdE0KAFCEA",
+    "uploader": "Ramones",
+    "audio_file": "corpus/01_music_videos_audio/audio/skdE0KAFCEA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4303014,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.667814,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:47:47Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "NPcyTyilmYY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/NPcyTyilmYY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/NPcyTyilmYY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/NPcyTyilmYY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is an energetic, pop-rock and alternative rock track in a driving 4/4 meter featuring a female lead vocal, electric guitars, bass guitar, drums, and subtle keyboard or organ textures.\n\nThe track opens with a syncopated, funk-infused bass groove accompanied by tight drum kit rhythms featuring crisp hi-hats and punchy snare hits, alongside muted rhythm guitar stabs. A clear female lead vocal enters with an intimate, dry mix placement, delivering melodic phrases in a conversational, controlled tone. As the introductory verse progresses, warm electric organ chords softly support the harmonic foundation.\n\nAt twenty seconds in, the vocal style dramatically shifts into a raspy, belted delivery, accompanied by the entry of overdriven electric guitars that signal a transition to the chorus. The chorus explodes with strong dynamic power, broadening the stereo field with heavy rhythm guitars panned left and right, a driving bass line, and aggressive drum patterns. The lead vocal dominates the center image, treated with subtle spatial delay and reverb that enhances its raw, expressive texture.\n\nThe structure drops back down to the stripped-back, bass-heavy rhythm groove for a second verse before rebuilding intensity through a pre-chorus into another impactful chorus. Following this, a bridge section introduces expressive, bluesy electric guitar solos featuring pitch bends and classic overdrive, underpinned by sustained keyboard pads and dramatic vocal vocalizations.\n\nThe final section returns to the explosive chorus with heightened emotional flair, featuring passionate vocal belting and continuous high-energy instrumental backing. The performance culminates in a climactic, sustained vocal line before concluding on a sharp, abrupt unison cutoff. The track exhibits a punchy, polished production style, conveying an intense, cathartic, and emotionally charged atmosphere throughout.\n\nGENRES: Alternative Rock, Pop Rock, Post-Grunge"
+  },
+  "metadata": {
+    "youtube_id": "NPcyTyilmYY",
+    "title_extracted": null,
+    "corpus_id": "NPcyTyilmYY",
+    "uploader": "Alanis Morissette",
+    "audio_file": "corpus/01_music_videos_audio/audio/NPcyTyilmYY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8095484,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.659115,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:50:31Z"
+  },
+  "status": "success",
+  "error": null
+}

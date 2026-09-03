@@ -1,0 +1,38 @@
+{
+  "corpus_id": "jjnmICxvoVY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/jjnmICxvoVY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/jjnmICxvoVY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/jjnmICxvoVY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an ambient field recording of train door warning chimes and transit mechanical noise, which rapidly crossfades into a warm, mid-tempo lo-fi R&B groove set in a swung 4/4 meter. A clean electric guitar enters first, picking jazzy, soul-influenced chords with a smooth, chorus-tinged timbre. A rounded electric bassline and an understated drum loop featuring a soft kick, steady rimshot, and gentle hi-hats establish a laid-back rhythm. Soft falsetto vocal humming introduces the melodic themes before a smooth male lead voice enters for the first verse.\n\nThe lead vocal is dry yet spacious, centered in the stereo image with subtle room reverb and gentle delay, giving it an intimate, conversational character. The harmonic structure cycles through mellow, extended major and minor chords, generating a nostalgic and romantic mood. As the track progresses into the chorus, the vocal delivery increases in intensity and melodic pitch range, while the guitar provides subtle counter-melodic fills panned across the stereo field.\n\nIn the second verse and subsequent chorus, the texture thickens slightly with the addition of faint vocal harmonies and subtle double-tracking. A central section shifts focus to an expressive vocal performance, where the singer delivers dynamic melismas, soaring falsetto runs, and soul-inflected ad-libs. The guitar responds with expressive, bluesy ornamentation beneath the vocal line, while the energy stays grounded through a solid, consistent bass and drum pocket.\n\nThe song culminates in an extended outro dominated by passionate vocal improvisations and lingering guitar strums. The production maintains an analog-style warmth with clear separation across the stereo field. The track gently eases out, allowing the final chord of the electric guitar and the trailing vocal reverb to fade naturally into silence.\n\nGENRES: Neo-Soul, Contemporary R&B, Lo-Fi Pop, Soul"
+  },
+  "metadata": {
+    "youtube_id": "jjnmICxvoVY",
+    "title_extracted": null,
+    "corpus_id": "jjnmICxvoVY",
+    "uploader": "Savage Garden",
+    "audio_file": "corpus/01_music_videos_audio/audio/jjnmICxvoVY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7348730,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.342546,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:19:40Z"
+  },
+  "status": "success",
+  "error": null
+}

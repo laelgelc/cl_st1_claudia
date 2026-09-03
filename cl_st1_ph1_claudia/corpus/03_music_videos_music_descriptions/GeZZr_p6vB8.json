@@ -1,0 +1,38 @@
+{
+  "corpus_id": "GeZZr_p6vB8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/GeZZr_p6vB8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/GeZZr_p6vB8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/GeZZr_p6vB8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens in a moderate, steady four-four meter (approximately 106 BPM) with a warm, sampled introduction featuring electric piano chords, subtle brass accents, and pitch-shifted vocal fragments. At 0:13, the primary beat drops, introducing a punchy, dance-oriented hip-hop groove consisting of a prominent kick drum, a crisp snare and snap hybrid on beats two and four, subdivision hi-hats, and a deep, rounded synth bassline. A confident male lead vocal enters, delivering a rhythmic rap performance positioned centrally and upfront in the mix.\n\nAs the verses unfold, staccato brass stabs and minor-key synth chords punctuate the rhythmic transitions. The texture broadens during the chorus sections (first entering at 1:08), where a double-tracked female lead vocal introduces the melodic hook. This establishes an energetic call-and-response dynamic against the male vocal's percussive ad-libs and interjections. The stereo field is well-balanced, featuring panned hi-hats and auxiliary percussive clicks on the sides, while the vocal leads, kick drum, and sub-bass remain grounded in the center.\n\nAt 2:39, a dramatic breakdown occurs as the instrumental arrangement strips back for a sampled crowd chant and spoken-word interjection. The full drum beat and bass groove re-engage at 2:58, driving the track into subsequent verse and chorus cycles. The harmonic foundation consists of a repeating minor-key vamp supported by rhythmic keyboard and brass phrases. The overall production style emphasizes punchy low-end compression, bright high-frequency percussion, and subtle vocal reverbs, maintaining a party-driven, upbeat mood throughout. The track finishes on a final repetition of the chorus hook before resolving on a sharp drum hit.\n\nGENRES: Hip-Hop, Pop Rap, R&B"
+  },
+  "metadata": {
+    "youtube_id": "GeZZr_p6vB8",
+    "title_extracted": null,
+    "corpus_id": "GeZZr_p6vB8",
+    "uploader": "Nelly",
+    "audio_file": "corpus/01_music_videos_audio/audio/GeZZr_p6vB8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7840622,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.958069,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:32:04Z"
+  },
+  "status": "success",
+  "error": null
+}

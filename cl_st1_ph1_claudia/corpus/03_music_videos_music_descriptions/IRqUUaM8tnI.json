@@ -1,0 +1,38 @@
+{
+  "corpus_id": "IRqUUaM8tnI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/IRqUUaM8tnI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/IRqUUaM8tnI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/IRqUUaM8tnI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brisk, upbeat 4/4 rhythm driven by a prominent, plucked acoustic or double bass line, crisp drum kit percussion with light hi-hats and snare snaps, and rhythmic acoustic guitar strumming. The tempo is energetic and bouncy, establishing a driving pop-folk groove. Shortly after the instrumental introduction, a clear lead vocal enters, quickly joined by rich, multi-part ensemble backing harmonies that pan across the stereo field, creating a lush, layered vocal texture.\n\nAs the piece progresses through its verse structure, the arrangement remains light yet active, anchored by the continuous walking bass pattern and steady drum groove. Subtle horn accents periodically punctuate the phrase ends. In the dynamic bridge and chorus sections, the overall texture thickens significantly as a full brass section—featuring bright trumpet and trombone lines—enters with swelling harmonic chords and rhythmic countermelodies. A dedicated instrumental interlude features a nimble woodwind or flute melody playing atop the driving bass and percussion foundation.\n\nThroughout the performance, the harmonic character remains bright and major-keyed, conveying an optimistic, buoyant, and nostalgic mood. The production reflects a classic analog studio aesthetic, featuring clean vocal capture with moderate plate or chamber reverb, warm dynamic compression, and a balanced stereo mix that centers the lead vocal and bass while spreading rhythmic guitars and multi-tracked backing vocals across the soundstage. Dynamic variation is driven primarily by changes in structural density, building toward an extended vamp and gradual fade-out as the vocal ensemble and rhythm section repeat the main refrain to the end.\n\nGENRES: Sunshine Pop, Folk Rock, Pop Rock, Soft Rock"
+  },
+  "metadata": {
+    "youtube_id": "IRqUUaM8tnI",
+    "title_extracted": null,
+    "corpus_id": "IRqUUaM8tnI",
+    "uploader": "Smurfstools Oldies Music Time Machine",
+    "audio_file": "corpus/01_music_videos_audio/audio/IRqUUaM8tnI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5780918,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 31.895937,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:48:02Z"
+  },
+  "status": "success",
+  "error": null
+}

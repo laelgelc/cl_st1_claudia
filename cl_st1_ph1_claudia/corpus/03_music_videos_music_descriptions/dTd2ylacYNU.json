@@ -1,0 +1,38 @@
+{
+  "corpus_id": "dTd2ylacYNU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/dTd2ylacYNU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/dTd2ylacYNU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/dTd2ylacYNU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a distinctive, syncopated electric bassline playing a repeating four-chord ostinato in a major key, accompanied by a scraped percussion sound and gentle acoustic guitar strumming. This establishes a steady, moderate 4/4 mid-tempo groove with an organic, vintage analog acoustic character.\n\nAt 00:17, a soulful male lead vocal enters at the center of the stereo mix. The vocal tone is warm, rich, and deeply expressive, featuring natural vibrato, pitch bends, and a conversational yet resonant delivery treated with a subtle plate or chamber reverb. The arrangement maintains an intimate, homophonic texture through the initial verse, anchored by the continuous bass ostinato and rhythmic percussion.\n\nAs the track moves into the chorus around 00:48, the lead vocal increases in dynamic intensity, delivering powerful flourishes while the underlying instrumental foundation remains steady. A second verse follows at 01:05, sustaining the focus on the vocal performance over the sparse rhythmic accompaniment.\n\nAt 01:52, an instrumental interlude occurs as a lush, legato orchestral string section enters to take over the primary melody. Sweeping violins and warmer lower strings play expressive counterpoint and unison lines over the uninterrupted bass and percussion groove, introducing a broader stereo width and elevated dynamic swell.\n\nThe lead vocal re-enters at 02:24, singing with heightened emotional energy, improvisatory vocal embellishments, and passion over the combined accompaniment of the strings, bass, and percussion. The production style emphasizes warm mid-frequency resonance, clear spatial separation, and balanced dynamics, conveying a reassuring and nostalgic mood through to the final fade.\n\nGENRES: Soul, Classic R&B, Pop, Rhythm and Blues"
+  },
+  "metadata": {
+    "youtube_id": "dTd2ylacYNU",
+    "title_extracted": null,
+    "corpus_id": "dTd2ylacYNU",
+    "uploader": "PRIMITIV RECORD",
+    "audio_file": "corpus/01_music_videos_audio/audio/dTd2ylacYNU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5778690,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.529046,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:20:45Z"
+  },
+  "status": "success",
+  "error": null
+}

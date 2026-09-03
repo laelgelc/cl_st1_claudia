@@ -1,0 +1,38 @@
+{
+  "corpus_id": "pAgnJDJN4VA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/pAgnJDJN4VA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/pAgnJDJN4VA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/pAgnJDJN4VA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief intro featuring crisp hi-hat taps and snare clicks that establish a steady, mid-tempo 4/4 rock groove. A crunchy, heavily overdriven electric guitar enters, introducing a driving blues-rock rhythm riff, quickly joined by a punchy electric bass and a straight-ahead drum kit with a prominent snare on beats two and four. The overall texture is powerful, bright, and urgent, set in a classic blues-rock harmonic framework with an energetic, assertive mood.\n\nA male lead vocal enters, defined by an aggressive, raspy, high-register belted timbre processed with subtle slapback delay and room reverb. The lead vocals occupy the center of the stereo image, flanked by overdriven rhythm guitars panned wide across the stereo field. The dynamic intensity remains consistently high throughout the verses and builds further in the choruses, supported by layered, doubled vocal lines and high-pitched vocal accents.\n\nAn electric guitar solo enters, featuring expressive pitch bends, wide vibrato, rapid pentatonic runs, and a bright, searing distorted tone that sits prominently forward in the stereo mix. Underneath, the bass guitar and drums maintain a relentless, driving rhythmic foundation with steady hi-hat rhythms and punchy kick-snare patterns.\n\nAfter the guitar solo, the lead vocals return with intense, high-register screams and belted phrases that trade off with bluesy electric guitar lead licks. The arrangement continues to build momentum with soaring guitar pitch bends and expressive vocal ad-libs over the full band's driving rhythm section. The piece reaches a dramatic climax, concluding on a final, heavily accented power chord that decays with a ringing crash cymbal and lingering guitar sustain. The production style is punchy, raw, and direct, emphasizing clear separation between the distorted guitars, solid bass anchor, and crisp drum transients.\n\nGENRES: hard rock, rock, blues rock"
+  },
+  "metadata": {
+    "youtube_id": "pAgnJDJN4VA",
+    "title_extracted": null,
+    "corpus_id": "pAgnJDJN4VA",
+    "uploader": "AC/DC",
+    "audio_file": "corpus/01_music_videos_audio/audio/pAgnJDJN4VA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8124462,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.935216,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:10:01Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "mmo3HFa2vjg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/mmo3HFa2vjg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/mmo3HFa2vjg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/mmo3HFa2vjg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with turntable scratching, a brief spoken audio sample, and ambient crowd cheering before settling into a driving, mid-tempo 4/4 hip-hop groove. Built around a punchy drum break with a prominent snare backbeat and syncopated kick drum, the instrumentation features a thick, rounded bassline, rhythmic electric guitar stabs, and sharp brass hits. An energetic male lead vocalist delivers rapid, rhythmically precise rap verses with a confident, assertive tone and dry, close-mic processing.\n\nDuring the recurring refrain sections, the dynamic intensity rises as group-chanted vocals shout in unison, creating an anthemic call-and-response texture alongside continuous background crowd ambience. Throughout the verses and choruses, turntable scratches, vocal ad-libs, and percussive accents are panned across the stereo field, adding depth and movement to the dense, multi-layered texture. Subtle room reverb coats the vocal elements, while the low end remains tight and punchy.\n\nFollowing the initial verse-chorus rotations, an extended instrumental breakdown highlights expressive DJ turntablism, complex vinyl scratching, and vocal sample chops layered over the persistent funk bassline and drum groove. Later in the piece, an energetic saxophone solo emerges, delivering bluesy, syncopated melodies that dialogue with the turntable scratches and brass stabs. The dynamic level remains high and assertive throughout, maintaining a confrontational, empowering, and highly energetic mood.\n\nThe track concludes with an extended crowd-led call-and-response chant over the ongoing rhythmic beat and bass groove, accompanied by rhythmic claps and ambient shouting, before ending abruptly with informal studio chatter.\n\nGENRES: Hip-Hop, Boom Bap, Funk, Conscious Rap"
+  },
+  "metadata": {
+    "youtube_id": "mmo3HFa2vjg",
+    "title_extracted": null,
+    "corpus_id": "mmo3HFa2vjg",
+    "uploader": "Channel ZERO",
+    "audio_file": "corpus/01_music_videos_audio/audio/mmo3HFa2vjg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10190852,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.60093,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:33:27Z"
+  },
+  "status": "success",
+  "error": null
+}

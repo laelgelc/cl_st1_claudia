@@ -1,0 +1,38 @@
+{
+  "corpus_id": "8iwBM_YB1sE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8iwBM_YB1sE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/8iwBM_YB1sE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/8iwBM_YB1sE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a high-energy disco-funk intro in a fast 4/4 meter. A syncopated, buoyant bassline drives the low end alongside a tight drum kit featuring punchy kick drum hits, crisp hi-hat subdivisions, and sharp snare accents on beats two and four. Staccato electric rhythm guitar chugs are panned across the stereo image, complemented by energetic brass and horn section stabs that establish a vibrant, upbeat mood.\n\nAt 0:23, a powerful female lead vocal enters in the center channel, displaying a soulful, full-chested timbre with light reverb. The vocal line features syncopated phrasing over the driving rhythm section, which maintains its active bassline, funk guitar strumming, and subtle synth and horn accents. \n\nThe music surges into a high-octane chorus at 0:59. Here, the lead vocal raises its emotional intensity and dynamic range, supported by multi-tracked backing vocal harmonies that widen the stereo field. Emphatic horn fills punctuate the end of vocal phrases, reinforcing the groove's danceable momentum.\n\nA second verse and chorus sequence from 1:20 to 2:02 sustains this energetic momentum, enriched by vocal ad-libs and call-and-response backing vocals. At 2:02, the song transitions into an instrumental breakdown highlighted by a nimble nylon-string acoustic guitar solo. The solo features rapid syncopated strumming and melodic fills, supported by the ongoing rhythm section.\n\nAt 2:23, the lead vocals return, building into a climactic final chorus at 2:38. The lead singer delivers passionate vocal belts and expressive ad-libs while backing vocals iterate the main hook. The rich, dense texture—comprising layered vocals, punchy brass, clean electric guitar, and driving bass and percussion—maintains its peak energy before slowly fading out to silence at the track's end.\n\nGENRES: Disco, Funk, Pop, Dance-Pop"
+  },
+  "metadata": {
+    "youtube_id": "8iwBM_YB1sE",
+    "title_extracted": null,
+    "corpus_id": "8iwBM_YB1sE",
+    "uploader": "The Pointer Sisters",
+    "audio_file": "corpus/01_music_videos_audio/audio/8iwBM_YB1sE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7291516,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.051564,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:08:51Z"
+  },
+  "status": "success",
+  "error": null
+}

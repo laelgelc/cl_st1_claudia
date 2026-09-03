@@ -1,0 +1,38 @@
+{
+  "corpus_id": "gSWInYFVksg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/gSWInYFVksg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/gSWInYFVksg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/gSWInYFVksg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens immediately with a prominent, distorted electric guitar driving a three-chord garage-rock riff in a steady 4/4 meter at a moderate tempo. A punchy drum kit joins almost instantly, providing a crisp snare backbeat on beats two and four, accompanied by a steady bass guitar that grounds the harmonic foundation. The overall texture is mid-focused and raw, evoking a mid-1960s analogue production style with subtle room reverberation, warmth, and centered panning for the primary rhythm section.\n\nA male lead vocalist enters with a laid-back, gritty, and conversational delivery. The voice is placed prominently in the center of the mix, featuring subtle slapback delay and natural room resonance. The arrangement utilizes stark dynamic contrast between sections. During the main refrain, the full band plays with a loud, driving intensity and saturated, crunchy guitar timbres. In the alternating verses, the dynamics drop significantly; the electric guitar and drums fall back to sparse, accenting hits, allowing the lead vocal to shift down to an intimate, close-miked spoken or whispered tone over soft rhythmic strumming and gentle bass support.\n\nA key structural transition introduces an instrumental solo featuring a breathy, whistling wind instrument resembling an ocarina or simple wooden flute. The solo instrument delivers a straightforward, melodic line characterized by a warm, hollow, and slightly air-filled timbre set against the continuing rock drum groove and rhythm guitar. \n\nFollowing the solo, the music reverts to the quiet, expectant dynamic of the verse before bursting once more into the full-spectrum energy of the main refrain. The vocalist leads the final section with exuberant calls as the distorted guitars, steady bass, and driving percussion build to a decisive, unpolished final chord strike, allowing the natural acoustic decay of the room to linger briefly as the sound fades out.\n\nGENRES: garage rock, classic rock, pop rock"
+  },
+  "metadata": {
+    "youtube_id": "gSWInYFVksg",
+    "title_extracted": null,
+    "corpus_id": "gSWInYFVksg",
+    "uploader": "TheTroggsVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/gSWInYFVksg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4956888,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.35304,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:50:38Z"
+  },
+  "status": "success",
+  "error": null
+}

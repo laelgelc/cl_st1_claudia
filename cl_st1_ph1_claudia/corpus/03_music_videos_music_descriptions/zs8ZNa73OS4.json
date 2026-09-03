@@ -1,0 +1,38 @@
+{
+  "corpus_id": "zs8ZNa73OS4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/zs8ZNa73OS4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/zs8ZNa73OS4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/zs8ZNa73OS4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a swift percussion accent before launching directly into a driving 4/4 classic pop-rock groove at a medium-fast tempo. The primary instrumentation features a punchy drum kit reinforced by handclaps on beats two and four, a syncopated walking bassline, rhythmic electric guitar stabs, and acoustic guitar strumming. \n\nA gritty, soulful male lead vocal enters, delivering the verses with an expressive, raspy timbre. The lead vocal is treated with slapback delay and warm plate reverb, sitting prominently in the center of the stereo field. As the arrangement transitions into the chorus sections, the dynamic intensity lifts, enhanced by doubled lead vocal lines and multi-part harmony backing vocals that expand across the stereo spectrum.\n\nStructurally, the piece alternates between full-band vocal sections and dynamic instrumental breakdowns. An instrumental bridge around the middle of the track thins the texture down to acoustic guitar, handclaps, and light percussion accents, providing a momentary release in energy before the full ensemble re-enters with driving momentum. Subtle organ or electric piano sustain fills the background texture beneath the guitar riffs.\n\nThe overall sound design reflects a warm, vintage analog production style with clear mid-range presence and a defined bass weight anchoring the groove. Guitars are panned across the left and right channels to create width, while the drum kit, bass, and lead vocal remain firmly centered. The relentless backbeat and upbeat bassline maintain an energetic, nostalgic, and blues-influenced pop-rock feel throughout, leading toward a rhythmic instrumental conclusion.\n\nGENRES: Classic Rock, Pop Rock, Blues Rock, Sunshine Pop"
+  },
+  "metadata": {
+    "youtube_id": "zs8ZNa73OS4",
+    "title_extracted": null,
+    "corpus_id": "zs8ZNa73OS4",
+    "uploader": "moondoggy",
+    "audio_file": "corpus/01_music_videos_audio/audio/zs8ZNa73OS4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5059428,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.853999,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:05:17Z"
+  },
+  "status": "success",
+  "error": null
+}

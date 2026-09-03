@@ -1,0 +1,38 @@
+{
+  "corpus_id": "n4QSYx4wVQg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/n4QSYx4wVQg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/n4QSYx4wVQg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/n4QSYx4wVQg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is an energetic, high-tempo surf rock and dance-punk arrangement set in a driving 4/4 meter, periodically interrupted by slow, atmospheric bridge sections. The track opens with a snappy drum fill before instantly establishing a fast-paced groove driven by a bouncy, melodic electric bassline, tight drums with crisp hi-hats and punchy snare hits, and a twangy, spring-reverb-coated electric guitar riff.\n\nQuirky, spoken-sung male lead vocals enter early, delivered with an eccentric, rhythmic cadence. They are frequently paired with playful, harmonized female backing vocal chants that introduce a lighthearted, bright texture to the performance. The main driving sections feature staccato electric guitar chords, lively bass motion, and sharp instrumental re-entry riffs that maintain a buoyant, playful mood.\n\nAt approximately 2:33, the track undergoes a sudden dramatic structural shift: the fast tempo drops into a slow, suspenseful bridge section. The texture thins to reveal pitch-bent, tremolo-laden guitar chords soaked in reverb, accompanied by sparse bass notes and gentle cymbal swells that generate a mysterious, lingering atmosphere. A rapid, rolling drum fill at 2:51 re-ignites the upbeat main groove.\n\nA similar dynamic breakdown reoccurs around 4:32, building suspense before an intense vocal shout and accelerating drum fill at 4:55 propel the piece into a frantic final movement. The concluding section escalates in vocal and instrumental intensity, featuring passionate shouted lead vocals, rapid guitar picking, and relentless drum propulsion before ending on a sharp, abrupt cadence.\n\nIn terms of production, the mix presents a crisp stereo image with guitars panned across the soundstage, centered rhythmic kick and bass, and slapback reverb processing on the vocals that reinforces a garage-surf aesthetic.\n\nGENRES: Surf Rock, New Wave, Garage Rock, Post-Punk, Dance-Rock"
+  },
+  "metadata": {
+    "youtube_id": "n4QSYx4wVQg",
+    "title_extracted": null,
+    "corpus_id": "n4QSYx4wVQg",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/n4QSYx4wVQg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 13661586,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.168113,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:20:22Z"
+  },
+  "status": "success",
+  "error": null
+}

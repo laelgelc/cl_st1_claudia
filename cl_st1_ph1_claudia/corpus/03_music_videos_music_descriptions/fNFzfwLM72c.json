@@ -1,0 +1,38 @@
+{
+  "corpus_id": "fNFzfwLM72c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/fNFzfwLM72c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/fNFzfwLM72c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/fNFzfwLM72c.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is an upbeat, mid-tempo disco-funk piece set in a steady 4/4 meter with a driving pulse. The track opens immediately with an infectious rhythm section comprising a warm, syncopated electric bassline, a four-on-the-floor kick drum paired with crisp hi-hats and punchy snares, and rhythmically panned clean electric guitars playing muted funk-style strumming patterns.\n\nA distinct male lead vocal, sung in a clear and soaring falsetto register, enters over the established groove. The verses maintain a tight, focused arrangement where the melodic bassline drives the motion beneath the vocal phrases. As the piece transitions into its recurring chorus sections, the texture broadens dramatically; multi-track backing vocal harmonies, sweeping disco string arrangements, and sharp, syncopated brass stabs fill the stereo field, heightening the track's energetic, danceable mood.\n\nThe structure alternates between verses and chorus hooks, punctuated by brief breakdown sections where the instrumentation thins out to spotlight rhythmic guitar scratching, bass riffs, and call-and-response vocal phrases. A striking high-register vocal sustained call serves as a dramatic transition into the full-ensemble choruses. Harmonically, the song utilizes minor-key funk progressions that impart a compelling balance of tension and rhythmic release.\n\nIn terms of production, the mix is clean and well-balanced. The kick, bass guitar, and main lead vocals are anchored firmly in the stereo center, while secondary rhythm guitars, string pads, and backing harmonies are panned broadly across the left and right channels to construct a wide sonic landscape. Moderate reverb and slight delay are applied to the vocals and string sections, imparting space and polished vintage luster while preserving the tight, punchy dynamics of the rhythm section throughout.\n\nGENRES: Disco, Funk, Pop"
+  },
+  "metadata": {
+    "youtube_id": "fNFzfwLM72c",
+    "title_extracted": null,
+    "corpus_id": "fNFzfwLM72c",
+    "uploader": "beegees",
+    "audio_file": "corpus/01_music_videos_audio/audio/fNFzfwLM72c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7986256,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.827898,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:31:36Z"
+  },
+  "status": "success",
+  "error": null
+}

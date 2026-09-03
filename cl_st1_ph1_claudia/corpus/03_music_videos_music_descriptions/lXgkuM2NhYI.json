@@ -1,0 +1,38 @@
+{
+  "corpus_id": "lXgkuM2NhYI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/lXgkuM2NhYI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/lXgkuM2NhYI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/lXgkuM2NhYI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with an energetic, mid-tempo rock instrumental intro set in a driving 4/4 meter. The rhythm section features a punchy drum kit playing a steady straight-eighth groove with crisp snare hits on beats two and four, paired with a warm, pulsing electric bass line that anchors the harmonic foundation. Wide, overdriven electric guitars are panned across the stereo field, delivering rhythmic chord strums that establish a bright, major-key tonal character.\n\nAt around eighteen seconds, a male lead vocal enters, positioned prominently in the center of the mix. The vocal timbre is warm and expressive, blending melodic baritone tones with a slightly raspy, passionate delivery as the phrase builds. A tasteful hall reverb and light slap delay are applied to the voice, adding spatial depth without masking its clarity. The instrumentation maintains a tight, steady groove underneath, with the bass and drums providing a consistent dynamic drive while the guitars offer persistent rhythmic support.\n\nAs the song progresses into subsequent sections, the dynamic intensity steadily ascends. The vocalist pushes into a higher pitch register, delivering lines with increasing power, emotional grit, and dramatic vocal inflections. Layered guitar textures and subtle atmospheric keyboard pads enrich the background, expanding the stereo image and increasing the harmonic density. A dramatic shift occurs near the middle section, where rhythmic guitar swells and insistent drum fills heighten the musical tension before resolving back into the main thematic progression.\n\nIn the final section, the performance reaches its dynamic peak. The lead vocal expands into an impassioned, anthemic delivery, complemented by subtle vocal harmonies and energetic drum accents with frequent cymbal crashes. The dense, full-band texture remains vibrant and cohesive until the music steadily fades out to close the piece. The overall mood is triumphant, nostalgic, and emotionally resonant.\n\nGENRES: Glam Rock, Art Rock, Classic Rock, Pop Rock, Indie Rock"
+  },
+  "metadata": {
+    "youtube_id": "lXgkuM2NhYI",
+    "title_extracted": null,
+    "corpus_id": "lXgkuM2NhYI",
+    "uploader": "David Bowie",
+    "audio_file": "corpus/01_music_videos_audio/audio/lXgkuM2NhYI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6678508,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.519456,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:38:00Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "d73tiBBzvFM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/d73tiBBzvFM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/d73tiBBzvFM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/d73tiBBzvFM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an energetic, mid-tempo dance-pop groove set in a 4/4 meter. The rhythmic foundation consists of punchy electronic drums featuring a steady kick drum, snappy snare, crisp sixteenth-note hi-hats, and syncopated shaker and tambourine percussion accents. A syncopated, warm electric bassline and muted rhythm guitar chops with a subtle wah or chorus effect immediately establish a minor-key funk-pop harmonic loop. A distinct synth flute voice briefly introduces melodic flourishes in the high register.\n\nAt approximately 0:11, a clear lead female vocal enters, delivered with rhythmic precision and enhanced by stereo delay and spacious reverb. The verse sections maintain a driving, danceable momentum with a homophonic texture built over the persistent bassline and rhythm guitar. As the song progresses into the chorus at around 0:51, the arrangement expands with layered female vocal harmonies that reinforce the catchy main melodic hook while keeping dynamics consistently punchy and bright.\n\nAn instrumental interlude featuring the synth flute melody and vocal ad-lib fragments occurs at 1:12 before transitioning into a second verse at 1:33. The verse reinstates the solo lead vocal over the established groove. The chorus returns at 1:55 with full vocal harmonies, leading into an expressive vocal ad-lib interlude at 2:15, where pitch-bent vocal fills interact with sustained synth lines and syncopated bass fills. A final chorus repetition at 2:36 leads into an extended outro starting around 3:00, where the vocal layers gradually diminish, leaving the looping bass, rhythm guitar, synth accents, and drum beat to fade out smoothly until the recording concludes at 3:33. \n\nThroughout the piece, the production features a wide stereo image with centered kick and bass, panned rhythm guitars and percussion, creating an upbeat, captivating, and polished 1990s pop soundscape.\n\nGENRES: Pop, Dance-Pop, Funk Pop, Eurodance"
+  },
+  "metadata": {
+    "youtube_id": "d73tiBBzvFM",
+    "title_extracted": null,
+    "corpus_id": "d73tiBBzvFM",
+    "uploader": "Ace of Base",
+    "audio_file": "corpus/01_music_videos_audio/audio/d73tiBBzvFM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6832318,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.649234,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:14:44Z"
+  },
+  "status": "success",
+  "error": null
+}

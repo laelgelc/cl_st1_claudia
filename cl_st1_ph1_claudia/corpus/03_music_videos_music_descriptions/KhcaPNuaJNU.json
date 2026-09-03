@@ -1,0 +1,38 @@
+{
+  "corpus_id": "KhcaPNuaJNU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/KhcaPNuaJNU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/KhcaPNuaJNU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/KhcaPNuaJNU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens in an uptempo 4/4 meter with a vibrant, high-energy dance-pop groove driven by a steady four-on-the-floor kick drum, snappy snare on beats two and four, and continuous hi-hat patterns. A syncopated, driving synth-bassline anchors the low end alongside muted electric rhythm guitar stabs, establishing a dense, danceable texture. At sixteen seconds, a bright, punchy electronic brass motif enters, introducing a key melodic hook spread across a wide stereo image with polished, reverberant production.\n\nAt thirty-one seconds, an expressive female lead vocal enters, featuring a soul-infused, dynamic delivery enhanced by moderate plate reverb and subtle delay tails. The arrangement drops slightly in dynamic density during the verse to prioritize vocal clarity while preserving the insistent bass and drum push. The track transitions seamlessly into an energetic chorus around forty-seven seconds, marked by an increase in volume, layered backing vocal harmonies, and aggressive synth-brass stabs punctuating the lead line. Harmonically, the song relies on minor tonality mixed with uplifting diatonic chords, generating a soulful yet euphoric mood.\n\nThe structure moves through a second verse and chorus section, with the vocal delivery growing more forceful through syncopated ad-libs and vocal bends. An instrumental transition around two minutes and nineteen seconds re-engages the syncopated synth-brass fanfares over the driving rhythm section. A subsequent vocal verse at two minutes and thirty-four seconds builds back into a high-intensity chorus at two minutes and forty-nine seconds, defined by maximum vocal power and full synthesized textures. At three minutes and twenty seconds, a melodic lead synthesizer and guitar solo emerges, soaring over the unrelenting groove through to the end of the clip. Overall, the piece features a bright, punchy timbre, strong rhythmic momentum, and an exhilarating dance atmosphere.\n\nGENRES: Disco, Synth-Pop, Dance-Pop, Hi-NRG"
+  },
+  "metadata": {
+    "youtube_id": "KhcaPNuaJNU",
+    "title_extracted": null,
+    "corpus_id": "KhcaPNuaJNU",
+    "uploader": "Mystic Plug Records II",
+    "audio_file": "corpus/01_music_videos_audio/audio/KhcaPNuaJNU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7418576,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.013695,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:32:18Z"
+  },
+  "status": "success",
+  "error": null
+}

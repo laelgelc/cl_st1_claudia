@@ -1,0 +1,38 @@
+{
+  "corpus_id": "P5m8lj5DCtI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/P5m8lj5DCtI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/P5m8lj5DCtI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/P5m8lj5DCtI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with an upbeat 4/4 dance-pop groove, driven by punchy drum machine percussion featuring a snappy snare on beats two and four, electronic kick, crisp off-beat hi-hats, and handclaps, accompanied by a syncopated synth bassline, rhythm synth chords, and punchy synth brass stabs. Brief vocalisations lead directly into the initial chorus, where a clean, soulful female lead vocal delivers a melodic hook supported by stereo-panned, multi-tracked backing harmonies. \n\nThe arrangement thins slightly for the first verse, allowing the lead vocal to take center stage over a driving bassline, steady drum beat, and subtle synth pad layers. The vocal performance is expressive and rhythmic, treated with a smooth ambient reverb and subtle double-tracking. \n\nThe dynamic level swells as the chorus returns, re-introducing energetic synth brass accents and dense vocal harmonies that play off the lead melody. A second verse maintains the bouncy groove with subtle rhythmic and melodic vocal variations. An extended chorus section builds emotional intensity through call-and-response patterns between the lead vocal and brass synth lines.\n\nAn extended outro vamp features the lead vocalist delivering impassioned high-register ad-libs and melismatic riffs over repeated backing vocal chants. The energy peaks with sustained high notes before the instrumentation fades toward the ending decay.\n\nThe production showcases a polished style characteristic of late-1980s or early-1990s freestyle and dance-pop, featuring a centered low-end rhythm section paired with wide stereo placement for synth stabs and backing harmonies. The minor-leaning harmonic palette creates a romantic yet high-energy, danceable mood.\n\nGENRES: dance-pop, freestyle, synth-pop, r&b"
+  },
+  "metadata": {
+    "youtube_id": "P5m8lj5DCtI",
+    "title_extracted": null,
+    "corpus_id": "P5m8lj5DCtI",
+    "uploader": "LisaLisaCultJamVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/P5m8lj5DCtI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7614738,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.775007,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:38:06Z"
+  },
+  "status": "success",
+  "error": null
+}

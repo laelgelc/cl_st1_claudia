@@ -1,0 +1,38 @@
+{
+  "corpus_id": "_-0sUuGufmw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/_-0sUuGufmw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/_-0sUuGufmw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/_-0sUuGufmw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "This track is an upbeat 1980s-style post-disco and dance-pop arrangement in a steady 4/4 meter at a moderate-fast dance tempo. The rhythm section is built around a prominent four-on-the-floor kick drum, crisp snare hits on the second and fourth beats, constant hi-hat articulation, and a syncopated synth bassline that provides a continuous, driving funk groove. Clean rhythm guitar playing muted funk chugs and syncopated chord chops is panned across the stereo field, paired with bright synth brass stabs and smooth background synth pads.\n\nThe recording opens with an instrumental intro establishing the core groove, drum pattern, and synth brass accents. A soulful female lead vocal enters in the first verse, delivered with clear phrasing, a bright vocal timbre, and a subtle hall reverb. The arrangement expands during the pre-chorus as harmonic shifts build tension, leading into an energetic, high-impact chorus. Here, multi-tracked female backing vocals join in tight call-and-response harmonies, elevating the dynamic intensity. \n\nA post-chorus section highlights soaring synth brass melodies alongside vocal hooks, maintaining the rhythmic momentum. Subsequent verses and choruses feature subtle dynamic build-ups, syncopated bass fills, and rhythmic guitar flourishes. The bridge lowers the dense instrumentation slightly, giving prominence to vocal ad-libs and syncopated accents before re-engaging the full-ensemble chorus groove. The piece concludes with an extended outro section characterized by vocal ad-libs, repeating chorus hooks, and synth brass embellishments over a sustained dance beat that fades out.\n\nThroughout the recording, the production exhibits a polished, wide stereo image, with drums and lead vocals centered, while guitars, synth stabs, and backing harmonies are spread broadly to create a dense yet articulate, danceable texture. The overall mood is vibrant, uplifting, and dance-oriented.\n\nGENRES: Post-Disco, Dance-Pop, Funk, Synth-Pop, Disco"
+  },
+  "metadata": {
+    "youtube_id": "_-0sUuGufmw",
+    "title_extracted": null,
+    "corpus_id": "_-0sUuGufmw",
+    "uploader": "UnidiscMusic",
+    "audio_file": "corpus/01_music_videos_audio/audio/_-0sUuGufmw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7015848,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.171268,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:06:51Z"
+  },
+  "status": "success",
+  "error": null
+}

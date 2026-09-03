@@ -1,0 +1,38 @@
+{
+  "corpus_id": "nW9Cu6GYqxo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nW9Cu6GYqxo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/nW9Cu6GYqxo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/nW9Cu6GYqxo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The performance begins in a slow, laid-back 4/4 time signature around 65–70 BPM, featuring a warm, intimate soul-ballad aesthetic. An opening instrumental passage introduces a gentle drum groove defined by soft rimclicks and steady hi-hats, paired with a clean electric guitar playing jazzy, chorused chord embellishments drenched in soft reverb. A smooth, warm electric bass enters to anchor the harmonic progression alongside a faint, stereo-panned electronic organ pad providing ambient warmth.\n\nAt 0:33, a female lead vocalist enters, delivering an expressive, soulful melody. Her vocal tone is breathy and intimate in her lower register, characterized by dynamic control, subtle vibrato, and a close-miced production style with gentle spatial reverb. The rhythm section remains subdued throughout the verse, supporting the vocal with understated basslines, clean guitar fills, and soft percussion.\n\nAt 1:13, the song swells into its first chorus as the overall dynamic level rises. The vocalist shifts to a higher pitch register, employing passionate belting and subtle vocal runs. The drum kit expands its presence with fuller snare hits, kick drum accents, and shimmering ride cymbal strokes, creating a broader, more expansive texture.\n\nThe dynamics pull back at 2:13 for the second verse, returning to the quiet, introspective mood of the opening section. The singer delivers restrained, tender lines supported by sparse guitar arpeggios and steady bass. This quieter section builds into a second, highly intense chorus at 2:48, where the vocal reaches its emotional peak with soaring sustained notes and lush delay tails.\n\nAt 3:58, the piece transitions into an instrumental outro led by a clean electric guitar solo. The guitar plays bluesy, vocal-like bends and melodic phrasing while short vocal ad-libs fade into the background. The rhythm section maintains the steady ballad groove until a final decrescendo leads to a gentle ritardando and a quiet, lingering chord cadence at 4:40.\n\nGENRES: Soul, R&B, Blues, Jazz Ballad"
+  },
+  "metadata": {
+    "youtube_id": "nW9Cu6GYqxo",
+    "title_extracted": null,
+    "corpus_id": "nW9Cu6GYqxo",
+    "uploader": "TheBonnieRaitt",
+    "audio_file": "corpus/01_music_videos_audio/audio/nW9Cu6GYqxo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9116418,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.216718,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:25:36Z"
+  },
+  "status": "success",
+  "error": null
+}

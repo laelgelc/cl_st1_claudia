@@ -1,0 +1,38 @@
+{
+  "corpus_id": "KtlgYxa6BMU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/KtlgYxa6BMU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/KtlgYxa6BMU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/KtlgYxa6BMU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a serene, atmospheric intro featuring multi-tracked choral vocal harmonies that sing sustained, atmospheric chords across a wide stereo field with rich, lingering reverb. At 0:17, this choral layer fades out as a steel-string acoustic guitar enters, establishing a steady fingerpicked chordal rhythm in a 4/4 meter at a comfortable, unhurried mid-tempo.\n\nAt 0:31, a male lead vocal takes center stage, delivered with an intimate, close-mic’d clarity and a subtle touch of natural reverb. The singer’s tone is warm and conversational, set against a folk-style chord progression. As the verse progresses, the vocal intensity subtly builds, increasing in dynamic presence and emotional resonance.\n\nAt 1:30, the track transitions into a vibrant, full-bodied chorus with the entry of a full rhythm section. Punchy kick drum beats, a crisp snare, rhythmic hi-hats, and a warm, rounded bass guitar elevate the energy. Layered acoustic and subtle electric guitars span the stereo mix, while harmonic backing vocals support the lead line on key phrases, creating a dense, uplifting texture and an energetic dynamic peak.\n\nThe soundscape contracts at 2:28, returning to a more intimate verse setup driven by acoustic guitar and gentle rhythm accompaniment, allowing the reflective lead vocal room to breathe. At 2:56, a melodic acoustic guitar solo emerges, featuring bright, articulate fingerpicking and expressive note bends. The song gradually tapers off, leaving a final acoustic guitar chord to ring out and decay into ambient room noise.\n\nOverall, the production style highlights organic acoustic timbres, clean stereo separation, and dynamic transitions that accentuate a nostalgic, heartfelt mood throughout.\n\nGENRES: Indie Folk, Acoustic Pop, Singer-Songwriter, Folk Rock"
+  },
+  "metadata": {
+    "youtube_id": "KtlgYxa6BMU",
+    "title_extracted": null,
+    "corpus_id": "KtlgYxa6BMU",
+    "uploader": "Lord Huron",
+    "audio_file": "corpus/01_music_videos_audio/audio/KtlgYxa6BMU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6671822,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:23:50Z"
+  },
+  "status": "success",
+  "error": null
+}

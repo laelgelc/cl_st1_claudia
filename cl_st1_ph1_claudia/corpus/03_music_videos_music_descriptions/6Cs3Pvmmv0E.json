@@ -1,0 +1,38 @@
+{
+  "corpus_id": "6Cs3Pvmmv0E",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/6Cs3Pvmmv0E.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/6Cs3Pvmmv0E.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/6Cs3Pvmmv0E.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording consists of three distinct musical segments separated by abrupt transitions. \n\nThe piece begins with a bright, energetic dance-pop segment in a fast 4/4 tempo. Driven by a punchy electronic drum beat, synth bassline, and rhythmic synthesizer stabs, the instrumentation supports a clear, expressive female lead vocal processed with stereo delay and hall reverb. Layered backing harmonies enrich the major-key arrangement, delivering a vibrant, highly polished stereo soundscape.\n\nAt 0:15, the recording cuts suddenly to a dramatic pipe organ performing a slow, classical baroque piece in a minor key. The texture shifts to dense, polyphonic counterpoint, featuring sustained pedal tones beneath intricate upper lines. Recorded with extensive natural acoustics and long reverberation decay, the organ produces a majestic, solemn, and cathedral-like atmosphere with steady, commanding dynamics.\n\nAt 0:55, another sharp transition introduces an upbeat pop track set to a medium-fast 4/4 shuffle groove. The segment opens with a crisp, syncopated acoustic guitar strumming pattern, quickly joined by handclaps, a kick drum, and a melodic electric bassline. A smooth, soulful male lead vocal takes center stage, enhanced by subtle slapback echo and slight double-tracking. Multi-part backing vocals enter during the chorus to provide warm, harmonious responses. The harmony remains predominantly major with blues-influenced progressions. As the song progresses, rich organ chords swell in the background, and a clean-toned electric guitar contributes rhythmic fills and a brief, melodious solo before the track fades out. The production throughout this final section is clean, rhythmic, and well-balanced, evoking a cheerful and nostalgic mood.\n\nGENRES: Pop, Dance-Pop, Baroque, Rockabilly, Pop Rock"
+  },
+  "metadata": {
+    "youtube_id": "6Cs3Pvmmv0E",
+    "title_extracted": null,
+    "corpus_id": "6Cs3Pvmmv0E",
+    "uploader": "George Michael",
+    "audio_file": "corpus/01_music_videos_audio/audio/6Cs3Pvmmv0E.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7141422,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.701383,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:05:46Z"
+  },
+  "status": "success",
+  "error": null
+}

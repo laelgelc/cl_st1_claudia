@@ -1,0 +1,38 @@
+{
+  "corpus_id": "uOnYY9Mw2Fg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uOnYY9Mw2Fg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/uOnYY9Mw2Fg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/uOnYY9Mw2Fg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track begins at a slow tempo in a four-four meter with an intimate, sparse arrangement dominated by a deep, resonant baritone lead vocal positioned prominently in the center of the stereo image. The voice is treated with a warm, natural room reverb and is accompanied by gently strummed acoustic and electric guitars, warm bass, and subtle, subdued percussion.\n\nAs the arrangement transitions into the chorus, the dynamic level swells significantly. Multi-part harmony backing vocals enter, while a full rhythm section—comprising a steady drum kit groove with a pronounced backbeat, deep bass guitar, sustained organ chords, and subtle brass accents—broadens the soundscape across the stereo field. \n\nThe subsequent verse drops in dynamic volume and textural density, returning the focus to the solitary low-register lead vocal and delicate guitar accompaniment, creating a clear structural contrast before the second chorus reintroduces the expansive instrumentation and full backing vocals with heightened intensity.\n\nA dramatic bridge section follows, initially stripping the music back to quiet guitar comping and low-register, speech-like vocals. Tension builds steadily as the lead singer transitions into an impassioned, high-register belting delivery, propelled by crescendoing drum rolls and increasingly prominent gospel-style vocal responses.\n\nThe climax of the piece achieves maximum textural density and dynamic power, driven by energetic drum backbeats, soaring vocal improvisations, punchy brass stabs, and dense choir harmonies. The ensemble maintains this emotional peak over a repeating harmonic progression during the outro, which gradually fades out to close the recording.\n\nGENRES: soul, blue-eyed soul, pop rock, ballad"
+  },
+  "metadata": {
+    "youtube_id": "uOnYY9Mw2Fg",
+    "title_extracted": null,
+    "corpus_id": "uOnYY9Mw2Fg",
+    "uploader": "jarichards99utube",
+    "audio_file": "corpus/01_music_videos_audio/audio/uOnYY9Mw2Fg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7263280,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.703489,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:05:11Z"
+  },
+  "status": "success",
+  "error": null
+}

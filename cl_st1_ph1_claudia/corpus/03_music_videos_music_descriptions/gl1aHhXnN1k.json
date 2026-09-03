@@ -1,0 +1,38 @@
+{
+  "corpus_id": "gl1aHhXnN1k",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/gl1aHhXnN1k.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/gl1aHhXnN1k.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/gl1aHhXnN1k.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief electronic chime that leads into a spoken narrative interlude featuring several distinct voices delivering comedic, gossip-style anecdotes. This opening section is underscored by a gentle, reflective arrangement of fingerpicked acoustic guitar, soft electric piano, subtle ambient pads, and delicate music-box synth chimes, accompanied by occasional incidental sound effects such as a whistle and a reversed audio clip. \n\nA smooth transition marked by a harp flourish and low bass drop resolves at 0:38 into the main mid-tempo (~107 BPM) pop and R&B arrangement. The groove is established by a clean, looping acoustic guitar chord pattern, smooth synth sub-bass, and lush synth pads in a four-four meter. At 0:47, intimate, close-miked female lead vocals enter, characterized by a soulful, conversational delivery with slight reverb and delay. The drum pattern joins shortly after, introducing a contemporary trap-influenced rhythm section comprised of punchy kick drums, crisp electronic snares and claps, and rapid hi-hat subdivisions.\n\nAs the arrangement moves into the refrain sections, the dynamic intensity rises through stacked, multi-tracked vocal harmonies, shimmering synth plucks, and an expanded drum groove, conveying a bright, resilient, and confident mood. The second verse maintains this bouncing rhythm while introducing subtle vocal ad-libs in the background.\n\nAround 2:43, the bridge creates a dynamic breakdown by paring back the drum percussion, placing focus on acoustic guitar picking, ambient synth textures, and emotive lead vocal phrasing. A brief conversational dialogue interlude interrupts the vocal melody at 3:21 over the continuous instrumental bed, building back into the final chorus at 3:53 with full drums, dense vocal stacks, and high-register vocal ad-libs. \n\nAt 4:40, the track transitions into an extended outro vamp. Repeating guitar motifs and ambient synths frame lingering vocal ad-libs as the drums gradually thin out, leading to a spoken closing remark at 5:23 to finish the piece.\n\nGENRES: Contemporary R&B, Pop, Trap Pop"
+  },
+  "metadata": {
+    "youtube_id": "gl1aHhXnN1k",
+    "title_extracted": null,
+    "corpus_id": "gl1aHhXnN1k",
+    "uploader": "Ariana Grande",
+    "audio_file": "corpus/01_music_videos_audio/audio/gl1aHhXnN1k.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10577976,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.08591,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:19:19Z"
+  },
+  "status": "success",
+  "error": null
+}

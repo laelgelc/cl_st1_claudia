@@ -1,0 +1,38 @@
+{
+  "corpus_id": "H9tEvfIsDyo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/H9tEvfIsDyo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/H9tEvfIsDyo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/H9tEvfIsDyo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief electronic stutter effect before launching into an upbeat, syncopated 4/4 funk groove. A crisp, dry drum kit—featuring a punchy kick drum, tight snare, and continuous hi-hat subdivisions—establishes a driving, danceable tempo alongside an energetic vocal shout. A clean, bright electric guitar plays a percussive, upper-register strumming pattern filled with syncopated muted hits and bluesy embellishments.\n\nAs the first verse begins, a rhythmic lead vocal enters in a expressive falsetto register, delivered with playful inflections, tight syncopation, and subtle room reverb. A resonant, slap-style bassline joins the arrangement, providing a bouncy low-end foundation that contrasts with the sharp guitar chords. The texture during the verses is intentionally sparse and groove-oriented, emphasizing rhythmic clarity and spatial separation in the mix.\n\nDuring the chorus, the arrangement expands dynamically as layered, multi-tracked backing vocal harmonies enter across the stereo field. Bright, horn-like synth stabs and accentuating percussion elevate the sonic energy, widening the soundscape. Short instrumental interludes separate the major vocal sections, punctuated by sharp vocal squeaks, falsetto shouts, and crisp guitar fills.\n\nA central breakdown section highlights an intricate bass groove, percussive guitar strums, and expressive vocal ad-libs. Syncopated accents, dynamic volume swells, and brass-style synth hits build tension before resolving into a final, high-energy chorus. In this concluding section, intense, soaring falsetto ad-libs are layered over dense vocal harmonies and a full rhythm section.\n\nThe piece transitions into a stripped-back instrumental outro centered on the iconic electric guitar riff and dry drum beat, maintaining its upbeat groove until a crisp, final rhythmic resolution.\n\nGENRES: Funk, Pop, Synth-Pop, Rhythm and Blues"
+  },
+  "metadata": {
+    "youtube_id": "H9tEvfIsDyo",
+    "title_extracted": null,
+    "corpus_id": "H9tEvfIsDyo",
+    "uploader": "Prince",
+    "audio_file": "corpus/01_music_videos_audio/audio/H9tEvfIsDyo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7524086,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.118038,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:39:19Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "xH7cSSKnkL4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/xH7cSSKnkL4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/xH7cSSKnkL4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/xH7cSSKnkL4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a warm, solo acoustic guitar strumming a rhythmic chord sequence in a moderate 4/4 tempo. At 0:08, a solo male lead vocal enters with an intimate, slightly raspy, and narrative tone, placed centrally in a relatively dry acoustic mix. The harmonic foundation is rooted in classic major-key folk-rock chord progressions.\n\nAt 0:24, the dynamic level steps up as the full rhythm section enters. A steady drum beat with prominent hi-hats and snare backbeats joins a round, warm bass guitar, while additional acoustic and clean electric guitar accents broaden the stereo field. The groove feels relaxed yet driving. At 0:48, the arrangement enters a thematic refrain where the lead vocal increases in intensity, supported by warm vocal harmonies.\n\nThrough the middle section (1:00–2:20), subtle electric guitar flourishes and low organ-like keyboard sustain add depth to the mid-tempo arrangement. The mix remains balanced, with the rhythm section driving the groove beneath layered acoustic strums and expressive lead vocal delivery.\n\nA dramatic dynamic shift occurs around 2:20 as the texture strips back. The drums soften to gentle cymbal taps, leaving an acoustic guitar and bass to support a hushed, contemplative vocal performance. By 2:53, the music decays into a sparse, reflective breakdown featuring almost exclusively the acoustic guitar and a quiet solo vocal enhanced by gentle ambient reverb, creating a nostalgic and subdued atmosphere.\n\nAt 3:33, the track reaches its dynamic peak as the full band suddenly re-ignites. Energetic drum fills, driving bass, and rhythmic guitar strumming return alongside soulful multi-part backing vocals engaging in call-and-response patterns with the lead singer's impassioned ad-libs. This buoyant, highly energetic ensemble performance carries the song to its conclusion as the audio gradually fades out around 4:21.\n\nGENRES: Classic Rock, Folk Rock, Heartland Rock, Singer-Songwriter"
+  },
+  "metadata": {
+    "youtube_id": "xH7cSSKnkL4",
+    "title_extracted": null,
+    "corpus_id": "xH7cSSKnkL4",
+    "uploader": "Bob Seger",
+    "audio_file": "corpus/01_music_videos_audio/audio/xH7cSSKnkL4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8554682,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.245556,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:56:27Z"
+  },
+  "status": "success",
+  "error": null
+}

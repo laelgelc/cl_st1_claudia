@@ -1,0 +1,38 @@
+{
+  "corpus_id": "QxRiwnmYjMg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/QxRiwnmYjMg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/QxRiwnmYjMg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/QxRiwnmYjMg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a spoken intro by a male speaker styled with a narrow, telephone-like bandpass filter, set over subtle low-frequency synth pads. A brief, melismatic female vocal line introduces lush synth chord pads before a punchy drum groove drops around the half-minute mark. The beat establishes a mid-tempo 4/4 swing meter driven by a prominent kick drum, sharp snare, layered handclaps, and crisp, rapidly ticking hi-hats, anchored by a deep synth bassline.\n\nUpon the beat entry, the music transitions into a chorus driven by a soulful female lead vocal accompanied by wide stereo, multi-tracked backing vocal harmonies. The sonic texture is rich yet spacious, combining smooth synth keys, warm chordal pads, and a driving rhythmic bounce. A verse section follows, where the dynamic level subtly recedes to emphasize the upfront lead vocals, which navigate melismatic phrases over the steady drum and bass foundation.\n\nA second chorus reinstates the full, vibrant dynamic texture, leading into a contrasting bridge section where the vocal performance grows more intense and expressive, supported by subtle rhythmic variations and synth modulations. The track moves into a final, highly energetic chorus featuring complex vocal ad-libs soaring above the main harmonic refrain. During the outro, the drum groove and synth chords maintain a steady pulse while the lead vocals deliver lingering ad-libs alongside fading backing harmonies, gradually winding down the arrangement until it stops.\n\nThroughout the piece, the production exhibits a classic 1990s hip-hop soul and R&B aesthetic, characterized by polished vocal reverb, tight stereo panning of backing tracks, centered low-end weight, and an upbeat, soulful, and romantic mood.\n\nGENRES: R&B, Contemporary R&B, Hip-Hop Soul"
+  },
+  "metadata": {
+    "youtube_id": "QxRiwnmYjMg",
+    "title_extracted": null,
+    "corpus_id": "QxRiwnmYjMg",
+    "uploader": "GhostownDJsVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/QxRiwnmYjMg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6711202,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.134274,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:56:49Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "A3QAqZQYLIQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/A3QAqZQYLIQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/A3QAqZQYLIQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/A3QAqZQYLIQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The piece begins with an intimate intro featuring a warm, fingerpicked acoustic guitar playing arpeggiated chords in a slow, lyrical 4/4 meter. A soft, ambient synth or orchestral string pad swells gently underneath, establishing a lush, atmospheric harmonic foundation. \n\nAt 0:21, a solo female lead vocal enters with an expressive, delicate timbre. Positioned centrally in the stereo mix, the vocal is treated with a smooth, medium-tail hall reverb that enhances its intimate clarity. The accompaniment remains understated, driven by the steady acoustic guitar and lingering string sustain.\n\nAs the track transitions into the first chorus at 0:59, the dynamics swell moderately. The vocal register ascends, delivering a legato, emotionally resonant melody while the underlying string pads expand in stereo width, heightening the emotional drama alongside the steady arpeggiated guitar pulse. \n\nA brief instrumental interlude at 1:39 re-establishes the acoustic guitar and gentle string textures before the second verse begins at 1:48. The vocal returns to a lower, breathier dynamic, maintaining warmth and narrative intimacy.\n\nAt 2:26, the second chorus returns with increased dynamic weight and stronger vocal projection. A modulation around 3:20 elevates the song into its dramatic climax. Here, the vocal performance shifts into a powerful, high-register belt with broad dynamic intensity and extended reverb tails. The surrounding string pads reach their fullest harmonic density, creating a grand, cinematic texture.\n\nAround 4:03, the arrangement transitions into the outro. The dramatic accompaniment recedes, leaving the female vocal to deliver soft, sustaining vocalises that decay gently. The fingerpicked acoustic guitar plays a final lingering chord progression alongside a subtle string pad fade, concluding the recording in a quiet, serene register.\n\nGENRES: Pop, Ballad, Acoustic, Cinematic, Vocal, Easy Listening"
+  },
+  "metadata": {
+    "youtube_id": "A3QAqZQYLIQ",
+    "title_extracted": null,
+    "corpus_id": "A3QAqZQYLIQ",
+    "uploader": "TitanicMemorial",
+    "audio_file": "corpus/01_music_videos_audio/audio/A3QAqZQYLIQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8824404,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.946114,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:00:34Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ruAi4VBoBSM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ruAi4VBoBSM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ruAi4VBoBSM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ruAi4VBoBSM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with ambient background speech and church bells tolling over gentle, major-key acoustic guitar strumming, setting a calm, reflective tone. At 0:18, a smooth, soulful male lead vocal enters in a low dynamic range, accompanied by soft acoustic chords and subtle bass support in a slow, unhurried 4/4 meter.\n\nAt 0:38, the track undergoes a dynamic shift as an upbeat funk-infused soul groove drops. The tempo accelerates to a bouncy, medium-fast pace driven by a punchy drum kit featuring crisp snare snaps and syncopated hi-hat pattern, a melodic electric bassline, and warm electric piano and clean rhythm guitar stabs. The lead vocal becomes more energetic and rhythmic, sustained by a rich stereo image and warm reverb processing. \n\nAt 2:02, the groove briefly cuts out, replaced by ambient crowd chatter and applause, before transitioning back into the full band arrangement at 2:19 with added brass accents, bright guitar licks, and driving percussion that enhance the celebratory, vibrant mood. \n\nAt 2:45, the instrumentation strips back once more to dynamic acoustic guitar strumming and intimate lead vocals, significantly lowering the overall density and volume. At 3:07, a prominent vinyl-scratch / tape-stop sound effect creates a sudden transition, launching the music into an explosive final chorus. This crescendo features full drum kit drive, buoyant bass movement, brass stabs, and soaring vocals before concluding into enthusiastic audience applause at 3:35.\n\nGENRES: funk, soul, pop, live acoustic, neo-soul"
+  },
+  "metadata": {
+    "youtube_id": "ruAi4VBoBSM",
+    "title_extracted": null,
+    "corpus_id": "ruAi4VBoBSM",
+    "uploader": "Fatboy Slim",
+    "audio_file": "corpus/01_music_videos_audio/audio/ruAi4VBoBSM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7235788,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.389791,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:35:51Z"
+  },
+  "status": "success",
+  "error": null
+}

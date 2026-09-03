@@ -1,0 +1,38 @@
+{
+  "corpus_id": "LOZuxwVk7TU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/LOZuxwVk7TU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/LOZuxwVk7TU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/LOZuxwVk7TU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a rhythmic sequence of DJ vinyl scratches, a whistle sound effect, and an upbeat funk-pop rhythm section set in a four-four meter at a lively tempo. A bouncy, syncopated synth bassline, muted electric guitar stabs, and punchy electronic drums featuring crisp snares and steady hi-hats establish a buoyant, danceable groove. \n\nFifteen seconds in, a dry, upfront female lead vocal enters, centrally positioned with light reverb. The verse melody unfolds over a minor-key chord structure supported by rhythmic bass pulses and occasional turntable scratch accents. Around forty seconds, the track moves into a pre-chorus where multi-tracked vocal harmonies widen across the stereo field, building emotional intensity. A white-noise sweep and pitch glide at fifty-four seconds transition smoothly into the main chorus.\n\nThe full chorus introduces an expanded texture featuring energetic lead and backing vocals, bright synth accents, and a driving disco-funk drum beat. The overall production is bright and polished, utilizing spatial delay, compression, and stereo panning to highlight melodic hooks. \n\nA second verse and pre-chorus follow, maintaining the dynamic momentum before delivering a second energetic chorus. Following this, an instrumental bridge section incorporates filtered synth textures, rhythmic vocal chops, and prominent DJ scratches. The recording reaches its climax with a final, high-energy chorus that layers dense vocal harmonies over the relentless funk rhythm. \n\nThe piece finishes with an extended vocal outro over the drum and bass groove. The musical instrumentation suddenly cuts out, leaving a brief spoken PA system announcement sample followed by a stereo jet aircraft flyby sound effect that swooshes from one channel to the other, bringing the recording to a complete close.\n\nGENRES: Dance-Pop, Nu-Disco, Electro Funk"
+  },
+  "metadata": {
+    "youtube_id": "LOZuxwVk7TU",
+    "title_extracted": null,
+    "corpus_id": "LOZuxwVk7TU",
+    "uploader": "Britney Spears",
+    "audio_file": "corpus/01_music_videos_audio/audio/LOZuxwVk7TU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6774360,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.521189,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:24:09Z"
+  },
+  "status": "success",
+  "error": null
+}

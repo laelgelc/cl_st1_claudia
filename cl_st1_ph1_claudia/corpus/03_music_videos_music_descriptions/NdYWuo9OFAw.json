@@ -1,0 +1,38 @@
+{
+  "corpus_id": "NdYWuo9OFAw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/NdYWuo9OFAw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/NdYWuo9OFAw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/NdYWuo9OFAw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an intimate acoustic guitar strumming a rhythmic, diatonic chord progression in a standard 4/4 time signature at a moderate, driving tempo. The acoustic guitar exhibits a warm, organic timbre with light reverb and a wide stereo spread. Shortly after, a clear, centered male lead vocal enters, delivering a gentle, expressive melody in a relaxed mid-range register with subtle room reverb. The overall dynamic begins soft and contemplative within a bright major key, establishing a reflective yet uplifting mood.\n\nAs the track transitions into the first chorus, the dynamics lift dramatically with a full band entry. A rock drum kit introduces a steady backbeat on the snare accompanied by a punchy kick drum, while a round bass guitar anchors the low-end frequencies. The rhythm section is reinforced by layered strummed guitars, broadening the stereo soundstage. Simultaneously, the lead vocalist shifts to a higher register, projecting with increased emotional power and a slightly raspy, belted delivery.\n\nThe second verse dials back the heavy dynamic intensity, maintaining a steady, understated rhythmic pulse beneath intimate vocal phrasing before surging back into a second dynamic chorus. This leads directly into an instrumental bridge featuring an overdriven lead electric guitar solo. The solo exhibits rich sustain, expressive pitch bends, and stereo delay and reverb effects, soaring prominently above a dense rhythmic backdrop of driving drums and bass.\n\nFollowing the solo, a low-dynamic section strips away the heavy drums, leaving gentle acoustic guitar strumming and a subtle low-end resonance underneath soft lead vocals. This builds dramatic tension before exploding into a climactic final chorus. Here, the track achieves its maximum dynamic energy with energetic drumming, accenting cymbals, thick guitar textures, and soaring vocal lines. The performance concludes with a brief outro, returning to gentle acoustic guitar strums that ring out and softly fade to silence.\n\nGENRES: Acoustic Rock, Pop Rock, Folk Rock, Alternative Rock"
+  },
+  "metadata": {
+    "youtube_id": "NdYWuo9OFAw",
+    "title_extracted": null,
+    "corpus_id": "NdYWuo9OFAw",
+    "uploader": "Goo Goo Dolls",
+    "audio_file": "corpus/01_music_videos_audio/audio/NdYWuo9OFAw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6899192,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.758022,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:33:30Z"
+  },
+  "status": "success",
+  "error": null
+}

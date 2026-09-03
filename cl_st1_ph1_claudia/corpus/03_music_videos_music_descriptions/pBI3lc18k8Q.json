@@ -1,0 +1,38 @@
+{
+  "corpus_id": "pBI3lc18k8Q",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/pBI3lc18k8Q.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/pBI3lc18k8Q.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/pBI3lc18k8Q.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is an energetic, mid-to-fast tempo contemporary dance-pop track set in a four-four meter. It opens with a distinctive, multi-part vocoder vocal loop featuring dense vocal harmonies, robotic pitch correction, and formant shifting. Electronic sound effects, pitch-glide stutters, and spoken producer stabs introduce a driving, polished four-on-the-floor beat led by a punchy electronic kick, crisp synth snares on the second and fourth beats, and rapid off-beat hi-hats.\n\nA processed male lead vocal enters over a pulsating, octave-jumping synth bassline and rhythmic sidechained synthesizer chords. The lead vocals exhibit pronounced auto-tune processing, melismatic ornamentation, and clear center panning, supported by stereo-panned vocal harmonies and atmospheric synth pads. The overall texture is dense and bright, utilizing heavy dynamic compression, expansive reverb on vocal tails, and subtle stereo delay effects.\n\nDuring the pre-chorus, emotional urgency and dynamic intensity escalate through white-noise risers, accelerating snare fills, and rising vocal pitch contours. This leads directly into an explosive chorus where the central vocoded sample returns as a primary hook, interlocking with high-register male ad-libs and counter-melodies. A rich low-end sub-bass reinforces the groove throughout these main sections.\n\nThe arrangement cycles through a second verse and pre-chorus, incorporating subtle variations such as additional vocal improvisations and synth flourishes. A brief bridge section heightens dramatic tension before releasing into a final chorus at maximum dynamic volume. The track closes with the vocoded hook continuing over the relentless electronic beat, eventually leaving isolated vocal phrases and a short synthesized tag to finish the piece.\n\nGENRES: Pop, Contemporary R&B, Dance-Pop, Electropop"
+  },
+  "metadata": {
+    "youtube_id": "pBI3lc18k8Q",
+    "title_extracted": null,
+    "corpus_id": "pBI3lc18k8Q",
+    "uploader": "Jason Derulo",
+    "audio_file": "corpus/01_music_videos_audio/audio/pBI3lc18k8Q.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7125074,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.837908,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:25:11Z"
+  },
+  "status": "success",
+  "error": null
+}

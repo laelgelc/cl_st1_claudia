@@ -1,0 +1,38 @@
+{
+  "corpus_id": "NN2L84dvoag",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/NN2L84dvoag.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/NN2L84dvoag.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/NN2L84dvoag.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a bright acoustic-electric rhythm guitar strumming an energetic, syncopated five-beat rhythmic pattern in a fast 4/4 meter at approximately 180 BPM. Shortly after, a walking bassline, driving drum kit with crisp snare accents, handclaps, and group backing vocals chanting rhythmic nonsense syllables join the arrangement to establish a lively, buoyant rock 'n' roll groove. A male lead vocal enters shortly thereafter, delivering upbeat, melodic phrases characterized by a vintage, warm timbre enhanced with an audible slapback echo effect.\n\nThe performance follows a traditional major-key, blues-influenced harmonic framework built around standard three-chord progressions. The texture is dense yet agile, anchored by the driving snare backbeat, steady walking bass pulse, and persistent strummed guitar chords. The lead vocal displays a dynamic, raspy-edged delivery, often engaging in call-and-response interactions with the syncopated backing vocal chants that repeat in the background. The overall tonal character features crisp mid-range warmth, punchy guitar articulation, and a clear low-end bass presence.\n\nThe track develops through alternating vocal verses and instrumental interludes. Near the middle of the piece, a lead electric guitar takes center stage for a prominent solo section, showcasing bright, twangy tones, bluesy string bends, double-stops, and rapid scalar runs over the continuous rhythm section. The dynamics remain elevated and consistently energetic throughout, imparting an exuberant, danceable mood. Production-wise, the stereo image is tightly focused near the center, evoking an authentic mid-century analog aesthetic with gentle room reverb and tape delay processing applied to the lead elements. Following a final vocal verse marked by passionate vocal delivery, the instruments unite to bring the song to a brief, decisive closing cadence on the final chord.\n\nGENRES: rockabilly, rock and roll, rhythm and blues, classic rock"
+  },
+  "metadata": {
+    "youtube_id": "NN2L84dvoag",
+    "title_extracted": null,
+    "corpus_id": "NN2L84dvoag",
+    "uploader": "Marvin Pollei",
+    "audio_file": "corpus/01_music_videos_audio/audio/NN2L84dvoag.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4482086,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.205975,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:30:40Z"
+  },
+  "status": "success",
+  "error": null
+}

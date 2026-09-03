@@ -1,0 +1,38 @@
+{
+  "corpus_id": "oecX_1pqxk0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oecX_1pqxk0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/oecX_1pqxk0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/oecX_1pqxk0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a solo steel-string acoustic guitar delivering a rhythmic, syncopated strumming pattern in a bright major key and a steady 4/4 meter. Shortly thereafter, a lead male vocalist enters, carrying a melodic narrative in a folk-singing style with an intimate, conversational delivery. The vocal is positioned centrally in the stereo field, treated with light compression and subtle ambient reverb that preserves a raw, natural room acoustic.\n\nThroughout the verses and recurring chorus sections, the arrangement remains minimalist and entirely acoustic. The strummed acoustic guitar provides a persistent, driving rhythmic pulse alongside simple diatonic chord progressions, giving the track a buoyant yet relaxed groove. The dynamic contrast is subtle, escalating gently during the chorus refrain as the vocalist raises their pitch and projection.\n\nMidway through the performance, a diatonic harmonica enters the soundscape, introducing a bright, reedy, and slightly metallic timbre. It leads an extended instrumental interlude filled with bluesy pitch bends, expressive trills, and fluid melodic runs over the uninterrupted acoustic guitar rhythm. The stereo balance keeps the rhythm guitar grounded while the harmonica and vocals occupy a prominent central position.\n\nFollowing the instrumental section, the lead vocal re-enters to deliver a final verse and chorus, maintaining the track's nostalgic, reflective, and storytelling atmosphere. In the final movement, the harmonica returns for an outro solo, interweaving melodic phrases with the steady acoustic guitar strumming as the track gradually fades out to a soft conclusion.\n\nGENRES: folk, singer-songwriter, acoustic"
+  },
+  "metadata": {
+    "youtube_id": "oecX_1pqxk0",
+    "title_extracted": null,
+    "corpus_id": "oecX_1pqxk0",
+    "uploader": "Bob Dylan",
+    "audio_file": "corpus/01_music_videos_audio/audio/oecX_1pqxk0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10627016,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.183244,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:31:02Z"
+  },
+  "status": "success",
+  "error": null
+}

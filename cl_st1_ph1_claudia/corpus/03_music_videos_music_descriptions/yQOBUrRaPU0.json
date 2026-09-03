@@ -1,0 +1,38 @@
+{
+  "corpus_id": "yQOBUrRaPU0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yQOBUrRaPU0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/yQOBUrRaPU0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/yQOBUrRaPU0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a solo steel-string acoustic guitar performing a rhythmic fingerstyle and strumming pattern in a moderate 4/4 tempo. The acoustic guitar has a warm, resonant timbre with a wide stereo placement. At 0:14, an intimate male lead vocal enters in the center of the stereo mix, delivering a warm, reflective singer-songwriter melody with close-miked detail and subtle room reverberation.\n\nAt 0:53, the texture expands significantly as a full rhythm section enters, introducing a punchy kick drum, crisp snare on beats two and four, steady hi-hat, a rounded electric bass line, and electric guitar rhythm chords. The dynamic level rises, shifting the music from a sparse acoustic intro into a driving indie-rock groove. The lead vocal gains emotional intensity, rising in pitch and dynamic power while remaining clear and centered above the band.\n\nThe arrangement maintains a steady, forward-moving tempo throughout the middle verses and chorus. Electric guitar fills and strummed accents provide texture and harmonic depth across the stereo field. At 3:05, the track reaches its dynamic climax with an expressive, soaring electric guitar solo featuring gentle overdrive and sustain, supported by active drumming with crashing cymbals and a resonant bass foundation.\n\nAt 3:29, the full band abruptly drops out, returning to the sparse acoustic guitar picking pattern heard in the introduction. The lead vocal re-enters soft and breathy, creating an intimate coda that contrasts sharply with the high-energy solo section. The song gently winds down, finishing on a quiet final acoustic guitar chord that fades into silence by 3:58. Overall, the production features clean instrument separation, strong dynamic contrast, and a nostalgic, earnest emotional mood.\n\nGENRES: Indie Rock, Folk Rock, Singer-Songwriter, Alternative Rock"
+  },
+  "metadata": {
+    "youtube_id": "yQOBUrRaPU0",
+    "title_extracted": null,
+    "corpus_id": "yQOBUrRaPU0",
+    "uploader": "Goo Goo Dolls",
+    "audio_file": "corpus/01_music_videos_audio/audio/yQOBUrRaPU0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7718762,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.886365,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:32:05Z"
+  },
+  "status": "success",
+  "error": null
+}

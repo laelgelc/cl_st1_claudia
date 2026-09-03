@@ -1,0 +1,38 @@
+{
+  "corpus_id": "LjhCEhWiKXk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/LjhCEhWiKXk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/LjhCEhWiKXk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/LjhCEhWiKXk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief, band-pass filtered intro snippet of an upbeat pop rhythm that abruptly halts with a tape-stop sound effect. A rubato intro follows, featuring lush vocal choir pads singing a wordless melismatic melody over a gently strummed, reverbed acoustic guitar, establishing a warm and intimate atmosphere.\n\nA mid-tempo four-four groove drops, anchored by a punchy kick drum, crisp snare snaps, syncopated hi-hats, a warm bassline, and rhythmic acoustic guitar strumming. A smooth, clear male lead vocal enters centrally in the stereo mix, treated with subtle reverb and spatial delay to enhance warmth and presence.\n\nThe arrangement expands dramatically into the chorus, raising the dynamic level with wide, layered vocal harmonies, soaring synth strings, and driving percussion. The overall harmony is grounded in a bright major key, instilling an uplifting and romantic mood. The second verse temporarily thins the instrumentation, allowing the lead vocal space while maintaining a steady rhythmic foundation. \n\nThrough a building pre-chorus into subsequent choruses, the production style grows increasingly dense and polished. Double-tracked backing vocals, soaring ad-libs, and warm synth pads saturate the stereo field, supported by tight, compressed drum programming. The performance peaks in an energetic final chorus featuring passionate vocal runs before resolving on a sustained acoustic guitar chord and trailing reverb decay.\n\nGENRES: Pop, Contemporary R&B, Acoustic Pop"
+  },
+  "metadata": {
+    "youtube_id": "LjhCEhWiKXk",
+    "title_extracted": null,
+    "corpus_id": "LjhCEhWiKXk",
+    "uploader": "Bruno Mars",
+    "audio_file": "corpus/01_music_videos_audio/audio/LjhCEhWiKXk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7577586,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.866506,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:26:38Z"
+  },
+  "status": "success",
+  "error": null
+}

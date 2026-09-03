@@ -1,0 +1,38 @@
+{
+  "corpus_id": "0CFuCYNx-1g",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/0CFuCYNx-1g.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/0CFuCYNx-1g.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/0CFuCYNx-1g.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an isolated, dry drum kit playing an energetic, syncopated funk beat in 4/4 meter at a moderately fast tempo. Rhythmic handclaps join on the offbeats, followed shortly by a clean electric guitar playing a syncopated, wah-filtered rhythm motif and a prominent, walking bassline. Bright, punchy horn stabs—comprising brass instruments such as trumpets and saxophones—enter to complete the introduction, establishing a vibrant, soulful tonal center and a driving harmonic movement.\n\nAt thirty seconds, a dynamic male lead vocal enters, characterized by a raspy, powerful timbre processed with subtle slapback delay and room reverb. The groove remains steady and danceable, driven by a tight snare-kick pulse and active bassline, while the brass section interjects sharp, punctuated countermelodies between vocal lines. The stereo image is balanced and spacious, placing drums, bass, and vocals centrally while guitars and brass arrangements are spread across the left and right channels.\n\nThe performance progresses into a chorus where the brass section expands into fuller harmonic layers, escalating the dynamic energy. A second verse maintains the groove while the lead vocal delivers increasingly passionate melodic variations and vocal ad-libs. At two minutes and twenty-four seconds, the track transitions into an instrumental breakdown where the horn section takes prominence, playing syncopated melodic riffs and rhythmic hits alongside vocal interjections over the locked-in rhythm section.\n\nThe final section returns to the core vocal theme with heightened emotional intensity, featuring soaring vocal belts, continuous brass flourishes, dynamic drum fills, and a driving bass cadence. The production maintains a warm, vintage analog quality with rich low-end presence and crisp high-end percussion, sustaining an exuberant, high-energy mood until a crisp, coordinated rhythmic cadence brings the track to a definitive close.\n\nGENRES: Funk, Soul, Rhythm and Blues"
+  },
+  "metadata": {
+    "youtube_id": "0CFuCYNx-1g",
+    "title_extracted": null,
+    "corpus_id": "0CFuCYNx-1g",
+    "uploader": "lozzagermain",
+    "audio_file": "corpus/01_music_videos_audio/audio/0CFuCYNx-1g.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8549480,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.724049,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:34:57Z"
+  },
+  "status": "success",
+  "error": null
+}

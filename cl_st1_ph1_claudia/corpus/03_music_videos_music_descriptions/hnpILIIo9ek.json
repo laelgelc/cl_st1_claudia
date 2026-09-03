@@ -1,0 +1,38 @@
+{
+  "corpus_id": "hnpILIIo9ek",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hnpILIIo9ek.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/hnpILIIo9ek.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/hnpILIIo9ek.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a fast, arpeggiated synthesizer sequence featuring prominent filter modulation and stereophonic movement, quickly joined by an energetic series of drum fills. At eight seconds, the full ensemble enters in a driving, uptempo four-four meter at approximately 138 beats per minute. The primary instrumentation consists of heavily distorted electric rhythm guitars, a punchy drum kit emphasizing a steady snare on beats two and four, and an active, driving bassline.\n\nAt eighteen seconds, a lead male vocal enters the center of the stereo image with subtle reverb and short delay processing. The vocal delivery carries a dramatic, melodramatic quality with a melancholic melodic contour, contrasting against the energetic pace of the rhythm section. During the verse, the texture thins slightly, replacing dense distortion with palm-muted guitar strums and persistent synth arpeggios that sustain tension beneath the vocal line.\n\nThe dynamic level swells at forty-two seconds into a full chorus, signaled by wide-panned, distorted electric guitar power chords and an elevated vocal register. Bright synthesizer pads reinforce the harmonic progression, creating a dense, wall-of-sound texture. Following an instrumental interlude driven by a soaring guitar lead at fifty-nine seconds, a second verse and chorus follow a similar structural trajectory.\n\nAt two minutes, an instrumental bridge features interlocking guitar riffs and swirling synth textures over a relentless drum groove. The arrangement shifts at two minutes and forty-two seconds into a breakdown section where the density recedes, leaving a prominent bassline, crisp hi-hat and snare patterns, and subtle synth accents to support a more restrained vocal performance. At three minutes and eight seconds, the piece climaxes back into its maximum dynamic state with full distorted instrumentation before gradually fading out over lingering synth arpeggios and guitar chords. The overall character blends driving post-punk energy with introspective new wave melodicism.\n\nGENRES: indie rock, post-punk, new wave, alternative rock, synthpop"
+  },
+  "metadata": {
+    "youtube_id": "hnpILIIo9ek",
+    "title_extracted": null,
+    "corpus_id": "hnpILIIo9ek",
+    "uploader": "The Smiths",
+    "audio_file": "corpus/01_music_videos_audio/audio/hnpILIIo9ek.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6912566,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.337133,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:55:37Z"
+  },
+  "status": "success",
+  "error": null
+}

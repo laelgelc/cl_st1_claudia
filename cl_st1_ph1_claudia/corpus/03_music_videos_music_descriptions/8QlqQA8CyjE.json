@@ -1,0 +1,38 @@
+{
+  "corpus_id": "8QlqQA8CyjE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8QlqQA8CyjE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/8QlqQA8CyjE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/8QlqQA8CyjE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with an energetic instrumental introduction set in a bouncy 4/4 shuffle meter at a steady mid-tempo. The rhythm section features strummed acoustic guitar, a walking electric bassline, and a crisp drum kit playing a swing groove on the snare and hi-hat. \n\nA smooth, mid-range male lead vocal enters, delivered with a warm, natural timbre enhanced by subtle room reverb. As the verse progresses, the acoustic guitar maintains a driving rhythmic pulse while the bass provides melodic counter-movement below. The tonality is grounded in a bright major key with classic mid-century pop harmonic movement.\n\nAt the transition into the refrain, the texture thickens significantly. A brass section punches in with short, syncopated horn stabs, accompanied by a group of male backing vocalists providing close-harmony countermelodies and response phrases. The lead vocal continues over this expanded arrangement, raising the dynamic energy while preserving the track’s bouncy, swinging momentum.\n\nThe second verse returns to a slightly leaner arrangement, focusing back on the lead vocal and rhythm section, though brief horn accents and subtle vocal harmonies remain integrated. The song then cycles into an extended final refrain section where the call-and-response interaction between the lead vocals, group backing harmonies, and brass accents reaches its emotional peak. The dynamic level remains consistently vibrant throughout until the music gradually fades out over a repeating chorus figure.\n\nThe mix presents a clear stereo image with the lead vocal, drums, and bass centered, while the acoustic guitars, backing vocal group, and brass section are panned to create spatial width. The overall production aesthetic evokes a vintage 1960s country-pop style, creating a jaunty yet bittersweet mood through its brisk swing groove and soulful melodic lines.\n\nGENRES: country pop, rockabilly, 1960s pop, swing pop"
+  },
+  "metadata": {
+    "youtube_id": "8QlqQA8CyjE",
+    "title_extracted": null,
+    "corpus_id": "8QlqQA8CyjE",
+    "uploader": "CaptainJimKirk",
+    "audio_file": "corpus/01_music_videos_audio/audio/8QlqQA8CyjE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4491746,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.268564,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:02:51Z"
+  },
+  "status": "success",
+  "error": null
+}

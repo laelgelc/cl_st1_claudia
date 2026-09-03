@@ -1,0 +1,38 @@
+{
+  "corpus_id": "UmFFTkjs-O0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/UmFFTkjs-O0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/UmFFTkjs-O0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/UmFFTkjs-O0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The piece begins with a lone, fingerpicked acoustic guitar articulating an arpeggiated melodic motif in a melancholic minor tonality. Set in a 4/4 meter at a steady mid-tempo, the performance expands at 0:13 as a warm, melodic bass guitar and a drum kit enter. The drum groove relies on a clean backbeat driven by crisp hi-hats, a tight snare, and a balanced kick drum. Atmospheric electric guitars quickly join the texture, treated with lush chorus, stereo delay, and generous hall reverb, creating a wide stereo image and an evocative post-punk aesthetic.\n\nAt 2:38, a male lead vocalist enters with a dark, baritone timbre. The vocals are positioned prominently in the center of the stereo field and processed with spatial reverb and subtle delay, giving the voice a haunting, spacious presence. The vocal delivery navigates a broad dynamic range, transitioning from restrained, brooding verse phrases to impassioned, higher-register proclamations in the choruses. During these emotional peaks, the arrangement densifies through strummed acoustic rhythm guitars, heavier overdriven electric guitar chords, and expanded cymbal work.\n\nExtensive instrumental interludes separate the vocal sections, featuring melodic lead guitar solos characterized by sustain, pitch bends, and wet chorused modulation. The bassline remains active and resonant throughout, supporting the harmonic structure while counterbalancing the high-frequency shimmer of the guitars. The mix maintains a full, expansive texture with wide panning of guitar tracks and centered low-end elements. The intensity culminates in a dramatic late-section climax marked by powerful vocal delivery, driving drum fills, and dense guitar layering, after which the song gradually winds down, concluding with a brief guitar-led fade-out into silent reverb tails.\n\nGENRES: gothic rock, post-punk, alternative rock"
+  },
+  "metadata": {
+    "youtube_id": "UmFFTkjs-O0",
+    "title_extracted": null,
+    "corpus_id": "UmFFTkjs-O0",
+    "uploader": "The Cure",
+    "audio_file": "corpus/01_music_videos_audio/audio/UmFFTkjs-O0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 16128474,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.789509,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:43:33Z"
+  },
+  "status": "success",
+  "error": null
+}

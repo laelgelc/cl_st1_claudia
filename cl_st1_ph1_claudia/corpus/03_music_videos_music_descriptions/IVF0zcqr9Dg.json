@@ -1,0 +1,38 @@
+{
+  "corpus_id": "IVF0zcqr9Dg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/IVF0zcqr9Dg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/IVF0zcqr9Dg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/IVF0zcqr9Dg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with approximately forty-five seconds of spoken dialogue and ambient conversational noise, establishing a casual atmosphere before the music commences. At 0:45, a crisp drum fill initiates an energetic, danceable 4/4 funk and soul groove set at a moderate-fast tempo. The instrumentation quickly layers a bouncy, highly articulated slap-bass line, clean syncopated rhythm guitar stabs, a driving drum kit beat with active hi-hats and tambourine, and punchy brass stabs.\n\nAt 1:00, a soulful female lead vocal enters with a bright, dynamic timbre, singing melodic phrases enhanced by subtle room reverb. Rich multi-part female backing vocal harmonies join, establishing a lively call-and-response structure that reinforces the melodic hooks throughout the verses and choruses. The harmony remains anchored in an uplifting major key, carried by cyclic R&B chord progressions. In the stereo mix, the lead vocals, kick drum, and bass reside in the center, while guitar stabs, percussion, and brass accents occupy the wider stereo space.\n\nAs the track progresses through its chorus and bridge sections, the arrangement maintains a consistently high dynamic level. The lead vocalist performs increasingly expressive vocal melismas, improvisations, and high-register belts above the unyielding rhythm section. The production features a clean, polished mix that balances crisp transient drum hits with warm bass frequencies and shimmering vocal harmonies.\n\nDuring the final section, the track transitions into a vamping outro where the central vocal hook repeats in tight harmony while the lead vocal delivers elaborate vocal riffs. The brass section contributes increasingly frequent syncopated stabs, building to an abrupt full-ensemble hit at approximately 4:18, concluding with a brief spoken vocal tag.\n\nGENRES: R&B, New Jack Swing, Soul, Funk, Pop"
+  },
+  "metadata": {
+    "youtube_id": "IVF0zcqr9Dg",
+    "title_extracted": null,
+    "corpus_id": "IVF0zcqr9Dg",
+    "uploader": "Janet Jackson",
+    "audio_file": "corpus/01_music_videos_audio/audio/IVF0zcqr9Dg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8347374,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.687283,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:11:29Z"
+  },
+  "status": "success",
+  "error": null
+}

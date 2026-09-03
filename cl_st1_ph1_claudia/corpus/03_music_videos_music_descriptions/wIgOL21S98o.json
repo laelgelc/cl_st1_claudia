@@ -1,0 +1,38 @@
+{
+  "corpus_id": "wIgOL21S98o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wIgOL21S98o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/wIgOL21S98o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/wIgOL21S98o.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a brief introductory section featuring low vocal hums, finger snaps, crisp hi-hats, and punchy, brass-like synth chord stabs set over a warm, laid-back sub-bassline. At approximately 0:11, a soulful female lead vocal enters, delivering a smooth, intimate melody in a 4/4 meter at a steady mid-tempo of roughly 86 BPM. The rhythm section establishes a syncopated hip-hop/R&B groove driven by a punchy kick drum, crisp snare and clap on the offbeats, and warm electric piano chords that sustain throughout the verses.\n\nAs the arrangement moves toward the chorus around 0:52, the texture expands dynamically. Layered, multi-tracked backing vocals provide rich call-and-response harmonies. Brass accents and subtle guitar flourishes enhance the harmonic structure, while the lead vocals become increasingly expressive, employing melismatic runs and dynamic vocal belts. Reverb and subtle spatial delay are applied to the vocal tails, creating spatial depth within a balanced stereo image where percussion and backing harmonies are panned across the soundstage.\n\nA second verse at 1:35 maintains the established groove before transitioning into another chorus at 2:16. At 2:38, a bridge section introduces heightened emotional and vocal intensity, characterized by wide pitch ranges, impassioned belts, and dense vocal layering while the underlying rhythm holds a steady, hypnotic beat. \n\nThe final section from 3:06 onward functions as an extended outro chorus, combining the central melodic hook with continuous, highly expressive vocal ad-libs. The arrangement maintains its dense, layered texture with prominent horn-like accents and stacked harmonies until the track slowly fades out toward the end, finishing on a warm and emotive note.\n\nGENRES: Neo-Soul, Contemporary R&B, Hip-Hop Soul"
+  },
+  "metadata": {
+    "youtube_id": "wIgOL21S98o",
+    "title_extracted": null,
+    "corpus_id": "wIgOL21S98o",
+    "uploader": "Toni Braxton",
+    "audio_file": "corpus/01_music_videos_audio/audio/wIgOL21S98o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7458700,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.050394,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:58:25Z"
+  },
+  "status": "success",
+  "error": null
+}

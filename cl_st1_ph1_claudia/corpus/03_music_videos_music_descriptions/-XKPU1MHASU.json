@@ -1,0 +1,38 @@
+{
+  "corpus_id": "-XKPU1MHASU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/-XKPU1MHASU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/-XKPU1MHASU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/-XKPU1MHASU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a gentle, fingerpicked acoustic guitar accompanied by warm, ambient keyboard pads and a soft, melodic electric bassline. A brief spoken intro precedes the entry of a smooth, soulful male lead vocalist positioned centrally in the stereo field. The rhythm settles into a slow, laid-back 4/4 ballad tempo, anchored by subtle percussion consisting of brushed snare hits and a light hi-hat pulse.\n\nAs the track moves into the chorus, the arrangement expands with a full rhythm section, lush multi-part vocal harmonies, and delicate electric guitar fills. The lead singer becomes increasingly expressive, employing dynamic swells and subtle melismas against warm, diatonic harmonic progressions. The overall mix retains an intimate, polished timbre with rich, atmospheric organ pads broadening the stereo image.\n\nDuring the second verse, the density thins slightly back to acoustic guitar, bass, and gentle drum kit accents, sustaining a tender, romantic mood. The energy swells into the bridge, where the lead vocal grows passionate and powerful, punctuated by layered backing vocal responses panned widely across the stereo field. Subtle plate reverb and delay enhance the vocal space while preserving warmth and presence.\n\nThe performance builds toward an emotional climax in the outro, where the vocalist performs soaring high-register ad-libs and falsetto flourishes over a repeating chorus hook loop. The instrumental arrangement smoothly decelerates into a lingering final chord cadence, which immediately gives way to enthusiastic audience applause, confirming a live performance setting with realistic acoustic hall ambience.\n\nGENRES: Pop, Soft Rock, Soul, R&B, Ballad"
+  },
+  "metadata": {
+    "youtube_id": "-XKPU1MHASU",
+    "title_extracted": null,
+    "corpus_id": "-XKPU1MHASU",
+    "uploader": "beegees",
+    "audio_file": "corpus/01_music_videos_audio/audio/-XKPU1MHASU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7502538,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 25.487802,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:54:21Z"
+  },
+  "status": "success",
+  "error": null
+}

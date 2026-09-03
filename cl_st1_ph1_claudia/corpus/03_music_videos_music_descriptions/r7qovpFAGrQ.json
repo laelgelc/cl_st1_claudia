@@ -1,0 +1,38 @@
+{
+  "corpus_id": "r7qovpFAGrQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/r7qovpFAGrQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/r7qovpFAGrQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/r7qovpFAGrQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a sparse, intimate acoustic introduction in a minor tonality and steady 4/4 meter at a moderate tempo. A warm, fingerpicked acoustic guitar plays a repeating chord progression, accompanied by a relaxed male vocal humming gently before transitioning into a rustic, country-influenced vocal melody. The texture is acoustic and ambient, featuring natural guitar resonance and light room reverb centered in the stereo image.\n\nAt 0:28, the piece undergoes a sudden, dramatic drop into a modern trap/hip-hop beat. The soundscape immediately expands with a booming 808 sub-bass line, rapid multi-velocity hi-hat rolls, and sharp snare claps on the offbeats. The vocal delivery shifts simultaneously to a rhythmic rap style treated with pronounced pitch correction (auto-tune), stereo double-tracking, and short slapback delay. Panned ad-lib vocal accents pepper the left and right channels, enhancing the spatial width while the acoustic guitar loop remains pitched in the background to maintain harmonic continuity.\n\nAt 1:24, the arrangement blends the two styles as melodic, layered vocals sing over the active trap percussion and sub-bass. The performance continues through subsequent verses, alternating between rapid rhythmic rap phrasing and smooth, melismatic melodic lines. The dynamic level remains high throughout this middle section, driven by the punchy, compressed low-end bass and crisp high-frequency percussion elements. A final dynamic peak occurs around 2:06, where full vocal harmonies and dense drum patterns create a thick, energetic texture.\n\nAt 2:21, all electronic rhythm instruments and bass abruptly cease. The track returns to its opening acoustic texture, leaving the solo acoustic guitar to play the central chord pattern. The guitar gently slows down and dies away into silence, ending the piece on a quiet, organic resolution.\n\nGENRES: Country, Hip-Hop, Trap, Country Rap, Pop"
+  },
+  "metadata": {
+    "youtube_id": "r7qovpFAGrQ",
+    "title_extracted": null,
+    "corpus_id": "r7qovpFAGrQ",
+    "uploader": "Lil Nas X",
+    "audio_file": "corpus/01_music_videos_audio/audio/r7qovpFAGrQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5031936,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.003048,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:55:20Z"
+  },
+  "status": "success",
+  "error": null
+}

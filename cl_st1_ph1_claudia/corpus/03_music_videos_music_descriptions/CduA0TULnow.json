@@ -1,0 +1,38 @@
+{
+  "corpus_id": "CduA0TULnow",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CduA0TULnow.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/CduA0TULnow.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/CduA0TULnow.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an extended cinematic intro set in a retro-futuristic audio landscape. Bandpass-filtered male voice dialogue communicates over radio static, telemetry bleeps, and ambient wind effects. Low synth rumbles and dramatic explosion sound effects build tension before vinyl scratch cuts and a pitch-sweeping synth transition the track into an energetic mid-tempo hip-hop pop beat in 4/4 time at approximately 96 BPM.\n\nThe rhythm section is established by a punchy kick drum, snappy snare, syncopated hi-hats, and a deep, melodic synth bassline. A bright, youthful female lead vocal takes the lead, treated with slapback delay and crisp treble EQ. The arrangement is peppered with funk-influenced guitar stabs, rhythmic DJ scratching, and accented synth brass hits. In the verses, the instrumental drops back slightly in volume and density, creating a leaner texture focused on the vocal delivery.\n\nThe chorus delivers a significant dynamic burst, expanding the stereo image with lush, multi-tracked vocal harmonies, stereo-panned synth pads, and additional percussion layers. The tonal center rests in a minor key, establishing an upbeat yet dramatic emotional tone. \n\nA distinct narrative bridge occurs near the three-minute mark, where the main beat strips down to a relaxed groove beneath telephone-filtered spoken dialogue. This conversational interlude is punctuated by soft electric piano chords and ambient sound effects. A sharp drum fill abruptly brings back the final chorus at peak volume and texture, enriched by soaring vocal ad-libs, intense counter-melodies, and active cross-panned scratch effects. The piece concludes with a definitive rhythmic hit and lingering vocal delay tails.\n\nGENRES: dance-pop, teen pop, hip hop"
+  },
+  "metadata": {
+    "youtube_id": "CduA0TULnow",
+    "title_extracted": null,
+    "corpus_id": "CduA0TULnow",
+    "uploader": "Britney Spears",
+    "audio_file": "corpus/01_music_videos_audio/audio/CduA0TULnow.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8076908,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.001325,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:04:46Z"
+  },
+  "status": "success",
+  "error": null
+}

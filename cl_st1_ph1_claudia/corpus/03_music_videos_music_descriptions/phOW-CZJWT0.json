@@ -1,0 +1,38 @@
+{
+  "corpus_id": "phOW-CZJWT0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/phOW-CZJWT0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/phOW-CZJWT0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/phOW-CZJWT0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with conversational spoken dialogue between two dryly produced male voices set against light vinyl surface noise and quiet record scratches. At 0:11, the atmosphere shifts with the entry of sustained, warm synthesizer chords and a spacious, reverberated vocal phrase, setting an expectant tone in a fast 4/4 meter at roughly 111 BPM.\n\nAn energetic breakbeat groove drops abruptly at 0:24 following an emphatic vocal shout. The rhythmic foundation consists of a punchy kick drum, crisp snare drum, and sizzling hi-hats executing a syncopated, uptempo hip-hop beat. This beat is reinforced by an active, melodic bassline and sharp synth-brass stabs. Simultaneously, a prominent vocal sample is rhythmically scratched and looped to establish the central melodic and vocal hook. The stereo mix is wide and dynamic, placing the vocal hook in the center while percussion and stabs span the panorama.\n\nAt 0:53, the main verse begins as a male vocalist delivers rap verses with a rhythmic and commanding tone, positioned dry and prominently in the center of the mix. Turntable scratches periodically punctuate line endings. The track maintains an alternating structure between these verse sections and the high-octane chorus hooks, which re-engage the full brass-like synth stabs and scratched vocal samples. The harmonic layout is built around a tight, two-bar minor-key vamp that provides a continuous, driving groove throughout.\n\nAfter a spoken breakdown cue around 4:32, the arrangement transitions into a turntable DJ showcase. The underlying breakbeat and bass loop persist while an array of rhythmic vinyl scratches, stutter effects, and pitch manipulations are executed on the hook sample, bringing the performance to an energetic conclusion.\n\nGENRES: Old-School Hip Hop, Electro, Hip House"
+  },
+  "metadata": {
+    "youtube_id": "phOW-CZJWT0",
+    "title_extracted": null,
+    "corpus_id": "phOW-CZJWT0",
+    "uploader": "RobBaseDJEZRockVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/phOW-CZJWT0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9958280,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.411161,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:49:33Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "2vjPBrBU-TM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/2vjPBrBU-TM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/2vjPBrBU-TM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/2vjPBrBU-TM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a static, high-frequency electronic hum and electrical buzz that holds a constant tone. At 0:10, an acoustic guitar enters, strumming rhythmic chord patterns alongside a subtle electronic kick drum beat and soft hi-hat accents set to a steady, mid-tempo 4/4 meter. A solo female vocal enters shortly after, delivering an intimate, emotive melody in her mid-register, treated with subtle spatial reverb and placed centrally in the stereo mix.\n\nAs the arrangement moves toward the pre-chorus around 0:33, a rhythmic vocal breakdown creates a build-up, accompanied by syncopated snare snaps, rising electronic textures, and additional percussive hits. At 0:44, the song explodes into a high-energy chorus. The instrumentation expands dramatically with a heavy, driving electropop drum groove featuring punchy kick drums, crisp snares, and shimmering hi-hats, anchored by a deep sub-bass synth. The lead vocal shifts to a powerful, belted delivery in her high register, layered with vocal harmonies, pitch doubling, and wide stereo reverb and delay effects.\n\nAt 1:27, the arrangement thins out for a verse transition, returning to a prominent strummed acoustic guitar, a syncopated bassline, and a simplified drum pattern. The vocal register drops back to a restrained, reflective tone. The pre-chorus motif returns at 2:01 with building percussive energy, leading into a second chorus at 2:12 that restores the dense, full-spectrum instrumentation and dynamic vocal belt.\n\nAround 2:56, the track enters an extended outro section where the heavy drums soften, leaving the acoustic guitar, low bass, and gentle synth pads to support the repeating vocal refrains. The overall dynamic intensity slowly decrescendoes, allowing the trailing reverb and delay on the vocal and guitar chords to fade into silence at the end.\n\nGENRES: Pop, Electropop, Synth-pop, Acoustic Pop"
+  },
+  "metadata": {
+    "youtube_id": "2vjPBrBU-TM",
+    "title_extracted": null,
+    "corpus_id": "2vjPBrBU-TM",
+    "uploader": "Sia",
+    "audio_file": "corpus/01_music_videos_audio/audio/2vjPBrBU-TM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7403714,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.279683,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:39:03Z"
+  },
+  "status": "success",
+  "error": null
+}

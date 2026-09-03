@@ -1,0 +1,38 @@
+{
+  "corpus_id": "MIRxtHan_2E",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/MIRxtHan_2E.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/MIRxtHan_2E.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/MIRxtHan_2E.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a mid-tempo 4/4 acoustic guitar strumming pattern, accompanied by clean, bright lead guitar fills playing melodic licks across the stereo field. The overall harmony is grounded in a bright major key, establishing a bittersweet yet driving folk-pop mood. \n\nAt 0:17, an intimate male lead vocal enters, positioned clearly in the center of the mix with a warm, natural timbre and subtle room reverb. The acoustic guitar maintains a steady, rhythmic strummed chord progression while the lead guitar continues to weave delicate counter-melodies around the vocal phrases. \n\nAs the arrangement moves into the second verse around 0:45, subtle rhythmic accents on the acoustic guitar sustain the steady, driving groove. The vocals retain an expressive, narrative tone, remaining prominent and well-defined above the acoustic instrumentation. At 1:13, the performance transitions into a chorus section; the overall dynamics lift as the vocal line climbs in pitch and intensity, supported by fuller acoustic guitar strumming.\n\nAn instrumental interlude arrives at 1:35, featuring a melodic guitar solo that recalls the introductory theme over acoustic rhythm guitar. The vocal re-enters for another verse section at 1:53, preserving the driving yet reflective atmosphere before returning to the chorus at 2:20.\n\nAt 2:42, the recording transitions into an energetic outro section. Here, wordless melodic backing vocal harmonies enter, creating a rich, multi-layered vocal texture behind the lead voice. The dynamic intensity of the performance reaches its peak during this section before gradually easing, concluding on a final acoustic guitar chord decay around 3:12. Throughout the track, the stereo mix remains balanced, featuring centered vocals and rhythm guitars flanked by ambient spatial reverb.\n\nGENRES: Folk Pop, Indie Folk, Singer-Songwriter, Acoustic Rock"
+  },
+  "metadata": {
+    "youtube_id": "MIRxtHan_2E",
+    "title_extracted": null,
+    "corpus_id": "MIRxtHan_2E",
+    "uploader": "BT Music Videos",
+    "audio_file": "corpus/01_music_videos_audio/audio/MIRxtHan_2E.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6202964,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.51894,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:06:17Z"
+  },
+  "status": "success",
+  "error": null
+}

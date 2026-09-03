@@ -1,0 +1,38 @@
+{
+  "corpus_id": "0NKUpo_xKyQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/0NKUpo_xKyQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/0NKUpo_xKyQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/0NKUpo_xKyQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens in 4/4 meter at a steady, mid-tempo pace with a light, rhythmic synth pluck pattern panning gently across the stereo field, accompanied by soft ambient pad swells. A clean, emotive female lead vocal enters in the upper-mid register, treated with spatial reverb and subtle delay that enhances its intimate, floating quality. The verses maintain a relatively sparse texture, driven primarily by the delicate plucked synth motif, subtle sub-bass, and low-key electronic percussion.\n\nAt the transition into the chorus, the arrangement expands dynamically as a full synth-pop beat—featuring a prominent four-on-the-floor kick drum, crisp snare, and rhythmic hi-hats—enters alongside a warm, resonant bass synth line. The lead vocal becomes more assertive and expressive, supported by wide synth pads that fill out the stereo panorama and subtle vocal doubling. The tonal center feels predominantly minor, lending a bittersweet, melancholy yet uplifting emotional contour to the composition.\n\nThe second verse temporarily lowers the dynamic level by paring back the percussion, refocusing attention on the softer vocal delivery and the persistent plucked melodic figure. The song builds back into a second chorus, gradually layering atmospheric textures and rhythmic fills. This transitions into a brief bridge section where vocal chops and rhythmic vocalizations take prominence over driving electronic arpeggios and building drum rolls.\n\nThe final chorus reaches the dynamic climax of the track, featuring a dense, polished electro-pop production with full drums, wide stereo synths, prominent vocal harmonies, and soaring counter-melodies. Following this energetic peak, the full beat abruptly drops out for the outro, returning to the isolated synth plucks heard in the introduction, which slowly decay with long reverb tails to complete the piece.\n\nGENRES: synth-pop, dance-pop, indie pop"
+  },
+  "metadata": {
+    "youtube_id": "0NKUpo_xKyQ",
+    "title_extracted": null,
+    "corpus_id": "0NKUpo_xKyQ",
+    "uploader": "Ellie Goulding",
+    "audio_file": "corpus/01_music_videos_audio/audio/0NKUpo_xKyQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6839748,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.407212,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:23:41Z"
+  },
+  "status": "success",
+  "error": null
+}

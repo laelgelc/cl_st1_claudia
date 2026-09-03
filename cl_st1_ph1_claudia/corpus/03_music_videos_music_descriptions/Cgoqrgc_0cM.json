@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Cgoqrgc_0cM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Cgoqrgc_0cM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Cgoqrgc_0cM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Cgoqrgc_0cM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is a mid-tempo, 4/4 hip-hop track driven by a relaxed, funk-infused groove at approximately 90 BPM. The primary instrumentation centers on a rhythmic acoustic guitar playing syncopated funk chord riffs, accompanied by a bouncy electric bassline. The percussion consists of crisp hi-hats playing sixteenth-note patterns, a punchy kick drum, and a snappy snare on beats two and four.\n\nThe track opens with an introductory section featuring the acoustic guitar riff, drum loop, and bassline, accompanied by spoken ad-libs. The overarching structure alternates between verses and choruses. Four distinct male vocalists deliver verses across the track, exhibiting varying vocal timbres and rhythmic flows—ranging from smooth, conversational cadences to rapid, technical flows. Lead rap vocals are dry, crisp, and centered in the stereo mix, while backing ad-libs and vocal accents are processed with subtle reverb and panned across the soundstage.\n\nIn the chorus sections, multi-layered group vocals chant the hook in a call-and-response format, creating a denser sonic texture and boosting the overall energy. Salient production events include a retro video game sound effect around 0:41 that briefly interrupts the flow. The harmonic material remains relatively static and grounded in a minor key throughout, driven continuously by the repeating guitar and bass motif.\n\nThe production style features a clean stereo image with well-defined frequency separation, keeping the low-end full while preserving clarity in the vocal mid-range and percussive highs. The dynamic profile remains steady throughout the performance, sustaining a confident, swaggering, and upbeat mood. The track concludes with a final chorus repetition before transitioning into a brief outro where the instruments fade out, leaving the acoustic guitar riff to complete the track.\n\nGENRES: Hip-Hop, Funk Rap, Southern Hip-Hop, West Coast Hip-Hop"
+  },
+  "metadata": {
+    "youtube_id": "Cgoqrgc_0cM",
+    "title_extracted": null,
+    "corpus_id": "Cgoqrgc_0cM",
+    "uploader": "JAŸ-Z",
+    "audio_file": "corpus/01_music_videos_audio/audio/Cgoqrgc_0cM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9823048,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.287588,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:49:38Z"
+  },
+  "status": "success",
+  "error": null
+}

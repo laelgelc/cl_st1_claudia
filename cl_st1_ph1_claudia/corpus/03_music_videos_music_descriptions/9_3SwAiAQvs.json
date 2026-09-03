@@ -1,0 +1,38 @@
+{
+  "corpus_id": "9_3SwAiAQvs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/9_3SwAiAQvs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/9_3SwAiAQvs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/9_3SwAiAQvs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief spoken introduction by a male host over ambient venue sound and light audience applause. At 0:04, a live big-band ensemble immediately enters with a high-energy, fast-tempo instrumental motif in 4/4 meter, featuring bright, syncopated horn section stabs, driving drum rhythms, and a buoyant bassline.\n\nAt 0:13, a female lead vocalist enters, delivering a powerful, soulful melody with dynamic belting and expressive pitch inflections. She is supported by female backing vocalists providing tight harmony and rhythmic call-and-response phrases. The arrangement combines Motown soul rhythmic driving force with swing-era big-band instrumentation, highlighting punchy trumpet accents, warm saxophone counter-lines, and a continuous rhythm section groove with prominent snare backbeats and cymbal sizzle.\n\nThe texture remains rich and dense throughout the vocal section, while maintaining a clear balance between the vocal lines and the brass-heavy ensemble. The harmony is built on bright, major-key progressions that convey an upbeat, celebratory, and joyful atmosphere. Dynamics stay consistently strong and exuberant, sustained by the energetic tempo and driving rhythm.\n\nAround 1:33, the arrangement transitions into a vocal climax, featuring energetic vocal improvisations and repetitive rhythmic patterns backed by sharp, punctuated horn hits. The dynamic intensity rises as the singer and band build momentum toward the conclusion.\n\nAt 1:50, the ensemble executes a dramatic final cadence characterized by a sustained high vocal note, crescendoing brass stabs, and a definitive accent hit accompanied by a drum fill and cymbal crash. The music stops abruptly, giving way to loud, enthusiastic audience applause and cheering. The audio features natural live-venue acoustics with subtle room reverberation.\n\nGENRES: Soul, Big Band, Swing, Rhythm and Blues, Live Performance"
+  },
+  "metadata": {
+    "youtube_id": "9_3SwAiAQvs",
+    "title_extracted": null,
+    "corpus_id": "9_3SwAiAQvs",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/9_3SwAiAQvs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3862392,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 69.421711,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:13:19Z"
+  },
+  "status": "success",
+  "error": null
+}

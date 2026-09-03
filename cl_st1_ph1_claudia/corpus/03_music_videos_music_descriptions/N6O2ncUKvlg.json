@@ -1,0 +1,38 @@
+{
+  "corpus_id": "N6O2ncUKvlg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/N6O2ncUKvlg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/N6O2ncUKvlg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/N6O2ncUKvlg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a gentle solo acoustic guitar intro, playing a warm, fingerpicked chord progression in a major key at a steady mid-tempo 4/4 meter (around 92 BPM). The clean, resonant timbre of the acoustic guitar creates an intimate opening atmosphere. At 0:13, a full R&B/hip-hop rhythm section enters, featuring a punchy kick drum, a crisp snare and clap on the offbeats, subdividing hi-hat patterns, and a low, resonant bassline that fills out the bottom end of the frequency spectrum.\n\nA male lead vocal introduces the main melody, delivering smooth, expressive phrases with a mix of rhythmic cadence and melodic singing. The voice is prominently placed in the center of the stereo mix, treated with subtle reverb and short delay effects for clarity and spatial depth. As the arrangement transitions into the chorus sections, the overall texture expands with multi-layered backing harmonies, vocal doubles, and dynamic ad-libs scattered across the stereo field. The acoustic guitar remains a constant harmonic foundation throughout, continuously picking and strumming underneath the electronic beat.\n\nThe verses maintain a slightly stripped-back dynamic, allowing the lead vocal to drive the momentum with subtle rhythmic variations. Around 2:28, the track enters a dynamic breakdown bridge featuring stacked, call-and-response vocal harmonies that elevate the emotional intensity of the song. Following a final chorus, the drum beat and bass line drop out at 3:33, leaving only the solo acoustic guitar to play out the closing measures, bringing the piece to a tranquil, cyclic conclusion mirroring its opening. The overall production masterfully blends polished electronic percussion with organic acoustic elements to create a soulful and reflective mood.\n\nGENRES: Contemporary R&B, Pop, Acoustic Pop, Hip Hop"
+  },
+  "metadata": {
+    "youtube_id": "N6O2ncUKvlg",
+    "title_extracted": null,
+    "corpus_id": "N6O2ncUKvlg",
+    "uploader": "Nelly",
+    "audio_file": "corpus/01_music_videos_audio/audio/N6O2ncUKvlg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7709846,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.122344,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:16:57Z"
+  },
+  "status": "success",
+  "error": null
+}

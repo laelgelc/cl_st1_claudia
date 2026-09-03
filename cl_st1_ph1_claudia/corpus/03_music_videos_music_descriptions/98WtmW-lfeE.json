@@ -1,0 +1,38 @@
+{
+  "corpus_id": "98WtmW-lfeE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/98WtmW-lfeE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/98WtmW-lfeE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/98WtmW-lfeE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The piece is an upbeat, bright pop track set in a steady 4/4 meter at a mid-tempo dance pace. It opens with a delicate acoustic guitar strumming and picking pattern accompanied by a soft, intimate female solo vocal positioned cleanly in the center of the mix. A crisp four-on-the-floor kick drum and subtle electronic hi-hat enter early to establish a driving pop groove.\n\nAs the music moves into the pre-chorus, warm synthesizer pads, a pulsing bassline, and percussive build-ups join the arrangement, gradually lifting the dynamic energy. The texture expands dramatically into a full-sounding, wide-panned chorus characterized by punchy kick drums, snappy snare/claps, bright acoustic guitar chords, and lush, double-tracked vocal harmonies. The lead vocal performance features polished pop production, including light room reverb, subtle slap delay, and clean high-end treble EQ that enhances its bright, emotive timbre.\n\nIn the second verse, the arrangement briefly strips back to a tighter combination of acoustic guitar, steady percussion, and synth bass, providing a dynamic contrast before rising again through a percussive pre-chorus. A post-chorus section features syncopated vocal hooks, rhythmic synth accents, and playful vocal chops that heighten the optimistic, romantic mood. Stacked harmonies and lively vocal ad-libs lift the final chorus to the track's dynamic peak, underpinned by sidechained synth pads and driving electronic drums.\n\nThe track ends on a gentle outro, where the full drum groove dissipates, leaving a sustained synth pad and acoustic guitar tone to ring out into silence. The overall production maintains a modern, wide stereo image with tight, centered kick and bass frequencies balancing the expansive synth and vocal textures.\n\nGENRES: Pop, Dance-Pop, Synth-Pop"
+  },
+  "metadata": {
+    "youtube_id": "98WtmW-lfeE",
+    "title_extracted": null,
+    "corpus_id": "98WtmW-lfeE",
+    "uploader": "Katy Perry",
+    "audio_file": "corpus/01_music_videos_audio/audio/98WtmW-lfeE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7340556,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.319898,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:29:29Z"
+  },
+  "status": "success",
+  "error": null
+}

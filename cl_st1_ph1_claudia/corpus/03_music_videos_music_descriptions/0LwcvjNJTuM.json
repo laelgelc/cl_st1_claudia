@@ -1,0 +1,38 @@
+{
+  "corpus_id": "0LwcvjNJTuM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/0LwcvjNJTuM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/0LwcvjNJTuM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/0LwcvjNJTuM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a warm, reflective ballad section in a moderate 4/4 tempo. An acoustic-electric guitar fingerpicks a gentle chord progression alongside a lush, sustained organ pad and subtle bass, creating a spacious, nostalgic texture. Soon, expressive slide guitar phrases enter, treated with warm tube saturation, long sustain, and gentle reverb, weaving melodic counter-lines across the stereo field. A steady, relaxed drum groove enters with crisp hi-hats and a soft snare, grounding the rhythmic feel.\n\nAround the one-minute mark, a lead male vocal enters with a raspy, soulful timbre, delivered with close-mic proximity and subtle room reverb. The arrangement maintains a medium-soft dynamic level through the verse sections, expanding slightly during chorus passages where backing vocal harmonies, brighter drum cymbals, and fuller organ swells heighten the emotional intensity. The harmonic movement relies on a melancholic, descending chord progression that reinforces a bittersweet, reflective mood.\n\nA dramatic structural transition occurs near the five-minute mark, marked by emphatic rhythmic accents, a rising snare roll, and a sudden, steep tempo acceleration. The piece transforms into a high-energy, fast-paced rock section driven by a propulsive drum beat, rapid bassline, and rhythmic piano accents. Dual distorted electric guitars take center stage, panned broadly across the stereo field to create a dense, immersive texture. The guitars engage in extended, high-velocity soloing featuring soaring pitch bends, rapid scale runs, and harmonized riffing. Bright overdrive, tube distortion, and subtle delay enhance the cutting timbre of the guitar leads. The dynamic intensity remains elevated throughout this final movement, building continuous momentum through repeating lead motifs and heavy cymbal crashes until reaching a decisive final chord hold.\n\nGENRES: Southern Rock, Classic Rock, Blues Rock, Hard Rock"
+  },
+  "metadata": {
+    "youtube_id": "0LwcvjNJTuM",
+    "title_extracted": null,
+    "corpus_id": "0LwcvjNJTuM",
+    "uploader": "Lynyrd Skynyrd",
+    "audio_file": "corpus/01_music_videos_audio/audio/0LwcvjNJTuM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 17612322,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.480406,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:08:57Z"
+  },
+  "status": "success",
+  "error": null
+}

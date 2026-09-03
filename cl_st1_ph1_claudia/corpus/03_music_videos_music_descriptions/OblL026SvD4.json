@@ -1,0 +1,38 @@
+{
+  "corpus_id": "OblL026SvD4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/OblL026SvD4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/OblL026SvD4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/OblL026SvD4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an ambient environmental soundscape featuring urban traffic noise and the sweeping sound of a car driving past. At approximately 0:12, a rapid snare and tom drum fill abruptly transitions the track into a fast-tempo pop-rock arrangement in 4/4 meter. \n\nThe verse establishes a driving, danceable groove built upon a prominent, melodic bassline, crisp acoustic rhythm guitars, and a tight drum kit playing a steady backbeat with closed hi-hats. A bright, clear female lead vocal enters in a close, forward mix position, enhanced with subtle short-delay and plate reverb effects. As the song progresses into the chorus, the dynamic level rises substantially; the guitar texture thickens with overdriven, stereo-panned electric rhythm guitars, while full-throated backing vocal harmonies join the lead singer in a high-register hook. The drums shift to open hi-hats and frequent cymbal crashes, accentuating the energetic feel.\n\nA second verse temporarily scales back the instrumental density, spotlighting the syncopated bass and punchy kick drum before re-building through a brief pre-chorus. Following a second chorus, a featured electric guitar solo begins at 02:20, exhibiting a saturated, warm overdrive with expressive pitch bends and sustained notes. This transitions into a brief bridge section where the arrangement thins into a rhythmic strumming pattern and softer vocal delivery, creating dynamic contrast before a drum roll triggers the final chorus. \n\nThe final section reaches the track’s peak intensity, featuring dense vocal stacking, active bass fills, and energetic guitar strumming. The track resolves on a sustained final vocal phrase and chord, fading rapidly to silence. The production is polished and modern, characterized by punchy low frequencies, clear high-end detail, wide stereo separation of double-tracked guitars, and a joyful, uplifting emotional quality throughout.\n\nGENRES: Pop Rock, Indie Rock, Power Pop, Alternative Pop"
+  },
+  "metadata": {
+    "youtube_id": "OblL026SvD4",
+    "title_extracted": null,
+    "corpus_id": "OblL026SvD4",
+    "uploader": "Paramore",
+    "audio_file": "corpus/01_music_videos_audio/audio/OblL026SvD4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7046312,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.75181,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:54:23Z"
+  },
+  "status": "success",
+  "error": null
+}

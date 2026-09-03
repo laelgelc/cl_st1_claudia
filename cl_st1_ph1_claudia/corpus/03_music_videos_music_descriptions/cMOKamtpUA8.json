@@ -1,0 +1,38 @@
+{
+  "corpus_id": "cMOKamtpUA8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/cMOKamtpUA8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/cMOKamtpUA8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/cMOKamtpUA8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a rhythmic, bright electric guitar motif playing overdriven chords in a steady 4/4 meter at a mid-fast tempo. Shortly after, a driving drum kit featuring a crisp snare, steady kick, and continuous hi-hat, alongside a rhythmic walking bassline, joins to establish an upbeat, bouncy pop-rock groove. At 0:13, a second electric guitar enters with a melodic, ringing lead hook that pans across the stereo field with subtle reverb and delay.\n\nA clear, melodic female lead vocal enters at 0:26, positioned centrally in the mix with light spatial reverberation. The dynamic level remains controlled through the verse as the rhythm section maintains a driving pulse beneath clean-toned rhythm guitars. The song transitions smoothly into the chorus around 0:50, marked by an increase in dynamic intensity and the addition of punchy, rhythmic backing vocal chants that accent the downbeats in a call-and-response pattern.\n\nThe second verse revisits the initial verse texture before moving into a second chorus, which leads into an expressive electric guitar solo at 1:46. The solo features pitch bends, sustained vibrato, and a warmer, distorted tone set against steady bass and energetic drum patterns. A subsequent verse section reduces dynamic intensity slightly, allowing the lead vocal to convey a more intimate tone before building back up in energy.\n\nAt 2:45, the full chorus returns at peak dynamic level, combining soaring lead vocals, persistent backing chants, and full guitar strumming. The song moves into an extended outro where lead guitar fills and vocal refrains interweave over the continuous rhythm section. Throughout, the mix maintains clear instrument separation, warm low-end bass clarity, and a vibrant stereo presentation, evoking an energetic, nostalgic, and resilient mood.\n\nGENRES: Pop Rock, New Wave, Jangle Pop, Alternative Rock"
+  },
+  "metadata": {
+    "youtube_id": "cMOKamtpUA8",
+    "title_extracted": null,
+    "corpus_id": "cMOKamtpUA8",
+    "uploader": "Pretenders",
+    "audio_file": "corpus/01_music_videos_audio/audio/cMOKamtpUA8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7218698,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.389518,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:40:43Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "SqdWTeXWvOg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/SqdWTeXWvOg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/SqdWTeXWvOg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/SqdWTeXWvOg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens in an ambient, dreamlike setting featuring soft electric piano chord swells accompanied by subtle acoustic guitar plucks and a gentle, low-end synth bass. A solo female vocal enters immediately, delivering an intimate, breathy performance processed with a close stereo position, light reverb, and subtle delay. The tempo is established in a steady 4/4 meter at a moderate dance-pop pace.\n\nAt 0:38, the arrangement transitions smoothly as a vibrant synth-pop beat drops. A four-on-the-floor kick drum, crisp snare, syncopated hi-hats, and a prominent slap-style bassline take over, significantly raising the energy. Bright synth pads and clean, funk-inspired guitar strums fill the stereo field, establishing a warm, danceable groove under the centered lead vocals.\n\nAround 1:25, the song enters a dynamic chorus section marked by the entrance of multi-layered female vocal harmonies, creating a wider, richer texture. The driving bassline and steady percussion maintain a celebratory, optimistic, and romantic atmosphere. Panned synth embellishments and subtle percussion accents enhance the spatial detail. \n\nFollowing a brief breakdown verse at 2:00 that retains the rhythmic drive, the intense chorus hook returns at 2:20 with full instrumentation. From 2:39 into the outro, a rhythmic vocal refrain repeats over the persistent beat, complemented by atmospheric backing vocals and subtle ad-libs. The track maintains its punchy groove and polished production until slowly fading out toward the end.\n\nGENRES: Synth-Pop, Disco-Pop, Dance-Pop, Nu-Disco"
+  },
+  "metadata": {
+    "youtube_id": "SqdWTeXWvOg",
+    "title_extracted": null,
+    "corpus_id": "SqdWTeXWvOg",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/SqdWTeXWvOg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7366562,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.820573,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:11:34Z"
+  },
+  "status": "success",
+  "error": null
+}

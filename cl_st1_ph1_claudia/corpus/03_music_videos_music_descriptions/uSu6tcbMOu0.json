@@ -1,0 +1,38 @@
+{
+  "corpus_id": "uSu6tcbMOu0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uSu6tcbMOu0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/uSu6tcbMOu0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/uSu6tcbMOu0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a solo rhythm guitar playing a chordal groove with a gentle shuffle feel in a moderate 4/4 meter. Shortly thereafter, an electric bass guitar and a drum kit enter with a steady hi-hat and kick-snare pattern, establishing a relaxed yet propulsive soul-funk rhythm. A soulful male lead vocalist joins, delivering melodies with a warm timbre, conversational phrasing, and subtle vocal ornamentation. As the track progresses, bright brass accents—primarily a trumpet—enter to provide melodic fills and rhythmic stabs between vocal lines.\n\nThe texture remains open and groove-oriented throughout, grounded by the steady bassline and crisp drum kit articulation. The vocalist dynamically elevates the intensity over the course of the performance, transitioning from smooth mid-range singing into impassioned high belting, raspy vocal inflections, and spontaneous melodic runs. Mid-way through, a bluesy lead guitar solos in tandem with punchy horn section stabs, adding harmonic color and energy to the arrangement. \n\nProduction-wise, the recording features an organic live acoustic character with a balanced stereo panorama. Vocals, bass, and kick drum occupy the center, while the guitar and brass are subtly panned to create spatial separation. A light, warm ambience surrounds the vocals, enhancing their resonance without obscuring detail. Harmonically, the song relies on classic soul chord progressions in a major key, characterized by smooth transitions and blues-influenced cadences.\n\nThe music maintains an uplifting, romantic, and emotionally expressive mood. Near the conclusion, the vocalist engages in dynamic ad-libs over an increasingly energetic backing groove before the piece reaches a decisive final hit, immediately followed by enthusiastic audience applause, confirming the live setting of the performance.\n\nGENRES: Soul, Funk, Rhythm and Blues, Live Performance"
+  },
+  "metadata": {
+    "youtube_id": "uSu6tcbMOu0",
+    "title_extracted": null,
+    "corpus_id": "uSu6tcbMOu0",
+    "uploader": "Al Green",
+    "audio_file": "corpus/01_music_videos_audio/audio/uSu6tcbMOu0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7897836,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.54184,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:30:54Z"
+  },
+  "status": "success",
+  "error": null
+}

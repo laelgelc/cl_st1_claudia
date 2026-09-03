@@ -1,0 +1,38 @@
+{
+  "corpus_id": "G3dFpQzu54w",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/G3dFpQzu54w.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/G3dFpQzu54w.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/G3dFpQzu54w.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a prominent electric guitar playing an overdriven, crunchy riff, swiftly joined by a full rock drum kit and a warm, steady electric bass line. The rhythm section establishes a driving 4/4 beat with an energetic, straight-ahead rock groove at an upbeat tempo, marked by a crisp snare backbeat on beats two and four and consistent hi-hat work. \n\nA gravelly, raspy male lead vocal enters centrally in the stereo mix, treated with subtle room reverb and light slapback delay. The vocal delivery is energetic and blues-infused, shifting dynamically between lower-register verse phrasing and soaring, expressive chorus hooks. The harmonic framework relies on a classic blues-rock I-IV-V chord progression with bright, major-key tonality and minor-pentatonic inflections. \n\nThe arrangement follows a clear verse-chorus structure, with the dynamic level swelling during chorus sections as the rhythm guitars widen their strumming patterns and the drums add cymbal accents. Faint backing vocal harmonies and response guitar fills augment the texture as the song develops. Around the midpoint, the vocal recedes to make way for an extended, bluesy electric guitar solo characterized by dramatic pitch bends, sustained distortion, and rapid pentatonic phrasing, positioned slightly off-center in the soundstage.\n\nFollowing a subsequent verse and chorus, the song transitions into an expansive outro vamp. Here, the lead guitar continuously improvises over the persistent, driving rhythm section rhythm before the track gradually fades to silence. The production aesthetic evokes a classic, raw rock sound with punchy drum transients, clear instrument separation, a wide stereo image, and a confident, high-energy mood throughout.\n\nGENRES: Classic Rock, Blues Rock, Hard Rock"
+  },
+  "metadata": {
+    "youtube_id": "G3dFpQzu54w",
+    "title_extracted": null,
+    "corpus_id": "G3dFpQzu54w",
+    "uploader": "ABKCOVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/G3dFpQzu54w.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7215726,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.11168,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:26:17Z"
+  },
+  "status": "success",
+  "error": null
+}

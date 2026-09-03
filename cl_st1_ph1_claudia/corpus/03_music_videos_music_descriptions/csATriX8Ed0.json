@@ -1,0 +1,38 @@
+{
+  "corpus_id": "csATriX8Ed0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/csATriX8Ed0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/csATriX8Ed0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/csATriX8Ed0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a gentle, mid-tempo acoustic guitar intro in 4/4 meter, accompanied by a warm electric bass and soft percussion, establishing a relaxed, earnest, and melodic atmosphere. The rhythm section soon settles into a steady pop-rock groove driven by crisp snare rim-clicks, light hi-hats, and a grounded kick drum. A male lead vocal enters smoothly in the mid-register, featuring a warm tone enhanced by subtle stereo reverb and vocal delay.\n\nAs the track moves toward the first chorus, the dynamic intensity gradually builds. The full drum kit engages with stronger backbeats while subtle layered vocal harmonies join the mix, expanding the tonal texture. The stereo image is wide, with acoustic rhythm guitars panned across the soundstage, while the bass guitar and lead vocal remain firmly grounded in the center.\n\nIn the subsequent verse and chorus, the arrangement maintains its steady groove while introducing subtle electric guitar licks in the background. Following the chorus, an expressive electric guitar solo takes center stage. Characterized by a warm, overdriven sustain, smooth pitch bends, and fluid phrasing, the guitar tone is treated with stereo delay and hall reverb, lifting it above the active rhythm section.\n\nThe final chorus section achieves the dynamic peak of the track, marked by impassioned lead vocal ad-libs in a higher register, energetic drum fills, and soaring guitar embellishments reinforcing the chord progression. The track then transitions into a brief outro, where the full instrumentation gradually tapers down, leaving a rhythmic acoustic guitar pattern and a sustained bass note that slowly decay into a quiet finish.\n\nGENRES: Pop Rock, Soft Rock, Singer-Songwriter, Adult Contemporary"
+  },
+  "metadata": {
+    "youtube_id": "csATriX8Ed0",
+    "title_extracted": null,
+    "corpus_id": "csATriX8Ed0",
+    "uploader": "TheHeightsVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/csATriX8Ed0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7170400,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.494792,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:21:11Z"
+  },
+  "status": "success",
+  "error": null
+}

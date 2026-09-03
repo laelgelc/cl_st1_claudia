@@ -1,0 +1,38 @@
+{
+  "corpus_id": "yXQViqx6GMY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yXQViqx6GMY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/yXQViqx6GMY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/yXQViqx6GMY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a delicate rubato introduction featuring a sparkling celeste or glockenspiel playing a gentle, festive motif. A expressive female lead vocal enters shortly after, singing with emotional intensity and rich vibrato over sustained piano chords, warm string pads, and subtle bell accents. The intro builds dynamically, using spacious reverb and vocal swells to create suspense until a dramatic pause at the fifty-second mark.\n\nA rapid transition shifts the music into a driving, high-tempo 4/4 pop-soul groove. Shaking sleigh bells, a crisp drum kit with a prominent snare, a punchy bassline, and upbeat piano rhythm comping instantly elevate the energy. Lush, multi-tracked backing vocals join in a dynamic call-and-response arrangement, providing dense harmonic support. The overall stereo image expands significantly, placing the lead vocal front and center while spreading the rhythmic percussion, piano, and vocal harmonies across the stereo field.\n\nAs the track moves through subsequent verses and a middle bridge section, bright brass accents and sweeping string fills reinforce the festive, triumphant atmosphere. The tempo remains brisk and steady, driving the rhythm forward with relentless energy. The lead singer delivers an increasingly passionate performance, employing high-register belts and intricate melismatic embellishments. \n\nIn the final section, the arrangement reaches a ecstatic peak as the lead vocalist improvise elaborate vocal runs over a repeating call-and-response refrain driven by the backing vocal ensemble and the full instrumental track. The energetic groove, dense texture, and joyous mood persist until the recording gradually fades out.\n\nGENRES: Christmas, Pop, Soul, Dance-Pop"
+  },
+  "metadata": {
+    "youtube_id": "yXQViqx6GMY",
+    "title_extracted": null,
+    "corpus_id": "yXQViqx6GMY",
+    "uploader": "Mariah Carey",
+    "audio_file": "corpus/01_music_videos_audio/audio/yXQViqx6GMY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7521114,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.376952,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:08:19Z"
+  },
+  "status": "success",
+  "error": null
+}

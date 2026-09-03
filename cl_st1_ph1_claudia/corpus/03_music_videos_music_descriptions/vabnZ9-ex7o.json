@@ -1,0 +1,38 @@
+{
+  "corpus_id": "vabnZ9-ex7o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/vabnZ9-ex7o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/vabnZ9-ex7o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/vabnZ9-ex7o.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a solo clean electric guitar playing an arpeggiated riff treated with a subtle modulation effect, producing a shimmering, watery timbre in a steady 4/4 meter at a moderate tempo. At 0:08, a punchy drum kit playing a straight rock beat and a solid, warm bass guitar enter, establishing a laid-back yet driving mid-tempo groove.\n\nAt 0:18, a male lead vocal enters with a melancholic, brooding tone, featuring a raspy, unpolished edge and light ambient reverb. The verse section maintains a relatively sparse texture dominated by the clean modulated guitar, steady bassline, and understated drum groove. At 0:50, the vocal transitions into a repeating melodic refrain, accompanied by subtle dynamic lifts in the drums and crash cymbal accents. \n\nA dramatic dynamic explosion occurs at 1:38 during the chorus, as wall-of-sound distorted rhythm guitars crash in with heavy fuzz and saturation, filling the stereo field. The vocal delivery shifts dramatically from restrained to an intense, strained, and emotive raspy shouting style. The drumming becomes significantly more aggressive with open, washing crash cymbals and powerful snare hits.\n\nAt 1:55, a distorted lead guitar solo enters, articulating a simple, melodic line that mirrors the vocal theme with rich sustain and modulation. The intense, high-energy chorus returns at 2:30, progressing into an extended outro at 2:50 where the vocal repeatedly delivers a passionate, cathartic refrain over dense guitar distortion. Beginning around 3:13, the song de-escalates into lingering guitar feedback, decaying cymbal hits, and a final, quiet strummed guitar decay that fades into silence by 3:38. \n\nThe mix contrasts narrow, clean verse textures with wide, heavily distorted chorus arrangements, creating an angsty, brooding, and cathartic emotional arc.\n\nGENRES: grunge, alternative rock, hard rock, rock"
+  },
+  "metadata": {
+    "youtube_id": "vabnZ9-ex7o",
+    "title_extracted": null,
+    "corpus_id": "vabnZ9-ex7o",
+    "uploader": "Nirvana",
+    "audio_file": "corpus/01_music_videos_audio/audio/vabnZ9-ex7o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7175602,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.908226,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:46:48Z"
+  },
+  "status": "success",
+  "error": null
+}

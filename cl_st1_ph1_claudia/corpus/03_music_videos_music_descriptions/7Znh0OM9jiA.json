@@ -1,0 +1,38 @@
+{
+  "corpus_id": "7Znh0OM9jiA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/7Znh0OM9jiA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/7Znh0OM9jiA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/7Znh0OM9jiA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The piece opens with brief vocal ad-libs leading directly into a mid-tempo, upbeat reggae groove in a standard 4/4 meter. The rhythmic foundation is driven by a prominent, syncopated electric bassline delivering a warm, melodic low end alongside a drum kit featuring crisp hi-hats and punchy rimshots on the third beat. Clean electric guitars provide concise offbeat skank chords, subtly mirrored by warm organ chops to establish a light, bouncy texture.\n\nA soulful male lead vocal takes center stage with a raw, expressive timbre, positioned clearly in the middle of the stereo mix with light slapback delay and natural room reverb. The verses move through a straightforward, upbeat major-key chord progression. Upon reaching the chorus, the dynamic intensity swells as a brass section—featuring trumpets and saxophones—enters with punchy, syncopated response riffs. Layered backing vocals join in harmony, expanding the stereo image and adding warmth to the texture, creating an uplifting and resilient emotional tone.\n\nThe arrangement alternates between verses and choruses. In the verses, the horn section and backing vocals step back to highlight the lead singer's dynamic phrasing against the steady rhythm section. During the refrains, the horns and vocal harmonies return in full force, elevating the overall energy. \n\nThe final section serves as an extended outro built around the main chorus motif. Here, the lead vocalist delivers passionate, blues-influenced ad-libs over repeating brass countermelodies and sustained vocal harmonies. The overall production retains a vintage, analog aesthetic with well-separated instrumentation and clear spatial balance, smoothly bringing the track to a close as the groove and horn riffs slowly fade out.\n\nGENRES: Reggae, Ska, Rocksteady"
+  },
+  "metadata": {
+    "youtube_id": "7Znh0OM9jiA",
+    "title_extracted": null,
+    "corpus_id": "7Znh0OM9jiA",
+    "uploader": "Rocksteady Freddie",
+    "audio_file": "corpus/01_music_videos_audio/audio/7Znh0OM9jiA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6159868,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.098275,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:22:11Z"
+  },
+  "status": "success",
+  "error": null
+}

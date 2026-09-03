@@ -1,0 +1,38 @@
+{
+  "corpus_id": "IxuThNgl3YA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/IxuThNgl3YA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/IxuThNgl3YA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/IxuThNgl3YA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with the ambient sound of a cheering stadium crowd and a spoken vocal introduction over stage noise. At 0:16, a four-beat drum count-in triggers an explosive, high-energy entrance by the full ensemble. The instrumentation consists of wide-panned overdriven rhythm electric guitars, a driving bass guitar, a full drum kit with a prominent kick and cracking snare, a bright glockenspiel mirroring the melodic riffs, and a raspy, passionate male lead vocalist positioned centrally in the stereo image. \n\nThe track maintains a fast, driving 4/4 tempo with a classic rock groove throughout. The lead vocal performance is gritty, emotive, and dynamic, featuring natural room ambience and subtle delay. As the song transitions from verses to anthemic choruses, the dynamic level swells significantly, enriched by layered group backing vocal harmonies and energetic vocal chants. The harmonic foundation rests on straightforward, uplifting major-key chord progressions, creating an empowering and triumphant mood.\n\nAround 2:00, the texture shifts to highlight a featured tenor saxophone solo, delivering expressive, brassy lines above the persistent rock rhythm section. A soaring electric guitar solo follows near 3:00, utilizing pitch bends and sustained feedback to build emotional intensity. The arrangement builds toward a massive climactic finale around 3:32, where dense guitar power chords, syncopated drum fills, bell-like keyboard accents, and soaring vocalizations merge into a dense wall of sound. The song reaches its peak on a final, resonant chord strike at 4:54, allowing the instrument reverb to decay into widespread crowd applause and applause that continues until the fade-out.\n\nGENRES: Heartland Rock, Arena Rock, Pop Rock, Hard Rock"
+  },
+  "metadata": {
+    "youtube_id": "IxuThNgl3YA",
+    "title_extracted": null,
+    "corpus_id": "IxuThNgl3YA",
+    "uploader": "Bruce Springsteen",
+    "audio_file": "corpus/01_music_videos_audio/audio/IxuThNgl3YA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10658224,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.057206,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:39:34Z"
+  },
+  "status": "success",
+  "error": null
+}

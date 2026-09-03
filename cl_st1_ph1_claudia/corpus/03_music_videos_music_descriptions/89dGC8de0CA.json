@@ -1,0 +1,38 @@
+{
+  "corpus_id": "89dGC8de0CA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/89dGC8de0CA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/89dGC8de0CA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/89dGC8de0CA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a moderate-tempo, four-four acoustic guitar figure consisting of arpeggiated picking and gentle strumming. The acoustic guitar exhibits a warm, organic timbre with clear finger-picking detail distributed across a wide stereo field, establishing an introspective and reflective mood. At approximately 0:37, a male lead vocal enters, characterized by an expressive, slightly raspy rock timbre treated with a moderate hall reverb that adds spatial depth.\n\nThe arrangement gradually expands as the first verse progresses, introducing subtle bass notes and gentle percussion. At 1:15, the track swells into a full-band chorus featuring driving drum kit grooves—complete with prominent kick, snare, and shimmering cymbals—a resonant bass guitar line, and heightened vocal projection. A brief instrumental transition at 1:27 lowers the dynamic level back to a subdued acoustic guitar motif for the second verse at 1:40, where the vocal resumes over light rhythmic support.\n\nThe intensity rises again into a second chorus at 2:04, leading directly into an instrumental bridge at 2:23 dominated by an overdriven lead electric guitar. The electric guitar features sustained notes, pitch bends, and mild delay, delivering a melodic solo over a steady rhythm section. At 3:02, the lead vocal re-enters with soaring, high-register belted notes and passionate emotional delivery, accompanied by dramatic drum fills and continuous electric guitar accents, creating the dynamic climax of the piece.\n\nA triumphant final chorus at 3:43 unifies the full ensemble, combining strummed acoustic rhythm, distorted electric guitar embellishments, punchy drums, and powerful lead vocals. At 4:07, the piece undergoes a steep dynamic reduction, stripping away the heavy band instrumentation to leave the solo acoustic guitar picking pattern from the introduction. The recording concludes as the final acoustic chord slowly decays into natural room silence.\n\nGENRES: Folk Rock, Acoustic Rock, Classic Rock, Rock Ballad"
+  },
+  "metadata": {
+    "youtube_id": "89dGC8de0CA",
+    "title_extracted": null,
+    "corpus_id": "89dGC8de0CA",
+    "uploader": "Aerosmith",
+    "audio_file": "corpus/01_music_videos_audio/audio/89dGC8de0CA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8584402,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.010942,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:14:09Z"
+  },
+  "status": "success",
+  "error": null
+}

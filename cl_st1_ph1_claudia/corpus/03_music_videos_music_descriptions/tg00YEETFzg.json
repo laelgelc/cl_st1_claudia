@@ -1,0 +1,38 @@
+{
+  "corpus_id": "tg00YEETFzg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/tg00YEETFzg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/tg00YEETFzg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/tg00YEETFzg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a somber, slow-tempo prologue characterized by an intimate, whispered female spoken-word vocal recorded close-miked with dry processing. This vocal is accompanied by a sparse, gentle acoustic piano playing a minor-key chord progression within a reverberant acoustic space. Low-frequency atmospheric synth pads and deep sub-bass impacts gradually swell beneath the piano, creating a melancholic and introspective mood at a quiet dynamic level.\n\nAt approximately 0:48, this somber intro is abruptly interrupted by a loud, high-pitched record-scratch glitch effect, immediately transitioning the music into a fast-tempo, high-energy dance-pop arrangement in a four-on-the-floor 4/4 meter. The upbeat section launches with a heavy kick drum, crisp off-beat hi-hats, a pumping synth bassline, and bright, rhythmic synth plucks. An expressive female pop vocal enters with clear, upfront production, enhanced by subtle stereo delay and space-expanding reverb.\n\nAs the section progresses, the arrangement builds dynamic tension through rising synthesizer pitch sweeps and accelerating snare drum roll fills during a pre-chorus transition. At 1:30, the track hits a peak-energy chorus drop dominated by sidechained chordal synths, anthemic vocals, and a dense, driving drum groove. This transitions into an energetic instrumental section around 1:59, highlighting soaring synth leads and vocal chop melodies panning across the stereo field.\n\nA second verse temporarily thins the texture to center the vocals over the rhythm section before re-initiating tension through additional white-noise risers and rhythmic fills. Subsequent chorus drops at 2:44 and 3:21 re-establish maximum dynamic power through layered vocal harmonies, thick bass synthesis, and continuous four-on-the-floor percussion. The track maintains its euphoric, high-energy drive through repeated synth breakdowns and vocal refrains until concluding.\n\nGENRES: electro-pop, dance-pop, edm"
+  },
+  "metadata": {
+    "youtube_id": "tg00YEETFzg",
+    "title_extracted": null,
+    "corpus_id": "tg00YEETFzg",
+    "uploader": "Rihanna",
+    "audio_file": "corpus/01_music_videos_audio/audio/tg00YEETFzg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8818460,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.770758,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:04:41Z"
+  },
+  "status": "success",
+  "error": null
+}

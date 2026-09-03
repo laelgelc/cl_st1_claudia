@@ -1,0 +1,38 @@
+{
+  "corpus_id": "3JWTaaS7LdU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/3JWTaaS7LdU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/3JWTaaS7LdU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/3JWTaaS7LdU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an unaccompanied female lead vocal performing in a rubato, free-tempo intro. Her vocal timbre is warm, rich, and deeply expressive, utilizing dynamic shifts from soft chest tones to powerful sustained notes. The vocal is treated with an expansive stereo hall reverb and subtle delay, imparting a spacious, atmospheric quality to the soloist's performance.\n\nAt approximately 0:45, a slow, steady 4/4 ballad meter is established as gentle arpeggiated acoustic guitar, soft electric piano, subtle organ pads, bass, and understated drumming enter the soundscape. The lead vocal rejoins above this warm, mid-tempo texture, delivering a soulful performance characterized by expressive pitch bends, delicate vibrato, and intimate dynamics.\n\nAround 2:08, an electric guitar takes the lead with an emotive, overdriven solo featuring singing, sustained tones, expressive string bends, and blues-inflected melismas over the steady rhythmic backing. Following the instrumental passage, the vocal re-enters as the arrangement gradually gains energy and sonic density.\n\nA sudden, dramatic dynamic shift occurs at 3:10, propelled by a sharp drum fill and crash cymbal that launch the music into an explosive climactic section. The key and dynamic level shift dramatically as the lead vocalist delivers high-register belting lines with high power and intensity. The backing band reaches maximum dynamic volume, featuring a heavy drum backbeat, driving bassline, lush organ swells, and soaring fill guitar work.\n\nAt 3:52, the heavy drum pulse dissipates, transitioning the track into a quiet, intimate coda. The instrumentation recedes to delicate keyboard and guitar chords, creating a sparse canvas for the vocalist’s soft, melismatic vocal runs and lingering final phrases, which gently fade into silence amidst lingering reverb tails.\n\nGENRES: Pop, Soul, Country, Ballad, Rhythm and Blues"
+  },
+  "metadata": {
+    "youtube_id": "3JWTaaS7LdU",
+    "title_extracted": null,
+    "corpus_id": "3JWTaaS7LdU",
+    "uploader": "Whitney Houston",
+    "audio_file": "corpus/01_music_videos_audio/audio/3JWTaaS7LdU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8769420,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.854195,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:21:34Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "DvxxdZpMFHg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/DvxxdZpMFHg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/DvxxdZpMFHg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/DvxxdZpMFHg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a driving electric guitar riff featuring crunchy distortion, joined immediately by a steady, mid-tempo 4/4 rock drum beat and a supportive bassline. The rhythm section establishes an energetic, forward-propelling groove with a strong snare backbeat on beats two and four. A gritty, raspy male lead vocal enters in the first verse, processed with subtle space-enhancing reverb. The instrumentation during the verses maintains a moderately restrained dynamic level, emphasizing the vocal line above a homophonic accompaniment of overdriven rhythm guitar and rhythmic bass. \n\nTransitions between sections are marked by explicit dynamic contrasts. The chorus brings an elevation in volume and texture, as the guitars shift to thicker power-chord strumming, the drums introduce prominent cymbal crashes, and the vocal delivery becomes more forceful and anthemic. An instrumental interlude following the chorus re-establishes the opening guitar riff before dropping back down dynamically for the second verse. \n\nFollowing the second chorus, the arrangement transitions into a soaring lead guitar solo. The solo features heavy overdrive, pitch bends, and expressive vibrato, positioned prominently in the center of the stereo field while the rhythm section sustains a driving foundation. The piece returns to a third verse with reduced dynamic intensity, followed by a final, full-energy chorus section. \n\nThe recording concludes with an extended outro lead guitar solo that builds over the repeating chord progression, accompanied by increasingly active drum fills. The soundscape features a classic analog-style rock production aesthetic, with rhythm guitars panned across the stereo field, punchy drums, and a centered vocal track, creating a defiant, high-energy, and raw sonic character throughout. The track ends on a final sustained distorted guitar chord and drum accent.\n\nGENRES: Heartland Rock, Hard Rock, Classic Rock"
+  },
+  "metadata": {
+    "youtube_id": "DvxxdZpMFHg",
+    "title_extracted": null,
+    "corpus_id": "DvxxdZpMFHg",
+    "uploader": "neilyoungchannel",
+    "audio_file": "corpus/01_music_videos_audio/audio/DvxxdZpMFHg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9019080,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 25.10003,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:02:17Z"
+  },
+  "status": "success",
+  "error": null
+}

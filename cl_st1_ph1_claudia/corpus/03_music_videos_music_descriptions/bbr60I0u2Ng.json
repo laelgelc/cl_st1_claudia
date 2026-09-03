@@ -1,0 +1,38 @@
+{
+  "corpus_id": "bbr60I0u2Ng",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/bbr60I0u2Ng.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/bbr60I0u2Ng.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/bbr60I0u2Ng.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is a high-energy pop/rock song set in a driving 4/4 meter at a fast tempo of approximately 150 BPM. The track opens with a distinctive, syncopated drum pattern played on kick and snare, quickly joined by a pick-driven electric bassline playing an energetic, octave-hopping eighth-note pattern. A bright, overdriven rhythm electric guitar then enters, delivering a punchy staccato riff characterized by percussive palm muting and quick power chord shifts.\n\nUpon the arrival of the first verse, a lead male vocal takes center stage, delivered with a raw, energetic vocal tone and subtle room reverb. The vocal phrasing closely matches the syncopated rhythm of the bass and drums. The texture expands during the chorus sections, where group backing vocal harmonies join in unison to accentuate the primary refrain hooks over full, ringing guitar chords and active cymbal work.\n\nA brief guitar solo occurs mid-track, featuring blues-rock phrasing, string bends, and vibrato enhanced by lead overdrive and a light slapback delay. The rhythm section remains steady beneath the lead line, providing an unyielding rhythmic anchor. Following a subsequent verse and chorus cycle, the track transitions into a extended guitar solo section where the lead guitar dominates the soundscape with energetic phrasing across higher registers. \n\nThe final section features a breakdown returning to the opening drum beat and driving bassline, over which lead and backing vocals sing the refrain in call-and-response fashion above the main guitar riff. The track concludes on a sharp, forceful unison hit across the entire ensemble. Production-wise, the recording presents a tight stereo image: kick, snare, bass, and lead vocals are centered, rhythm guitars are panned across the stereo field, and the overall dynamic level remains consistently vibrant and punchy.\n\nGENRES: power pop, pop rock, classic rock, new wave"
+  },
+  "metadata": {
+    "youtube_id": "bbr60I0u2Ng",
+    "title_extracted": null,
+    "corpus_id": "bbr60I0u2Ng",
+    "uploader": "TheKnackVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/bbr60I0u2Ng.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7761116,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.06893,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:29:54Z"
+  },
+  "status": "success",
+  "error": null
+}

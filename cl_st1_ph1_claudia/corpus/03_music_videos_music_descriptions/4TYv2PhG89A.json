@@ -1,0 +1,38 @@
+{
+  "corpus_id": "4TYv2PhG89A",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4TYv2PhG89A.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/4TYv2PhG89A.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/4TYv2PhG89A.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a mid-tempo, danceable 4/4 groove driven by syncopated synth bass, crisp drum kit, shaker percussion, and a bright electric guitar playing rhythmic chordal riffs. Punctuating synth-horn stabs enter to define the upbeat, Latin-infused synth-pop arrangement. \n\nAt 0:19, a smooth male lead vocal enters centrally in the mix, treated with subtle reverb and short delay. The instrumentation drops slightly in volume to make room for the verse, sustained by clean electric guitar comping, bouncy basslines, and steady percussion. As the music moves into a transitional passage around 0:52, the harmonic movement shifts upward, introducing warm electric piano/synth pads and layered backing vocal harmonies that incrementally elevate the dynamic energy.\n\nThe chorus arrives at 1:15, returning to full dynamic power with punchy synth brass accents, vibrant drum fills, and doubled vocal hooks. At 1:47, an extended electric guitar solo takes over the lead role. Played with a clean, chorused tone, the guitar executes melodic phrases, sustained bends, and expressive vibrato over an active rhythm section enhanced by auxiliary percussion.\n\nThe second verse commences at 2:20, retaining the intimate lead vocal presence over syncopated bass and muted guitar chords. Synth embellishments fill the gaps between vocal lines. At 2:57, the chorus hook returns with maximum energy, featuring energetic vocal ad-libs, prominent synth horn counter-melodies, and active percussion. The arrangement maintains this festive, buoyant groove through a extended vamp section, gradually fading out until the recording comes to a complete close at 4:18.\n\nGENRES: sophisti-pop, synth-pop, latin pop, funk"
+  },
+  "metadata": {
+    "youtube_id": "4TYv2PhG89A",
+    "title_extracted": null,
+    "corpus_id": "4TYv2PhG89A",
+    "uploader": "Sade",
+    "audio_file": "corpus/01_music_videos_audio/audio/4TYv2PhG89A.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8255236,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.690629,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:15:05Z"
+  },
+  "status": "success",
+  "error": null
+}

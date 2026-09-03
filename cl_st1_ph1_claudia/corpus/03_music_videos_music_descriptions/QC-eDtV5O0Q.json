@@ -1,0 +1,38 @@
+{
+  "corpus_id": "QC-eDtV5O0Q",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/QC-eDtV5O0Q.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/QC-eDtV5O0Q.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/QC-eDtV5O0Q.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is a mid-tempo roots-rock performance in a 4/4 meter with a steady, relaxed groove at approximately 75–80 BPM. The structure follows a standard verse-chorus song form consisting of a brief intro, three verse-chorus cycles, and a extended repeating chorus outro.\n\nThe piece opens with a short acoustic guitar strum and a brief melodic fill resembling an electric piano or soft horn section before settling into the main rhythm. A raspy, expressive male lead vocal enters centrally in the mix with subtle ambient reverb, driving the narrative verses. The verse instrumental arrangement features strummed acoustic rhythm guitar, a highly fluid and melodic electric bassline, steady drum kit percussion emphasizing the snare backbeat and hi-hat, and sparse organ or keyboard swells supporting the chord changes.\n\nThe choruses elevate the overall dynamic level as multi-part male harmony vocals join the lead, singing layered vocal lines and melismatic background vocables. The harmonic language is solidly grounded in a warm major key, evoking a soulful and nostalgic mood. The drums play with increased energy during these chorus sections, incorporating light cymbal rides and accents. \n\nBrief instrumental turnarounds separate the verses, allowing the syncopated bassline and acoustic rhythm guitar to bridge the sections smoothly. The mix presents a classic analog acoustic style, featuring a wide stereo soundstage where the acoustic guitar is panned to one side while secondary accent instruments sit on the opposite side, keeping the lead vocals, bass, and kick drum prominently centered. The final chorus section extends into an outro, repeating the anthemic backing vocal refrains as the song gradually fades out to completion.\n\nGENRES: folk rock, roots rock, country rock, singer-songwriter"
+  },
+  "metadata": {
+    "youtube_id": "QC-eDtV5O0Q",
+    "title_extracted": null,
+    "corpus_id": "QC-eDtV5O0Q",
+    "uploader": "The Band",
+    "audio_file": "corpus/01_music_videos_audio/audio/QC-eDtV5O0Q.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6789222,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.713372,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:53:37Z"
+  },
+  "status": "success",
+  "error": null
+}

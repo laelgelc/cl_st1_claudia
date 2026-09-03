@@ -1,0 +1,38 @@
+{
+  "corpus_id": "lDK9QqIzhwk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/lDK9QqIzhwk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/lDK9QqIzhwk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/lDK9QqIzhwk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an ambient, atmospheric swell of synthetic string pads in a minor tonality, which rapidly transitions into a distinct, filter-swept talk-box guitar motif. A driving rock groove in a steady, mid-tempo 4/4 meter is established by punchy kick drum beats, crisp snare hits on beats two and four, a prominent, melodic bass guitar line, and a tight hi-hat pattern.\n\nAs the first verse enters, the arrangement thins down to focus on a passionate, slightly gritty male lead vocal positioned prominently in the center channel with subtle short reverb and delay. The talk-box guitar acts as a counter-melody, delivering distinct call-and-response fills between vocal phrases over the driving bassline and muted rhythm guitar chords. The piece steadily builds in dynamic intensity through the pre-chorus, introducing swelling synthesizer pads and high-register, multi-tracked backing harmonies.\n\nThe dynamic energy reaches a peak during the anthemic chorus, expanding into a dense, full-spectrum arena-rock texture. Double-tracked distorted electric rhythm guitars widen the stereo field alongside aggressive drum kit execution, featuring accented cymbal crashes and soaring lead vocals singing at the top of their chest register. Harmonized group backing vocals powerfully reinforce the main melodic hook, instilling an uplifting, triumphant mood.\n\nFollowing a second verse and pre-chorus cycle, the track transitions into a melodic electric guitar solo characterized by expressive pitch bends, sustained vibrato, and heavy distortion over the persistent rhythm section. A key modulation shifts the tonal center upward into a climactic final chorus section. Here, the arrangement maintains maximum dynamic density with dramatic lead vocal ad-libs, continuous gang-vocal hooks, and energetic rhythm playing, all polished with classic studio compression, spatial panning, and lush reverberation.\n\nGENRES: arena rock, hard rock, glam metal, pop rock"
+  },
+  "metadata": {
+    "youtube_id": "lDK9QqIzhwk",
+    "title_extracted": null,
+    "corpus_id": "lDK9QqIzhwk",
+    "uploader": "Bon Jovi",
+    "audio_file": "corpus/01_music_videos_audio/audio/lDK9QqIzhwk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7963222,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 10.698601,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:50:11Z"
+  },
+  "status": "success",
+  "error": null
+}

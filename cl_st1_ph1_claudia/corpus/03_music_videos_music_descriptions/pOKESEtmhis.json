@@ -1,0 +1,38 @@
+{
+  "corpus_id": "pOKESEtmhis",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/pOKESEtmhis.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/pOKESEtmhis.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/pOKESEtmhis.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with brief audience applause and ambient room noise before settling into a warm, solo acoustic guitar intro played with a combination of fingerpicking and soft strums in a steady mid-tempo folk rhythm. The guitar provides a clear harmonic foundation in a major key with occasional melancholic inflections, combining gentle bass notes with rhythmic syncopation.\n\nShortly after twenty seconds, an intimate solo female voice enters, delivering a melismatic and highly expressive melody. Her vocal timbre is warm and resonant, shifting fluidly from delicate, breathy lower phrases to powerful, ringing tones on ascending melodic climaxes. The performance maintains an unhurried feel in a quadruple meter, using subtle rubato and rhythmic flexibility to enhance emotional emphasis.\n\nAs the song unfolds through successive verses and choruses, the arrangement remains stripped-down and acoustic, driven exclusively by voice and guitar. The overall dynamic arc builds organically, with the singer employing controlled vibrato, vocal slides, and expansive pitch leaps during passionate structural peaks. The guitar accompaniment mirrors these dynamic shifts, expanding its strumming pattern and increasing strum intensity during emotional high points, then softening into arpeggiated patterns during quieter, reflective passages.\n\nThe audio captures a live acoustic environment, featured through natural room reverberation, a centered spatial image for the performers, and minimal obvious processing or artificial effects. The tonal balance is clear and mid-focused, capturing both the acoustic articulation of the guitar strings and the vocal nuances. The song culminates in a subtle deceleration toward a final resolving guitar chord, which transitions directly into enthusiastic audience applause and cheering, highlighting the contemplative and soulful nature of the live performance.\n\nGENRES: Folk, Singer-Songwriter, Acoustic, Ballad"
+  },
+  "metadata": {
+    "youtube_id": "pOKESEtmhis",
+    "title_extracted": null,
+    "corpus_id": "pOKESEtmhis",
+    "uploader": "tee cee",
+    "audio_file": "corpus/01_music_videos_audio/audio/pOKESEtmhis.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8897222,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 27.17041,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:39:12Z"
+  },
+  "status": "success",
+  "error": null
+}

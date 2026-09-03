@@ -1,0 +1,38 @@
+{
+  "corpus_id": "qMxX-QOV9tI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/qMxX-QOV9tI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/qMxX-QOV9tI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/qMxX-QOV9tI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a brief, whimsical intro featuring a delicate, music-box or glockenspiel-like chime playing a gentle, lullaby-inspired melodic motif in a high frequency register. At approximately 0:17, a spoken vocal cue signals a dynamic shift into an upbeat, mid-tempo groove in a 4/4 meter. The primary instrumentation transitions to a syncopated, strummed acoustic guitar, a round bassline, and a driving pop-hip-hop drum beat with a punchy kick and crisp snare on beats two and four.\n\nA bright, agile female lead vocal takes center stage, delivering a rhythmic, melodic line characterized by dynamic vocal bends and clear articulation. The production features modern, wide stereo imaging: the lead vocal, kick, and snare occupy the center, while double-tracked acoustic guitars and backing vocal harmonies expand into the left and right channels. Subtle reverb and dynamic compression give the vocals a polished, up-front presence.\n\nDuring the pre-chorus and chorus sections, the texture thickens significantly as layered vocal harmonies, unison backing vocals, and energetic ad-libs enter, creating an anthemic and celebratory mood. The harmonic structure remains consistent, anchored by repeating acoustic guitar chord progressions.\n\nA contrasting bridge section features a male rap vocal delivering rapid, rhythmic verses over the ongoing groove. This adds a punchy, conversational timbre before a brief vocal swell transitions back into the full-textured final chorus. In this climax, the lead female singer performs expressive, melismatic ad-libs over the dense vocal backdrop. \n\nThe outro features a gradual decay in dynamic intensity as the drums and bass exit, leaving an intimate, solo acoustic guitar and soft vocalizations to bring the recording to a gentle finish.\n\nGENRES: Pop, Contemporary R&B, Acoustic Pop, Hip Hop Pop"
+  },
+  "metadata": {
+    "youtube_id": "qMxX-QOV9tI",
+    "title_extracted": null,
+    "corpus_id": "qMxX-QOV9tI",
+    "uploader": "Jessie J",
+    "audio_file": "corpus/01_music_videos_audio/audio/qMxX-QOV9tI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7827990,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.637613,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:57:33Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "1esf0efHbjM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/1esf0efHbjM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/1esf0efHbjM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/1esf0efHbjM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with an infectious, syncopated funk guitar riff featuring a clean tone, quickly joined by a driving bassline, crisp hi-hats, and rhythmic percussion. A full drum kit and punchy brass section stabs establish a tight, mid-tempo 4/4 funk groove centered around a syncopated backbeat. The harmonic foundation rests on a vibrant minor-key vamp supported by rhythmic electric guitar strumming and subtle keyboard chord accents.\n\nAt the vocal entry, a soulful male lead vocalist takes center stage with an expressive, slightly raspy delivery, processed with crisp clarity and subtle room reverb. The verse maintains a propulsive texture where the syncopated bassline moves fluidly alongside the kick drum, while short brass accents answer the vocal phrases. As the track progresses into the chorus, layered backing harmonies join the lead, accompanied by expanding brass stabs that elevate the dynamic intensity.\n\nThroughout the central sections, the arrangement maintains a consistent, upbeat momentum. The lead vocalist dynamically transitions from tight mid-register phrasing to soaring, emotive high belts with expressive pitch slides and melismatic ad-libs. The brass section expands its presence, delivering counter-melodies and punchy rhythmic punctuation spread across the stereo field, while the bass and drum kit hold a steady, pocketed groove.\n\nIn the final section, the music transitions into an extended vamp where the lead vocals reach peak emotional intensity through dynamic high-register improvisation. The overall texture becomes dense and vibrant, blending energetic vocal calls with continuous horn riffs, rhythmic guitar picking, and a persistent funk beat until the audio gently fades out.\n\nGENRES: Funk, Soul, R&B, Disco"
+  },
+  "metadata": {
+    "youtube_id": "1esf0efHbjM",
+    "title_extracted": null,
+    "corpus_id": "1esf0efHbjM",
+    "uploader": "Stevie Wonder",
+    "audio_file": "corpus/01_music_videos_audio/audio/1esf0efHbjM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7123588,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.77798,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:49:07Z"
+  },
+  "status": "success",
+  "error": null
+}

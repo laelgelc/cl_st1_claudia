@@ -1,0 +1,38 @@
+{
+  "corpus_id": "PXvKAWiU_cQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/PXvKAWiU_cQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/PXvKAWiU_cQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/PXvKAWiU_cQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an energetic, mid-fast 4/4 groove driven by punchy acoustic drums featuring crisp snare backbeats, metallic hi-hats, and syncopated kick patterns, complemented by bright, rhythmic brass stabs. The production reflects a vintage pop-soul aesthetic, characterized by warm analog saturation, natural room ambience, and a balanced stereo field where brass elements are panned toward the sides while the rhythm section and primary vocals remain centrally anchored.\n\nAt the song's opening refrain, a multi-tracked vocal ensemble delivers a layered, high-register harmonic hook, supported by a full instrumental arrangement including a melodic, rounded bassline and clean electric guitar strums emphasizing the upbeats. The texture transitions smoothly as a solo male lead vocal takes over during the verses, displaying an expressive, soulful tone with a subtle rasp and light spatial reverb. During these verse passages, the backing arrangement thins slightly, allowing the lead voice to sit prominently above a driving bassline, clean rhythm guitar chords, and punctual brass accents.\n\nThe track alternates between full-textured chorus sections driven by powerful group harmonies and punchy brass riffs, and more focused verse sections centered on the solo vocal line. The harmonic structure relies on a vibrant major-key progression, instilling an upbeat, propulsive, yet slightly dramatic mood. The overall dynamic profile remains consistently lively, building power during brass fanfares and vocal climaxes.\n\nIn the final section, the vocal ensemble continuously repeats a catchy phrase over the driving beat in a vamp-like outro. The piece culminates in a gradual fade-out of the repeating vocal motif, brass accents, and persistent drum rhythm, maintaining its steady tempo until complete silence.\n\nGENRES: pop, soul, r&b, sunshine pop, Northern soul"
+  },
+  "metadata": {
+    "youtube_id": "PXvKAWiU_cQ",
+    "title_extracted": null,
+    "corpus_id": "PXvKAWiU_cQ",
+    "uploader": "Elisa",
+    "audio_file": "corpus/01_music_videos_audio/audio/PXvKAWiU_cQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4728032,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.735449,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:19:06Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Q49vjFN6Fsw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Q49vjFN6Fsw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Q49vjFN6Fsw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Q49vjFN6Fsw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a brief snare drum flourish that immediately launches into an upbeat, high-energy funk and soul groove set in a fast, driving 4/4 time signature. The rhythm section is anchored by a punchy drum kit playing a strong backbeat, accompanied by an energetic bassline, a syncopated funk rhythm guitar, and a tambourine accentuating the upper frequencies. A bright, dynamic brass section featuring trumpets and horns provides punchy rhythmic stabs and counter-melodies throughout the arrangement.\n\nA lead male vocal enters early, delivering a passionate, soulfully textured performance with dynamic inflection and rhythmic urgency. The vocal arrangement employs vibrant call-and-response structures, where lush backing vocalists join the lead singer during recurring chorus sections, singing punctuated harmonic responses that heighten the track's emotional intensity. The overall dynamic level remains consistently high and exuberant, swelling further during the multi-vocal chorus passages.\n\nHarmonically, the track relies on major-key soul progressions with a blues-influenced tonal character. The arrangement maintains a dense, layered texture while preserving clarity among instruments. The production exhibits a vintage analog aesthetic, characterized by warm mid-range saturation, natural spatial reverb on the drums and brass, and a broad stereo image where rhythm guitars and horn stabs are distributed across the left and right channels while the lead vocal, snare, and bass occupy the center.\n\nThe song follows a structured verse-chorus arrangement that evolves through expressive vocal ad-libs and subtle variations in horn fills. Around two minutes and twenty seconds in, the track transitions into a rhythmic outro vamp driven by a persistent, repeating funk guitar motif, playful vocal chants, and energetic drum accents. The overall mood is triumphant, motivational, and danceable.\n\nGENRES: Funk, Soul, R&B, Motown"
+  },
+  "metadata": {
+    "youtube_id": "Q49vjFN6Fsw",
+    "title_extracted": null,
+    "corpus_id": "Q49vjFN6Fsw",
+    "uploader": "Sly & The Family Stone",
+    "audio_file": "corpus/01_music_videos_audio/audio/Q49vjFN6Fsw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5989712,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.925862,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:54:17Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Q0iqg2UanEc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Q0iqg2UanEc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Q0iqg2UanEc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Q0iqg2UanEc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with an energetic, driving uptempo rock intro featuring a punchy drum kit playing a straight 4/4 rhythm alongside a prominent, pulsing bassline and overdriven electric guitars. At 0:09, a gritty, expressive male lead vocal enters, centered in the stereo image, accompanied by rhythmic electric guitar strumming and continuous, steady bass and drum accompaniment.\n\nAs the track moves into the first chorus around 0:24, the arrangement expands dynamically, introducing layered backing harmony vocals and more intense crash cymbal accents. Wide stereo panning separates rhythm guitars to the left and right, creating a spacious, powerful texture around the centered vocal line. The track transitions back to a slightly pared-down verse at 0:40, maintaining its momentum through a relentless bassline and crisp snare hits. A second chorus at 0:54 swells in volume and texture, driven by powerful vocal belts and sustained guitar chords.\n\nFollowing a vocal verse at 1:25 and another high-energy chorus at 1:48, an instrumental solo section unfolds at 2:08. Here, a distorted electric lead guitar takes center stage, playing expressive melodic bends and blues-inflected rock riffs over the relentless rhythm section. At 2:29, the lead vocal re-enters for a verse section before launching into an extended final chorus at 2:43. This concluding section features repeating, soaring vocal phrases, heightened drum fills, and dense, multi-layered guitars, gradually fading out toward the end of the track.\n\nThroughout the piece, the production exhibits a classic rock aesthetic characterized by punchy drum compression, subtle analog reverb on the lead vocals, overdriven guitar timbres, and a wide stereo field. The overall mood is intense, urgent, and anthemic.\n\nGENRES: rock, classic rock, hard rock"
+  },
+  "metadata": {
+    "youtube_id": "Q0iqg2UanEc",
+    "title_extracted": null,
+    "corpus_id": "Q0iqg2UanEc",
+    "uploader": "The Best Of - Home Of Classic Music",
+    "audio_file": "corpus/01_music_videos_audio/audio/Q0iqg2UanEc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8415732,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 22.872801,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:50:18Z"
+  },
+  "status": "success",
+  "error": null
+}

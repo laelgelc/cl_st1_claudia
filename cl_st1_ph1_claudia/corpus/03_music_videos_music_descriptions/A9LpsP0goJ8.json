@@ -1,0 +1,38 @@
+{
+  "corpus_id": "A9LpsP0goJ8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/A9LpsP0goJ8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/A9LpsP0goJ8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/A9LpsP0goJ8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with ambient crowd applause that fades into a steady, mid-tempo 4/4 rock groove. The initial instrumentation consists of clean to mildly overdriven electric guitar chords, a warm, rhythmic bassline, and a crisp drum kit playing a grounded kick-snare pattern with closed hi-hats. \n\nA male lead vocal enters during the verse, characterized by a slightly raspy, soulful tone with gentle reverb and delay processing that situates the voice prominently in the center of the stereo field. The verse maintains a moderately open texture, allowing the vocal line to carry the melody over steady bass and light guitar rhythm work. \n\nAs the arrangement moves into the pre-chorus, the dynamic energy lifts; the drums transition to open hi-hats and accenting crash cymbals while the lead vocal grows more impassioned and higher in register. This leads into an anthemic chorus where the texture dramatically expands. Heavy, wide-panned distorted rhythm guitars enter, establishing a dense wall of sound. Layered vocal harmonies and chant-like backing vocals reinforce the lead melody, giving the chorus an uplifting, stadium-scale resonance.\n\nFollowing the chorus, an instrumental section features an expressive electric guitar solo characterized by smooth pitch bends, overdriven sustain, and bluesy melodic phrasing. The song temporarily scales back in dynamics for a subsequent verse, highlighting clean guitar arpeggiations and steady percussion, before building once more through a pre-chorus into a prolonged, triumphant final chorus. \n\nThe closing section features energetic vocal ad-libs interweaving with melodic guitar fills and powerful drum fills. The dynamic intensity remains elevated until the music lands on a final sustained chord, giving way once again to audience applause and cheering as the sound naturally decays.\n\nGENRES: Pop Rock, Arena Rock, Classic Rock, Blues Rock"
+  },
+  "metadata": {
+    "youtube_id": "A9LpsP0goJ8",
+    "title_extracted": null,
+    "corpus_id": "A9LpsP0goJ8",
+    "uploader": "Bruce Springsteen",
+    "audio_file": "corpus/01_music_videos_audio/audio/A9LpsP0goJ8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10667882,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 57.758461,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:01:00Z"
+  },
+  "status": "success",
+  "error": null
+}

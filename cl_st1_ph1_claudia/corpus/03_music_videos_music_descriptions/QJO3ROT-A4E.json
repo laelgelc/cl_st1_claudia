@@ -1,0 +1,38 @@
+{
+  "corpus_id": "QJO3ROT-A4E",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/QJO3ROT-A4E.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/QJO3ROT-A4E.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/QJO3ROT-A4E.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a tranquil ambient sample of gentle ocean waves that quickly gives way to a vibrant, up-tempo pop-rock arrangement set in a standard 4/4 meter at approximately 120–125 BPM. A crisp electric guitar riff with a clean-to-crunchy tone introduces the main melodic theme, accompanied by rhythmic finger snaps and a steady kick drum.\n\nAs the verse begins, a clear male tenor lead vocal enters in the center of the stereo field, treated with mild reverb and vocal delay. The accompaniment features a buoyant, melodic bassline, tight drum kit performance with punchy snare hits on beats two and four, and rhythm guitars panned widely. The harmony remains solidly rooted in a bright major key, creating an optimistic, uplifting mood.\n\nDuring the pre-chorus, the dynamic level builds as the vocal line climbs in register and emotional energy. Snare fills and subtle mid-range synth swells build momentum, leading into an expansive, high-energy chorus. The sonic texture thickens substantially with double-tracked lead vocals, multi-layered backing harmonies, driving rhythm guitars, and active cymbal work filling out the stereo panorama.\n\nA second verse and pre-chorus follow a similar arrangement path, sustaining the energetic pace. After the second chorus, a structural transition leads into a breakdown bridge. Here, the dynamics soften as the arrangement strips back to emphasize a rhythmic bass groove, handclaps, and chanting backing vocals. \n\nThis bridge builds into the final chorus, which serves as the song's emotional and dynamic peak. High lead ad-libs, stacked harmonies, and maximum dynamic punch create a climax before the instrumentation suddenly stops, leaving the tranquil sound of rolling ocean waves to close the recording peacefully.\n\nGENRES: Pop, Pop Rock, Dance-Pop"
+  },
+  "metadata": {
+    "youtube_id": "QJO3ROT-A4E",
+    "title_extracted": null,
+    "corpus_id": "QJO3ROT-A4E",
+    "uploader": "One Direction",
+    "audio_file": "corpus/01_music_videos_audio/audio/QJO3ROT-A4E.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6607178,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.689399,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:12:14Z"
+  },
+  "status": "success",
+  "error": null
+}

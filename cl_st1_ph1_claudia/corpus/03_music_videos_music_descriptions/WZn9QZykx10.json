@@ -1,0 +1,38 @@
+{
+  "corpus_id": "WZn9QZykx10",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/WZn9QZykx10.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/WZn9QZykx10.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/WZn9QZykx10.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The performance opens with a solo musician blowing brief, isolated notes on a neck-mounted harmonica in a live acoustic space. At approximately 0:19, a steel-string acoustic guitar enters, establishing a steady, mid-tempo strumming pattern in a 4/4 meter at roughly 80 BPM. The harmonica then re-enters to play a melodic, reedy refrain over the guitar rhythm, establishing a warm, intimate, acoustic folk-rock texture.\n\nAt 0:54, a solo male lead vocal enters in the center of the soundstage. The singing timbre is intimate, expressive, and slightly raspy with a nasal edge, delivering a straightforward melodic line above the rhythm guitar. The arrangement remains minimalist and transparent throughout, relying strictly on the interplay between the strummed guitar, lead voice, and harmonica accents. The harmony relies on familiar, diatonic folk progressions in a major tonality.\n\nShort harmonica phrases serve as instrumental interludes between vocal sections, providing melodic contrast. Around 2:38, the performer transitions into a central harmonica solo, playing expressive, vibrato-laden lead lines over the continuous, steady acoustic guitar strumming. \n\nIn the final section around 2:57, the vocal returns to deliver a repeating refrain with subtle dynamic intensity before bringing the song to a close. The piece resolves on a final sustained acoustic guitar chord paired with a last, quiet harmonica tone. As the instrument resonance fades at 3:26, audience applause erupts, highlighting the natural room acoustics and live performance setting. The production style is direct, organic, and unpolished, featuring minimal stereo spatial processing and natural ambient reverb.\n\nGENRES: Folk, Folk Rock, Acoustic, Singer-Songwriter, Country Rock"
+  },
+  "metadata": {
+    "youtube_id": "WZn9QZykx10",
+    "title_extracted": null,
+    "corpus_id": "WZn9QZykx10",
+    "uploader": "neilyoungchannel",
+    "audio_file": "corpus/01_music_videos_audio/audio/WZn9QZykx10.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7132506,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.016828,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:37:38Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "nZXRV4MezEw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nZXRV4MezEw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/nZXRV4MezEw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/nZXRV4MezEw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a spacious, atmospheric intro featuring ambient synth pads, swelling sound effects, and filtered vocal chops that create a sense of anticipation. At around 00:15, an upbeat 4/4 dance groove enters, driven by a punchy four-on-the-floor kick drum, crisp hi-hats, rhythmic electronic snare claps, and a pulsing synth bassline. Bright synth chords and arpeggiated plucks fill out the mid-range texture.\n\nA solo female lead vocal enters at 00:30, characterized by pronounced pitch-correction and vocoder processing, giving it a distinctive digital yet emotive timbre. The verse maintains a steady, driving groove with stereo panning and space provided by subtle reverb on the vocal line. As the track progresses into the main chorus at 00:59, the dynamic energy escalates with full electronic drum instrumentation, expanded synth harmonies, and prominent vocal hooks supported by layered vocoded harmonies.\n\nThe second verse at 01:28 maintains this momentum, anchored by rhythmic synth plucks and steady percussion. At 01:57, the chorus recurs at full volume, supported by thick synth pads, vibrant percussion, and dynamic stereo delays on vocal hits. The track transitions into a bridge section at 02:26, where the beat shifts to emphasize offbeat synth basslines, accompanied by expressive belted vocal phrases and ad-libs that build emotional tension.\n\nAt 02:54, the chorus returns for a final, euphoric climax featuring dense synth textures, driving kick drums, and energetic vocal hooks. The music continues with repeating vocal hooks and synth patterns over the steady dance beat, gradually fading out towards the conclusion. Throughout, the production exhibits a polished dance-pop aesthetic with a bright, crisp timbre, clear dynamic transitions between sections, and an uplifting mood.\n\nGENRES: Eurodance, Dance-Pop, Synth-Pop, Electronic"
+  },
+  "metadata": {
+    "youtube_id": "nZXRV4MezEw",
+    "title_extracted": null,
+    "corpus_id": "nZXRV4MezEw",
+    "uploader": "Cher",
+    "audio_file": "corpus/01_music_videos_audio/audio/nZXRV4MezEw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7570898,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.287236,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:45:17Z"
+  },
+  "status": "success",
+  "error": null
+}

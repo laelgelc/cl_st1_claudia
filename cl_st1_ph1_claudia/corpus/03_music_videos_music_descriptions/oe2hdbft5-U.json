@@ -1,0 +1,38 @@
+{
+  "corpus_id": "oe2hdbft5-U",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oe2hdbft5-U.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/oe2hdbft5-U.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/oe2hdbft5-U.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is a mid-tempo reggae track set in a standard 4/4 meter, featuring a classic \"one-drop\" rhythm section comprising electric bass, drums, offbeat rhythm electric guitars, organ, percussive elements like shaker and cabasa, and a lead male vocalist supported by harmony backing vocals. \n\nThe track opens directly with a chorus refrain, where the lead vocalist delivers a soulful, melodic phrase over an established offbeat guitar skank, a prominent syncopated bassline, and rimshot-heavy drumming. Bright organ chording accents the offbeats while crisp percussion adds rhythmic texture across the stereo field. \n\nFollowing the intro chorus, the music transitions smoothly into the first verse. Here, the arrangement thins slightly, allowing the lead voice and bassline to take prominence while the rhythm guitar continues its precise offbeat accentuation. The lead vocal performance exhibits a relaxed yet assertive delivery, enhanced by stereo delay repeats and moderate reverb that lend spatial depth.\n\nSubsequent sections alternate between verses and recurring choruses. During the choruses, multi-part vocal harmonies join the lead singer, creating a richer, fuller sonic texture. The bassline remains melodic and driving throughout, providing a strong harmonic foundation in a minor-key tonal framework. \n\nAs the arrangement progresses through further verse and chorus cycles, subtle instrumental fills—such as bluesy electric guitar licks and organ embellishments—punctuate the vocal phrases. The tempo remains consistently steady, maintaining an infectious, laid-back reggae groove with balanced dynamics and a warm, analog-style mixing aesthetic.\n\nThe final section serves as an extended outro, featuring dynamic instrumental interaction between the rhythm section, organ chops, and melodic guitar solos while the lead vocalist repeats improvised phrases. The mix gradually fades out, preserving the relaxed energy until the track closes.\n\nGENRES: Reggae, Roots Reggae, Ska, Dub"
+  },
+  "metadata": {
+    "youtube_id": "oe2hdbft5-U",
+    "title_extracted": null,
+    "corpus_id": "oe2hdbft5-U",
+    "uploader": "Bob Marley",
+    "audio_file": "corpus/01_music_videos_audio/audio/oe2hdbft5-U.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8994560,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 34.242438,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:46:21Z"
+  },
+  "status": "success",
+  "error": null
+}

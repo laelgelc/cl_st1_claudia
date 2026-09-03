@@ -1,0 +1,38 @@
+{
+  "corpus_id": "s0aIjyX7vwI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/s0aIjyX7vwI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/s0aIjyX7vwI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/s0aIjyX7vwI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a moderate-tempo blues shuffle in a 12/8 triplet feel. The intro (0:00–0:17) features a fingerpicked acoustic guitar establishing the rhythmic foundation on the left side of the stereo field, paired with a warm, overdriven electric guitar playing bluesy lead fills with subtle room reverb and pitch bends on the right. A warm electric bass enters beneath, providing low-end harmonic support. \n\nAt 0:17, a gritty, expressive male lead vocal enters centrally, delivering a raw, soulful blues performance enhanced by light room reverb and slapback echo. The texture remains open and organic, built upon the call-and-response dynamic between the lead vocal phrases and answering electric guitar fills. The dynamics are medium-soft, maintaining an intimate, late-night atmosphere throughout Verse 1.\n\nThe second verse (0:57–1:37) continues the established blues progression without a dramatic shift in dynamic level. The acoustic guitar keeps a steady rhythmic pulse while the electric guitar's fills become slightly more frequent, weaving around the vocal line with sustained overdriven tones and expressive vibrato. \n\nAt 1:37, an instrumental break begins as the vocal pauses. The lead electric guitar takes prominence, delivering a blues solo characterized by vocal-like string bends, slide-like inflections, and rich harmonic overtones. The bass and acoustic guitar maintain the underlying shuffle rhythm, providing a steady harmonic bed.\n\nThe lead vocal re-enters at 1:57 for a third verse, raising the emotional intensity with a raspier tone and stronger vocal delivery. The accompanying instruments match this energy with slightly punchier acoustic strums and bolder electric guitar responses. Around 2:35, the vocal finishes its final phrase, and the track transitions into a brief outro where the electric guitar plays a final descending blues phrase over an acoustic guitar cadence, resolving smoothly to a soft, lingering finish.\n\nGENRES: Blues, Acoustic Blues, Delta Blues, Country Blues, Electric Blues"
+  },
+  "metadata": {
+    "youtube_id": "s0aIjyX7vwI",
+    "title_extracted": null,
+    "corpus_id": "s0aIjyX7vwI",
+    "uploader": "buckinny",
+    "audio_file": "corpus/01_music_videos_audio/audio/s0aIjyX7vwI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5342526,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.67279,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:01:08Z"
+  },
+  "status": "success",
+  "error": null
+}

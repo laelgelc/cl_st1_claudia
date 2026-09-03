@@ -1,0 +1,38 @@
+{
+  "corpus_id": "FIXIsYWS8CA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/FIXIsYWS8CA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/FIXIsYWS8CA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/FIXIsYWS8CA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is an upbeat, high-energy post-punk and new wave rock piece set in a fast four-four meter with a driving tempo around 160 BPM. The track opens with a catchy, syncopated electric guitar riff using a bright, mildly overdriven tone. Drums swiftly enter with a punchy snare backbeat and crisp hi-hats, joined by a persistent, driving bassline and wide rhythm guitars that establish a full, energetic texture.\n\nA female lead vocalist enters with an assertive, playful delivery, positioned centrally in the stereo field with light reverb and subtle slapback delay. During the verses, the groove is propelled by driving eighth-note basslines, rhythmic guitar stabs, and punchy drum fills. In the transitional and chorus sections, the texture expands with sustained guitar chords, accenting cymbal crashes, and melodic vocal phrases that heighten the dynamic intensity. The stereo mix features double-tracked rhythm guitars panned wide to the left and right, creating a spacious soundstage around the centered lead vocal, bass, and drums.\n\nNear the middle of the track, an electric guitar solo emerges, featuring a bright, biting tone with expressive pitch bends and fluent melodic phrasing over the steadfast rhythm section. Following the solo, the vocalist returns with altered melodic inflections and an increasingly energetic cadence. A brief breakdown section highlights syncopated drum patterns and rhythmic spoken-word vocal delivery, building tension before launching into a triumphant final section. The song culminates in a high-energy outro driven by repeating vocal refrains, layered call-and-response backing vocals, energetic drum fills, and crashing cymbals before coming to a sudden resolution.\n\nThe overall atmosphere is driving, aggressive, and catchy, characterized by bright timbres, crisp percussion, biting guitar distortion, and an urgent, rebellious emotional tone.\n\nGENRES: New Wave, Post-Punk, Power Pop, Pop Rock"
+  },
+  "metadata": {
+    "youtube_id": "FIXIsYWS8CA",
+    "title_extracted": null,
+    "corpus_id": "FIXIsYWS8CA",
+    "uploader": "TopPop",
+    "audio_file": "corpus/01_music_videos_audio/audio/FIXIsYWS8CA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6719376,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.62766,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:37:18Z"
+  },
+  "status": "success",
+  "error": null
+}

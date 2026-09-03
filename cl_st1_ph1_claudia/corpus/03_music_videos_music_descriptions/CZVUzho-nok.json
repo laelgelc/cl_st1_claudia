@@ -1,0 +1,38 @@
+{
+  "corpus_id": "CZVUzho-nok",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CZVUzho-nok.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/CZVUzho-nok.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/CZVUzho-nok.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with an upbeat, high-energy introduction in a 4/4 meter driven by a bright brass section playing a syncopated melodic motif. The rhythm section features a classic four-on-the-floor drum groove with crisp open hi-hat accents and snare snaps, accompanied by an active electric bassline, clean strummed rhythm guitar, and subtle keyboard or organ comping. The tempo is brisk and danceable, establishing an exuberant disco-pop feel.\n\nAt 00:16, an expressive female lead vocal enters for the first verse, featuring a warm, clear chest tone with light ambient reverb. The arrangement recedes slightly to create space for the vocal narrative, sustained primarily by the driving bass, steady drum kit, and muted rhythm guitar chugs, punctuated by melodic brass responses between vocal phrases. The harmony rests on a straightforward, uplifting major-key progression.\n\nAt 00:48, the piece lifts dynamically into the chorus. Harmonized female backing vocals join the lead across a wide stereo field, singing a prominent hook in response to the lead line. The brass section plays punchy, syncopated accents on the offbeats, while the bassline becomes more syncopated and energetic.\n\nA shorter second verse appears at 01:24, returning to the leaner drum-and-bass-driven accompaniment before seamlessly transitioning back into the chorus at 01:40. The texture remains dense and layered, characterized by driving percussion, wide stereo backing vocals, and punchy horn arrangements. \n\nFrom approximately 02:10 until the end, the track transitions into a repeating chorus outro vamp. The lead vocalist shifts to energetic ad-libbing and high-register vocal embellishments over the continuous backing vocal refrain. The vibrant dynamic level and active rhythm section groove persist until the audio gradually fades out.\n\nGENRES: Disco, Pop, Soul, Funk"
+  },
+  "metadata": {
+    "youtube_id": "CZVUzho-nok",
+    "title_extracted": null,
+    "corpus_id": "CZVUzho-nok",
+    "uploader": "Mystic Plug Records II",
+    "audio_file": "corpus/01_music_videos_audio/audio/CZVUzho-nok.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5614478,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.516005,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:35:33Z"
+  },
+  "status": "success",
+  "error": null
+}

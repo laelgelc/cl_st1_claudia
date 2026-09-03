@@ -1,0 +1,38 @@
+{
+  "corpus_id": "iP6XpLQM2Cs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/iP6XpLQM2Cs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/iP6XpLQM2Cs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/iP6XpLQM2Cs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a brief, serene ambient sound effect of birds chirping outdoors, which is abruptly interrupted around 0:02 by a heavy, pitch-glitched low-frequency impact and stuttered vocal edits. At 0:10, an energetic electronic pop groove commences in a brisk four-four meter. The rhythmic foundation consists of a punchy synthetic kick drum, crisp electronic hi-hats, snappy claps, and a pumping, side-chained synth bassline. A bright, processed female lead vocal enters with a fast, rhythmic delivery, treated with subtle spatial reverb and tight pitch correction.\n\nAt 0:26, the section transitions into a pre-chorus where the arrangement thickens with syncopated synth arpeggios, additional vocal chop responses, and rising percussion fills. A micro-break with pitch-bend and tape-stop glitch effects at 0:41 propels the track into the main chorus at 0:42. Here, the dynamic intensity peaks with a full four-on-the-floor beat, saturated synth lead hooks, and wide, multi-tracked vocal harmonies creating a dense, uplifting texture.\n\nA second verse and pre-chorus section (1:15–1:45) maintain the driving tempo, featuring subtle variations in synth countermelodies and vocal phrasing. At 2:19, the groove strips back into an emotive bridge section. The driving percussion drops out, making way for atmospheric, lush synth pads and a melodic, expressive lead vocal performance. Synthetic risers, rolling electronic snares, and soaring vocal belts create a dramatic buildup, resolving at 2:51 into a final, high-energy chorus featuring full-spectrum instrumentation and maximum dynamic power.\n\nAt 3:27, the electronic music abruptly cuts off, revealing an ambient outdoor field recording of a bustling street scene with background chatter and a street vendor shouting until the audio ends.\n\nGENRES: dance-pop, electropop, pop"
+  },
+  "metadata": {
+    "youtube_id": "iP6XpLQM2Cs",
+    "title_extracted": null,
+    "corpus_id": "iP6XpLQM2Cs",
+    "uploader": "kesha",
+    "audio_file": "corpus/01_music_videos_audio/audio/iP6XpLQM2Cs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6908850,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.682127,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:49:02Z"
+  },
+  "status": "success",
+  "error": null
+}

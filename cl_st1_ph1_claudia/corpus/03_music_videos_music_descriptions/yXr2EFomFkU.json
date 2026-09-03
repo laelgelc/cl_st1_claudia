@@ -1,0 +1,38 @@
+{
+  "corpus_id": "yXr2EFomFkU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yXr2EFomFkU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/yXr2EFomFkU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/yXr2EFomFkU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is an intimate, acoustic folk performance featuring a solo lead female vocal accompanied solely by a warm, resonant acoustic guitar in a relaxed 4/4 meter. \n\nThe piece opens with a brief solo acoustic guitar introduction, characterized by steady fingerpicking and soft strumming that establishes a reflective, major-key harmonic foundation. At 0:11, the lead female singer enters with a clear, conversational tone. Her vocal delivery is direct and emotive, processed with a light touch of ambient room reverb that gives the performance a natural, room-like spatial depth while keeping the voice upfront and intimate. \n\nThe structural progression follows a traditional verse-refrain song structure. Brief instrumental interludes around 1:10 and 2:20 allow the acoustic guitar to lead, featuring delicate chordal phrasing and steady rhythmic strumming. The dynamic level remains largely subdued and gentle, though subtle swells occur as the vocal phrasing lifts emotionally during the recurring refrain passages. \n\nThroughout the recording, the texture remains completely unvarnished and sparse, defined entirely by the two musical elements. The guitar is panned with a warm stereo spread that encapsulates the listener, providing a rich woody timbre and rhythmic grounding, while the vocal stays firmly anchored in the center of the stereo image. \n\nStarting around 3:32, the music moves into a final refrain and extended outro. The vocalist delivers a final thematic reprise before stepping back, leaving the acoustic guitar to play out the concluding chord progression. The track ends as a final acoustic guitar chord softly decays into quietness near 4:30. The overall mood is deeply nostalgic, poignant, and tranquil.\n\nGENRES: Folk, Singer-Songwriter, Acoustic Folk"
+  },
+  "metadata": {
+    "youtube_id": "yXr2EFomFkU",
+    "title_extracted": null,
+    "corpus_id": "yXr2EFomFkU",
+    "uploader": "Joni Mitchell",
+    "audio_file": "corpus/01_music_videos_audio/audio/yXr2EFomFkU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8773134,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 107.881531,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:14:30Z"
+  },
+  "status": "success",
+  "error": null
+}

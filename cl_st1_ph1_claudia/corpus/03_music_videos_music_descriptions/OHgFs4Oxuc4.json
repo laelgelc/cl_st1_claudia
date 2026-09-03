@@ -1,0 +1,38 @@
+{
+  "corpus_id": "OHgFs4Oxuc4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/OHgFs4Oxuc4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/OHgFs4Oxuc4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/OHgFs4Oxuc4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is a fast-paced, high-energy jump blues and early rhythm and blues track set in a driving 4/4 swing shuffle meter. It features a charismatic lead male vocalist whose singing style is gritty, bluesy, and highly expressive, supported by a full rhythm section, tenor saxophone, piano, and backing vocal ensemble. \n\nThe track opens with a brief instrumental pickup that establishes a walking double bass line, a swinging drum shuffle featuring prominent ride cymbal and crisp snare backbeats, and rhythmic electric guitar comping. The lead vocalist enters immediately, delivering energetic phrasing that leads into a refrain marked by upbeat, call-and-response backing vocal harmonies. Boogie-woogie style acoustic piano accents populate the high register, providing extra harmonic texture alongside the comping guitar.\n\nHarmonically, the composition follows a classic major-key blues progression. The dynamic level remains consistently intense and danceable throughout, propelled by the steady, resonant walking bass and tight drum groove. \n\nNear the middle of the performance, an instrumental solo section highlights a raspy, honking tenor saxophone that plays expressive, blues-inflected melodic lines over the churning rhythm section. This seamlessly hands off to a lively electric guitar solo featuring twangy, slightly overdriven vintage tube amplification, blues bends, and rhythmic double-stops. \n\nFollowing the solos, the lead vocalist returns for another narrative verse before launching into an extended final refrain. The backing vocal group engages in increasingly dense call-and-response patterns, driving the emotional and dynamic energy higher as the rhythm section maintains its relentless bounce. The track closes with a dramatic full-band unison stop on the final cadence.\n\nThe production reflects a vintage mid-20th-century recording style, characterised by a narrow stereo field, warm mid-range saturation, subtle ambient room reverb, and balanced analog compression. The overall mood is exuberant, celebratory, and rhythmically infectious.\n\nGENRES: Jump Blues, Rhythm & Blues, Swing, Early Rock & Roll"
+  },
+  "metadata": {
+    "youtube_id": "OHgFs4Oxuc4",
+    "title_extracted": null,
+    "corpus_id": "OHgFs4Oxuc4",
+    "uploader": "TheRocknRolllChannel",
+    "audio_file": "corpus/01_music_videos_audio/audio/OHgFs4Oxuc4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5650144,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.582483,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:52:06Z"
+  },
+  "status": "success",
+  "error": null
+}

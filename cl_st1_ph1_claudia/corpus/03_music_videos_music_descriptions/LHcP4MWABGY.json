@@ -1,0 +1,38 @@
+{
+  "corpus_id": "LHcP4MWABGY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/LHcP4MWABGY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/LHcP4MWABGY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/LHcP4MWABGY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an atmospheric soundscape composed of faint, bird-like whistling sounds, ambient wind textures, and a rhythmic drumstick count-in. A steady 4/4 meter is established at a driving mid-tempo as the full ensemble enters. The arrangement features a punchy drum kit with a prominent snare and crisp hi-hats, a thick, propulsive bass guitar delivering persistent eighth-note patterns, and an electric guitar heavily treated with a rhythmic delay effect, producing a shimmering stereo field.\n\nA male lead vocal enters during the verse, delivered with a warm, resonant timbre enhanced by moderate reverb and temporal delay. The melodic line is introspective yet forceful, supported by a grounded harmonic progression. \n\nThe dynamics surge dramatically as the song transitions into the chorus. The lead vocal ascends into a belted upper register, conveying an impassioned, anthemic quality. Multi-tracked backing vocals join in wide stereo separation, providing harmonized call-and-response vocal chants. The delayed guitar textures expand further, filling the mix with rich harmonic reverberation.\n\nThe structure alternates between tighter, rhythmic verses and soaring, high-energy choruses. Following the second chorus, an instrumental section features a melodic guitar solo that emphasizes sustained notes and rhythmic delay echoes over an energetic rhythm section. Wordless lead vocalizations enter to build emotional momentum into a final verse and an extended, climactic chorus.\n\nThe production style is spacious and polished, characterized by high dynamic contrast, stereo delay diffusion, and ambient reverb. The overall mood is triumphant and emotionally resonant, driven by the persistent, hypnotic groove that gradually resolves into the track's atmospheric conclusion.\n\nGENRES: Alternative Rock, Post-Punk, Arena Rock, New Wave"
+  },
+  "metadata": {
+    "youtube_id": "LHcP4MWABGY",
+    "title_extracted": null,
+    "corpus_id": "LHcP4MWABGY",
+    "uploader": "U2",
+    "audio_file": "corpus/01_music_videos_audio/audio/LHcP4MWABGY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7894862,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.792044,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:10:04Z"
+  },
+  "status": "success",
+  "error": null
+}

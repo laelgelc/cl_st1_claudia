@@ -1,0 +1,38 @@
+{
+  "corpus_id": "_7hAabfP8Ug",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/_7hAabfP8Ug.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/_7hAabfP8Ug.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/_7hAabfP8Ug.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "An upbeat funk and soul groove in 4/4 meter drives this track at a brisk, danceable tempo. The arrangement is anchored by a persistent rhythm section featuring a punchy, highly syncopated electric bassline and a steady drum kit delivering a tight backbeat on the snare alongside energetic hi-hat patterns. Bright electric rhythm guitar plays syncopated chordal chops and rhythmic muted strums, creating a dense, buoyant, and infectious rhythm texture. The mood is confident, smooth, and vibrant, maintaining a consistently medium-high dynamic level throughout.\n\nThe vocal arrangement relies on a soulful male lead singer positioned centrally in the stereo mix. His expressive, melodic lines are frequently answered by layered, smooth group backing vocals that provide polished harmonic call-and-response refrains panned broadly across the stereo field. The harmonic backdrop is tonal and major-key oriented, supported by warm keyboard chords and subtle synth or brass fills that accentuate phrase endings. \n\nThe clip opens directly with the vocal-driven section, where lead and backing vocals alternate over the driving funk groove. A brief transition featuring a melodic guitar lick leads into a second vocal verse around 0:47, maintaining the energetic dynamic and tight groove. At approximately 1:11, the song transitions into a featured instrumental section as a heavily distorted, fuzz-laden electric guitar enters with a soaring, expressive solo. The guitar features long, sustained tones, expressive bends, and vibrant vibrato, taking over the thematic focus above the continuous, uninterrupted funk rhythm section until the recording ends. The production reflects a warm analog aesthetic, characterized by balanced stereo separation, subtle reverb on the vocals, and punchy, well-defined low end.\n\nGENRES: Funk, Soul, Disco, R&B"
+  },
+  "metadata": {
+    "youtube_id": "_7hAabfP8Ug",
+    "title_extracted": null,
+    "corpus_id": "_7hAabfP8Ug",
+    "uploader": "ss228com",
+    "audio_file": "corpus/01_music_videos_audio/audio/_7hAabfP8Ug.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 2990808,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 6.482772,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:34:25Z"
+  },
+  "status": "success",
+  "error": null
+}

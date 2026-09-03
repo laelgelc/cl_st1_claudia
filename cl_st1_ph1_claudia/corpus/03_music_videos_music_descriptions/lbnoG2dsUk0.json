@@ -1,0 +1,38 @@
+{
+  "corpus_id": "lbnoG2dsUk0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/lbnoG2dsUk0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/lbnoG2dsUk0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/lbnoG2dsUk0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a vintage soundscape composed of analogue sound effects, including an elevator chime, mechanical movement, tape deck clicks, and vinyl noise, alongside a distant, filtered melodic snippet. At 0:21, a soulful R&B and hip-hop beat drops in a 4/4 meter at a steady mid-tempo of approximately 85 BPM. The groove is driven by a punchy kick drum, a snappy snare accenting the second and fourth beats, crisp syncopated hi-hats, and a warm, deep bassline. A smooth electric piano plays lush, minor-key chord progressions, establishing a nostalgic, reflective harmonic atmosphere.\n\nA smooth, expressive male lead vocal enters at 0:48, characterized by an intimate, close-mic delivery with subtle reverb and clear central panning. During the chorus sections at 1:15 and 2:09, the texture becomes richer as multi-tracked backing vocal harmonies spread across the stereo field, accompanied by impassioned vocal ad-libs. The song structure follows a classic verse-chorus arrangement, with subtle dynamic build-ups into the choruses driven by vocal layering and intensified melodic phrasing.\n\nA persistent surface vinyl crackle runs throughout the production, reinforcing a vintage lo-fi aesthetic. The mix features a focused center channel for the kick, snare, bass, and lead vocals, while the electric piano and lush vocal harmonies occupy the wider stereo field. The overall emotional tone is smooth, intimate, and relaxed. Following a final, highly expressive chorus and outro starting around 3:15, a record-scratch effect and tape stop occur at 4:25, dissolving the musical elements back into the ambient vinyl crackle and mechanical noises from the introduction before fading out completely.\n\nGENRES: R&B, Hip Hop, Neo Soul, Lo-Fi R&B"
+  },
+  "metadata": {
+    "youtube_id": "lbnoG2dsUk0",
+    "title_extracted": null,
+    "corpus_id": "lbnoG2dsUk0",
+    "uploader": "GinuwineVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/lbnoG2dsUk0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8761988,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.91267,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:26:38Z"
+  },
+  "status": "success",
+  "error": null
+}

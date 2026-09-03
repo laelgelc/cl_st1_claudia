@@ -1,0 +1,38 @@
+{
+  "corpus_id": "U2waT9TxPU0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/U2waT9TxPU0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/U2waT9TxPU0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/U2waT9TxPU0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is an upbeat, mid-to-fast tempo urban dance-pop track set in a steady four-on-the-floor 4/4 meter. The piece opens with rhythmic DJ turntable scratching effects, ambient vocal ad-libs, and a distinctive syncopated synth hook reminiscent of a brass or accordion timbre. A heavy, punchy kick drum drops alongside a crisp snare-clap, deep sub-bass synth, and rapid electronic hi-hats, establishing an energetic, club-oriented groove.\n\nThroughout the arrangement, the texture alternates between melodic chorus sections and rhythmic rap verses. The chorus sections highlight the central syncopated synth lead line, layered over a dense, highly compressed beat. The verses feature a slightly more streamlined accompaniment, allowing the vocal delivery to take center stage over a pulsing bassline, steady electronic percussion, and occasional synth accents.\n\nThe primary vocals are male, characterized by heavy pitch-correction and autotune processing. In the chorus, the lead vocal is doubled with harmonized layers, while the verse sections display a fast, rhythmic, half-sung rap delivery. Vocal production includes subtle stereo delays, short reverb tails, and occasional vocal chops and ad-lib fills panned across the stereo field.\n\nHarmonically, the track relies on a short, repeating minor-key chord loop that persists continuously underneath the vocal melodies and rap cadences. The overall dynamics remain consistently loud and driving, with subtle builds created by adding percussive fills, synth flourishes, and vocal layering at section transitions. The production style is clean and modern, featuring a wide stereo image with heavy bass centered and percussive elements, synths, and vocal effects spread across the left and right channels. The song concludes abruptly after a final chorus hook with a brief spoken vocal callout and a short decay trail.\n\nGENRES: hip-hop, r&b, pop, dance-pop"
+  },
+  "metadata": {
+    "youtube_id": "U2waT9TxPU0",
+    "title_extracted": null,
+    "corpus_id": "U2waT9TxPU0",
+    "uploader": "Flo Rida",
+    "audio_file": "corpus/01_music_videos_audio/audio/U2waT9TxPU0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7388110,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.203456,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:56:09Z"
+  },
+  "status": "success",
+  "error": null
+}

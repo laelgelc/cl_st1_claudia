@@ -1,0 +1,38 @@
+{
+  "corpus_id": "HIWY8UyW9bw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/HIWY8UyW9bw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/HIWY8UyW9bw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/HIWY8UyW9bw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a brief, solo percussive count-in consisting of crisp handclaps or snare-rim taps setting a fast, upbeat tempo in 4/4 meter. At 0:03, the full ensemble enters abruptly into a driving, high-energy groove. The instrumentation comprises a tight drum kit delivering a punchy shuffle rhythm with a strong snare backbeat, an active walking bassline, strummed acoustic rhythm guitar, and an electric guitar playing bright, clean rhythm chords and brief bluesy fills.\n\nA male lead vocal enters alongside the main groove, displaying an energetic, soulful delivery marked by expressive pitch bends, subtle vocal rasp, and dynamic intensity. The vocal track is processed with a prominent slapback delay and moderate hall reverb, giving the production an authentic vintage rock-and-roll spatial character. \n\nHarmonically, the track relies on a classic major-key blues-pop progression. The song structure alternates between a driving main refrain and a slightly contrasting verse section introduced at 0:31, where the harmonic movement leans on subdominant and dominant chords before resolving back to the tonic at 0:47. This cycle repeats, maintaining a consistent tempo of approximately 135 BPM with an unyielding boogie-influenced feel.\n\nIn terms of mix architecture and stereo image, the lead vocal, bass, and drums are positioned near the center, providing a solid low-end foundation. The acoustic rhythm guitar and clean electric guitar are spread across the left and right channels, creating a wide, balanced acoustic soundstage. At 1:34, the texture thickens during the outro section as multi-part backing vocals enter, singing sustained, warm \"ah\" vocal harmonies that overlay the rhythm section. The performance reaches a peak in volume and texture before resolving on a decisive, ringing final instrumental hit at 1:49. The overall mood is vibrant, joyful, and highly kinetic.\n\nGENRES: Rockabilly, Rock and Roll, Country Rock, Rhythm and Blues, Blue-Eyed Soul"
+  },
+  "metadata": {
+    "youtube_id": "HIWY8UyW9bw",
+    "title_extracted": null,
+    "corpus_id": "HIWY8UyW9bw",
+    "uploader": "vinylsolution",
+    "audio_file": "corpus/01_music_videos_audio/audio/HIWY8UyW9bw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3590440,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 9.323646,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T20:30:08Z"
+  },
+  "status": "success",
+  "error": null
+}

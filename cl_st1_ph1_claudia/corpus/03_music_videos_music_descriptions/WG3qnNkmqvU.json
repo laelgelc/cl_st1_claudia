@@ -1,0 +1,38 @@
+{
+  "corpus_id": "WG3qnNkmqvU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/WG3qnNkmqvU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/WG3qnNkmqvU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/WG3qnNkmqvU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an unpolished, conversational dialogue between several male speakers set in a dry acoustic space without background music. At 0:29, a smooth, mid-tempo hip-hop groove abruptly enters in a laid-back 4/4 meter. The instrumental arrangement is rich and soul-infused, featuring a warm, melodic bass line, crisp drum machine rhythms with a punchy kick drum and snapping snare accents, warm electric guitar chord strums, and lush, vintage-style string and organ pads.\n\nThe first section features a dynamic, rapid-fire male rap vocal centered in the mix, accompanied by subtle panned double vocals and ad-libs. The vocal delivery is energetic and syncopated against the steady beat. At 1:43, a second male vocalist takes over, presenting a lower-pitched, grounded cadence while maintaining the driving rhythm. The production style throughout maintains a polished stereo image, with drums and main vocals placed centrally, while harmonic elements like guitars and ambient pads are spread wide across the stereo spectrum.\n\nA major structural shift occurs around 2:20 as the track transitions into a soulful, melodic chorus. Here, expressive, high-pitched sung vocals—reminiscent of classic R&B—take center stage, coated in light reverb and subtle delay effects. At 2:34, a third male vocal verse enters with a relaxed yet authoritative flow, blending seamlessly with the underlying funk and soul-inspired instrumental loops.\n\nThe melodic chorus returns at 3:34, building a warmer, denser vocal texture through layered harmonies and emotive lead embellishments. The mood remains reflective, celebratory, and smoothly groove-oriented from beginning to end. As the piece approaches its conclusion around 4:24, the full instrumental and vocal layers gradually fade out, bringing the track to a gentle close.\n\nGENRES: Hip-Hop, Southern Hip-Hop, Soul, R&B"
+  },
+  "metadata": {
+    "youtube_id": "WG3qnNkmqvU",
+    "title_extracted": null,
+    "corpus_id": "WG3qnNkmqvU",
+    "uploader": "UGKVideoVault",
+    "audio_file": "corpus/01_music_videos_audio/audio/WG3qnNkmqvU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9217472,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.062385,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:54:02Z"
+  },
+  "status": "success",
+  "error": null
+}

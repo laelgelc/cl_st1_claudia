@@ -1,0 +1,38 @@
+{
+  "corpus_id": "0IUV-QxwlRM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/0IUV-QxwlRM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/0IUV-QxwlRM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/0IUV-QxwlRM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens abruptly in a fast 4/4 tempo with a lively, upbeat rockabilly shuffle groove driven by a sharp acoustic or lightly amplified electric rhythm guitar, percussive slap-upright bass, and a steady, rhythmic drum kit featuring prominent snare backbeats. A lead male vocalist delivers energetic, expressive lines with vintage vocal mannerisms such as playful pitch swoops and rhythmic hiccups, enhanced by a subtle slapback delay effect. Male backing vocals frequently enter to provide call-and-response backing accents, rhythmic interjections, and occasional unison harmonies that mirror the lead phrase endings.\n\nThe dynamic profile remains consistently elevated and full of drive. The song structure flows through energetic verse and chorus sections, punctuated by distinct instrumental transitions. At approximately 01:02, the lead vocal temporarily steps aside for a featured guitar solo. The electric guitar takes the lead position with a clean, twangy timbre, executing rapid fingerpicked runs, bend accents, and double-stop riffs over the ongoing walking bassline and crisp drum pattern. At 01:14, the lead vocal re-enters with renewed intensity for a final chorus section, flanked by echoing backing vocal responses. The track concludes with a brief vocal harmony flourish (\"ah-ah-ah\") that resolves cleanly onto a final, accented instrumental cadence.\n\nProduction-wise, the recording exhibits a warm, vintage mid-century aesthetic characterized by analogue warmth, subtle tape-style saturation, and moderate room reverberation that places the vocal and lead guitar slightly forward in the soundstage. The mix is well-balanced with a strong, punchy midrange, clear low-end presence from the slap bass, and a centered stereo image typical of classic mid-century rock recordings. The overall mood is buoyant, euphoric, and infectious, conveying a sense of youthful optimism and high-energy danceability throughout its duration.\n\nGENRES: rockabilly, rock and roll, classic rock"
+  },
+  "metadata": {
+    "youtube_id": "0IUV-QxwlRM",
+    "title_extracted": null,
+    "corpus_id": "0IUV-QxwlRM",
+    "uploader": "NicholasBeadle",
+    "audio_file": "corpus/01_music_videos_audio/audio/0IUV-QxwlRM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3639482,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 8.637481,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:17:23Z"
+  },
+  "status": "success",
+  "error": null
+}

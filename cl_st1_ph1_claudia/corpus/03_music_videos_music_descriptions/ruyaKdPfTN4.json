@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ruyaKdPfTN4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ruyaKdPfTN4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ruyaKdPfTN4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ruyaKdPfTN4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The piece opens with an intimate introduction featuring a solo acoustic guitar playing a gentle, arpeggiated fingerpicking pattern in a steady, slow-to-moderate 4/4 ballad tempo. The timbre of the guitar is warm and organic, establishing a tender and reflective mood. Shortly after, a clear male lead vocal enters with an upfront, close-miked production style, enhanced by subtle spatial reverb and gentle delay. The guitar provides an acoustic harmonic foundation grounded in accessible diatonic chord progressions.\n\nAs the track transitions into the first chorus, the acoustic guitar shifts from delicate picking to a broader, strumming pattern, accompanied by a dynamic swell and a subtle low-end percussive pulse. The vocal delivery increases in intensity, ascending into a higher, more passionate register. The arrangement thins back down for the second verse, returning to the quieter, conversational dynamic established in the opening.\n\nThe second chorus brings another rise in energy, marked by vibrant guitar strumming and expressive vocal melismas. This builds directly into a powerful bridge section, where the vocals reach their dynamic climax with sustained, resonant high notes. The stereo field opens up through lush vocal reverb tails and wide stereo acoustic guitar tracking. \n\nAfter a brief dynamic drop, the song enters its final chorus, highlighted by emotional vocal ad-libs soaring over an energetic acoustic strumming groove. At the outro, the energy gently dissipates as the lead vocal subsides into a soft, breathy whisper while the acoustic guitar reverts to quiet, sparse arpeggios echoing the introduction. The piece ends on a softly sustained final acoustic guitar chord that fades naturally into silence.\n\nGENRES: Acoustic Pop, Singer-Songwriter, Contemporary Folk, Pop Ballad"
+  },
+  "metadata": {
+    "youtube_id": "ruyaKdPfTN4",
+    "title_extracted": null,
+    "corpus_id": "ruyaKdPfTN4",
+    "uploader": "Hunter Hayes",
+    "audio_file": "corpus/01_music_videos_audio/audio/ruyaKdPfTN4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7684584,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.252561,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:02:31Z"
+  },
+  "status": "success",
+  "error": null
+}

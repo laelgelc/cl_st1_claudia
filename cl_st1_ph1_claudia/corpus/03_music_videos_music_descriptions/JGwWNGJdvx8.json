@@ -1,0 +1,38 @@
+{
+  "corpus_id": "JGwWNGJdvx8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/JGwWNGJdvx8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/JGwWNGJdvx8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/JGwWNGJdvx8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording begins with a brief rising swell that transitions into a syncopated, mid-tempo pop groove set in a steady four-four meter. The foundational musical motif features a crisp, plucked timbre reminiscent of an acoustic guitar and marimba, accompanied by light percussive snaps and subtle handclaps. At 00:16, a dry, clear male lead vocal enters, delivering a rhythmic and conversational verse melody.\n\nAs the track moves into the pre-chorus around 00:35, the arrangement expands with subtle synth undertones, additional percussive layers, and multi-tracked vocal harmonies that gradually increase the dynamic momentum. The chorus at 00:56 marks a strong dynamic lift, introducing a punchy four-on-the-floor kick drum, a warm melodic bassline, and vocal chops panned across the stereo field. The production style is polished and modern, utilizing crisp equalization, subtle spatial reverb on vocal hooks, and wide stereo panning for percussive elements.\n\nA second verse and pre-chorus cycle from 01:36 to 02:16 repeats this structural build-up, momentarily stripping back the instrumentation before re-establishing the full, energetic chorus arrangement. At 02:56, a bridge section breaks down the heavy beat, highlighting a repetitive, chant-like vocal counter-melody supported by syncopated plucks and percussion. This section seamlessly merges into the final section from 03:16 onward, where the primary chorus melody and the bridge counter-melody layer together over the driving dance-pop groove.\n\nThe music comes to a sudden halt around 03:58. From 03:58 until the end of the file at 04:23, the recording captures acoustic ambient room noise containing salient non-musical sound events, including paper rustling, page turns, and subtle bodily movements.\n\nGENRES: Dance-Pop, Tropical House, Contemporary R&B, Pop"
+  },
+  "metadata": {
+    "youtube_id": "JGwWNGJdvx8",
+    "title_extracted": null,
+    "corpus_id": "JGwWNGJdvx8",
+    "uploader": "Ed Sheeran",
+    "audio_file": "corpus/01_music_videos_audio/audio/JGwWNGJdvx8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8424650,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.897284,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:29:34Z"
+  },
+  "status": "success",
+  "error": null
+}

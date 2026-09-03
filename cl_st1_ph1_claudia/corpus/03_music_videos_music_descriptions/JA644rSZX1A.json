@@ -1,0 +1,38 @@
+{
+  "corpus_id": "JA644rSZX1A",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/JA644rSZX1A.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/JA644rSZX1A.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/JA644rSZX1A.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with subtle outdoor environmental sounds—including muted footsteps—before a solo acoustic guitar introduces a relaxed, slow 4/4 fingerpicking pattern. The guitar exhibits a warm, resonant timbre with distinct string plucks and gentle strumming. At approximately 0:05, a male lead vocalist enters, singing in a warm, dusty baritone register marked by emotional restraint and a traditional country/folk delivery. The vocal production is intimate and close-mic’d, enhanced by light, natural space reverb that maintains a raw, acoustic character.\n\nThe harmony relies on conventional major-key folk progressions played at an unhurried, steady tempo. Dynamics remain subdued and contemplative throughout, fostering a somber, nostalgic atmosphere. Around 1:08, the vocal ceases, giving way to an instrumental acoustic guitar break featuring melodic fingerstyle lead lines and syncopated fills.\n\nBeginning at 1:18, faint diegetic dialogue of a woman and child speaking about a man working in a field is layered over the guitar solo, blended with low-level environmental rustling and outdoor ambiance. This creates a distinct cinematic, story-driven soundscape.\n\nThe male vocalist re-enters at 1:40 to deliver a final short verse, accompanied by steady guitar picking, leading to a gentle acoustic cadence around 2:15. Following the final guitar chord, the music fades entirely, leaving an extended tail of diegetic environmental sound effects. Salient audio events in this closing section include splashing water, distant bird calls, a rooster crowing, and the rhythmic, crunchy footsteps of hooves and boots walking along a dirt and gravel path until the recording finishes.\n\nGENRES: country, folk, acoustic, soundtrack, acoustic blues"
+  },
+  "metadata": {
+    "youtube_id": "JA644rSZX1A",
+    "title_extracted": null,
+    "corpus_id": "JA644rSZX1A",
+    "uploader": "Willie Nelson",
+    "audio_file": "corpus/01_music_videos_audio/audio/JA644rSZX1A.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6781048,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.643918,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:36:10Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "0-EF60neguk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/0-EF60neguk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/0-EF60neguk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/0-EF60neguk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording is a slow-tempo ballad in 4/4 meter, characterized by an intimate, emotional mood and a polished production style. It opens with a delicate introduction featuring warm piano chords supported by sustained ambient string pads in a spacious stereo field with moderate reverb.\n\nA solo female lead vocal enters with an expressive tone and gentle phrasing, treated with subtle ambient reverb and stereo delay. The texture remains homophonic and sparse through the opening section, dominated by arpeggiated piano chords and low, sustained bass pads.\n\nAs the track transitions into the chorus, the dynamic level expands. A soft drum kit groove enters with gentle kick, snare, and subtle cymbal work alongside a smooth bass guitar. The lead vocal shifts into a powerful, emotive higher register, supported by warm string orchestration and subtle background vocal layering.\n\nThe musical structure alternates between quieter verse passages and expansive choruses, continuously building in emotional and dynamic intensity. An expressive, melodic electric guitar solo with a warm overdrive tone takes center stage during an instrumental break, accompanied by driving bass and rhythmic percussion. \n\nFollowing this instrumental section, the vocal returns for a dramatic bridge before launching into a climactic final section. Here, the track reaches its peak dynamic power, featuring full drum kit patterns, soaring vocal ad-libs in a high belt register, dense string arrangements, and resonant piano fills. The stereo image is wide, placing the lead vocal centrally while strings and supporting instruments spread across the soundstage. The track concludes with a gradual fade-out, where repeating vocal refrains and arpeggiated piano motifs slowly decrescendo into silence.\n\nGENRES: Pop, Soft Rock, Ballad"
+  },
+  "metadata": {
+    "youtube_id": "0-EF60neguk",
+    "title_extracted": null,
+    "corpus_id": "0-EF60neguk",
+    "uploader": "Sinéad O'Connor",
+    "audio_file": "corpus/01_music_videos_audio/audio/0-EF60neguk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9860942,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.526745,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:11:51Z"
+  },
+  "status": "success",
+  "error": null
+}

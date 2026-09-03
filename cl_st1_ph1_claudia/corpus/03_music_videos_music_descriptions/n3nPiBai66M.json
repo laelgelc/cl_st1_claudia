@@ -1,0 +1,38 @@
+{
+  "corpus_id": "n3nPiBai66M",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/n3nPiBai66M.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/n3nPiBai66M.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/n3nPiBai66M.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an energetic, driving uptempo 4/4 groove established by a punchy drum kit featuring a steady hi-hat pattern, crisp snare on beats two and four, and a prominent kick drum. A melodic, round-toned electric bass line enters immediately, establishing a buoyant yet melancholic harmonic foundation. Chorused electric guitars join, panned across the stereo field, delivering bright, shimmering arpeggios and soaring lead riffs enriched with ambient reverb and slight delay. A subtle synthesizer pad hums beneath, creating a lush, atmospheric texture.\n\nA central male lead vocal enters with an expressive, passionate delivery. The vocal signal is crisp and upfront in the mix, enhanced by moderate reverb and subtle stereo doubling that adds width during emotional peaks. The verses maintain a steady, driving momentum through continuous interplay between the rhythmic bassline, vibrant guitar riffs, and driving percussion.\n\nAs the song transitions into the chorus, the arrangement expands dynamically. Layered backing harmonies, secondary guitar countermelodies, and elevated dynamic intensity create an expansive, anthemic soundscape. A melodic lead guitar solo follows, highlighting expressive string bends and a shimmering, chorused timbre that glides through the stereo mix.\n\nA subsequent verse maintains the driving momentum before reaching the final chorus climax, where the lead vocal rises in pitch and intensity amidst dense instrumental layering. The piece concludes as the full ensemble hits a final resolving accent, allowing lingering guitar reverb tails and cymbal sustain to smoothly decay into silence. \n\nOverall, the recording features a polished late-1980s alternative production aesthetic characterized by a bright, wide stereo image, prominent chorus and reverb effects, and a nostalgic, romantic, and driving mood.\n\nGENRES: alternative rock, new wave, post-punk, indie pop, synth-pop"
+  },
+  "metadata": {
+    "youtube_id": "n3nPiBai66M",
+    "title_extracted": null,
+    "corpus_id": "n3nPiBai66M",
+    "uploader": "The Cure",
+    "audio_file": "corpus/01_music_videos_audio/audio/n3nPiBai66M.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6618322,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.154451,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:18:39Z"
+  },
+  "status": "success",
+  "error": null
+}

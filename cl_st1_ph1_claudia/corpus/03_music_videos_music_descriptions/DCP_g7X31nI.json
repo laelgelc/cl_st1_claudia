@@ -1,0 +1,38 @@
+{
+  "corpus_id": "DCP_g7X31nI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/DCP_g7X31nI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/DCP_g7X31nI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/DCP_g7X31nI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a fast-paced, rhythmic strum on an acoustic guitar, quickly joined by a pizzicato upright acoustic bass playing a driving, walking bassline in a swinging duple meter. At 0:01, an expressive male lead vocal enters, delivering playful, bluesy inflections against the acoustic arrangement. The song proceeds at a bright, uptempo pace with a driving shuffle feel, characterized by a clean, warm acoustic texture and intimate room ambience.\n\nThe harmonic structure follows a blues-based chord progression. The vocal performance is dynamic and forward in the mix, featuring subtle pitch bends, rhythmic syncopation, and bright vocal projection. The acoustic guitar provides continuous percussive strumming alongside harmonic support, while the upright bass maintains a steady two-beat and walking rhythm that propels the groove without drum accompaniment.\n\nAt 0:48, the track transitions into an instrumental break where the acoustic guitar takes center stage, performing a blues-influenced lead solo with crisp picking and melodic flourishes while the bass maintains the underlying rhythm. The lead vocal re-enters at 1:10, resuming the energetic delivery with heightened intensity. At 1:31, the vocalist shifts into improvised scatting and melodic vocalizations over the acoustic rhythm, elevating the lively, lighthearted mood.\n\nThe performance concludes around 1:50 with a concise cadence, allowing the final acoustic guitar chord and bass note to decay naturally into silence. Throughout the track, the stereo presentation remains focused near the center with a dry, direct production style, placing emphasis on authentic acoustic timbres and natural performance dynamics.\n\nGENRES: rockabilly, country, acoustic blues, folk"
+  },
+  "metadata": {
+    "youtube_id": "DCP_g7X31nI",
+    "title_extracted": null,
+    "corpus_id": "DCP_g7X31nI",
+    "uploader": "Elvis Presley",
+    "audio_file": "corpus/01_music_videos_audio/audio/DCP_g7X31nI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3774714,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 9.641173,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:29:32Z"
+  },
+  "status": "success",
+  "error": null
+}

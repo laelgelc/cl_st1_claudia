@@ -1,0 +1,38 @@
+{
+  "corpus_id": "apBWI6xrbLY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/apBWI6xrbLY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/apBWI6xrbLY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/apBWI6xrbLY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens in a mid-tempo 4/4 time signature with acoustic guitar strumming and a warm, intimate lead male vocal. A smooth electric bassline, subtle organ pads, and gentle percussion—including shaker and soft rimshots—provide a relaxed rhythmic foundation. At 0:13, high falsetto vocal accents and soft brass swells expand the harmonic texture, establishing a nostalgic, soulful atmosphere.\n\nAt 0:25, the dynamic level rises into an energetic chorus as the full drum kit enters with a lively backbeat. Syncopated electric bass, vibrant horn section punches, and dense multi-part backing vocal harmonies spread across the stereo panorama create a rich, full-bodied texture. The lead vocal becomes more expressive and dynamic, riding over the bouncy rhythm section.\n\nThe second verse at 0:51 lowers the dynamic intensity, returning to the core acoustic guitar, steady bass, and soft lead vocal. Subtle slide-guitar embellishments and sustained organ chords fill the background. At 1:16, the music surges back into the full-ensemble chorus, reinstating the energetic drums, brass accents, and choir-like backing vocals.\n\nA transition at 1:41 leads into a groove-focused bridge featured around a prominent, melodic bassline, rhythmic guitar chops, and playful vocal ad-libs. This builds at 2:01 into stacked vocal harmonies over sustained organ chords before suddenly dropping into a stripped-back, contemplative passage at 2:15. In this section, acoustic guitar and a gentle bassline accompany a warm, reflective solo vocal.\n\nAt 2:53, a rising vocal and horn swell signals a final dynamic build-up, launching into a triumphant climax at 2:57. The full rhythm section, punchy brass riffs, and energetic backing vocals return, supporting expressive lead falsetto ad-libs and playful wordless vocal motifs. The track slowly fades out on a continuous, upbeat soul-pop groove.\n\nGENRES: Soul, Pop, Rhythm and Blues, Sunshine Pop"
+  },
+  "metadata": {
+    "youtube_id": "apBWI6xrbLY",
+    "title_extracted": null,
+    "corpus_id": "apBWI6xrbLY",
+    "uploader": "The Beach Boys",
+    "audio_file": "corpus/01_music_videos_audio/audio/apBWI6xrbLY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6879130,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.54114,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T22:34:11Z"
+  },
+  "status": "success",
+  "error": null
+}

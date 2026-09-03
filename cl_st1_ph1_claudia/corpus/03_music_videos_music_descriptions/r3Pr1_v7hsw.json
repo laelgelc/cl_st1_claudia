@@ -1,0 +1,38 @@
+{
+  "corpus_id": "r3Pr1_v7hsw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/r3Pr1_v7hsw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/r3Pr1_v7hsw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/r3Pr1_v7hsw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens in a mid-tempo 4/4 time signature with an atmospheric, synth-driven arrangement. Gentle keyboard chords and a warm synth bass line establish a smooth, reflective groove alongside a crisp drum kit playing a steady kick-and-snare rhythm with subtle hi-hat accents. The dynamic level is initially reserved, creating a spacious and intimate texture.\n\nAt 0:15, a solo male lead vocal enters in a moderate register. The voice exhibits a soulful, resonant timbre with a slight raspy texture, treated with moderate hall reverb that adds depth within the stereo image. The harmony follows a classic pop-rock progression, blending minor and major tonalities to evoke a poignant, contemplative mood.\n\nAs the track proceeds toward the pre-chorus, the musical energy steadily intensifies. The vocalist transitions into a higher, more emotionally charged register, accompanied by swelling synth pads and a more active bass performance. At 1:12, the arrangement expands dramatically into a powerful chorus. The dynamic scale rises to a full, anthemic climax as a gospel-style backing vocal ensemble joins the mix, providing rich harmonic support behind the soaring lead vocal. The drum kit drives the groove with punchier accents and prominent cymbal crashes, supported by rhythmic electric guitar patterns and dense synth layers.\n\nFollowing a brief pull-back in dynamics during the second verse around 2:05, the track returns to its full anthemic chorus at 2:30. The final section develops into an extended, high-energy climax featuring dynamic call-and-response interactions between the backing choir and the lead vocalist, who delivers expressive, ad-libbed vocal improvisations and high belted notes. The dense, multi-layered production maintains a wide stereo width and vibrant ambient reverb through to the gradual fade-out.\n\nGENRES: Pop Rock, Soft Rock, Power Ballad, Synth-Pop, Arena Rock"
+  },
+  "metadata": {
+    "youtube_id": "r3Pr1_v7hsw",
+    "title_extracted": null,
+    "corpus_id": "r3Pr1_v7hsw",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/r3Pr1_v7hsw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9623914,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.041152,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:28:25Z"
+  },
+  "status": "success",
+  "error": null
+}

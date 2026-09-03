@@ -1,0 +1,38 @@
+{
+  "corpus_id": "N_OG8CyKXO0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/N_OG8CyKXO0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/N_OG8CyKXO0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/N_OG8CyKXO0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The piece opens with a bright acoustic guitar strumming a rhythmic pattern alongside a clean, twangy electric guitar line and crisp sleigh bells shaking in a lively swing pattern. A steady, driving four-four shuffle rhythm quickly establishes itself as the drum kit and walking bass line join the mix.\n\nA warm, resonant solo male lead vocal enters, delivering a melodious line with an upbeat, jovial delivery. The vocal processing features subtle slapback echo and moderate room reverb, giving it a classic mid-century pop-rockabilly character. The instrumentation maintains a consistent, buoyant groove underneath, dominated by rhythmic acoustic strumming, a walking bassline, light snare work, and the continuous metallic shimmer of jingle bells across the stereo field.\n\nAround thirty-six seconds, the harmonic progression shifts into a secondary bridge section, introducing minor and subdominant tonal turns before returning seamlessly to the primary motif. The overall dynamics remain moderately loud and energetic, supporting an airy, festive mood.\n\nA group of female backing vocals enters to harmonize with the male lead on the main melodic refrain. This addition expands the sonic texture into a rich, multi-layered vocal arrangement with harmonic support. Clean electric guitar fills punctuate the phrasing, offering brief, crisp counter-melodies between vocal lines while the rhythm section continues its swing feel.\n\nThe arrangement repeats the bridge section with full vocal accompaniment, maintaining its steady tempo and dynamic intensity before transitioning into the finale. The lead vocal repeats the concluding phrase across several rhythmic stabs from the backing ensemble, culminating in an emphatic final cadence and a decisive drum hit to close the track.\n\nGENRES: Rockabilly, Holiday Pop, Classic Rock 'n' Roll, Swing"
+  },
+  "metadata": {
+    "youtube_id": "N_OG8CyKXO0",
+    "title_extracted": null,
+    "corpus_id": "N_OG8CyKXO0",
+    "uploader": "Elwood Yodogawa",
+    "audio_file": "corpus/01_music_videos_audio/audio/N_OG8CyKXO0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4149206,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.797581,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:07:37Z"
+  },
+  "status": "success",
+  "error": null
+}

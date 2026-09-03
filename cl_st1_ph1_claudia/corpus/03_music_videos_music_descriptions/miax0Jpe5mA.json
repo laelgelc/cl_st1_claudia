@@ -1,0 +1,38 @@
+{
+  "corpus_id": "miax0Jpe5mA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/miax0Jpe5mA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/miax0Jpe5mA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/miax0Jpe5mA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with an atmospheric, slow-tempo introduction featuring lush synth string pads, resonant synth brass, and dramatic harmonic chords. At 0:13, a clear, expressive female lead vocal enters over gentle synth swells and a subtle bass foundation, establishing an intimate, ballad-like texture enhanced by stereo reverb and subtle delay effects.\n\nA brief drum roll transition at 0:49 abruptly shifts the piece into a high-energy 1980s synth-pop dance arrangement set to a driving 4/4 meter at approximately 120–125 BPM. The rhythm section drops in with a prominent four-on-the-floor kick drum, crisp snare hits on beats two and four, active hi-hats, a pulsing electronic synth bassline, and funk-style muted electric rhythm guitar strumming panned across the stereo image. Bright synth brass stabs punctuate the phrasing, reinforcing the track's rhythmic momentum.\n\nThe vocal delivery transitions from restrained emotional singing in the intro to powerful, energetic belting throughout the upbeat main sections. Multi-tracked backing vocal harmonies enter in the choruses, creating a rich, layered texture with call-and-response phrasing against the lead melody. An instrumental interlude around 1:44 maintains the driving groove with melodic synth brass themes before leading back into the vocal sections.\n\nThe arrangement dynamically escalates into a triumphant climax around 3:03, characterized by expressive vocal ad-libs, dense backing vocal arrangements, and energetic drum fills. The production showcases a bright, polished tonal character with punchy low-end compression, wide stereo separation, and controlled reverb tails. The overall mood shifts dramatically from reflective and quiet at the start to euphoric, triumphant, and energetic across the main dance sections.\n\nGENRES: synth-pop, dance-pop, 1980s pop, hi-NRG"
+  },
+  "metadata": {
+    "youtube_id": "miax0Jpe5mA",
+    "title_extracted": null,
+    "corpus_id": "miax0Jpe5mA",
+    "uploader": "HD Film Tributes",
+    "audio_file": "corpus/01_music_videos_audio/audio/miax0Jpe5mA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7690528,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.416627,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:38:26Z"
+  },
+  "status": "success",
+  "error": null
+}

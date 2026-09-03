@@ -1,0 +1,38 @@
+{
+  "corpus_id": "jeYCyCaK_5k",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/jeYCyCaK_5k.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/jeYCyCaK_5k.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/jeYCyCaK_5k.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens at an upbeat 4/4 tempo of approximately 135 BPM with an iconic, chorused electric guitar riff panned across the stereo field. A driving acoustic drum kit enters shortly after with a crisp kick-and-snare backbeat, quickly followed by a punchy, mid-focused electric bass line and a brief, energetic vocal exclamation. The texture is bright, clear, and anthemic, establishing a major-key pop-rock tonality.\n\nIn the first verse, the dynamics drop slightly to create space for the central male lead vocals. The vocalist delivers a clean, expressive tenor performance enhanced by subtle slapback delay and plate reverb. The underlying arrangement remains rhythmic and steady, driven by eighth-note bass patterns and staccato rhythm guitar chords. \n\nThe track expands dynamically into the chorus, where full, overdriven electric guitars flood the left and right channels, lifting the overall dynamic energy. Layered backing vocals join the lead to create a wide, harmonic vocal texture over open hi-hat accents and soaring melodic lines. A brief instrumental interlude reasserts the opening guitar motif before transitioning into a second verse that maintains the established driving groove.\n\nA central bridge section leads into an expressive electric guitar solo. The solo tone features overdrive, smooth sustain, and stereo delay, executed with pitch bends and melodic phrasing over a solid rhythm section foundation. A brief rhythmic breakdown follows, allowing tension to build through dynamic restraint before exploding into a climactic final chorus. The song reaches its peak dynamic power through passionate, high-register vocal delivery and thick instrumental layering, ultimately concluding on a decisive resolving chord that decays naturally with cymbal resonance.\n\nGENRES: Pop Rock, Post-Punk Revival, Alternative Rock, New Wave"
+  },
+  "metadata": {
+    "youtube_id": "jeYCyCaK_5k",
+    "title_extracted": null,
+    "corpus_id": "jeYCyCaK_5k",
+    "uploader": "U2",
+    "audio_file": "corpus/01_music_videos_audio/audio/jeYCyCaK_5k.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8145266,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 26.184412,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:41:23Z"
+  },
+  "status": "success",
+  "error": null
+}

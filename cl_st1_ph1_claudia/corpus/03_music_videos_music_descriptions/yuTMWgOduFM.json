@@ -1,0 +1,38 @@
+{
+  "corpus_id": "yuTMWgOduFM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yuTMWgOduFM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/yuTMWgOduFM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/yuTMWgOduFM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens in a four-four meter with a rhythmic, pulsing synthesizer bassline accompanied by strummed acoustic-electric guitar chords and a steady drumbeat consisting of a clear hi-hat pattern and crisp snare backbeat. At eight seconds, a male lead vocal enters, delivering a narrative verse in a conversational tone centered in the middle register with subtle spatial reverb. The harmonic structure relies on a bright, repetitive major-key pop-rock progression.\n\nAround the one-minute mark, a second verse section introduces fuller rhythmic layering, featuring overdriven rhythm guitars panned across the stereo field and a more driving bass guitar line. The dynamic intensity builds progressively as the percussion incorporates punchier kick drum accents and open hi-hats. The singer's vocal delivery becomes increasingly impassioned and dynamic, building tension through subtle melodic ascents.\n\nAt one minute and forty-four seconds, the texture expands dramatically into an anthemic chorus. The dynamic level surges as distorted electric guitars, sustained synthesizer pads, and driving bass fuse beneath a full drum groove with frequent crash cymbal accents. The lead vocal shifts to a powerful, emotive belt in its high register, supported by reverberant vocal processing that fills the stereo image.\n\nFollowing a high-energy instrumental section dominated by a melodic, overdriven guitar solo over driving synths, the dynamic momentum carries into an extended climactic section around three minutes. Rhythmic handclaps, tambourine accents, and layered backing harmonies join the mix, creating a dense, communal texture. The lead vocal delivers fervent, repeated melodic phrases against soaring guitar countermelodies and a pulsing synthesizer groove, maintaining an intense, triumphant mood until the track gradually fades to a close.\n\nGENRES: Britpop, Indie Rock, Synth-pop, Alternative Rock"
+  },
+  "metadata": {
+    "youtube_id": "yuTMWgOduFM",
+    "title_extracted": null,
+    "corpus_id": "yuTMWgOduFM",
+    "uploader": "Pulp",
+    "audio_file": "corpus/01_music_videos_audio/audio/yuTMWgOduFM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7838392,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.211247,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T18:50:15Z"
+  },
+  "status": "success",
+  "error": null
+}

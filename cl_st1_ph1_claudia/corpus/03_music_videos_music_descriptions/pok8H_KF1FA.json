@@ -1,0 +1,38 @@
+{
+  "corpus_id": "pok8H_KF1FA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/pok8H_KF1FA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/pok8H_KF1FA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/pok8H_KF1FA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens immediately with a buoyant 4/4 dance-pop groove driven by a four-on-the-floor electronic kick drum, crisp snare on the backbeat, syncopated hi-hats, and a melodic synth bassline paired with bright, pulsing synth chords. The tempo is a steady, upbeat dance tempo that establishes an energetic, optimistic atmosphere.\n\nA melodic female lead vocal enters with smooth phrasing, treated with polished pitch stability, short stereo delays, and airy reverb that create a glossy, spacious presence in the front of the mix. The harmonic structure relies on a repeating, uplifting pop chord cycle, embellished by subtle staccato electric guitar chops and shimmering electronic pads.\n\nIn the verse sections, the arrangement slightly reduces its dynamic density to place greater focus on the lead vocals and the rhythmic interplay between the bass synth and percussion. This creates a compelling dynamic arc that surges back into the full, layered texture of the chorus. At approximately 1:51, the song transitions into a featured rap section delivered by a second female vocalist. Her performance is direct, rhythmic, and centrally focused, set over a punchy, beat-driven rhythm track with accentuated bass and snare snaps, introducing a hip-hop influence to the groove.\n\nAt 2:27, the arrangement returns to the main disco-pop chorus with full instrumental instrumentation, multi-tracked vocal harmonies, and stereo-panned vocal fills. The dynamic energy peaks as playful, chopped vocal samples and vocal melismas are woven above the persistent rhythm section. The track maintains its lively momentum through a vocal-focused vamp section before ending with a concise synth coda that slowly decays, concluding the piece cleanly.\n\nGENRES: Dance-Pop, Nu-Disco, Pop, Synth-Pop"
+  },
+  "metadata": {
+    "youtube_id": "pok8H_KF1FA",
+    "title_extracted": null,
+    "corpus_id": "pok8H_KF1FA",
+    "uploader": "Doja Cat",
+    "audio_file": "corpus/01_music_videos_audio/audio/pok8H_KF1FA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7541176,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.698156,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:40:15Z"
+  },
+  "status": "success",
+  "error": null
+}

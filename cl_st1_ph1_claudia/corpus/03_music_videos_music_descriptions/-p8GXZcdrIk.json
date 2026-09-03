@@ -1,0 +1,38 @@
+{
+  "corpus_id": "-p8GXZcdrIk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/-p8GXZcdrIk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/-p8GXZcdrIk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/-p8GXZcdrIk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a spoken count-in followed immediately by a bright acoustic guitar picking out a syncopated riff in a bouncy 4/4 mid-tempo groove. An electric guitar enters almost simultaneously, delivering sharp, bluesy fills that answer the acoustic rhythm. The full rhythm section quickly establishes itself, featuring a punchy bass guitar executing melodic walking lines alongside a driving drum kit with a crisp snare backbeat and steady hi-hat work.\n\nA male lead vocalist enters with a clear, twangy mid-range tone, delivering conversational, energetic vocal phrases over a repeating three-chord major-mode progression. Throughout the verses, blues-influenced electric guitar fills weave continuously around the vocal lines, providing melodic counterpoint.\n\nDuring the chorus sections, the arrangement expands dynamically as multi-part backing vocals enter, creating rich harmonic layers and broadening the stereo field. The rhythm section increases in intensity, accented by crash cymbal hits and more active bass figures.\n\nThe song structure moves fluidly through verses, choruses, and instrumental solos. The electric guitar takes center stage during extended solo passages, featuring vocal-like phrasing, pitch bends, vibrato, and sustained mild overdrive. An instrumental section near the middle features lively lead guitar work supported by steady acoustic rhythm strumming and energetic drumming.\n\nThe production boasts a warm, live-sounding mix. The acoustic rhythm guitar is panned distinctly to one side, while the lead electric guitar and lead vocal remain centered, enveloped by moderate room reverb. The overall dynamic range is buoyant and consistent, conveying an uplifting, festive, and nostalgic mood throughout its traditional verse-chorus-solo arrangement.\n\nGENRES: Southern Rock, Country Rock, Classic Rock"
+  },
+  "metadata": {
+    "youtube_id": "-p8GXZcdrIk",
+    "title_extracted": null,
+    "corpus_id": "-p8GXZcdrIk",
+    "uploader": "Lynyrd Skynyrd",
+    "audio_file": "corpus/01_music_videos_audio/audio/-p8GXZcdrIk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9129792,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 29.409675,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T17:02:54Z"
+  },
+  "status": "success",
+  "error": null
+}

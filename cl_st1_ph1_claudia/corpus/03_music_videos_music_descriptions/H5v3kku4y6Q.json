@@ -1,0 +1,38 @@
+{
+  "corpus_id": "H5v3kku4y6Q",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/H5v3kku4y6Q.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/H5v3kku4y6Q.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/H5v3kku4y6Q.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens with a dry, intimate spoken sample of a young child’s voice. Immediately following, a bright, chiming guitar line introduces an upbeat tempo of approximately 174 BPM in 4/4 time. A driving synth-pop drum groove featuring a four-on-the-floor kick drum, crisp snare, and a melodic, bouncing synth bassline enters, establishing an energetic, nostalgic groove with a light and airy texture.\n\nThe lead male vocals enter in the first verse, delivered in a smooth, intimate mid-range tone enhanced by subtle ambient reverb and stereo slapback delay. The accompaniment remains buoyant and clean, driven by rhythmic guitar strums and a steady beat. Transitioning into the chorus, the dynamic level expands as the lead vocal shifts into a soaring falsetto register. Stereo-panned backing vocal harmonies enter to layer the texture, while the synth bass and drums propel the rhythmic momentum. A melodic guitar hook bridges the chorus into a bright post-chorus section, maintaining the track's uplifting, bittersweet mood.\n\nIn the second verse, the instrumentation briefly strips back to prioritize the lead vocal narrative over the persistent kick and bass pulse before rising back into the full chorus arrangement. At the bridge, high-pitched synth chimes and rhythmic vocal phrases enter, briefly altering the harmonic focus while sustaining the steady drum beat. The track then surges into a triumphant climax, introducing bright, fanfare-like synth brass and tubular chimes that spread across the stereo field alongside layered vocal refrains. The dynamic energy peaks before abruptly tapering off, closing on a single reverberant guitar chord that gradually decays into silence.\n\nGENRES: synthpop, indie pop, pop"
+  },
+  "metadata": {
+    "youtube_id": "H5v3kku4y6Q",
+    "title_extracted": null,
+    "corpus_id": "H5v3kku4y6Q",
+    "uploader": "Harry Styles",
+    "audio_file": "corpus/01_music_videos_audio/audio/H5v3kku4y6Q.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5300916,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.0821,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:59:01Z"
+  },
+  "status": "success",
+  "error": null
+}

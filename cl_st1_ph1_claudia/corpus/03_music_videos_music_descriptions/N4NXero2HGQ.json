@@ -1,0 +1,38 @@
+{
+  "corpus_id": "N4NXero2HGQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/N4NXero2HGQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/N4NXero2HGQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/N4NXero2HGQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a punchy electric guitar power-chord motif that immediately establishes an energetic pop-rock groove in a driving 4/4 meter at a mid-tempo pace. The full band arrangement quickly enters, driven by a steady drum beat with crisp kick and snare dynamics paired with a warm, melodic electric bassline. A gritty yet expressive male lead vocal enters, processed with subtle room reverb and compression, placing it prominently in the center of the stereo field. Rhythmically strummed acoustic guitars and lightly distorted electric guitars are panned across the left and right channels, providing a full, resonant texture.\n\nAs the track moves into the chorus sections, the harmonic framework swells into bright, major-key rock progressions. The vocal delivery becomes more dynamic and soulful, supported by backing vocal harmonies that widen the spatial presentation. The percussion maintains a buoyant momentum with steady hi-hat patterns and accentuating cymbal crashes marking key structural transitions. \n\nA central highlight is an expressive electric guitar solo. The tone features smooth overdrive, subtle pitch bends, and vibrato, enhanced by a slight delay effect that gives the solo a spacious quality above the driving rhythm section. Following the solo, the track builds back into the chorus, increasing in emotional intensity as the vocalist uses a higher, raspy register alongside full instrumental support. \n\nThe production emphasizes a clear, vintage-inspired analog warmth, with a balanced stereo image where rhythm guitars frame the sides while the rhythm section and vocals remain solidly grounded in the middle. The recording reaches its climax with energetic vocal calls before resolving onto a final acoustic guitar strum and bass note that fade gently into silence.\n\nGENRES: Pop Rock, Blues Rock, Classic Rock, Singer-Songwriter"
+  },
+  "metadata": {
+    "youtube_id": "N4NXero2HGQ",
+    "title_extracted": null,
+    "corpus_id": "N4NXero2HGQ",
+    "uploader": "Smurfstools Oldies Music Time Machine",
+    "audio_file": "corpus/01_music_videos_audio/audio/N4NXero2HGQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5982282,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.515497,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T19:45:50Z"
+  },
+  "status": "success",
+  "error": null
+}

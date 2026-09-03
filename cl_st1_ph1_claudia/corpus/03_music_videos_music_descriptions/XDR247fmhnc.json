@@ -1,0 +1,38 @@
+{
+  "corpus_id": "XDR247fmhnc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/XDR247fmhnc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/XDR247fmhnc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/XDR247fmhnc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The track opens in a fast 4/4 meter with an energetic, Latin-infused disco percussion ensemble featuring agogo bells, congas, shakers, and a whistle accent, quickly joined by a driving octave bassline, clean electric rhythm guitar, and punchy horn section stabs. A dry, clear male lead vocal enters in the center of the stereo field, delivering a narrative melody supported by a syncopated four-on-the-floor drum groove. Bright brass hits respond to the vocal lines, maintaining a vibrant, call-and-response texture.\n\nAs the music transitions into the chorus, lush multi-part female backing vocals enter, creating a wide stereo contrast against the central lead voice. The dynamic level increases as the horn section expands into soaring melodic lines, underlined by high-pitched timbale fills and prominent Latin percussion accents. The harmonic movement blends traditional disco chord cycles with salsa-influenced chromatic turnarounds.\n\nThe second verse builds on this established groove, with subtle dynamic variations in the bassline and rhythm guitar. A dramatic shift occurs during a short bridge section, where syncopated drum accents, sharp brass stabs, and ascending harmonic tension create a momentary climax before resolving back into the energetic chorus.\n\nFollowing the chorus, an extended instrumental breakdown takes center stage. This section highlights a salsa-style piano montuno, polyrhythmic percussion solos, dynamic drum breaks, and intricate horn section countermelodies, delivering a peak in texture and rhythmic energy.\n\nIn the third verse, the dynamic intensity softens slightly, allowing the lead vocal to adopt a more subdued, reflective tone over a minor-tinged harmonic foundation. The song quickly rebuilds its energy, launching into a extended final chorus featuring call-and-response backing vocals, soaring trumpet accents, and lead vocal ad-libs. The track gradually fades out over a repeating rhythmic vamp, ending with ambient sounds of audience applause.\n\nGENRES: Disco, Latin Pop, Salsa, Pop"
+  },
+  "metadata": {
+    "youtube_id": "XDR247fmhnc",
+    "title_extracted": null,
+    "corpus_id": "XDR247fmhnc",
+    "uploader": "Bertrand Vandemeulebroucke",
+    "audio_file": "corpus/01_music_videos_audio/audio/XDR247fmhnc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7099068,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.901363,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T21:32:51Z"
+  },
+  "status": "success",
+  "error": null
+}

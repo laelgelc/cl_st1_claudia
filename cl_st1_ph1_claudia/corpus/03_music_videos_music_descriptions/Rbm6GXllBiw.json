@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Rbm6GXllBiw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Rbm6GXllBiw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Rbm6GXllBiw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/Rbm6GXllBiw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T162217Z"
+  },
+  "description": {
+    "text": "The recording opens with a clean, arpeggiated electric guitar motif played in a steady 4/4 meter, creating a bright, melodic introduction. At 0:12, the track undergoes a sudden dynamic surge as a full hard-rock arrangement enters, featuring punchy acoustic-style drumkit beats, a driving bassline, and crunchy, overdriven rhythm guitars panned wide across the stereo field. \n\nA high-register, raspy male lead vocal enters shortly after, delivering highly energetic melodic lines during chorus sections, supported by multi-tracked backing vocal harmonies that widen the stereo image. In the verses, the vocal style becomes more rhythmic and aggressive, set against syncopated power-chord riffs and a tight bass-and-drum groove. The guitar timbre transitions between rhythmic overdrive and a thick, saturated distortion for lead passages.\n\nAround the middle section, a prominent lead guitar solo emerges, featuring bluesy pitch bends, fast fingerwork, and expressive vibrato, positioned prominently in the center of the mix. The overall harmonic language is rooted in a major-key rock progression with frequent chromatic and modal inflection. The production is polished yet gritty, utilizing stereo panning for rhythm guitars, natural room reverb on the drums, and subtle delay effects on the vocals.\n\nAt 4:45, the track experiences a drastic shift in momentum, accelerating into a fast, frantic tempo for an extended outro section. This final passage features relentless, high-speed drum fills, continuous energetic guitar solos, and soaring, improvised vocal ad-libs and screams. The texture becomes increasingly dense and dynamic, reaching a dynamic climax before resolving into a final heavy sustained guitar chord that gradually decays.\n\nGENRES: Hard Rock, Glam Metal, Heavy Metal"
+  },
+  "metadata": {
+    "youtube_id": "Rbm6GXllBiw",
+    "title_extracted": null,
+    "corpus_id": "Rbm6GXllBiw",
+    "uploader": "Guns N' Roses",
+    "audio_file": "corpus/01_music_videos_audio/audio/Rbm6GXllBiw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 13063440,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 32.511492,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T162217Z",
+    "generated_at_utc": "2026-09-03T16:49:28Z"
+  },
+  "status": "success",
+  "error": null
+}
