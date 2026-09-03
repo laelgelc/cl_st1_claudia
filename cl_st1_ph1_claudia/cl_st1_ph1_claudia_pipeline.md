@@ -76,3 +76,23 @@ python transcribe_music_videos_whisperx.py --test-limit 1
 ```shell script
 python transcribe_music_videos_whisperx.py --no-test-mode
 ```
+
+## 5. Describe music video music with Gemini
+
+### Default test run
+
+```shell script
+python describe_music_videos_music.py
+```
+
+### Explicit one-item test run
+
+```shell script
+python describe_music_videos_music.py --test-limit 1
+```
+
+### Full run
+
+```shell script
+python describe_music_videos_music.py --no-test-mode
+```
