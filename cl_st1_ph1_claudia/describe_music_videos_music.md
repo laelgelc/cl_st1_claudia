@@ -110,7 +110,7 @@ The programme must implement the following behaviours:
 ```
 
 - Create the output directory if it does not already exist.
-- Use `gemini-2.5-flash` by default, configurable via command-line argument.
+- Use `gemini-3.6-flash` by default, configurable via command-line argument.
 - Use test mode by default, limiting processing to 1 eligible audio file initially.
 - Skip already-described audio files by default, supporting safe re-runs.
 - Allow reprocessing with an explicit command-line option.
@@ -354,7 +354,7 @@ Default behaviour:
 - output directory: `corpus/03_music_videos_music_descriptions`
 - prompt file: `music_description_prompts/music_description_prompt_v1.md`
 - env file: `env/.env`
-- model name: `gemini-2.5-flash`
+- model name: `gemini-3.6-flash`
 - request delay: `4` seconds
 - test mode: `enabled`
 - test limit: `1`
@@ -373,7 +373,7 @@ Default behaviour:
 - `--output-dir PATH`
 - `--prompt-file PATH`
 - `--env-file PATH`
-- `--model-name MODEL` (default: `gemini-2.5-flash`)
+- `--model-name MODEL` (default: `gemini-3.6-flash`)
 - `--request-delay SECONDS` (default: `4`)
 - `--test-mode` / `--no-test-mode`
 - `--test-limit N` (default: `1`)
@@ -511,7 +511,7 @@ Each JSON output should use this structure:
   "text_output_path": "corpus/03_music_videos_music_descriptions/4xqo7D2k8HM.txt",
   "json_output_path": "corpus/03_music_videos_music_descriptions/4xqo7D2k8HM.json",
   "model": {
-    "model_name": "gemini-2.5-flash",
+    "model_name": "gemini-3.6-flash",
     "prompt_file": "music_description_prompts/music_description_prompt_v1.md"
   },
   "description": {
@@ -651,7 +651,7 @@ DEFAULT_DESCRIPTION_INDEX_FILE = (
     "music_videos_music_description_index.ndjson"
 )
 
-DEFAULT_MODEL_NAME = "gemini-2.5-flash"
+DEFAULT_MODEL_NAME = "gemini-3.6-flash"
 DEFAULT_REQUEST_DELAY_SECONDS = 4
 DEFAULT_TEST_MODE = True
 DEFAULT_TEST_LIMIT = 1

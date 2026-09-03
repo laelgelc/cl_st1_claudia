@@ -1,0 +1,38 @@
+{
+  "corpus_id": "4xqo7D2k8HM",
+  "input_audio_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4xqo7D2k8HM.wav",
+  "text_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/4xqo7D2k8HM.txt",
+  "json_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/4xqo7D2k8HM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260903T154255Z"
+  },
+  "description": {
+    "text": "The track opens with a low-frequency synth swell and brief atmospheric riser before a driving, mid-tempo four-four drum beat and punchy electric bass establish the foundation. A syncopated, heavily distorted electric guitar riff enters, introducing a blues-infused hard rock groove. The lead male vocal enters with a gritty, raspy, and high-energy timbre, delivering the verse over a prominent bassline, tight snare snaps, and subtly panned guitar chops. \n\nA dramatic drum fill and vocal crescendo trigger the transition into an explosive chorus. Here, the dynamic scale expands significantly into a dense, wall-of-sound texture dominated by layered, wide-panned distorted rhythm guitars. The lead vocals shift into a passionate, upper-register belt, reinforced by punchy backing vocal harmonies. The drum performance maintains a strong, driving momentum with heavy kick drum hits and a bright crash cymbal presence.\n\nThe second verse resumes the steady, driving rock groove with tight interaction between the bass and rhythm guitars. A second dynamic build-up propels the track back into the high-energy chorus. Following this, the bridge creates a momentary shift in harmonic tension, temporarily softening the drum pattern while sustaining long guitar chords and warm synth textures to build emotional weight.\n\nThe song reaches its peak during an expansive climax featuring a soaring, blues-rock electric guitar solo filled with wide string bends and expressive sustain, interwoven with dramatic, high-register vocal ad-libs. Heavy reverb and delay effects add depth to the solo guitar and vocal peaks. The track gradually unwinds as the heavy instrumentation gives way to ringing guitar sustain, ambient synth tails, and deep atmospheric decay, slowly fading into complete silence. \n\nThe production is polished and modern, featuring heavily compressed drums, wide stereo guitar tracking, and clean vocal isolation, evoking an anthemic, triumphant, and energetic mood throughout.\n\nGENRES: Rock, Hard Rock, Alternative Rock, Pop Rock"
+  },
+  "metadata": {
+    "youtube_id": "4xqo7D2k8HM",
+    "title_extracted": null,
+    "corpus_id": "4xqo7D2k8HM",
+    "uploader": "ImagineDragons",
+    "audio_file": "corpus/01_music_videos_audio/audio/4xqo7D2k8HM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8962610,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260903T154255Z",
+    "generated_at_utc": "2026-09-03T15:43:14Z"
+  },
+  "status": "success",
+  "error": null
+}

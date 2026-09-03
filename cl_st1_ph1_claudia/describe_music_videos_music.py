@@ -77,7 +77,7 @@ DEFAULT_DESCRIPTION_INDEX_FILE = (
     "music_videos_music_description_index.ndjson"
 )
 
-DEFAULT_MODEL_NAME = "gemini-2.5-flash"
+DEFAULT_MODEL_NAME = "gemini-3.6-flash"
 DEFAULT_REQUEST_DELAY_SECONDS = 4
 DEFAULT_TEST_MODE = True
 DEFAULT_TEST_LIMIT = 1
