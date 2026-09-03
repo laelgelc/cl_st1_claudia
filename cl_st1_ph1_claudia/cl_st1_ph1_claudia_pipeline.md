@@ -96,3 +96,10 @@ python describe_music_videos_music.py --test-limit 1
 ```shell script
 python describe_music_videos_music.py --no-test-mode
 ```
+### Production mode on an EC2 instance
+
+```shell script
+bash run_python_ec2.sh \
+    describe_music_videos_music.py \
+    --no-test-mode
+```
