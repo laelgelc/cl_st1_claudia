@@ -33,11 +33,12 @@ transcription index for downstream analysis.
 from __future__ import annotations
 
 import argparse
+import base64
 import json
 import logging
 import sys
-import time
 import threading
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, List
@@ -463,51 +464,66 @@ def transcribe_one_item(
             logger.info("Transcription attempt %s/%s for %s", attempt, total_attempts, corpus_id)
 
             with open(audio_path, "rb") as audio_file:
-                kwargs: Dict[str, Any] = {
-                    "model": model_name,
-                    "prompt": prompt_text,
-                    "file": audio_file,
-                }
+                audio_base64 = base64.b64encode(audio_file.read()).decode("utf-8")
 
+            kwargs: Dict[str, Any] = {
+                "model": model_name,
+                "input": [
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "input_text",
+                                "text": prompt_text
+                            },
+                            {
+                                "type": "input_audio",
+                                "input_audio": {
+                                    "data": audio_base64,
+                                    "format": "wav"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+
+            temperature_sent = False
+            with TEMPERATURE_SUPPORT_LOCK:
+                model_supports_temperature = model_name not in TEMPERATURE_UNSUPPORTED_MODELS
+
+            if temperature is not None and model_supports_temperature:
+                kwargs["temperature"] = temperature
+                temperature_sent = True
+
+            try:
+                response = client.responses.create(**kwargs)
+            except TypeError:
+                kwargs.pop("temperature", None)
                 temperature_sent = False
                 with TEMPERATURE_SUPPORT_LOCK:
-                    model_supports_temperature = model_name not in TEMPERATURE_UNSUPPORTED_MODELS
-
-                if temperature is not None and model_supports_temperature:
-                    kwargs["temperature"] = temperature
-                    temperature_sent = True
-
-                try:
-                    response = client.audio.transcriptions.create(**kwargs)
-                except TypeError:
+                    TEMPERATURE_UNSUPPORTED_MODELS.add(model_name)
+                response = client.responses.create(**kwargs)
+            except Exception as exc:
+                error_text = str(exc)
+                if (
+                    "Unsupported parameter" in error_text
+                    and "temperature" in error_text
+                    and "temperature" in kwargs
+                ):
+                    logger.warning(
+                        "Model %s does not support temperature; omitting temperature for subsequent requests.",
+                        model_name,
+                    )
                     kwargs.pop("temperature", None)
                     temperature_sent = False
                     with TEMPERATURE_SUPPORT_LOCK:
                         TEMPERATURE_UNSUPPORTED_MODELS.add(model_name)
-                    response = client.audio.transcriptions.create(**kwargs)
-                except Exception as exc:
-                    error_text = str(exc)
-                    if (
-                        "Unsupported parameter" in error_text
-                        and "temperature" in error_text
-                        and "temperature" in kwargs
-                    ):
-                        logger.warning(
-                            "Model %s does not support temperature; omitting temperature for subsequent requests.",
-                            model_name,
-                        )
-                        kwargs.pop("temperature", None)
-                        temperature_sent = False
-                        with TEMPERATURE_SUPPORT_LOCK:
-                            TEMPERATURE_UNSUPPORTED_MODELS.add(model_name)
-                        response = client.audio.transcriptions.create(**kwargs)
-                    else:
-                        raise
-
-                if hasattr(response, "text"):
-                    transcript_text = str(response.text).strip()
+                    response = client.responses.create(**kwargs)
                 else:
-                    transcript_text = extract_response_text(response)
+                    raise
+
+            transcript_text = extract_response_text(response)
 
             if not transcript_text:
                 raise ValueError("LLM response contains no usable text")
