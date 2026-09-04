@@ -77,6 +77,44 @@ python transcribe_music_videos_whisperx.py --test-limit 1
 python transcribe_music_videos_whisperx.py --no-test-mode
 ```
 
+## 4. Transcribe music video audio with GPT
+
+### Test runs
+
+```shell script
+python transcribe_music_videos_gpt.py \
+    --start-corpus-id aUzBgeI5dpc
+```
+
+```shell script
+python transcribe_music_videos_gpt.py \
+    --start-corpus-id IePTH1PWzAs
+```
+
+```shell script
+python transcribe_music_videos_gpt.py \
+    --start-corpus-id gOMhN-hfMtY
+```
+
+```shell script
+python transcribe_music_videos_gpt.py \
+    --start-corpus-id mcCK99wHrk0
+```
+
+### Full run
+
+```shell script
+python transcribe_music_videos_gpt.py --no-test-mode
+```
+
+### Production mode on an EC2 instance
+
+```shell script
+bash run_python_ec2.sh \
+    transcribe_music_videos_gpt.py \
+    --no-test-mode
+```
+
 ## 5. Describe music video music with Gemini
 
 ### Default test run
@@ -96,6 +134,7 @@ python describe_music_videos_music.py --test-limit 1
 ```shell script
 python describe_music_videos_music.py --no-test-mode
 ```
+
 ### Production mode on an EC2 instance
 
 ```shell script
