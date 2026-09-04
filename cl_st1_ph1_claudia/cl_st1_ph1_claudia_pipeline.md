@@ -103,6 +103,18 @@ python transcribe_music_videos_gemini.py \
     --start-corpus-id mcCK99wHrk0
 ```
 
+```shell script
+python transcribe_music_videos_gemini.py \
+    --model-name gemini-3.5-flash \
+    --start-corpus-id Q0iqg2UanEc
+```
+
+```shell script
+python transcribe_music_videos_gemini.py \
+    --model-name gemini-3.5-flash \
+    --start-corpus-id sDo-GA1hLk4
+```
+
 ### Full run
 
 ```shell script
