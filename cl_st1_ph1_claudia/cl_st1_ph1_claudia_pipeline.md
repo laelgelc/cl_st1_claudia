@@ -111,7 +111,7 @@ python transcribe_music_videos_gemini.py --no-test-mode
 
 ```shell script
 bash run_python_ec2.sh \
-    transcribe_music_videos_gpt.py \
+    transcribe_music_videos_gemini.py \
     --no-test-mode
 ```
 
