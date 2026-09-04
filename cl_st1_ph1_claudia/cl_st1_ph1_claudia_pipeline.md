@@ -59,6 +59,8 @@ bash run_python_ec2.sh \
 
 ## 4. Transcribe music video audio with WhisperX
 
+WhisperX failed to transcribe a few music video audio files.
+
 ### Default test run
 
 ```shell script
@@ -112,46 +114,6 @@ python transcribe_music_videos_gemini.py --no-test-mode
 ```shell script
 bash run_python_ec2.sh \
     transcribe_music_videos_gemini.py \
-    --no-test-mode
-```
-
-## 4. Transcribe music video audio with GPT (deprecated)
-
-It seems that while the `gpt-5.6-sol` model supports audio input, the API does not supported. `AI Assistant` fails to land code for this.
-
-### Test runs
-
-```shell script
-python transcribe_music_videos_gpt.py \
-    --start-corpus-id aUzBgeI5dpc
-```
-
-```shell script
-python transcribe_music_videos_gpt.py \
-    --start-corpus-id IePTH1PWzAs
-```
-
-```shell script
-python transcribe_music_videos_gpt.py \
-    --start-corpus-id gOMhN-hfMtY
-```
-
-```shell script
-python transcribe_music_videos_gpt.py \
-    --start-corpus-id mcCK99wHrk0
-```
-
-### Full run
-
-```shell script
-python transcribe_music_videos_gpt.py --no-test-mode
-```
-
-### Production mode on an EC2 instance
-
-```shell script
-bash run_python_ec2.sh \
-    transcribe_music_videos_gpt.py \
     --no-test-mode
 ```
 

@@ -24,7 +24,7 @@ To prepare the dataset for transcription, `download_music_videos_audio.py` was u
 ### 5. Transcription
 The downloaded audio files were transcribed using **WhisperX** via `transcribe_music_videos_whisperx.py`. This provided automated, high-quality speech-to-text transcripts for each music video, saving the outputs in the transcripts folder.
 
-### 6. Descriptive Statistics Analysis
+#### 5.1. Descriptive Statistics Analysis
 Data processing and analysis were carried out using the Jupyter Notebook `cl_st1_ph1_claudia.ipynb`. The notebook performed the following steps:
 * Loaded the `music_videos.ndjson` dataset.
 * Calculated the word count for each generated transcript.
@@ -33,5 +33,9 @@ Data processing and analysis were carried out using the Jupyter Notebook `cl_st1
 * Tagged videos that fall within the IQR and non-outlier range.
 * Exported the final curated dataset as NDJSON, TSV, and XLSX files (`music_videos_dataset`).
 
-### 7. Audio Content Description
+#### 5.2. Transcription with Gemini
+
+The descriptive statistics analysis identified transcripts with no or just a few words, demonstrating that WhisperX failed to transcribe a few audio files. To resolve this issue, `transcribe_music_videos_gemini.py` was developed to prompt Gemini to transcribe the music videos as an alternative to WhisperX. The programme passed the tests and a full run was started on an EC2 instance to process all the audio files.
+
+### 6. Audio Content Description
 Additionally, `describe_music.py` was introduced to interface with the Gemini API. This tool allows for describing the audible characteristics of a music recording (instrumentation, tempo, dynamics, mood, etc.) to enrich the dataset with qualitative descriptions based purely on audio evidence.
