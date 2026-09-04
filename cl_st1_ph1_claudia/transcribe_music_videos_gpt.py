@@ -465,7 +465,7 @@ def transcribe_one_item(
             with open(audio_path, "rb") as audio_file:
                 kwargs: Dict[str, Any] = {
                     "model": model_name,
-                    "input": prompt_text,
+                    "prompt": prompt_text,
                     "file": audio_file,
                 }
 
@@ -478,19 +478,19 @@ def transcribe_one_item(
                     temperature_sent = True
 
                 try:
-                    response = client.responses.create(**kwargs)
+                    response = client.audio.transcriptions.create(**kwargs)
                 except TypeError:
                     kwargs.pop("temperature", None)
                     temperature_sent = False
                     with TEMPERATURE_SUPPORT_LOCK:
                         TEMPERATURE_UNSUPPORTED_MODELS.add(model_name)
-                    response = client.responses.create(**kwargs)
+                    response = client.audio.transcriptions.create(**kwargs)
                 except Exception as exc:
                     error_text = str(exc)
                     if (
-                            "Unsupported parameter" in error_text
-                            and "temperature" in error_text
-                            and "temperature" in kwargs
+                        "Unsupported parameter" in error_text
+                        and "temperature" in error_text
+                        and "temperature" in kwargs
                     ):
                         logger.warning(
                             "Model %s does not support temperature; omitting temperature for subsequent requests.",
@@ -500,11 +500,14 @@ def transcribe_one_item(
                         temperature_sent = False
                         with TEMPERATURE_SUPPORT_LOCK:
                             TEMPERATURE_UNSUPPORTED_MODELS.add(model_name)
-                        response = client.responses.create(**kwargs)
+                        response = client.audio.transcriptions.create(**kwargs)
                     else:
                         raise
 
-                transcript_text = extract_response_text(response)
+                if hasattr(response, "text"):
+                    transcript_text = str(response.text).strip()
+                else:
+                    transcript_text = extract_response_text(response)
 
             if not transcript_text:
                 raise ValueError("LLM response contains no usable text")
