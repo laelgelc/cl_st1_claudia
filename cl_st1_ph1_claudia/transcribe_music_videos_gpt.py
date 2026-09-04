@@ -33,7 +33,6 @@ transcription index for downstream analysis.
 from __future__ import annotations
 
 import argparse
-import base64
 import json
 import logging
 import sys
@@ -460,11 +459,15 @@ def transcribe_one_item(
     temperature_sent = False
 
     for attempt in range(1, total_attempts + 1):
+        uploaded_file = None
         try:
             logger.info("Transcription attempt %s/%s for %s", attempt, total_attempts, corpus_id)
 
             with open(audio_path, "rb") as audio_file:
-                audio_base64 = base64.b64encode(audio_file.read()).decode("utf-8")
+                uploaded_file = client.files.create(
+                    file=audio_file,
+                    purpose="user_data"
+                )
 
             kwargs: Dict[str, Any] = {
                 "model": model_name,
@@ -477,11 +480,8 @@ def transcribe_one_item(
                                 "text": prompt_text
                             },
                             {
-                                "type": "input_audio",
-                                "input_audio": {
-                                    "data": audio_base64,
-                                    "format": "wav"
-                                }
+                                "type": "input_file",
+                                "file_id": uploaded_file.id
                             }
                         ]
                     }
@@ -584,6 +584,13 @@ def transcribe_one_item(
                 logger.info("Retrying %s after %s seconds", corpus_id, retry_delay)
                 if retry_delay:
                     time.sleep(retry_delay)
+
+        finally:
+            if uploaded_file and hasattr(uploaded_file, "id"):
+                try:
+                    client.files.delete(uploaded_file.id)
+                except Exception:
+                    pass
 
     end_time = utc_timestamp()
     duration = round(time.monotonic() - monotonic_start, 3)
