@@ -1,0 +1,38 @@
+{
+  "corpus_id": "DvxxdZpMFHg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/DvxxdZpMFHg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/DvxxdZpMFHg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/DvxxdZpMFHg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "There's colors on the street, red, white and blue People shufflin' their feet, people sleepin' in their shoes There's a warning sign on the road ahead There's a lot of people sayin' we'd be better off dead Don't feel like Satan, but I am to them So I try to forget it any way I can  Keep on rockin' in the free world Keep on rockin' in the free world Keep on rockin' in the free world Keep on rockin' in the free world  I see a woman in the night with a baby in her hand There's an old street light near a garbage can Now she puts the kid away and she's gone to get a hit She hates her life and what she's done to it There's one more kid that'll never go to school Never get to fall in love, never get to be cool  Keep on rockin' in the free world Keep on rockin' in the free world Keep on rockin' in the free world Keep on rockin' in the free world  We got a thousand points of light for the homeless man We got a kinder, gentler machine gun hand We got department stores and toilet paper Got styrofoam boxes for the ozone layer Got a man of the people says keep hope alive Got fuel to burn, got roads to drive  Keep on rockin' in the free world Keep on rockin' in the free world Keep on rockin' in the free world Keep on rockin' in the free world"
+  },
+  "metadata": {
+    "youtube_id": "DvxxdZpMFHg",
+    "title_extracted": null,
+    "corpus_id": "DvxxdZpMFHg",
+    "uploader": "neilyoungchannel",
+    "audio_file": "corpus/01_music_videos_audio/audio/DvxxdZpMFHg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9019080,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 25.10003,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:06:24Z"
+  },
+  "status": "success",
+  "error": null
+}

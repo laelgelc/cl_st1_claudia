@@ -1,0 +1,38 @@
+{
+  "corpus_id": "uW1UIDYmYyI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uW1UIDYmYyI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/uW1UIDYmYyI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/uW1UIDYmYyI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I never meant to cause you any sorrow I never meant to cause you any pain I only wanted one time to see you laughing I only want to see you laughing in the purple rain Purple rain, purple rain Purple rain, purple rain Purple rain, purple rain I only want to see you bathing in the purple rain I never wanted to be your weekend lover I only wanted to be some kind of friend, hey Baby, I could never steal you from another It's such a shame our friendship had to end Purple rain, purple rain Purple rain, purple rain Purple rain, purple rain I only want to see you bathing in the purple rain Honey, I know, I know, I know times are changing It's time we all reach out for something new, that means you, too You say you want a leader, but you can't seem to make up your mind I think you better close it and let me guide you to the purple rain Purple rain, purple rain Purple rain, purple rain, woo! Purple rain, purple rain I only want to see you, only want to see you in the purple rain"
+  },
+  "metadata": {
+    "youtube_id": "uW1UIDYmYyI",
+    "title_extracted": null,
+    "corpus_id": "uW1UIDYmYyI",
+    "uploader": "Prince",
+    "audio_file": "corpus/01_music_videos_audio/audio/uW1UIDYmYyI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 16691696,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.8688,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:28:36Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "EMoi_m2G6XU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/EMoi_m2G6XU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/EMoi_m2G6XU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/EMoi_m2G6XU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Oh yeah Baby, think of destiny I'm trying my best To make me burn the candle at both ends Baby, baby Got nothing to lose, am I friend? Oh woman, stop that game 'Cause baby, I know your high Baby, baby Baby, ain't no doubt now Slow down You're gonna make my body hurt Now you ought to know the reason why Baby, baby Got to believe Got to believe Call me the trouble in mind Oh, living in a hurry I never stop to worry Now see the time flashing by I got, I got no I got no time to sit and worry now So baby, if I go crazy Will you be my partner in crime? Baby, baby Got to believe Got to believe Call me the trouble in mind Call me the trouble Well, my mind I got a lot for you But playing the field ever mind Baby, baby Got to believe Got to believe Call me the trouble in mind Got to believe Got to believe, yeah Got to believe Got to believe Got to believe, oh yeah Got to believe Got to believe, oh yeah Got to believe Got to believe, oh yeah Got to believe Got to believe, oh yeah Got to believe, oh yeah Got to believe, oh yeah Got to believe, oh yeah Got to believe Call me the trouble in mind Got to believe, oh yeah Got to believe, sweet sugar Got to believe, yeah Got to believe, my my my Got to believe, my my my Got to believe, my my my Got to believe, yeah baby, oh Got to believe Got to believe, baby, I'm down"
+  },
+  "metadata": {
+    "youtube_id": "EMoi_m2G6XU",
+    "title_extracted": null,
+    "corpus_id": "EMoi_m2G6XU",
+    "uploader": "The Rolling Stones",
+    "audio_file": "corpus/01_music_videos_audio/audio/EMoi_m2G6XU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7281856,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.7251,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:40:10Z"
+  },
+  "status": "success",
+  "error": null
+}

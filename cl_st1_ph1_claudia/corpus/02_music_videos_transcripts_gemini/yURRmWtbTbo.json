@@ -1,0 +1,38 @@
+{
+  "corpus_id": "yURRmWtbTbo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yURRmWtbTbo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/yURRmWtbTbo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/yURRmWtbTbo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You know, I was I was wondering, you know, if if you could keep on, because the force, it's got a lot of power, you know? It makes me feel like it it makes me feel like Woo! Lovely is the feeling now Fever The temperature's rising now Power, oh power Is the force, the power That makes it happen It asks no questions why, ooh So kiss me Kiss me, darling Come on and hold me Just love me Baby, tonight Keep on with the force, don't stop Don't stop 'til you get enough Keep on with the force, don't stop Don't stop 'til you get enough Keep on with the force, don't stop Don't stop 'til you get enough Keep on with the force, don't stop Don't stop 'til you get enough Touch me And I'm on fire Nothin' Like a burning desire Ooh I'm melting I'm melting like hot candle wax Sensation Oh, sensation Lovely where we at Woo! So let's love Take us through the hours I won't be complainin' 'Cause this is love power, ooh Keep on with the force, don't stop Don't stop 'til you get enough Keep on with the force, don't stop Don't stop 'til you get enough Keep on with the force, don't stop Don't stop 'til you get enough Keep on with the force, don't stop Don't stop 'til you get enough Woo! Lovely It's the feeling now I won't be complainin', ooh! The force is love power Keep on with the force, don't stop Don't stop 'til you get enough Keep on with the force, don't stop Don't stop, darling Don't stop 'til you get enough Keep on with the force, don't stop Don't make me Don't stop 'til you get enough Keep on Keep on 'til you get enough Keep on, child 'Til you get enough Keep on with the force, don't stop 'Til you get enough Keep on, child 'Til you get enough Keep on with the force, don't stop 'Til you get enough Don't stop 'til you get enough Ooh, 'til you get enough 'Til you get enough 'Til you get enough Keep on, yeah 'Til you get enough Keep on Keep on, baby 'Til you get enough Keep on with the force, don't stop 'Til you get enough Keep on, baby"
+  },
+  "metadata": {
+    "youtube_id": "yURRmWtbTbo",
+    "title_extracted": null,
+    "corpus_id": "yURRmWtbTbo",
+    "uploader": "Michael Jackson",
+    "audio_file": "corpus/01_music_videos_audio/audio/yURRmWtbTbo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8105886,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.988827,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:55:08Z"
+  },
+  "status": "success",
+  "error": null
+}

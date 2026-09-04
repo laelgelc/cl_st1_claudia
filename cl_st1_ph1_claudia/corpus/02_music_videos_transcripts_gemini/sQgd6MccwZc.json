@@ -1,0 +1,38 @@
+{
+  "corpus_id": "sQgd6MccwZc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/sQgd6MccwZc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/sQgd6MccwZc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/sQgd6MccwZc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Darkchild 99.  Say my name, say my name.  When no one is around you, say baby I love you if you ain't runnin' game.  Say my name, say my name.  You're actin' kind of shady, ain't callin' me baby, why the sudden change?  Say my name, say my name.  When no one is around you, say baby I love you if you ain't runnin' game.  Say my name, say my name.  You're actin' kind of shady, ain't callin' me baby, better say my name.  Other day, I would call, you would say, \"Baby, how's your day?\" But today, it ain't the same. Every other word is \"uh-huh\", yeah \"okay\". Could it be that you are at the crib with another lady? If you took it there, first of all, let me say I am not the one to sit around and be played, so prove yourself to me. I'm the girl that you claim, why don't you say the things that you said to me yesterday?  I know you say that I'm assumin' things. Somethin's goin' down, that's the way it seems. Shouldn't be no reason why you're actin' strange, if nobody's holdin' you back from me. 'Cause I know how you used to do when you're sayin' everything to me times two. Why can't you just tell the truth? If somebody's there then tell me who.  Say my name, say my name. When no one is around you, say baby I love you if you ain't runnin' game. Say my name, say my name. You're actin' kind of shady, ain't callin' me baby, why the sudden change? Say my name, say my name. When no one is around you, say baby I love you if you ain't runnin' game. Say my name, say my name. You're actin' kind of shady, ain't callin' me baby, better say my name.  What is up with this? Tell the truth, who you with? How would you like it if I came over with my clique? Don't try to change it now, say you got to bounce, when two seconds ago said you just got in the house. It's hard to believe that you are at home by yourself when I just heard the voice, heard the voice of someone else. Just answer this question why, do you feel you got to lie, getting caught up in your game when you cannot say my name?  I know you say that I'm assumin' things. Somethin's goin' down, that's the way it seems. Shouldn't be no reason why you're actin' strange, if nobody's holdin' you back from me. 'Cause I know how you used to do when you're sayin' everything to me times two. Why can't you just tell the truth? If somebody's there then tell me who.  Say my name, say my name. When no one is around you, say baby I love you if you ain't runnin' game. Say my name, say my name. You're actin' kind of shady, ain't callin' me baby, why the sudden change? Say my name, say my name, if ain't nothing changed, say baby I love you if you ain't runnin' game. Say my name, say my name. You're actin' kind of shady, ain't callin' me baby, better say my name.  All my ladies, yeah. Yeah, yeah, yeah, yeah, yeah. DC, say that. Come on. Yeah, yeah, yeah, yeah. Yeah, yeah, yeah, yeah. All the girls say. Yeah, yeah, yeah, yeah. All my ladies sing. Yeah, yeah, yeah, yeah. All the girls say. Yeah, yeah, yeah, yeah. Break it down. Oh!  DC, take it to the bridge, come on. I know you say that I'm assumin' things. Somethin's goin' down, that's the way it seems. Shouldn't be no reason why you're actin' strange, if nobody's holdin' you back from me. 'Cause I know how you used to do when you're sayin' everything to me times two. Why can't you just tell the truth? If somebody's there then tell me who.  Say my name, say my name. When no one is around you, say baby I love you, call me your baby. Say my name, say my name. You're actin' kind of shady, ain't callin' me baby, why the sudden change? Say my name, say my name. When no one is around you, say baby I love you if you ain't runnin' game. Say my name, say my name. You're actin' kind of shady, ain't callin' me baby, better say my name."
+  },
+  "metadata": {
+    "youtube_id": "sQgd6MccwZc",
+    "title_extracted": null,
+    "corpus_id": "sQgd6MccwZc",
+    "uploader": "Destiny's Child",
+    "audio_file": "corpus/01_music_videos_audio/audio/sQgd6MccwZc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7663778,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.211803,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:02:25Z"
+  },
+  "status": "success",
+  "error": null
+}

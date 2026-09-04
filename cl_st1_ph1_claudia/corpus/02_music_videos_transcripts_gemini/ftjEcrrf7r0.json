@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ftjEcrrf7r0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ftjEcrrf7r0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ftjEcrrf7r0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ftjEcrrf7r0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Is it getting better? Or do you feel the same? Will it make it easier on you now? You got someone to blame. You say... One love, one life, when it's one need in the night. One love, we get to share it. Leaves you, baby, if you don't care for it. Did I disappoint you? Or leave a bad taste in your mouth? You act like you never had love, and you want me to go without. Well, it's too late tonight to drag the past out into the light. We're one, but we're not the same. We get to carry each other, carry each other... Oh... Have you come here for forgiveness? Have you come to raise the dead? Have you come here to play Jesus to the lepers in your head? Did I ask too much? More than a lot? You gave me nothing, now it's all I got. We're one, but we're not the same. Well, we hurt each other, then we're doing it again. You say love is a temple, love a higher law. Love is a temple, love the higher law. You ask me to enter, then you make me crawl, and I can't be holding on to what you got when all you got is hurt. One love, one blood, one life, you got to do what you should. One life with each other: sisters, brothers. One life, but we're not the same. We get to carry each other, carry each other. One..."
+  },
+  "metadata": {
+    "youtube_id": "ftjEcrrf7r0",
+    "title_extracted": null,
+    "corpus_id": "ftjEcrrf7r0",
+    "uploader": "U2",
+    "audio_file": "corpus/01_music_videos_audio/audio/ftjEcrrf7r0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8752330,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.794183,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:35:50Z"
+  },
+  "status": "success",
+  "error": null
+}

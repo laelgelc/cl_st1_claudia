@@ -1,0 +1,38 @@
+{
+  "corpus_id": "zVJ5gsLeCSM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/zVJ5gsLeCSM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/zVJ5gsLeCSM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/zVJ5gsLeCSM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Baby, tell me if you like it\nIt's me and you now\nI've been waiting\nThink I wanna make that move now\nBaby, tell me how you like it\n\nBad boy\n\nI know you've been waiting so long\nI'm here to answer your call\nI know that I shouldn't have had you waiting at all\nI've been so busy\nBut I've been thinking 'bout what I wanna do with you\nI know that my— the guys, they've been talking 'bout the way I do what I do\nThey heard I was good, they wanna see if it's true\nThey know you're the one I wanna give it to\nI can see you on me too\nNow it's me and you\n\nNow, I've been waiting\nThink I wanna make that move now\nBaby, tell me if you like it\nIt's me and you now\nI've been waiting\nThink I wanna make that move now\nBaby, tell me how you like it\n\nI was waiting for you to tell me you were ready\nI know what to do if only you would let me\nAs long as you're cool with it, I'll treat you right\nHere is where you wanna be\nI know that my— the guys, they've been talking 'bout the way I do what I do\nThey heard I was good, they wanna see if it's true\nThey know you're the one I wanna give it to\nI can see you on me too\nAnd now it's me and you\n\nNow, I've been waiting\nThink I wanna make that move now\nBaby, tell me if you like it\nIt's me and you now\nI've been waiting\nThink I wanna make that move now\nBaby, tell me how you like it\n\nBaby, I love you all the way down\nGet you right where you like it\nI promise you'll like it, I swear\nJust relax and let me make that move\nKeep it secret, babe, keep it between me and you\n\nNow, I've been waiting\nThink I wanna make that move now\nBaby, tell me if you like it\nIt's me and you now\nI've been waiting\nThink I wanna make that move now\nBaby, tell me how you like it\nIt's me and you\nMe and you\nIt's just me and you\nIt's just us two\nIt's just me and you\nI've been waiting, I've been waiting..."
+  },
+  "metadata": {
+    "youtube_id": "zVJ5gsLeCSM",
+    "title_extracted": null,
+    "corpus_id": "zVJ5gsLeCSM",
+    "uploader": "Bad Boy Entertainment",
+    "audio_file": "corpus/01_music_videos_audio/audio/zVJ5gsLeCSM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7047798,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.515425,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:17:00Z"
+  },
+  "status": "success",
+  "error": null
+}

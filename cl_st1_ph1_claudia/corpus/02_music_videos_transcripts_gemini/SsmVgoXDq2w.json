@@ -1,0 +1,38 @@
+{
+  "corpus_id": "SsmVgoXDq2w",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/SsmVgoXDq2w.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/SsmVgoXDq2w.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/SsmVgoXDq2w.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "6 o'clock already, I was just in the middle of a dream\nI was kissing Valentino by a crystal blue Italian stream\nBut I can't be late 'cause then I guess I just won't get paid\nThese are the days when you wish your bed was already made\n\nIt's just another manic Monday (Ooh, ooh)\nWish it was Sunday (Ooh, ooh)\n'Cause that's my fun day (Ooh, ooh)\nMy \"I don't have to run\" day\nIt's just another manic Monday\n\nHave to catch an early train, got to be to work by nine\nAnd if I had an airplane, I still couldn't make it on time\n'Cause it takes me so long just to figure out what I'm gonna wear\nBlame it on the train, but the bus is already there\n\nIt's just another manic Monday (Ooh, ooh)\nWish it was Sunday (Ooh, ooh)\n'Cause that's my fun day (Ooh, ooh)\nMy \"I don't have to run\" day\nIt's just another manic Monday\n\nAll of my nights, why did my lover have to pick last night to get down? (Last night, last night)\nDoesn't matter that I have to feed the dog, the bus and board myself\nHe tells me in his bedroom voice\n\"C'mon honey, let's go make some noise\"\nTime, it goes so fast (When you're having fun)\n\nIt's just another manic Monday (Ooh, ooh)\nWish it was Sunday (Ooh, ooh)\n'Cause that's my fun day (Ooh, ooh)\nMy \"I don't have to run\" day\nIt's just another manic Monday (Ooh, ooh)\nWish it was Sunday (Ooh, ooh)\n'Cause that's my fun day\nIt's just another manic Monday"
+  },
+  "metadata": {
+    "youtube_id": "SsmVgoXDq2w",
+    "title_extracted": null,
+    "corpus_id": "SsmVgoXDq2w",
+    "uploader": "The Bangles",
+    "audio_file": "corpus/01_music_videos_audio/audio/SsmVgoXDq2w.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6121230,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.840526,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:28:15Z"
+  },
+  "status": "success",
+  "error": null
+}

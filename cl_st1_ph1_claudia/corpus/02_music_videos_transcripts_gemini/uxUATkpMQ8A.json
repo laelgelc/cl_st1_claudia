@@ -1,0 +1,38 @@
+{
+  "corpus_id": "uxUATkpMQ8A",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uxUATkpMQ8A.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/uxUATkpMQ8A.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/uxUATkpMQ8A.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I wake up every evening With a big smile on my face And I never feel out of place And you're still probably working At a 9 to 5 pace I wonder how bad that tastes When you see my face, I hope it gives you hell, I hope it gives you hell When you walk my way, I hope it gives you hell, I hope it gives you hell And where's your picket fence love? And where's that shiny car? Did it ever get you far? You never seemed so tense, though I've never seen you fall so hard Do you know where you are? Truth be told, I miss you Truth be told, I'm lying When you see my face, I hope it gives you hell, I hope it gives you hell When you walk my way, I hope it gives you hell, I hope it gives you hell If you find a man that's worth a damn and treats you well Then he's a fool, you're just as well, I hope it gives you hell I hope it gives you hell Tomorrow you'll be thinking to yourself Yeah, where did it all go wrong? But the list goes on and on Truth be told, I miss you Truth be told, I'm lying When you see my face, I hope it gives you hell, I hope it gives you hell When you walk my way, I hope it gives you hell, I hope it gives you hell If you find a man that's worth a damn and treats you well Then he's a fool, you're just as well, I hope it gives you hell Now you'll never see what you've done to me You can take back your memories, they're no good to me And here's all your lies, you can look me in the eyes With the sad, sad look that you wear so well When you see my face, I hope it gives you hell, I hope it gives you hell When you walk my way, I hope it gives you hell, I hope it gives you hell When you find a man that's worth a damn and treats you well Then he's a fool, you're just as well, I hope it gives you hell When you see my face, I hope it gives you hell, I hope it gives you hell When you walk my way, I hope it gives you hell, I hope it gives you hell When you hear this song, you sing along, well, you'll never tell And you're the fool, I'm just as well, I hope it gives you hell When you hear this song, I hope that it will give you hell You can sing along, I hope that it puts you through hell"
+  },
+  "metadata": {
+    "youtube_id": "uxUATkpMQ8A",
+    "title_extracted": null,
+    "corpus_id": "uxUATkpMQ8A",
+    "uploader": "The All-American Rejects",
+    "audio_file": "corpus/01_music_videos_audio/audio/uxUATkpMQ8A.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6910336,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.560951,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:57:47Z"
+  },
+  "status": "success",
+  "error": null
+}

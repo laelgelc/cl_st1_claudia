@@ -1,0 +1,38 @@
+{
+  "corpus_id": "VcjzHMhBtf0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/VcjzHMhBtf0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/VcjzHMhBtf0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/VcjzHMhBtf0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Just a small town girl Living in a lonely world She took the midnight train going anywhere Just a city boy Born and raised in South Detroit He took the midnight train going anywhere A singer in a smoky room The smell of wine and cheap perfume For a smile they can share the night It goes on and on and on and on Strangers waiting Up and down the boulevard Their shadows searching in the night Streetlights, people Living just to find emotion Hiding somewhere in the night Working hard to get my fill Everybody wants a thrill Paying anything to roll the dice just one more time Some will win, some will lose Some were born to sing the blues Oh, the movie never ends It goes on and on and on and on Come on Houston! Strangers waiting Up and down the boulevard Their shadows searching in the night Streetlights, people Living just to find emotion Hiding somewhere in the night Don't stop believing Hold on to that feeling Streetlights, people Don't stop believing Oh Streetlights, people Don't stop believing Hold on each day to your feeling Streetlights, people Don't stop!"
+  },
+  "metadata": {
+    "youtube_id": "VcjzHMhBtf0",
+    "title_extracted": null,
+    "corpus_id": "VcjzHMhBtf0",
+    "uploader": "journey",
+    "audio_file": "corpus/01_music_videos_audio/audio/VcjzHMhBtf0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8052388,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 11.01994,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:11:29Z"
+  },
+  "status": "success",
+  "error": null
+}

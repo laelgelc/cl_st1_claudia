@@ -1,0 +1,38 @@
+{
+  "corpus_id": "hUcwNwMKAWs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hUcwNwMKAWs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/hUcwNwMKAWs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/hUcwNwMKAWs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Standing on a corner Suitcase in my hand Jack is in his corset, Jane is in her vest And me, I'm in a rock and roll band Riding in a Stuyvesant car, catch 'em You know, those were different times All, all the poets, they studied rules of verse And those ladies, they rolled their eyes Sweet Jane Sweet Jane Sweet Jane Now Jack, he is a banker And Jane, she is a clerk And both of them save their monies And when, when they come home from work Sitting down by the fire The radio does play The classical music that jams, The March of the Wooden Soldiers, all you kids You can hear Jack say Get ready Sweet Jane Come on baby Sweet Jane Sweet Jane Some people, they like to go out dancing And other people, they have to work, just watch them now And there's even some evil mothers Well, they're gonna tell you that everything is just dirt You know that women never really faint And that villains always blink their eyes, ooh And that, you know, children are the only ones who blush And that life is just to die But anyone who had a heart Oh, and anyone who had a break And anyone who played a part Oh, and would turn around and hate it Sweet Jane Sweet Jane Sweet Jane Heavenly wine and roses Seem to whisper to her when he smiles Heavenly wine and roses Seem to whisper to her, hey baby, when she smiles La-la-la, la-la-la-la La-la-la, la-la-la-la La-la-la, la-la-la-la La-la-la, la-la-la-la Sweet Jane Sweet Jane Sweet Jane Sweet Jane Sweet Jane Sweet Jane Sweet Jane"
+  },
+  "metadata": {
+    "youtube_id": "hUcwNwMKAWs",
+    "title_extracted": null,
+    "corpus_id": "hUcwNwMKAWs",
+    "uploader": "The Velvet Underground",
+    "audio_file": "corpus/01_music_videos_audio/audio/hUcwNwMKAWs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7882232,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.328781,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:41:48Z"
+  },
+  "status": "success",
+  "error": null
+}

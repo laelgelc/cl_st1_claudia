@@ -1,0 +1,38 @@
+{
+  "corpus_id": "8PvebsWcpto",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8PvebsWcpto.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/8PvebsWcpto.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/8PvebsWcpto.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Baby, you a song, you make me wanna roll my windows down and cruise. Hey baby. Yeah, when I first saw that bikini top on her, she's poppin' right out of the South Georgia water. Tan tall good lord, she had them long tan legs. Couldn't help myself, so I walked up and said, \"Baby, you a song, you make me wanna roll my windows down and cruise. Down a back road blowin' stop signs through the middle of every little farm town with you. In this brand new Chevy with a lift kit. It look a hell of a lot better with you up in it. So baby, you a song, you make me wanna roll my windows down and cruise.\" We were sippin' on Southern and singin' Marshall Tucker. We were fallin' in love in the sweetheart of summer. She hopped right up into the cab of my truck and said, \"Fire it up, let's go get this thing stuck.\" Baby, you a song, you make me wanna roll my windows down and cruise. Down a back road blowin' stop signs through the middle of every little farm town with you. In this brand new Chevy with a lift kit. It look a hell of a lot better with you up in it. So baby, you a song, you make me wanna roll my windows down and cruise. When that summer sun fell to its knees, I looked at her and she looked at me, then I turned on those KC lights and drove all night cause it felt so right. Her and I, man, we felt so right. I put it in park and grabbed my guitar and strummed a couple chords and sang from the heart. \"Girl, you sure got the beat in my chest bumpin'. Hell, I can't get you out of my head.\" Baby, you a song, you make me wanna roll my windows down and cruise. Down a back road blowin' stop signs through the middle of every little farm town with you. Baby, you a song, you make me wanna roll my windows down and cruise. Down a back road blowin' stop signs through the middle of every little farm town with you. In this brand new Chevy with a lift kit. It look a hell of a lot better with you up in it. Come on! Baby, you a song, you make me wanna roll my windows down and cruise. Come on, girl! Get those windows down and cruise. Oh, yeah!"
+  },
+  "metadata": {
+    "youtube_id": "8PvebsWcpto",
+    "title_extracted": null,
+    "corpus_id": "8PvebsWcpto",
+    "uploader": "Florida Georgia Line",
+    "audio_file": "corpus/01_music_videos_audio/audio/8PvebsWcpto.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6913310,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.528346,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:46:32Z"
+  },
+  "status": "success",
+  "error": null
+}

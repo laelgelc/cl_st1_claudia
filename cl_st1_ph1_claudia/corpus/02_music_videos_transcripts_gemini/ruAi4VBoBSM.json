@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ruAi4VBoBSM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ruAi4VBoBSM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ruAi4VBoBSM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ruAi4VBoBSM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "All right, let's, let's... tonight's performance be the best performance... We've come a long, long way together Through the hard times and the good I have to celebrate you, baby I have to praise you like I should We've come a long, long way together Through the hard times and the good I have to celebrate you, baby I have to praise you like I should I have to praise you I have to praise you I have to praise you I have to praise you like I should I have to praise you I love you, Fatboy! I have to praise you I have to praise you I have to praise you I have to praise you like I should We've come a long, long way together Through the hard times and the good I have to celebrate you, baby I have to praise you like I should I have to praise you I have to praise you I have to praise you I have to praise you like I should I have to praise you"
+  },
+  "metadata": {
+    "youtube_id": "ruAi4VBoBSM",
+    "title_extracted": null,
+    "corpus_id": "ruAi4VBoBSM",
+    "uploader": "Fatboy Slim",
+    "audio_file": "corpus/01_music_videos_audio/audio/ruAi4VBoBSM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7235788,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.389791,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:50:46Z"
+  },
+  "status": "success",
+  "error": null
+}

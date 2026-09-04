@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ZyhrYis509A",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ZyhrYis509A.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ZyhrYis509A.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ZyhrYis509A.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Hiya, Barbie! Hi, Ken! You wanna go for a ride? Sure, Ken! Jump in! I'm a Barbie girl, in the Barbie world Life in plastic, it's fantastic You can brush my hair, undress me everywhere Imagination, life is your creation Come on, Barbie, let's go party! I'm a Barbie girl, in the Barbie world Life in plastic, it's fantastic You can brush my hair, undress me everywhere Imagination, life is your creation I'm a blonde bimbo girl in a fantasy world Dress me up, make it tight, I'm your dolly You're my doll, rock 'n' roll, feel the glamour in pink Kiss me here, touch me there, hanky panky You can touch, you can play If you say, \"I'm always yours\" I'm a Barbie girl, in the Barbie world Life in plastic, it's fantastic You can brush my hair, undress me everywhere Imagination, life is your creation Come on, Barbie, let's go party! Ah, ah, ah, yeah Come on, Barbie, let's go party! Come on, Barbie, let's go party! Ah, ah, ah, yeah Come on, Barbie, let's go party! Make me walk, make me talk, do whatever you please I can act like a star, I can beg on my knees Come jump in, bimbo friend, let us do it again Hit the town, fool around, let's go party You can touch, you can play If you say, \"I'm always yours\" You can touch, you can play If you say, \"I'm always yours\" Come on, Barbie, let's go party! Ah, ah, ah, yeah Come on, Barbie, let's go party! Come on, Barbie, let's go party! Ah, ah, ah, yeah Come on, Barbie, let's go party! I'm a Barbie girl, in the Barbie world Life in plastic, it's fantastic You can brush my hair, undress me everywhere Imagination, life is your creation I'm a Barbie girl, in the Barbie world Life in plastic, it's fantastic You can brush my hair, undress me everywhere Imagination, life is your creation Come on, Barbie, let's go party! Ah, ah, ah, yeah Come on, Barbie, let's go party! Come on, Barbie, let's go party! Ah, ah, ah, yeah Come on, Barbie, let's go party! Oh, I'm having so much fun! Well, Barbie, we're just getting started. Oh, I love you, Ken!"
+  },
+  "metadata": {
+    "youtube_id": "ZyhrYis509A",
+    "title_extracted": null,
+    "corpus_id": "ZyhrYis509A",
+    "uploader": "Aqua",
+    "audio_file": "corpus/01_music_videos_audio/audio/ZyhrYis509A.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6436278,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.395097,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:24:53Z"
+  },
+  "status": "success",
+  "error": null
+}

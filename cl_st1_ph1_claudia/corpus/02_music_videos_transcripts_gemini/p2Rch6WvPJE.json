@@ -1,0 +1,38 @@
+{
+  "corpus_id": "p2Rch6WvPJE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/p2Rch6WvPJE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/p2Rch6WvPJE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/p2Rch6WvPJE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "La la la la la la\nOh\nAh ah ah ah\n\nDon't leave me in all this pain\nDon't leave me out in the rain\nCome back and bring back my smile\nCome and take these tears away\nI need your arms to hold me now\nThe nights are so unkind\nBring back those nights when I held you beside me\n\nUn-break my heart\nSay you'll love me again\nUn-do this hurt you caused\nWhen you walked out the door and walked out of my life\nUn-cry these tears\nI cried so many nights\nUn-break my heart\nMy heart\n\nTake back that sad word goodbye\nBring back the joy to my life\nDon't leave me here with these tears\nCome and kiss this pain away\nI can't forget the day you left\nTime is so unkind\nAnd life is so cruel without you here beside me\n\nUn-break my heart\nSay you'll love me again\nUn-do this hurt you caused\nWhen you walked out the door and walked out of my life\nUn-cry these tears\nI cried so many nights\nUn-break my heart\n\nOh, oh, oh, ho...\n\nDon't leave me in all this pain\nDon't leave me out in the rain\nBring back those nights when I held you beside me\n\nUn-break my heart\nSay you'll love me again\nUn-do this hurt you caused\nWhen you walked out the door and walked out of my life\nUn-cry these tears\nI cried so many, many nights\nUn-break my\nUn-break my heart, oh baby\nCome back and say you love me\nUn-break my heart, sweet darling\nWithout you I just can't go on\n\nSay you'll...\nSay you'll...\nOh...\nSay you'll...\nSay you'll...\nSay you'll..."
+  },
+  "metadata": {
+    "youtube_id": "p2Rch6WvPJE",
+    "title_extracted": null,
+    "corpus_id": "p2Rch6WvPJE",
+    "uploader": "Toni Braxton",
+    "audio_file": "corpus/01_music_videos_audio/audio/p2Rch6WvPJE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8741184,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.226815,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:49:43Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "uTMuqL0qx08",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uTMuqL0qx08.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/uTMuqL0qx08.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/uTMuqL0qx08.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Uh, Dirty South, uh-huh. Can y'all really feel me? Fellas. East Coast, feel me. Fellas. West Coast, feel me. Say what? Dirty South, uh. Here we go. Can y'all really feel me? Baby girl. East Coast, feel me. Uh-huh. West Coast, feel me. Can y'all feel us? Dirty South. Dirty, dirty. Can y'all really feel me? Feel it. East Coast, feel me. Say what? West Coast, feel me. Uh-huh. Dirty South. Dirty, dirty, dirty. I got to pick it, pick it. East Coast, feel me. West Coast, feel me. Woah! Boy, I've been watching you like the hawk in the sky. That fly, boy, you're my prey. Boy, I promise you if we keep bumping heads, I know that one of these days We gonna hook it up, probably talk on the phone, but see, I don't know if that's good. I've been holding back this secret from you. I probably shouldn't tell it. If I, if I let you know, you can't tell nobody, I'm talking nobody. Are you responsible? Boy, I gotta watch my back, so much is at risk. Is it my goal, or is it your goal? Sometimes I'm a dirty girl, right now I'm not in the mood. Say yes or say no, 'cause I really need somebody. Tell me, are you that somebody? Boy, won't you pick me up at the park right now, up the block, while everyone's sleep, sleep, sleep? I'll be waiting there in my trucks, my low cuts, my hat, just so I'm low key. If you tell the world, you know that we'll be weak. Oh boy, see, I'm trusting you with my heart, my soul. I probably shouldn't let you go. If I, if I let this go, you can't tell nobody, I'm talking nobody. I hope you're responsible. Boy, I gotta watch my back, so much is at risk. Is it my goal, or is it your goal? Sometimes I'm a dirty girl, right now I'm not in the mood. Say yes or say no, 'cause I really need somebody. Tell me, are you that somebody? Uh, baby girl, uh-huh. I'm the man from the Big V-A. Why don't you come play round my way, uh-huh, and listen to what I got to say, uh-huh. Timbaland, uh. Don't you know I am the man? Rocking shows here to Japan, uh. Have people shaking, shaking my hand, uh. Baby girl, uh, better known as Aaliyah. Give me goosebumps and high fever. Make the playa haters believe, uh. Don't you know, uh, gotta tell somebody. 'Cause I really need somebody. Uh-huh. Tell me, are you that somebody? Uh-huh. Say what? If I, if I let this go, you can't tell nobody, I'm talking nobody. Are you responsible? Boy, I gotta watch my back, so much is at risk. Is it my goal, or is it your goal? Sometimes I'm a dirty girl, right now I'm not in the mood. Say yes or say no, 'cause I really need somebody. Tell me, are you that somebody? You can't tell nobody, I'm talking nobody. I hope you're responsible. Boy, I gotta watch my back, so much is at risk. Is it my goal, or is it your goal? Sometimes I'm a dirty girl, right now I'm not in the mood. Say yes or say no, 'cause I really need somebody. Tell me, are you that somebody? Is it my goal, or is it your goal? Sometimes I'm a dirty girl, right now I'm not in the mood. 'Cause I really need somebody. Tell me, are you that somebody? You can't tell nobody, I'm talking nobody. Boy, I gotta watch my back, so much is at risk."
+  },
+  "metadata": {
+    "youtube_id": "uTMuqL0qx08",
+    "title_extracted": null,
+    "corpus_id": "uTMuqL0qx08",
+    "uploader": "Blackground Records 2.0",
+    "audio_file": "corpus/01_music_videos_audio/audio/uTMuqL0qx08.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8426136,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.652565,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:03:39Z"
+  },
+  "status": "success",
+  "error": null
+}

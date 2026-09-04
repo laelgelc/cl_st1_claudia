@@ -1,0 +1,38 @@
+{
+  "corpus_id": "YtbFPLK-JWI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/YtbFPLK-JWI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/YtbFPLK-JWI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/YtbFPLK-JWI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "My girl's like candy, a candy treat\nShe knocked me high up off my feet\nShe's so fine as can be\nI know this girl was meant for me\n\nCandy girl\nYou're my world\nYou look so sweet\nA special treat\n\nCandy girl\nAll I want to say\nWhen you're with me\nYou light up my day\n\nAll I know\nWhen I'm with you\nYou make me feel so good\nThrough and through\nThe way you walk\nAnd the way you talk\nYou always look so good\nYou make me forget my thoughts\n\nDo you really love me?\nDo you really care?\nDo you really need me?\nWill you always be there?\n\nEvery night\nAnd every day\nI'm always thinking of you\nIn every way\n\nAll I know\nWhen I'm with you\nYou make me feel so good\nThrough and through\n\nCandy girl\nYou're everything, everything, everything to me\nCandy girl\nAll I want to say\nI need your love\nEach and every day\n\nHey fellas!\nWhat?\nCheck out Mike and Bobby's girl!\nWoo!\nWell, check out Ricky and Ralph!\nWhat about Ronnie?\nShe's back! She's back!\nI know she's back!\nShe walks so fancy, looks so sweet\nShe makes my heart just skip a beat\nMy girl's the best and that's no lie\nShe tells me that I'm her only guy\nThat might be true, but my girl's a joy\nShe don't play around, she's right to the point\nMy girl's like candy, a candy treat\nShe knocked me high up off my feet\n\nOh Candy\nYou look so sweet\nOh Candy\nA special treat\n\nCandy girl\nYou're my world\nI need your love\nEach and every day\n\nCandy girl\nAll I want to say\nYou're everything, everything, everything to me\n\nCandy girl\nYou're my world\nI need your love\nEach and every day\n\nCandy girl\nAll I want to say\nYou're everything, everything, everything to me\n\nCandy girl\nI need it, need it, need it, need it, need it, everything"
+  },
+  "metadata": {
+    "youtube_id": "YtbFPLK-JWI",
+    "title_extracted": null,
+    "corpus_id": "YtbFPLK-JWI",
+    "uploader": "New Edition",
+    "audio_file": "corpus/01_music_videos_audio/audio/YtbFPLK-JWI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7049286,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.554129,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:48:32Z"
+  },
+  "status": "success",
+  "error": null
+}

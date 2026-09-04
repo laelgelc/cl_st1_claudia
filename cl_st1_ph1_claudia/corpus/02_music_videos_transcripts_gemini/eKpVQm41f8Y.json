@@ -1,0 +1,38 @@
+{
+  "corpus_id": "eKpVQm41f8Y",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/eKpVQm41f8Y.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/eKpVQm41f8Y.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/eKpVQm41f8Y.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Everybody's doing a brand new dance, now (Come on, baby, do the Loco-Motion) I know you'll get to like it if you give it a chance, now (Come on, baby, do the Loco-Motion) My little baby sister can do it with ease It's easier than learning your ABCs So come on, come on, do the Loco-Motion with me You gotta swing your hips, now Come on, baby Jump up, jump back Well, I think you've got the knack, woah, woah Now that you can do it, let's make a chain, now (Come on, baby, do the Loco-Motion) A chug-a chug-a motion like a railroad train, now (Come on, baby, do the Loco-Motion) Do it nice and easy, now, don't lose control A little bit of rhythm and a lot of soul So come on, come on, do the Loco-Motion with me Move around the floor in a Loco-Motion (Come on, baby, do the Loco-Motion) Do it holding hands if you get the notion (Come on, baby, do the Loco-Motion) There's never been a dance that's so easy to do It even makes you happy when you're feeling blue So come on, come on, do the Loco-Motion with me You gotta swing your hips, now Come on, baby That's right You're doing fine Come on, baby Jump up, jump back You're looking good Jump up, jump back"
+  },
+  "metadata": {
+    "youtube_id": "eKpVQm41f8Y",
+    "title_extracted": null,
+    "corpus_id": "eKpVQm41f8Y",
+    "uploader": "Sironaca",
+    "audio_file": "corpus/01_music_videos_audio/audio/eKpVQm41f8Y.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4849148,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.871631,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:39:37Z"
+  },
+  "status": "success",
+  "error": null
+}

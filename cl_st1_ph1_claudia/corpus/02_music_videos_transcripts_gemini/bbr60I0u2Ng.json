@@ -1,0 +1,38 @@
+{
+  "corpus_id": "bbr60I0u2Ng",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/bbr60I0u2Ng.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/bbr60I0u2Ng.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/bbr60I0u2Ng.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Ooh, my little pretty one, pretty one \nWhen you gonna give me some time, Sharona? \nOoh, you make my motor run, my motor run \nGot it coming off of the line, Sharona \n\nNever gonna stop, give it up \nSuch a dirty mind, always get it up \nFor the touch of the younger kind \nMy, my, my, aye-aye, woo! \nM-m-m-my Sharona \n\nCome a little closer, huh, a-will ya, huh? \nClose enough to look in my eyes, Sharona \nKeeping it a mystery, it gets to me \nRunning down the length of my thigh, Sharona \n\nNever gonna stop, give it up \nSuch a dirty mind, always get it up \nFor the touch of the younger kind \nMy, my, my, aye-aye, woo! \nM-m-m-my Sharona \nM-m-m-my Sharona, yeah! \n\nWhen you gonna get to me, get to me? \nIs it just a matter of time, Sharona? \nIs it destiny, destiny? \nOr is it just a game in my mind, Sharona? \n\nNever gonna stop, give it up \nSuch a dirty mind, always get it up \nFor the touch of the younger kind \nMy, my, my, aye-aye, woo! \nM-m-m-m-m-my, my, my, aye-aye, woo! \nM-m-m-my Sharona \nM-m-m-my Sharona \nM-m-m-my Sharona \nM-m-m-my Sharona \n\nOoh, my Sharona \nWoo! Ooh, my Sharona \nOoh, my Sharona"
+  },
+  "metadata": {
+    "youtube_id": "bbr60I0u2Ng",
+    "title_extracted": null,
+    "corpus_id": "bbr60I0u2Ng",
+    "uploader": "TheKnackVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/bbr60I0u2Ng.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7761116,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.06893,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:30:15Z"
+  },
+  "status": "success",
+  "error": null
+}

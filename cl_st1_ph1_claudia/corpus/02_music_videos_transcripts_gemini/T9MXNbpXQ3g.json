@@ -1,0 +1,38 @@
+{
+  "corpus_id": "T9MXNbpXQ3g",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/T9MXNbpXQ3g.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/T9MXNbpXQ3g.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/T9MXNbpXQ3g.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Long as I remember Rain been comin' down Clouds of mystery pourin' Confusion on the ground Good men through the ages Tryin' to find the sun And I wonder, still I wonder Who'll stop the rain I went down Virginia Seekin' shelter from the storm Caught up in the fable I watched the tower grow Five year plans and new deals Wrapped in golden chains And I wonder, still I wonder Who'll stop the rain Heard the singers playin' How we cheered for more Crowded, rushed together Tryin' to keep warm Still the rain kept pourin' Fallin' on my ears And I wonder, still I wonder Who'll stop the rain"
+  },
+  "metadata": {
+    "youtube_id": "T9MXNbpXQ3g",
+    "title_extracted": null,
+    "corpus_id": "T9MXNbpXQ3g",
+    "uploader": "Creedence Clearwater Revival",
+    "audio_file": "corpus/01_music_videos_audio/audio/T9MXNbpXQ3g.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4801594,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.303051,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:11:29Z"
+  },
+  "status": "success",
+  "error": null
+}

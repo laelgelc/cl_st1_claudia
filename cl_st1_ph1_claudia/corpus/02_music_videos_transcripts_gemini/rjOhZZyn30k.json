@@ -1,0 +1,38 @@
+{
+  "corpus_id": "rjOhZZyn30k",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/rjOhZZyn30k.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/rjOhZZyn30k.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/rjOhZZyn30k.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Three little birds sit on my window\nAnd they told me I don't need to worry\nSummer came like a cinnamon, so sweet\nLittle girls double-dutch on the concrete\n\nMaybe sometimes we get it wrong, but it's alright\nThe more things seem to change, the more they stay the same\nOh, don't you hesitate\n\nGirl, put your records on, tell me your favourite song\nYou go ahead, let your hair down\nSapphire and faded jeans, I hope you get your dreams\nJust go ahead, let your hair down\nYou're gonna find yourself somewhere, somehow\n\nBlue as the sky, sunburnt and lonely\nSipping tea in a bar by the roadside\n(Yes, relax, just relax)\nDon't you let those other boys fool you\nGotta love that afro hair do\n\nMaybe sometimes we feel afraid, but it's alright\nThe more you stay the same, the more they seem to change\nDon't you think it's strange?\n\nGirl, put your records on, tell me your favourite song\nYou go ahead, let your hair down\nSapphire and faded jeans, I hope you get your dreams\nJust go ahead, let your hair down\nYou're gonna find yourself somewhere, somehow\n\n'Twas more than I could take, pity for pity's sake\nSome nights kept me awake\nI thought that I was stronger\nWhen you gonna realise that you don't even have to try any longer?\nDo what you want to\n\nGirl, put your records on, tell me your favourite song\nYou go ahead, let your hair down (Ooh, let your hair down)\nSapphire and faded jeans, I hope you get your dreams (I hope you get your dreams)\nJust go ahead, let your hair down (Baby, let your hair down)\nGirl, put your records on (Yeah, yeah), tell me your favourite song (Oh, girl)\nYou go ahead, let your hair down (Oh, yeah)\nSapphire and faded jeans (Ooh), I hope you get your dreams\nJust go ahead, let your hair down\nOh, you're gonna find yourself somewhere, somehow"
+  },
+  "metadata": {
+    "youtube_id": "rjOhZZyn30k",
+    "title_extracted": null,
+    "corpus_id": "rjOhZZyn30k",
+    "uploader": "Corinne Bailey Rae",
+    "audio_file": "corpus/01_music_videos_audio/audio/rjOhZZyn30k.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7501796,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.848319,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:20:37Z"
+  },
+  "status": "success",
+  "error": null
+}

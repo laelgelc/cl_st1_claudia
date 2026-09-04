@@ -1,0 +1,38 @@
+{
+  "corpus_id": "XwgkhIkSZFo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/XwgkhIkSZFo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/XwgkhIkSZFo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/XwgkhIkSZFo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "This is a song called \"I'm Waiting for My Man\". 1 2 3 4  I am waiting for my man Got $26 in my hand Up to Lexington, 125 Feelin' sick and dirty, more dead than alive I'm waiting for my man Hey white boy, what you doin' uptown? Hey white boy, you chasin' our women around? Oh, pardon me sir, it's furthest from my mind I'm just lookin' for a dear, dear friend of mine I'm waiting for my man Here he comes, he's all dressed in white PR shoes and a big straw hat He's never early, he's always late First thing you learn is that you always have to wait I'm waiting for my man Go on up to a brownstone, up three flights of stairs Now everybody's pinned you, but nobody cares He's got the works, gives you sweet taste Then you gotta split 'cause you got no time to waste I'm waiting for my man Hey baby, don't you holler Oh, don't you holler and shout I'm feelin' good, you know, now we're gonna work it all out I'm feelin' good, feelin' so fine Until tomorrow, but that's another different time I'm waiting for my man I'm waiting for my man I'm waiting for my man I'm waiting for my man I'm waiting for my man I'm waiting for my man I'm waiting for my man I'm waiting for my man I'm waiting for my man I'm waiting for my man I'm waiting for my man I'm waiting for my man Thank you."
+  },
+  "metadata": {
+    "youtube_id": "XwgkhIkSZFo",
+    "title_extracted": null,
+    "corpus_id": "XwgkhIkSZFo",
+    "uploader": "AnalogAnarchy99",
+    "audio_file": "corpus/01_music_videos_audio/audio/XwgkhIkSZFo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10873704,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 33.068194,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:39:32Z"
+  },
+  "status": "success",
+  "error": null
+}

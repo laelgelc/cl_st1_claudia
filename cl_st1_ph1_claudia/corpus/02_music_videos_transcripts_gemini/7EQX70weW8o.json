@@ -1,0 +1,38 @@
+{
+  "corpus_id": "7EQX70weW8o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/7EQX70weW8o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/7EQX70weW8o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/7EQX70weW8o.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Stupid Cupid, you're a real mean guy I'd like to clip your wings so you can't fly I'm in love and it's a crying shame And I know that you're the one to blame Hey, hey, set me free Stupid Cupid, stop pickin' on me I can't do my homework and I can't think straight I meet him every morning by the high school gate I'm actin' like a love-sick fool You've even got me carryin' his books to school Hey, hey, set me free Stupid Cupid, stop pickin' on me You mixed me up good right from the very start Hey, go play Robin Hood with somebody else's heart You got me jumpin' like a crazy clown And I don't feature what you're puttin' down Since I kissed his lovin' lips, oh my The thing that bothers me is I like it fine Hey, hey, set me free Stupid Cupid, stop pickin' on me You got me jumpin' like a crazy clown And I don't feature what you're puttin' down Since I kissed his lovin' lips, oh my The thing that bothers me is I like it fine Hey, hey, set me free Stupid Cupid, stop pickin' on me Hey, hey, set me free Stupid Cupid, stop pickin' on me Stupid Cupid Stupid Cupid"
+  },
+  "metadata": {
+    "youtube_id": "7EQX70weW8o",
+    "title_extracted": null,
+    "corpus_id": "7EQX70weW8o",
+    "uploader": "Smurfstools Oldies Music Time Machine",
+    "audio_file": "corpus/01_music_videos_audio/audio/7EQX70weW8o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4302272,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.029829,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:08:51Z"
+  },
+  "status": "success",
+  "error": null
+}

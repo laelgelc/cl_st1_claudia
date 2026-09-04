@@ -1,0 +1,38 @@
+{
+  "corpus_id": "m-H0uIH5HHQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/m-H0uIH5HHQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/m-H0uIH5HHQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/m-H0uIH5HHQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "A polished car and a screaming siren Pneumatic drill and ripped up concrete A baby wailing, stray dog howling Screeching brakes and red lights blinking That's entertainment Entertainment  A smash of glass and the rumble of boots Electric train and a ripped up bumper A spat on walls and the cry of a tomcat Lights going out and a kick in the balls, ah That's entertainment Entertainment  La la la la la La la la la la  A daze of speed and slow time Thursdays Sitting down with rain on a boring Wednesday Watching the news and not taking your tea A freezing cold flat and damp on the walls, ah That's entertainment Entertainment  Waking up at 6:00 a.m. on a cool warm morning Opening the windows and breathing in petrol An amateur band rehearsing in a nearby yard Watching the telly and thinking 'bout your holiday That's entertainment Entertainment  La la la la la La la la la la La la la la la La la la la la  Waking up from bad dreams and smudged cigarettes Cuddling a warm body and smelling bad breath A hot summer's day and sticky black tarmac Feeding ducks in the park and wishing you were far away That's entertainment Entertainment  Two lovers kissing to the scream of midnight Two lovers missing the tranquility of solitude Getting a cab and babbling on buses Reading the graffiti on the wall of a first-class seat, ah That's entertainment Entertainment  La la la la la La la la la la La la la la la La la la la la La la la la la La la la la la La la la la la La la la la la"
+  },
+  "metadata": {
+    "youtube_id": "m-H0uIH5HHQ",
+    "title_extracted": null,
+    "corpus_id": "m-H0uIH5HHQ",
+    "uploader": "The Jam",
+    "audio_file": "corpus/01_music_videos_audio/audio/m-H0uIH5HHQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6790708,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.461677,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:47:48Z"
+  },
+  "status": "success",
+  "error": null
+}

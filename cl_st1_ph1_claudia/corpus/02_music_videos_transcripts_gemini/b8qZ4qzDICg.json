@@ -1,0 +1,38 @@
+{
+  "corpus_id": "b8qZ4qzDICg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/b8qZ4qzDICg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/b8qZ4qzDICg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/b8qZ4qzDICg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Do you believe in magic in a young girl's heart? How the music can free her whenever it starts And it's magic if the music is groovy It makes you feel happy like an old-time movie I'll tell you 'bout the magic, and it'll free your soul But it's like trying to tell a stranger 'bout rock and roll If you believe in magic, don't bother to choose If it's jug band music or rhythm and blues Just go and listen, it'll start with a smile That won't wipe off your face no matter how hard you try Your feet start tapping and you can't seem to find How you got there, so just blow your mind If you believe in magic, come along with me We'll dance until morning 'til it's just you and me And maybe, if the music is right I'll meet you tomorrow, sort of late at night And we'll go dancing, baby, then you'll see How the magic's in the music and the music's in me, yeah Do you believe in magic? Yeah Believe in the magic of a young girl's soul Believe in the magic of rock and roll Believe in the magic that can set you free Oh, talk about the magic Talk about magic Do you believe in magic? Do you believe, believer? Do you believe like I believe? Do you believe like I believe? Ah!"
+  },
+  "metadata": {
+    "youtube_id": "b8qZ4qzDICg",
+    "title_extracted": null,
+    "corpus_id": "b8qZ4qzDICg",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/b8qZ4qzDICg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3793290,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 12.06314,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:23:48Z"
+  },
+  "status": "success",
+  "error": null
+}

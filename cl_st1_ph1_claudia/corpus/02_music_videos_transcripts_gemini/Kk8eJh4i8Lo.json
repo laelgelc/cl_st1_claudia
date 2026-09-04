@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Kk8eJh4i8Lo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Kk8eJh4i8Lo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Kk8eJh4i8Lo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Kk8eJh4i8Lo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Been there, done that, messed around, I'm having fun, don't put me down I'll never let you sweep me off my feet I won't let you in again The messages I've tried to send My information's just not going in Burning bridges sure to show I break away from something more I'm not turned off to love until it's cheap Been there, done that, messed around, I'm having fun, don't put me down I'll never let you sweep me off my feet This time, baby, I'll be bulletproof This time, baby, I'll be bulletproof I won't let you turn around and tell me no I'm much too proud to walk away from something when it's dead Do, do, do your dirty words come out to play when you are hurt? There's certain things that should be left unsaid Tick, tick, tick, tick on the clock and time's too short for me to stop Oh baby, your time is running out I won't let you turn around and tell me no, I'm much too proud All you do is fill me up with doubt This time, baby, I'll be bulletproof This time, baby, I'll be bulletproof This time, baby, I'll be bulletproof This time, baby, I'll be bulletproof This time, baby This time, baby This time, baby, I'll be bulletproof This time, baby, I'll be bulletproof This time, baby, I'll be bulletproof This time, baby, I'll be bulletproof"
+  },
+  "metadata": {
+    "youtube_id": "Kk8eJh4i8Lo",
+    "title_extracted": null,
+    "corpus_id": "Kk8eJh4i8Lo",
+    "uploader": "La Roux",
+    "audio_file": "corpus/01_music_videos_audio/audio/Kk8eJh4i8Lo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6640614,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.214738,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:05:10Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "PgRafRp-P-o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/PgRafRp-P-o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/PgRafRp-P-o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/PgRafRp-P-o.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Put on my blue suede shoes and I boarded the plane Touched down in the land of the Delta Blues In the middle of the pouring rain W.C. Handy Won't you look down over me? Yeah, I got a first class ticket But I'm as blue as a boy can be Then I'm walking in Memphis Walking with my feet ten feet off of Beale Walking in Memphis But do I really feel the way I feel? Saw the ghost of Elvis On Union Avenue Followed him up to the gates of Graceland And I watched him walk right through Now security, they didn't see him They're just hovering round his tomb There's a pretty little thing waiting for the King Down in the Jungle Room When I was walking in Memphis I was walking with my feet ten feet off of Beale Walking in Memphis But do I really feel the way I feel? They've got catfish on the table They've got gospel in the air And Reverend Green be glad to see you When you haven't got a prayer Boy, you got a prayer in Memphis Now Muriel plays piano Every Friday at the Hollywood And they brought me down to see her And they asked me if I would Do a little number And I sang with all my might She said, \"Tell me, are you a Christian, child?\" And I said, \"Man, I am tonight\" Walking in Memphis (Walking in Memphis) I was walking with my feet ten feet off of Beale Walking in Memphis (Walking in Memphis) But do I really feel the way I feel? Walking in Memphis (Walking in Memphis) I was walking with my feet ten feet off of Beale Walking in Memphis (Walking in Memphis) But do I really feel the way I feel? Put on my blue suede shoes and I boarded the plane Touched down in the land of the Delta Blues In the middle of the pouring rain Touched down in the land of the Delta Blues In the middle of the pouring rain"
+  },
+  "metadata": {
+    "youtube_id": "PgRafRp-P-o",
+    "title_extracted": null,
+    "corpus_id": "PgRafRp-P-o",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/PgRafRp-P-o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8073936,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.49349,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:30:18Z"
+  },
+  "status": "success",
+  "error": null
+}

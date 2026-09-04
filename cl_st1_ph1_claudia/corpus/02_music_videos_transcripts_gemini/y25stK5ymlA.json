@@ -1,0 +1,38 @@
+{
+  "corpus_id": "y25stK5ymlA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/y25stK5ymlA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/y25stK5ymlA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/y25stK5ymlA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Walking on, walking on broken glass Walking on, walking on broken glass You were the sweetest thing that I ever knew But I don't care for sugar, honey, if I can't have you Since you abandoned me, my whole life has crashed Won't you pick the pieces up 'cause it feels just like I'm walking on broken glass Walking on, walking on broken glass Ooh yeah Walking on, walking on broken glass The sun's still shining in the big blue sky But it don't mean nothing to me Oh, let the rain come down Let the wind blow through me I'm living in an empty room with all the windows smashed And I've got nothing left to lose that it feels just like I'm walking on broken glass Walking on, walking on broken glass And if you're trying to cut me down Do you know that I might bleed? 'Cause if you try to cut me down I know that you'll succeed And if you want to hurt me There's nothing left to fear 'Cause if you want to hurt me You're doing really well, my dear Now every one of us was made to suffer Every one of us was made to weep We've been hurting one another Now the pain is cutting deep So take me from the wreckage Save me from the blast Lift me up and take me back Don't let me keep on walking I can't keep on walking Keep on walking on broken glass Walking on, walking on broken glass Walking on, walking on broken glass Walking on, walking on broken glass Walking on, walking on broken glass See me walking on, see me walking on broken glass"
+  },
+  "metadata": {
+    "youtube_id": "y25stK5ymlA",
+    "title_extracted": null,
+    "corpus_id": "y25stK5ymlA",
+    "uploader": "Annie Lennox",
+    "audio_file": "corpus/01_music_videos_audio/audio/y25stK5ymlA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7648918,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.796938,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:02:19Z"
+  },
+  "status": "success",
+  "error": null
+}

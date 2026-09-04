@@ -1,0 +1,38 @@
+{
+  "corpus_id": "uPudE8nDog0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uPudE8nDog0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/uPudE8nDog0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/uPudE8nDog0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You were working as a waitress in a cocktail bar When I met you I picked you out, I shook you up, and turned you around Turned you into someone new Now five years later on you've got the world at your feet Success has been so easy for you But don't forget it's me who put you where you are now And I can put you back down, too Don't, don't you want me? You know I can't believe it when I hear that you won't see me Don't, don't you want me? You know I don't believe you when you say that you don't need me It's much too late to find You think you've changed your mind You'd better change it back or we will both be sorry Don't you want me, baby? Don't you want me? Oh Don't you want me, baby? Don't you want me? Oh I was working as a waitress in a cocktail bar That much is true But even then I knew I'd find a much better place Either with or without you The five years we have had have been such good times I still love you But now I think it's time I lived my life on my own I guess it's just what I must do Don't, don't you want me? You know I can't believe it when I hear that you won't see me Don't, don't you want me? You know I don't believe you when you say that you don't need me It's much too late to find You think you've changed your mind You'd better change it back or we will both be sorry Don't you want me, baby? Don't you want me? Oh Don't you want me, baby? Don't you want me? Oh Don't you want me, baby? Don't you want me? Oh Don't you want me, baby? Don't you want me? Oh"
+  },
+  "metadata": {
+    "youtube_id": "uPudE8nDog0",
+    "title_extracted": null,
+    "corpus_id": "uPudE8nDog0",
+    "uploader": "The Human League",
+    "audio_file": "corpus/01_music_videos_audio/audio/uPudE8nDog0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6599004,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.728173,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:03:05Z"
+  },
+  "status": "success",
+  "error": null
+}

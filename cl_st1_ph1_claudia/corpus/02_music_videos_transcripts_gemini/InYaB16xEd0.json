@@ -1,0 +1,38 @@
+{
+  "corpus_id": "InYaB16xEd0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/InYaB16xEd0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/InYaB16xEd0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/InYaB16xEd0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "If you disrespect everybody that you run into How in the world do you think anybody's supposed to respect you? If you don't give a heck about the man with the Bible in his hand Just get out the way and let the gentleman do his thing You the kind of gentleman, do anything your way Take the sheet off your face, boy, it's a brand new day Respect yourself (Na na na na) Respect yourself (Dee dee dee dee) Respect yourself (Na na na na) Respect yourself (Dee dee dee dee) If you don't respect yourself, ain't nobody gonna give a good cahoot Na na na na cahoot Respect yourself (Na na na na) Respect yourself (Dee dee dee dee) Respect yourself (Na na na na) Respect yourself (Dee dee dee dee) Everybody Na na na na Dee dee dee dee If you're walking around thinking that the world owe you something 'cause you're here You're going out the world backward like you did when you first came here Keep talking about the president won't stop air pollution Put your hand over your mouth when you cough, that'll help the solution Oh, you curse around women and you don't even know their name Then you're dumb enough to think that'll make you a big ol' man Respect yourself (Na na na na) Respect yourself (Dee dee dee dee) Respect yourself (Na na na na) Respect yourself (Dee dee dee dee) If you don't respect yourself, ain't nobody gonna give a good cahoot Na na na na Respect yourself (Na na na na) Respect yourself (Dee dee dee dee) Respect yourself (Na na na na) Respect yourself (Dee dee dee dee) Respect yourself (Na na na na) Respect yourself (Dee dee dee dee) Respect yourself I mean, respect yourself (Dee dee dee dee) Respect yourself Yeah, respect yourself Respect yourself Yeah, respect yourself Respect yourself Respect yourself Yeah, respect yourself You oughta, you oughta respect yourself Yeah, respect yourself"
+  },
+  "metadata": {
+    "youtube_id": "InYaB16xEd0",
+    "title_extracted": null,
+    "corpus_id": "InYaB16xEd0",
+    "uploader": "Stax Records",
+    "audio_file": "corpus/01_music_videos_audio/audio/InYaB16xEd0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9601622,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 34.976974,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:23:01Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "wMsazR6Tnf8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wMsazR6Tnf8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/wMsazR6Tnf8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/wMsazR6Tnf8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "And I don't feel good when I got no pain and that's how I'm gonna stay And I don't give a damn about my bad reputation Oh, no, no, no, no, no, no, no, not me Oh, no, no, no, no, no, no, no I saw him dancing there by the record machine I knew he must have been about 17 The beat was going strong, playing my favorite song And I could tell it wouldn't be long 'til he was with me, yeah, me And I could tell it wouldn't be long 'til he was with me, yeah, me, singing I love rock 'n' roll So put another dime in the jukebox, baby I love rock 'n' roll So come and take your time and dance with me Ow He smiled, so I got up and asked for his name That don't matter, he said, 'cause it's all the same Said, \"Can I take you home where we can be alone?\" And next, we were moving on, he was with me, yeah, me And next, we were moving on, he was with me, yeah, me, singing I love rock 'n' roll So put another dime in the jukebox, baby I love rock 'n' roll So come and take your time and dance with me Ow Said, \"Can I take you home where we can be alone?\" And next, we'll be moving on, he was with me, yeah, me And we'll be moving on and singing that same old song, yeah, with me, singing I love rock 'n' roll So put another dime in the jukebox, baby I love rock 'n' roll So come and take your time and dance with me I love rock 'n' roll So put another dime in the jukebox, baby I love rock 'n' roll So come and take your time and dance with I love rock 'n' roll So put another dime in the jukebox, baby I love rock 'n' roll So come and take your time and dance with I love rock 'n' roll So put another dime in the jukebox, baby I love rock 'n' roll So come and take your time and dance with I love rock 'n' roll So put another dime in the jukebox, baby I love rock 'n' roll So come and take your time and dance with me"
+  },
+  "metadata": {
+    "youtube_id": "wMsazR6Tnf8",
+    "title_extracted": null,
+    "corpus_id": "wMsazR6Tnf8",
+    "uploader": "Joan Jett and the Blackhearts",
+    "audio_file": "corpus/01_music_videos_audio/audio/wMsazR6Tnf8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7066374,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.11631,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:27:13Z"
+  },
+  "status": "success",
+  "error": null
+}

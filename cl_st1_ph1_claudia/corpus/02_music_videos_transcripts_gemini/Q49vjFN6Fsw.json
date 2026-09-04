@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Q49vjFN6Fsw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Q49vjFN6Fsw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Q49vjFN6Fsw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Q49vjFN6Fsw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Stand In the end you'll still be you One that's done all the things you set out to do Stand There's a cross for you to bear Things to go through if you are going anywhere Stand For the things you know are right It's the truth, got the truth makes you so alive Stand All the things you want are real You have you to complete and there is no deal Stand Stand Everybody Stand Stand You've been sitting much too long There's a firm line that divides your right and wrong Stand There's a midget standing tall And the giant beside him about to fall Stand Stand Stand Stand Stand They will try to make you crawl And they know what you're saying makes sense and all Stand Don't you know that you are free Well, at least in your mind if you want to be Everybody Stand Stand Stand Stand Stand Stand Stand"
+  },
+  "metadata": {
+    "youtube_id": "Q49vjFN6Fsw",
+    "title_extracted": null,
+    "corpus_id": "Q49vjFN6Fsw",
+    "uploader": "Sly & The Family Stone",
+    "audio_file": "corpus/01_music_videos_audio/audio/Q49vjFN6Fsw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5989712,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.925862,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:01:20Z"
+  },
+  "status": "success",
+  "error": null
+}

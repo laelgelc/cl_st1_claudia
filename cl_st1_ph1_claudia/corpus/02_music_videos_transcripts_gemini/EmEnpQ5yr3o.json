@@ -1,0 +1,38 @@
+{
+  "corpus_id": "EmEnpQ5yr3o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/EmEnpQ5yr3o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/EmEnpQ5yr3o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/EmEnpQ5yr3o.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "No New Year's Day to celebrate No chocolate-covered candy hearts to give away No first of spring, no song to sing In fact, here's just another ordinary day No April rain, no flowers bloom No wedding Saturday within the month of June But what it is, is something true Made up of these three words that I must say to you I just called to say I love you I just called to say how much I care I just called to say I love you And I mean it from the bottom of my heart No summer's high, no warm July No harvest moon to light one tender August night No autumn breeze, no falling leaves Not even time for birds to fly to southern skies No Libra sun, no Halloween No giving thanks to all the Christmas joy you bring But what it is, is something new To feel your heart like no three words could ever do I just called to say I love you I just called to say how much I care I just called to say I love you And I mean it from the bottom of my heart I just called to say I love you, yeah I just called to say how much I care, I do I just called to say I love you And I mean it from the bottom of my heart, of my heart, of my heart But what it is, is something true Made up of these three words that I must say to you I just called to say I love you I just called to say how much I care, I do I just called to say I love you And I mean it from the bottom of my heart I just called to say I love you I just called to say how much I care, I do I just called to say I love you And I mean it from the bottom of my heart, of my heart, of my heart"
+  },
+  "metadata": {
+    "youtube_id": "EmEnpQ5yr3o",
+    "title_extracted": null,
+    "corpus_id": "EmEnpQ5yr3o",
+    "uploader": "Retrospective Soundtrack",
+    "audio_file": "corpus/01_music_videos_audio/audio/EmEnpQ5yr3o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 12069996,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.471708,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:43:06Z"
+  },
+  "status": "success",
+  "error": null
+}

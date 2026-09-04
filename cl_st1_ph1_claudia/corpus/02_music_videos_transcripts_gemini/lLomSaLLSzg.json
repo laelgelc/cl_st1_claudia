@@ -1,0 +1,38 @@
+{
+  "corpus_id": "lLomSaLLSzg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/lLomSaLLSzg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/lLomSaLLSzg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/lLomSaLLSzg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Girl, you thought you'd find the answer on that magic carpet ride last night But when you wake up in the morning, the world'll still get you uptight Well, there's nothing that you ain't tried To fill the emptiness inside When you come back down, girl, still ain't feeling right Don't it seem like kicks just keep getting harder to find? And all your kicks ain't bringing you peace of mind Before you find out it's too late, girl, you'd better get straight No, but not with kicks You just need help, girl Well, you think you're gonna find yourself a little piece of paradise But it ain't happened yet, so, girl, you'd better think twice Don't you see, no matter what you do You'll never run away from you And if you keep on running, you'll have to pay the price Don't it seem like kicks just keep getting harder to find? And all your kicks ain't bringing you peace of mind Before you find out it's too late, girl, you'd better get straight No, you don't need kicks To help you face the world each day That road goes nowhere I'm gonna help you find yourself another way Kicks just keep getting harder to find And all your kicks ain't bringing you peace of mind Before you find out it's too late, girl, you'd better get straight Don't it seem like kicks just keep getting harder to find? Ah, you don't need kicks Ah, you just need help, girl Before you find out it's too late, girl, you'd better get straight"
+  },
+  "metadata": {
+    "youtube_id": "lLomSaLLSzg",
+    "title_extracted": null,
+    "corpus_id": "lLomSaLLSzg",
+    "uploader": "RaidersVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/lLomSaLLSzg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4883328,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 30.062661,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:29:24Z"
+  },
+  "status": "success",
+  "error": null
+}

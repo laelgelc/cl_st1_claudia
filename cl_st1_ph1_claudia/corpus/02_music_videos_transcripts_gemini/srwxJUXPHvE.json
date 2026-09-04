@@ -1,0 +1,38 @@
+{
+  "corpus_id": "srwxJUXPHvE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/srwxJUXPHvE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/srwxJUXPHvE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/srwxJUXPHvE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Can't buy me love, love, love Can't buy me love I'll buy you a diamond ring, my friend If it makes you feel alright I'll get you anything, my friend If it makes you feel alright 'Cause I don't care too much for money Money can't buy me love I'll give you all I got to give If you say you love me, too I may not have a lot to give But what I got I'll give to you I don't care too much for money Money can't buy me love Can't buy me love Everybody tells me so Can't buy me love No, no, no, no Say you don't need no diamond rings And I'll be satisfied Tell me that you want the kind of thing That money just can't buy I don't care too much for money Money can't buy me love Ow! Can't buy me love Everybody tells me so Can't buy me love No, no, no, no Say you don't need no diamond rings And I'll be satisfied Tell me that you want the kind of thing That money just can't buy I don't care too much for money Money can't buy me love Can't buy me love Love Can't buy me love, oh"
+  },
+  "metadata": {
+    "youtube_id": "srwxJUXPHvE",
+    "title_extracted": null,
+    "corpus_id": "srwxJUXPHvE",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/srwxJUXPHvE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4298556,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.275893,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:50:59Z"
+  },
+  "status": "success",
+  "error": null
+}

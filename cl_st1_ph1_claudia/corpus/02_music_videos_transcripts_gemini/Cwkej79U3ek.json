@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Cwkej79U3ek",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Cwkej79U3ek.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Cwkej79U3ek.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Cwkej79U3ek.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Making my way downtown, walking fast, faces pass and I'm homebound. Staring blankly ahead, just making my way, making a way through the crowd. And I need you, and I miss you, and now I wonder...  If I could fall into the sky, do you think time would pass me by? 'Cause you know I'd walk a thousand miles if I could just see you tonight.  It's always times like these when I think of you, and I wonder if you ever think of me. 'Cause everything's so wrong and I don't belong, living in your precious memory.  'Cause I need you, and I miss you, and now I wonder...  If I could fall into the sky, do you think time would pass me by? 'Cause you know I'd walk a thousand miles if I could just see you tonight.  And I don't wanna let you know, I drown in your memory, I don't wanna let this go, I don't...  Making my way downtown, walking fast, faces pass and I'm homebound. Staring blankly ahead, just making my way, making a way through the crowd.  And I still need you, and I still miss you, and now I wonder...  If I could fall into the sky, do you think time would pass me by? 'Cause you know I'd walk a thousand miles if I could just see you...  If I could fall into the sky, do you think time would pass me by? 'Cause you know I'd walk a thousand miles if I could just see you... If I could just hold you tonight."
+  },
+  "metadata": {
+    "youtube_id": "Cwkej79U3ek",
+    "title_extracted": null,
+    "corpus_id": "Cwkej79U3ek",
+    "uploader": "Vanessa Carlton",
+    "audio_file": "corpus/01_music_videos_audio/audio/Cwkej79U3ek.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8543536,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.261689,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:59:58Z"
+  },
+  "status": "success",
+  "error": null
+}

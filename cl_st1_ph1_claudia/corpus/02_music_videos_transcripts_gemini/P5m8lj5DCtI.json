@@ -1,0 +1,38 @@
+{
+  "corpus_id": "P5m8lj5DCtI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/P5m8lj5DCtI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/P5m8lj5DCtI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/P5m8lj5DCtI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Take me home Take me home Baby, I know you're wondering why I won't go over to your place 'Cause I'm not so sure about how you feel, so I'd rather go at my own pace And I know, and you know that if we get together, emotions will run too wild And I may do something I might regret the next day and end up hurt. Oh, I don't know what I'm feeling. I'm so afraid of all the feeling. I wonder if I take you home, would you still be in love, baby? 'Cause I need you tonight I wonder if I take you home, would you still be in love, baby? 'Cause I need you tonight Your love is Take me home Lately, you've been expressing to me just how much you want to make love I want it just as much as you do, but will you still keep in touch? You say I'm teasing, but I do have a reason, don't let your feelings fade 'Cause you will have me, and sooner than you know it, if you could only wait. Oh, I don't know what I'm feeling. I'm so afraid of all the feeling. And I wonder if I take you home, would you still be in love, baby? 'Cause I need you tonight I wonder if I take you home, would you still be in love, baby? 'Cause I need you tonight I wonder if I take you home, would you still be in love, baby? 'Cause I need you tonight I wonder if I take you home, would you still be in love, baby? 'Cause I need you tonight I wonder, I really, really wonder Home, home, home, home I wonder, I really, really wonder Take me home Your love is Take me, take me, take me home Take me, take me, take me home Take me, take me, take me home Home, home, home, home Now you're down on your knees begging me please, uh-oh Take me home, take you home, oh-oh Will you still love me if I take you home?"
+  },
+  "metadata": {
+    "youtube_id": "P5m8lj5DCtI",
+    "title_extracted": null,
+    "corpus_id": "P5m8lj5DCtI",
+    "uploader": "LisaLisaCultJamVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/P5m8lj5DCtI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7614738,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.775007,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:52:29Z"
+  },
+  "status": "success",
+  "error": null
+}

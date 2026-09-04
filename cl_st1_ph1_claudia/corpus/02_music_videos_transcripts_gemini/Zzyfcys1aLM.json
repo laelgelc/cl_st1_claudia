@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Zzyfcys1aLM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Zzyfcys1aLM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Zzyfcys1aLM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Zzyfcys1aLM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "So long ago I don't remember when That's when they said I lost my only friend Well, they said she died easy of a broken heart disease As I listened to the cemetery trees I seen the sun coming up at the funeral at dawn The long broken arm of human law Now it always seemed such a waste, she always had a pretty face I wondered why she hung around this place Hey, come on try a little Nothing is forever There's got to be something better than in the middle But me and Cinderella We put it all together We can drive it home With one headlight She said it's cold, it feels like Independence Day And I can't break away from this parade But there's got to be an opening somewhere here in front of me Through this maze of ugliness and greed And I seen the sun up ahead at the county line bridge Saying all this good and happiness is dead Well, running till she's out of breath, she ran until there's nothing left She hit the end, it's just her window ledge Hey, come on try a little Nothing is forever There's got to be something better than in the middle But me and Cinderella We put it all together We can drive it home With one headlight Well, this place is old, it feels just like a beat-up truck I turn the engine, but the engine doesn't turn Well, it smells of cheap wine and cigarettes, this place is always such a mess Sometimes I think I'd like to watch it burn So long, I feel just like somebody else Man, I ain't changed, but I know I ain't the same But somewhere here in between these city walls of dying dreams I think her death it must be killing me Hey, hey, hey, come on try a little Nothing is forever There's got to be something better than in the middle But me and Cinderella We put it all together We can drive it home With one headlight"
+  },
+  "metadata": {
+    "youtube_id": "Zzyfcys1aLM",
+    "title_extracted": null,
+    "corpus_id": "Zzyfcys1aLM",
+    "uploader": "TheWallflowersVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/Zzyfcys1aLM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8908368,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.737148,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:42:46Z"
+  },
+  "status": "success",
+  "error": null
+}

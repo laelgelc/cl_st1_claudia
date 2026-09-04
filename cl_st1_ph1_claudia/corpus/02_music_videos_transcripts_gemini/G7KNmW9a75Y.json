@@ -1,0 +1,38 @@
+{
+  "corpus_id": "G7KNmW9a75Y",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/G7KNmW9a75Y.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/G7KNmW9a75Y.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/G7KNmW9a75Y.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "We were good, we were gold Kind of dream that can't be sold We were right 'til we weren't Built a home and watched it burn Mm, I didn't wanna leave you I didn't wanna lie Started to cry, but then remembered I I can buy myself flowers Write my name in the sand Talk to myself for hours Say things you don't understand I can take myself dancing And I can hold my own hand Yeah, I can love me better than You can Can love me better I can love me better, baby Can love me better I can love me better, baby Paint my nails cherry red Match the roses that you left No remorse, no regret I forgive every word you said Ooh, I didn't wanna leave, baby I didn't wanna fight Started to cry, but then remembered I I can buy myself flowers Write my name in the sand Talk to myself for hours Say things you don't understand I can take myself dancing Yeah, I can hold my own hand Yeah, I can love me better than You can Can love me better I can love me better, baby Can love me better I can love me better, baby Can love me better I can love me better, baby Can love me better, I I didn't wanna leave you I didn't wanna fight Started to cry, but then remembered I I can buy myself flowers Write my name in the sand Talk to myself for hours Say things you don't understand I can take myself dancing Yeah, I can hold my own hand Yeah, I can love me better than Yeah, I can love me better than You can Can love me better I can love me better, baby Can love me better I can love me better, baby Can love me better I can love me better, baby Can love me better, I"
+  },
+  "metadata": {
+    "youtube_id": "G7KNmW9a75Y",
+    "title_extracted": null,
+    "corpus_id": "G7KNmW9a75Y",
+    "uploader": "MILEY",
+    "audio_file": "corpus/01_music_videos_audio/audio/G7KNmW9a75Y.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6451140,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.138089,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:37:43Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "yyDUC1LUXSU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yyDUC1LUXSU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/yyDUC1LUXSU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/yyDUC1LUXSU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Everybody get up!\nWoo!\nEverybody, hey, hey, hey\nHey, hey, hey\nHey, hey, hey\nWoo!\nTell me\n\nIf you can't hear what I'm trying to say\nIf you can't read from the same page\nMaybe I'm going deaf\nMaybe I'm going blind\nMaybe I'm out of my mind\n\nOkay, now he was close\nTried to domesticate you\nBut you're an animal\nBaby, it's in your nature\nJust let me liberate you\nYou don't need no papers\nThat man is not your maker\nAnd that's why I'm gon' take a\n\nGood girl\nI know you want it\nI know you want it\nI know you want it\nYou're a good girl\nCan't let it get past me\nYou're far from plastic\nTalkin' 'bout getting blasted\nBlurred lines\nI know you want it\nI know you want it\nI know you want it\nBut you're a good girl\nThe way you grab me\nMust wanna get nasty\nGo ahead, get at me\n\nWhat do they make dreams for\nWhen you got them jeans on\nWhat do we need steam for\nYou're the hottest bitch in this place\nI feel so lucky\nYou wanna hug me\nWhat rhymes with hug me?\nHey!\n\nOkay, now he was close\nTried to domesticate you\nBut you're an animal\nBaby, it's in your nature\nJust let me liberate you\nYou don't need no papers\nThat man is not your maker\nAnd that's why I'm gon' take a\n\nGood girl\nI know you want it\nI know you want it\nI know you want it\nYou're a good girl\nCan't let it get past me\nYou're far from plastic\nTalkin' 'bout getting blasted\nBlurred lines\nI know you want it\nI know you want it\nI know you want it\nBut you're a good girl\nThe way you grab me\nMust wanna get nasty\nGo ahead, get at me\n\nHustle Gang, homie\nLet's go\nHey, T.I.\nBaby, holla at me real quick\nBJ, one thing I gotta ask you\nLemme be the one you bend that ass to\nFrom Malibu to Perou\nYou can't have a big pussy and be bad too\nSo hit me up when you passin' through\nI give you something big enough to tear your ass in two\nSwag on 'em even when you dress casual\nI mean, it's almost unbearable\nHoney, year not fair at all\nFor real, I'll set a bitch on fire, let you fan me down\nNothin' like your last guy, he too square for you\nHe don't smack that ass and pull your hair for you\nSo I, I'm J.W.\nI can't wait to\nFor you to salute and choose the pimping\nNot many women can refuse the pimping\nI'm a nice guy, but don't get it confused, pimping\nShake your rump\nGet down\nGet up\n\nDo you like it hurt?\nLike it hurt?\nWhat, you don't like work?\nHey!\n\nBaby, can you breathe?\nI got this from Jamaica\nIt always works for me\nDakota to Decatur\nNo more pretending\n'Cause now you're winning\nHere's our beginning\nI always wanted a\n\nGood girl\nI know you want it\nI know you want it\nI know you want it\nYou're a good girl\nCan't let it get past me\nYou're far from plastic\nTalkin' 'bout getting blasted\nBlurred lines\nI know you want it\nI know you want it\nI know you want it\nBut you're a good girl\nThe way you grab me\nMust wanna get nasty\nGo ahead, get at me\n\nEverybody get up!\nWoo!\nEverybody get up!\nHey, hey, hey\nHey, hey, hey\nHey, hey, hey\nWoo!"
+  },
+  "metadata": {
+    "youtube_id": "yyDUC1LUXSU",
+    "title_extracted": null,
+    "corpus_id": "yyDUC1LUXSU",
+    "uploader": "Robin Thicke",
+    "audio_file": "corpus/01_music_videos_audio/audio/yyDUC1LUXSU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8699574,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.603819,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:01:43Z"
+  },
+  "status": "success",
+  "error": null
+}

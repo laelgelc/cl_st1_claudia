@@ -1,0 +1,38 @@
+{
+  "corpus_id": "fPO76Jlnz6c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/fPO76Jlnz6c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/fPO76Jlnz6c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/fPO76Jlnz6c.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Wanna tell me what this is all about?\n\nAs I walk through the valley of the shadow of death\nI take a look at my life and realize there's nothing left\n'Cause I've been blastin' and laughin' so long that\nEven my mama thinks that my mind is gone\nBut I never crossed a man that didn't deserve it\nMe be treated like a punk, you know that's unheard of\nYou better watch how you talkin' and where you walkin'\nOr you and your homies might be lined in chalk\nI really hate to trip, but I gotta loc\nAs they croak, I see myself in the pistol smoke, fool\nI'm the kinda G the little homies wanna be like\nOn my knees in the night, sayin' prayers in the streetlight\n\nBeen spending most their lives living in a gangsta's paradise\nBeen spending most their lives living in a gangsta's paradise\nKeep spending most our lives living in a gangsta's paradise\nKeep spending most our lives living in a gangsta's paradise\n\nLook at the situation they got me facin'\nI can't live a normal life, I was raised by the street\nSo I gotta be down with the hood team\nToo much television watching got me chasing dreams\nI'm a educated fool with money on my mind\nGot my 10 in my hand and the gleam in my eye\nI'm a loc'd out gangster, set-trippin' banger\nAnd my homies is down so don't arouse my anger, fool\nDeath ain't nothin' but a heartbeat away\nI'm livin' life do or die, what can I say?\nI'm 23 now, but will I live to see 24?\nThe way things is going, I don't know\n\nTell me why are we so blind to see\nThat the ones we hurt are you and me?\n\nBeen spending most their lives living in a gangsta's paradise\nBeen spending most their lives living in a gangsta's paradise\nKeep spending most our lives living in a gangsta's paradise\nKeep spending most our lives living in a gangsta's paradise\n\nPower and the money, money and the power\nMinute after minute, hour after hour\nEverybody's running, but half of them ain't looking\nIt's going on in the kitchen, but I don't know what's cooking\nThey say I got to learn, but nobody's there to teach me\nIf they can't understand it, how can they reach me?\nI guess they can't, I guess they won't\nI guess they front, that's why I know my life is out of luck, fool\n\nBeen spending most their lives living in a gangsta's paradise\nBeen spending most their lives living in a gangsta's paradise\nKeep spending most our lives living in a gangsta's paradise\nKeep spending most our lives living in a gangsta's paradise\n\nTell me why are we so blind to see\nThat the ones we hurt are you and me?\nTell me why are we so blind to see\nThat the ones we hurt are you and me?\n\nOh..."
+  },
+  "metadata": {
+    "youtube_id": "fPO76Jlnz6c",
+    "title_extracted": null,
+    "corpus_id": "fPO76Jlnz6c",
+    "uploader": "Tommy Boy",
+    "audio_file": "corpus/01_music_videos_audio/audio/fPO76Jlnz6c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8198022,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.730278,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:40:46Z"
+  },
+  "status": "success",
+  "error": null
+}

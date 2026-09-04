@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ewRjZoRtu0Y",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ewRjZoRtu0Y.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ewRjZoRtu0Y.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ewRjZoRtu0Y.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I fly like paper, get high like planes\nIf you catch me at the border I got visas in my name\nIf you come around here, I make a mill a day\nI get one down in a second if you wait\nI fly like paper, get high like planes\nIf you catch me at the border I got visas in my name\nIf you come around here, I make a mill a day\nI get one down in a second if you wait\n\nSometimes I think sitting on trains\nEvery stop I get to I'm clocking that game\nEveryone's a winner, we're making our fame\nBona fide hustle, I'm making my name\nSometimes I think sitting on trains\nEvery stop I get to I'm clocking that game\nEveryone's a winner, we're making our fame\nBona fide hustle, I'm making my name\n\nAll I wanna do is [gunshots and cash register sounds] and take your money\nAll I wanna do is [gunshots and cash register sounds] and take your money\nAll I wanna do is [gunshots and cash register sounds] and take your money\nAll I wanna do is [gunshots and cash register sounds] and take your money\n\nPirate skulls and bones\nSticks and stones and weed and bongs\nRunning when we hit 'em\nLethal poison for the system\nPirate skulls and bones\nSticks and stones and weed and bongs\nRunning when we hit 'em\nLethal poison for the system\n\nNo one on the corner has swagger like us\nHit me on my burner prepaid wireless\nWe pack and deliver like UPS trucks\nAlready in hell just pumping that gas\nNo one on the corner has swagger like us\nHit me on my burner prepaid wireless\nWe pack and deliver like UPS trucks\nAlready in hell just pumping that gas\n\nAll I wanna do is [gunshots and cash register sounds] and take your money\nAll I wanna do is [gunshots and cash register sounds] and take your money\nAll I wanna do is [gunshots and cash register sounds] and take your money\nAll I wanna do is [gunshots and cash register sounds] and take your money\n\nM.I.A., Third World Democracy\nYeah, I got more records than the KGB\nSo uh, no funny business\nAre you ready?\n\nSome, some, some I, some I murder\nSome, some I, some I let go\nSome, some, some I, some I murder\nSome, some I, some I let go\n\nAll I wanna do is [gunshots and cash register sounds] and take your money\nAll I wanna do is [gunshots and cash register sounds] and take your money\nAll I wanna do is [gunshots and cash register sounds] and take your money\nAll I wanna do is [gunshots and cash register sounds] and take your money"
+  },
+  "metadata": {
+    "youtube_id": "ewRjZoRtu0Y",
+    "title_extracted": null,
+    "corpus_id": "ewRjZoRtu0Y",
+    "uploader": "M.I.A.",
+    "audio_file": "corpus/01_music_videos_audio/audio/ewRjZoRtu0Y.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6540304,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.977065,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:52:22Z"
+  },
+  "status": "success",
+  "error": null
+}

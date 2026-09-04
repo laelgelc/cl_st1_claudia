@@ -1,0 +1,38 @@
+{
+  "corpus_id": "9aofoBrFNdg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/9aofoBrFNdg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/9aofoBrFNdg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/9aofoBrFNdg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Yo, your mom's is so poor, she went to McDonald's and put a shake on layaway. Your mother's so old, she knew Central Park when it was just a plant. Your mom's hair so nappy, she got to take painkillers to comb her hair. Forget them girls, man. Yo, what's up? I got a little story to tell you. Have you ever met a girl that you tried to date, but a year to make love, she wanted you to wait? Let me tell you a story of my situation. I was talking to this girl from the U.S. nation. The way that I met her was on tour at a concert. She had long hair and a short miniskirt. I just got off stage dripping, pouring with sweat. I was walking through the crowd, and guess who I met? I whispered in her ear, \"Come to the picture booth so I can ask you some questions to see if you're hundred proof.\" I asked her her name, she said blah-blah-blah. She had 9-10 pants and a very big bra. I took a couple of flicks and she was enthused. I said, \"How do you like the show?\" She said, \"I was very amused.\" I started throwing bait, she started throwing back mid-range, but when I sprung the question, she acted kind of strange. When I asked, \"Do you have a man?\" she tried to pretend. She said, \"No, I don't. I only have a friend.\" Come on. I'm not even going for it. This is what I'm going to sing. You, you got what I need, but you say he's just a friend, and you say he's just a friend. Oh baby, you, you got what I need, but you say he's just a friend, and you say he's just a friend. Oh baby, you, you got what I need, but you say he's just a friend, and you say he's just a friend. So I took blah-blah's word for it at this time, I thought just having a friend couldn't be no crime. 'Cause I have friends and that's a fact, like Agnes, Agatha, Germaine, and Jack. Forget about that, let's go into the story about a girl named blah-blah that adored me. So we started talking, getting familiar, spending a lot of time so we can build up a relationship, or some understanding. How it's going to be in the future, we was planning. Everything sounded so dandy and sweet. I had no idea I was in for a treat. After this was established, everything was cool. The tour was over and she went back to school. I called every day to see how she was doing. Every time that I called her, it seemed like I was ruining. I called her room and a guy picked up, and then I called again, I said, \"Yo, who is that?\" \"Oh, he's just a friend.\" Don't give me that. Don't even give me that. Just bust this. You, you got what I need, but you say he's just a friend, and you say he's just a friend. Oh baby, you, you got what I need, but you say he's just a friend, and you say he's just a friend. Oh baby, you, you got what I need, but you say he's just a friend, and you say he's just a friend. So I came to her college on a surprise visit to see my girl that was so exquisite. It was a school day, I knew she was there, the first semester of the school year. I went to a gate to ask, \"Where was her dorm?\" This guy made me feel out a visitor's form. He told me where it was, and I was on my way to see my baby doll, I was happy to say. I arrived in front of the dormitory. \"Yo, could you tell me where is door three?\" They showed me where it was for the moment. I didn't know I was in for such an event. So I came to her room and opened the door. Oh snap, guess what I saw? A fellow tongue-kissing my girl in the mouth. I was so in shock, my heart went down South. So please listen to the message that I send: Don't ever talk to a girl who says she just has a friend. Has a friend. Has a friend. Has a friend."
+  },
+  "metadata": {
+    "youtube_id": "9aofoBrFNdg",
+    "title_extracted": null,
+    "corpus_id": "9aofoBrFNdg",
+    "uploader": "UPROXX",
+    "audio_file": "corpus/01_music_videos_audio/audio/9aofoBrFNdg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8940318,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.653654,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:13:24Z"
+  },
+  "status": "success",
+  "error": null
+}

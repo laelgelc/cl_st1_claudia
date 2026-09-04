@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Bx51eegLTY8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Bx51eegLTY8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Bx51eegLTY8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Bx51eegLTY8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Watching every motion in my foolish lover's game\nOn this nameless ocean, finally lovers know no shame\nTurning and returning to some secret place inside\nWatching in slow motion as you turn around and say\nTake my breath away\nTake my breath away\nWatching I keep waiting, still anticipating love\nNever hesitating to become the fated ones\nTurning and returning to some secret place inside\nWatching in slow motion as you turn to me and say\nMy love, take my breath away\nThrough the hourglass I saw you, in time you slipped away\nWhen the mirror crashed I called you and turned to hear you say\nOnly for today I am unafraid\nTake my breath away\nTake my breath away\nWatching every motion in this foolish lover's game\nHaunted by the notion somewhere there's a love in flames\nTurning and returning to some secret place inside\nWatching in slow motion as you turn to me and say\nTake my breath away\nMy love, take my breath away\nMy love, take my breath away\nMy love, take my breath away"
+  },
+  "metadata": {
+    "youtube_id": "Bx51eegLTY8",
+    "title_extracted": null,
+    "corpus_id": "Bx51eegLTY8",
+    "uploader": "Berlin",
+    "audio_file": "corpus/01_music_videos_audio/audio/Bx51eegLTY8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8042728,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.435488,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:10:09Z"
+  },
+  "status": "success",
+  "error": null
+}

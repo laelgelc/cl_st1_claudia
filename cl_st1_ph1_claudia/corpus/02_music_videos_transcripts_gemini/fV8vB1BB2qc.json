@@ -1,0 +1,38 @@
+{
+  "corpus_id": "fV8vB1BB2qc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/fV8vB1BB2qc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/fV8vB1BB2qc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/fV8vB1BB2qc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Okay, so you secured the back and you secured all the windows? Great job, guys. Ms. Sparks, you're perfectly safe now. Actually, I feel very safe. Why don't I show you how this works? Push this button and you punch in any number that you feel comfortable with. That's it. Simple. Okay, thank you. Dwayne. Yeah? Can I offer you something to drink? Listen, I really would love to, but I have some other jobs to attend to. Maybe another time? Okay. I mean, I do know your code. Hey, if you ever need me, I mean for the system, that is, just give me a call. Okay. All right? Thank you. Okay. Close your eyes, make a wish, and blow out the candlelight, for tonight is your night. We're gonna celebrate all through the night. Pour the wine, light the fire. Girl, your wish is my command. I submit to your demands. I will do anything. Girl, you need only ask. I'll make love to you like you want me to, and I'll hold you tight, baby, all through the night. I'll make love to you when you want me to, and I will not let go until you tell me to. Girl, relax. Let's go slow. I ain't got nowhere to go. I'm just gonna concentrate on you. Girl, are you ready? It's gonna be a long night. Throw your clothes on the floor. On the floor. I'm gonna take my clothes off, too. I made plans to be with you. Girl, whatever you want me to do, I'll do. I'll make love to you like you want me to, and I'll hold you tight, baby, all through the night. I'll make love to you when you want me to, and I will not let go until you tell me to. Baby, tonight is your night, and I will do you right. Just make a wish on your night. Anything that you ask, I will give you the love of your life, your life, your life. I'll make love to you like you want me to, and I'll hold you tight, baby, all through the night. I'll make love to you when you want me to, and I will not let go until you tell me to. I'll make love to you like you want me to, and I'll hold you tight, baby, all through the night. I'll make love to you when you want me to, and I will not let go until you tell me to. Yeah, baby, yeah."
+  },
+  "metadata": {
+    "youtube_id": "fV8vB1BB2qc",
+    "title_extracted": null,
+    "corpus_id": "fV8vB1BB2qc",
+    "uploader": "Boyz II Men",
+    "audio_file": "corpus/01_music_videos_audio/audio/fV8vB1BB2qc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8320624,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.395228,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:35:06Z"
+  },
+  "status": "success",
+  "error": null
+}

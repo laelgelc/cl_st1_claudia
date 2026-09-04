@@ -1,0 +1,38 @@
+{
+  "corpus_id": "jQvUBf5l7Vw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/jQvUBf5l7Vw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/jQvUBf5l7Vw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/jQvUBf5l7Vw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Here comes Johnny Yen again\nWith the liquor and drugs\nAnd a flesh machine\nHe's gonna do another striptease\nHey man, where'd you get that lotion?\nI've been itching like a dog again\nYeah, something called love\nYeah, something called love\nWell, that's like hypnotizing chickens\nWell, I'm just a modern guy\nOf course, I've had it in my ear before\n'Cause I've got a lust for life\n'Cause I've got a lust for life\nWell, I've got a lust for life, hey Johnny Yen!\nI'm worth a million in prizes\nWith my tortured film, drive a GTO\nWear a uniform, all on a government loan\nI'm worth a million in prizes\nYeah, I'm through with sleeping on the sidewalk no more\nNo more beating my brain\nNo more beating my brain\nWith the liquor and drugs\nWith the liquor and drugs\nWell, I'm just a modern guy\nOf course, I've had it in my ear before\n'Cause I've got a lust for life\n'Cause I've got a lust for life\nWell, here comes Johnny Yen again\nWith the liquor and drugs\nAnd a flesh machine\nI know he's gonna do another striptease\nHey man, where'd you get that lotion?\nYour skin starts itching once you bother him\nWith something called love\nOh, love, love, love\nWell, that's like hypnotizing chickens\nWell, I'm just a modern guy\nOf course, I've had it in my ear before\n'Cause I've got a lust for life\n'Cause I've got a lust for life\nGot a lust for life\nGot a lust for life\nGot a lust for life\nGot a lust for life\nGot a lust for life\nOh yeah, lust for life\nI got a lust for life\nI got a lust for life\nLust for life"
+  },
+  "metadata": {
+    "youtube_id": "jQvUBf5l7Vw",
+    "title_extracted": null,
+    "corpus_id": "jQvUBf5l7Vw",
+    "uploader": "Iggy Pop Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/jQvUBf5l7Vw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6156896,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.957675,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:18:09Z"
+  },
+  "status": "success",
+  "error": null
+}

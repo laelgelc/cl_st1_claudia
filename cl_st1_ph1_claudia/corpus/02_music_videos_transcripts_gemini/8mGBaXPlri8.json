@@ -1,0 +1,38 @@
+{
+  "corpus_id": "8mGBaXPlri8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8mGBaXPlri8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/8mGBaXPlri8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/8mGBaXPlri8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "All the things you said, all the things you said\nRunning through my head, running through my head, running through my head\nAll the things you said, all the things you said\nRunning through my head, running through my head\nAll the things you said, all the things you said\nThis is not enough\n\nI'm in search, I feel totally lost\nIf I'm asking for help, it's only because\nBeing with you has opened my eyes\nCould I ever believe such a perfect surprise?\nI keep asking myself, wondering how\nI keep closing my eyes, but I can't block you out\nWant to fly to a place where it's just you and me\nNobody else, so we can be free\nNobody else, so we can be free\n\nAll the things you said, all the things you said\nRunning through my head, running through my head, running through my head\nAll the things you said, all the things you said\nRunning through my head, running through my head\nAll the things you said, all the things you said\nThis is not enough\nYa poteryalas, ya poteryalas\nAll the things you said, all the things you said\n\nAnd I'm all mixed up, feeling cornered and rushed\nThey say it's my fault, but I want you so much\nWant to fly far away, where the sun and the rain\nCome and fall on my face, wash away all the shame\nWhen they stop and stare, don't worry, my dear\n'Cause I'm feeling for her what she's feeling for me\nI can try to pretend, I can try to forget\nBut it's driving me mad, going out of my mind\n\nAll the things you said, all the things you said\nRunning through my head, running through my head, running through my head\nAll the things you said, all the things you said\nRunning through my head, running through my head\nAll the things you said, all the things you said\nThis is not enough\nYa poteryalas, ya poteryalas\nAll the things you said, all the things you said\nAll the things you said, all the things you said\nAll the things you said, all the things you said\nAll the things you said, all the things you said\nAll the things you said, all the things you said\n\nMother, looking at me\nTell me, what do you see?\nYes, I've lost my mind\nDaddy, looking at me\nWill I ever be free?\nHave I crossed the line?\n\nAll the things you said, all the things you said\nRunning through my head, running through my head, running through my head\nAll the things you said, all the things you said\nRunning through my head, running through my head\nAll the things you said, all the things you said\nThis is not enough\nYa poteryalas, ya poteryalas\nThis is not enough\n\nAll the things you said, all the things you said, all the things you said"
+  },
+  "metadata": {
+    "youtube_id": "8mGBaXPlri8",
+    "title_extracted": null,
+    "corpus_id": "8mGBaXPlri8",
+    "uploader": "tatu",
+    "audio_file": "corpus/01_music_videos_audio/audio/8mGBaXPlri8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7249906,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.694057,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:28:12Z"
+  },
+  "status": "success",
+  "error": null
+}

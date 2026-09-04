@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Dy4HA3vUv2c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Dy4HA3vUv2c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Dy4HA3vUv2c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Dy4HA3vUv2c.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "All our times have come\nHere but now they're gone\nSeasons don't fear the reaper\nNor do the wind, the sun or the rain, we can be like they are\nCome on baby, don't fear the Reaper\nBaby take my hand, don't fear the Reaper\nWe'll be able to fly, don't fear the Reaper\nBaby I'm your man\nLa, la, la, la, la\nLa, la, la, la, la\nValentine is done\nHere but now they're gone\nRomeo and Juliet\nAre together in eternity\nRomeo and Juliet\n40,000 men and women everyday\n40,000 men and women everyday\nAnother 40,000 coming everyday\nWe can be like they are\nCome on baby, don't fear the Reaper\nBaby take my hand, don't fear the Reaper\nWe'll be able to fly, don't fear the Reaper\nBaby I'm your man\nLa, la, la, la, la\nLa, la, la, la, la\nLove of two is one\nHere but now they're gone\nCame the last night of sadness\nAnd it was clear she couldn't go on\nThe door was open and the wind appeared\nThe candles blew and then disappeared\nThe curtains flew and then he appeared\nSaying don't be afraid\nCome on baby, and she had no fear\nAnd she ran to him, then they started to fly\nThey looked backward and said goodbye\nShe had taken his hand, she had become like they are\nCome on baby, don't fear the Reaper"
+  },
+  "metadata": {
+    "youtube_id": "Dy4HA3vUv2c",
+    "title_extracted": null,
+    "corpus_id": "Dy4HA3vUv2c",
+    "uploader": "BLUE OYSTER CULT",
+    "audio_file": "corpus/01_music_videos_audio/audio/Dy4HA3vUv2c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9887692,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.238927,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:30:41Z"
+  },
+  "status": "success",
+  "error": null
+}

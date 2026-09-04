@@ -1,0 +1,38 @@
+{
+  "corpus_id": "sNPnbI1arSE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/sNPnbI1arSE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/sNPnbI1arSE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/sNPnbI1arSE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "- Keep breathing, last one. One, two, three, four...\n- Tommy and Harriet... \n- ...in the news.\n- Hi! My name is... What? My name is... Who? My name is... Chka-chka, Slim Shady.\nHi! My name is... What? My name is... Who? My name is... Chka-chka, Slim Shady.\n- Excuse me! Can I have the attention of the class for one second?\nHi kids, do you like rhymes? Wanna see me stick nine-inch nails through each one of my eyelids?\nWanna copy me and do exactly like I did?\nTry acid and get messed up worse than my life is?\nMy brain's dead weight, I'm tryin' to get my head straight\nBut I can't figure out which Spice Girl I want to impregnate.\n- Slim Shady, you a basehead!\n- Uh-uh!\n- Go wash your face red, man, you wasted!\n- Well, since age twelve, I felt like a caged elf\nWho stayed to himself in one space chasin' his tail.\nGot ticked off and ripped Pamela Lee's lips off\nKissed 'em and said, \"I ain't know silicone was supposed to be this soft!\"\nI'm about to pass out and crash and fall in the grass\nFaster than a fat man who sat down too fast.\nCome here, lady!\n- Shady, wait a minute, that's my girl, dog!\n- I don't give a damn, Dre sent me to take the world off!\nHi! My name is... What? My name is... Who? My name is... Chka-chka, Slim Shady.\nHi! My name is... What? My name is... Who? My name is... Chka-chka, Slim Shady.\nHi! My name is... What? My name is... Who? My name is... Chka-chka, Slim Shady.\nHi! My name is... What? My name is... Who? My name is... Chka-chka, Slim Shady.\nMy English teacher wanted to flunk me in junior high.\nDamn! Thanks a lot! Next semester I'll be thirty-five!\nI smacked him in his face with an eraser\nChased him with a stapler, and told him to change the grade on the paper.\nWalked in the strip club, had my jacket zipped up\nServed the bartender, then walked out with a tip cup.\nExtraterrestrial, running over pedestrians\nIn a spaceship while they're screaming at me:\n- Let's just be friends!\n- 99% of my life I was lied to.\nI just found out my mom does more than I do.\nI told her I'd grow up to be a famous rapper\nMake a record about... and name it after her.\nYou know you blew up when the women rush your stands\nTry to touch your hands like some screaming Usher fans.\nThis guy at White Castle asked for my autograph\nSo I signed it: \"Dear Dave, thanks for the support!\"\nHi! My name is... What? My name is... Who? My name is... Chka-chka, Slim Shady.\nHi! My name is... What? My name is... Who? My name is... Chka-chka, Slim Shady.\nHi! My name is... What? My name is... Who? My name is... Chka-chka, Slim Shady.\nHi! My name is... What? My name is... Who? My name is... Chka-chka, Slim Shady.\n- Stop the tape! This kid needs to be locked away!\n- Get him!\n- Dr. Dre, don't just stand there, operate!\nI'm not ready to leave, it's too scary to die.\nI'll have to be carried inside the cemetery and buried alive.\nAm I coming or going? I can barely decide.\nI just drank a fifth of Kool-Aid, hey, dare me to drive?\nAll my life I was very deprived.\nI ain't had a woman in years, and my palms are too hairy to hide.\nClothes ripped like the Incredible Hulk.\nI spit when I talk, I frick anything that walks.\nWhen I was little, I used to get so hungry I would throw fits.\n\"How you gonna breastfeed me, Mom? You ain't got no tits!\"\nI lay awake and strap myself in the bed\nWith a bulletproof vest on and slap myself in the head.\nI'm steamin' mad! And by the way, when you see my dad\nAsk him if he bought the porn-o-magazine, my ass!\nHi! My name is... What? My name is... Who? My name is... Chka-chka, Slim Shady.\nHi! My name is... What? My name is... Who? My name is... Chka-chka, Slim Shady.\nHi! My name is... What? My name is... Who? My name is... Chka-chka, Slim Shady.\nHi! My name is... What? My name is... Who? My name is... Chka-chka, Slim Shady."
+  },
+  "metadata": {
+    "youtube_id": "sNPnbI1arSE",
+    "title_extracted": null,
+    "corpus_id": "sNPnbI1arSE",
+    "uploader": "EminemMusic",
+    "audio_file": "corpus/01_music_videos_audio/audio/sNPnbI1arSE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7941674,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.075344,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:56:57Z"
+  },
+  "status": "success",
+  "error": null
+}

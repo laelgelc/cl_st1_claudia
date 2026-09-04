@@ -1,0 +1,38 @@
+{
+  "corpus_id": "fwK7ggA3-bU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/fwK7ggA3-bU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/fwK7ggA3-bU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/fwK7ggA3-bU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You and I go hard\nAt each other like we're going to war\nYou and I go rough\nWe keep throwing things and slamming the doors\nYou and I get so damn dysfunctional, we stop keeping score\nYou and I get sick\nYeah, I know that we can't do this no more\nHey\n\nBut baby, there you go again, there you go again making me love you\nYeah, I stop using my head, using my head, let it all go\nGot you stuck on my body, on my body like a tattoo\nAnd now I'm feeling stupid, feeling stupid falling back to you\n\nSo I cross my heart and I hope to die\nThat I'll only stay with you one more night\nAnd I know I said it a million times\nBut I'll only stay with you one more night\n\nYeah, I try to tell you no, but my body keeps on telling you yes\nI try to tell you stop, but your lipstick got me so breathless\nI'll be waking up in the morning probably hating myself\nAnd I'll be waking up feeling satisfied and guilty as hell, yeah\n\nBut baby, there you go again, there you go again making me love you (making me love you)\nYeah, I stop using my head, using my head, let it all go (let it all go)\nGot you stuck on my body, on my body like a tattoo (like a tattoo, yeah)\nAnd now I'm feeling stupid, feeling stupid falling back to you\n\nSo I cross my heart and I hope to die\nThat I'll only stay with you one more night\nAnd I know I said it a million times\nBut I'll only stay with you one more night\n\nYeah, baby, give me one more night\nYeah, baby, give me one more night\nYeah, baby, give me one more night\n\nBut baby, there you go again, there you go again making me love you\nYeah, I stop using my head, using my head, let it all go\nGot you stuck on my body, on my body like a tattoo\nYeah, yeah, yeah, yeah\n\nSo I cross my heart and I hope to die\nThat I'll only stay with you one more night\nAnd I know I said it a million times (said it a million times)\nBut I'll only stay with you one more night\nSo I cross my heart and I hope to die\nThat I'll only stay with you one more night\nAnd I know I said it a million times\nBut I'll only stay with you one more night\n\nI don't know, whatever."
+  },
+  "metadata": {
+    "youtube_id": "fwK7ggA3-bU",
+    "title_extracted": null,
+    "corpus_id": "fwK7ggA3-bU",
+    "uploader": "Maroon 5",
+    "audio_file": "corpus/01_music_videos_audio/audio/fwK7ggA3-bU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7137706,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.48109,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:06:14Z"
+  },
+  "status": "success",
+  "error": null
+}

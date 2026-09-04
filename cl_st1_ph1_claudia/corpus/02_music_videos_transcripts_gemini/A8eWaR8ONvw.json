@@ -1,0 +1,38 @@
+{
+  "corpus_id": "A8eWaR8ONvw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/A8eWaR8ONvw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/A8eWaR8ONvw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/A8eWaR8ONvw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Chestnuts roasting on an open fire Jack Frost nipping at your nose Yuletide carols being sung by a choir And folks dressed up like Eskimos Everybody knows a turkey and some mistletoe Help to make the season bright Tiny tots with their eyes all aglow Will find it hard to sleep tonight They know that Santa's on his way He's loaded lots of toys and goodies on his sleigh And every mother's child is gonna spy To see if reindeer really know how to fly And so I'm offering this simple phrase To kids from 1 to 92 Although it's been said many times, many ways Merry Christmas to you"
+  },
+  "metadata": {
+    "youtube_id": "A8eWaR8ONvw",
+    "title_extracted": null,
+    "corpus_id": "A8eWaR8ONvw",
+    "uploader": "Nat King Cole",
+    "audio_file": "corpus/01_music_videos_audio/audio/A8eWaR8ONvw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3979792,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.291809,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:48:31Z"
+  },
+  "status": "success",
+  "error": null
+}

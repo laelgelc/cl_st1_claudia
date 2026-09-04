@@ -1,0 +1,38 @@
+{
+  "corpus_id": "4xqo7D2k8HM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4xqo7D2k8HM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/4xqo7D2k8HM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/4xqo7D2k8HM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "First things first\nI'mma say all the words inside my head\nI'm fired up and tired of the way that things have been, oh-ooh\nThe way that things have been, oh-ooh\n\nSecond things second\nDon't you tell me what you think that I could be\nI'm the master of my sea, oh-ooh\nThe master of my sea, oh-ooh\n\nI was broken from a young age\nTaking my sulking to the masses\nWriting my poems for the few\nThat look at me, took to me, thanking me, singing from heartache\nFrom the pain, taking my message from the veins\nSpeaking my lesson from the brain\nSeeing the beauty through the... Come on!\n\nPain!\nYou made me a, you made me a believer, believer\nPain!\nYou break me down, you build me up, believer, believer\nPain!\nLet the bullets fly, oh let them rain\nMy life, my love, my drive, it came from...\nPain!\nYou made me a, you made me a believer, believer\n\nThird things third\nSend a prayer to the ones up above\nAll the hate that you heard has turned your spirit to a dove, oh-ooh\nYour spirit up above, oh-ooh\n\nI was choking in the crowd\nBuilding my rain up in the clouds\nFalling like ashes to the ground\nHoping my feelings, they would drown\nBut they never did, ever lived, ebbing and flowing\nInhibited, limited 'til it broke open and rained down\nIt rained down like...\n\nPain!\nYou made me a, you made me a believer, believer\nPain!\nYou break me down, you build me up, believer, believer\nPain!\nLet the bullets fly, oh let them rain\nMy life, my love, my drive, it came from...\nPain!\nYou made me a, you made me a believer, believer\n\nLast things last\nBy the grace of the fire and the flames\nYou're the face of the future\nThe blood in my veins, oh-ooh\nThe blood in my veins, oh-ooh\n\nBut they never did, ever lived, ebbing and flowing\nInhibited, limited 'til it broke open and rained down\nIt rained down like...\n\nYou made me a, you made me a... Let's go right now!\nPain!\nYou made me a, you made me a believer, believer\nPain!\nYou break me down, you build me up, believer, believer\nPain!\nLet the bullets fly, oh let them rain\nMy life, my love, my drive, it came from...\nPain!\nYou made me a, you made me a believer, believer\nLet's go!"
+  },
+  "metadata": {
+    "youtube_id": "4xqo7D2k8HM",
+    "title_extracted": null,
+    "corpus_id": "4xqo7D2k8HM",
+    "uploader": "ImagineDragons",
+    "audio_file": "corpus/01_music_videos_audio/audio/4xqo7D2k8HM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8962610,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:03:50Z"
+  },
+  "status": "success",
+  "error": null
+}

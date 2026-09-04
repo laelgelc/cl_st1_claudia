@@ -1,0 +1,38 @@
+{
+  "corpus_id": "WaSy8yy-mr8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/WaSy8yy-mr8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/WaSy8yy-mr8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/WaSy8yy-mr8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Right now, he's probably slow dancing with a bleach-blonde tramp and she's probably getting frisky. Right now, he's probably buying her some fruity little drink 'cause she can't shoot whiskey. Right now, he's probably 'up behind her with a pool-stick showing her how to shoot a combo. And he don't know That I dug my key into the side of his pretty little souped-up four-wheel drive, Carved my name into his leather seats. I took a Louisville Slugger to both headlights, Slashed a hole in all four tires. Maybe next time he'll think before he cheats. Right now, she's probably singing some white-trash version of Shania karaoke. Right now, she's probably saying \"I'm drunk\" and he's a thinking that he's gonna get lucky. Right now, he's probably dabbing on three dollars worth of that bathroom cologne. Oh, and he don't know That I dug my key into the side of his pretty little souped-up four-wheel drive, Carved my name into his leather seats. I took a Louisville Slugger to both headlights, Slashed a hole in all four tires. Maybe next time he'll think before he cheats. I might've saved a little trouble for the next girl 'Cause the next time that he cheats, Oh, you know it won't be on me. No, not on me. 'Cause I dug my key into the side of his pretty little souped-up four-wheel drive, Carved my name into his leather seats. I took a Louisville Slugger to both headlights, Slashed a hole in all four tires. Maybe next time he'll think before he cheats. Maybe next time he'll think before he cheats. Before he cheats."
+  },
+  "metadata": {
+    "youtube_id": "WaSy8yy-mr8",
+    "title_extracted": null,
+    "corpus_id": "WaSy8yy-mr8",
+    "uploader": "Carrie Underwood",
+    "audio_file": "corpus/01_music_videos_audio/audio/WaSy8yy-mr8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6339684,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.564131,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:39:24Z"
+  },
+  "status": "success",
+  "error": null
+}

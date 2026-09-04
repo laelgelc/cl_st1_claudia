@@ -1,0 +1,38 @@
+{
+  "corpus_id": "uxjQ3M_v7xc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uxjQ3M_v7xc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/uxjQ3M_v7xc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/uxjQ3M_v7xc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You know what it is? Yeah. That's a pretty hard way to get into it all. It's teardrops artificially produced, Tears on My Pillow. Little Anthony and the Imperials. You don't remember me, but I remember you. Was not so long ago, you broke my heart in two. Tears on my pillow, pain in my heart caused by you. You. If we could start anew, I wouldn't hesitate. I'd gladly take you back and tempt the hands of fate. Tears on my pillow, pain in my heart caused by you. You. Love is not a gadget. Love is not a toy. When you find the one you love, you fill your heart with joy. If we could start anew, I wouldn't hesitate. I'd gladly take you back and tempt the hands of fate. Tears on my pillow, pain in my heart caused by you. You, oh, you, oh, you. Thank you man, very much. Little Anthony and the Imperials. Man has kind of a, a very, very interesting vocal styling. There's, there's without a doubt."
+  },
+  "metadata": {
+    "youtube_id": "uxjQ3M_v7xc",
+    "title_extracted": null,
+    "corpus_id": "uxjQ3M_v7xc",
+    "uploader": "NRRArchives",
+    "audio_file": "corpus/01_music_videos_audio/audio/uxjQ3M_v7xc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5496334,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.83472,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:13:04Z"
+  },
+  "status": "success",
+  "error": null
+}

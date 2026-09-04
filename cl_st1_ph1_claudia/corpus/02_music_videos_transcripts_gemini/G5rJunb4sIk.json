@@ -1,0 +1,38 @@
+{
+  "corpus_id": "G5rJunb4sIk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/G5rJunb4sIk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/G5rJunb4sIk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/G5rJunb4sIk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Ooh Last dance Last chance for love Yes, it's my last chance For romance Tonight I need you By me Beside me To guide me To hold me To scold me 'Cause when I'm bad, I'm so, so bad So let's dance Do the last dance Let's dance Do the last dance Let's dance Do the last dance tonight Last dance Last chance for love Yes, it's my last chance For romance tonight Oh, I need you By me Beside me To guide me To hold me To scold me 'Cause when I'm bad, I'm so, so bad So let's dance Do the last dance Let's dance Do the last dance Let's dance Do the last dance tonight Oh, I need you By me To guide me To guide me To hold me To scold me 'Cause when I'm bad, I'm so, so bad So come on, baby Dance, dance Come on, baby Dance, dance Come on, baby Dance, dance tonight Yeah All right, baby. Yeah. All right, woo! All right, all right, let's hear it everybody. Let's hear it everybody, Nicole Sims, that's S-I-M-S! Yeah!"
+  },
+  "metadata": {
+    "youtube_id": "G5rJunb4sIk",
+    "title_extracted": null,
+    "corpus_id": "G5rJunb4sIk",
+    "uploader": "Jade Disco HD I",
+    "audio_file": "corpus/01_music_videos_audio/audio/G5rJunb4sIk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7018820,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 28.302944,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:13:38Z"
+  },
+  "status": "success",
+  "error": null
+}

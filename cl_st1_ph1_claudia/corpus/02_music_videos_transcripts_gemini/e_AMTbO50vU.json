@@ -1,0 +1,38 @@
+{
+  "corpus_id": "e_AMTbO50vU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/e_AMTbO50vU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/e_AMTbO50vU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/e_AMTbO50vU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Ding dong ding dong ding dong ding Have a holly jolly Christmas It's the best time of the year I don't know if there'll be snow But have a cup of cheer Have a holly jolly Christmas And when you walk down the street Say hello to friends you know And everyone you meet Oh ho the mistletoe Hung where you can see Somebody waits for you Kiss her once for me Have a holly jolly Christmas And in case you didn't hear Oh by golly have a holly jolly Christmas this year Have a holly jolly Christmas It's the best time of the year Have a holly jolly Christmas And when you walk down the street Say hello to friends you know And everyone you meet Oh ho the mistletoe Hung where you can see Somebody waits for you Kiss her once for me Have a holly jolly Christmas And in case you didn't hear Oh by golly have a holly jolly Christmas this year Ding dong ding dong ding dong ding dong ding dong"
+  },
+  "metadata": {
+    "youtube_id": "e_AMTbO50vU",
+    "title_extracted": null,
+    "corpus_id": "e_AMTbO50vU",
+    "uploader": "Christmas Music",
+    "audio_file": "corpus/01_music_videos_audio/audio/e_AMTbO50vU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4560848,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.011931,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:48:21Z"
+  },
+  "status": "success",
+  "error": null
+}

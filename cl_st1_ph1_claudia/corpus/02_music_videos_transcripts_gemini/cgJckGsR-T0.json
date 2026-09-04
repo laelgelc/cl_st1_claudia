@@ -1,0 +1,38 @@
+{
+  "corpus_id": "cgJckGsR-T0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/cgJckGsR-T0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/cgJckGsR-T0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/cgJckGsR-T0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I'm not in love So don't forget it It's just a silly phase I'm going through And just because I call you up Don't get me wrong, don't think you've got it made I'm not in love, no no (It's because...) I'd like to see you, but then again That doesn't mean you mean that much to me So if I call you, don't make a fuss Don't tell your friends about the two of us I'm not in love, no no (It's because...) Big boys don't cry, big boys don't cry, big boys don't cry, big boys don't cry, big boys don't cry... I keep your picture upon the wall It hides a nasty stain that's lying there So don't you ask me to give it back I know you know it doesn't mean that much to me I'm not in love, no no (It's because...) Ooh, you wait a long time for me Ooh, you wait a long time Ooh, you wait a long time for me Ooh, you wait a long time I'm not in love So don't forget it It's just a silly phase I'm going through And just because I call you up Don't get me wrong, don't think you've got it made I'm not in love I'm not in love"
+  },
+  "metadata": {
+    "youtube_id": "cgJckGsR-T0",
+    "title_extracted": null,
+    "corpus_id": "cgJckGsR-T0",
+    "uploader": "moondoggy",
+    "audio_file": "corpus/01_music_videos_audio/audio/cgJckGsR-T0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11642006,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 7.435761,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:57:14Z"
+  },
+  "status": "success",
+  "error": null
+}

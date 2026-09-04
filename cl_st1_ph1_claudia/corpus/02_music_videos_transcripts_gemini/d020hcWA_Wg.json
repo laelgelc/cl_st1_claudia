@@ -1,0 +1,38 @@
+{
+  "corpus_id": "d020hcWA_Wg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/d020hcWA_Wg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/d020hcWA_Wg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/d020hcWA_Wg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Lights go out and I can't be saved Tides that I tried to swim against Have brought me down upon my knees Oh I beg, I beg and plead, singing Come out of things unsaid Shoot an apple off my head And a trouble that can't be named A tiger's waiting to be tamed, singing You are, ooh You are, ooh Confusion never stops Closing walls and ticking clocks Gonna come back and take you home I could not stop that you now know, singing Come out upon my seas Cursed missed opportunities Am I a part of the cure? Or am I part of the disease? Singing You are, ooh You are, ooh You are, ooh You are, ooh And nothing else compares Oh, and nothing else compares And nothing else compares Home, home where I wanted to go Home, home where I wanted to go Home, home where I wanted to go Home, home where I wanted to go"
+  },
+  "metadata": {
+    "youtube_id": "d020hcWA_Wg",
+    "title_extracted": null,
+    "corpus_id": "d020hcWA_Wg",
+    "uploader": "Coldplay",
+    "audio_file": "corpus/01_music_videos_audio/audio/d020hcWA_Wg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8189106,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.113106,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:42:32Z"
+  },
+  "status": "success",
+  "error": null
+}

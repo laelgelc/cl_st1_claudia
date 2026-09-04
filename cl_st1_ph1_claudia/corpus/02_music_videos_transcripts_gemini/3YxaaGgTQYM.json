@@ -1,0 +1,38 @@
+{
+  "corpus_id": "3YxaaGgTQYM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/3YxaaGgTQYM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/3YxaaGgTQYM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/3YxaaGgTQYM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "How can you see into my eyes like open doors?\nLeading you down into my core where I've become so numb\nWithout a soul, my spirit's sleeping somewhere cold\nUntil you find it there and lead it back\n\nWake me up inside\n(Wake me up inside)\nCan't wake up\n(Wake me up inside)\nSave me\n(Call my name and save me from the dark)\nWake me up\n(Bid my blood to run)\nCan't wake up\n(Before I come undone)\nSave me\n(Save me from the nothing I've become)\n\nNow that I know what I'm without\nYou can't just leave me\nBreathe into me and make me real\nFreeze me to life\n\nWake me up inside\n(Wake me up inside)\nCan't wake up\n(Wake me up inside)\nSave me\n(Call my name and save me from the dark)\nWake me up\n(Bid my blood to run)\nCan't wake up\n(Before I come undone)\nSave me\n(Save me from the nothing I've become)\n\nBring me to life\n(I've been living a lie, there's nothing inside)\nBring me to life\n\nFrozen inside without your touch, without your love, darling\nOnly you are the life among the dead\n\nAll this time I can't believe I couldn't see\nKept in the dark, but you were there in front of me\nI've been sleeping a thousand years, it seems\nGot to open my eyes to everything\nWithout a thought, without a voice, without a soul\nDon't let me die here\nThere must be something more\nBring me to life\n\nWake me up inside\n(Wake me up inside)\nCan't wake up\n(Wake me up inside)\nSave me\n(Call my name and save me from the dark)\nWake me up\n(Bid my blood to run)\nCan't wake up\n(Before I come undone)\nSave me\n(Save me from the nothing I've become)\n\nBring me to life\n(I've been living a lie, there's nothing inside)\nBring me to life"
+  },
+  "metadata": {
+    "youtube_id": "3YxaaGgTQYM",
+    "title_extracted": null,
+    "corpus_id": "3YxaaGgTQYM",
+    "uploader": "Evanescence",
+    "audio_file": "corpus/01_music_videos_audio/audio/3YxaaGgTQYM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8125948,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.063648,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:51:08Z"
+  },
+  "status": "success",
+  "error": null
+}

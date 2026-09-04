@@ -1,0 +1,38 @@
+{
+  "corpus_id": "VsAlSuEG26A",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/VsAlSuEG26A.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/VsAlSuEG26A.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/VsAlSuEG26A.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "One, two, three o'clock, four o'clock, rock Five, six, seven o'clock, eight o'clock, rock Nine, ten, eleven o'clock, twelve o'clock, rock We're gonna rock around the clock tonight Put your glad rags on and join me, hon We'll have some fun when the clock strikes one We're gonna rock around the clock tonight We're gonna rock, rock, rock 'til broad daylight We're gonna rock, gonna rock around the clock tonight When the clock strikes two, three and four If the band slows down, we'll yell for more We're gonna rock around the clock tonight We're gonna rock, rock, rock 'til broad daylight We're gonna rock, gonna rock around the clock tonight When the chimes ring five, six and seven We'll be right in seventh heaven We're gonna rock around the clock tonight We're gonna rock, rock, rock 'til broad daylight We're gonna rock, gonna rock around the clock tonight When it's eight, nine, ten, eleven, too I'll be going strong and so will you We're gonna rock around the clock tonight We're gonna rock, rock, rock 'til broad daylight We're gonna rock, gonna rock around the clock tonight When the clock strikes twelve, we'll cool off then Start a-rocking round the clock again We're gonna rock around the clock tonight"
+  },
+  "metadata": {
+    "youtube_id": "VsAlSuEG26A",
+    "title_extracted": null,
+    "corpus_id": "VsAlSuEG26A",
+    "uploader": "OLD TAPES",
+    "audio_file": "corpus/01_music_videos_audio/audio/VsAlSuEG26A.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3874282,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.262386,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:16:05Z"
+  },
+  "status": "success",
+  "error": null
+}

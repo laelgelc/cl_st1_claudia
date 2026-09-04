@@ -1,0 +1,38 @@
+{
+  "corpus_id": "a7GITgqwDVg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/a7GITgqwDVg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/a7GITgqwDVg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/a7GITgqwDVg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Memories follow me left and right\nI can feel you over here, I can feel you over here\nYou take up every corner of my mind\nWhat you gonna do now?\n\nEver since the day you went away\nNow I don't know how\nHow to erase your body from my brain\nWhat you gonna do now?\n\nMaybe I should just focus on me instead\nBut all I think about\nAre the nights we were tangled up in your bed\n\nOh no, oh no, oh no, oh no\nYou're going round in circles, got you stuck up in my head, yeah\n\nMemories follow me left and right\nI can feel you over here, I can feel you over here\nYou take up every corner of my mind\nYour love stays with me day and night\nI can feel you over here, I can feel you over here\nYou take up every corner of my mind\nWhat you gonna do now?\n\nEver since the day you went away\nSomeone tell me how\nHow much more do I gotta drink for the pain?\nWhat you gonna do now?\n\nYou did things to me that I just can't forget\nAll I think about\nAre the nights we were tangled up in your bed\n\nOh no, oh no, oh no, oh no\nYou're going round in circles, got you stuck up in my head, yeah\n\nMemories follow me left and right\nI can feel you over here, I can feel you over here\nYou take up every corner of my mind, of my mind\nYour love stays with me day and night\nI can feel you over here, I can feel you over here\nYou take up every corner of my mind\nWhat you gonna do now?\n\nDid you know you're the one that got away?\nAnd even now that you're gone, I'm still not okay\nDid you know that my dreams, they're all the same?\nEvery time I close my eyes\n\nMemories follow me left and right\nI can feel you over here, I can feel you over here\nYou take up every corner of my mind\nWhat you gonna do now?\nYour love stays with me day and night\nI can feel you over here, I can feel you over here\nYou take up every corner of my mind\nWhat you gonna do now?\n\nOh-oh-oh\nI can feel you over here, I can feel you over here\nYou take up every corner of my mind\nWhat you gonna do now?"
+  },
+  "metadata": {
+    "youtube_id": "a7GITgqwDVg",
+    "title_extracted": null,
+    "corpus_id": "a7GITgqwDVg",
+    "uploader": "Charlie Puth",
+    "audio_file": "corpus/01_music_videos_audio/audio/a7GITgqwDVg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5095094,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.285405,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:31:25Z"
+  },
+  "status": "success",
+  "error": null
+}

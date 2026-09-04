@@ -1,0 +1,38 @@
+{
+  "corpus_id": "9kK_yWYdoY0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/9kK_yWYdoY0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/9kK_yWYdoY0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/9kK_yWYdoY0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Sugar pie, honey bunch You know that I love you I can't help myself I love you and nobody else In and out my life (In and out my life) You come and you go (Come and you go) Leaving just your picture behind And I've kissed it a thousand times When you snap your finger or wink your eye I come a-running to you I'm tied to your apron strings And there's nothing that I can do Ooh Can't help myself No, I can't help myself Sugar pie, honey bunch (Sugar pie, honey bunch) I'm weaker than a man should be I can't help myself I'm a fool in love, you see Wanna tell you I don't love you, tell you that we're through And I've tried But every time I see your face I get all choked up inside When I call your name, girl, it starts the flame Burning in my heart, tearing all apart No matter how I try, my love I cannot hide Sugar pie, honey bunch (Sugar pie, honey bunch) You know that I'm weak for you (Weak for you) Can't help myself I love you and nobody else Sugar pie, honey bunch (Sugar pie, honey bunch) Do anything you ask me to (Ask me to) Can't help myself I want you and nobody else Sugar pie, honey bunch (Sugar pie, honey bunch) You know that I love you (Love you) Can't help myself No, I can't help myself Sugar pie, honey bunch"
+  },
+  "metadata": {
+    "youtube_id": "9kK_yWYdoY0",
+    "title_extracted": null,
+    "corpus_id": "9kK_yWYdoY0",
+    "uploader": "Smurfstools Oldies Music Time Machine",
+    "audio_file": "corpus/01_music_videos_audio/audio/9kK_yWYdoY0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5478502,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 42.012795,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:45:51Z"
+  },
+  "status": "success",
+  "error": null
+}

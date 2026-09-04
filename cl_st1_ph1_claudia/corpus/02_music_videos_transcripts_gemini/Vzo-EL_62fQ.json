@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Vzo-EL_62fQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Vzo-EL_62fQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Vzo-EL_62fQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Vzo-EL_62fQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Closed off from love, I didn't need the pain\nOnce or twice was enough, and it was all in vain\nTime starts to pass, before you know it, you're frozen\n\nBut something happened for the very first time with you\nMy heart melted to the ground, found something true\nAnd everyone's looking 'round, thinking I'm going crazy\n\nBut I don't care what they say, I'm in love with you\nThey try to pull me away, but they don't know the truth\nMy heart's crippled by the vein that I keep on closing\nYou cut me open and I keep bleeding, keep keep bleeding love\nI keep bleeding, I keep keep bleeding love\nKeep bleeding, keep keep bleeding love\nYou cut me open\n\nTrying hard not to hear, but they talk so loud\nTheir piercing sounds fill my ears, try to fill me with doubt\nYet I know that the goal is to keep me from falling, yeah, yeah\n\nBut nothing's greater than the risk that comes with your embrace\nAnd in this world of loneliness, I see your face\nYet everyone around me thinks that I'm going crazy, maybe, maybe\n\nBut I don't care what they say, I'm in love with you\nThey try to pull me away, but they don't know the truth\nMy heart's crippled by the vein that I keep on closing\nYou cut me open and I keep bleeding, keep keep bleeding love\nI keep bleeding, I keep keep bleeding love\nKeep bleeding, keep keep bleeding love\nYou cut me open\n\nAnd it's draining all on me\nThough they find it hard to believe\nI'll be wearing these scars for everyone to see\n\nI don't care what they say, I'm in love with you\nThey try to pull me away, but they don't know the truth\nMy heart's crippled by the vein that I keep on closing\nYou cut me open and I keep bleeding, keep keep bleeding love\nI keep bleeding, I keep keep bleeding love\nKeep bleeding, keep keep bleeding love\nYou cut me open and I keep bleeding, keep keep bleeding love\nI keep bleeding, I keep keep bleeding love\nKeep bleeding, keep keep bleeding love\nOh, you cut me open and I keep bleeding, keep keep bleeding love"
+  },
+  "metadata": {
+    "youtube_id": "Vzo-EL_62fQ",
+    "title_extracted": null,
+    "corpus_id": "Vzo-EL_62fQ",
+    "uploader": "leonalewis",
+    "audio_file": "corpus/01_music_videos_audio/audio/Vzo-EL_62fQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8926944,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.126146,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:53:33Z"
+  },
+  "status": "success",
+  "error": null
+}

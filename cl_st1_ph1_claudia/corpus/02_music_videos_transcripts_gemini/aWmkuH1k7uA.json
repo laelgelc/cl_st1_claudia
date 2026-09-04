@@ -1,0 +1,38 @@
+{
+  "corpus_id": "aWmkuH1k7uA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/aWmkuH1k7uA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/aWmkuH1k7uA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/aWmkuH1k7uA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "What else should I be All apologies? What else should I say? Everyone is gay What else should I write? I don't have a right What else should I be All apologies In the sun In the sun I feel as one In the sun In the sun Married Buried I wish I was like you Easily amused Find my nest of salt Everything is my fault I'll take all the blame Aqua seafoam shame Sunburn freeze of burn Choking on the ashes of her enemy In the sun In the sun I feel as one In the sun In the sun Married Buried Married Buried Yeah, yeah, yeah, yeah All in all is all we are All in all is all we are All in all is all we are All in all is all we are All in all is all we are All in all is all we are All in all is all we are All in all is all we are All in all is all we are All in all is all we are All in all is all we are All in all is all we are"
+  },
+  "metadata": {
+    "youtube_id": "aWmkuH1k7uA",
+    "title_extracted": null,
+    "corpus_id": "aWmkuH1k7uA",
+    "uploader": "Nirvana",
+    "audio_file": "corpus/01_music_videos_audio/audio/aWmkuH1k7uA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7029966,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 28.471958,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:22:17Z"
+  },
+  "status": "success",
+  "error": null
+}

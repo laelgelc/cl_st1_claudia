@@ -1,0 +1,38 @@
+{
+  "corpus_id": "6JCLY0Rlx6Q",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/6JCLY0Rlx6Q.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/6JCLY0Rlx6Q.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/6JCLY0Rlx6Q.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Oh, don't you dare look back. Just keep your eyes on me. I said, \"You're holding back.\" She said, \"Shut up and dance with me!\" This woman is my destiny. She said, \"Ooh-ooh, shut up and dance with me.\" We were victims of the night. The chemical, physical kryptonite. Helpless to the bass and the fading light. Oh, we were bound to get together, bound to get together. She took my arm. I don't know how it happened. We took the floor and she said, \"Oh, don't you dare look back. Just keep your eyes on me. I said, \"You're holding back.\" She said, \"Shut up and dance with me!\" This woman is my destiny. She said, \"Ooh-ooh, shut up and dance with me.\" A backless dress and some beat-up sneakers. My discotheque Juliet, teenage dream. I felt it in my chest as she looked at me. I knew we were bound to be together, bound to be together. She took my arm. I don't know how it happened. We took the floor and she said, \"Oh, don't you dare look back. Just keep your eyes on me. I said, \"You're holding back.\" She said, \"Shut up and dance with me!\" This woman is my destiny. She said, \"Ooh-ooh, shut up and dance with me.\" Oh, come on, girl! Deep in her eyes, I think I see the future. I realize this is my last chance. She took my arm. I don't know how it happened. We took the floor and she said, Oh, don't you dare look back. Just keep your eyes on me. I said, \"You're holding back.\" She said, \"Shut up and dance with me!\" This woman is my destiny. She said, \"Ooh-ooh, shut up and dance... Shut up and dance!\" Shut up and dance! Don't you dare look back. Just keep your eyes on me. I said, \"You're holding back.\" She said, \"Shut up and dance with me!\" This woman is my destiny. She said, \"Ooh-ooh, shut up and dance with me.\" Ooh-ooh, shut up and dance with me. Ooh-ooh, shut up and dance with me."
+  },
+  "metadata": {
+    "youtube_id": "6JCLY0Rlx6Q",
+    "title_extracted": null,
+    "corpus_id": "6JCLY0Rlx6Q",
+    "uploader": "WALK THE MOON",
+    "audio_file": "corpus/01_music_videos_audio/audio/6JCLY0Rlx6Q.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7879260,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.31131,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:25:08Z"
+  },
+  "status": "success",
+  "error": null
+}

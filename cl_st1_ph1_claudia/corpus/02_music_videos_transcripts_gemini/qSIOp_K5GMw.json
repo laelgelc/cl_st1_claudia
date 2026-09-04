@@ -1,0 +1,38 @@
+{
+  "corpus_id": "qSIOp_K5GMw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/qSIOp_K5GMw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/qSIOp_K5GMw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/qSIOp_K5GMw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You need to give it up, had about enough It's not hard to see, the boy is mine I'm sorry that you seem to be confused He belongs to me, the boy is mine I think it's time we got this straight, let's talk face to face There's no way you could mistake, for your man the one I see See I know that you may be, just a bit jealous of me 'Cause you're blind if you can't see, that his love is all in me See I tried to hesitate, I didn't want to say what he told me He said without me he couldn't make it through the day, that ain't a lie Maybe you misunderstood, 'cause I can't see how he could Wanna change something that's so good, all my love was all it took You need to give it up, had about enough It's not hard to see, the boy is mine I'm sorry that you seem to be confused He belongs to me, the boy is mine Must you do the things you do, you keep on acting like a fool You need to know it's me not you, and if you didn't know it, girl it's true I think that you should realize, try to understand why He is a part of my life, I know it's killing you inside You can say what you wanna say, what we have you can't take From the truth you can't escape, I can tell the real from the fake When will you get the picture, yours is the past, I'm the future Get away, it's my time to shine, if you didn't know, the boy is mine You need to give it up, had about enough It's not hard to see, the boy is mine I'm sorry that you seem to be confused He belongs to me, the boy is mine You can't change his mind, it's a love I found Silly girl, step aside, the boy is mine without a doubt You might as well give up, stop trying You can think that he wants you, but I'm the one he's coming to Special place is in his heart, he loves me more than you can know You need to give it up, had about enough It's not hard to see, the boy is mine You need to give it up, had about enough It's not hard to see, the boy is mine I'm sorry that you seem to be confused He belongs to me, the boy is mine Not yours, but mine Not yours, but mine I'm sorry that you seem to be confused He belongs to me, the boy is mine"
+  },
+  "metadata": {
+    "youtube_id": "qSIOp_K5GMw",
+    "title_extracted": null,
+    "corpus_id": "qSIOp_K5GMw",
+    "uploader": "Brandy",
+    "audio_file": "corpus/01_music_videos_audio/audio/qSIOp_K5GMw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7728422,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.192872,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:54:38Z"
+  },
+  "status": "success",
+  "error": null
+}

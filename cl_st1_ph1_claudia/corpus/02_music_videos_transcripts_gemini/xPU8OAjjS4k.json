@@ -1,0 +1,38 @@
+{
+  "corpus_id": "xPU8OAjjS4k",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/xPU8OAjjS4k.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/xPU8OAjjS4k.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/xPU8OAjjS4k.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I took a walk around the world to ease my troubled mind I left my body lying somewhere in the sands of time But I watched the world float to the dark side of the moon I feel there's nothing I can do Yeah I watched the world float to the dark side of the moon After all I knew it had to be something to do with you I really don't mind what happens now and then As long as you'll be my friend at the end If I go crazy, then will you still call me Superman? If I'm alive and well, will you be there holding my hand? I'll keep you by my side with my superhuman might Kryptonite You called me strong, you called me weak, but still your secrets I will keep You took for granted all the times I never let you down You stumbled in and bumped your head, if not for me then you'd be dead I picked you up and put you back on solid ground If I go crazy, then will you still call me Superman? If I'm alive and well, will you be there holding my hand? I'll keep you by my side with my superhuman might Kryptonite If I go crazy, then will you still call me Superman? If I'm alive and well, will you be there holding my hand? I'll keep you by my side with my superhuman might Kryptonite Yeah! If I go crazy, then will you still call me Superman? If I'm alive and well, will you be there holding my hand? I'll keep you by my side with my superhuman might Kryptonite Woah, oh, oh Woah, oh, oh Woah, oh, oh Woah, oh, oh"
+  },
+  "metadata": {
+    "youtube_id": "xPU8OAjjS4k",
+    "title_extracted": null,
+    "corpus_id": "xPU8OAjjS4k",
+    "uploader": "3doorsdown",
+    "audio_file": "corpus/01_music_videos_audio/audio/xPU8OAjjS4k.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7497338,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.978674,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:04:09Z"
+  },
+  "status": "success",
+  "error": null
+}

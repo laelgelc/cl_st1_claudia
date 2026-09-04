@@ -1,0 +1,38 @@
+{
+  "corpus_id": "TIy3n2b7V9k",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/TIy3n2b7V9k.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/TIy3n2b7V9k.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/TIy3n2b7V9k.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "He was a boy, she was a girl. Can I make it any more obvious? He was a punk, she did ballet. What more can I say? He wanted her, she'd never tell. Secretly she wanted him as well. But all of her friends stuck up their nose, and they had a problem with his baggy clothes. He was a skater boy, she said, \"See you later, boy.\" He wasn't good enough for her. She had a pretty face, but her head was up in space. She needed to come back down to earth. Five years from now, she sits at home, feeding the baby, she's all alone. She turns on TV, guess who she sees? Skater boy rocking up MTV. She calls up her friends, they already know, and they've all got tickets to see his show. She tags along, stands in the crowd, looks up at the man that she turned down. He was a skater boy, she said, \"See you later, boy.\" He wasn't good enough for her. Now he's a superstar, slamming on his guitar. Does your pretty face see what he's worth? He was a skater boy, she said, \"See you later, boy.\" He wasn't good enough for her. Now he's a superstar, slamming on his guitar. Does your pretty face see what he's worth? Sorry, girl, but you missed out. Well, tough luck, that boy's mine now. We are more than just good friends. This is how the story ends. Too bad that you couldn't see, see the man that boy could be. There is more than meets the eye. I see the soul that is inside. He's just a boy, and I'm just a girl. Can I make it any more obvious? We are in love, haven't you heard how we rock each other's world? I'm with the skater boy, I said, \"See you later, boy.\" I'll be backstage after the show. I'll be at the studio singing the song we wrote about the girl he used to know. I'm with the skater boy, I said, \"See you later, boy.\" I'll be backstage after the show. I'll be at the studio singing the song we wrote about the girl he used to know."
+  },
+  "metadata": {
+    "youtube_id": "TIy3n2b7V9k",
+    "title_extracted": null,
+    "corpus_id": "TIy3n2b7V9k",
+    "uploader": "Avril Lavigne",
+    "audio_file": "corpus/01_music_videos_audio/audio/TIy3n2b7V9k.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7000988,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.298829,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:23:33Z"
+  },
+  "status": "success",
+  "error": null
+}

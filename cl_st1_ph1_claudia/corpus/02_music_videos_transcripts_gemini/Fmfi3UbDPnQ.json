@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Fmfi3UbDPnQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Fmfi3UbDPnQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Fmfi3UbDPnQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Fmfi3UbDPnQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Hey, don't go talking 'bout the tire on me Floating around in a new alley Got no slave, I know it's doing alright You should've heard the dust around the bend That's you, Lord I come to test your love That's you, Lord Just like a young man should Drums keep rolling, it's a hot-rod truck Lady in the house wonder where it's gonna stop And I know that it's doing alright You should've heard the dust around the bend That's you, Lord I come to test your love That's you, Lord Just like a young man should Ah, hear that sound I come to test your love Ah, hear that sound on the street avenue Just like a young man should I bet your mama where the train's on the track All aboard with the street looks back I know a new boy, but I know that I'm right You should've heard the dust around the bend That's you, Lord I come to test your love That's you, Lord Just like a young man should Ah, see her, yeah, yeah! I come to test your love Ah, see her, yeah, yeah! Just like a young man should Ah, see her, yeah, yeah, yeah, yeah! I come to test your love Better run home! Woo!"
+  },
+  "metadata": {
+    "youtube_id": "Fmfi3UbDPnQ",
+    "title_extracted": null,
+    "corpus_id": "Fmfi3UbDPnQ",
+    "uploader": "The Rolling Stones",
+    "audio_file": "corpus/01_music_videos_audio/audio/Fmfi3UbDPnQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6483832,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 45.733718,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:28:04Z"
+  },
+  "status": "success",
+  "error": null
+}

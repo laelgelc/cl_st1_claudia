@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ZTt649Hvtxs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ZTt649Hvtxs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ZTt649Hvtxs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ZTt649Hvtxs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "How about it gang, for Harold Melvin and the Mighty Bluenotes. The love I lost Was a sweet love The love I lost Was complete love The love I lost I will never No, no, never Love again I can remember planning Building my whole world around you I can remember hoping That you and I could make it on through But something went wrong We loved each other, we just couldn't get along Take a good look at me I'm in misery Can't you see The love I lost, love I lost, love I lost Was a sweet love Yes it was The love I lost Was complete love The love I lost I will never, never No, no, never, never Love again I can remember nothing, no, no, no But the good times we used to share My Lord, I'm so sad and lonely For without you my life is so bare I'm sorry to say You'll go your way and I'll go my way It hurts deep inside The day we said goodbye The love I lost, love I lost, love I lost Was a sweet love The love I lost Was complete love The love I lost I will never, never No, no, never, never Love again I will never, never, never love again Never, never, no, no, never, never love again"
+  },
+  "metadata": {
+    "youtube_id": "ZTt649Hvtxs",
+    "title_extracted": null,
+    "corpus_id": "ZTt649Hvtxs",
+    "uploader": "Philadelphia International Records",
+    "audio_file": "corpus/01_music_videos_audio/audio/ZTt649Hvtxs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6538818,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.827518,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:15:06Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "gD6cPE2BHic",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/gD6cPE2BHic.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/gD6cPE2BHic.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/gD6cPE2BHic.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "When we are out dancing \nOn the floor falling \nAnd I feel like I need some more \nAnd I feel your body close to mine \nAnd I know my love, it's a hot that time \nMake me feel \nHow I feel \n\nMake me feel \nHow I feel \n\nYou make me feel \nHow I feel \n\nYou make me feel \nHow I feel \n\nWhen we get home, holding tight \nTouching real slow, music \nRhythm in us, till your heart in you \nBeat turn it, keep me good, and I know you love me \nI get... Ooh! \n\nOoh, you make me feel \nHow I feel \n\nYou make me feel \nHow I feel \n\nMake me feel \nHow I feel \n\nMake me feel \nHow I feel \n\nMake me feel \nHow I feel \n\nMake me feel \nHow I feel \n\nI feel real, I feel real, I feel real, I feel real, I feel real, I feel real \n\nWoo! \n\nWoo! \nOoh! \nI feel, I feel, I feel, I feel, I feel it! \n\nYou make me feel \nHow I feel \n\nYou make me feel \nHow I feel \n\nOh, you make me feel \nHow I feel \n\nYou make me feel \nHow I feel \n\nI feel real when you touch me, I feel real... \nI feel real when you touch me, I feel real when you hold me \nI feel real when you touch me, I feel real when you hold me"
+  },
+  "metadata": {
+    "youtube_id": "gD6cPE2BHic",
+    "title_extracted": null,
+    "corpus_id": "gD6cPE2BHic",
+    "uploader": "Sylvester",
+    "audio_file": "corpus/01_music_videos_audio/audio/gD6cPE2BHic.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7505510,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.599756,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:26:44Z"
+  },
+  "status": "success",
+  "error": null
+}

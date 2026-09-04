@@ -1,0 +1,38 @@
+{
+  "corpus_id": "wo1OwRTRKRk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wo1OwRTRKRk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/wo1OwRTRKRk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/wo1OwRTRKRk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Tonight concludes the intergalactic search for the new Benny's Band! Our final weird and wonderful contestants are: Rocket, Comet, Guynoid, Galaxy, Martian, Star, Luna, and Jet! And now, presenting the legendary Benny! Hey kids, plug into the news. Ballistic sound that you're gonna change weather. We'll kill the fatted cow for the night, so stick around. You're gonna hear electric music, solid walls of sound. Say, Candy and Ronnie, have you seen them yet? Ooh, but they're so space bound. B-B-B-Bennie and the Jets. Oh, but she's weird and she's wonderful. Oh, Bennie, she's a hurricane. She's got electric boots, a mohair suit. You know I read it in a magazine, oh... B-B-B-Bennie and the Jets. Hey kids, look at the famous. Maybe they're blinded, but Bennie makes them business. We shall survive, now let's take ourselves along. We'll fight our parents out in the streets to find who's right or wrong. Oh, Candy and Ronnie, have you seen them yet? Oh, but they're so space bound. B-B-B-Bennie and the Jets. Oh, but she's weird and she's wonderful. Oh, Bennie, she's a hurricane. She's got electric boots, a mohair suit. You know I read it in a magazine, oh... B-B-B-Bennie and the Jets. Oh, Candy and Ronnie, have you seen them yet? Oh, but they're so space bound. B-B-B-Bennie and the Jets. Oh, but she's weird and she's wonderful. Oh, Bennie, she's a hurricane. She's got electric boots, a mohair suit. You know I read it in a magazine, oh... B-B-B-Bennie and the Jets. Bennie! Bennie! Bennie! Bennie and the Jets! Bennie! Bennie! Bennie! Bennie and the Jets! Bennie, Bennie, Bennie, Bennie, Bennie, Bennie and the Jets! Jets! Jets! Bennie! Bennie! Bennie!"
+  },
+  "metadata": {
+    "youtube_id": "wo1OwRTRKRk",
+    "title_extracted": null,
+    "corpus_id": "wo1OwRTRKRk",
+    "uploader": "Elton John",
+    "audio_file": "corpus/01_music_videos_audio/audio/wo1OwRTRKRk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11160518,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.273318,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:35:24Z"
+  },
+  "status": "success",
+  "error": null
+}

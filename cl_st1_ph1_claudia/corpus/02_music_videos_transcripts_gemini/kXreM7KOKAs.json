@@ -1,0 +1,38 @@
+{
+  "corpus_id": "kXreM7KOKAs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/kXreM7KOKAs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/kXreM7KOKAs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/kXreM7KOKAs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Oh, yeah! Mr. Big Stuff Who do you think you are? Mr. Big Stuff You're never gonna get my love Now because you wear all those fancy clothes Oh, yeah! And drive a big fine car, oh, yes, you do now Do you think I can afford to give you my love? Oh, yeah! Big star, and a big restorer, bug Mr. Big Stuff Who do you think you are? Mr. Big Stuff You're never gonna get my love Now all the girls I've seen you with I know you broke their hearts one after another, bit by bit You made them cry and poor girls cry When they tried to keep you happy, just tried to keep you satisfied Mr. Big Stuff, tell me, tell me Who do you think you are? Mr. Big Stuff You're never gonna get my love. Come on! I'd rather give my love to a poor guy that has a love that's true Than to be fooled around and get hurt by you 'Cause when I give my love, I want love in return Now I know this is a lesson Mr. Big Stuff, you have learned Mr. Big Stuff, tell me Who do you think you are? Mr. Big Stuff You're never gonna get my love. Mr. Big Stuff You're never gonna break my heart. Mr. Big Stuff Got to know Mr. Big Stuff, who do you think you are? Who do you think you are? I think I'll tell you You may be everything a woman think a man should be Tell me why you are new and you're grand and so? Is it the love, the way that you walk the floor? And you turn the other on with the way you talk? You see the clothes you wear what catch a girl's eye But this love of mine now, your jump change can't buy Mr. Big Stuff, tell me Who do you think you are? Mr. Big Stuff You're never gonna get my love. Mr. Big Stuff You're never gonna break my heart. Mr. Big Stuff Who do you think you are? Who do you think you are, now? Who do you think you are, now? Tell me, tell me Mr. Big Stuff, think You're never gonna get my love"
+  },
+  "metadata": {
+    "youtube_id": "kXreM7KOKAs",
+    "title_extracted": null,
+    "corpus_id": "kXreM7KOKAs",
+    "uploader": "Valdenir Chaves",
+    "audio_file": "corpus/01_music_videos_audio/audio/kXreM7KOKAs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6725320,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.197196,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:34:45Z"
+  },
+  "status": "success",
+  "error": null
+}

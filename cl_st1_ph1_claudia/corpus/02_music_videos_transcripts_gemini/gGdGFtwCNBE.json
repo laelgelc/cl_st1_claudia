@@ -1,0 +1,38 @@
+{
+  "corpus_id": "gGdGFtwCNBE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/gGdGFtwCNBE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/gGdGFtwCNBE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/gGdGFtwCNBE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Coming out of my cage and I've been doing just fine Gotta gotta be down because I want it all It started out with a kiss, how did it end up like this? It was only a kiss, it was only a kiss Now I'm falling asleep and she's calling a cab While he's having a smoke and she's taking a drag Now they're going to bed and my stomach is sick And it's all in my head, but she's touching his chest now He takes off her dress now Let me go And I just can't look, it's killing me And taking control Jealousy, turning saints into the sea Swimming through sick lullabies, choking on your alibis But it's just the price I pay, destiny is calling me Open up my eager eyes 'Cause I'm Mr. Brightside I'm coming out of my cage and I've been doing just fine Gotta gotta be down because I want it all It started out with a kiss, how did it end up like this? It was only a kiss, it was only a kiss Now I'm falling asleep and she's calling a cab While he's having a smoke and she's taking a drag Now they're going to bed and my stomach is sick And it's all in my head, but she's touching his chest now He takes off her dress now Let me go 'Cause I just can't look, it's killing me And taking control Jealousy, turning saints into the sea Swimming through sick lullabies, choking on your alibis But it's just the price I pay, destiny is calling me Open up my eager eyes 'Cause I'm Mr. Brightside I never... I never... I never... I never..."
+  },
+  "metadata": {
+    "youtube_id": "gGdGFtwCNBE",
+    "title_extracted": null,
+    "corpus_id": "gGdGFtwCNBE",
+    "uploader": "TheKillersMusic",
+    "audio_file": "corpus/01_music_videos_audio/audio/gGdGFtwCNBE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7281114,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.471643,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:01:05Z"
+  },
+  "status": "success",
+  "error": null
+}

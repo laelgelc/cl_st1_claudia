@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ViwtNLUqkMY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ViwtNLUqkMY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ViwtNLUqkMY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ViwtNLUqkMY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Yes So crazy right now Most incredibly It's your girl, B It's your boy, Young You ready? Uh-oh, uh-oh, uh-oh, oh, no, no Uh-oh, uh-oh, uh-oh, oh, no, no Uh-oh, uh-oh, uh-oh, oh, no, no Uh-oh, uh-oh, uh-oh, oh, no, no Yeah, history in the making Part two, so crazy right now I look and stare so deep in your eyes I touch on you more and more every time When you leave I'm begging you not to go Call your name two, three times in a row Such a funny thing for me to try to explain How I'm feeling and my pride is the one to blame 'Cause I know I don't understand Just how your love can do what no one else can Got me looking so crazy right now, your love's Got me looking so crazy right now Got me looking so crazy right now, your touch Got me looking so crazy right now Got me hoping you'll page me right now, your kiss Got me hoping you'll save me right now Looking so crazy, your love's Got me looking, got me looking so crazy, your love Uh-oh, uh-oh, uh-oh, oh, no, no Uh-oh, uh-oh, uh-oh, oh, no, no Uh-oh, uh-oh, uh-oh, oh, no, no Uh-oh, uh-oh, uh-oh, oh, no, no When I talk to my friends so quietly \"Who he think he is?\" Look at what you've done to me Tennis shoes, don't even need to buy new dress If you ain't there, ain't nobody else to impress It's the way that you know what I gotta do It's the beat that my heart skips when I'm with you But I still don't understand Just how your love can do what no one else can Got me looking so crazy right now, your love's Got me looking so crazy right now Got me looking so crazy right now, your touch Got me looking so crazy right now Got me hoping you'll page me right now, your kiss Got me hoping you'll save me right now Looking so crazy, your love's Got me looking, got me looking so crazy, your love I'm looking so crazy, your love's Got me looking, got me looking so crazy, your love Check it, Young Hov, y'all know when the flow is loco Young B and the R-O-C, uh-oh O.G. Big Homie, the one and only Stick-bony, but the pocket is fat like Tony Soprano, the ROC handle like Van Exel I shake phonies, man, you can't get next to The genuine article, I do not sing, though I sling, though, if anything, I bling, yo Star-like, Mya, ball like a Young Chris Crazy, bring your whole set Jay-Z in the Range, crazy and deranged They can't figure him out, they like, \"He is insane\" Yes, sir, I'm cut from a different cloth My texture is the best fur, chinchilla I've been iller, chain smoker, how you think I got the name Hova? I've been realer, the game's over Fall back, Young, ever since I made the changeover To Platinum, the game's been a wrap, one Got me looking so crazy, my baby I'm not myself lately I'm foolish, I don't do this I've been playing myself Baby, I don't care 'Cause your love got the best of me And baby, you're making a fool of me You got me sprung and I don't care who sees 'Cause baby, you got me, you got me, you got me so crazy, baby Got me looking so crazy right now, your love's Got me looking so crazy right now Got me looking so crazy right now, your touch Got me looking so crazy right now Got me hoping you'll page me right now, your kiss Got me hoping you'll save me right now Looking so crazy, your love's Got me looking, got me looking so crazy, your love Got me looking so crazy right now, your love's Got me looking so crazy right now Got me looking so crazy right now, your touch Got me looking so crazy right now Got me hoping you'll page me right now, your kiss Got me hoping you'll save me right now Looking so crazy, your love's Got me looking, got me looking so crazy, your love"
+  },
+  "metadata": {
+    "youtube_id": "ViwtNLUqkMY",
+    "title_extracted": null,
+    "corpus_id": "ViwtNLUqkMY",
+    "uploader": "Beyoncé",
+    "audio_file": "corpus/01_music_videos_audio/audio/ViwtNLUqkMY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7577586,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.590633,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:21:06Z"
+  },
+  "status": "success",
+  "error": null
+}

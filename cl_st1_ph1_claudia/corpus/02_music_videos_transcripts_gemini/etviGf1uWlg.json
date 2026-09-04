@@ -1,0 +1,38 @@
+{
+  "corpus_id": "etviGf1uWlg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/etviGf1uWlg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/etviGf1uWlg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/etviGf1uWlg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "How do you say... groovy? How do you say... gorgeous? Ooh la la la la la la. How do you say... Deee-Lite? We're gonna dance. We're gonna dance. We're gonna dance and have some fun. Dig! The chills that you spill up my back keep me filled with satisfaction when we're done, satisfaction of what's to come. I couldn't ask for another. No, I couldn't ask for another. That's right. Your groove, I do deeply dig. No walls, only the bridge. My supadish, my succotash wish. Sing it, baby. I couldn't ask for another. No, I couldn't ask for another. Groove is in the heart. Groove is in the heart. Groove is in the heart. That's blowin' my mind. Groove is in the heart. Hit it! Watch out! The depth of hula groove moves us to the ooze. We're gonna groove to Horton Hears a Who! I couldn't ask for another. No, I couldn't ask for another. DJ Dmitry was on a roll. I've been told he can't be sold. He's not vicious or malicious, just a lovely and delicious. I couldn't ask for another. Some likes in this funk soul here. Heart gotta deal you won't unknown. Delightful, truly delight folk. Making it, doing it, especially at a show. Feeling kinda hot like a Hendrix haze. Music makes motion moves like a maze. All inside of heart especially. Help of the rhythm where I wanna be. Flowing, glowing, electric eyes. You dip to the dive, baby, you'll realize. Baby, you'll see the funk is outta me. Baby, you'll see that rhythm is the key. Get, get with it, with it, can't quit it, quit it. Stomp on the street when I hear funk beat. Play pop pipe, follow the groove. Baby, just sing about the groove. Sing it! Groove is in the heart. Groove is in the heart. Groove is in the heart. Groove is in the heart. 1, 2, 3, 4! Blow them horn, blow! Groove isn't in the heart? Groove is in the heart. Groove is in the heart. Groove is in the heart. Groove is in the heart. Oh, uh, and oh yeah... don't forget, groove IS in the heart, and Deee-Lite have definitely been known to smoke... on stage, that is. Dig groovy!"
+  },
+  "metadata": {
+    "youtube_id": "etviGf1uWlg",
+    "title_extracted": null,
+    "corpus_id": "etviGf1uWlg",
+    "uploader": "Deee-Lite",
+    "audio_file": "corpus/01_music_videos_audio/audio/etviGf1uWlg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9305150,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.974895,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:06:47Z"
+  },
+  "status": "success",
+  "error": null
+}

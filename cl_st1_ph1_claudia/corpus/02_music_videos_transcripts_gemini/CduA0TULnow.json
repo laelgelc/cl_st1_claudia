@@ -1,0 +1,38 @@
+{
+  "corpus_id": "CduA0TULnow",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CduA0TULnow.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/CduA0TULnow.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/CduA0TULnow.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Earth to Mars Lander, report status, please.  Mars Lander here. Gravity device status effective. Oxygen status 98%.  Any sign of habitation?  Not so much as a... Whoa there, horsey!  What the...  Cute. What is it?  Oh, it's cute, all right. It couldn't be...  Mars Lander, what's happening up there?  Ugh!  Yeah, yeah, yeah, yeah, yeah.  Yeah, yeah, yeah, yeah, yeah.  I think I did it again. I made you believe we're more than just friends. Oh, baby. It might seem like a crush, but it doesn't mean that I'm serious. 'Cause to lose all my innocence, that is just so typical me. Oh, baby, baby.  Oops, I did it again. I played with your heart. Got lost in the game. Oh, baby, baby. Oops, you think I'm in love, that I'm sent from above. I'm not that innocent.  You see, my problem is this: I'm dreaming away, wishing that heroes truly exist. I cry watching my days. Can't you see I'm a fool in so many ways? But to lose all my innocence, that is just so typical me. Baby, oh.  Oops, I did it again. I played with your heart. Got lost in the game. Oh, baby, baby. Oops, you think I'm in love, that I'm sent from above. I'm not that innocent.  Yeah, yeah, yeah, yeah, yeah.  Yeah, yeah, yeah, yeah, yeah.  All right. Before you go, there's something I want you to have.  Oh, it's beautiful. But wait a minute, isn't this...?  Yeah, yes, it is.  But I thought the old lady dropped it into the ocean in the end?  Well, baby, I went down and got it for you.  Aw, you shouldn't have.  Oops, I did it again to your heart. Got lost in this game, oh, baby. Oops, you think I'm in love, that I'm sent from above. I'm not that innocent.  Oops, I did it again. I played with your heart. Got lost in the game. Oh, baby, baby. Oops, you think I'm in love, that I'm sent from above. I'm not that innocent.  Oops, I did it again. I played with your heart. Got lost in the game. Oh, baby, baby. Oops, you think I'm in love, that I'm sent from above. I'm not that innocent."
+  },
+  "metadata": {
+    "youtube_id": "CduA0TULnow",
+    "title_extracted": null,
+    "corpus_id": "CduA0TULnow",
+    "uploader": "Britney Spears",
+    "audio_file": "corpus/01_music_videos_audio/audio/CduA0TULnow.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8076908,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.001325,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:11:28Z"
+  },
+  "status": "success",
+  "error": null
+}

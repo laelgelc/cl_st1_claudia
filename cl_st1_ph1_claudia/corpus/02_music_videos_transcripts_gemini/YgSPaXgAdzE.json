@@ -1,0 +1,38 @@
+{
+  "corpus_id": "YgSPaXgAdzE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/YgSPaXgAdzE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/YgSPaXgAdzE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/YgSPaXgAdzE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "In the time of chimpanzees, I was a monkey Butane in my tank and I'm out to cut the junkie With the plastic eyeballs, spray-paint the vegetables Dog food skulls with the beefcake pantyhose Kill the headlights and put it in neutral Stock car flaming with a loser in the cruise control Baby's in Reno with the vitamin D Got a couple of couches, sleep on the love seat Someone came saying I'm a saint to complain about a shotgun wedding and a stain on my shirt Don't believe everything that you read You get a parking violation and a maggot on your sleeve So shave your face with some mace in the dark Saving all your food stamps and burning down the trailer park Yo, cut it Soy un perdedor I'm a loser baby, so why don't you kill me? Double barrel buckshot Soy un perdedor I'm a loser baby, so why don't you kill me? Forces of evil in a bozo nightmare Ban all the music with a phony gas chamber 'Cause one's got a weasel and the other's got a flag One's on the pole, shove the other in a bag With the rerun shows and the cocaine nosejob The daytime crap of the folk singer's club He hung himself with a guitar string A slab of turkey neck and it's hanging from a pigeon wing You can't get right if you can't relate Trade the cash for the beef for the body for the hate And my time is a piece of wax falling on a termite That's choking on the splinters Soy un perdedor I'm a loser baby, so why don't you kill me? Get crazy with the Cheez Whiz Soy un perdedor I'm a loser baby, so why don't you kill me? Drive-by body pierce Yo, bring it on down I'm a driver, I'm a winner Things are gonna change, I can feel it Soy un perdedor I'm a loser baby, so why don't you kill me? I can't believe it Soy un perdedor I'm a loser baby, so why don't you kill me? Soy un perdedor I'm a loser baby, so why don't you kill me? Sprechen Sie Deutsch, baby? Soy un perdedor I'm a loser baby, so why don't you kill me? You know what I'm saying?"
+  },
+  "metadata": {
+    "youtube_id": "YgSPaXgAdzE",
+    "title_extracted": null,
+    "corpus_id": "YgSPaXgAdzE",
+    "uploader": "Beck",
+    "audio_file": "corpus/01_music_videos_audio/audio/YgSPaXgAdzE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7433436,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 23.002276,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:09:25Z"
+  },
+  "status": "success",
+  "error": null
+}

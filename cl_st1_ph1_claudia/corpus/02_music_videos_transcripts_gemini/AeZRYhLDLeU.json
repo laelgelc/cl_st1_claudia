@@ -1,0 +1,38 @@
+{
+  "corpus_id": "AeZRYhLDLeU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/AeZRYhLDLeU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/AeZRYhLDLeU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/AeZRYhLDLeU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Hello, I'm Johnny Cash. I hear the train a comin', it's rolling round the bend and I ain't seen the sunshine since I don't know when. I'm stuck in Folsom Prison and time keeps draggin' on. But that train keeps a rollin' on down to San Antone. When I was just a baby, my mama told me, \"Son, always be a good boy, don't ever play with guns.\" But I shot a man in Reno just to watch him die. When I hear that whistle blowin', I hang my head and cry. Swing it! I bet there's rich folks eatin' from a fancy dining car. They're probably drinkin' coffee and smokin' big cigars. Well I know I had it comin', I know I can't be free, but those people keep a movin' and that's what tortures me. Hit it, Joe! Yee-haw! Well, if they freed me from this prison, if that railroad train was mine, I bet I'd move it on a little farther down the line, far from Folsom Prison, that's where I want to stay. And I'd let that lonesome whistle blow my blues away."
+  },
+  "metadata": {
+    "youtube_id": "AeZRYhLDLeU",
+    "title_extracted": null,
+    "corpus_id": "AeZRYhLDLeU",
+    "uploader": "Johnny Cash",
+    "audio_file": "corpus/01_music_videos_audio/audio/AeZRYhLDLeU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5200606,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.136741,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:15:18Z"
+  },
+  "status": "success",
+  "error": null
+}

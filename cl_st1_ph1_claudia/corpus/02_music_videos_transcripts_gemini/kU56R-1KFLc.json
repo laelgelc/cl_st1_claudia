@@ -1,0 +1,38 @@
+{
+  "corpus_id": "kU56R-1KFLc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/kU56R-1KFLc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/kU56R-1KFLc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/kU56R-1KFLc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Baby, I like your style Grips on your waist, front way, back way You know that I don't play Streets not safe, but I never run away Even when I'm away O.T., O.T., there's never much love when we go O.T. I pray to make it back in one piece I pray, I pray That's why I need a one dance Got a Hennessy in my hand One more time 'fore I go Higher powers taking a hold on me I need a one dance Got a Hennessy in my hand One more time 'fore I go Higher powers taking a hold on me Baby, I like your style Strength and guidance All that I'm wishing for my friends Nobody makes it from my ends I had to bust up the silence You know you gotta stick by me Soon as you see the text, reply me I don't wanna spend time fighting We got no time And that's why I need a one dance Got a Hennessy in my hand One more time 'fore I go Higher powers taking a hold on me I need a one dance Got a Hennessy in my hand One more time 'fore I go Higher powers taking a hold on me Got a pretty girl and she loves me long time Wine like a wine and she call me online Oh yeah, she's steady on time Back up, back up, back up and wine it Back up, back up and wine it Girl, just back up, back up, back up and wine it Oh yeah, she's steady on time Back up, back up and wine it Tell me, I need to know Where do you wanna go? 'Cause if you tell, I'll take it slow Make you lose control Where, where, where, where, where, where, where, where, where, where, where, where 'Cause if you tell 'Cause if you tell 'Cause if you tell"
+  },
+  "metadata": {
+    "youtube_id": "kU56R-1KFLc",
+    "title_extracted": null,
+    "corpus_id": "kU56R-1KFLc",
+    "uploader": "Marvin Tittleton",
+    "audio_file": "corpus/01_music_videos_audio/audio/kU56R-1KFLc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5131502,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.562402,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:47:22Z"
+  },
+  "status": "success",
+  "error": null
+}

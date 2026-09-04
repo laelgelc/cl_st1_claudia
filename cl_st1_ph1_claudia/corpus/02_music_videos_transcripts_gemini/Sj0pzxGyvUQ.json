@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Sj0pzxGyvUQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Sj0pzxGyvUQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Sj0pzxGyvUQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Sj0pzxGyvUQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Sugar ah honey honey You are my candy girl And you've got me wanting you Honey ah sugar sugar You are my candy girl And you got me wanting you I just can't believe the loveliness of loving you I just can't believe it's true I just can't believe the wonder of this feeling too I just can't believe it's true Ah sugar ah honey honey You are my candy girl And you got me wanting you Oh honey ah sugar sugar You are my candy girl And you got me wanting you When I kissed you girl I knew how sweet a kiss could be I knew how sweet a kiss can be Like the summer sunshine pour your sweetness over me Pour your sweetness over me Oh sugar Pour a little sugar on it, honey Pour a little sugar on it, baby I'm gonna make your life so sweet, yeah yeah yeah Pour a little sugar on it, oh yeah Pour a little sugar on it, honey Pour a little sugar on it, baby I'm gonna make your life so sweet, yeah yeah yeah Pour a little sugar on it, honey Ah sugar ah honey honey You are my candy girl And you got me wanting you Oh honey ah sugar sugar ah honey sugar sugar ah honey sugar You are my candy girl"
+  },
+  "metadata": {
+    "youtube_id": "Sj0pzxGyvUQ",
+    "title_extracted": null,
+    "corpus_id": "Sj0pzxGyvUQ",
+    "uploader": "PS César",
+    "audio_file": "corpus/01_music_videos_audio/audio/Sj0pzxGyvUQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5414600,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.394134,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:44:01Z"
+  },
+  "status": "success",
+  "error": null
+}

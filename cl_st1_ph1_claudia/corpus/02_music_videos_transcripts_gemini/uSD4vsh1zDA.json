@@ -1,0 +1,38 @@
+{
+  "corpus_id": "uSD4vsh1zDA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uSD4vsh1zDA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/uSD4vsh1zDA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/uSD4vsh1zDA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I got a feeling That tonight's gonna be a good night That tonight's gonna be a good night That tonight's gonna be a good, good night I got a feeling That tonight's gonna be a good night That tonight's gonna be a good night That tonight's gonna be a good, good night I got a feeling Ooh-hoo That tonight's gonna be a good night That tonight's gonna be a good night That tonight's gonna be a good, good night I got a feeling Ooh-hoo That tonight's gonna be a good night That tonight's gonna be a good night That tonight's gonna be a good, good night Tonight's the night, let's live it up I got my money, let's spend it up Go out and smash it like \"Oh my God\" Jump off that sofa, let's kick it off I know that we'll have a ball If we get down and go out and just lose it all I feel stressed out, I wanna let it go Let's go way out, space out and lose all control Fill up my cup, Mazel Tov Look at her dance, just take it off Let's paint the town, we'll shut it down Let's burn the roof, and then we'll do it again Let's do it, let's do it, let's do it Let's do it, and do it, and do it Let's live it up And do it, and do it, and do it, do it, do it Let's do it, let's do it, let's do it I got a feeling Ooh-hoo That tonight's gonna be a good night That tonight's gonna be a good night That tonight's gonna be a good, good night I got a feeling Ooh-hoo That tonight's gonna be a good night That tonight's gonna be a good night That tonight's gonna be a good, good night I feel tonight's the night (Hey!) Let's live it up (Let's live it up!) I got my money (Hey!) Let's spend it up (Let's spend it up!) Go out and smash it (Smash it!) Like \"Oh my God\" (Like \"Oh my God!\") Jump off that sofa (Come on!) Let's kick it off Fill up my cup (Drink!) Mazel Tov (L'Chaim!) Look at her dance (Move it, move it!) Just take it off Let's paint the town (Paint the town!) We'll shut it down (Shut it down!) Let's burn the roof (Woo!) And then we'll do it again Let's do it, let's do it, let's do it Let's do it (Do it!), and do it (Do it!), and do it (Do it!) Let's live it up And do it (Do it!), and do it (Do it!), and do it, do it, do it (Do it, do it!) Let's do it (Do it!), let's do it (Do it!), let's do it, do it, do it, do it Here we come, here we go We gotta rock Easy come, easy go Now we on top Fill the shot, body rock Rock it, don't stop Round and round, up and down All around the clock Monday, Tuesday, Wednesday and Thursday (Do it!) Friday, Saturday, Saturday to Sunday (Do it!) Get, get, get, get, get with us You know what we say Party everyday, p-p-party everyday And I'm feeling Ooh-hoo That tonight's gonna be a good night That tonight's gonna be a good night That tonight's gonna be a good, good night I'm feeling Ooh-hoo That tonight's gonna be a good night That tonight's gonna be a good night That tonight's gonna be a good, good night Ooh-hoo"
+  },
+  "metadata": {
+    "youtube_id": "uSD4vsh1zDA",
+    "title_extracted": null,
+    "corpus_id": "uSD4vsh1zDA",
+    "uploader": "Black Eyed Peas",
+    "audio_file": "corpus/01_music_videos_audio/audio/uSD4vsh1zDA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9327442,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.419464,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:57:54Z"
+  },
+  "status": "success",
+  "error": null
+}

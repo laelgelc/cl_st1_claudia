@@ -1,0 +1,38 @@
+{
+  "corpus_id": "oKsxPW6i3pM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oKsxPW6i3pM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/oKsxPW6i3pM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/oKsxPW6i3pM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Hey, don't write yourself off yet It's only in your head you feel that bad or look down on Just try your best Try everything you can And don't you worry what they tell themselves when you're away It just takes some time, little girl, you're in the middle of the ride Everything, everything will be just fine Everything, everything will be alright, alright Hey, you know they're all the same You know you're doing better on your own, so don't buy in Live right now Yeah, just be yourself It doesn't matter if it's good enough for someone else It just takes some time, little girl, you're in the middle of the ride Everything, everything will be just fine Everything, everything will be alright, alright It just takes some time, little girl, you're in the middle of the ride Everything, everything will be just fine Everything, everything will be alright, alright Woo! Hey, don't write yourself off yet It's only in your head you feel that bad or look down on Just do your best (Just do your best) Do everything you can (Everything you can) And don't you worry what their bitter hearts are gonna say It just takes some time, little girl, you're in the middle of the ride Everything, everything will be just fine Everything, everything will be alright, alright It just takes some time, little girl, you're in the middle of the ride Everything, everything will be just fine Everything, everything will be alright"
+  },
+  "metadata": {
+    "youtube_id": "oKsxPW6i3pM",
+    "title_extracted": null,
+    "corpus_id": "oKsxPW6i3pM",
+    "uploader": "Jimmy Eat World",
+    "audio_file": "corpus/01_music_videos_audio/audio/oKsxPW6i3pM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5534972,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.477907,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:58:46Z"
+  },
+  "status": "success",
+  "error": null
+}

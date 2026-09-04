@@ -1,0 +1,38 @@
+{
+  "corpus_id": "N4bFqW_eu2I",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/N4bFqW_eu2I.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/N4bFqW_eu2I.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/N4bFqW_eu2I.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "There is a house in New Orleans They call the Rising Sun And it's been the ruin of many a poor boy And God, I know I'm one My mother was a tailor She sewed my new blue jeans My father was a gambling man Down in New Orleans Now the only thing a gambler needs Is a suitcase and trunk And the only time he's satisfied Is when he's on a drunk Oh mother, tell your children Not to do what I have done Spend your lives in sin and misery In the House of the Rising Sun Well, I got one foot on the platform The other foot on the train I'm going back to New Orleans To wear that ball and chain Well, there is a house in New Orleans They call the Rising Sun And it's been the ruin of many a poor boy And God, I know I'm one"
+  },
+  "metadata": {
+    "youtube_id": "N4bFqW_eu2I",
+    "title_extracted": null,
+    "corpus_id": "N4bFqW_eu2I",
+    "uploader": "Timeless Music",
+    "audio_file": "corpus/01_music_videos_audio/audio/N4bFqW_eu2I.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8325082,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 11.286603,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:22:40Z"
+  },
+  "status": "success",
+  "error": null
+}

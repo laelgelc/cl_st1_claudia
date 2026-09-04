@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Zi_XLOBDo_Y",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Zi_XLOBDo_Y.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Zi_XLOBDo_Y.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Zi_XLOBDo_Y.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "She was more like a beauty queen from a movie scene I said don't mind, but what do you mean I am the one Who will dance on the floor in the round? She said I am the one Who will dance on the floor in the round She told me her name was Billie Jean, as she caused a scene Then every head turned with eyes that dreamed of being the one Who will dance on the floor in the round People always told me be careful of what you do And don't go around breaking young girls' hearts And mother always told me be careful of who you love And be careful of what you do 'cause the lie becomes the truth Billie Jean is not my lover She's just a girl who claims that I am the one But the kid is not my son She says I am the one But the kid is not my son For forty days and forty nights, the law was on her side But who can stand when she's in demand, her schemes and plans 'Cause we danced on the floor in the round So take my strong advice Just remember to always think twice Do think twice, do think twice She told my baby we danced till three, then she looked at me Then showed a photo, my baby's eyes were like mine Go and dance on the floor in the round, baby People always told me be careful of what you do Don't go around breaking young girls' hearts (Don't break no hearts) But she came and stood right by me, just a smell of sweet perfume This happened much too soon, as she called me to her room, hey Billie Jean is not my lover She's just a girl who claims that I am the one But the kid is not my son Billie Jean is not my lover She's just a girl who claims that I am the one But the kid is not my son She says I am the one But the kid is not my son She says I am the one But the kid is not my son Billie Jean is not my lover She's just a girl who claims that I am the one (Dance with me, baby) But the kid is not my son But the kid is not my son But the kid is not my son You know Billie Jean You're breaking my heart, baby She says I am the one Billie Jean is not my lover Billie Jean is not my lover Billie Jean is not my lover Billie Jean is not my lover Oh, Billie Jean, Billie Jean is not my lover Billie Jean"
+  },
+  "metadata": {
+    "youtube_id": "Zi_XLOBDo_Y",
+    "title_extracted": null,
+    "corpus_id": "Zi_XLOBDo_Y",
+    "uploader": "Michael Jackson",
+    "audio_file": "corpus/01_music_videos_audio/audio/Zi_XLOBDo_Y.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9468618,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.661405,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:25:04Z"
+  },
+  "status": "success",
+  "error": null
+}

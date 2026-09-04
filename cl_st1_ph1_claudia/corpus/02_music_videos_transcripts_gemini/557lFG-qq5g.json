@@ -1,0 +1,38 @@
+{
+  "corpus_id": "557lFG-qq5g",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/557lFG-qq5g.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/557lFG-qq5g.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/557lFG-qq5g.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Bobby Darin singing Mack the Knife. Let's have a nice hand for Oh, the shark, babe, has such teeth, dear And he shows them pearly white Just a jackknife has old MacHeath, babe And he keeps it out of sight You know when that shark bites with his teeth, dear Scarlet billows start to spread Fancy gloves, though, wears old MacHeath, babe So there's never, never a trace of red On the sidewalk, huh, huh, Sunday morning, huh, huh Lies a body just oozin' life, eek! And someone's sneakin' 'round the corner Could that someone be Mack the Knife? There's a tugboat down by the river, don't you know Where a cement bag's just a-droopin' on down Oh, that cement is for, just for the weight, dear Five'll get you ten old Mackie's back in town Now d'ya hear 'bout Louie Miller? He disappeared, babe After drawin' out all of his hard-earned cash And now Mackie spends just like a sailor Could it be our boy's done somethin' rash? Ha! Jenny Diver, yeah! Sukey Tawdry! Look out, OOH, Lotte Lenya and Miss Lucy Brown! Oh, the line forms on the right, babe Now that Mackie's back in town! One more! One! That's Jenny Diver, Sukey Tawdry Look out, OOH, Lotte Lenya and Miss Lucy Brown Yes, the line forms on the right, babe Now that Mackie's Back in town! Look out, old Mackie is back! Wonderful, Bobby! Bobby, come back here and take a bow. What do you think of this guy, huh?"
+  },
+  "metadata": {
+    "youtube_id": "557lFG-qq5g",
+    "title_extracted": null,
+    "corpus_id": "557lFG-qq5g",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/557lFG-qq5g.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6576712,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.921113,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:50:24Z"
+  },
+  "status": "success",
+  "error": null
+}

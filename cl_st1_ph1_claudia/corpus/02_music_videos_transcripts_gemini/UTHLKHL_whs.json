@@ -1,0 +1,38 @@
+{
+  "corpus_id": "UTHLKHL_whs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/UTHLKHL_whs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/UTHLKHL_whs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/UTHLKHL_whs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Lil Nas X, I sentence you to 5 years in Montero State Prison. Baby back, ayy Couple racks, ayy Couple Grammys on him Couple plaques, ayy That's a fact, ayy Throw it back, ayy Throw it back, ayy And this one is for the champions I ain't lost since I began, yeah Funny how you said it was the end, yeah Then I went and did it again, yeah I told you long ago on the road I got what they waitin' for I'm runnin' from nothing, dog, get your soldiers Just tell 'em that the break is over You was never really rootin' for me anyway When I back up at the top I wanna hear you say He don't run from nothing, dog, get your soldiers Tell 'em that the break is over Need a, need a sound now Need a couple number ones Need a plaque on every song Need me like one with Nicki now Tell a rap nigga I don't see ya, huh I'm a pop nigga like Bieber, huh I don't fuck bitches, I'm queer, huh But these niggas bitches like Madea, yeah, yeah, yeah, ayy All I do is win, I can't lose I ain't fall off, I just released my new shoes I blew up, now everybody try to sue me You call him Nas, but the hood call him Doobie, yeah And this one is for the champions I ain't lost since I began, yeah Funny how you said it was the end, yeah Then I went and did it again, yeah I told you long ago on the road I got what they waitin' for I'm runnin' from nothing, dog, get your soldiers Just tell 'em that the break is over You was never really rootin' for me anyway When I back up at the top I wanna hear you say He don't run from nothing, dog, get your soldiers Tell 'em that the break is over, yeah My track record so clean, they couldn't wait to just bash me I must be gettin' too flashy, y'all shouldn't have let the world gas me It's too late, 'cause I'm here to stay and these girls know that I'm nasty I sent it back to her boyfriend with my handprint on her ass cheek City talkin', we takin' notes Tell 'em all to keep makin' posts Wish he could, but he can't get close OG so proud of me that he chokin' up while he makin' toasts I'm the type that you can't control Said I would then I made it so I don't clear up rumors Where's y'all sense of humor? I'm done makin' jokes 'cause they got old like baby boomers My haters took consumers I make vets feel like they juniors Say your time is comin' soon, but just like Oklahoma Mine is comin' sooner I'm just a late bloomer I didn't peak in high school, I'm still out here gettin' cuter All these social networks and computers got these pussies walkin' 'round like they ain't losers I told you long ago on the road I got what they waitin' for I'm runnin' from nothing, dog, get your soldiers Just tell 'em that the break is over You was never really rootin' for me anyway When I back up at the top I wanna hear you say He don't run from nothing, dog, get your soldiers Tell 'em that the break is over, yeah Yeah On the way to the building On the way to the building, yeah"
+  },
+  "metadata": {
+    "youtube_id": "UTHLKHL_whs",
+    "title_extracted": null,
+    "corpus_id": "UTHLKHL_whs",
+    "uploader": "Lil Nas X",
+    "audio_file": "corpus/01_music_videos_audio/audio/UTHLKHL_whs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7529288,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.072153,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:44:35Z"
+  },
+  "status": "success",
+  "error": null
+}

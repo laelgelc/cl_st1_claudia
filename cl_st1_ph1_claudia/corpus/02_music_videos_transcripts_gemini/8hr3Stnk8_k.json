@@ -1,0 +1,38 @@
+{
+  "corpus_id": "8hr3Stnk8_k",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8hr3Stnk8_k.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/8hr3Stnk8_k.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/8hr3Stnk8_k.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Oh God said to Abraham, \"Kill me a son\" Abe says, \"Man, you must be puttin' me on\" God say, \"No.\" Abe say, \"What?\" God say, \"You can do what you want Abe, but Next time you see me comin' you better run\" Well Abe said, \"Where you want this killin' done?\" God said, \"Out on Highway 61\" Well Georgia Sam, he had a bleedin' nose Welfare Department they wouldn't give him no clothes He asked poor Howard, \"Where can I go?\" Howard said, \"There's only one place I know\" Sam said, \"Tell me quick man, I got to run\" Ol' Howard pointed with his gun And said, \"That way down Highway 61\" Well Mack the Finger said to Louie the King \"I got forty red white and blue shoestrings And a thousand telephones that don't ring Do you know where I can get rid of these things?\" And Louie the King said, \"Let me think for a minute son\" Then he said, \"Yes, I think it can be easily done Just take everything down to Highway 61\" Now the fifth daughter on the twelfth night Told the first father that things wasn't right \"My complexion,\" she says, \"is much too white\" He said, \"Come here and step into the light\" He says, \"Hmm you're right Let me tell the second mother this has been done\" But the second mother was with the seventh son And they were both out on Highway 61 Now the rovin' gambler he was very bored Tryin' to create a next world war He found a promoter who nearly fell off the floor He said, \"I never engaged in this kind of thing before But yes, I think it can be very easily done We'll just put some bleachers out in the sun And have it on Highway 61\""
+  },
+  "metadata": {
+    "youtube_id": "8hr3Stnk8_k",
+    "title_extracted": null,
+    "corpus_id": "8hr3Stnk8_k",
+    "uploader": "Bob Dylan",
+    "audio_file": "corpus/01_music_videos_audio/audio/8hr3Stnk8_k.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6636898,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.623992,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:36:36Z"
+  },
+  "status": "success",
+  "error": null
+}

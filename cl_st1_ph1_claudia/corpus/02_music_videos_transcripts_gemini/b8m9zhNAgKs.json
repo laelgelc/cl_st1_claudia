@@ -1,0 +1,38 @@
+{
+  "corpus_id": "b8m9zhNAgKs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/b8m9zhNAgKs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/b8m9zhNAgKs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/b8m9zhNAgKs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Black Beatles in the city be back immediately to confiscate the money Rae Sremmurd Mike WiLL Send flowers what you said you'd receive What you said you'd receive That girl is a real crowd pleaser Small world, all her friends know of me Young bull living like an old geezer Quick release the cash, watch it fall slowly Frat girls still trying to get in Haters mad for whatever reason Smoke in the air, binge drinking They lose it when the DJ drops the needle I'm a fucking Black Beatle, cream seats in the Regal Rocking John Lennon lenses like to see 'em spread eagle Took a bitch to the club and let her party on the table Screaming \"Everybody's famous\" Like clockwork, I blow it all Then get some more Get you somebody that can do both Black Beatles got the babes belly rolling She think she love me, I think she trolling That girl is a real crowd pleaser Small world, all her friends know of me Young bull living like an old geezer Quick release the cash, watch it fall slowly Frat girls still trying to get in Haters mad for whatever reason Smoke in the air, binge drinking They lose it when the DJ drops the needle Came in with two girls look like strippers and they real cloth A broke hoe can only point me to a rich hoe A yellow bitch with green hair, a real weirdo Black man, yellow Lamb, red light, go They say that who outperform, just came in through the side door It's so much money on the floor, we buying school clothes Why you bring a money machine to the club for? An eight ball of lean, pound of weed and a kilo Euro step, pass a hater like I'm Rondo I upgraded your baby mama to a condo Like Chapo, serving yeyo to the gringos Black Beatles club closed when I say so That girl is a real crowd pleaser Small world, all her friends know of me Young bull living like an old geezer Quick release the cash, watch it fall slowly Frat girls still trying to get in Haters mad for whatever reason Smoke in the air, binge drinking They lose it when the DJ drops the needle She's a good teaser And we blowing reefer Your body like a work of art, baby Don't fuck with me, I break your heart, baby D&G on me, I got a lot of flavor 1500 on my feet, I'm trying to kill these haters I had haters when I was broke, I'm rich, I still got haters I had hoes when I was broke, I'm rich, I'm still a player I wear leather Gucci jackets like it's still the '80s I've been blowing OG Kush, I feel lucidated I can't worry 'bout a broke nigga or a hater Black Beatle, bitch, me and Paul McCartney related That girl is a real crowd pleaser Small world, all her friends know of me Young bull living like an old geezer Quick release the cash, watch it fall slowly Frat girls still trying to get in Haters mad for whatever reason Smoke in the air, binge drinking They lose it when the DJ drops the needle Mike WiLL Made-It"
+  },
+  "metadata": {
+    "youtube_id": "b8m9zhNAgKs",
+    "title_extracted": null,
+    "corpus_id": "b8m9zhNAgKs",
+    "uploader": "Rae Sremmurd",
+    "audio_file": "corpus/01_music_videos_audio/audio/b8m9zhNAgKs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9377224,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.422455,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:17:19Z"
+  },
+  "status": "success",
+  "error": null
+}

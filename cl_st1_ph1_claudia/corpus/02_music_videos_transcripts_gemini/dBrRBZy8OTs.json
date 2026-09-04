@@ -1,0 +1,38 @@
+{
+  "corpus_id": "dBrRBZy8OTs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/dBrRBZy8OTs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/dBrRBZy8OTs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/dBrRBZy8OTs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Shawty snap, T-Pain Yung Joc Yeah, yeah, yeah, hey, hey She snapped Yeah, snap your fingers, do your step You can do it all by yourself Baby girl, what's your name? Let me talk to you, let me buy you a drank I'm T-Pain, you know me Konvict Music, nappy boy, ooh I know the club close at 3 What's the chance of you rollin' with me Back to the crib, show you how I live Let's get drunk, forget what we did I'm a buy you a drank I'm a take you home with me I got money in the bank Shawty, what you think 'bout that? I'll be in the Grey Cadillac We in the club like ooh, ooh, ooh, ooh, ooh We in the club like ooh, ooh, ooh, ooh, ooh Talk to me, I talk back Let's talk money, I talk that Contour's, Oakley shades Shawty got class, O.P.H. Let's get gone, walk it out Now walk it out, think about it, just like that That's what I'm talkin' 'bout We gon' have fun, you gon' see On Patrón, you should get like me I'm a buy you a drank I'm a take you home with me I got money in the bank Shawty, what you think 'bout that? I'll be in the Grey Cadillac We in the club like ooh, ooh, ooh, ooh, ooh We in the club like ooh, ooh, ooh, ooh, ooh Won't you meet me at the bar? Respect big pimpin' Tell me how you feel, mama, tell me what you sippin' A certified dime piece deserve Louis XIII 150 a shot, 3 for you and 3 for me I'm checkin' your body language, I love the conversation And when you lick your lips I get a tingly sensation Now we both by-tipsy, say you in the mood All I need is 'bout an hour, better yet maybe two Let me take you where I live, Ferrari switch gears When I whisper in your ear your legs hit the chandelier Passion fruit and sex all in the atmosphere I'm a let T-Pain sing it, so he can make it clear I'm a buy you a drank, woah I'm a take you home with me I got money in the bank Shawty, what you think 'bout that? I'll be in the Grey Cadillac We in the club like ooh, ooh, ooh, ooh, ooh We in the club like ooh, ooh, ooh, ooh, ooh Let's get gone, walk it out Now walk it out, think about it Oh, snap Now rock, rock, rock, rock You can do it all by yourself Let's get gone, walk it out Now walk it out, think about it Oh, snap Now rock, rock, rock, rock You can do it all by yourself I'm a buy you a drank I'm a take you home with me I got money in the bank Shawty, what you think 'bout that? I'll be in the Grey Cadillac We in the club like ooh, ooh, ooh, ooh, ooh We in the club like ooh, ooh, ooh, ooh, ooh"
+  },
+  "metadata": {
+    "youtube_id": "dBrRBZy8OTs",
+    "title_extracted": null,
+    "corpus_id": "dBrRBZy8OTs",
+    "uploader": "T Pain",
+    "audio_file": "corpus/01_music_videos_audio/audio/dBrRBZy8OTs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7371764,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.286101,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:43:19Z"
+  },
+  "status": "success",
+  "error": null
+}

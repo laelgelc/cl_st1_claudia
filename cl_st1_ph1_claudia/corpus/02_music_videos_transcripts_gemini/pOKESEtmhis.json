@@ -1,0 +1,38 @@
+{
+  "corpus_id": "pOKESEtmhis",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/pOKESEtmhis.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/pOKESEtmhis.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/pOKESEtmhis.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Just before our love got lost, you said \"I am as constant as a northern star,\" and I said \"Constant in the darkness? Where's that at? If you want me, I'll be in the bar On the back of a cartoon coaster In the blue TV screen light I drew a map of Canada Oh Canada With your face sketched on it twice\" Oh, you're in my blood like holy wine You taste so bitter and so sweet Oh, I could drink a case of you, darling, and I would Still be on my feet I would still be on my feet Oh, I'm a lonely painter I live in a box of paint I'm frightened by the devil And I'm drawn to those ones that ain't afraid I remember that time that you told me You said \"Love is touching souls\" Surely you touched mine, 'cause Part of you pours out of me In these lines from time to time Oh, you're in my blood like holy wine You're so bitter and you're so sweet Oh, I could drink a case of you, darling, and I would Still be on my feet Oh, I would still be on my feet I met a woman She had a mouth like yours, she knew your life She knew your devils and your deeds, and she said \"Go to him, stay with him if you can But be prepared to bleed\" Oh, but you're in my blood like holy wine You're so bitter, baby, bitter, but you're sweet Oh, I could drink a case of you, darling And still be on my feet I would still be on my feet"
+  },
+  "metadata": {
+    "youtube_id": "pOKESEtmhis",
+    "title_extracted": null,
+    "corpus_id": "pOKESEtmhis",
+    "uploader": "tee cee",
+    "audio_file": "corpus/01_music_videos_audio/audio/pOKESEtmhis.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8897222,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 27.17041,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:30:06Z"
+  },
+  "status": "success",
+  "error": null
+}

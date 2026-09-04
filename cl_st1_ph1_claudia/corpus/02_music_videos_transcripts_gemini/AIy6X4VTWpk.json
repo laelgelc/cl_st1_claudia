@@ -1,0 +1,38 @@
+{
+  "corpus_id": "AIy6X4VTWpk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/AIy6X4VTWpk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/AIy6X4VTWpk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/AIy6X4VTWpk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Your love is lifting me higher Than I've ever been lifted before So keep it up, quench my desire And I'll be at your side for evermore You know your love (your love keeps lifting me) Keep on lifting (love keeps lifting me) Higher (lifting me) Higher and higher (higher) I said your love (your love keeps lifting me) Keep on (love keeps lifting me) Lifting me (lifting me) Higher and higher (higher) Now once I was downhearted Disappointment was my closest friend But then you came and he soon departed And you know he never showed his face again That's why your love (your love keeps lifting me) Keep on lifting me (love keeps lifting me) Higher (lifting me) Higher and higher (higher) I said your love (your love keeps lifting me) Keep on (love keeps lifting me) Lifting me (lifting me) Higher and higher (higher) Alright I'm so glad I finally found you Yes, that one in a million girl And now with my loving arms around you, honey I can stand up and face the world Let me tell you your love (your love keeps lifting me) Keep on lifting me (love keeps lifting me) Higher (lifting me) Higher and higher (higher) I said your love (your love keeps lifting me) Keep on (love keeps lifting me) Lifting me (lifting me) Higher and higher (higher) Listen, sock it to me, lift me on up, woman Keep my love going on higher and higher I said keep on lifting Lifting up my love Keep on lifting higher and higher"
+  },
+  "metadata": {
+    "youtube_id": "AIy6X4VTWpk",
+    "title_extracted": null,
+    "corpus_id": "AIy6X4VTWpk",
+    "uploader": "Joshua Ogle",
+    "audio_file": "corpus/01_music_videos_audio/audio/AIy6X4VTWpk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5672434,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.683898,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:02:02Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "8eGGSZUfEGA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8eGGSZUfEGA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/8eGGSZUfEGA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/8eGGSZUfEGA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "What you gonna do when you get out of jail? I'm gonna have some fun. What do you consider fun? Fun, natural fun. In heaven with my boyfriend, my boyfriend There's no beginning and there is no end Time is present and time is casual He's a sweet boy, when he's walking, rolling and rocking It's funny, but I know time's up Feels like I'm dreaming, but I'm not sleeping When I'm in heaven with the maker of my partition Answers questions, such as who is calling? Answers questions to a new dimension No one can say 1, 2, 3, 4, 5, smoking up in the sun Waiting and thinking to get more Red eyes expanding with slide and roundly Oopsie mama say, oopsie mama say, oopsie mama say, oopsie mama! Oh, fall real in with unpretentious passion When he holds me in his warmth We'll be singing, we'll be okay Stepping in and out of a curtain's flow What is to think when your feet just go? What is to think when your feet just go? What is to think when your feet just go? James Brown! James Brown! James Brown! James Brown! Can you see, please remind me? I'm her boyfriend Well, he's the genius of love He's got the rhythm, that beat Well, he's the genius of love He's so deep"
+  },
+  "metadata": {
+    "youtube_id": "8eGGSZUfEGA",
+    "title_extracted": null,
+    "corpus_id": "8eGGSZUfEGA",
+    "uploader": "RETROVISOR",
+    "audio_file": "corpus/01_music_videos_audio/audio/8eGGSZUfEGA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10713952,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.236762,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:38:32Z"
+  },
+  "status": "success",
+  "error": null
+}

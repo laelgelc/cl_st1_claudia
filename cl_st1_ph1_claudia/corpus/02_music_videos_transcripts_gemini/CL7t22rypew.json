@@ -1,0 +1,38 @@
+{
+  "corpus_id": "CL7t22rypew",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CL7t22rypew.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/CL7t22rypew.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/CL7t22rypew.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Don't know what it is that makes me love you so I only know I never want to let you go 'Cause you started something, can't you see That ever since we met you've had a hold on me It happens to be true I only want to be with you It doesn't matter where you go or what you do I want to spend each moment of the day with you Oh, look what has happened with just one kiss I never knew that I could be in love like this It's crazy but it's true I only want to be with you You stopped and smiled at me Asked if I cared to dance I fell into your open arms And I didn't stand a chance Now hear me, honey, I just want to be beside you everywhere As long as we're together, honey, I don't care 'Cause you started something, can't you see That ever since we met you've had a hold on me No matter what you do I only want to be with you Oh, you stopped and smiled at me Asked if I cared to dance I fell into your open arms And I didn't stand a chance Now hear me, honey, I just want to be beside you everywhere As long as we're together, honey, I don't care 'Cause you started something, can't you see That ever since we met you've had a hold on me No matter what you do I only want to be with you I said no matter, no matter what you do I only want to be with you"
+  },
+  "metadata": {
+    "youtube_id": "CL7t22rypew",
+    "title_extracted": null,
+    "corpus_id": "CL7t22rypew",
+    "uploader": "themotownboy1",
+    "audio_file": "corpus/01_music_videos_audio/audio/CL7t22rypew.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5151564,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.809117,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:55:53Z"
+  },
+  "status": "success",
+  "error": null
+}

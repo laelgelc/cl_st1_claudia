@@ -1,0 +1,38 @@
+{
+  "corpus_id": "4fndeDfaWCg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4fndeDfaWCg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/4fndeDfaWCg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/4fndeDfaWCg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Yeah You are my fire The one desire Believe when I say I want it that way But we are two worlds apart Can't reach to your heart When you say That I want it that way Tell me why Ain't nothing but a heartache Tell me why Ain't nothing but a mistake Tell me why I never wanna hear you say I want it that way Am I your fire? Your one desire? Yes, I know it's too late But I want it that way Tell me why Ain't nothing but a heartache Tell me why Ain't nothing but a mistake Tell me why I never wanna hear you say I want it that way Now I can see that we're falling apart From the way that it used to be, yeah No matter the distance, I want you to know That deep down inside of me You are my fire The one desire You are, you are, you are, you are Don't wanna hear you say Ain't nothing but a heartache Ain't nothing but a mistake Don't wanna hear you say I never wanna hear you say, oh yeah I want it that way Tell me why Ain't nothing but a heartache Tell me why Ain't nothing but a mistake Tell me why I never wanna hear you say Don't wanna hear you say I want it that way Ain't nothing but a heartache Ain't nothing but a mistake Tell me why I never wanna hear you say Don't wanna hear you say I want it that way 'Cause I want it that way"
+  },
+  "metadata": {
+    "youtube_id": "4fndeDfaWCg",
+    "title_extracted": null,
+    "corpus_id": "4fndeDfaWCg",
+    "uploader": "Backstreet Boys",
+    "audio_file": "corpus/01_music_videos_audio/audio/4fndeDfaWCg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7018078,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.431476,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:25:52Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ZGT0P0XJRFM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ZGT0P0XJRFM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ZGT0P0XJRFM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ZGT0P0XJRFM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "It's getting to the point where I'm no fun anymore\nI am sorry\nSometimes it hurts so badly I must cry out loud\nI am lonely\nI am yours, you are mine, you are what you are\nYou make it hard\nRemember what we've said and done and felt about each other\nHave mercy\nDon't let the past remind us of what we are not now\nI am not dreaming\nI am yours, you are mine, you are what you are\nYou make it hard\n\nTearing yourself away from me, now you are free\nAnd I am crying\nThis does not mean I don't love you, I do, that's forever\nYes, and for always\nI am yours, you are mine, you are what you are\nYou make it hard\n\nSomething inside is telling me that I've got your secret\nAre you still listening?\nFear is the lock and laughter the key to your heart\nAnd I love you\nI am yours, you are mine, you are what you are\nYou make it hard\nAnd you make it hard\nAnd you make it hard\nAnd you make it hard\n\nFriday evening\nSunday in the afternoon\nWhat have you got to lose?\nTuesday morning\nPlease be gone, I'm tired of you\nWhat have you got to lose?\nCan I tell it like it is?\nListen to me, baby\nIt's my heart that's a-suffering, it's a-dying\nAnd that's what I have to lose\nI've got an answer\nI'm going to fly away\nWhat have I got to lose?\nWill you come see me\nThursday's and Saturday's?\nWhat have you got to lose?\n\nChestnut brown canary\nRuby-throated sparrow\nSing the song, don't be long\nThrill me to the marrow\n\nVoices of the angels\nRing around the moonlight\nAsking me, \"Is she so free?\nHow can you catch the sparrow?\"\n\nLacy lilting lyric\nLosing all my laughter\nChange my life, make it right\nBe my lady\n\nDoo-doo-doo-doo-doo, doo-doo-doo-doo-doo\nDoo-doo-doo-doo-doo, doo-doo-doo-doo-doo\nDoo-doo-doo-doo-doo, doo-doo-doo-doo-doo\nDoo-doo-doo-doo-doo, doo-doo-doo-doo-doo\nDoo-doo-doo-doo-doo, doo-doo-doo-doo-doo\nDoo-doo-doo-doo-doo, doo-doo-doo-doo-doo"
+  },
+  "metadata": {
+    "youtube_id": "ZGT0P0XJRFM",
+    "title_extracted": null,
+    "corpus_id": "ZGT0P0XJRFM",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/ZGT0P0XJRFM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 14212176,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 37.281904,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:14:25Z"
+  },
+  "status": "success",
+  "error": null
+}

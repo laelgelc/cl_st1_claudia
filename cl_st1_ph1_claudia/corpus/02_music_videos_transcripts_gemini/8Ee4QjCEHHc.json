@@ -1,0 +1,38 @@
+{
+  "corpus_id": "8Ee4QjCEHHc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8Ee4QjCEHHc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/8Ee4QjCEHHc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/8Ee4QjCEHHc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I might\nEmpty my bank account\nA lightskin boy with a pipe\nA lightskin boy with a pipe\nI might\nI might\nEmpty my bank account\nA lightskin boy with a pipe\nA lightskin boy with a pipe\nI might\n\nDo you slide on all your nights like this?\nDo you try on all your nights like this?\n(I might)\nPut some spotlight on the slide\nWhatever comes, comes through clear\nDo you slide on all your nights like this?\nDo you try on all your nights like this?\n(I might)\nPut some spotlight on the slide\nAnd whatever comes, comes through clear\n\nAll this jewelry ain't no use when it's this dark\nIt's my favorite part, we see the lights, they got so far\nIt went too fast, we couldn't reach it with the arm\nWrist on the wrist, I length the chain (Oh yeah)\nLength was still a link apart\nLike we could die young\nLike we could dye blonde\nWe could see in 20/20\nTwice, we could see until the end\n\nPut that spotlight on her face\n(Spotlight)\nPut that spotlight on her face\n(Oh yeah)\nWe gon' pipe up and turn up (Pipe up)\nWe gon' light up and burn up (Burn up)\nMama too hot like a (Like what?)\nMama too hot like a furnace (Furnace)\nI got a hundred G's, I'm a go y'all (G's)\nMy diamonds gon' shine when the lights dark (Shine)\nYou and I take a ride down the boulevard (Yeah)\nAnd your friends really wanna break us apart\nGood Lord\n(Oh shit)\nGood gracious\nStaring at my diamond while I'm hopping out of spaceship\nFeature information, take vacation to Malaysia (Info)\nYou my baby, the paparazzi flashing crazy\nShe swallow the bottle while I sit back and smoke Gelato\nWalk in my mansion, 20,000 painting, Picasso\nNigga be dipping, dabbing with niggas like a Nacho\nTook off her panty, diamond dancing like Ricardo\nShe having it, work the color, working on a bachelor\nI know you got a pass, I got a pass, it's in the back of us\nAverage, I'm a make a million on the average\nI'm riding with no brain, bitch, I'm out of average\n\nDo you slide on all your nights like this?\nDo you try on all your nights like this?\n(I might)\nPut some spotlight on the slide, oh yeah\nWhatever comes, comes through clear\nDo you slide on all your nights like this? (Yeah)\nDo you try on all your nights like this? (Oh-oh)\nPut some spotlight on the slide\nWhatever comes, comes through clear\n\nI might\nEmpty my bank account\n(Oh-oh)\nA lightskin boy with a pipe\n(Oh yeah, yeah)\nA lightskin boy with a pipe\n(Come on, yeah, yeah, yeah)\nI might\n(Oh, yeah)\nI might\nEmpty my bank account\n(Slide, yeah)\n(Slide, yeah)\nA lightskin boy with a pipe\n(Do you slide?)\nA lightskin boy with a pipe\nI might"
+  },
+  "metadata": {
+    "youtube_id": "8Ee4QjCEHHc",
+    "title_extracted": null,
+    "corpus_id": "8Ee4QjCEHHc",
+    "uploader": "Calvin Harris",
+    "audio_file": "corpus/01_music_videos_audio/audio/8Ee4QjCEHHc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7409658,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.198191,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:47:59Z"
+  },
+  "status": "success",
+  "error": null
+}

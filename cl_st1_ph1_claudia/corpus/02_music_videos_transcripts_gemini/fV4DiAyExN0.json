@@ -1,0 +1,38 @@
+{
+  "corpus_id": "fV4DiAyExN0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/fV4DiAyExN0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/fV4DiAyExN0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/fV4DiAyExN0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I'm not a perfect person There's many things I wish I didn't do But I continue learning I never meant to do those things to you And so I have to say before I go That I just want you to know I've found a reason for me To change who I used to be A reason to start over new And the reason is you I'm sorry that I hurt you It's something I must live with every day And all the pain I put you through I wish that I could take it all away And be the one who catches all your tears That's why I need you to hear I've found a reason for me To change who I used to be A reason to start over new And the reason is you And the reason is you And the reason is you And the reason is you I'm not a perfect person I never meant to do those things to you And so I have to say before I go That I just want you to know I've found a reason for me To change who I used to be A reason to start over new And the reason is you I've found a reason to show A side of me you didn't know A reason for all that I do And the reason is you"
+  },
+  "metadata": {
+    "youtube_id": "fV4DiAyExN0",
+    "title_extracted": null,
+    "corpus_id": "fV4DiAyExN0",
+    "uploader": "Hoobastank",
+    "audio_file": "corpus/01_music_videos_audio/audio/fV4DiAyExN0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8018208,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.315697,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:57:20Z"
+  },
+  "status": "success",
+  "error": null
+}

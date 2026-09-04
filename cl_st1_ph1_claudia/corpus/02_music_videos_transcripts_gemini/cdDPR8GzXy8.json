@@ -1,0 +1,38 @@
+{
+  "corpus_id": "cdDPR8GzXy8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/cdDPR8GzXy8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/cdDPR8GzXy8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/cdDPR8GzXy8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Baby, I'm amazed at the way you love me all the time And maybe I'm afraid of the way I love you Baby, I'm amazed at the way you pulled me out of time You hung me on a line Maybe I'm amazed at the way I really need you Oh, maybe I'm a man, and maybe I'm a lonely man who's in the middle of something That he doesn't really understand Oh, maybe I'm a man, and maybe you're the only woman who could ever help me Baby, won't you help me understand? Oh, maybe I'm a man, and maybe I'm a lonely man who's in the middle of something That he doesn't really understand Oh, maybe I'm a man, and maybe you're the only woman who could ever help me Baby, won't you help me understand? Baby, I'm amazed at the way you're with me all the time And maybe I'm afraid of the way I leave you Baby, I'm amazed at the way you help me sing my song Right me when I'm wrong Maybe I'm amazed at the way I really need you Oh, oh Yeah, yeah, yeah"
+  },
+  "metadata": {
+    "youtube_id": "cdDPR8GzXy8",
+    "title_extracted": null,
+    "corpus_id": "cdDPR8GzXy8",
+    "uploader": "PAUL McCARTNEY",
+    "audio_file": "corpus/01_music_videos_audio/audio/cdDPR8GzXy8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7454242,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.356545,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:41:33Z"
+  },
+  "status": "success",
+  "error": null
+}

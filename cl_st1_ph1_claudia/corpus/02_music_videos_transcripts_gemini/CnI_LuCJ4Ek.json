@@ -1,0 +1,38 @@
+{
+  "corpus_id": "CnI_LuCJ4Ek",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CnI_LuCJ4Ek.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/CnI_LuCJ4Ek.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/CnI_LuCJ4Ek.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Well, I got a woman Way over town That's good to me Oh yeah Said I got a woman Way over town Good to me Oh yeah She give me money When I'm in need Yeah, she's a kind of Friend indeed I got a woman Way over town That's good to me Oh yeah She saves her loving Early in the morning Just for me Oh yeah She saves her loving Early in the morning Just for me Oh yeah She saves her loving Just for me Oh, she love me so tenderly I got a woman Way over town That's good to me Oh yeah She's there to love me Both day and night Never grumbles or fussing Always treats me right Never running in the streets And leaving me alone She knows a woman's place Is right there now in her home I got a woman Way over town That's good to me Oh yeah Say I got a woman Way over town That's good to me Oh yeah Oh, she's my baby Don't you understand? Yeah, I'm her loving man I got a woman Way over town That's good to me Oh yeah Don't you know she's all right Don't you know she's all right She's all right, she's all right Oh yeah Oh yeah Oh yeah"
+  },
+  "metadata": {
+    "youtube_id": "CnI_LuCJ4Ek",
+    "title_extracted": null,
+    "corpus_id": "CnI_LuCJ4Ek",
+    "uploader": "HeyLookAtThizGuy",
+    "audio_file": "corpus/01_music_videos_audio/audio/CnI_LuCJ4Ek.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5612248,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.514349,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:02:47Z"
+  },
+  "status": "success",
+  "error": null
+}

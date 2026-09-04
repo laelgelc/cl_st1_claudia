@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ty1dwBCR6D0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ty1dwBCR6D0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ty1dwBCR6D0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ty1dwBCR6D0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Thank you! Where it began I can't begin to knowin' But then I know it's growin' strong Was in the spring And spring became the summer Who'd have believed you'd come along Hands touching hands Reaching out Touching me Touching you Sweet Caroline Good times never seemed so good I've been inclined To believe they never would But now I Look at the night And it don't seem so lonely We fill it up with only two And when I hurt Hurting runs off my shoulders How can I hurt when I'm holding you? Warm Touching warm Reaching out Touching me Touching you Sweet Caroline Good times never seemed so good I've been inclined To believe they never would Oh no no All right, we're coming up to the last chorus now. I'm gonna need to hear everybody singing, folks. Come on, take a deep breath. We'll do it together! Sweet Caroline Good times never seemed so good I've been inclined To believe they never would Come on, we're taking it up a half step! Yeah! Sweet Caroline Good times never seemed so good I've been inclined To believe they never would Sweet Caroline Thank you, good night! Come on, Ronnie! Hands Touching hands Reaching out Touching me Touching you Sweet Caroline Good times never seemed so good I've been inclined To believe they never would Last chorus! Sweet Caroline Good times never seemed so good I've been inclined To believe they never would Sweet Caroline Oh yes! Oh yes!"
+  },
+  "metadata": {
+    "youtube_id": "ty1dwBCR6D0",
+    "title_extracted": null,
+    "corpus_id": "ty1dwBCR6D0",
+    "uploader": "Neil Diamond",
+    "audio_file": "corpus/01_music_videos_audio/audio/ty1dwBCR6D0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 12863562,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.830954,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:54:08Z"
+  },
+  "status": "success",
+  "error": null
+}

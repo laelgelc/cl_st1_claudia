@@ -1,0 +1,38 @@
+{
+  "corpus_id": "N_OG8CyKXO0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/N_OG8CyKXO0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/N_OG8CyKXO0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/N_OG8CyKXO0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "0:08 Jingle bell, jingle bell, jingle bell rock 0:13 Jingle bells swing and jingle bells ring 0:17 Snowin' and blowin' up bushels of fun 0:21 Now the jingle hop has begun 0:25 Jingle bell, jingle bell, jingle bell rock 0:29 Jingle bells chime in jingle bell time 0:33 Dancin' and prancin' in Jingle Bell Square 0:37 In the frosty air 0:40 What a bright time, it's the right time 0:44 To rock the night away 0:48 Jingle bell time is a swell time 0:52 To go glidin' in a one-horse sleigh 0:56 Giddy-up jingle horse, pick up your feet 1:00 Jingle around the clock 1:04 Mix and a-mingle in the jinglin' feet 1:08 That's the jingle bell 1:12 Jingle bell, jingle bell, jingle bell rock 1:16 Jingle bells chime in jingle bell time 1:20 Dancin' and prancin' in Jingle Bell Square 1:24 In the frosty air 1:27 What a bright time, it's the right time 1:32 To rock the night away 1:35 Jingle bell time is a swell time 1:40 To go glidin' in a one-horse sleigh 1:44 Giddy-up jingle horse, pick up your feet 1:48 Jingle around the clock 1:52 Mix and a-mingle in the jinglin' feet 1:56 That's the jingle bell, that's the jingle bell, that's the jingle bell rock"
+  },
+  "metadata": {
+    "youtube_id": "N_OG8CyKXO0",
+    "title_extracted": null,
+    "corpus_id": "N_OG8CyKXO0",
+    "uploader": "Elwood Yodogawa",
+    "audio_file": "corpus/01_music_videos_audio/audio/N_OG8CyKXO0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4149206,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.797581,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:48:44Z"
+  },
+  "status": "success",
+  "error": null
+}

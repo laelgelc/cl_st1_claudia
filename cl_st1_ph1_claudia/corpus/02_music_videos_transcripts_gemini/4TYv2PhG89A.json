@@ -1,0 +1,38 @@
+{
+  "corpus_id": "4TYv2PhG89A",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4TYv2PhG89A.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/4TYv2PhG89A.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/4TYv2PhG89A.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Diamond life lover boy He moves in space with minimum waste, maximum joy City lights, business nights When you require street car desire for higher heights No place for beginners or sensitive hearts Sentiment is left to chance No place to be ending, but somewhere to start No need to ask He's a smooth operator Smooth operator Smooth operator Smooth operator Coast to coast, LA to Chicago Western mail Across the North and South to Key Largo Love for sale Face to face, Mr. Green Ocean drive and double cross Getting the change License to love, insurance to hold Melts all your memory, changes to gold His eyes are like angels, his heart is cold No need to ask He's a smooth operator Smooth operator Smooth operator Smooth operator Coast to coast, LA to Chicago Western mail Across the North and South to Key Largo Love for sale Smooth operator Smooth operator Smooth operator Smooth operator Smooth operator Smooth operator Smooth operator Smooth operator Smooth operator Smooth operator"
+  },
+  "metadata": {
+    "youtube_id": "4TYv2PhG89A",
+    "title_extracted": null,
+    "corpus_id": "4TYv2PhG89A",
+    "uploader": "Sade",
+    "audio_file": "corpus/01_music_videos_audio/audio/4TYv2PhG89A.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8255236,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.690629,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:04:06Z"
+  },
+  "status": "success",
+  "error": null
+}

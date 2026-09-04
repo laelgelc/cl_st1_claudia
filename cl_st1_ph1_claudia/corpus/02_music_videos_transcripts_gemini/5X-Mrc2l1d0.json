@@ -1,0 +1,38 @@
+{
+  "corpus_id": "5X-Mrc2l1d0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/5X-Mrc2l1d0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/5X-Mrc2l1d0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/5X-Mrc2l1d0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Girl, close your eyes Let that rhythm get into you Don't try to fight it Ain't nothing that you can do Relax your mind Lay back and groove with mine You gotta feel that heat And we can ride the boogie Share that beat of love I wanna rock with you (all night) Dance you into day (sunlight) I wanna rock with you (all night) We gonna rock the night away Out on the floor There ain't nobody there but us Girl, when you dance There's a magic that must be love Just take it slow 'Cause we got so far to go When you feel that heat And we gonna ride the boogie Share that beat of love I wanna rock with you (all night) Dance you into day (sunlight) I wanna rock with you (all night) We gonna rock the night away And when the groove is dead and gone (Yeah) You know that love survives So we can rock forever I wanna rock with you, I wanna groove with you I wanna rock with you (all night) Dance you into day (sunlight) Rock with you, rock with you (all night) Dance the night away I wanna rock with you (all night) Rock with you into day (sunlight) I wanna rock with you (all night) Rock the night away Feel the heat, feel the heat (all night) Rock you into day (sunlight) Rock..."
+  },
+  "metadata": {
+    "youtube_id": "5X-Mrc2l1d0",
+    "title_extracted": null,
+    "corpus_id": "5X-Mrc2l1d0",
+    "uploader": "Michael Jackson",
+    "audio_file": "corpus/01_music_videos_audio/audio/5X-Mrc2l1d0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6446680,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.407182,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:18:37Z"
+  },
+  "status": "success",
+  "error": null
+}

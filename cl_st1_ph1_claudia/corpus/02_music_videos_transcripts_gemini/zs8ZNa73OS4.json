@@ -1,0 +1,38 @@
+{
+  "corpus_id": "zs8ZNa73OS4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/zs8ZNa73OS4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/zs8ZNa73OS4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/zs8ZNa73OS4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Hot town, summer in the city\nBack of my neck getting dirty and gritty\nBeen down, isn't it a pity\nDoesn't seem to be a shadow in the city\nAll around, people looking half dead\nWalking on the sidewalk, hotter than a match head\n\nBut at night it's a different world\nGo out and find a girl\nCome on, come on and dance all night\nDespite the heat it'll be alright\nAnd babe, don't you know it's a pity\nThat the days can't be like the nights\nIn the summer, in the city\nIn the summer, in the city\n\nCool town, night in the city\nDressed so fine and looking so pretty\nCool cat, looking for a kitty\nGonna look in every corner of the city\nTill I'm wheezing like a bus stop\nRunning up stairs, gonna meet you on the rooftop\n\nBut at night it's a different world\nGo out and find a girl\nCome on, come on and dance all night\nDespite the heat it'll be alright\nAnd babe, don't you know it's a pity\nThat the days can't be like the nights\nIn the summer, in the city\nIn the summer, in the city\n\nHot town, summer in the city\nBack of my neck getting dirty and gritty\nBeen down, isn't it a pity\nDoesn't seem to be a shadow in the city\nAll around, people looking half dead\nWalking on the sidewalk, hotter than a match head\n\nBut at night it's a different world\nGo out and find a girl\nCome on, come on and dance all night\nDespite the heat it'll be alright\nAnd babe, don't you know it's a pity\nThat the days can't be like the nights\nIn the summer, in the city\nIn the summer, in the city"
+  },
+  "metadata": {
+    "youtube_id": "zs8ZNa73OS4",
+    "title_extracted": null,
+    "corpus_id": "zs8ZNa73OS4",
+    "uploader": "moondoggy",
+    "audio_file": "corpus/01_music_videos_audio/audio/zs8ZNa73OS4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5059428,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.853999,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:31:20Z"
+  },
+  "status": "success",
+  "error": null
+}

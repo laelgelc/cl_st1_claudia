@@ -1,0 +1,38 @@
+{
+  "corpus_id": "C3rg4psdHxw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/C3rg4psdHxw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/C3rg4psdHxw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/C3rg4psdHxw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Come on, Eileen! Come on, Eileen! Poor old John Ray Sounded sad on the radio, moved a million hearts in mono Our mothers cried Sang along, who could blame them? You're grown So grown Now I must say more than ever Too rye aye Too rye rye, too rye rye And we'll sing this sad goodbye Come on, Eileen, well I swear Oh, at this moment You mean everything You in that dress, oh, my thoughts, well, they're dirty Come on, Eileen Picture Come on, Eileen! These people here Have been beaten down, eyes sunk in smoke-filled space, try to face what the future is But not us Not us, not us We are far too young and clever Too rye aye Too rye rye, too rye rye Singing hummings you forever Ah Come on, Eileen, well I swear Oh, at this moment You mean everything With you in that dress Oh, my thoughts I confess Yes, they're dirty Come on, Eileen Oh, put some address, Eileen Ah, come on Eileen Come on, Eileen, too rye aye Come on, Eileen, too rye aye Oh, I say, too rye aye Oh Come on, Eileen, too rye aye Come on, Eileen, too rye aye Oh, I say, too rye aye Oh I say, come on, Eileen, well, you know how I'm feeling, know I'm pleading I said I'm pleading, pleading, pleading I'm saying I'm saying Too rye aye, too rye aye, too rye aye Too rye rye, too rye rye Come on, Eileen, this is clear, how I feel Well, yes, yes, yes, yes I suppose it must be I say, more than ever Now that we've changed, I say Too rye aye, too rye aye, too rye aye Too rye rye, too rye rye, too rye aye Come on, Eileen, yes, I swear Oh, as always, you mean everything You in that dress Oh, I confess Come on, Eileen Oh, come on, Eileen Oh, come on, Eileen, come on, Eileen Come on, Eileen! Come on, Eileen!"
+  },
+  "metadata": {
+    "youtube_id": "C3rg4psdHxw",
+    "title_extracted": null,
+    "corpus_id": "C3rg4psdHxw",
+    "uploader": "Dexys and Dexys Midnight Runners Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/C3rg4psdHxw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9760632,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.044004,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:39:08Z"
+  },
+  "status": "success",
+  "error": null
+}

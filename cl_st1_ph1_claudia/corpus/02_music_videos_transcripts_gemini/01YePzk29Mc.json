@@ -1,0 +1,38 @@
+{
+  "corpus_id": "01YePzk29Mc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/01YePzk29Mc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/01YePzk29Mc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/01YePzk29Mc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "He's my guy! He's my guy, walking down the street. Walk, heavy walk, with a dancing beat. Big wavy hair, a little too long. All day long, singing his song. And when I see him in the street, my heart starts to leap and skip a beat. Gonna walk right up to him, give him a great big kiss! Tell him that I love him, tell him that I care, tell him that I'll always be there. What color are his eyes? I don't know, he's always wearing shades. Is he tall? Well, I gotta look up. Yeah, I hear he's bad. Mm, he's good-bad, but he's not evil. Tell me more! Tell me more! Big black jacket, to match his eyes. Dirty fingernails, oh boy, what a surprise! Tight denim pants, high-button shoes. He's a real smooth kid, like he got the blues. And when I see him in the street, my heart starts to leap and skip a beat. Gonna walk right up to him, give him a great big kiss! Tell him that I love him, tell him that I care, tell him that I'll always be there. You're getting late for him! Jimmy O'Neill has boy appeal, he looks so cute in his mohair suit. He smiles so sweet and he looks so neat. His hair's so long and he looks so strong. His voice is so deep. He is such a creep! Ah, get out of here!"
+  },
+  "metadata": {
+    "youtube_id": "01YePzk29Mc",
+    "title_extracted": null,
+    "corpus_id": "01YePzk29Mc",
+    "uploader": "ferstday",
+    "audio_file": "corpus/01_music_videos_audio/audio/01YePzk29Mc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3939668,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.350846,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:12:22Z"
+  },
+  "status": "success",
+  "error": null
+}

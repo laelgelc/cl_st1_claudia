@@ -1,0 +1,38 @@
+{
+  "corpus_id": "16u6w0cjjrU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/16u6w0cjjrU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/16u6w0cjjrU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/16u6w0cjjrU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Mustang Sally Guess you better slow your Mustang down Oh, Lord What I said, now Mustang Sally, now, baby Oh, Lord Guess you better slow your Mustang down Oh, yeah You've been running all over town, now Oh, guess I have to put your flat feet on the ground What I said, now Listen All you wanna do is ride around, Sally (Ride, Sally, ride) All you wanna do is ride around, Sally (Ride, Sally, ride) All you wanna do is ride around, Sally (Ride, Sally, ride) All you wanna do is ride around, Sally (Ride, Sally, ride) One of these early mornings Gonna be wiping your weeping eyes What I said, now Listen I bought you a brand new Mustang A 1965 Now you come around, signifying, woman You don't wanna let me ride Mustang Sally, now, baby Oh, Lord Guess you better slow that Mustang down Oh, Lord Listen You've been running all over town Oh, I got to put your flat feet on the ground What I said, now Let me say it one more time, y'all All you wanna do is ride around, Sally (Ride, Sally, ride) All you wanna do is ride around, Sally (Ride, Sally, ride)"
+  },
+  "metadata": {
+    "youtube_id": "16u6w0cjjrU",
+    "title_extracted": null,
+    "corpus_id": "16u6w0cjjrU",
+    "uploader": "vjwalleum",
+    "audio_file": "corpus/01_music_videos_audio/audio/16u6w0cjjrU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5939186,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 26.849185,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:17:44Z"
+  },
+  "status": "success",
+  "error": null
+}

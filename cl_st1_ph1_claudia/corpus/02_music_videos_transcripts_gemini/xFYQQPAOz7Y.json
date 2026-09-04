@@ -1,0 +1,38 @@
+{
+  "corpus_id": "xFYQQPAOz7Y",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/xFYQQPAOz7Y.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/xFYQQPAOz7Y.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/xFYQQPAOz7Y.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Look, if you had one shot or one opportunity to seize everything you ever wanted, in one moment, would you capture it, or just let it slip? Yo.  His palms are sweaty, knees weak, arms are heavy. There's vomit on his sweater already, mom's spaghetti. He's nervous, but on the surface he looks calm and ready to drop bombs, but he keeps on forgetting what he wrote down. The whole crowd goes so loud. He opens his mouth, but the words won't come out. He's choking, how? Everybody's choking now. The clock's run out, time's up, over, blaow! Snap back to reality, oh there goes gravity. Oh, there goes Rabbit, he choked. He's so mad, but he won't give up that easy. No, he won't have it, he knows his whole back's to these ropes. It don't matter, he's dope, he knows that, but he's broke. He's so stagnant, he knows, when he goes back to his mobile home, that's when it's back to the lab again, yo. This whole rhapsody, better go capture this moment and hope it don't pass him.  You better lose yourself in the music, the moment, you own it, you better never let it go. You only get one shot, do not miss your chance to blow. This opportunity comes once in a lifetime, you better lose yourself in the music, the moment, you own it, you better never let it go. You only get one shot, do not miss your chance to blow. This opportunity comes once in a lifetime, you better  The soul's escaping through this hole that is gaping. This world is mine for the taking. Make me king, as we move toward a new world order. A normal life is boring, but superstardom's close to post mortem. It only grows harder, homie grows hotter. He blows, it's all over, these hoes is all on him. Coast to coast shows, he's known as the Globetrotter. Lonely roads, God only knows, he's grown farther from home, he's no father. He goes home and barely knows his own daughter. But hold your nose 'cause here goes the cold water. These hoes don't want him no more, he's cold product. They moved on to the next schmoe who flows, he nose-dove and sold nada. So the soap opera is told and unfolds, I suppose it's old partner, but the beat goes on, da-da-dum, da-dum, da-da.  You better lose yourself in the music, the moment, you own it, you better never let it go. You only get one shot, do not miss your chance to blow. This opportunity comes once in a lifetime, you better lose yourself in the music, the moment, you own it, you better never let it go. You only get one shot, do not miss your chance to blow. This opportunity comes once in a lifetime, you better  No more games, I'm a change what you call rage. Tear this motherfuckin' roof off like two dogs caged. I was playin' in the beginning, the mood all changed. I been chewed up and spit out and booed off stage. But I kept rhymin' and stepped right in the next cipher. Best believe somebody's payin' the Pied Piper. All the pain inside amplified by the fact that I can't get by with my nine to five and I can't provide the right type of life for my family, 'cause, man, these goddamn food stamps don't buy diapers. And there's no movie, there's no McMuyver, this is my life and these times are so hard. And it's gettin' even harder, tryna feed and water my seed, plus teeter-totter. Caught up between bein' a father and a prima donna. Baby mama drama, screamin' on her, too much for me to want to stay in one spot. Another day of monotony has gotten me to the point I'm like a snail, I've got to formulate a plot, or end up in jail or shot. Success is my only motherfuckin' option, failure's not. Mama, love you, but this trailer's got to go, I cannot grow old in Salem's Lot. So here I go, it's my shot. Feet, fail me not, 'cause this may be the only opportunity that I got.  You better lose yourself in the music, the moment, you own it, you better never let it go. You only get one shot, do not miss your chance to blow. This opportunity comes once in a lifetime, you better lose yourself in the music, the moment, you own it, you better never let it go. You only get one shot, do not miss your chance to blow. This opportunity comes once in a lifetime, you better  You can do anything you set your mind to, man."
+  },
+  "metadata": {
+    "youtube_id": "xFYQQPAOz7Y",
+    "title_extracted": null,
+    "corpus_id": "xFYQQPAOz7Y",
+    "uploader": "EminemMusic",
+    "audio_file": "corpus/01_music_videos_audio/audio/xFYQQPAOz7Y.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10479894,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.765247,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:45:21Z"
+  },
+  "status": "success",
+  "error": null
+}

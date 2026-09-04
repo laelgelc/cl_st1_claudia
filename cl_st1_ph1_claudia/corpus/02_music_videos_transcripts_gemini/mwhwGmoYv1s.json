@@ -1,0 +1,38 @@
+{
+  "corpus_id": "mwhwGmoYv1s",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/mwhwGmoYv1s.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/mwhwGmoYv1s.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/mwhwGmoYv1s.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Oh, yeah Ooh, ah, yeah What's it gonna be? 'Cause I can't pretend Don't you wanna be more than friends? Hold me tight and don't let go, don't let go Have the right to lose control Don't let go I often tell myself that we could be more than just friends I know you think that we move too soon, it would all end I live in misery when you're not around And I won't be satisfied 'til I take in those bounds There'll be some lovemaking, heartbreaking, soul-shaking Lovemaking, heartbreaking, soul-shaking What's it gonna be? 'Cause I can't pretend Don't you wanna be more than friends? Hold me tight and don't let go, don't let go Have the right to lose control Don't let go I often fantasize the stars above watching They know my heart beats for yours like only lovers do If I could wear your clothes, I'd pretend I was you and lose control There'll be some lovemaking, heartbreaking, soul-shaking Lovemaking, heartbreaking, soul-shaking What's it gonna be? 'Cause I can't pretend Don't you wanna be more than friends? Hold me tight and don't let go, don't let go Have the right to lose control Don't let go Running in and out of my life Has got me so confused You got to make the sacrifice Somebody's got to choose We can make it if we try For the sake of you and I Together we can make it right What's it gonna be? 'Cause I can't keep running in and out of my life, out of my life, out of my life, yeah Don't you wanna be more than friends? Hold me tight and don't let go, don't let go You got the right, you got the right, I said you got the right to lose control, yeah, ooh Don't think of 'cause I can't pretend Don't you wanna be more than friends? Hold me tight and don't let go, don't let go Have the right to lose control You have the right..."
+  },
+  "metadata": {
+    "youtube_id": "mwhwGmoYv1s",
+    "title_extracted": null,
+    "corpus_id": "mwhwGmoYv1s",
+    "uploader": "En Vogue",
+    "audio_file": "corpus/01_music_videos_audio/audio/mwhwGmoYv1s.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8621554,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.762362,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:00:06Z"
+  },
+  "status": "success",
+  "error": null
+}

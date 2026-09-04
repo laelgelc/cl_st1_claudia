@@ -1,0 +1,38 @@
+{
+  "corpus_id": "0CFuCYNx-1g",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/0CFuCYNx-1g.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/0CFuCYNx-1g.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/0CFuCYNx-1g.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Very superstitious\nWritings on the wall\nVery superstitious\nLadders bout to fall\nThirteen-month-old baby\nBroke the looking glass\nSeven years of bad luck\nGood things in your past\n\nWhen you believe in things\nThat you don't understand\nThen you suffer\nSuperstition ain't the way\nYeah\n\nVery superstitious\nWash your face and hands\nRiddles me the problem\nDo all that you can\nKeep me in a dream\nKeep me for the day\nYou don't want to save me\nSad is my song\n\nWhen you believe in things\nThat you don't understand\nThen you suffer\nSuperstition ain't the way\nYeah\n\nVery superstitious\nNothing more to say\nVery superstitious\nThe devil's on his way\nThirteen-month-old baby\nBroke the looking glass\nSeven years of bad luck\nGood things in your past\n\nWhen you believe in things\nThat you don't understand\nThen you suffer\nSuperstition ain't the way\nNo, no, no"
+  },
+  "metadata": {
+    "youtube_id": "0CFuCYNx-1g",
+    "title_extracted": null,
+    "corpus_id": "0CFuCYNx-1g",
+    "uploader": "lozzagermain",
+    "audio_file": "corpus/01_music_videos_audio/audio/0CFuCYNx-1g.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8549480,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.724049,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:27:37Z"
+  },
+  "status": "success",
+  "error": null
+}

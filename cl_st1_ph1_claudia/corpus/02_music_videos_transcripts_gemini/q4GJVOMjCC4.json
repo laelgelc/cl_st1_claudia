@@ -1,0 +1,38 @@
+{
+  "corpus_id": "q4GJVOMjCC4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/q4GJVOMjCC4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/q4GJVOMjCC4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/q4GJVOMjCC4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Love you like a brother Treat you like a friend Respect you like a lover Oh-oh, oh-oh, oh-oh You could bet that, never gotta sweat that You could bet that, never gotta sweat that You could bet that, never gotta sweat that You could bet that, never gotta sweat that If you be the cash, I'll be the rubber band You be the match, I'll be a fuse, boom Painter baby, you could be the muse I'm the reporter baby, you could be the news 'Cause you're the cigarette, and I'm the smoker We raise the bet, 'cause you're the joker, joker You are the chalk, and I could be the blackboard You can be the town, and I can be the road, yeah Even when the sky comes falling Even when the sun don't shine I got faith in you and I So put your pretty little hand in mine Even when we're down to the wire, baby Even when it's do or die We can do it baby, simple and plain This love is a sure thing You could bet that, never gotta sweat that You could bet that, never gotta sweat that You could bet that, never gotta sweat that You could bet that, never gotta sweat that You'll love it I'll be the firepower If I'm the blunt, you'll be the lighter babe Fire it up Writer baby, you could be the quote If I'm the lyric baby, you could be the note Hold that Saint, I'm a sinner, prize, I'm a winner And it's you, what did I do to deserve that? Paper baby, I'll be the pen Say I am the one, 'cause you are a ten Real, not pretend Even when the sky comes falling, yeah Even when the sun don't shine I got faith in you and I So put your pretty little hand in mine Even when we're down to the wire, baby Even when it's do or die We can do it baby, simple and plain This love is a sure thing You could bet that, never gotta sweat that You could bet that, never gotta sweat that You could bet that, never gotta sweat that You could bet that, never gotta sweat that Rock with me, baby Let me hold you in my arms, talk with me, baby Yeah Rock with me, baby Let me hold you in my arms, talk with me, baby Yes, sir Between you and I, it's simple as 5, 4, 3, 2, 1 It's such a sure thing Such a sure thing, always a sure thing Yeah, yeah Even when the sky comes falling, yeah Even when the sun don't shine I got faith in you and I So put your pretty little hand in mine Even when we're down to the wire, baby Even when it's do or die We can do it baby, simple and plain This love is a sure thing You could bet that, never gotta sweat that You could bet that, never gotta sweat that You could bet that, never gotta sweat that You could bet that, never gotta sweat that Love you like a brother Treat you like a friend Respect you like a lover Oh-oh, oh-oh, oh-oh"
+  },
+  "metadata": {
+    "youtube_id": "q4GJVOMjCC4",
+    "title_extracted": null,
+    "corpus_id": "q4GJVOMjCC4",
+    "uploader": "Miguel",
+    "audio_file": "corpus/01_music_videos_audio/audio/q4GJVOMjCC4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6457084,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.908719,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:44:17Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "oGpFcHTxjZs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oGpFcHTxjZs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/oGpFcHTxjZs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/oGpFcHTxjZs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You must understand that the touch of your hand makes my pulse react That it's only the thrill of boy meeting girl, opposites attract It's physical Only logical You must try to ignore that it means more than that Oh, what's love got to do, got to do with it? What's love but a second hand emotion? What's love got to do, got to do with it? Who needs a heart when a heart can be broken? It may seem to you that I'm acting confused when you're close to me If I tend to look dazed, I read it someplace, I've got cause to be There's a name for it There's a phrase that fits But whatever the reason, you do it for me Oh, what's love got to do, got to do with it? What's love but a second hand emotion? What's love got to do, got to do with it? Who needs a heart when a heart can be broken?  I've been taking on a new direction But I have to say I've been thinking about my own protection It scares me to feel this way Oh, what's love got to do, got to do with it? What's love but a second hand emotion? What's love got to do, got to do with it? Who needs a heart when a heart can be broken? What's love got to do, got to do with it? What's love but a sweet old-fashioned notion? What's love got to do, got to do with it? Who needs a heart when a heart can be broken? Ooh, got to do with it What's love but a second hand emotion What's love got to do, got to do with it? Who needs a heart when a heart can be broken? Oh, oh, got to do with it But a second hand emotion"
+  },
+  "metadata": {
+    "youtube_id": "oGpFcHTxjZs",
+    "title_extracted": null,
+    "corpus_id": "oGpFcHTxjZs",
+    "uploader": "Tina Turner",
+    "audio_file": "corpus/01_music_videos_audio/audio/oGpFcHTxjZs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7261052,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.49312,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:42:23Z"
+  },
+  "status": "success",
+  "error": null
+}

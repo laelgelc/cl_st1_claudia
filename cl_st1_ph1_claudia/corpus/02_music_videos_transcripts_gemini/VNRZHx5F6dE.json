@@ -1,0 +1,38 @@
+{
+  "corpus_id": "VNRZHx5F6dE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/VNRZHx5F6dE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/VNRZHx5F6dE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/VNRZHx5F6dE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Born free, as free as the wind blows, as free as the grass grows, born free to follow your heart. Live free, and beauty surrounds you. The world's still astounds you each time you look at a star. Stay free, where no walls divide you. You're free as a roaring tide, so there's no need to hide. Born free, and life is worth living, but only worth living 'cause you are born free, born free, born free. Boy, any idea how many records Born Free sold? Couple of million. Couple of million. That's not the only one you did. Well, we were lucky that year because the picture won, and of course, Born Free was the Academy Award winner, too, so. Let's talk about some of Roger Williams' other hits. Hey, you had a big hit series that year, too. Well, it was Born Free, obviously. Yeah, that brought back some fond, fond memories. Other Roger Williams tunes that were right up there... Well, we start out with Autumn Leaves. That's right. That was way back in 1955. Anybody alive that remembers that? That goes back. Yeah. Yeah. You've got a new album. Yes, I do. It's called Today My Way. And in it, we do Stevie Wonder, we do Wham!, we do Tina Turner, Lionel Richie. You just go down the line. Yeah, great music to listen to. Well, you know, Gary, you have to stay up with the times, that's for sure, or you get left behind. Yeah. Thank you, Roger, for being a part of this tonight. Roger Williams!"
+  },
+  "metadata": {
+    "youtube_id": "VNRZHx5F6dE",
+    "title_extracted": null,
+    "corpus_id": "VNRZHx5F6dE",
+    "uploader": "Roger Williams, Mr. Piano",
+    "audio_file": "corpus/01_music_videos_audio/audio/VNRZHx5F6dE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6781792,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.291644,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:47:28Z"
+  },
+  "status": "success",
+  "error": null
+}

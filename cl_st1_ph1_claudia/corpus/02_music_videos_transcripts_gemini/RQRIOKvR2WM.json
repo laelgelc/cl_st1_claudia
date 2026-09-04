@@ -1,0 +1,38 @@
+{
+  "corpus_id": "RQRIOKvR2WM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/RQRIOKvR2WM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/RQRIOKvR2WM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/RQRIOKvR2WM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Nowhere to run to, baby Nowhere to hide Got nowhere to run to, baby Nowhere to hide It's not love I'm running from It's the heartbreak I know will come 'Cause I know you're no good for me But you've become a part of me Everywhere I go, your face I see Every step I take, you take with me, yeah Nowhere to run to, baby Nowhere to hide Got nowhere to run to, baby Nowhere to hide I know you're no good for me But free of you I'll never be, no Each night as I sleep Into my heart you creep I wake up feeling sorry I met you Hoping soon that I'll forget you When I look in the mirror to comb my hair I see your face just a-smiling there Nowhere to run, nowhere to hide from you, baby Got nowhere to run to, baby Nowhere to hide I know you're no good for me But you've become a part of me How can I fight a love That's deep inside, so deep, so deep inside of me? My love reaches so high, I can't get over it It's so wide, I can't get around it, no Nowhere to run, nowhere to hide from you, baby Just can't get away from you, baby, no matter how I try I know you're no good for me But free of you I'll never be Nowhere to run, baby Nowhere to hide Nowhere to run, baby Nowhere to hide Got nowhere to run Nowhere to hide"
+  },
+  "metadata": {
+    "youtube_id": "RQRIOKvR2WM",
+    "title_extracted": null,
+    "corpus_id": "RQRIOKvR2WM",
+    "uploader": "bigdave706",
+    "audio_file": "corpus/01_music_videos_audio/audio/RQRIOKvR2WM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5777204,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.792261,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:38:00Z"
+  },
+  "status": "success",
+  "error": null
+}

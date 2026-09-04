@@ -1,0 +1,38 @@
+{
+  "corpus_id": "45cYwDMibGo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/45cYwDMibGo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/45cYwDMibGo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/45cYwDMibGo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Here come old flat top, he come grooving up slowly\nHe got ju-ju eyeball, he one holy roller\nHe got hair down to his knee\nGot to be a joker, he just do what he please\n\nHe wear no shoe shine, he got toe jam football\nHe got monkey finger, he shoot Coca-Cola\nHe say \"I know you, you know me\"\nOne thing I can tell you is you got to be free\nCome together, right now, over me\n\nHe bag production, he got walrus gumboot\nHe got Ono sideboards, he one spinal cracker\nHe got feet down below his knee\nHold you in his armchair, you can feel his disease\nCome together, right now, over me\n\nRight!\n\nHe roller coaster, he got early warning\nHe got muddy water, he one mojo filter\nHe say \"One and one and one is three\"\nGot to be good looking 'cause he's so hard to see\nCome together, right now, over me\n\nOh!\n\nCome together, yeah\nCome together, yeah\nCome together, yeah\nCome together, yeah\nCome together, yeah\nCome together, yeah\nCome together, yeah\nCome together, yeah\nCome together, yeah\nCome together, yeah"
+  },
+  "metadata": {
+    "youtube_id": "45cYwDMibGo",
+    "title_extracted": null,
+    "corpus_id": "45cYwDMibGo",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/45cYwDMibGo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8261180,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.878922,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:09:08Z"
+  },
+  "status": "success",
+  "error": null
+}

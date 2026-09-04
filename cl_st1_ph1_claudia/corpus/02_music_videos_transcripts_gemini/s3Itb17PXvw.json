@@ -1,0 +1,38 @@
+{
+  "corpus_id": "s3Itb17PXvw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/s3Itb17PXvw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/s3Itb17PXvw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/s3Itb17PXvw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "What you want, baby, I got it What you need, you know I got it All I'm askin' is for a little respect when you get home (Just a little bit, baby, when you get home, just a little bit, oh yeah, just a little bit) I ain't gonna do you wrong while you're gone Ain't gonna do you wrong 'cause I don't want to All I'm askin' is for a little respect when you get home (Just a little bit, baby, when you get home, just a little bit, oh yeah, just a little bit) I'm about to give you all of my money And all I'm askin' in return, honey Is to give me my profits when you get home (Just a little bit, just a little bit, when you get home, just a little bit, oh yeah, just a little bit, ooh!) Ooh, your kiss is sweeter than honey And guess what? So is my money All I want you to do for me is give it to me when you get home (Yeah, baby, when you get home, just a little bit, just a little bit, yeah) R-E-S-P-E-C-T Find out what it means to me R-E-S-P-E-C-T Take care, TCB Oh (Sock it to me, sock it to me, sock it to me, sock it to me) A little respect (Just a little bit, just a little bit) A little respect (Just a little bit, just a little bit) I get tired, keep on tryin' You're runnin' out of foolin' and I'm not lyin' Respect, find out what it means Respect, I got to have it Respect"
+  },
+  "metadata": {
+    "youtube_id": "s3Itb17PXvw",
+    "title_extracted": null,
+    "corpus_id": "s3Itb17PXvw",
+    "uploader": "Black Music Archive LIVE!",
+    "audio_file": "corpus/01_music_videos_audio/audio/s3Itb17PXvw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4618062,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.262377,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:20:18Z"
+  },
+  "status": "success",
+  "error": null
+}

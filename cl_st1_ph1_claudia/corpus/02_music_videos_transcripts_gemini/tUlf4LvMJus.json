@@ -1,0 +1,38 @@
+{
+  "corpus_id": "tUlf4LvMJus",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/tUlf4LvMJus.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/tUlf4LvMJus.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/tUlf4LvMJus.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "We're gonna bring another passenger on board the boat here to Margaritaville right now. The multi-talented Mr. J.J. Watt on congas right here, folks! He's not in training camp yet! How you doing? All right! Let's get... let's get to Margaritaville, J.J. Watt.  Nibblin' on sponge cake Watchin' the sun bake All of you Texas fans covered with oil Strummin' my six-string On my porch swing Smell those shrimp, they're beginnin' to boil Well, well, well, well, well! Wastin' away again in Margaritaville Searchin' for my lost shaker of salt Salt! Salt! Salt! Some people claim that there's a woman to blame But I know it could be my fault I don't know the reason Stayed here all season With nothin' to show but a brand new tattoo But it's a real beauty I've known a few Houston cuties And there's this one from Huntsville, I haven't got a clue She's in prison! Wastin' away again in Margaritaville Searchin' for my lost shaker of salt Salt! Salt! Salt! Some people claim that there's a woman to blame And I know it's all you women's fault Come on, cowgirls, love girls, let's go! Blew out my flip-flop Stepped on a pop-top I broke my leg twice, I had to limp on back home Ow! Ow! But there's booze in the blender And soon it will render That frozen concoction that helps me hang on Hang on! Hang on! Wastin' away again in Margaritaville Searchin' for my lost shaker of salt Salt! Salt! Salt! Salt! Some people claim that there's a woman to blame But I know it's my own damn fault Yeah! Some people claim that there's a woman to blame Always is! But I know it's my own damn fault J.J. Watt on congas! We got it covered! We'll be right back!"
+  },
+  "metadata": {
+    "youtube_id": "tUlf4LvMJus",
+    "title_extracted": null,
+    "corpus_id": "tUlf4LvMJus",
+    "uploader": "Margaritaville",
+    "audio_file": "corpus/01_music_videos_audio/audio/tUlf4LvMJus.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9889922,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 69.678992,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:57:01Z"
+  },
+  "status": "success",
+  "error": null
+}

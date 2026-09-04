@@ -1,0 +1,38 @@
+{
+  "corpus_id": "7Xf-Lesrkuc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/7Xf-Lesrkuc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/7Xf-Lesrkuc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/7Xf-Lesrkuc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Now that she's back in the atmosphere with drops of Jupiter in her hair She acts like summer and walks like rain, reminds me that there's a time to change Since her return from her stay on the moon, she listens like spring and she talks like June Tell me, did you sail across the sun? Did you make it to the Milky Way to see the lights all faded, and that heaven is overrated? Tell me, did you fall for a shooting star? One without a permanent scar, and then you missed me while you were looking for yourself out there? Now that she's back from that soul vacation, tracing her way through the constellation She checks out Mozart while she does Tae Bo, reminds me that there's room to grow Now that she's back in the atmosphere, I'm afraid that she might think of me as plain old Jane, told a story about a man who was too afraid to fly so he never did land. But tell me, did the wind sweep you off your feet? Did you finally get the chance to dance along the light of day, and head back to the Milky Way? Tell me, did Venus blow your mind? Was it everything you wanted to find, and then you missed me while you were looking for yourself out there? Can you imagine no love, fried, fried chicken, your best friend always sticking up for you, even when I know you're wrong? Can you imagine no first dance, freeze-dried romance, 5-hour phone conversation, the best soy latte that you ever had and me? But tell me, did the wind sweep you off your feet? Did you finally get the chance to dance along the light of day, and head back to the Milky Way? Tell me, did you sail across the sun? Did you make it to the Milky Way to see the lights all faded, and that heaven is overrated? Tell me, did you fall for a shooting star? One without a permanent scar, and then you missed me while you were looking for yourself out there? Na, na, na, na, na, na, na, na, na, na, na, na, na, na, na And did you finally get the chance to dance along the light of day? Na, na, na, na, na, na, na, na, na, na, na, na, na, na, na And did you fall for a shooting star? Fall for a shooting star? Na, na, na, na, na, na, na, na, na, na, na, and now you're lonely looking for yourself out there."
+  },
+  "metadata": {
+    "youtube_id": "7Xf-Lesrkuc",
+    "title_extracted": null,
+    "corpus_id": "7Xf-Lesrkuc",
+    "uploader": "Train",
+    "audio_file": "corpus/01_music_videos_audio/audio/7Xf-Lesrkuc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8209168,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.685277,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:47:13Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "J551f-TyqjY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/J551f-TyqjY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/J551f-TyqjY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/J551f-TyqjY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "All my girls at the party, look at that body, shaking that thing like you never did see, got a nice package, all right, 'cause I'm gonna have to ride it tonight All my girls at the party, look at that body, shaking that thing like you never did see, got a nice package, all right EDIT! 4, 3, 2, 1 It's all for you, if you really want it It's all for you, if you say you need it It's all for you, if you gotta have it It's all for you, if you say come get it It's all for you I see you staring at the corner of my eye You seem uneasy, want to approach me, throw me a line But there's something inside you, well, just says you're mine I know because it happens with all the guys So you talk about what you're gonna do So come and touch me I bet you'll be the one even under two And let you sit right next to me You gotta learn to listen to the things I propose That ain't the way to be Yes, it's cool, yes, I'm in the mood It's dynamic, it's gotta be right It's all for you, if you really want it It's all for you, if you say you need it It's all for you, if you gotta have it It's all for you, if you say come get it It's all for you Don't be afraid to keep me waiting for too long Before you know it, I'll be out of here, I'm already gone Don't try to be all cute or be all sly Don't have to work that hard, just be yourself And let that be your guide So you talk about what you're gonna do So come and touch me, boy I bet you'll be the one even under two And let you sit right next to me You gotta learn to listen to the things I propose That ain't the way to be, no Yes, it's cool, yes, I'm in the mood It's dynamic, it's gotta be right It's all for you, if you really want it It's all for you, if you say you need it It's all for you, if you gotta have it It's all for you, if you say come get it It's all for you Show me you're the only one, it's all for you Show me that we're having fun, it's all for you Come on, boy, and get you some, it's all for you, if you say come get it, it's all for you All my girls at the party, look at that body, shaking that thing like you never did see, got a nice package, all right, 'cause I'm gonna have to ride it tonight All my girls at the party, look at that body, shaking that thing like you never did see, got a nice package, all right, 'cause I'm gonna have to ride it tonight Tonight It's all for you, if you really want it It's all for you, if you say you need it It's all for you, if you gotta have it It's all for you, if you say come get it, it's all for you All my girls at the party, look at that body, shaking that thing like you never did see, got a nice package, all right, it's all for you All my girls at the party, look at that body, shaking that thing like you never did see, got a nice package, all right, it's all for you Show me you're the only one Show me that we're having fun Come on, boy, and get you some Show me that we're having fun Show me that we're having fun Show me that we're having fun 'Cause I'm gonna have to ride it tonight 'Cause I'm gonna have to ride it Tonight"
+  },
+  "metadata": {
+    "youtube_id": "J551f-TyqjY",
+    "title_extracted": null,
+    "corpus_id": "J551f-TyqjY",
+    "uploader": "Janet Jackson",
+    "audio_file": "corpus/01_music_videos_audio/audio/J551f-TyqjY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8805086,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.651851,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:23:28Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "7ll7ocQbH_k",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/7ll7ocQbH_k.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/7ll7ocQbH_k.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/7ll7ocQbH_k.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I'm so tired of being alone I'm so tired of on my own Won't you help me girl, just as soon as you can? People say that I've found a way to make you say that you love me Hey baby, you didn't go for that Now it's a natural fact That I want to come back Show me where it's at Baby I'm so tired of being alone I'm so tired of on my own Won't you help me girl, as soon as you can? I guess you know that I love you so Even though you don't want me no more And I'm crying tears all through the years I tell you like it is Honey, love me if you will Yeah baby Tired of being alone here by myself now I tell you, I'm tired baby I'm tired of being all wrapped up late at night In my dreams, nobody but you baby Sometime I wonder If you love me like you say you do You see baby, I I've been thinking about it, yeah I've been, I've been wanting to get next to you baby You see, sometime I fold my arms I say Ooh, baby, hey Needing you has proven to me To be my greatest grief, yeah I'm so tired of being alone Tired of being alone Tired of being alone Sometime in the night I get to wondering about you baby Sometime I think about you my heart goes and everything"
+  },
+  "metadata": {
+    "youtube_id": "7ll7ocQbH_k",
+    "title_extracted": null,
+    "corpus_id": "7ll7ocQbH_k",
+    "uploader": "Al Green",
+    "audio_file": "corpus/01_music_videos_audio/audio/7ll7ocQbH_k.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5539430,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.936048,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:50:45Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "h_D3VFfhvs4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/h_D3VFfhvs4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/h_D3VFfhvs4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/h_D3VFfhvs4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Watch out. Hit it. As he came into the window, it was a sound of a crescendo. He came into her apartment. He left the bloodstains on the carpet. She ran underneath the table. He could see she was unable. So, she ran into the bedroom. She was struck down. It was her doom. Annie, are you okay? So, Annie, are you okay? Are you okay, Annie? Annie, are you okay? So, Annie, are you okay? Are you okay, Annie? Annie, are you okay? So, Annie, are you okay? Are you okay, Annie? Annie, are you okay? So, Annie, are you okay? Are you okay, Annie? Annie, are you okay? Will you tell us that you're okay? There's a sound at the window then he struck you, a crescendo, Annie. He came into your apartment, left the bloodstains on the carpet. Then you ran into the bedroom, you were struck down, it was your doom. Hey, hush little baby. Wait a minute. Get your hands off me. Now, move right now. Annie, are you okay? That's it, right? Are you okay? Are you okay, Annie? Annie, are you okay? Are you okay? Are you okay, Annie? Annie, are you okay? Are you okay? Are you okay, Annie? You've been hit by, you've been hit by a smooth criminal. So, they came into the entryway. It was Sunday, what a black day. Every time I try to find him, leaves no clues left behind him. And they do not know in what direction, or what to expect. Mouth to mouth resuscitation, sounding heartbeats, intimidations. Annie, are you okay? So, Annie, are you okay? Are you okay, Annie? Annie, are you okay? So, Annie, are you okay? Are you okay, Annie? Annie, are you okay? So, Annie, are you okay? Are you okay, Annie? You've been hit by, you've been hit by a smooth criminal. Annie, are you okay? Will you tell us that you're okay? There's a sound at the window then he struck you, a crescendo, Annie. He came into your apartment, left the bloodstains on the carpet. Then you ran into the bedroom, you were struck down, it was your doom. Ooh! Shh. Are you okay? Are you okay, Annie? Are you okay? Annie, are you okay? Are you okay, Annie? Annie, are you okay? Are you okay, Annie? Annie, are you okay? Are you okay, Annie? Woo! That's cool, huh? I'll show them everything I know. Oh yeah, right. You show me. Okay, sure. Hold this. Annie, are you okay? Will you tell us that you're okay? There's a sound at the window then he struck you, a crescendo, Annie. He came into your apartment, left the bloodstains on the carpet. Then you ran into the bedroom, you were struck down, it was your doom. Annie, are you okay? Will you tell us that you're okay? There's a sound at the window then he struck you, a crescendo, Annie. He came into your apartment, left the bloodstains on the carpet. Then you ran into the bedroom, you were struck down, it was your doom. Annie, are you okay? Will you tell us that you're okay? There's a sound at the window then he struck you, a crescendo, Annie. He came into your apartment, left the bloodstains on the carpet. Then you ran into the bedroom, you were struck down, it was your doom. Annie, are you okay? Will you tell us that you're okay? There's a sound at the window then he struck you, a crescendo, Annie. He came into your apartment, left the bloodstains on the carpet. Then you ran into the bedroom, you were struck down, it was your doom. Annie, are you okay? Will you tell us that you're okay? There's a sound at the window then he struck you, a crescendo, Annie. He came into your apartment, left the bloodstains on the carpet. Then you ran into the bedroom, you were struck down, it was your doom."
+  },
+  "metadata": {
+    "youtube_id": "h_D3VFfhvs4",
+    "title_extracted": null,
+    "corpus_id": "h_D3VFfhvs4",
+    "uploader": "Michael Jackson",
+    "audio_file": "corpus/01_music_videos_audio/audio/h_D3VFfhvs4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 18109414,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 39.238719,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:07:06Z"
+  },
+  "status": "success",
+  "error": null
+}

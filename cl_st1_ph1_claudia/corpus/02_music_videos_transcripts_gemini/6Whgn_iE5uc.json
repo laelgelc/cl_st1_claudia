@@ -1,0 +1,38 @@
+{
+  "corpus_id": "6Whgn_iE5uc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/6Whgn_iE5uc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/6Whgn_iE5uc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/6Whgn_iE5uc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Man, it's a hot one like seven inches from the midday sun. Well, I hear you whisper and the words melt everyone, but you stay so cool. My Mona Lisa, my Spanish Harlem Mona Lisa. You're my reason for reason, the step in my groove, yeah. And if you said this life ain't good enough, I'd give my world to lift you up, I could change my life to better suit your mood. 'Cause you're so smooth. And it's just like the ocean under the moon, well, it's the same as the emotion that I get from you. You got the kind of loving that can be so smooth, yeah. Give me your heart, make it real, or else forget about it. Well, I'll tell you one thing, it would be a crying shame. In every breath and every word, I hear your name call at me. Out from the radio, you hear my rhythm on the radio. You feel the turning of the world so soft and slow, turning you round and round. And if you said this life ain't good enough, I'd give my world to lift you up, I could change my life to better suit your mood. 'Cause you're so smooth. And it's just like the ocean under the moon, it's the same as the emotion that I get from you. You got the kind of loving that can be so smooth, yeah. Give me your heart, make it real, or else forget about it. And it's just like the ocean under the moon, well, it's the same as the emotion that I get from you. You got the kind of loving that can be so smooth, yeah. Give me your heart, make it real, or else forget about it. Yeah, or else forget about it. Yeah, or else forget about it. Oh, or else forget about it. Give me your heart, make it real, or else forget about it. Or else forget about it. Oh, or else forget about it. Oh, or else forget about it. Or else forget about it."
+  },
+  "metadata": {
+    "youtube_id": "6Whgn_iE5uc",
+    "title_extracted": null,
+    "corpus_id": "6Whgn_iE5uc",
+    "uploader": "Santana",
+    "audio_file": "corpus/01_music_videos_audio/audio/6Whgn_iE5uc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8196536,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.693476,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:28:45Z"
+  },
+  "status": "success",
+  "error": null
+}

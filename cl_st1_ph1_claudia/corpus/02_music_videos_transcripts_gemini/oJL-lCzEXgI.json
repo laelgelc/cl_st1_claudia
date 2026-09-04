@@ -1,0 +1,38 @@
+{
+  "corpus_id": "oJL-lCzEXgI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oJL-lCzEXgI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/oJL-lCzEXgI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/oJL-lCzEXgI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Dark in the city, night is a wire Steam in the subway, earth is a fire Woman, you want me, give me a sign And take my breathing even closer behind In touch with the ground I'm on the hunt, I'm after you Smell like a sound, I'm lost in a crowd And I'm hungry like the wolf Straddle the line, it's discord and rhyme I'm on the hunt, I'm after you Mouth is alive, all juices like wine And I'm hungry like the wolf Stalked in the forest, too close to hide I'm upon you by the moonlight side High blood drumming on your skin, it's so tight You feel my heat, I'm just a moment behind In touch with the ground I'm on the hunt, I'm after you Scent and a sound, I'm lost and I'm found And I'm hungry like the wolf Straddle the line, it's discord and rhyme I howl and I whine, I'm after you Mouth is alive, all running inside And I'm hungry like the wolf Hungry like the wolf Hungry like the wolf Burning the ground I break from the crowd I'm on the hunt, I'm after you I smell like a sound, I'm lost and I'm found And I'm hungry like the wolf Straddle the line, it's discord and rhyme I'm on the hunt, I'm after you Mouth is alive, juices like wine And I'm hungry like the wolf Burning the ground I break from the crowd I'm on the hunt, I'm after you Scent and a sound, I'm lost and I'm found And I'm hungry like the wolf Straddle the line, it's discord and rhyme I howl and I whine, I'm after you Mouth is alive"
+  },
+  "metadata": {
+    "youtube_id": "oJL-lCzEXgI",
+    "title_extracted": null,
+    "corpus_id": "oJL-lCzEXgI",
+    "uploader": "Duran Duran",
+    "audio_file": "corpus/01_music_videos_audio/audio/oJL-lCzEXgI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7116158,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.698023,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:31:32Z"
+  },
+  "status": "success",
+  "error": null
+}

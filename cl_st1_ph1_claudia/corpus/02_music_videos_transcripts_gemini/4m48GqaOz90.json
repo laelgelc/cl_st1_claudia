@@ -1,0 +1,38 @@
+{
+  "corpus_id": "4m48GqaOz90",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4m48GqaOz90.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/4m48GqaOz90.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/4m48GqaOz90.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Gotta get that\nGotta get that\nGotta get that\nGotta get that, that, that, that, that\n\nBoom boom boom, gotta get that\nBoom boom boom, gotta get that\nBoom boom boom, gotta get that\nBoom boom boom, gotta get that\nBoom boom boom, that boom boom boom\nThat boom boom boom, boom boom boom\n\nYo, I got that hit to beat the block\nYou can get that bass line below\nI got that rock and roll, that future flow\nThat digital spit, next level visual\nI got that boom boom boom\nHow the beat bang\n\nI like that boom boom pow\nThem chickens jacking my style\nThey try to copy my swagger\nI'm on that next shit now\nI'm so 3008, you so 2000 and late\nI got that boom boom boom\nThat future boom boom boom\nLet me get in that\n\nBoom boom boom, gotta get that\nBoom boom boom, gotta get that\nBoom boom boom, gotta get that\nBoom boom boom, gotta get that\nBoom boom boom, that boom boom boom\nThat boom boom boom, boom boom boom\n\nI'm on that supersonic boom\nY'all hear that spaceship zoom\nWhen I step inside the room\nThem girls go ape, ape, ape\nY'all stuck on super ape, ape\nThat lo-fi super ape, ape\nI'm on that HD flat\nThis beat go boom boom pow\n\nI'm a beast when I turn me on\nInto the future, Cybertron\nHarder, faster, better, stronger\nSexy ladies, extra longer\n'Cause we got the beat that bounce\nWe got the beat that pound\nWe got the beat that 808 that boom boom in your town\n\nPeople in the place!\nIf you wanna get down\nPut your hands in the air!\nWill.i.am, drop the beat now\n\nI'll be rocking them beats\nYup, yup\nI'll be rocking them beats\nYup, yup, yup, yup\nHuh, huh, huh\nHere we go, here we go, satellite radio\nY'all getting hit with the boom boom\nBeat so big I'm stepping on leprechauns\nY'all getting hit with the boom boom\nY'all getting hit with the boom boom\nY'all getting hit with the\n\nThis beat be bumping, bumping\nThis beat go boom boom\nLet the beat rock\nLet the beat rock\nLet the beat rock\nThis beat be bumping, bumping\nThis beat go boom boom\n\nI like that boom boom pow\nThem chickens jacking my style\nThey try to copy my swagger\nI'm on that next shit now\nI'm so 3008, you so 2000 and late\nI got that boom boom boom\nThat future boom boom boom\nLet me get in that\n\nBoom boom boom, gotta get that\nBoom boom boom, gotta get that\nBoom boom boom, gotta get that\nBoom boom boom, gotta get that\nBoom boom boom, that boom boom boom\nThat boom boom boom, boom boom boom"
+  },
+  "metadata": {
+    "youtube_id": "4m48GqaOz90",
+    "title_extracted": null,
+    "corpus_id": "4m48GqaOz90",
+    "uploader": "Black Eyed Peas",
+    "audio_file": "corpus/01_music_videos_audio/audio/4m48GqaOz90.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6697828,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.408296,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:52:46Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "DksSPZTZES0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/DksSPZTZES0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/DksSPZTZES0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/DksSPZTZES0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You were my sun, you were my earth. But you didn't know all the ways I loved you, no. So you took a chance and made other plans, but I bet you didn't think that they would come crashing down, no. You don't have to say what you did, I already know, I found out from him. Now there's just no chance for you and me, there'll never be. And don't it make you sad about it? You told me you loved me, why did you leave me all alone? Now you tell me you need me when you call me on the phone. Girl, I refuse, you must have me confused with some other guy. Your bridges were burned, now it's your turn to cry. Cry me a river, cry me a river, cry me a river, cry me a river, yeah, yeah. You know that they say some things are better left unsaid. It wasn't like you only talked to him and you know it. Don't act like you don't know it. All of these things people told me keep messing with my head, messing with my head. Should've picked honesty, then you may not have blown it, yeah. You don't have to say, don't have to say, what you did, I already know, I found out from him. Now there's just no chance for you and me, you and me, there'll never be. And don't it make you sad about it? You told me you loved me, why did you leave me all alone, all alone? Now you tell me you need me when you call me on the phone, when you call me on the phone. Girl, I refuse, you must have me confused with some other guy. I'm not like them baby. Your bridges were burned, now it's your turn to cry, cause it's your turn. Cry me a river, go on and just, cry me a river, go on and just, cry me a river, baby, go on and just, cry me a river, yeah, yeah. Oh, the damage is done, so I guess I'll be leaving. Oh, the damage is done, so I guess I'll be leaving. Oh, the damage is done, so I guess I'll be leaving. Oh, the damage is done, so I guess I'll be leaving. You don't have to say, don't have to say, what you did, I already know, I found out from him. Now there's just no chance for you and me, there'll never be. And don't it make you sad about it? Go on and just cry me a river, baby, go on and just, cry me a river, you can go on and just, cry me a river, yeah, cry me a river. Baby, go on and just, cry me a river, go on and just, cry me a river, go on and cry, cry me a river, cry me a river, yeah, yeah. Cry me a river, oh, cry me a river, oh, cry me a river, oh, cry me a river, keep crying, crying, oh, cry me a river, keep crying, crying, oh, cry me a river, keep crying, crying, oh, cry me a river, keep crying, crying, oh, cry me a river, keep crying, crying, oh, cry me a river."
+  },
+  "metadata": {
+    "youtube_id": "DksSPZTZES0",
+    "title_extracted": null,
+    "corpus_id": "DksSPZTZES0",
+    "uploader": "Justin Timberlake",
+    "audio_file": "corpus/01_music_videos_audio/audio/DksSPZTZES0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9288804,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 26.366513,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:26:22Z"
+  },
+  "status": "success",
+  "error": null
+}

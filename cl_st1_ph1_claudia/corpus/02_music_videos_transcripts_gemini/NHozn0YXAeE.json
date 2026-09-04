@@ -1,0 +1,38 @@
+{
+  "corpus_id": "NHozn0YXAeE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/NHozn0YXAeE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/NHozn0YXAeE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/NHozn0YXAeE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Oh Oh Oh yeah Yes, you made a decision tonight When all you wanted was to relax You go through all the pain inside But you turn your back and go through fast Oh yeah You go so fast Yeah Oh, so long to ones who really care In the end, nobody was there When you get old and lose your hair Can you tell me who will still care? Can you tell me who will still care? Oh yeah! Ooh back, what you gotta do back? What you gotta do back? What you gotta do? Yeah! Ooh back, what you gotta do back? What you gotta do back? What you gotta do? Yeah! It's all yes and no, but you're gone Yeah, yeah! The same old time, we play the roles When anyone asks you, \"Blonde, which one goes?\" It's a secret no one knows It's a secret no one knows, oh no No one knows! Ooh back, what you gotta do back? What you gotta do back? What you gotta do? Yeah! Ooh back, what you gotta do back? What you gotta do back? What you gotta do? Yeah! In a loop, but you're gone In a loop, but you're not there In a loop, but you're gone In a loop, but you're not there Can tell that you care Oh, but you don't care, yeah! Ooh back, what you gotta do back? What you gotta do back? What you gotta do? Yeah! Ooh back, what you gotta do back? What you gotta do back? What you gotta do? Yeah! Can you tell me? Oh No, you can't, but you don't know Can you tell me? Oh yeah You say you care, but you don't know Can you tell me? Oh No, you can't, but you don't know Can you tell me? What if you're easy, oh? Say you care, but you don't know You don't know, oh! Ooh back Do back Do back Do, yeah! Ooh back Oh yeah Do back Do back Do, yeah! Ooh back, what you gotta do back? What you gotta do back? What you gotta do? Yeah! Ooh back, what you gotta do back? What you gotta do back? What you gotta do? Ooh back, what you gotta do back? What you gotta do back? What you gotta do?"
+  },
+  "metadata": {
+    "youtube_id": "NHozn0YXAeE",
+    "title_extracted": null,
+    "corpus_id": "NHozn0YXAeE",
+    "uploader": "HANSON",
+    "audio_file": "corpus/01_music_videos_audio/audio/NHozn0YXAeE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7413374,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.416468,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:08:30Z"
+  },
+  "status": "success",
+  "error": null
+}

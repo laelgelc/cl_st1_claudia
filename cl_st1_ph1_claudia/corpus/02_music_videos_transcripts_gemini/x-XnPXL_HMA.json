@@ -1,0 +1,38 @@
+{
+  "corpus_id": "x-XnPXL_HMA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/x-XnPXL_HMA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/x-XnPXL_HMA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/x-XnPXL_HMA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "He came dancing across the water\nWith his galleons and guns\nLooking for the new world\nAnd that palace in the sun\nOn the shore stood Montezuma\nWith his coca leaves and pearls\nIn his halls he often wondered\nWith the secrets of the world\nAnd his subjects gathered 'round him\nLike the leaves around the tree\nIn their clothes of many colors\nFor the angry gods to see\nAnd the women all were beautiful\nAnd the men stood straight and strong\nThey offered life in sacrifice\nSo others could go on\n\nHate was just a legend\nWar was never known\nThe people worked together\nAnd they lifted many stones\nThey carried them to the flatlands\nAnd they died along the way\nBut they built them with their bare hands\nWhat we still can't do today\nAnd I know she's living there\nShe loves me to this day\nI still can't remember how\nOr where I lost my way\n\nHe came dancing across the water\nCortez, Cortez\nWhat a killer\nAnd dancing across the water\nCortez, Cortez\nWhat a killer\n\nDancing across the water\nCortez, Cortez\nWhat a killer"
+  },
+  "metadata": {
+    "youtube_id": "x-XnPXL_HMA",
+    "title_extracted": null,
+    "corpus_id": "x-XnPXL_HMA",
+    "uploader": "iosonofederico",
+    "audio_file": "corpus/01_music_videos_audio/audio/x-XnPXL_HMA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 18372450,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.704909,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:44:47Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "CqBtS6BIP1E",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CqBtS6BIP1E.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/CqBtS6BIP1E.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/CqBtS6BIP1E.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Uh, yeah.\nDoo doo doo doo doo doo\nDoo doo doo doo doo doo\nOh yeah.\n\nI need a lover to give me\nThe kind of love that will last always.\nI need somebody uplifting\nTo take me away,\noh yeah, yeah.\n\nI want a lover who knows me, yeah,\nWho understands how I feel inside.\nSomeone to comfort and hold me\nThrough the long, lonely nights till the dawn,\nWhy don't you take me away?\n\nSweet love, I'm asking,\nTake me high, take me down,\nTake me anywhere you want to, baby, now.\nI need you so desperately,\nWon't you please come around?\n'Cause I want to share forever with you, baby,\noh, with you, baby.\n\nI don't want another pretender\nTo disillusion me one more time,\nWhispering words of forever,\nPlaying with my mind.\nNo, no, no, no, no, baby.\n\nI need someone to hold on to,\nThe kind of love that won't fly away.\nI just want someone to belong to\nEvery day of my life, always,\nSo come and take me away.\n\nSweet love, I'm asking,\nTake me high, take me down,\nTake me anywhere you want to, baby, now.\nI need you so desperately,\nWon't you please come around?\n'Cause I want to share forever with you, baby.\n\nBaby, come and take me away!\n\nSweet love, I'm asking,\nTake me high, take me down,\nTake me anywhere you want to, baby, now, oh baby.\nI need you so desperately,\nWon't you please come around? Won't you please?\n'Cause I want to share forever with you, baby.\nOh, oh, oh.\nSweet love, I'm asking,\nTake me high, take me down, take me high.\nTake me anywhere you want to, baby, now. Take me anywhere, oh.\nI need you so desperately,\nCome on, baby, come on around,\n'Cause I want to share forever with you, baby."
+  },
+  "metadata": {
+    "youtube_id": "CqBtS6BIP1E",
+    "title_extracted": null,
+    "corpus_id": "CqBtS6BIP1E",
+    "uploader": "Mariah Carey",
+    "audio_file": "corpus/01_music_videos_audio/audio/CqBtS6BIP1E.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7607308,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.862226,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:51:37Z"
+  },
+  "status": "success",
+  "error": null
+}

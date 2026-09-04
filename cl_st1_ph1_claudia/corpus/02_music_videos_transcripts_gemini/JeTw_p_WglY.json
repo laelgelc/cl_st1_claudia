@@ -1,0 +1,38 @@
+{
+  "corpus_id": "JeTw_p_WglY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/JeTw_p_WglY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/JeTw_p_WglY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/JeTw_p_WglY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "They say produced under control But we don't want a lower level They say flight to Amsterdam The people love West London Oh, in someone's mind Oh, key to that type of love I'm not a lover, I'm just a thrill seeker Look at all the laughter I'll get high again I need some type of love Can't find nobody just to make sure Oh, in someone's mind Oh, key to nowhere at all They say, what do you think we pay When we sign that paper? Payments, spend a lot of money Glorify it Oh, in someone's mind Oh, key to... I don't trust you So why try to pay? Oh, a little bit of bad vibe They really like to feel the... Break our mind We go wild! Heroin! Heroin! Do they love our love or love our dynamic? Heroin! Heroin! Do they love our love or love our dynamic? Heroin! Heroin! Music's got to be speaking No lie Break our mind Heroin! Heroin!"
+  },
+  "metadata": {
+    "youtube_id": "JeTw_p_WglY",
+    "title_extracted": null,
+    "corpus_id": "JeTw_p_WglY",
+    "uploader": "The Clash",
+    "audio_file": "corpus/01_music_videos_audio/audio/JeTw_p_WglY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7055230,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.098462,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:37:09Z"
+  },
+  "status": "success",
+  "error": null
+}

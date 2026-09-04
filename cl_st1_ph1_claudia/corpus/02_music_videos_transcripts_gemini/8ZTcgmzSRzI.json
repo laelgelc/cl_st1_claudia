@@ -1,0 +1,38 @@
+{
+  "corpus_id": "8ZTcgmzSRzI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8ZTcgmzSRzI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/8ZTcgmzSRzI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/8ZTcgmzSRzI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "On May 31st, 1958, here in the Little Theater, a man appeared to sing a song called \"Splish Splash\". A great deal has happened since that time. Ladies and gentlemen, here is Bobby Darin! Somewhere beyond the sea Somewhere waiting for me My lover stands on golden sands And watches the ships that go sailing Somewhere beyond the sea She's there watching for me If I could fly like birds on high Then straight to her arms I'd go sailing It's far beyond a star It's near beyond the moon I know beyond a doubt My heart will lead me there soon We'll meet beyond the shore We'll kiss just as before Happy we'll be beyond the sea And never again I'll go sailing I know beyond a doubt My heart will lead me there soon We'll meet, I know we'll meet Beyond the shore We'll kiss just as before Happy we'll be beyond the sea And never again I'll go sailing No more sailing So long, sailing Bye bye, sailing All right, hold on a half a second. Bobby? Thank you. I mentioned to the folks that the first time you ever appeared here in the Little Theater was on May 31st, 1958 and a lot had happened since then. I've read a lot about you and I've heard a lot of things said about you. Have you changed at all since then? Richard, I don't think I've changed. I might have put on a little weight. I call I always call him He used to call me Sir Robert, and we called him Sir Richard back. But the I know a lot of people have said that I've changed and I guess to a lot of intents and purposes, it's kind of true. I only feel that as a performer, I must entertain the people that I work to no matter if they're 14, 12, 35, or 105. And that's my first love. How many 105 year olds have you entertained? Not too many, but I'm getting near there myself, I'll tell you. World's oldest teenager, I think. But this is my attitude and I love to perform, and that's more important than anything else in the world. Let me put you to work. You want to get set for a second? Yeah."
+  },
+  "metadata": {
+    "youtube_id": "8ZTcgmzSRzI",
+    "title_extracted": null,
+    "corpus_id": "8ZTcgmzSRzI",
+    "uploader": "NRRArchives",
+    "audio_file": "corpus/01_music_videos_audio/audio/8ZTcgmzSRzI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8274556,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.141345,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:34:59Z"
+  },
+  "status": "success",
+  "error": null
+}

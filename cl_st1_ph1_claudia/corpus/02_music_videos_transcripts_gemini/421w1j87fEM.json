@@ -1,0 +1,38 @@
+{
+  "corpus_id": "421w1j87fEM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/421w1j87fEM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/421w1j87fEM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/421w1j87fEM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Igbo cast, last last Na everybody go chop breakfast Shayo Igbo Shayo To confess, oh, 40 percent oh Nothing to discuss oh 'Cause I dey win by default and without any doubt oh Omo, me I dey doti I no go fit take hot I no go fit take insult oh On my mind, as you dey talk oh I put my life into my job, and I know I'm in trouble She manipulate my love oh I no holy, and I know dey get post Like I be Baba Frayo My eye oh, don cry oh I need Igbo and Shayo (Shayo) I need Igbo and Shayo (Shayo) I need Igbo and Shayo (Shayo) I need Igbo and Shayo (Shayo, Shayo, Shayo, Shayo) I need Igbo and Shayo (Shayo) I need Igbo and Shayo (Shayo) I need Igbo and Shayo (Shayo, Shayo, Shayo, Shayo) I dey Port Harcourt, run dem till sober I dey try to buy motor, one Toyota Corolla My feelings dey swing like jangolova Feelings dey swing like jangolova Now you crash your Ferrari for Lekki, burn am Na so story make you dey feel all over My feelings dey swing like jangolova Feelings dey swing like T'imbani k'ẹtu'ru ẹjụ Omo, why don't you finish move? Why you say I did nothing for you When I for do anything you want me to do? T'imbani k'ẹtu'ru ẹjụ Omo, why don't you finish move? Why you say I did nothing for you When I for do anything you want me to do? Maybe another time, maybe another life You will be my wife and we'll get it right Igbo cast, last last Na everybody go chop breakfast Have to say bye-bye oh Bye-bye oh to the love of my life My eye oh, don cry oh I need Igbo and Shayo (Shayo) I need Igbo and Shayo (Shayo) I need Igbo and Shayo (Shayo) I need Igbo and Shayo (Shayo, Shayo, Shayo, Shayo) I need Igbo and Shayo (Shayo) I need Igbo and Shayo (Shayo) I need Igbo and Shayo (Shayo, Shayo, Shayo, Shayo)"
+  },
+  "metadata": {
+    "youtube_id": "421w1j87fEM",
+    "title_extracted": null,
+    "corpus_id": "421w1j87fEM",
+    "uploader": "Burna Boy",
+    "audio_file": "corpus/01_music_videos_audio/audio/421w1j87fEM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5562464,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.892495,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:18:05Z"
+  },
+  "status": "success",
+  "error": null
+}

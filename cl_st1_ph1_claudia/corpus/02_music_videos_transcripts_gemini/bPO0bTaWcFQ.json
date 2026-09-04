@@ -1,0 +1,38 @@
+{
+  "corpus_id": "bPO0bTaWcFQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/bPO0bTaWcFQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/bPO0bTaWcFQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/bPO0bTaWcFQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Jesus died for somebody's sins, but not mine. Melting like a thief, wild card up my sleeve. Thick heart of stone, my sins my own, they belong to me... me. People say, \"Beware,\" but I don't care. The words are just rules and regulations to me... me. I was walkin' around, lookin' so proud. I'm movin' in this atmosphere where anything's allowed. I go to this party, I just get bored. Until I look out the window, see this sweet young thing, humpin' on the parking meter, leanin' on the parking meter. Oh, she looks so good! Oh, she looks so fine! And I got this crazy feeling that I'm gonna make her mine. Put my spell on her. Here she comes, walking down the street. Here she comes, coming through my door. Here she comes, crawling up my stair. Here she comes, walking through the hall in her leather jacket! Oh, she looks so good! Oh, she looks so fine! And I got this crazy feeling that I'm gonna make her mine. And I hear this knockin' at my door. Hear this knockin' at my door. And I look up at the big tower clock and say, \"Oh my God, it's midnight! And my baby is walking through the door, leanin' on my couch, she whispers to me and I take the big plunge!\" Oh, she was so good! Oh, she was so fine! And I'm gonna tell the world that I'm gonna make her mine. I said, \"Darling, tell me your name.\" She told me her name. She whispered to me, she told me her name. And her name is... and her name is... and her name is... and her name is... G-L-O-R-I-A! Gloria! G-L-O-R-I-A! Gloria! G-L-O-R-I-A! Gloria! G-L-O-R-I-A! Gloria! Was at the stadium, 20,000 girls all callin' out to me! Marie... Ruth... but I tell you the truth: I didn't hear them, I didn't see. I let my eyes rise to the big tower clock and I heard those bells chiming in my heart, going: Ding-dong, ding-dong, ding-dong, ding-dong, ding-dong, ding-dong, ding-dong, ding-dong! She walked into my room, when she whispered to me, we took the big plunge. Oh, you were so good! Oh, you were so fine! And I'm gonna tell the world that I make her mine, make her mine, make her mine, make her mine, make her mine, make her mine! G-L-O-R-I-A! Gloria! G-L-O-R-I-A! Gloria! G-L-O-R-I-A! Gloria! G-L-O-R-I-A! Gloria! Hear the bells chime! Ding-dong, check! I see that Jesus died for somebody's sins... but not mine. G-L-O-R-I-A! Gloria! G-L-O-R-I-A! Gloria! G-L-O-R-I-A! Gloria! G-L-O-R-I-A! Gloria! G-L-O-R-I-A! Gloria! G-L-O-R-I-A! Gloria! G-L-O-R-I-A! Gloria! G-L-O-R-I-A! Gloria! G-L-O-R-I-A! G-L-O-R-I-A! G-L-O-R-I-A!"
+  },
+  "metadata": {
+    "youtube_id": "bPO0bTaWcFQ",
+    "title_extracted": null,
+    "corpus_id": "bPO0bTaWcFQ",
+    "uploader": "Patti Smith",
+    "audio_file": "corpus/01_music_videos_audio/audio/bPO0bTaWcFQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11396804,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.355629,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:41:41Z"
+  },
+  "status": "success",
+  "error": null
+}

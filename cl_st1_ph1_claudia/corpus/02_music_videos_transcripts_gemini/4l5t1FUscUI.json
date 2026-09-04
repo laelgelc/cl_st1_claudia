@@ -1,0 +1,38 @@
+{
+  "corpus_id": "4l5t1FUscUI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4l5t1FUscUI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/4l5t1FUscUI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/4l5t1FUscUI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I want and I need\nAnd someday, somewhere, oh, I'll meet him\nHe'll be kind of shy, but real good-looking, too\nAnd I'll be certain he's my guy by the things he'll do\nLike walking in the rain\nAnd wishing on the stars up above\nAnd being so in love\n\nWhen he's near me, I'll kiss him\nWhen he leaves me, oh, I'll miss him\nThough sometimes we'll fight, I won't really care\nAnd I'll know it's gonna be alright, 'cause we've got so much we share\nLike walking in the rain\nAnd wishing on the stars up above\nAnd being so in love\n\nJohnny (No, no, he'll never do)\nBobby (No, it isn't him, too)\nThey would never, no, they'd never, never, never ever\nLike walking in the rain\nAnd wishing on the stars up above\nAnd being so in love\nOh\nWhere can he be? Oh\nI've been wishing and hoping, where can he be? Oh"
+  },
+  "metadata": {
+    "youtube_id": "4l5t1FUscUI",
+    "title_extracted": null,
+    "corpus_id": "4l5t1FUscUI",
+    "uploader": "The Ronettes",
+    "audio_file": "corpus/01_music_videos_audio/audio/4l5t1FUscUI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6345628,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.346849,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:55:43Z"
+  },
+  "status": "success",
+  "error": null
+}

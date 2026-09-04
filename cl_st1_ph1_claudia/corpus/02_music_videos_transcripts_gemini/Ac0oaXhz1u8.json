@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Ac0oaXhz1u8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Ac0oaXhz1u8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Ac0oaXhz1u8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Ac0oaXhz1u8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Decide yourself if radiant's gonna stay Reason is a good father's cure Put that, put that, put that off, you all That this isn't good enough Radio Decided Calling out in transit, calling out in transit Radiant, radiant, radiant Decide yourself if radiant's gonna last Instead of pushing madness to the wall Put that, put that, put that off, oh That this isn't good enough Radio Decided Calling out in transit, calling out in transit Radiant, radiant, radiant Decide yourself, calling out the word Leaving out of country in the word Disappointment's into us returned Radio Decided Calling out in transit, calling out in transit Radiant, radiant, radiant Calling out in transit, calling out in transit Radiant, radiant, radiant"
+  },
+  "metadata": {
+    "youtube_id": "Ac0oaXhz1u8",
+    "title_extracted": null,
+    "corpus_id": "Ac0oaXhz1u8",
+    "uploader": "remhq",
+    "audio_file": "corpus/01_music_videos_audio/audio/Ac0oaXhz1u8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6099682,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 25.787714,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:33:58Z"
+  },
+  "status": "success",
+  "error": null
+}

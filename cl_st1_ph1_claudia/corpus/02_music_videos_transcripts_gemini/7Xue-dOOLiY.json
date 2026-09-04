@@ -1,0 +1,38 @@
+{
+  "corpus_id": "7Xue-dOOLiY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/7Xue-dOOLiY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/7Xue-dOOLiY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/7Xue-dOOLiY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I ain't a player, I just crush a lot  \nI'm not a player, I just crush a lot  \nI ain't a player, I just crush a lot  \nI'm not a player, I just crush a lot  \n\nOoh, yeah, yeah  \nI don't wanna be a player no more  \nI'm not a player, I just crush a lot  \nPunisher still got what you're looking for  \nI don't wanna be a player no more  \nI'm not a player, I just crush a lot  \nBut you know Big Pun and Joe still down below  \nWho's down to crush?  \n\nYo, I'm still not a player, but you still a hater  \nElevator to the top, hi, see you later  \nI'm gone, penthouse suite, penthouse suite, in-house beach, French couch seats, 10,000 piece, rent-out lease with an option to buy  \nCopping the 5-A-Benz, when I'm not, fly through the sky  \nWith my twin Benito, up in the Benzi-to with my kicker from Queens, Big Ben Rico  \nWe go back like DAs and wearing PJs, now we reach the peak age  \nThe 3-days, who want to ride it won't cost you a dollar whether soft or harder, of course you're still gonna holler, mama I'm thick  \nI rip my dick through your click, I'm sick, you couldn't measure my dick with six rulers, hold up  \nChula, I'm all about getting loot, but I knock that boot if you ought to get through  \n\nI don't wanna be a player no more  \nI'm not a player, I just crush a lot  \nPunisher still got what you're looking for  \nHub Town, baby, Hub Town  \nI don't wanna be a player no more  \nI'm not a player, I just crush a lot  \nBut you know Big Pun and Joe still down below  \nWho's down to crush?  \n\nI love 'em butter-pecan, the Black, Brown, and Latins  \nI don't discriminate, I regulate every shade of that  \nLong as you show class and pass my test, fat ass, highly intelligent, stats the best  \nI won't settle for less, I want a ghetto brunette, one unforgettable  \nLay your head on my chest and feel my heartbeat  \nWe can park the Jeep, pump Fat Joe deep, and just creep  \nIt's hard to creep since I found Joe, every pretty round-round want to go down low  \nWhen this Boogie Down pro fish you know, I'mma let you know, once I put the rose, get your clothes, 'cause you got to go, out the door, downstairs, little brown hairs everywhere  \nYou nasty, twin  \nI don't care, round here they call me Big Pun, hit you with the big, big tongue, make you chick  \nHot tub, popping Dom Pérignon, in your spot love, got you screaming Punisher, but it don't stop  \nWatch the Pun get wicked when I hit it, even Rub'll be like, \"Don't stop, get it, get it\"  \nHot tub, popping Dom Pérignon, in your spot love, got you screaming Punisher, but it don't stop  \nWatch the Pun get wicked when I hit it, even Rub'll be like, \"Don't stop, get it, get it\"  \n\nI don't wanna be a player no more  \nPunisher, Punisher, Punisher, Punisher  \nPunisher, Punisher  \nI don't wanna be a player no more  \nPunisher, Punisher  \nBut you know Big Pun and Joe still down below  \nWho's down to crush?  \n\nBoricua, Morena, Boricua, Morena, Boricua, Morena, Boricua, Morena, Boricua, Morena, Boricua, Morena  \nNo more rolling with none to rush, unless it's Pun and the Terror Squad  \nPunisher, Punisher, Punisher, Punisher, Punisher, Punisher  \nBoricua, Morena, Boricua, Morena, Boricua, Morena, Boricua, Morena, Boricua, Morena, Boricua, Morena, Boricua, Morena, Boricua, Morena, Boricua, Morena, Boricua, Morena, Boricua, Morena, Boricua, Morena, Boricua, Morena, Boricua, Morena  \nMmm"
+  },
+  "metadata": {
+    "youtube_id": "7Xue-dOOLiY",
+    "title_extracted": null,
+    "corpus_id": "7Xue-dOOLiY",
+    "uploader": "Big Pun",
+    "audio_file": "corpus/01_music_videos_audio/audio/7Xue-dOOLiY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8874930,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.78086,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:38:53Z"
+  },
+  "status": "success",
+  "error": null
+}

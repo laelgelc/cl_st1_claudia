@@ -1,0 +1,38 @@
+{
+  "corpus_id": "tg0C26QjDgw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/tg0C26QjDgw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/tg0C26QjDgw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/tg0C26QjDgw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I got a letter in the mail today, money's getting down It won't be long 'til the bucket is dry, all the fellas in a factory town The sun is through, but the face is same, at the watch, the sun is down I found my heart on a different side, and I've got to let it go It's been ten years and maybe more since I walked through that door The best years of my life are gone, I have no place to go Some people cry, some people laugh at the wicked ways of love But I'll just keep on rolling on, through the crazy and the fun People talking all around, but they don't make no sense I don't care what the people say, I know where they draw the line Only got you now on my mind, because I've been a fool When you call me another man's name when I try to make love I try to make love I really need to make love Oh yeah Every night Every night Give it to me, come on Ooh yeah! Ooh yeah! Ooh yeah! Ooh yeah! Ooh yeah! Ooh yeah! Ow!"
+  },
+  "metadata": {
+    "youtube_id": "tg0C26QjDgw",
+    "title_extracted": null,
+    "corpus_id": "tg0C26QjDgw",
+    "uploader": "G C",
+    "audio_file": "corpus/01_music_videos_audio/audio/tg0C26QjDgw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 12542570,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.273487,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:45:03Z"
+  },
+  "status": "success",
+  "error": null
+}

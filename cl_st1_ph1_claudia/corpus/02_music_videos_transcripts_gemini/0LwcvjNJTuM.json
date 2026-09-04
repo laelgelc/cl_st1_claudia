@@ -1,0 +1,38 @@
+{
+  "corpus_id": "0LwcvjNJTuM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/0LwcvjNJTuM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/0LwcvjNJTuM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/0LwcvjNJTuM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "If I leave tomorrow \nWould you still remember me? \nFor I must be traveling on now \n'Cause there's too many places I've got to see \n\nBut if I stay with you, girl \nThings just couldn't be the same \n'Cause I'm as free as a bird now \nAnd this bird you cannot change, oh\nAnd this bird you cannot change \nAnd this bird you cannot change \nLord knows I can't change \n\nBye-bye, baby, it's been sweet love, yeah, yeah \nThough this feeling I can't change \nBut please don't take it so badly \n'Cause the Lord knows I'm to blame \n\nBut if I stay here with you, girl \nThings just couldn't be the same \n'Cause I'm as free as a bird now \nAnd this bird you cannot change, oh\nAnd this bird you cannot change \nAnd this bird you cannot change \nLord knows I can't change \nLord help me, I can't change, yeah, yeah, yeah, yeah, yeah, yeah\nLord, I can't change \nWon't you fly free bird, yeah"
+  },
+  "metadata": {
+    "youtube_id": "0LwcvjNJTuM",
+    "title_extracted": null,
+    "corpus_id": "0LwcvjNJTuM",
+    "uploader": "Lynyrd Skynyrd",
+    "audio_file": "corpus/01_music_videos_audio/audio/0LwcvjNJTuM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 17612322,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.480406,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:11:06Z"
+  },
+  "status": "success",
+  "error": null
+}

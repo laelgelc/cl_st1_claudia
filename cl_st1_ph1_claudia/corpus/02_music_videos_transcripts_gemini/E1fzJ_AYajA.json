@@ -1,0 +1,38 @@
+{
+  "corpus_id": "E1fzJ_AYajA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/E1fzJ_AYajA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/E1fzJ_AYajA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/E1fzJ_AYajA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I was lying on the grass of Sunday morning of last week, Indulging in myself to feet. My mind was far the least, but my thoughts twisted on beat, A comfortable three feet deep. Now the fuzzy stare from not being there, A confusing morning week. Impair my driver, balloon speed. And of course you can't become if you only say what you would have done, So I missed a million miles of fun. I know it's all for me, (If you steal my sunshine) Making sure I'm not in too deep, (If you steal my sunshine) Keep inverted on my feet. (If you steal my sunshine) Yo. What the heck was that? That's a little unfair. I was frying on the bench, sliding power across the street, L-A-T-E-R that week. My sticky pads replace the stars on big plastic trees, An incredible light for free. Now the funny glance from paying me tear in staring hungry, Involved in an unusual feat. And I'm not only in my mind, but I invite who want to come, So I missed a million miles of fun. I know it's all for me, (If you steal my sunshine) Making sure I'm not in too deep, (If you steal my sunshine) Keep inverted on my feet. (If you steal my sunshine) I know it's done for me, (If you steal my sunshine) Not some and hard to see, (If you steal my sunshine) Keep it dumb and built to beat. (If you steal my sunshine) Sunshine, if you steal my sunshine Sunshine, if you steal my sunshine Sunshine, if you steal my sunshine Sunshine, if you steal my sunshine Sunshine, if you steal my sunshine Sunshine, if you steal my sunshine Sunshine, if you steal my sunshine"
+  },
+  "metadata": {
+    "youtube_id": "E1fzJ_AYajA",
+    "title_extracted": null,
+    "corpus_id": "E1fzJ_AYajA",
+    "uploader": "LEN TV",
+    "audio_file": "corpus/01_music_videos_audio/audio/E1fzJ_AYajA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7252134,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.322845,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:26:25Z"
+  },
+  "status": "success",
+  "error": null
+}

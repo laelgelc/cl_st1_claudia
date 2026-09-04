@@ -1,0 +1,38 @@
+{
+  "corpus_id": "6Cs3Pvmmv0E",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/6Cs3Pvmmv0E.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/6Cs3Pvmmv0E.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/6Cs3Pvmmv0E.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I need no Bible\nJust look in my eyes\nI've waited so long, baby, now that we're friends\nAnd the man's got his patience and here's where my inside\n\nWell, I guess it would be nice\nIf I could touch your body\nI know not everybody\nHas got a body like you\n\nMm, but I gotta think twice\nBefore I give my heart away\nAnd I know all the games you play\n'Cause I play them, too\n\nOh, but I need some time off\nFrom that emotion\nTime to pick my heart up off the floor\nOh, when that love comes down with devotion\nWell, it takes a strong man, baby\nBut I'm showing you the door\n\n'Cause I gotta have faith\nMm, I gotta have faith\nBecause I gotta have faith, faith, faith\nI gotta have faith, faith, faith\n\nBaby\nI know you're asking me to stay\nSay please, please, please don't go away\nYou say I'm giving you the blues\nMaybe\nYou mean every word you say\nCan't help but think of yesterday\nAnd another who tied me down to loverboy rules\n\nBefore this river\nBecomes an ocean\nBefore you throw my heart back on the floor\nOh, baby, I'll reconsider\nMy foolish notion\nWell, I need someone to hold me\nBut I'll wait for something more\n\nYes, I gotta have faith\nMm, I gotta have faith\nBecause I gotta have faith, faith, faith\nI gotta have faith, faith, faith\n\nJust set to wait\nBecause I gotta have faith\nI gotta have faith\nFaith\n\nBefore this river\nBecomes an ocean\nBefore you throw my heart back on the floor\nOh, baby, I'll reconsider\nMy foolish notion\nWell, I need someone to hold me\nBut I'll wait for something more\n\n'Cause I gotta have faith\nMm, I gotta have faith\nBecause I gotta have faith, faith, faith\nI gotta have faith, faith, faith"
+  },
+  "metadata": {
+    "youtube_id": "6Cs3Pvmmv0E",
+    "title_extracted": null,
+    "corpus_id": "6Cs3Pvmmv0E",
+    "uploader": "George Michael",
+    "audio_file": "corpus/01_music_videos_audio/audio/6Cs3Pvmmv0E.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7141422,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.701383,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:57:33Z"
+  },
+  "status": "success",
+  "error": null
+}

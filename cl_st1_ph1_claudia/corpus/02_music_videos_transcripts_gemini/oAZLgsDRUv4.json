@@ -1,0 +1,38 @@
+{
+  "corpus_id": "oAZLgsDRUv4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oAZLgsDRUv4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/oAZLgsDRUv4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/oAZLgsDRUv4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Billy Ray was a preacher's son And when his daddy would visit he'd come along When they gathered round and started talkin' That's when Billy would take me walkin' Out through the backyard we'd go walkin' Then he'd look into my eyes Lord knows to my surprise The only one who could ever reach me Was the son of a preacher man The only boy who could ever teach me Was the son of a preacher man Yes, he was He was Mmm, yes, he was Being good isn't always easy No matter how hard I tried When he started sweet-talkin' to me He'd come and tell me everything is alright He'd kiss and tell me everything is alright Can I get away again tonight? The only one who could ever reach me Was the son of a preacher man The only boy who could ever teach me Was the son of a preacher man Yes, he was He was Lord knows he was Yes, he was How well I remember The look that was in his eyes Stealin' kisses from me on the sly Takin' time to make time Tellin' me that he's all mine Learnin' from each other's knowin' Lookin' to see how much we've grown And the only one who could ever reach me Was the son of a preacher man The only boy who could ever teach me Was the son of a preacher man Yes, he was He was Oh, yes, he was He was a sweet-talkin' son of a preacher man Sweet-talkin' son of a preacher man Ah, kissin' son of a preacher man Sweet-talkin' son of a preacher man Sweet-talkin' son of a preacher man Sweet-talkin' son of a preacher man Sweet-talkin' son of a preacher man"
+  },
+  "metadata": {
+    "youtube_id": "oAZLgsDRUv4",
+    "title_extracted": null,
+    "corpus_id": "oAZLgsDRUv4",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/oAZLgsDRUv4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4775588,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.128022,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:01:35Z"
+  },
+  "status": "success",
+  "error": null
+}

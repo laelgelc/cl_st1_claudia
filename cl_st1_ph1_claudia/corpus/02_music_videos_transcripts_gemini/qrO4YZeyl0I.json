@@ -1,0 +1,38 @@
+{
+  "corpus_id": "qrO4YZeyl0I",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/qrO4YZeyl0I.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/qrO4YZeyl0I.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/qrO4YZeyl0I.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Oh, oh-oh-oh-oh\nCaught in a bad romance\nOh, oh-oh-oh-oh\nCaught in a bad romance\n\nRah, rah-ah-ah-ah\nRoma, Roma-ma\nGaga, ooh la-la\nWant your bad romance\n\nRah, rah-ah-ah-ah\nRoma, Roma-ma\nGaga, ooh la-la\nWant your bad romance\n\nI want your ugly, I want your disease\nI want your everything as long as it's free\nI want your love\nLove, love, love, I want your love\n\nI want your drama, the touch of your hand\nI want your leather-studded kiss in the sand\nI want your love\nLove, love, love, I want your love\n\nYou know that I want you\nAnd you know that I need you\nI want it bad, your bad romance\n\nI want your love, and I want your revenge\nYou and me could write a bad romance\nI want your love, and all your lover's revenge\nYou and me could write a bad romance\n\nOh, oh-oh-oh-oh\nCaught in a bad romance\nOh, oh-oh-oh-oh\nCaught in a bad romance\n\nRah, rah-ah-ah-ah\nRoma, Roma-ma\nGaga, ooh la-la\nWant your bad romance\n\nI want your horror, I want your design\n'Cause you're a criminal as long as you're mine\nI want your love\nLove, love, love, I want your love\n\nI want your psycho, your vertigo stick\nWant you in my rear window, baby, you're sick\nI want your love\nLove, love, love, I want your love\n\nYou know that I want you (('Cause I'm a free bitch, baby))\nAnd you know that I need you\nI want it bad, your bad romance\n\nI want your love, and I want your revenge\nYou and me could write a bad romance\nI want your love, and all your lover's revenge\nYou and me could write a bad romance\n\nOh, oh-oh-oh-oh\nCaught in a bad romance\nOh, oh-oh-oh-oh\nCaught in a bad romance\n\nRah, rah-ah-ah-ah\nRoma, Roma-ma\nGaga, ooh la-la\nWant your bad romance\n\nWalk, walk, fashion, baby, work it, move that bitch crazy\nWalk, walk, fashion, baby, work it, move that bitch crazy\nWalk, walk, fashion, baby, work it, move that bitch crazy\nWalk, walk, fashion, baby, work it, I'm a free bitch, baby\n\nI want your love, and I want your revenge\nI want your love, I don't wanna be friends\nJ'veux ton amour, et je veux ton revenge\nJ'veux ton amour, I don't wanna be friends\n\nOh, I don't wanna be friends\nWant your bad romance\nWant your bad romance\nWant your bad romance\n\nI want your love, and I want your revenge\nYou and me could write a bad romance\nI want your love, and all your lover's revenge\nYou and me could write a bad romance\n\nOh, oh-oh-oh-oh, want your bad romance\nCaught in a bad romance\nWant your bad romance\nOh, oh-oh-oh-oh, want your bad romance\nCaught in a bad romance\n\nRah, rah-ah-ah-ah\nRoma, Roma-ma\nGaga, ooh la-la\nWant your bad romance"
+  },
+  "metadata": {
+    "youtube_id": "qrO4YZeyl0I",
+    "title_extracted": null,
+    "corpus_id": "qrO4YZeyl0I",
+    "uploader": "Lady Gaga",
+    "audio_file": "corpus/01_music_videos_audio/audio/qrO4YZeyl0I.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9869860,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.5432,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:19:03Z"
+  },
+  "status": "success",
+  "error": null
+}

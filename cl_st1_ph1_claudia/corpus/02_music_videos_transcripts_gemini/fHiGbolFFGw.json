@@ -1,0 +1,38 @@
+{
+  "corpus_id": "fHiGbolFFGw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/fHiGbolFFGw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/fHiGbolFFGw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/fHiGbolFFGw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Please could you stop the noise, I'm trying to get some rest From all the unborn chicken voices in my head  What's that? I'm a paranoid android What's that? I'm a paranoid android  When I am king, you will be first against the wall With your opinion which is of no consequence at all  What's that? I'm a paranoid android What's that? I'm a paranoid android  Ambition makes you look pretty ugly Kicking, squealing Gucci little piggy  You don't remember, you don't remember Why don't you remember my name? Off with his head, man, off with his head, man Why don't you remember my name? I guess he does  Ooh Ah Oh  Rain down, rain down Come on, rain down on me From a great height, from a great height, height Rain down, rain down Come on, rain down on me From a great height, from a great height, height  That's it, sir, yeah The crack The dust and the screams The panic, the vomit The panic, the vomit God loves his children God loves his children, yeah"
+  },
+  "metadata": {
+    "youtube_id": "fHiGbolFFGw",
+    "title_extracted": null,
+    "corpus_id": "fHiGbolFFGw",
+    "uploader": "Radiohead",
+    "audio_file": "corpus/01_music_videos_audio/audio/fHiGbolFFGw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 12564860,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 11.257987,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:59:10Z"
+  },
+  "status": "success",
+  "error": null
+}

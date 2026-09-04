@@ -1,0 +1,38 @@
+{
+  "corpus_id": "6ZWoJ8_75Mo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/6ZWoJ8_75Mo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/6ZWoJ8_75Mo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/6ZWoJ8_75Mo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "One, two, three, four, five, six! Roadrunner, roadrunner Going faster miles an hour Gonna drive past the Stop 'n' Shop With the radio on I'm in love with Massachusetts And the neon when it's cold outside And the highway when it's late at night Got the radio on, I'm like... All right I'm in love with modern moonlight 128 when it's dark outside I'm in love with Massachusetts I'm in love with the radio on It helps me from being alone late at night Helps me from being lonely late at night I don't feel so bad now with the car Don't feel so alone with the radio on Like the roadrunner That's right Driving past the spirit of 1956 Patient in the bushes next to 57 The highway is your girlfriend as you go by quick Suburban trees, go speed along Smells like modern sound, I say roadrunner once Roadrunner twice I'm in love with rock and roll and I'm out on the roadrunner That's right Oh Well now... Roadrunner, roadrunner Going faster miles an hour Gonna drive past the Stop 'n' Shop With the radio on at night And be in love with modern moonlight Be in love with modern rock and roll Modern girls and modern rock and roll Don't feel so lonely with the radio on Like the roadrunner. Okay, now what do you say about lovers? (Radio on!) I got the AM! (Radio on!) Got the car, got the AM! (Radio on!) Got the AM sound, got the... (Radio on!) Got the rock and roll modern neon sound! (Radio on!) I got the car for Massachusetts, got the... (Radio on!) I got the power of Massachusetts when it's late at night-a! (Radio on!) I got the modern sounds of modern Massachusetts! (Radio on!) I got the, I got the world, got the turnpike, got the... (Radio on!) I got the, I got the power of the AM, got the... (Radio on!) Late at night, little white rock and roll, late at night! (Radio on!) Factories, neon signs, I got the power of the modern sound! (Radio on!) All right! (Radio on!) Right Bye-bye"
+  },
+  "metadata": {
+    "youtube_id": "6ZWoJ8_75Mo",
+    "title_extracted": null,
+    "corpus_id": "6ZWoJ8_75Mo",
+    "uploader": "Antonio",
+    "audio_file": "corpus/01_music_videos_audio/audio/6ZWoJ8_75Mo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7877030,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.667844,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:38:26Z"
+  },
+  "status": "success",
+  "error": null
+}

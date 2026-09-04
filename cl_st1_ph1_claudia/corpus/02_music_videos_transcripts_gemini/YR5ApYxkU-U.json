@@ -1,0 +1,38 @@
+{
+  "corpus_id": "YR5ApYxkU-U",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/YR5ApYxkU-U.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/YR5ApYxkU-U.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/YR5ApYxkU-U.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Yes, you! Stand still, laddie! When we grew up and went to school, there were certain teachers who would hurt the children any way they could. By pouring their derision upon anything we did, exposing every weakness however carefully hidden by the kids. What have we here, laddie? Mysterious scribblings? A secret code? No, poems no less! Poems, everybody! The laddie reckons himself a poet! \"Money, get back. I'm all right, Jack. Keep your hands off my stack. New car, caviar, four star daydream, think I'll buy me a football team.\" Absolute rubbish, laddie! Get on with your work! Repeat after me: An acre is the area of a rectangle whose length is one furlong and whose width is one chain... If you don't eat your meat, you can't have any pudding! We don't need no education. We don't need no thought control. No dark sarcasm in the classroom. Teacher, leave them kids alone. Hey, teacher, leave them kids alone! All in all, it's just a another brick in the wall. All in all, you're just another brick in the wall. We don't need no education. If you don't eat your meat, you can't have any pudding! We don't need no thought control. How can you have any pudding if you don't eat your meat? No dark sarcasm in the classroom. Yes, you, laddie! Poems, everybody! The laddie reckons himself a poet. Teacher, leave those kids alone. Hey, teacher, leave those kids alone! All in all, you're just another brick in the wall. All in all, you're just another brick in the wall. We don't need no education. Hey! Teacher! No dark sarcasm in the classroom. Teacher, leave those kids alone. Again! An acre is the area of a rectangle whose length is one furlong and whose width is one chain..."
+  },
+  "metadata": {
+    "youtube_id": "YR5ApYxkU-U",
+    "title_extracted": null,
+    "corpus_id": "YR5ApYxkU-U",
+    "uploader": "mongchilde",
+    "audio_file": "corpus/01_music_videos_audio/audio/YR5ApYxkU-U.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11526092,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.592057,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:13:40Z"
+  },
+  "status": "success",
+  "error": null
+}

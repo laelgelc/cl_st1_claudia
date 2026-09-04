@@ -1,0 +1,38 @@
+{
+  "corpus_id": "v124f0i0Xh4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/v124f0i0Xh4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/v124f0i0Xh4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/v124f0i0Xh4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Good evening, ladies and gentlemen. And I shall do for you first a song that I first recorded, number one, it was a fairly nice hit, and it went quite high in the American charts. The title of it is \"Maybellene\". Oh, Maybellene, why can't you be true? Oh, Maybellene, why can't you be true? You started back doing the things you used to do. As I was motivatin' over the hill, I saw Maybellene in a Coup de Ville. Cadillac rollin' on open road, nothing outrun my V8 Ford. Cadillac doin' about ninety-five, bumper to bumper, side by side. Maybellene, why can't you be true? Oh, Maybellene, why can't you be true? You started back doing the things you used to do. Cadillac pulled up to a hundred and four, Ford got hot, wouldn't do no more. Clouds got dark, started to rain, blew my horn for the passing lane. Rain water blowin' all under my hood, but I knew I was doing my motor good. Maybellene, why can't you be true? Oh, Maybellene, why can't you be true? You started back doing the things you used to do. Ow! Oh, Maybellene, why can't you be true? Oh, Maybellene, why can't you be true? You started back doing the things you used to do. Motor cooled down, the heat went down, that's when I heard that highway sound. Cadillac sittin' like a ton of lead, hundred and ten half a mile ahead. Cadillac look like sittin' still, and I caught Maybellene at the top of the hill. Maybellene, why can't you be true? Oh, Maybellene, why can't you be true? You started back doing the things you used to do."
+  },
+  "metadata": {
+    "youtube_id": "v124f0i0Xh4",
+    "title_extracted": null,
+    "corpus_id": "v124f0i0Xh4",
+    "uploader": "marcelo cavalcante",
+    "audio_file": "corpus/01_music_videos_audio/audio/v124f0i0Xh4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7086436,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.57032,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:10:05Z"
+  },
+  "status": "success",
+  "error": null
+}

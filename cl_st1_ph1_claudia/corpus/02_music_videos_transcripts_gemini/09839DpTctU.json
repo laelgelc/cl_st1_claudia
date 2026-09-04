@@ -1,0 +1,38 @@
+{
+  "corpus_id": "09839DpTctU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/09839DpTctU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/09839DpTctU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/09839DpTctU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "On a dark desert highway \nCool wind in my hair \nWarm smell of colitas \nRising up through the air \nUp ahead in the distance \nI saw a shimmering light \nMy head grew heavy and my sight grew dim \nI had to stop for the night \n\nThere she stood in the doorway \nI heard the mission bell \nAnd I was thinking to myself \n\"This could be Heaven or this could be Hell\" \nThen she lit up a candle \nAnd she showed me the way \nThere were voices down the corridor \nI thought I heard them say \n\nWelcome to the Hotel California \nSuch a lovely place (such a lovely place) \nSuch a lovely face \nPlenty of room at the Hotel California \nAny time of year (any time of year) \nYou can find it here \n\nHer mind is Tiffany-twisted \nShe got the Mercedes-Benz, oh \nShe got a lot of pretty, pretty boys \nThat she calls friends \nHow they dance in the courtyard \nSweet summer sweat \nSome dance to remember \nSome dance to forget \n\nSo I called up the Captain \n\"Please bring me my wine\" \nHe said, \"We haven't had that spirit here since 1969\" \nAnd still those voices are calling from far away \nWake you up in the middle of the night \nJust to hear them say \n\nWelcome to the Hotel California \nSuch a lovely place (such a lovely place) \nSuch a lovely face \nThey're livin' it up at the Hotel California \nWhat a nice surprise (what a nice surprise) \nBring your alibis \n\nMirrors on the ceiling \nThe pink champagne on ice \nAnd she said, \"We are all just prisoners here of our own device\" \nAnd in the master's chambers \nThey gathered for the feast \nThey stab it with their steely knives \nBut they just can't kill the beast \n\nLast thing I remember \nI was running for the door \nI had to find the passage back \nTo the place I was before \n\"Relax,\" said the night man \n\"We are programmed to receive\" \n\"You can check out any time you like\" \n\"But you can never leave\""
+  },
+  "metadata": {
+    "youtube_id": "09839DpTctU",
+    "title_extracted": null,
+    "corpus_id": "09839DpTctU",
+    "uploader": "Eagles",
+    "audio_file": "corpus/01_music_videos_audio/audio/09839DpTctU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 12951984,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 32.665458,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:06:31Z"
+  },
+  "status": "success",
+  "error": null
+}

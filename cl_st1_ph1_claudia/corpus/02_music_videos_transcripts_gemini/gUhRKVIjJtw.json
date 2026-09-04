@@ -1,0 +1,38 @@
+{
+  "corpus_id": "gUhRKVIjJtw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/gUhRKVIjJtw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/gUhRKVIjJtw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/gUhRKVIjJtw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Hello, welcome to the Bad Boy World Champion PGA Tour. I'm your host for today, Mase Gumble. With this last birdie right here, Puffy Woods win the champion from the three-time champion, Fuzzy Zoeller. Silence audience. I think his pants are a little too tight, and he really has a wedgie.  He's unstoppable.  I don't know what they want from me, it's like the more money we come across, the more problems we see. I don't know what they want from me, it's like the more money we come across, the more problems we see.  Now, who hot, who not? Tell me who rock, who sell out in the stores? You tell me who flop, who cop the blue drop? Who jewels got bought? Who most likely to cash drop? Same old pimp, Mase, you know ain't nothing changed but my limp Can't stop, till I see my name on the blimp Guarantee a million sales, call it love-love You don't believe in Harlem World, nigga, double up We don't play around, it's a bet, lay it down Niggas didn't know me '91, bet they know me now I'm the young Harlem nigga with the goldy sound Can't no PGA nigga hold me down Could've schooled me to the game, now I know my duty Stay humble, stay low blow like Hootie True pimp, niggas spend no dough on a booty Damn, yell \"there go Mase, there go your cutie\"  I don't know what they want from me, it's like the more money we come across, the more problems we see. Yeah, yeah, ah-ha. I don't know what they want from me, it's like the more money we come across, the more problems we see.  Woo! Yes! Yeah! Hello, we're here with the winner, Puffy Woods. He have just won the Bad Boy Golf Tournament. How do you feel about winning this PGA? Ah man, well I had I was having some trouble on the 17th hole. But my man B.I.G. from up above came down, talked to me, told me to cool out. And I did it. I did it for B.I.G. I guess this mean I guess this mean more money, more problems for you. Yeah, I guess so. More money, more problems. It's just the way it is. Hey, we're coming back to you, Billy.  I speed for the '80s, B.Y. know you rather see me die than to see me fly I call all the shots, rip all the spots, rock all the rocks, cop all the drops I know you thinking now when all the balling stops Nigga never home, got to call me on the yacht 10 years from now we'll still be on top Yo, I thought I told you that we won't stop Now what you gonna do with a crew that got money much longer than yours? And a team much stronger than yours? Violate me, this'll be your day We don't play, mess around be D.O.A. Be on your way, cause it ain't enough time here Ain't enough shine here for you to shine here Deal with many women, but treat dimes fair And I'm bigger than the city lights down in Times Square, yeah, yeah, yeah  I don't know what they want from me, it's like the more money we come across, the more problems we see. I don't know what they want from me, it's like the more money we come across, the more problems we see.  That's real, yo. I ain't exaggerate at all, man. The more money you make, the more problems you get. And jealousy and envy is is something that comes with the territory, man. A lot of people, it's just negative energy, like my man Puff say.  B.I.G., P-O-P-P-A, no info for the D.E.A. Federal agents mad cause I'm flagrant, tap my cell and the phone in the basement My team supreme, stay clean, Triple B miracle dream, I be that Can't you see at all of events bent, gats in holsters, girls on shoulders Playboy, I told you, mere mics to touch, bruise too much, I lose too much Step on stage, the girls do too much, I guess it's cause you run with lame dudes too much Me lose my touch? Never that! If I did, ain't no problem to get the gap with a true player's hat Throw your Rollies in the sky, wave them side to side And keep your hands high while I give your girl the eye Player please, lyrically, niggas see, B.I.G. be flossing, Jig on the cover of Fortune 500, that's my phone number, your man ain't got to know I got the dough, got the flow down pat, Platinum plus, night is like that Dangerous, on trisats, see your ass fizzat  I don't know what they want from me, it's like the more money we come across, the more problems we see. I don't know what they want from me, it's like the more money we come across, the more problems we see. I don't know what they want from me, it's like the more money we come across, the more problems we see. Yeah, what's going on? Somebody tell me what's going on, I don't know. I don't know what they want from me, it's like the more money we come across, the more problems we see. I don't know what they want from me, it's like the more money we come across, the more problems we see. I don't know what they want from me, it's like the more money we come across, the more problems we see."
+  },
+  "metadata": {
+    "youtube_id": "gUhRKVIjJtw",
+    "title_extracted": null,
+    "corpus_id": "gUhRKVIjJtw",
+    "uploader": "The Notorious B.I.G.",
+    "audio_file": "corpus/01_music_videos_audio/audio/gUhRKVIjJtw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11127824,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.915175,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:06:30Z"
+  },
+  "status": "success",
+  "error": null
+}

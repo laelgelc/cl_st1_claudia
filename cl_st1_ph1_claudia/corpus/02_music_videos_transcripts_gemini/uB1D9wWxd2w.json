@@ -1,0 +1,38 @@
+{
+  "corpus_id": "uB1D9wWxd2w",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uB1D9wWxd2w.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/uB1D9wWxd2w.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/uB1D9wWxd2w.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Oh, yeah. Well, I gotta tell you so, but I guess you didn't know. As the sad story goes, baby, now I got the flow. 'Cause I knew it from the start, maybe when you broke my heart, that I had to come again and show you that I'll win. You're lying to me. All those times I said that I love you. You're lying to me. Yes, I tried, yes, I tried. You're lying to me. Even though you know I'd die for you. You're lying to me. Yes, I cried, yes, I cried. Return of the Mack. Here it is. Return of the Mack. Hold on. Return of the Mack. Oh, my God. You know that I'd be back. Here I am. Return of the Mack. Once again. Return of the Mack. Top of the world. Return of the Mack. Watch my flow. You know that I'd be back. Here I go. So I'm back up in the game, running things to keep my swing, letting all the people know that I'm back to run the show. 'Cause what you did to me was wrong and all the nasty things you've done. So baby, listen carefully while I sing my comeback song. You're lying to me. 'Cause she said she'd never turn on me. You're lying to me. But you did, but you did. You're lying to me. All this pain you said I'd never feel. You're lying to me. But I do, but I do, do, do. Return of the Mack. Here it is. Return of the Mack. Hold on. Return of the Mack. Don't you know? You know that I'd be back. Here I am. Return of the Mack. Oh, little girl. Return of the Mack. Want my crown? Return of the Mack. Up and down. You know that I'd be back. Round and round. Ah. Come on. Stop lying about your big break. For God's sake, I need a real man. Ah. Stop putting me down. Stop putting me down. You're lying to me. 'Cause she said she'd never turn on me. You're lying to me. But you did, but you did. You're lying to me. All this pain you said I'd never feel. You're lying to me. But I do, but I do, do, do. Return of the Mack. Here it is. Return of the Mack. Come on. Return of the Mack. Oh, my God. You know that I'd be back. Here I am. Return of the Mack. Once again. Return of the Mack. Top of the world. Return of the Mack. Watch my flow. You know that I'd be back. Don't you know? Return of the Mack. Here it is. Return of the Mack. Hold on. Return of the Mack. Reach for the top. You know that I'd be back. Here I go. Return of the Mack. My little girl. Return of the Mack. Want my crown? Return of the Mack. Up and down. You know that I'd be back. Round and round."
+  },
+  "metadata": {
+    "youtube_id": "uB1D9wWxd2w",
+    "title_extracted": null,
+    "corpus_id": "uB1D9wWxd2w",
+    "uploader": "Mark Morrison",
+    "audio_file": "corpus/01_music_videos_audio/audio/uB1D9wWxd2w.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7235044,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.785718,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:57:29Z"
+  },
+  "status": "success",
+  "error": null
+}

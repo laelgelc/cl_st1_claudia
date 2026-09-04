@@ -1,0 +1,38 @@
+{
+  "corpus_id": "My2FRPA3Gf8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/My2FRPA3Gf8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/My2FRPA3Gf8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/My2FRPA3Gf8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "We clawed, we chained, our hearts in vain We jumped, never asking why We kissed, I fell under your spell A love no one could deny Don't you ever say I just walked away I will always want you I can never live a lie, running for my life I will always want you I came in like a wrecking ball I never hit so hard in love All I wanted was to break your walls All you ever did was wreck me Yeah, you, you wreck me I put you high up in the sky And now, you're not coming down It's slowly turned, you let me burn And now, we're ashes on the ground Don't you ever say I just walked away I will always want you I can never live a lie, running for my life I will always want you I came in like a wrecking ball I never hit so hard in love All I wanted was to break your walls All you ever did was wreck me I came in like a wrecking ball Yeah, I just closed my eyes and swung Left me crashing in a blazing fall All you ever did was wreck me Yeah, you, you wreck me I never meant to start a war I just wanted you to let me in And instead of using force I guess I should've let you win I never meant to start a war I just wanted you to let me in I guess I should've let you win Don't you ever say I just walked away I will always want you I came in like a wrecking ball I never hit so hard in love All I wanted was to break your walls All you ever did was wreck me I came in like a wrecking ball Yeah, I just closed my eyes and swung Left me crashing in a blazing fall All you ever did was wreck me Yeah, you, you wreck me Yeah, you, you wreck me"
+  },
+  "metadata": {
+    "youtube_id": "My2FRPA3Gf8",
+    "title_extracted": null,
+    "corpus_id": "My2FRPA3Gf8",
+    "uploader": "MILEY",
+    "audio_file": "corpus/01_music_videos_audio/audio/My2FRPA3Gf8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7081978,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.003387,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:43:49Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Itn438i30hk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Itn438i30hk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Itn438i30hk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Itn438i30hk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Now with a great background, the Supremes open with You Can't Hurry Love and then go into a medley of their big hit songs. So let's have a fine welcome for the Supremes. I need love, love to ease my mind I need to find, find someone to call my own But mama said you can't hurry love No, you just have to wait She said love don't come easy It's a game of give and take You can't hurry love No, you just have to wait She said trust, give it time No matter how long it takes My lonely heart must start aching Before I find a love to make it Right now the only thing that keeps me hanging on When I feel my strength, yeah, it's almost gone I remember mama said No, you just have to wait She said love don't come easy It's a game of give and take How much more must I wait How much more can I take Before loneliness will cause my heart, heart to break No, I can't bear to live my life alone I grow impatient for a love to call my own But when I feel that I, I can't go on These precious words keep me hanging on I remember mama said No, you just have to wait She said love don't come easy It's a game of give and take You can't hurry love No, you just have to wait She said love don't come easy It's a game of give and take All right! No, love, love don't come easy But I keep on waiting Anticipating for that soft voice To talk to me at night For some tender arms to hold me tight I keep waiting Ooh, give and take But it ain't easy (love don't come easy) It ain't easy But mama said you can't hurry love No, you just have to wait She said love don't come easy It's a game of give and take You can't hurry love No, you just have to wait She said trust, give it time No matter how long it takes You can't hurry love Love"
+  },
+  "metadata": {
+    "youtube_id": "Itn438i30hk",
+    "title_extracted": null,
+    "corpus_id": "Itn438i30hk",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/Itn438i30hk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5754168,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.337592,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:08:15Z"
+  },
+  "status": "success",
+  "error": null
+}

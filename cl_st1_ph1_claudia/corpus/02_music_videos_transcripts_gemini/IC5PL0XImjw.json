@@ -1,0 +1,38 @@
+{
+  "corpus_id": "IC5PL0XImjw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/IC5PL0XImjw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/IC5PL0XImjw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/IC5PL0XImjw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Listen baby, ain't no mountain high, ain't no valley low, ain't no river wide enough baby. If you need me, call me no matter where you are, no matter how far. Don't worry baby, just call my name, I'll be there in a hurry. You don't have to worry, cause baby there ain't no mountain high enough, ain't no valley low enough, ain't no river wide enough, to keep me from getting to you baby. Remember the day I set you free, I told you you could always count on me darling. From that day on, I made a vow I'll be there when you want me, someday, somehow. Oh baby, there ain't no mountain high enough, ain't no valley low enough, ain't no river wide enough to keep me from getting to you baby. Oh no, darling. No wind, no rain or winter's cold can't stop me baby. No, no baby, cause you are my goal. If you're ever in trouble, I'll be there on the double. Just send for me, oh baby, ha. My love is alive down in my heart, although we are miles apart. If you ever need a helping hand, I'll be there on the double as fast as I can. Don't you know that there ain't no mountain high enough, ain't no valley low enough, ain't no river wide enough to keep me from getting to you baby. Don't you know that there ain't no mountain high enough, ain't no valley low enough, ain't no river wide enough, ain't no mountain high enough. I think as far back as I can remember hearing music and hearing people sing and perform, I just knew that it's what I wanted to do, so I started singing in church."
+  },
+  "metadata": {
+    "youtube_id": "IC5PL0XImjw",
+    "title_extracted": null,
+    "corpus_id": "IC5PL0XImjw",
+    "uploader": "Doc Rudy | Soul Studios",
+    "audio_file": "corpus/01_music_videos_audio/audio/IC5PL0XImjw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5225126,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.970915,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:15:11Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "9J3lwZjHenA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/9J3lwZjHenA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/9J3lwZjHenA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/9J3lwZjHenA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Party people Party people Can y'all get funky? Soul Sonic Force, can y'all get funky? The Zulu Nation, can y'all get funky? Yeah, just hip hop Just hip hop and hip hop Just get on down and hip hop Bad brothers getting so funky and hip hop Yeah, just hip hop Got to taste your dreams about to see Make your body sway Socialize, get down Let your ego lead the way Shake it now Go ladies, it's a living dream Love, life, live The game, our world is free Do what you want, be free Rock, rock, rock to the rhythm, rock, don't stop Rock, rock, rock to the rhythm, rock, don't stop The Soul Sonic Force Has the beat, power, and MC glory Emphasize the show we got, ego Make this your night, it's living right In our day, as the people say, live it up Just work or play, our world is free Be what you want to be Rock, rock, rock to the rhythm, rock, don't stop Rock, rock, rock to the rhythm, rock, don't stop Yo In a place where the nights are hot and nature's children dance And say they dance on Mother Earth, which is our rock The time has come and we're the ones to show you really got soul Are you ready? Pump the funk, get funk, now let's go House Rock it, don't stop it You got to rock it, don't stop it Keep digging and talking Working all around the clock Everybody keep rocking and clocking and shocking and rocking Go house Everybody say rock it, don't stop it Mr. Big Mr. Big Groove, groove Groove, groove G-L-O-B-E G-L-O-B-E The Soul Sonic Force You got to rock it and pop it 'Cause in this century There is such a place that creates such a melody Our world is modern land of a master jam Get up and dance, and chase your dream about to see Make your body sway Socialize, get down Let your ego lead the way Shake it now Go ladies, it's a living dream Love, life, live Dancing, dancing, dancing Dancing, dancing, dancing, dancing, dancing Dancing, dancing, dancing, dancing, dancing Everybody got to rock it, don't stop it You got to rock it, don't stop it You got to rock it, don't stop it You got to rock it, don't stop it You got to rock it, don't stop it You got to rock it, don't stop it You got to rock it, don't stop it You got to rock it, don't stop it You got to rock it, don't stop it You got to rock it, don't stop it"
+  },
+  "metadata": {
+    "youtube_id": "9J3lwZjHenA",
+    "title_extracted": null,
+    "corpus_id": "9J3lwZjHenA",
+    "uploader": "Tommy Boy",
+    "audio_file": "corpus/01_music_videos_audio/audio/9J3lwZjHenA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7651146,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.624297,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:02:19Z"
+  },
+  "status": "success",
+  "error": null
+}

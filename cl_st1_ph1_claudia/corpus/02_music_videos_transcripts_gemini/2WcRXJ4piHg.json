@@ -1,0 +1,38 @@
+{
+  "corpus_id": "2WcRXJ4piHg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/2WcRXJ4piHg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/2WcRXJ4piHg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/2WcRXJ4piHg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Young Chop on the beat.\nA-Iight. A-Iight.\nJimmy, baby. Jimmy, baby.\nA-Iight. A-Iight.\nSosa, baby. Sosa, baby. Sosa, baby.\nNah, you flexin', baby. Nah, you flexin'.\nFake niggas, bitch!\n\nA fake nigga, that's that shit I don't like! \nA snitch nigga, that's that shit I don't like! \nA bitch nigga, that's that shit I don't like! \nSneak disser, that's that shit I don't like! \n\nDon't like, like! Don't like, like!\nA snitch nigga, that's that shit I don't like, like!\nDon't like, like! Don't like, like!\nA bitch nigga, that's that shit I don't like!\n\nA pop bitch, that's that shit I don't like!\nI got a bad bitch, yeah, bitch, right!\nWe smoke dope, all day, all night!\nYou smoke reggie, that's that shit I don't like!\nWe got a fuckin' Audi, that bitch all white!\nPull up, skirt, your bitch, bet she goin' right!\nRight! Such a bitch, yeah, I'm fightin' on sight!\nPistol totin' and I'm shootin' on sight!\n\nA snitch nigga, that's that shit I don't like!\nYour bitch wanna do the team, bet she won't, right!\nBitch, we GBE, fuck who don't like!\nAnd we ain't gon' fight, our guns gon' fight!\n\nA fake nigga, that's that shit I don't like! \nA snitch nigga, that's that shit I don't like! \nA bitch nigga, that's that shit I don't like! \nSneak disser, that's that shit I don't like! \n\nDon't like, like! Don't like, like!\nA snitch nigga, that's that shit I don't like, like!\nDon't like, like! Don't like, like!\nA bitch nigga, that's that shit I don't like!\n\nFake Trues, that's that shit I don't like!\nFake shoes, that's that shit I don't like!\nFake niggas, that's that shit I don't like!\nStalkin' ass bitch, shit I don't like!\n\nI done got a charge sellin' on white, yeah!\nBut I will never snitch, none in my life!\nI keep this shit 300, bitch, I'm gon' ride!\nWith my niggas, when it's time to start takin' lives!\n\nPlayin' both sides, shit I don't like!\nWar time, spark broad day, all night!\nPlayin' both sides, shit I don't like!\nWar time, spark broad day, all night!\n\nA fake nigga, that's that shit I don't like! \nA snitch nigga, that's that shit I don't like! \nA bitch nigga, that's that shit I don't like! \nSneak disser, that's that shit I don't like! \n\nDon't like, like! Don't like, like!\nA snitch nigga, that's that shit I don't like, like!\nDon't like, like! Don't like, like!\nA bitch nigga, that's that shit I don't like!\n\nI'm killin' these niggas, shit that they don't like!\nBroski got the .30, he ain't tryin' to fight!\nGas your bitch, tell her in and out all night!\nFredo in the cut, that's a scary sight!\n\nMan now, do not make no sense, you can die tonight!\nI only want the top, I ain't tryin' to pipe!\nThem niggas like to talk, they be totin' pipe!\nFloatin' off a flat, I might take flight!\n\n300, bitch, we hot, we done took flight!\nTakin' shit down, we ain't like the price!\nThirsty ass bitches, shit that we don't like!\nOTF, GBE, your bitch, like! (Let's go!)\n\nA fake nigga, that's that shit I don't like! \nA snitch nigga, that's that shit I don't like! \nA bitch nigga, that's that shit I don't like! \nSneak disser, that's that shit I don't like! \n\nDon't like, like! Don't like, like!\nA snitch nigga, that's that shit I don't like, like!\nDon't like, like! Don't like, like!\nA bitch nigga, that's that shit I don't like!\n\nDon't like, like! Don't like, like!\nA snitch nigga, that's that shit I don't like, like!\nDon't like, like! Don't like, like!\nA bitch nigga, that's that shit I don't like!"
+  },
+  "metadata": {
+    "youtube_id": "2WcRXJ4piHg",
+    "title_extracted": null,
+    "corpus_id": "2WcRXJ4piHg",
+    "uploader": "DGainz",
+    "audio_file": "corpus/01_music_videos_audio/audio/2WcRXJ4piHg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9888436,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.054647,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:27:22Z"
+  },
+  "status": "success",
+  "error": null
+}

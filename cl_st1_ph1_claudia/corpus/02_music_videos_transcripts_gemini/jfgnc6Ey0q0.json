@@ -1,0 +1,38 @@
+{
+  "corpus_id": "jfgnc6Ey0q0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/jfgnc6Ey0q0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/jfgnc6Ey0q0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/jfgnc6Ey0q0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Mama mia! I never knew how complete I could be Until she kissed me and said, \"Baby, please, Go away. It feels so right Being with you here tonight. Please go away. Just hold me close. Don't ever let me go.\" And all I wanted to say When she whispered, \"I love you, so please, Go away. It feels so right Being with you here tonight. Please go away. Just hold me close. Don't ever let me go.\" Her love was cruel and mean A hole in the space where my heart should be But now I've changed Look what she's done And she says, \"Come on! Come on! Come on! Come on! Come on! Come on! I need you! I love you! I need you! Come on! Come on!\" Please go away. It feels so right Being with you here tonight. Please go away. Just hold me close. Don't ever let me go. Mama mia! Go away! Woo!"
+  },
+  "metadata": {
+    "youtube_id": "jfgnc6Ey0q0",
+    "title_extracted": null,
+    "corpus_id": "jfgnc6Ey0q0",
+    "uploader": "rockarchieve",
+    "audio_file": "corpus/01_music_videos_audio/audio/jfgnc6Ey0q0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6428848,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.981441,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:36:35Z"
+  },
+  "status": "success",
+  "error": null
+}

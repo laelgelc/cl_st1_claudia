@@ -1,0 +1,38 @@
+{
+  "corpus_id": "R7UrFYvl5TE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/R7UrFYvl5TE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/R7UrFYvl5TE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/R7UrFYvl5TE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Here's the thing, we started out friends It was cool, but it was all pretend Yeah, yeah Since you've been gone You're dedicated, you took the time Wasn't long till I called you mine Yeah, yeah Since you've been gone And all you'd ever hear me say Is how I pictured me with you That's all you'd ever hear me say But since you've been gone I can breathe for the first time I'm so moving on, yeah, yeah Thanks to you Now I get what I want Since you've been gone How can I put it? You put me on I even fell for that stupid love song Yeah, yeah Since you've been gone How come I never hear you say \"I just wanna be with you\"? Guess you never felt that way But since you've been gone I can breathe for the first time I'm so moving on, yeah, yeah Thanks to you Now I get, I get what I want You had your chance, you blew it Out of sight, out of mind Shut your mouth, I just can't take it Again and again and again and again Since you've been gone Since you've been gone I can breathe for the first time I'm so moving on, yeah, yeah Thanks to you Thanks to you Now I get, I get what I want I can breathe for the first time I'm so moving on, yeah, yeah Thanks to you Thanks to you Now I get You should know You should know That I get I get what I want Since you've been gone Since you've been gone Since you've been gone"
+  },
+  "metadata": {
+    "youtube_id": "R7UrFYvl5TE",
+    "title_extracted": null,
+    "corpus_id": "R7UrFYvl5TE",
+    "uploader": "Kelly Clarkson",
+    "audio_file": "corpus/01_music_videos_audio/audio/R7UrFYvl5TE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6139806,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.943029,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:25:36Z"
+  },
+  "status": "success",
+  "error": null
+}

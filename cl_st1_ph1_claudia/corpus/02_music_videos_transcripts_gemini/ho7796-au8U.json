@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ho7796-au8U",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ho7796-au8U.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ho7796-au8U.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ho7796-au8U.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I think this is probably the first time this record has been played on the air and it's about to be released. Is this thing called ABC? Yes. Ladies and gentlemen, would you greet... The Jackson 5! You went to school to learn, girl Things you never, never knew before Like \"A\" \"B\" \"C\", \"1\" \"2\" \"3\" What 2 plus 2 makes 4 Now I'm gonna teach you All about love, girl Sit down, take a seat All you gotta do is repeat after me A-B-C Easy as 1-2-3 Ah, simple as Do-Re-Mi A-B-C 1-2-3, baby, you and me, girl Easy as 1-2-3 Ah, simple as Do-Re-Mi A-B-C 1-2-3, baby, you and me, girl Come on, let me love you just a little bit I'm gonna teach you how to sing it out Come on, come on, come on, let me show you what it's all about Reading, writing, arithmetic Are the branches on the learning tree Listen, without my love, let me tell you, girl Your education ain't complete Teacher's gonna show you How to get an \"A\" Spell \"me\", \"you\", add the two Listen to me, baby, that's all you gotta do Oh, A-B-C It's easy as 1-2-3 Ah, simple as Do-Re-Mi A-B-C 1-2-3, baby, you and me, girl A-B-C, it's easy It's like counting up to three Sing a simple melody That's how easy love can be That's how easy love can be Sing a simple melody 1-2-3, you and me Sit down, girl! I think I love you! No! Get up, girl! Show me what you can do! Shake it, shake it, baby, come on now Shake it, shake it, baby Shake it, shake it, baby 1-2-3, baby A-B-C, baby Do-Re-Mi, baby That's how easy love can be A-B-C, it's easy It's like counting up to three Sing a simple melody That's how easy love can be I'm gonna teach you how to sing it out Come on, come on, come on, let me show you what it's all about A-B-C, it's easy It's like counting up to three Sing a simple melody That's how easy love can be I'm gonna teach you how to sing it out Come on, come on, come on, let me show you what it's all about A-B-C, it's easy It's like counting up to three Sing a simple melody That's how easy love can be I'm gonna teach you how to sing it out Sing it out, sing it out, sing it out, baby A-B-C, it's easy It's like counting up to three"
+  },
+  "metadata": {
+    "youtube_id": "ho7796-au8U",
+    "title_extracted": null,
+    "corpus_id": "ho7796-au8U",
+    "uploader": "Czikes",
+    "audio_file": "corpus/01_music_videos_audio/audio/ho7796-au8U.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6742410,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.529233,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:38:34Z"
+  },
+  "status": "success",
+  "error": null
+}

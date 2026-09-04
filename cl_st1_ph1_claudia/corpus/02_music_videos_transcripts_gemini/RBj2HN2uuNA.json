@@ -1,0 +1,38 @@
+{
+  "corpus_id": "RBj2HN2uuNA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/RBj2HN2uuNA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/RBj2HN2uuNA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/RBj2HN2uuNA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Oh yes, I'm the great pretender Pretending that I'm doing well My need is such I pretend too much I'm lonely, but no one can tell Oh yes, I'm the great pretender Adrift in a world of my own I play the game, but to my real shame You've left me to dream all alone Too real is this feeling of make believe Too real when I feel what my heart can't conceal Oh yes, I'm the great pretender Just laughing and gay like a clown I seem to be what I'm not, you see I'm wearing my heart like a crown Pretending that you're still around Too real is this feeling of make believe Too real when I feel what my heart can't conceal Oh yes, I'm the great pretender Just laughing and gay like a clown I seem to be what I'm not, you see I'm wearing my heart like a crown Pretending that you're still around"
+  },
+  "metadata": {
+    "youtube_id": "RBj2HN2uuNA",
+    "title_extracted": null,
+    "corpus_id": "RBj2HN2uuNA",
+    "uploader": "Classic Hits Studio",
+    "audio_file": "corpus/01_music_videos_audio/audio/RBj2HN2uuNA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5357386,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.831633,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:39:22Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "XPpTgCho5ZA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/XPpTgCho5ZA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/XPpTgCho5ZA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/XPpTgCho5ZA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I was so high I did not recognize the fire burning in her eyes\nThe chaos that controlled my mind\nWhispered goodbye she got on a plane, never to return again\nBut always in my heart\n\nOh, this love has taken its toll on me\nShe said goodbye too many times before\nAnd her heart is breaking in front of me\nAnd I have no choice 'cause I won't say goodbye anymore\n\nWoah... woah...\n\nI tried my best to feed her appetite\nKeep her coming every night\nSo hard to keep her satisfied\nOh, kept playing love like it was just a game\nPretending to feel the same\nThen turn around and leave again, my girl, oh\n\nThis love has taken its toll on me\nShe said goodbye too many times before\nAnd her heart is breaking in front of me\nAnd I have no choice 'cause I won't say goodbye anymore\n\nWoah... woah... woah...\n\nI'll fix these broken things\nRepair your broken wings\nAnd make sure everything's alright\n(It's alright, it's alright)\nMy pressure on your hips\nSinking my fingertips\nInto every inch of you\nBecause I know that's what you want me to do\n\nThis love has taken its toll on me\nShe said goodbye too many times before\nAnd her heart is breaking in front of me\nAnd I have no choice 'cause I won't say goodbye anymore\n\nThis love has taken its toll on me\nShe said goodbye too many times before\nAnd my heart is breaking in front of me\nShe said goodbye too many times before\n\nThis love has taken its toll on me\nShe said goodbye too many times before\nAnd her heart is breaking in front of me\nAnd I have no choice 'cause I won't say goodbye anymore"
+  },
+  "metadata": {
+    "youtube_id": "XPpTgCho5ZA",
+    "title_extracted": null,
+    "corpus_id": "XPpTgCho5ZA",
+    "uploader": "Maroon 5",
+    "audio_file": "corpus/01_music_videos_audio/audio/XPpTgCho5ZA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6570026,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.911898,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:24:26Z"
+  },
+  "status": "success",
+  "error": null
+}

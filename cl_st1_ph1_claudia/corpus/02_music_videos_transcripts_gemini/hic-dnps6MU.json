@@ -1,0 +1,38 @@
+{
+  "corpus_id": "hic-dnps6MU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hic-dnps6MU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/hic-dnps6MU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/hic-dnps6MU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I've been holding out so long\nI've been sleeping all alone\nLord, I miss you\n\nI've been hanging on the phone\nI've been sleeping all alone\nI wanna kiss you\n\nOoh, ooh, ooh, ooh, ooh, ooh, ooh\nOoh, ooh, ooh, ooh, ooh, ooh, ooh\n\nI've been haunted in my sleep\nLord, you're starring in my dreams\nI wanna kiss you\n\nI've been waiting in the hall\nWaiting for your call\nAnd the phone rings\n\nJust a friend of mine said\n\"Hey, what's the matter, man?\nWhy don't we come around at 12 o'clock with some Puerto Rican girls that are just dying to meet you?\nWe gonna bring a case of wine, you know\nWe gonna mess around like we used to\"\n\nAnd I said:\nAah, aah, aah, aah, aah, aah, aah\nAah, aah, aah, aah, aah, aah, aah\nOh, I miss you\nAah, aah, aah, aah, aah, aah, aah\nAah, aah, aah, aah, aah, aah, aah\n\nBaby, why you wait so long?\nBaby, why you wait so long?\nCome on, come on, come on\n\nI've been walking Central Park\nSinging after dark\nPeople think I'm crazy\n\nShuffling on my feet\nShuffling through the street\nCh-ch-ch-ch-ch-ch-ch-ch\n\"What's the matter with you, boy?\"\nSometimes\nSometimes\n\nI say to myself:\n\nOoh, ooh, ooh, ooh, ooh, ooh, ooh\nOoh, ooh, ooh, ooh, ooh, ooh, ooh\nAll right\n\nAah, aah, aah, aah, aah, aah, aah\nAah, aah, aah, aah, aah, aah, aah\nOoh!\nAah, aah, aah, aah, aah, aah, aah\nAah, aah, aah, aah, aah, aah, aah\n\nI guess I'm lying to myself\n'Cause it's you and no one else\nLord, I miss you, baby\nOoh, you've been messing up my mind\nYou've been wasting my time\nLord, I miss you, child\nYou've been fooling with my mind\nYou've been wasting my time\nLord, I miss you, child\n\nAah, aah, aah, aah, aah, aah, aah\nAah, aah, aah, aah, aah, aah, aah"
+  },
+  "metadata": {
+    "youtube_id": "hic-dnps6MU",
+    "title_extracted": null,
+    "corpus_id": "hic-dnps6MU",
+    "uploader": "The Rolling Stones",
+    "audio_file": "corpus/01_music_videos_audio/audio/hic-dnps6MU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8007804,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.6349,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:17:57Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "4WW4qcmrJ3E",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4WW4qcmrJ3E.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/4WW4qcmrJ3E.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/4WW4qcmrJ3E.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I hear the clock, it's 6:00 a.m. I feel so far from where I've been I got my eggs and my pancakes, too Got the maple syrup, everything but you I break the yolks and make a smiley face I kind of like it in my brand new place I wipe the spots up off the mirror, don't leave the keys in the door I never put wet towels on the floor anymore, cause Dreams last for so long Even after you're gone I know you love me and soon you will see you were meant for me and I was meant for you I called my mama, she was out for a walk Poured a cup of coffee, but I didn't want to talk, so I picked up the paper, it was more bad news More hearts being broken, more people being used Put on my coat in the pouring rain I saw a movie, it just wasn't the same, cause it was heavy, I was sad and it made me miss you oh so bad, cause Dreams last for so long Even after you're gone I know you love me and soon you will see you were meant for me and I was meant for you I go about my business, I'm doing fine Besides, what would I say if I had you on the line? Same old story, not much to say Hearts are broken every day I brush my teeth and put the cap back on I know you hate it when I leave the light on I pick up a book and turn the sheets down and take a deep breath and a good luck charm, put on my pajamas and hop into bed I'm half alive, but I feel mostly dead I try and tell myself it'll be alright, I shouldn't think anyway tonight, cause Dreams last for so long Even after you're gone I know you love me and soon I know you will see you were meant for me and I was meant for you Yeah, you were meant for me and I was meant for you"
+  },
+  "metadata": {
+    "youtube_id": "4WW4qcmrJ3E",
+    "title_extracted": null,
+    "corpus_id": "4WW4qcmrJ3E",
+    "uploader": "Jewel",
+    "audio_file": "corpus/01_music_videos_audio/audio/4WW4qcmrJ3E.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7207552,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.326425,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:02:17Z"
+  },
+  "status": "success",
+  "error": null
+}

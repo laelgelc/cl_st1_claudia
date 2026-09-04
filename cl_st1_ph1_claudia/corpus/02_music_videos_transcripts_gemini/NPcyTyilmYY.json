@@ -1,0 +1,38 @@
+{
+  "corpus_id": "NPcyTyilmYY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/NPcyTyilmYY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/NPcyTyilmYY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/NPcyTyilmYY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I want you to know that I'm happy for you. I wish nothing but the best for you both. An older version of me, is she perverted like me? Would she go down on you in a theater? Does she speak eloquently and would she have your baby? I'm sure she'd make an excellent mother. 'Cause the love that you gave that we made wasn't able to make it enough for you to be open wide, no. And every time you speak her name, do you know how you told me you'd hold me until you died, till you died? But you're still alive and I'm here to remind you of the mess you left when you went away. It's not fair to deny me of the cross I bear that you gave to me, you, you, you oughta know. You seem very well, things look peaceful. I'm not quite as well, I thought you should know. Did you forget about me, Mr. Duplicity? I hate to bug you in the middle of dinner. It was a slap in the face how quickly I was replaced, and are you thinking of me when you fuck her? 'Cause the love that you gave that we made wasn't able to make it enough for you to be open wide, no. And every time you speak her name, do you know how you told me you'd hold me until you died, till you died? But you're still alive and I'm here to remind you of the mess you left when you went away. It's not fair to deny me of the cross I bear that you gave to me, you, you, you oughta know. 'Cause the joke that you laid in the bed that was made and I'm not gonna fade as soon as you close your eyes, and you know it. And every time I scratch my nails down someone else's back I hope you feel it, well can you feel it? Well, I'm here to remind you of the mess you left when you went away. It's not fair to deny me of the cross I bear that you gave to me, you, you, you oughta know. I'm here to remind you of the mess you left when you went away. It's not fair to deny me of the cross I bear that you gave to me, you, you, you oughta know."
+  },
+  "metadata": {
+    "youtube_id": "NPcyTyilmYY",
+    "title_extracted": null,
+    "corpus_id": "NPcyTyilmYY",
+    "uploader": "Alanis Morissette",
+    "audio_file": "corpus/01_music_videos_audio/audio/NPcyTyilmYY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8095484,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.659115,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:46:32Z"
+  },
+  "status": "success",
+  "error": null
+}

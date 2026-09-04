@@ -1,0 +1,38 @@
+{
+  "corpus_id": "QkF3oxziUI4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/QkF3oxziUI4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/QkF3oxziUI4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/QkF3oxziUI4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "There's a lady who's sure all that glitters is gold and she's buying a stairway to heaven When she gets there she knows if the stores are all closed with a word she can get what she came for Oh, oh and she's buying a stairway to heaven There's a sign on the wall, but she wants to be sure 'cause you know sometimes words have two meanings In a tree by the brook, there's a songbird who sings Sometimes all of our thoughts are misgiven Ooh, it makes me wonder Ooh, makes me wonder There's a feeling I get when I look to the west and my spirit is crying for leaving In my thoughts I have seen rings of smoke through the trees and the voices of those who stand looking Ooh, it makes me wonder Ooh, really makes me wonder And it's whispered that soon if we all call the tune then the piper will lead us to reason And a new day will dawn for those who stand long and the forests will echo with laughter Oh, oh, oh, oh, oh If there's a bustle in your hedgerow, don't be alarmed now, it's just a spring clean for the May queen Yes, there are two paths you can go by, but in the long run there's still time to change the road you're on And it makes me wonder Oh, ooh Your head is humming and it won't go, in case you don't know, the piper's calling you to join him Dear lady, can you hear the wind blow and did you know your stairway lies on the whispering wind? Ooh And as we wind on down the road Our shadows taller than our soul There walks a lady we all know Who shines white light and wants to show How everything still turns to gold And if you listen very hard The tune will come to you at last When all are one and one is all To be a rock and not to roll And she's buying a stairway to heaven"
+  },
+  "metadata": {
+    "youtube_id": "QkF3oxziUI4",
+    "title_extracted": null,
+    "corpus_id": "QkF3oxziUI4",
+    "uploader": "Led Zeppelin",
+    "audio_file": "corpus/01_music_videos_audio/audio/QkF3oxziUI4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 15452308,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.707637,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:35:37Z"
+  },
+  "status": "success",
+  "error": null
+}

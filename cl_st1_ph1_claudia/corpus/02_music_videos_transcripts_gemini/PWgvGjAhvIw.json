@@ -1,0 +1,38 @@
+{
+  "corpus_id": "PWgvGjAhvIw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/PWgvGjAhvIw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/PWgvGjAhvIw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/PWgvGjAhvIw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "3,000? For the sake of everybody in the band, act like you got some sense. A n***a can't do nothing but get up there and shake his ass? What we talking here? Don't get out there playing, okay? What I do every night, that's all I know how to do, man, you know. I ain't flew all the way overseas in a middle seat for us to get over here and fuck up. Act like you got some sense. You might get a little bit of this here. Not money, this is hope money. I hope you get out there and do your thing. Check it out. Hey, hey, hey. Yeah, yeah, you know what I'm saying? All right. You can fold that. 3,000? I'm telling you, don't mess it up for everybody. Greyhounds don't float on water. Here in London for the first time to perform for you live: Johnny Vulture, Benjamin André, Dookie on drums, Possum Jenkins, and André Ice Cold 3000! Performing their smash hit \"Hey Ya!\" Ladies and gents, I give you The Love Below. 1, 2, 3, go! My baby don't mess around because she loves me so, and this I know for show. Uh! But does she really wanna, but can't stand to see me walk out the door? Don't try to fight the feeling 'cause the thought alone is killing me right now. Uh! Thank God for Mom and Dad for sticking two together 'cause we don't know how. Uh! Hey ya! Hey ya! Hey ya! Hey ya! Hey ya! Hey ya! Hey ya! Hey ya! You think you got it, oh, you think you got it, but \"got it\" just don't get it 'til there's nothing at all. We get together, oh, we get together, but separate's always better when there's feelings involved. If what they say is \"Nothing is forever\", then what makes, then what makes, then what makes, then what makes, then what makes love the exception? So why, oh why, oh why, oh why, oh why are we so in denial when we know we're not happy here? Y'all don't wanna hear me, you just wanna dance. Ooh-oh! Don't wanna meet your daddy. Ooh-oh! Just want you in my Caddy. Ooh-oh! Don't wanna meet your mama. Ooh-oh! Just want to make you... Ooh-oh! I'm... Ooh-oh! I'm... Ooh-oh! I'm just being honest. Ooh-oh! I'm just being honest. Hey! Alright now, alright now fellas. (Yeah!) Now, what's cooler than being cool? (Ice cold!) I can't hear you! I say, what's cooler than being cool? (Ice cold!) Alright, alright, alright, alright, alright, alright, alright, alright, alright, alright, alright, alright, alright, alright! Now ladies! (Yeah?) Now we gonna break this thing down in just a few seconds. Now don't have me break this thing down for nothing. Now I wanna see y'all on y'all baddest behavior. Lend me some sugar, I am your neighbor! Ah! Here we go! Shake it, shake it, shake it, shake it, shake it, shake it, shake it, shake it, shake it like a Polaroid picture! Hey ya! Shake it, shake it, shake it, shake it, shake it, shake it, shake it, shake it, shake it like a Polaroid picture! Now all the Beyoncés and Lucy Lius and baby dolls, get on the floor! Get on the floor! You know what to do! You know what to do! You know what to do! Hey ya! Ooh-oh! Hey ya! Ooh-oh! Hey ya! Ooh-oh! Hey ya! Ooh-oh! Hey ya! Ooh-oh! Hey ya! Ooh-oh! Hey ya! Ooh-oh! Hey ya! Ooh-oh!"
+  },
+  "metadata": {
+    "youtube_id": "PWgvGjAhvIw",
+    "title_extracted": null,
+    "corpus_id": "PWgvGjAhvIw",
+    "uploader": "Outkast",
+    "audio_file": "corpus/01_music_videos_audio/audio/PWgvGjAhvIw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9721252,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.430748,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:22:12Z"
+  },
+  "status": "success",
+  "error": null
+}

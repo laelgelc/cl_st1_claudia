@@ -1,0 +1,38 @@
+{
+  "corpus_id": "D3a8Seh3Cp4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/D3a8Seh3Cp4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/D3a8Seh3Cp4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/D3a8Seh3Cp4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Pretty woman, walking down the street Pretty woman, the kind I'd like to meet Pretty woman, I don't believe you You're not the truth No one could look as good as you Mercy Pretty woman, won't you pardon me Pretty woman, I couldn't help but see Pretty woman You look lovely as can be Are you lonely just like me? Pretty woman, stop a while Pretty woman, talk a while Pretty woman, give your smile to me Pretty woman, yeah, yeah, yeah Pretty woman, look my way Pretty woman, say you'll stay with me 'Cause I need you I'll treat you right Come to me, baby Be mine tonight Pretty woman, don't walk on by Pretty woman, don't make me cry Pretty woman, don't walk away Okay If that's the way it must be, okay I guess I'll go on home, it's late There'll be tomorrow night, but wait What do I see? Is she walking back to me? Yeah, she's walking back to me Oh, pretty woman"
+  },
+  "metadata": {
+    "youtube_id": "D3a8Seh3Cp4",
+    "title_extracted": null,
+    "corpus_id": "D3a8Seh3Cp4",
+    "uploader": "Roy Orbison",
+    "audio_file": "corpus/01_music_videos_audio/audio/D3a8Seh3Cp4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11331416,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.783927,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:08:58Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "XmjLpePIz8o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/XmjLpePIz8o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/XmjLpePIz8o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/XmjLpePIz8o.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "And this big exciting young performer joins us to do his big smash recording on the ABC Dunhill label. Let's get some hands together, gang, for Mr. Carl Carlton. Open up your eyes Then you'll realize Here I stand with my Everlasting love Need you by my side Girl, to be my bride You'll never be denied Everlasting love From the very start Open up your heart Feel the love inside Everlasting love Everlasting love Hearts go astray Leaving hurt when they go I went away Just when you needed me so Filled with regret I come back begging you Forgive, forget Where's the love we once knew? Open up your eyes Then you'll realize Here I stand with my Everlasting love Need you by my side Girl, to be my bride You'll never be denied Everlasting love From the very start Open up your heart Feel the love inside Everlasting love Everlasting love Where will it go? No one really knows 'Til someone's there to show The way to everlasting love Like the sun that shines Endlessly it shines You will always be mine Eternal love When other loves are gone Ours will be strong We have our very own Everlasting love Everlasting love Everlasting love Open up your eyes Then you'll realize Here I stand with my Everlasting love Need you by my side Girl, to be my bride You'll never be denied Everlasting love From the very start Open up your heart Feel the love inside Everlasting love"
+  },
+  "metadata": {
+    "youtube_id": "XmjLpePIz8o",
+    "title_extracted": null,
+    "corpus_id": "XmjLpePIz8o",
+    "uploader": "MrHaagsesjonny1",
+    "audio_file": "corpus/01_music_videos_audio/audio/XmjLpePIz8o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6671078,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 6.409265,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:53:33Z"
+  },
+  "status": "success",
+  "error": null
+}

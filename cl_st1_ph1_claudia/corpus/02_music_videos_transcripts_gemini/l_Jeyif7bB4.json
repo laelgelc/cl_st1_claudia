@@ -1,0 +1,38 @@
+{
+  "corpus_id": "l_Jeyif7bB4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/l_Jeyif7bB4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/l_Jeyif7bB4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/l_Jeyif7bB4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Back in effect with me Westwood, living large. And it's time to bring the noise. A video produced and directed by Dominic Savage and Oscar Yumeson from the National Film School. The new Kings of Rap: Public Enemy.  Check this out. These pussy tricksters are still fronting on us. Show them what we can do, dis. 'Cause we always do dis. Hahaha! Yeah, boy!  Bass! How low can you go? Death row! What a brother know! Once again back, it's the incredible, rhyme animal, the uncannable D, Public Enemy number one! 5-0 set free! And I got none. Can I tell them that I really never had a gun? But it's the wax that the Terminator X spun. Now they got me in a cell 'cause my records they sell. 'Cause a brother like me said, \"Well, Farrakhan's a prophet and I think you oughta listen to what he got to say to you. What you oughta do is follow.\" For now, power to the people say, make a miracle, D, pump the lyrical. Black is back, all in, we're gonna win, check it out! Yeah, come on! Here we go again!  Turn it up! Bring the noise!  Turn it up! Yo, Chuck! They say we too black, man! Bring the noise! Yo, I don't understand what they're saying, but little do they know they can get a smack for that, man! Never badder than bad, 'cause a brother is madder than mad at the fact that it's corrupt like a sinner. The soul on a roll, but you treat it like soap on a rope 'cause the beats and the lines are so dope. Listen for lessons I'm saying inside music that the critics are all blasting me for. They'll never care for the brothers and sisters, why? 'Cause the country has a sub for the war. We got to get it straight. Come on, now! They're gonna have to wait 'til we get it right. Radio stations, I'm questioning their blackness. They call us a black, but we'll see if they'll play this. Turn it up! Bring the noise!  Turn it up! Yo, Chuck! They illin'! We chillin'! Bring the noise! Yo, we in the house. Stop feelin'! Yo, Chuck, show 'em what you can do, boy! Get from in front of me. The crowd's onto me, my DJ's warning me. Flavor, I call him Norman, you know. He can cut a record from side to side, so what the ride, the glide, should be safer than a suicide. Beat control beat as a fall for rock and roll. Music for watch and for win, you call a band, man, making the music abuse, but you can't do it, you know. You call them demos. But we riding the most, too! What you gonna do? Rap is not afraid of you. Beat is for Sonny Bono, beat is for your local owner. Run-DMC first said a DJ could be a band standing on his own feet. Get you out your seat! Beat is for Eric B. and Rakim, well hell! Glasses for Anthrax! Still it can rock fellas. Ever for ever, universal, it will sell. Time for me to exit, Terminator X it! Turn it up! Bring the noise!  Turn it up! Yo, they should know by now that they can't stop this funk, man! Bring the noise! Word up! And they keep telling me to turn it down, but yo, Flavor Flav ain't going out like that! Come on! Respect is due to Public Enemy, posse out of Strong Island. That's the conscious brother Chuck D, Flavor Flav, Terminator X, Professor Griff, and the Security of the First World. And they'll be in the UK in June on tour with Run-DMC."
+  },
+  "metadata": {
+    "youtube_id": "l_Jeyif7bB4",
+    "title_extracted": null,
+    "corpus_id": "l_Jeyif7bB4",
+    "uploader": "TheOriginal808beats",
+    "audio_file": "corpus/01_music_videos_audio/audio/l_Jeyif7bB4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5923582,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.74637,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:15:52Z"
+  },
+  "status": "success",
+  "error": null
+}

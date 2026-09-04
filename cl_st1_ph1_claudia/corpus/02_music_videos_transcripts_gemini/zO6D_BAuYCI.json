@@ -1,0 +1,38 @@
+{
+  "corpus_id": "zO6D_BAuYCI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/zO6D_BAuYCI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/zO6D_BAuYCI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/zO6D_BAuYCI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "This thing called love I just can't handle it This thing called love I must get round to it I ain't ready Crazy little thing called love This thing (this thing) called love (called love) It cries like a baby in a cradle all night It swings, it jives It shakes all over like a jelly fish I think I like it Crazy little thing called love There goes my baby She knows how to rock and roll She drives me crazy She gives me hot and cold fever She leaves me in a cool cool sweat I gotta be cool, relax Get hip, get on my tracks Take a back seat, hitchhike Take a long ride on my motorbike Until I'm ready (ready) Crazy little thing called love I gotta be cool, relax Get hip, get on my tracks Take a back seat, hitchhike Take a long ride on my motorbike Until I'm ready (ready) Crazy little thing called love This thing called love I just can't handle it This thing called love I must get round to it I ain't ready Crazy little thing called love Crazy little thing called love (yeah yeah) Crazy little thing called love (yeah yeah) Crazy little thing called love (yeah yeah) Crazy little thing called love (yeah yeah) Crazy little thing called love (yeah yeah) Crazy little thing called love (yeah yeah) Crazy little thing called love (yeah yeah) Crazy little thing called love"
+  },
+  "metadata": {
+    "youtube_id": "zO6D_BAuYCI",
+    "title_extracted": null,
+    "corpus_id": "zO6D_BAuYCI",
+    "uploader": "Queen Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/zO6D_BAuYCI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5589958,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.601567,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:41:41Z"
+  },
+  "status": "success",
+  "error": null
+}

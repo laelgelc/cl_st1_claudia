@@ -1,0 +1,38 @@
+{
+  "corpus_id": "9_3SwAiAQvs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/9_3SwAiAQvs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/9_3SwAiAQvs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/9_3SwAiAQvs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Now here, Dancing in the Street, Martha and the Vandellas. Calling out around the world, are you ready for a brand new beat? Summer's here and the time is right for dancing in the street They're dancing in Chicago (Dancing in the street) Down in New Orleans (Dancing in the street) In New York City (Dancing in the street) All we need is music, sweet music (Sweet music) There'll be music everywhere (Everywhere) There'll be swinging and swaying and records playing, dancing in the street Oh, it doesn't matter what you wear Just as long as you are there So come on, every guy, grab a girl, everywhere around the world They'll be dancing (Dancing in the street) They're dancing in the street (Dancing in the street) Way down in LA (Dancing in the street) Every day they're dancing in the street (Dancing in the street) This is a big town, USA (Dancing in the street) Get in time, we're dancing in the street (Dancing in the street) Across the ocean blue, me and you, we're dancing in the street (Dancing in the street) Come on and let's dance Good feeling, come on and dance Hey hey, dancing (Dancing in the street) Come on and let's dance (Dancing in the street) Everybody's dancing in the street (Dancing in the street)"
+  },
+  "metadata": {
+    "youtube_id": "9_3SwAiAQvs",
+    "title_extracted": null,
+    "corpus_id": "9_3SwAiAQvs",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/9_3SwAiAQvs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3862392,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 69.421711,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:33:40Z"
+  },
+  "status": "success",
+  "error": null
+}

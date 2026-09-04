@@ -1,0 +1,38 @@
+{
+  "corpus_id": "vzN9_BVMjww",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/vzN9_BVMjww.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/vzN9_BVMjww.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/vzN9_BVMjww.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "[Music]  \nTalk TikTok dance, every time she start it, it's a trend  \nB-I-T-C-H, if you ever see me in person, baby, here's your chance  \nLeft cheek, right cheek, drop it low and twine  \nTwerk it up in this thang, put you on this game, I be on my twin  \nGang, gang, gang, gang  \nReal ones touchy, y'all don't feel my pain  \nPlease don't get me hyped, I'm a big boss, bitch, and I just raised my price  \nI'm a boss, I'm a leader, I pull up in my two-seater  \nAnd my mama was a savage, nigga got this shit from Tina, I'm a savage!  \nClassy, bougie, ratchet  \nNasty, stupid, savage  \nDo we have any savage ladies and gentlemen in Houston tonight?  \nHouston, Texas!  \nI love you!  \nI'm a savage, yeah  \nClassy, bougie, ratchet  \nNasty, stupid, savage  \nTalkin' 'bout big shit, talkin' 'bout big shit  \nBitch, but I'm classy, bougie, ratchet  \nNasty, stupid, savage  \nAh, I'm a savage  \nI'm so proud, look at how far, she make me proud, she make me proud  \nI love you, girl! I love you, girl!  \nWe're all here  \nNasty, classy, stupid, ratchet  \nGive it up for Megan!  \nMegan Thee Stallion!"
+  },
+  "metadata": {
+    "youtube_id": "vzN9_BVMjww",
+    "title_extracted": null,
+    "corpus_id": "vzN9_BVMjww",
+    "uploader": "Milo",
+    "audio_file": "corpus/01_music_videos_audio/audio/vzN9_BVMjww.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3990196,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 39.460872,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:52:44Z"
+  },
+  "status": "success",
+  "error": null
+}

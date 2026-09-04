@@ -1,0 +1,38 @@
+{
+  "corpus_id": "DCP_g7X31nI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/DCP_g7X31nI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/DCP_g7X31nI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/DCP_g7X31nI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Well, that's all right, mama. That's all right for you. That's all right, mama, just anyway you do. That's all right. That's all right. That's all right, mama, anyway you do. Well, mama she done told me, papa done told me, too. \"Son, that gal you're foolin' with, she ain't no good for you.\" But that's all right. That's all right. That's all right, mama, anyway you do. I'm leavin' town, baby. I'm leavin' town for sure. Well, then you won't be bothered with me hanging 'round your door. But that's all right. That's all right. That's all right, mama, anyway you do. Ah, dee-dee-dee-dee-dee, dee-dee-dee-dee, dee-dee-dee-dee, I need your lovin'. That's all right. That's all right. That's all right, mama, anyway you do."
+  },
+  "metadata": {
+    "youtube_id": "DCP_g7X31nI",
+    "title_extracted": null,
+    "corpus_id": "DCP_g7X31nI",
+    "uploader": "Elvis Presley",
+    "audio_file": "corpus/01_music_videos_audio/audio/DCP_g7X31nI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3774714,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 9.641173,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:24:12Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "i_kF4zLNKio",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/i_kF4zLNKio.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/i_kF4zLNKio.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/i_kF4zLNKio.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "RGF Productions\n\nRemy Boyz\nYeah, 1738, ayy\nI'm like, \"Hey, what's up? Hello\"\nSeen your pretty ass as soon as you came in the door\nI just wanna chill, got a sack for us to roll\nMarried to the money, introduced it to my stove\nShowed her how to whip it, now she remixing for low\nShe my trap queen, let her hit the bando\nWe be counting up, watch how far them bands go\nWe just set a goal, talking matching Lambos\nAt 56 grams, 500 grams though\nMan, I swear I love her, how she work the damn pole\nHit the strip club, we be letting bands go\nEverybody hate, we just call 'em fans though\nIn love with the money, I ain't never let go\n\nAnd I get high with my baby, baby\nI just left the mall, I'm getting fly with my baby, yeah\nAnd I can ride with my baby, baby\nI'll be in the kitchen cooking pies for my baby, yeah\nAnd I get high with my baby, baby\nI just left the mall, I'm getting fly with my baby, yeah\nAnd I can ride with my baby, baby\nI'll be in the kitchen cooking pies...\n\nI hit the strip club with my trap queen\n'Cause all we know is bands\nI might just go snatch a Ferrari\nAnd buy my boy a Lamb'\nI might just go snatch a roll\nAnd throw a couple on the ring\nShe ain't wanting for nothing because I got her everything\nBig ZooWap from the bando\nRemi Boyz got the stamp though\nCount a hundred bands though\nBoy, how far can your bands go?\nFetty Wap, 100 50,000 cash though\nIf you check up on my pockets, I'm like...\n\nAnd I get high with my baby, baby\nI just left the mall, I'm getting fly with my baby, yeah\nAnd I can ride with my baby, baby\nI'll be in the kitchen cooking pies for my baby, yeah\nAnd I get high with my baby, baby\nI just left the mall, I'm getting fly with my baby, yeah\nAnd I can ride with my baby, baby\nI'll be in the kitchen cooking pies, I'm like, \"Hey, what's up? Hello\"\nSeen your pretty ass as soon as you came in the door\nI just wanna chill, got a sack for us to roll\nMarried to the money, introduced it to my stove\nShowed her how to whip it, now she remixing for low\nShe my trap queen, let her hit the bando\nWe be counting up, watch how far them bands go\nWe just set a goal, talking matching Lambos\n56 grams, 500 grams though\nMan, I swear I love her, how she work the damn pole\nHit the strip club, we be letting bands go\nEverybody hate, we just call 'em fans though\nIn love with the money, I ain't never let go\n\nI'll be smoking dope and you know Backwoods what I roll\nRemy Boyz, Fetty, and shit, yeah, that's for sure\nI run in your house, then I fuck your ho\nRemy Boyz ain't nothing, Remy Boyz ain't nothing\nYeah\nYou hear my boy\nSounding like a zillion bucks on the track\nI got whatever on my boy, whatever\nPut your money where your mouth is\nMoney on the wood make the game go good\nMoney out of sight cause fights\nPut up or shut up, huh?\nNitty Gritty\nRGF Productions"
+  },
+  "metadata": {
+    "youtube_id": "i_kF4zLNKio",
+    "title_extracted": null,
+    "corpus_id": "i_kF4zLNKio",
+    "uploader": "Harlem Fetty",
+    "audio_file": "corpus/01_music_videos_audio/audio/i_kF4zLNKio.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7819072,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.037984,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:00:18Z"
+  },
+  "status": "success",
+  "error": null
+}

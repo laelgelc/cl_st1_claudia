@@ -1,0 +1,38 @@
+{
+  "corpus_id": "RciKM866Rhk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/RciKM866Rhk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/RciKM866Rhk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/RciKM866Rhk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Hello? They gave him Friday off. They were like, \"You better be back here at 7:30 on Monday.\" Children growing, women producing, men go working, some do stealing, everyone's got to make a living. L.O.X. yeah, J.Lo yeah, yeah, yo, yo. We off the block this year. Went from a little to a lot this year. Everybody mad at the rocks that I wear. I know where I'm going and I know where I'm from, you can kiss in the air. Yeah, we at the airport out, D-Block from the block where everybody air forced out. With a new white tee you fresh, non-phoney with us, make the money, get the range, bring the homies with us. Don't be fooled by the rocks that I got, I'm still, I'm still Jenny from the block. Used to have a little, now I have a lot. No matter where I go, I know where I came from. Don't be fooled by the rocks that I got, I'm still, I'm still Jenny from the block. Used to have a little, now I have a lot. No matter where I go, I know where I came from. From In Living Color to movie scripts, to On the 6, to J.Lo to this headline clips. I stay grounded as the amounts roll in, I'm real, I thought I told ya. I'm real, even on Oprah, that's just me. Nothing phoney, don't hate on me, what you get is what you see. Don't be fooled by the rocks that I got, I'm still, I'm still Jenny from the block. Used to have a little, now I have a lot. No matter where I go, I know where I came from. Don't be fooled by the rocks that I got, I'm still, I'm still Jenny from the block. Used to have a little, now I have a lot. No matter where I go, I know where I came from. I'm down to Earth like this, rocking this business. I've grown up so much, I'm in control and loving it. Rumors got me laughing kid. I love my life and my public. Put God first and can't forget to stay real. To me it's like breathing. Don't be fooled by the rocks that I got, I'm still, I'm still Jenny from the block. Used to have a little, now I have a lot. No matter where I go, I know where I came from. Don't be fooled by the rocks that I got, I'm still, I'm still Jenny from the block. Used to have a little, now I have a lot. No matter where I go, I know where I came from. Yo, yo, it take hard work to cash checks, so don't be fooled by the rocks that I got, they assets. You get back what you put out. Even if you take the good route, can't count the hood out. After a while you'll know who to blend with, just keep it real with the ones you came in with. Best thing to do is stay low, L.O.X. and J.Lo. Act like they don't, but they know. Don't be fooled by the rocks that I got, I'm still, I'm still Jenny from the block. Used to have a little, now I have a lot. No matter where I go, I know where I came from. Don't be fooled by the rocks that I got, I'm still, I'm still Jenny from the block. Used to have a little, now I have a lot. No matter where I go, I know where I came from. Don't be fooled by the rocks that I got, I'm still, I'm still Jenny from the block. Used to have a little, now I have a lot. No matter where I go, I know where I came from. Don't be fooled by the rocks that I got, I'm still, I'm still Jenny from the block. Used to have a little, now I have a lot. No matter where I go, I know where I came from."
+  },
+  "metadata": {
+    "youtube_id": "RciKM866Rhk",
+    "title_extracted": null,
+    "corpus_id": "RciKM866Rhk",
+    "uploader": "Jennifer Lopez",
+    "audio_file": "corpus/01_music_videos_audio/audio/RciKM866Rhk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7334612,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.161133,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:58:16Z"
+  },
+  "status": "success",
+  "error": null
+}

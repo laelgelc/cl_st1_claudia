@@ -1,0 +1,38 @@
+{
+  "corpus_id": "5Aa_9ruWPnA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/5Aa_9ruWPnA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/5Aa_9ruWPnA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/5Aa_9ruWPnA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You know it's a tradition around here at the Late Show to have our next guest bring in the holidays, and joining her tonight are the United States Air Force Singing Sergeants. Ladies and gentlemen, Darlene Love!  (Christmas) The snow's coming down (Christmas) I'm watching it fall (Christmas) Lots of people around (Christmas) Baby, please come home (Christmas) The church bells (Christmas) Are ringing a song (Christmas) Oh, what a happy sound (Christmas) Baby, please come home They're singing \"Deck the Halls\" But it's not like Christmas at all 'Cause I remember when you were here And all the fun we had last year (Christmas) Pretty lights on the tree (Christmas) I'm watching them shine (Christmas) You should be here with me (Christmas) Baby, please come home  They're singing \"Deck the Halls\" But it's not like Christmas at all 'Cause I remember when you were here And all the fun we had last year If there was a way I'd hold back this tear 'Cause it's Christmas Day Please, please, please, please, please, please, please, please Baby, please come home! Baby, please come home! Baby, please come home! Baby, please come home! Yeah, yeah, yeah, yeah, yeah, yeah! Baby, please come home! Baby, please come home! Baby, please come home! Oh, yeah, yeah, yeah, yeah, yeah, yeah, yeah! Yeah! That's it, that's all. Thank you very much. Thank you, folks. Hi, Darlene, how are you? Beautiful as always. Thank you. Merry Christmas. Darlene Love, ladies and gentlemen, and the Singing Sergeants from your United States Air Force. We'll be right back. Happy holidays."
+  },
+  "metadata": {
+    "youtube_id": "5Aa_9ruWPnA",
+    "title_extracted": null,
+    "corpus_id": "5Aa_9ruWPnA",
+    "uploader": "Letterman",
+    "audio_file": "corpus/01_music_videos_audio/audio/5Aa_9ruWPnA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6819686,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 35.917165,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:14:08Z"
+  },
+  "status": "success",
+  "error": null
+}

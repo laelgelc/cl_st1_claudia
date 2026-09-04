@@ -1,0 +1,38 @@
+{
+  "corpus_id": "5NPBIwQyPWE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/5NPBIwQyPWE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/5NPBIwQyPWE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/5NPBIwQyPWE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Step up, West. So what do you guys want to do today? Dude, you want to crash the mall? Nice. Okay. Uh-huh, life's like this. Uh-huh, uh-huh. That's the way it is. Uh-huh, life's like this. Uh-huh, uh-huh. That's the way it is. Chill out. What you yelling for? Lay back. It's all been done before. And if you could only let it be, you will see I like you the way you are. When we're driving in your car, and you're talking to me one-on-one, but you become somebody else round everyone else. You're watching your back like you can't relax. You're trying to be cool. You look like a fool to me. Tell me why'd you have to go and make things so complicated? I see the way you're acting like you're somebody else gets me frustrated. Life's like this, you You fall and you crawl, and you break, and you take what you get, and you turn it into honesty. Promise me you're never gonna find you faking. No, no, no. You come over unannounced, dressed up like you're something else. Where you are and where it's at, you see, you making me laugh out when you strike your pose. Take off all your preppy clothes. You know you're not fooling anyone when you become somebody else round everyone else. You're watching your back like you can't relax. You're trying to be cool. You look like a fool to me. Tell me why'd you have to go and make things so complicated? I see the way you're acting like you're somebody else gets me frustrated. Life's like this, you You fall and you crawl, and you break, and you take what you get, and you turn it into honesty. Promise me you're never gonna find you faking. No, no, no. No, no, no. No, no, no. No, no, no. Mmm. Chill out. What you yelling for? Lay back. It's all been done before. And if you could only let it be, you will see somebody else round everyone else. You're watching your back like you can't relax. You're trying to be cool. You look like a fool to me. Tell me why'd you have to go and make things so complicated? I see the way you're acting like you're somebody else gets me frustrated. Life's like this, you You fall, and you crawl, and you break, and you take what you get, and you turn it into honesty. Promise me you're never gonna find you faking. No, no. Why'd you have to go and make things so complicated? I see the way you're acting like you're somebody else gets me frustrated. Life's like this, you You fall, and you crawl, and you break, and you take what you get, and you turn it into honesty. Promise me you're never gonna find you faking. No, no, no."
+  },
+  "metadata": {
+    "youtube_id": "5NPBIwQyPWE",
+    "title_extracted": null,
+    "corpus_id": "5NPBIwQyPWE",
+    "uploader": "Avril Lavigne",
+    "audio_file": "corpus/01_music_videos_audio/audio/5NPBIwQyPWE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8108858,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.10201,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:01:09Z"
+  },
+  "status": "success",
+  "error": null
+}

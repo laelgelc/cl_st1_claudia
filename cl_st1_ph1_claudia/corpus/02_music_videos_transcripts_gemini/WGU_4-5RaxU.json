@@ -1,0 +1,38 @@
+{
+  "corpus_id": "WGU_4-5RaxU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/WGU_4-5RaxU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/WGU_4-5RaxU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/WGU_4-5RaxU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Once I thought that it was a guess\nSoon turned out I had a heart of glass\nSeemed like the real thing, only to find\nMuch mistrust, love's gone behind\n\nOnce I thought that it was divine\nSoon found out I was losing my mind\nSeemed like the real thing, but I was so blind\nMuch mistrust, love's gone behind\n\nIn between\nWhat I find is pleasing and I'm feeling fine\nLove is so confusing, there's no peace of mind\nIf I fear I'm losing you, it's just no good\nYou teasing like you do\n\nOnce I thought that it was a guess\nSoon turned out I had a heart of glass\nSeemed like the real thing, only to find\nMuch mistrust, love's gone behind\n\nLost inside\nAdorable illusion and I cannot hide\nI'm the one you're using, please don't push me aside\nWe could have made it good, yeah\n\nRun run run run, run run\nRun run run run, run run\nIn a riding high on love's true, true light\n\nOoh, ooh\nOoh, ooh\nOoh, ooh\nOoh, ooh\n\nOnce I thought that it was a guess\nSoon turned out, big pain in the ass\nSeemed like the real thing, only to find\nMuch mistrust, love's gone behind\n\nOoh, ooh\nOoh, ooh\nOoh, ooh\nOoh, ooh"
+  },
+  "metadata": {
+    "youtube_id": "WGU_4-5RaxU",
+    "title_extracted": null,
+    "corpus_id": "WGU_4-5RaxU",
+    "uploader": "BlondieMusicOfficial",
+    "audio_file": "corpus/01_music_videos_audio/audio/WGU_4-5RaxU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7119874,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.873101,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:12:35Z"
+  },
+  "status": "success",
+  "error": null
+}

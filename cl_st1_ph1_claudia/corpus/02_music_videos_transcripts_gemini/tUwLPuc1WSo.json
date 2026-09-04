@@ -1,0 +1,38 @@
+{
+  "corpus_id": "tUwLPuc1WSo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/tUwLPuc1WSo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/tUwLPuc1WSo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/tUwLPuc1WSo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Aquí llegó la tripleta Tini Tini Tini Yummy, yummy, yummy, I got love in my tummy And I feel like a-lovin' you Love you such a sweet thing, good enough to eat thing And it's just what I'm gonna do Ooh, love to hold ya Ooh, love to kiss ya Ooh, love, I love it so Ooh, love, sweeter, sweeter than sugar Ooh, love, I won't let you go Yummy, yummy, yummy, I got love in my tummy And as extra good as it can be The lovin' that you're givin' is what keeps me livin' And your lovin' is like a dozen cream Kind of like sugar, kind of like spices Kind of like like what you do Kind of sounds funny, but, love, honey And funny, I love you Ba-da ba-da ba-da-da Ba-da ba-da ba-da-da Yummy, yummy, yummy, I got love in my tummy That love can satisfy Love you such a sweet thing, good enough to eat thing And sweet thing, that ain't no lie I'd love to hold ya, I'd love to kiss ya Ooh, love, I love it so Ooh, love, sweeter, sweeter than sugar Ooh, love, I won't let you go Ba-da ba-da ba-da-da Sweet thing Ba-da ba-da ba-da-da Yummy, yummy Sweet thing Ba-da ba-da ba-da-da Yummy, yummy Sweet thing"
+  },
+  "metadata": {
+    "youtube_id": "tUwLPuc1WSo",
+    "title_extracted": null,
+    "corpus_id": "tUwLPuc1WSo",
+    "uploader": "Charlie Perez",
+    "audio_file": "corpus/01_music_videos_audio/audio/tUwLPuc1WSo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4702026,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 36.776935,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:16:28Z"
+  },
+  "status": "success",
+  "error": null
+}

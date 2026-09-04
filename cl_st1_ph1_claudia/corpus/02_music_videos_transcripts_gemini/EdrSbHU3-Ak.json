@@ -1,0 +1,38 @@
+{
+  "corpus_id": "EdrSbHU3-Ak",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/EdrSbHU3-Ak.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/EdrSbHU3-Ak.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/EdrSbHU3-Ak.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "There's a world where I can go and tell my secrets to In my room In my room In this world I lock out all my worries and my fears In my room In my room Do my dreaming and my scheming lie awake and pray Do my crying and my sighing laugh at yesterday Now it's dark and I'm alone but I won't be afraid In my room In my room In my room In my room"
+  },
+  "metadata": {
+    "youtube_id": "EdrSbHU3-Ak",
+    "title_extracted": null,
+    "corpus_id": "EdrSbHU3-Ak",
+    "uploader": "The Beach Boys",
+    "audio_file": "corpus/01_music_videos_audio/audio/EdrSbHU3-Ak.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4401096,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 30.53656,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:07:14Z"
+  },
+  "status": "success",
+  "error": null
+}

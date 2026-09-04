@@ -1,0 +1,38 @@
+{
+  "corpus_id": "miax0Jpe5mA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/miax0Jpe5mA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/miax0Jpe5mA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/miax0Jpe5mA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "First, when there's nothing But a slow glowing dream That your fear seems to hide Deep inside Your mind All alone I have cried Silent tears full of pride In a world made of steel Made of stone Well, I hear the music Close my eyes, feel the rhythm Wrap around, take a hold of my heart What a feeling Being's believing I can have it all, now I'm dancing for my life Take your passion And make it happen Pictures come alive, you can dance right through your life Now I hear the music Close my eyes, I am rhythm In a flash it takes hold of my heart What a feeling Being's believing I can have it all, now I'm dancing for my life Take your passion And make it happen Pictures come alive, now I'm dancing through my life What a feeling What a feeling I am music now Being's believing I am rhythm now Pictures come alive, you can dance right through your life What a feeling I can really have it all What a feeling Pictures come alive when I call I can have it all I can really have it all Have it all Pictures come alive when I call Call, call, call, call What a feeling I can have it all Being's believing Being's believing Take your passion Make it happen What a feeling What a feeling"
+  },
+  "metadata": {
+    "youtube_id": "miax0Jpe5mA",
+    "title_extracted": null,
+    "corpus_id": "miax0Jpe5mA",
+    "uploader": "HD Film Tributes",
+    "audio_file": "corpus/01_music_videos_audio/audio/miax0Jpe5mA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7690528,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.416627,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:09:39Z"
+  },
+  "status": "success",
+  "error": null
+}

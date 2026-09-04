@@ -1,0 +1,38 @@
+{
+  "corpus_id": "g-38GX2YQig",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/g-38GX2YQig.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/g-38GX2YQig.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/g-38GX2YQig.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You thought you'd gotten rid of us, didn't you? But you were wrong, old bean, 'cause we're back with a vengeance! God save the Queen, my son. God save the Queen The fascist regime They made you a moron Potential H-bomb God save the Queen She ain't no human being There is no future In England's dreaming Don't be told what you want and don't be told what you need There's no future, no future, no future for you God save the Queen We mean it, man We love our Queen God saves God save the Queen 'Cause tourists are money And our figurehead Is not what she seems Oh, God save history God save your mad parade Oh, Lord God have mercy! All crimes are paid Oh, when there's no future, how can there be sin? We're the flowers in the dustbin We're the poison in the human machine We're the future, your future God save the Queen We mean it, man We love our Queen God saves God save the Queen We mean it, man There is no future In England's dreaming No future, no future, no future for you No future, no future, no future for me No future, no future, no future for you No future, no future, no future for you The Sex Pistols' current record, \"God Save the Queen\", is at number one of the Capital Hitline today. But the IBA, which administers the Broadcasting Act, has advised us that, particularly at this time, this record is likely to cause offense to a number of our listeners, and have asked us not to play it in our normal programming. However, we will be playing this record with the authorities' approval at 7:30 p.m. tonight on Brian Walsh's Open Line, and we'll welcome your views about the punk rock phenomenon which this is part of."
+  },
+  "metadata": {
+    "youtube_id": "g-38GX2YQig",
+    "title_extracted": null,
+    "corpus_id": "g-38GX2YQig",
+    "uploader": "Sex Pistols Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/g-38GX2YQig.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7593932,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.179525,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:14:02Z"
+  },
+  "status": "success",
+  "error": null
+}

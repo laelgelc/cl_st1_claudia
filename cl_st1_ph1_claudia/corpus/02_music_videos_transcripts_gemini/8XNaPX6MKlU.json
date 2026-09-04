@@ -1,0 +1,38 @@
+{
+  "corpus_id": "8XNaPX6MKlU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8XNaPX6MKlU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/8XNaPX6MKlU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/8XNaPX6MKlU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I wanna be with you, gotta be with you, need to be with you Oh Oh I wanna be with you, gotta be with you, need to be with you Oh Oh Chemistry was crazy from the kickoff Neither one of us knew why We didn't know nothing or the night cause a love like this takes some time People swore it off as a phase Said we can't see that Now from top to bottom, they see that we did that Yes It's so true that Yes We've been through it Yes We got proof Yes See baby, we've been Too strong for too long And I can't be without you, baby And I'll be waiting up until you get home Cause I can't sleep without you, baby If anybody who's ever loved, you know just what I feel Too hard to fake it, nothing can replace it Call the radio if you just can't be without your baby I got a question for you See, I already know the answer But still I wanna ask you, would you lie? No. Make me cry? No. Do something behind my back and then try to cover it up? Well, neither would I, baby My love is only upping up Yes. I'll be faithful Yes. I'm for real Yes. And with us you'll always know the deal We've been too strong for too long And I can't be without you, baby Oh, and I'll be waiting up until you get home Cause I can't sleep without you, baby Oh, if anybody who's ever loved, you know just what I feel Too hard to fake it, nothing can replace it Call the radio if you just can't be without your baby Yeah See, this is real talk, I'm-a always stay No matter what Good or bad Thick and thin On any day Hey Now if you doubt on love or don't believe This ain't for you No, this ain't for you And if you got it deep in your heart And deep down you know that it's true Come on, come on Well, then let me see you put your hands up Hands up Fellas, tell your lady she's the one Fellas, tell your lady she's the one Oh, put your hands up Hands up Ladies, let 'em know he's got your love Look him right in his eyes and tell him we've been too strong for too long And I can't be without you, baby Can't be without you, baby I'll be waiting up until you get home Cause I can't sleep without you, baby Oh, if anybody who's ever loved, you know just what I feel Too hard to fake it, nothing can replace it Call the radio if you just can't be without your baby Hey Oh, oh Hey Oh, oh Gotta be with you I wanna be with you"
+  },
+  "metadata": {
+    "youtube_id": "8XNaPX6MKlU",
+    "title_extracted": null,
+    "corpus_id": "8XNaPX6MKlU",
+    "uploader": "Mary J Blige",
+    "audio_file": "corpus/01_music_videos_audio/audio/8XNaPX6MKlU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7919384,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.677335,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:45:41Z"
+  },
+  "status": "success",
+  "error": null
+}

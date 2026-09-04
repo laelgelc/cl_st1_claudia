@@ -1,0 +1,38 @@
+{
+  "corpus_id": "CpKyFTYvhpU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CpKyFTYvhpU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/CpKyFTYvhpU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/CpKyFTYvhpU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Thank you very much. Ladies and gentlemen, uh, we'd like to do the song that was my very biggest record last year. I mean, it was no bigger than the rest of them, but sold a few more and, uh, we'd like to tell you that to all the people watching and all you people that are here tonight that, uh, that we really are thankful for all the success that you you've let us have and everything. This is my biggest rec- record, and, uh, it goes something like this. You know I can be found sitting all alone. If you can't come around, at least please telephone. Don't be cruel to a heart that's true. Well, baby, if I made you mad for something that I might have said, please forget the past, the future looks bright ahead. Don't be cruel to a heart that's true. I don't want no other love, baby, it's just you I'm thinking of. Don't make me feel this way. Come on over here and love me, you know what I want you to say. Don't be cruel to a heart that's true. Why should we be apart? I really love you, baby, cross my heart. Well, let's walk to the preacher and say, \"I do.\" Then you'll know you have me and I'll know that I have you, too. Don't be cruel to a heart that's true. I don't want no other love, baby, it's just you I'm thinking of. Don't be cruel to a heart that's true. Don't be cruel to a heart that's true. Here we go. Well, I don't want no other love, baby, it's just you I'm thinking of. Oh, I wish I were young again, no fooling. That's wonderful to be that way. Good."
+  },
+  "metadata": {
+    "youtube_id": "CpKyFTYvhpU",
+    "title_extracted": null,
+    "corpus_id": "CpKyFTYvhpU",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/CpKyFTYvhpU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5503022,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.552928,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:10:13Z"
+  },
+  "status": "success",
+  "error": null
+}

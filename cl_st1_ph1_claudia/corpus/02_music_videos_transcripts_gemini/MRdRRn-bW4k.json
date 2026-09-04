@@ -1,0 +1,38 @@
+{
+  "corpus_id": "MRdRRn-bW4k",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/MRdRRn-bW4k.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/MRdRRn-bW4k.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/MRdRRn-bW4k.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I saw her standing on the corner A yellow ribbon in her hair I couldn't keep myself from shouting \"Look-a-there!\" Look-a-there. Look-a-there. Look-a-there. Young blood Young blood Tell me what it is Young blood I can't get you out of my mind I took one look and I was fractured I tried to walk, but I was lame I tried to talk, but I just stuttered \"What's your name?\" What's your name? What's your name? What's your name? Young blood Young blood Young blood I can't get you out of my mind What crazy stuff She looked so tough I had to follow her all the way home Then things went bad I met her dad, he said \"You better leave my daughter alone!\" Well, I couldn't sleep a wink for trying I saw the rising of the sun And all night long my heart was crying \"You're the one!\" You're the one. You're the one. You're the one. Young blood Young blood Young blood I can't get you out of my mind Young blood Young blood Young blood I can't get you out of my mind"
+  },
+  "metadata": {
+    "youtube_id": "MRdRRn-bW4k",
+    "title_extracted": null,
+    "corpus_id": "MRdRRn-bW4k",
+    "uploader": "The Coasters - Topic",
+    "audio_file": "corpus/01_music_videos_audio/audio/MRdRRn-bW4k.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4506532,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 10.341571,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:13:22Z"
+  },
+  "status": "success",
+  "error": null
+}

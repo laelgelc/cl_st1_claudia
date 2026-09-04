@@ -1,0 +1,38 @@
+{
+  "corpus_id": "YW0sxgYAmLM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/YW0sxgYAmLM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/YW0sxgYAmLM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/YW0sxgYAmLM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Chaka, Chaka, Chaka, Chaka Khan Chaka Khan, Chaka Khan, Chaka Khan Chaka Khan, let me rock you, let me rock you, Chaka Khan Let me rock you, that's all I wanna do Chaka Khan, let me rock you, let me rock you, Chaka Khan Let me rock you 'cause I feel for you Chaka Khan, what you tell me what you wanna do? Do you feel for me the way I feel for you? Chaka Khan, let me tell you what I wanna do I wanna love you, I wanna hug you, I wanna squeeze you, too So let me take you in my arms and let me fill you with my charms, Chaka 'Cause you know that I'm the one to keep you warm, Chaka I make you more than just a physical dream I wanna rock you, Chaka Baby, 'cause you make me wanna scream Let me rock you, rock you Baby, baby, when I look at you I get a warm feeling inside There's something about the things you do That keeps me satisfied I wouldn't lie to you, baby It's main line, a hundred percent no pain The feeling that I got for you, baby Makes me wanna say I feel for you I think I love you I feel for you I think I love you Chaka Khan, let me rock you, let me rock you, Chaka Khan Let me rock you, that's all I wanna do Chaka Khan, let me rock you, let me rock you, Chaka Khan Let me rock you 'cause I feel for you, feel for you Baby, baby, when I lay with you There's no place I'd rather be Can't believe, can't believe it's true The things that you do to me I wouldn't lie to you, baby I'm so physically attracted to you The feeling that I got for you, baby There's nothing that I wouldn't do I feel for you I think I love you I feel for you I think I love you Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh Yeah, so warm, yeah See, yeah I feel for you I, I think I love you Chaka Khan, let me rock you, let me rock you, Chaka Khan Let me rock you, that's all I wanna do Chaka Khan, let me rock you, let me rock you, Chaka Khan Let me rock you 'cause I feel for you, Chaka Feel for you Oh, feel for you Ooh, I feel for you I feel for you I think I love you I feel for you"
+  },
+  "metadata": {
+    "youtube_id": "YW0sxgYAmLM",
+    "title_extracted": null,
+    "corpus_id": "YW0sxgYAmLM",
+    "uploader": "Chaka Khan",
+    "audio_file": "corpus/01_music_videos_audio/audio/YW0sxgYAmLM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7926814,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.167511,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:35:35Z"
+  },
+  "status": "success",
+  "error": null
+}

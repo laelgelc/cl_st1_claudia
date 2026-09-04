@@ -1,0 +1,38 @@
+{
+  "corpus_id": "KtlgYxa6BMU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/KtlgYxa6BMU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/KtlgYxa6BMU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/KtlgYxa6BMU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I am not the only traveler Who has not paid his debt I've been searching for a trail to follow again Take me back to the night we met And then I can tell myself What the hell am I supposed to do? And then I can tell myself Not to ride along with you I had all and then most of you, some and now none of you Take me back to the night we met I don't know what I'm supposed to do, haunted by the ghost of you Oh, take me back to the night we met When the night was full of terror And your eyes were filled with tears When you had not touched me yet Oh, take me back to the night we met I had all and then most of you, some and now none of you Take me back to the night we met I don't know what I'm supposed to do, haunted by the ghost of you Take me back to the night we met"
+  },
+  "metadata": {
+    "youtube_id": "KtlgYxa6BMU",
+    "title_extracted": null,
+    "corpus_id": "KtlgYxa6BMU",
+    "uploader": "Lord Huron",
+    "audio_file": "corpus/01_music_videos_audio/audio/KtlgYxa6BMU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6671822,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:05:05Z"
+  },
+  "status": "success",
+  "error": null
+}

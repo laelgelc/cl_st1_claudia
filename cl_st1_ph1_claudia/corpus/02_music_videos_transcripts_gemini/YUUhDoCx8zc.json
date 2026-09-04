@@ -1,0 +1,38 @@
+{
+  "corpus_id": "YUUhDoCx8zc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/YUUhDoCx8zc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/YUUhDoCx8zc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/YUUhDoCx8zc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Sometimes I'm right, then I can be wrong My own beliefs are in my song The butcher, the banker, the drummer and then Makes no difference what group I'm in I am everyday people, yeah yeah There is a blue one who can't accept the green one For living with the fat one trying to be a skinny one Different strokes for different folks And so on, and so on, and scooby dooby dooby Ooh, sha sha We got to live together I am no better, and neither are you We are the same whatever we do You love me, you hate me, you know me and then You can't figure out the bag I'm in I am everyday people, yeah yeah There is a long hair that doesn't like the short hair For being such a rich one that will not help the poor one Different strokes for different folks And so on, and so on, and scooby dooby dooby Ooh, sha sha We got to live together There is a yellow one that won't accept the black one That won't accept the red one, that won't accept the white one Different strokes for different folks And so on, and so on, and scooby dooby dooby Ooh, sha sha I am everyday people, sha sha"
+  },
+  "metadata": {
+    "youtube_id": "YUUhDoCx8zc",
+    "title_extracted": null,
+    "corpus_id": "YUUhDoCx8zc",
+    "uploader": "Sly & The Family Stone",
+    "audio_file": "corpus/01_music_videos_audio/audio/YUUhDoCx8zc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4606918,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.794527,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:04:32Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "cJunCsrhJjg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/cJunCsrhJjg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/cJunCsrhJjg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/cJunCsrhJjg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Purple haze, all in my brain \nLately things, they don't seem the same \nActing funny, but I don't know why \nExcuse me while I kiss the sky \n\nPurple haze, all around \nDon't know if I'm coming up or down \nAm I happy, or in a haze? \nWhatever it is, that girl put a spell on me \n\nHelp me! \nForget about it! \n\nPurple haze, all in my eyes \nDon't know if it's day or night \nYou got me blowing, blowing my mind \nTomorrow, or just the end of time? \n\nNo! \nForget about it! \nHelp me, yeah!"
+  },
+  "metadata": {
+    "youtube_id": "cJunCsrhJjg",
+    "title_extracted": null,
+    "corpus_id": "cJunCsrhJjg",
+    "uploader": "Jimi Hendrix",
+    "audio_file": "corpus/01_music_videos_audio/audio/cJunCsrhJjg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7299690,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 35.163165,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:09:49Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "nYh-n7EOtMA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nYh-n7EOtMA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/nYh-n7EOtMA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/nYh-n7EOtMA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Welcome back to Dance Stage USA. Our next song is Sia's Cheap Thrills. Have you heard the song? Yes, I have. And what do you think? I think it's got a good beat and you can dance to it. Sounds swell. Let's listen now. Up with it, girl. Rock with it, girl. Show them it, girl. Baddaflex-flex. Bounce with it, girl. Dance with it, girl. Get with it, girl. Baddaflex-flex. Come on, come on, turn the radio on. It's Friday night and I won't be long. Got to do my hair, put my makeup on. It's Friday night and I won't be long. Till I hit the dance floor, hit the dance floor. I got all I need. No, I ain't got cash. I ain't got cash. But I got you, baby. Just you and me. Baby, I don't need dollar bills to have fun tonight. Cheap thrills. Baby, I don't need dollar bills to have fun tonight. Cheap thrills. I don't need no money. You worth more than diamond, more than gold. As long as I can feel the beat. Mek the beat just take control. I don't need no money. You worth more than diamond, more than gold. As long as I can dance. Free up yourself, get under control. Come on, come on, turn the radio on. It's Saturday and I won't be long. Got to paint my nails, put my high heels on. It's Saturday and I won't be long. Till I hit the dance floor, hit the dance floor. I got all I need. You see? No, I ain't got cash. I ain't got cash. But I got you, baby. Just you and me. Baby, I don't need dollar bills to have fun tonight. Cheap thrills. Baby, I don't need dollar bills to have fun tonight. Cheap thrills. I don't need no money. You worth more than diamond, more than gold. As long as I can feel the beat. Mek the beat just take control. I don't need no money. You worth more than diamond, more than gold. As long as I can dance. Free up yourself, get under control. Me and you, girl, you and me. Drop it to the floor and make me see your energy cause. Me na play no hide and seek. Want to see the thing you have that make me feel weak, girl. Free! Any time you wine and catch it, the selector pull it up and put it on repeat, girl. Me na touch a dollar in my pocket cause non in this world, more than what you're worth. I don't need no money. You worth more than diamond, more than gold. As long as I can feel the beat. Mek the beat just take control. I don't need no money. You worth more than diamond, more than gold. As long as I can dance. Free up yourself, get under control. Baby, I don't need dollar bills to have fun tonight. Cheap thrills. Baby, I don't need dollar bills to have fun tonight. Cheap thrills. I don't need no money. You worth more than diamond, more than gold. As long as I can feel the beat. Mek the beat just take control. I don't need no money. You worth more than diamond, more than gold. As long as I can dance. Free up yourself, get under control. La, la, la, la, la, la. Cheap thrills. La, la, la, la, la, la. Cheap thrills. La, la, la, la, la, la. Cheap thrills. La, la, la, la, la, la. Cheap thrills."
+  },
+  "metadata": {
+    "youtube_id": "nYh-n7EOtMA",
+    "title_extracted": null,
+    "corpus_id": "nYh-n7EOtMA",
+    "uploader": "Sia",
+    "audio_file": "corpus/01_music_videos_audio/audio/nYh-n7EOtMA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8377094,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.428279,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:56:20Z"
+  },
+  "status": "success",
+  "error": null
+}

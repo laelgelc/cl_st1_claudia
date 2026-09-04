@@ -1,0 +1,38 @@
+{
+  "corpus_id": "qOfkpu6749w",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/qOfkpu6749w.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/qOfkpu6749w.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/qOfkpu6749w.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Well there's a black man with a black cat living in a black neighborhood. He's got an interstate running through his front yard, you know he thinks he's got it so good. And there's a woman in the kitchen cleaning up evening's slop. And he looks at her and says, \"Hey darling, I remember when you could stop the clock.\" Oh, but ain't that America, for you and me. Ain't that America, something to see, baby. Ain't that America, home of the free, yeah. Little pink houses for you and me. Oh, yeah, for you and me. Well there's a young man in a T-shirt listening to a rock and roll station. He's got a greasy hair, greasy smile, he says, \"Lord, this must be my destination.\" Cause they told me when I was younger, \"Said boy, you gonna be president.\" But just like everything else, those old crazy dreams kind of came and went. Oh, but ain't that America, for you and me. Ain't that America, something to see, baby. Ain't that America, home of the free, yeah. Little pink houses for you and me. Oh, well ain't that America, for you and me. Well there's people and more people, and what do they know, know, know? Go to work in some high-rise and vacation down in Mexico. Ooh, yeah. And there's winners and there's losers, but there ain't no big deal. Cause the simple man, baby, pays the thrills, the bills, the pills that kill. Oh, but ain't that America, for you and me. Ain't that America, something to see, baby. Ain't that America, home of the free, yeah. Little pink houses for you and me. Ooh, yeah. Ain't that America, for you and me. Ain't that America, hey, something to see, baby. Ain't that America, home of the free, yeah, yeah, yeah, yeah, yeah, yeah, yeah. Little pink houses for you and me. Ooh, yeah. Ooh, yeah."
+  },
+  "metadata": {
+    "youtube_id": "qOfkpu6749w",
+    "title_extracted": null,
+    "corpus_id": "qOfkpu6749w",
+    "uploader": "John Mellencamp",
+    "audio_file": "corpus/01_music_videos_audio/audio/qOfkpu6749w.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9218958,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 27.498117,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:18:49Z"
+  },
+  "status": "success",
+  "error": null
+}

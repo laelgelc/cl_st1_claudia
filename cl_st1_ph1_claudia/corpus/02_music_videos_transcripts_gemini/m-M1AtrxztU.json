@@ -1,0 +1,38 @@
+{
+  "corpus_id": "m-M1AtrxztU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/m-M1AtrxztU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/m-M1AtrxztU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/m-M1AtrxztU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Ah, oh We're a thousand miles from comfort We have traveled land and sea But as long as you are with me There's no place I'd rather be I would wait forever Exalted in the scene As long as I am with you My heart continues to beat With every step we take, Kyoto to the bay Strolling so casually We're different and the same, gave you another name Switch up the batteries If you gave me a chance, I would take it It's a shot in the dark, but I'll make it Know with all of your heart, you can't shake me When I am with you, there's no place I'd rather be N-n-no, no, no, no place I'd rather be N-n-no, no, no, no place I'd rather be N-n-no, no, no, no place I'd rather be We set out on a mission To find our inner peace Make it everlasting So nothing's incomplete It's easy being with you Sacred simplicity As long as we're together There's no place I'd rather be With every step we take, Kyoto to the bay Strolling so casually We're different and the same, gave you another name Switch up the batteries If you gave me a chance, I would take it It's a shot in the dark, but I'll make it Know with all of your heart, you can't shake me When I am with you, there's no place I'd rather be N-n-no, no, no, no place I'd rather be N-n-no, no, no, no place I'd rather be N-n-no, no, no, no place I'd rather be When I am with you, there's no place I'd rather be Ooh, baby Yeah, yeah, yeah, yeah, yeah, yeah If you gave me a chance, I would take it It's a shot in the dark, but I'll make it Know with all of your heart, you can't shake me When I am with you, there's no place I'd rather be N-n-no, no, no, no place I'd rather be N-n-no, no, no, no place I'd rather be N-n-no, no, no, no place I'd rather be When I am with you, there's no place I'd rather be N-n-no, no, no, no place I'd rather be N-n-no, no, no, no place I'd rather be N-n-no, no, no, no place I'd rather be When I am with you, there's no place I'd rather be"
+  },
+  "metadata": {
+    "youtube_id": "m-M1AtrxztU",
+    "title_extracted": null,
+    "corpus_id": "m-M1AtrxztU",
+    "uploader": "Clean Bandit",
+    "audio_file": "corpus/01_music_videos_audio/audio/m-M1AtrxztU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8591090,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.899231,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:20:52Z"
+  },
+  "status": "success",
+  "error": null
+}

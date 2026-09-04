@@ -1,0 +1,38 @@
+{
+  "corpus_id": "e-dr1PZZMds",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/e-dr1PZZMds.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/e-dr1PZZMds.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/e-dr1PZZMds.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "The night we met I knew I needed you so And if I had the chance I'd never let you go So won't you say you love me, I'll make you so proud of me We'll make 'em turn their heads every place we go So won't you please Be my, be my baby Be my little baby My one and only Be my baby now Be my, be my baby My one and only baby Oh, oh, oh, oh I'll make you happy, baby, just wait and see For every kiss you give me, I'll give you three Oh, since the day I saw you, I have been waiting for you You know I will love you till eternity So won't you please Be my, be my baby Be my little baby My one and only Say you'll be my darling Be my, be my baby Be my baby now My one and only baby Oh, come on and please Be my, be my baby Be my little baby My one and only Say you'll be my darling Be my, be my baby Be my baby now My one and only baby Be my, be my baby Be my little baby My one and only Be my baby now Be my, be my baby My one and only baby Be my, be my baby Be my little baby Be my, be my baby Be my baby now"
+  },
+  "metadata": {
+    "youtube_id": "e-dr1PZZMds",
+    "title_extracted": null,
+    "corpus_id": "e-dr1PZZMds",
+    "uploader": "Vintage Uploads",
+    "audio_file": "corpus/01_music_videos_audio/audio/e-dr1PZZMds.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5133732,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.131201,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:20:48Z"
+  },
+  "status": "success",
+  "error": null
+}

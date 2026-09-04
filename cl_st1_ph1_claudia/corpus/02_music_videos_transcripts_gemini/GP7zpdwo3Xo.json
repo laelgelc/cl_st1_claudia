@@ -1,0 +1,38 @@
+{
+  "corpus_id": "GP7zpdwo3Xo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/GP7zpdwo3Xo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/GP7zpdwo3Xo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/GP7zpdwo3Xo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "This time, this place Misused, mistakes Too long, too late Who was I to make you wait? Just one chance, just one breath Just in case there's just one left 'Cause you know, you know, you know I love you I have loved you all along And I miss you Been far away for far too long I keep dreaming you'll be with me and you'll never go Stop breathing if I don't see you anymore On my knees, I'll ask Last chance for one last dance 'Cause with you, I'd withstand All of hell to hold your hand I'd give it all, I'd give it for us Give anything, but I won't give up 'Cause you know, you know, you know I love you I have loved you all along And I miss you Been far away for far too long I keep dreaming you'll be with me and you'll never go Stop breathing if I don't see you anymore So far away So far away Been far away for far too long 'Cause you know, you know, you know I wanted I wanted you to stay 'Cause I needed I need to hear you say That I love you I have loved you all along And I forgive you For being away for far too long So keep breathing 'Cause I'm not leaving you anymore Believe it Hold on to me and never let me go Keep breathing 'Cause I'm not leaving you anymore Believe it Hold on to me and never let me go Keep breathing Hold on to me and never let me go Keep breathing Hold on to me and never let me go"
+  },
+  "metadata": {
+    "youtube_id": "GP7zpdwo3Xo",
+    "title_extracted": null,
+    "corpus_id": "GP7zpdwo3Xo",
+    "uploader": "Nickelback",
+    "audio_file": "corpus/01_music_videos_audio/audio/GP7zpdwo3Xo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7631084,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.536201,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:59:33Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "t4QK8RxCAwo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/t4QK8RxCAwo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/t4QK8RxCAwo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/t4QK8RxCAwo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I woke up this morning and the sun was gone\nTurned on the music to start my day\nI lost myself in a familiar song\nI closed my eyes and I slipped away\n\nMore than a feeling\n(More than a feeling)\nWhen I hear that old song play\n(More than a feeling)\nAnd I begin dreaming\n(More than a feeling)\n'Til I see Marianne walk away\nI see Marianne walking away\n\nWhen I'm tired and thinking cold\nI hide in my music, forget the day\nAnd dream of a girl I used to know\nI closed my eyes and she slipped away\nSlipped away\n\nMore than a feeling\n(More than a feeling)\nWhen I hear that old song play\n(More than a feeling)\nAnd I begin dreaming\n(More than a feeling)\n'Til I see Marianne walk away"
+  },
+  "metadata": {
+    "youtube_id": "t4QK8RxCAwo",
+    "title_extracted": null,
+    "corpus_id": "t4QK8RxCAwo",
+    "uploader": "BOSTON",
+    "audio_file": "corpus/01_music_videos_audio/audio/t4QK8RxCAwo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6930398,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.776565,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:32:55Z"
+  },
+  "status": "success",
+  "error": null
+}

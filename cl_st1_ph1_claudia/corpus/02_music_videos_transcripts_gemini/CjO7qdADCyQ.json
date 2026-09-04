@@ -1,0 +1,38 @@
+{
+  "corpus_id": "CjO7qdADCyQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CjO7qdADCyQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/CjO7qdADCyQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/CjO7qdADCyQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Oh, she may be weary Them young girls, they do get weary Wearing that same old shaggy dress, yeah But when she gets weary Try a little tenderness, yeah, yeah You know she's waiting Just anticipating For things that she'll never, never, never, never possess, yeah But while she's there waiting And without them Try a little tenderness That's all you gotta do It's not Just sentimental, no, no, no She has her grief and cares, yeah, yeah, yeah But soft words, they are spoken so gentle, yeah It makes it easier, easier to bear, yeah You won't regret it, no, no Young girls, they don't forget it Love is their whole happiness, yeah But it's all so easy All you gotta do is try Try a little tenderness Yeah, all you gotta do is, man Hold her where you want her Squeeze her, don't tease her, never leave her Get to her, got got got a little tenderness, yeah, yeah, yeah You gotta hold her, love her, man You gotta squeeze her, don't tease her, never leave You gotta hold her, love her, soft and gentle Try a little tenderness, yeah, yeah, yeah You gotta rub her, gentle, man, rub her, don't bruise her, no, no You gotta love her, squeeze her, don't tease her Got to try, man, and try, try a little tenderness, yeah, watch through You gotta know what to do, man Take advice, you gotta love, squeeze, hold my baby, love..."
+  },
+  "metadata": {
+    "youtube_id": "CjO7qdADCyQ",
+    "title_extracted": null,
+    "corpus_id": "CjO7qdADCyQ",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/CjO7qdADCyQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7311578,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.744892,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:08:43Z"
+  },
+  "status": "success",
+  "error": null
+}

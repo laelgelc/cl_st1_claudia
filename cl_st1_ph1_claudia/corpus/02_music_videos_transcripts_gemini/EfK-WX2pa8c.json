@@ -1,0 +1,38 @@
+{
+  "corpus_id": "EfK-WX2pa8c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/EfK-WX2pa8c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/EfK-WX2pa8c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/EfK-WX2pa8c.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "London calling to the faraway towns Now war is declared and battle come down London calling to the underworld Come out of the cupboard, you boys and girls London calling, now don't look to us Phony Beatlemania has bitten the dust London calling, see we ain't got no swing Except for the ring of the truncheon thing 'Cause the ice age is coming, the sun's zooming in Meltdown expected, the wheat is growing thin Engines stop running, but I have no fear 'Cause London is drowning, and I I live by the river London calling to the imitation zone Forget it, brother, you can go it alone London calling to the zombies of death Quit holding out and draw another breath London calling and I don't wanna shout But while we were talking, I saw you nodding out London calling, see we ain't got no high Except for that one with the yellowy eyes 'Cause the ice age is coming, the sun's zooming in Engines stop running, the wheat is growing thin A nuclear era, but I have no fear 'Cause London is drowning, and I I live by the river Oh! Oh! Oh! 'Cause the ice age is coming, the sun's zooming in Engines stop running, the wheat is growing thin A nuclear era, but I have no fear 'Cause London is drowning, and I I live by the river Oh! Oh! Oh! Oh! Oh! Oh! Oh! Oh! Now get this: London calling, yes, I was there, too And you know what they said? Well, some of it was true! London calling at the top of the dial And after all this, won't you give me a smile? London calling... I never felt so much a-like..."
+  },
+  "metadata": {
+    "youtube_id": "EfK-WX2pa8c",
+    "title_extracted": null,
+    "corpus_id": "EfK-WX2pa8c",
+    "uploader": "The Clash",
+    "audio_file": "corpus/01_music_videos_audio/audio/EfK-WX2pa8c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6453368,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 29.102087,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:09:35Z"
+  },
+  "status": "success",
+  "error": null
+}

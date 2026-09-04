@@ -1,0 +1,38 @@
+{
+  "corpus_id": "l9ml3nyww80",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/l9ml3nyww80.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/l9ml3nyww80.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/l9ml3nyww80.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Hot summer streets and the pavements are burning, I sit around Trying to smile, but the air is so heavy and dry Strange voices are saying (What did they say?) Things I can't understand It's too hot to touch and the heat has got right out of hand It's a cruel, cruel summer Leaving me here on my own It's a cruel, cruel summer Now you're gone The city is crowded, my friends are away and I'm on my own It's too hot to handle, so I got to get up and go It's a cruel, cruel summer Leaving me here on my own It's a cruel, cruel summer Now you're gone You're not the only one It's a cruel, cruel summer Leaving me here on my own It's a cruel, cruel summer Now you're gone It's a cruel, cruel summer Leaving me here on my own It's a cruel, cruel summer Now you're gone You're not the only one It's a cruel, cruel summer Leaving me here on my own It's a cruel, cruel summer Now you're gone You're not the only one It's a cruel, cruel summer Leaving me here on my own It's a cruel summer Now you're gone"
+  },
+  "metadata": {
+    "youtube_id": "l9ml3nyww80",
+    "title_extracted": null,
+    "corpus_id": "l9ml3nyww80",
+    "uploader": "London Records",
+    "audio_file": "corpus/01_music_videos_audio/audio/l9ml3nyww80.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6790708,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.81534,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:30:31Z"
+  },
+  "status": "success",
+  "error": null
+}

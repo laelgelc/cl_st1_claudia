@@ -1,0 +1,38 @@
+{
+  "corpus_id": "bSfqNEvykv0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/bSfqNEvykv0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/bSfqNEvykv0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/bSfqNEvykv0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Oh, yeah. Oh, yeah. Everything, everything, everything gonna be alright this morning. Oh, yeah. Now, when I was a young boy at the age of five, my mother said I'm gonna be the greatest man alive. But now I'm a man, way past 21, I want you to believe me, baby, I have lots of fun. I'm a man. I spell M- A- N. That spell man. No B- O child -Y. That mean mannish boy. I'm a man. I'm a full-grown man. I'm a man. I'm a natural born lover, man. I'm a man. I'm a rolling stone. I'm a man. I'm a hoochie coochie man. Sitting on the outside, just to meet my mate. You know I made the move, honey, come up two hours late. Ain't that a man? I spell M- A- N. That spell man. No B- O child -Y. That mean mannish boy. Man, I'm a full-grown man. Man, I'm a natural born lover, man. Man, I'm a rolling stone. Man, child, I'm a hoochie coochie man. The line I shoot, hell, well never miss. When I make love to a woman, she can't resist. I think I'll go down to old Kansas, too. I'm gonna bring back my second cousin, that's Little John the Conqueror, too. All you young girls sitting out that line, I can make love to you, woman, in five minutes time. Ain't that a man? I spell M- A- N. That spell man grown. No B- O child -Y. That mean mannish boy. Man, I'm a full-grown man. Man, I'm a natural born lover, man. Man, I'm a rolling stone. I'm a man, child, I'm a hoochie coochie man. Well, well, well, well, well. Hurry. Hurry. Hurry. Don't hurt me, don't hurt me, child. Don't hurt me, don't hurt me, don't hurt me, child. Well, well, well, well. Yeah. That's better. That's better."
+  },
+  "metadata": {
+    "youtube_id": "bSfqNEvykv0",
+    "title_extracted": null,
+    "corpus_id": "bSfqNEvykv0",
+    "uploader": "MUDDYWATERSVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/bSfqNEvykv0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10540824,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.876504,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:03:44Z"
+  },
+  "status": "success",
+  "error": null
+}

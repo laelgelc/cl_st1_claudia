@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Y3ywicffOj4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Y3ywicffOj4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Y3ywicffOj4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Y3ywicffOj4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Now there you go again, you say you want your freedom Well, who am I to keep you down? It's only right that you should play the way you feel it Listen carefully to the sound Of your loneliness like a heartbeat drives you mad In the stillness of remembering what you had And what you lost And what you had, oh what you lost Thunder only happens when it's raining Players only love you when they're playing Say, women, they will come and they will go When the rain washes you clean, you'll know Now here I go again, I see crystal visions I keep my visions to myself It's only me who wants to wrap around your dreams, and Have you any dreams you'd like to sell? Dreams of loneliness Like a heartbeat drives you mad In the stillness of remembering what you had And what you lost And what you had, oh what you lost Thunder only happens when it's raining Players only love you when they're playing Say, women, they will come and they will go When the rain washes you clean, you'll know Thunder only happens when it's raining Players only love you when they're playing Yeah, women, they will come and they will go When the rain washes you clean, you'll know You'll know Oh, you'll know, you'll know"
+  },
+  "metadata": {
+    "youtube_id": "Y3ywicffOj4",
+    "title_extracted": null,
+    "corpus_id": "Y3ywicffOj4",
+    "uploader": "Fleetwood Mac",
+    "audio_file": "corpus/01_music_videos_audio/audio/Y3ywicffOj4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8417962,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.198792,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:21:20Z"
+  },
+  "status": "success",
+  "error": null
+}

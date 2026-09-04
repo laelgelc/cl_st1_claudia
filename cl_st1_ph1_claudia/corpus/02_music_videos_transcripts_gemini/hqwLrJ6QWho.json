@@ -1,0 +1,38 @@
+{
+  "corpus_id": "hqwLrJ6QWho",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hqwLrJ6QWho.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/hqwLrJ6QWho.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/hqwLrJ6QWho.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Well, we've also got another fine guitar player with us on this tour and that's Danny Kortchmar. Danny, come on out. You want some notes, too? Okay. Pick a note. That's a good note. Close enough for jazz. We're going to do a song for you called \"It's Too Late\". Stayed in bed all morning just to pass the time There's something wrong here, there can be no denying One of us is changing or maybe we've just stopped trying And it's too late, baby, now it's too late though we really did try to make it Something inside has died and I can't hide and I just can't fake it. Oh, no, no, no, no. It used to be so easy living here with you You were light and breezy and I knew just what to do Now you look so unhappy and I feel like a fool And it's too late, baby, now it's too late though we really did try to make it Something inside has died and I can't hide and I just can't fake it. Oh, no, no, no, no, no, no, no, no, no, no Do-do-do-do-do-do, la-la-la-la, la-la-la-la, la-la-la There'll be good times again for me and you But we just can't stay together, don't you feel it, too? Still, I'm glad for what we had and how I once loved you But it's too late, baby, now it's too late though we really did try to make it Something inside has died and I can't hide and I just can't fake it. Oh, no, no, no, no, no, no, no, no, no, no Do-do-do-do-do-do, la-la-la-la, la-la-la-la, la-la-la It's too late, baby. It's too late, oh, now, darling. It's too late."
+  },
+  "metadata": {
+    "youtube_id": "hqwLrJ6QWho",
+    "title_extracted": null,
+    "corpus_id": "hqwLrJ6QWho",
+    "uploader": "Carole King",
+    "audio_file": "corpus/01_music_videos_audio/audio/hqwLrJ6QWho.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9739828,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.132616,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:25:11Z"
+  },
+  "status": "success",
+  "error": null
+}

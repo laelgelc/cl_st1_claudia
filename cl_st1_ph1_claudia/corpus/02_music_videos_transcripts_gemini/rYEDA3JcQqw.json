@@ -1,0 +1,38 @@
+{
+  "corpus_id": "rYEDA3JcQqw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/rYEDA3JcQqw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/rYEDA3JcQqw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/rYEDA3JcQqw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "There's a fire starting in my heart Reaching a fever pitch and it's bringing me out the dark Finally I can see you crystal clear Go ahead and sell me out and I'll lay your ship bare See how I'll leave with every piece of you Don't underestimate the things that I will do There's a fire starting in my heart Reaching a fever pitch and it's bringing me out the dark The scars of your love remind me of us They keep me thinking that we almost had it all The scars of your love, they leave me breathless I can't help feeling We could have had it all Rolling in the deep You had my heart inside of your hand And you played it to the beat Baby, I have no story to be told But I've heard one on you and I'm gonna make your head burn Think of me in the depths of your despair Make a home down there as mine sure won't be shared The scars of your love remind me of us They keep me thinking that we almost had it all The scars of your love, they leave me breathless I can't help feeling We could have had it all You're gonna wish you never had met me Rolling in the deep Tears are gonna fall, rolling in the deep You had my heart inside of your hand You're gonna wish you never had met me And you played it to the beat Tears are gonna fall, rolling in the deep We could have had it all You're gonna wish you never had met me Rolling in the deep Tears are gonna fall, rolling in the deep You had my heart inside of your hand But you played it with a beating Throw your soul through every open door Count your blessings to find what you look for Turn my sorrow into treasured gold You pay me back in kind and reap just what you sow You're gonna wish you never had met me We could have had it all Tears are gonna fall, rolling in the deep We could have had it all You're gonna wish you never had met me It all, it all, it all We could have had it all You're gonna wish you never had met me Rolling in the deep Tears are gonna fall, rolling in the deep You had my heart inside of your hand You're gonna wish you never had met me And you played it to the beat Tears are gonna fall, rolling in the deep We could have had it all You're gonna wish you never had met me Rolling in the deep Tears are gonna fall, rolling in the deep You had my heart inside of your hand But you played it, you played it, you played it, you played it to the beat"
+  },
+  "metadata": {
+    "youtube_id": "rYEDA3JcQqw",
+    "title_extracted": null,
+    "corpus_id": "rYEDA3JcQqw",
+    "uploader": "Adele",
+    "audio_file": "corpus/01_music_videos_audio/audio/rYEDA3JcQqw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7486192,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.495871,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:17:03Z"
+  },
+  "status": "success",
+  "error": null
+}

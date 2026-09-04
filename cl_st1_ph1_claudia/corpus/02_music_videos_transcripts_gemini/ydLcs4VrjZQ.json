@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ydLcs4VrjZQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ydLcs4VrjZQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ydLcs4VrjZQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ydLcs4VrjZQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Pulls his pants up and hides his riches Flees the town, she turns to To my life's only thing Am I still too young? He takes her hand and there She takes his ring Takes his babies, takes his minutes Takes his nowhere Heaven knows, she'd have taken anything All night! All night you want the Young American Young American, Young American You want the Young American All night! All night you want the Young American Through the picture window She spies the sneaking vagabond He curses, pushes her Ford Mustang Heaven knows, she'd have taken anything But the African is tight, open up nothing So he gives nothing, he touches her hand Showing nothing, it goes like a song She cries, where have all my mama's heroes gone? All night! All night you want the Young American Young American, Young American You want the Young American All night! All night you want the Young American All the way from Washington Her Ford Mustang's at the bathroom floor Lived for just these 20 years Do we have to die for Fifty-Four? All night! All night you want the Young American Young American, Young American You want the Young American All night! You want the Young American Do you remember President Nixon? Do you remember the bills you had to pay Or even yesterday? Have you been the Young American? You and your idol singing Falsetto Where they're everywhere And a dollar's got left in the ghetto Well, well, would you carry a razor? Just in case, in case of depression Sit on your hands in the buses and streetcars Flashing your gold teeth and your seat Ain't that close to love? Ain't that close to love? There ain't no more we can do Her heart's been broken just like you, yeah All night! All night you want the Young American Young American, Young American You want the Young American All night! You want the Young American In the room... she's got to catch... she's got to crash... right side... right side... she's got damn... Look at my hands, see I heard the news today, oh boy I got to sweeten, you got the beat In the room... say no more In the room... say no more In the room... that young man Ain't you glad that you're still got me, sweet? Ain't there one song that can make me break down and cry? All night! All night you want the Young American Young American, Young American You want the Young American All night! I want the Young American I want what you want You want what I want I want you, I want... I want you, I want you, I want you... Young American, Young American I want the Young American All night! All night I want the Young American"
+  },
+  "metadata": {
+    "youtube_id": "ydLcs4VrjZQ",
+    "title_extracted": null,
+    "corpus_id": "ydLcs4VrjZQ",
+    "uploader": "Kate Stardust",
+    "audio_file": "corpus/01_music_videos_audio/audio/ydLcs4VrjZQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9730168,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 39.373651,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:26:42Z"
+  },
+  "status": "success",
+  "error": null
+}

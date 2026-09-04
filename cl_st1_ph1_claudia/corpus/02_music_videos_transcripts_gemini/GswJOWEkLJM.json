@@ -1,0 +1,38 @@
+{
+  "corpus_id": "GswJOWEkLJM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/GswJOWEkLJM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/GswJOWEkLJM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/GswJOWEkLJM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "If you see me walking down the street And I start to cry each time we meet Walk on by Walk on by Make believe that you don't see the tears Just let me grieve in private 'cause each time I see you I break down and cry Oh, walk on by (Don't stop) Walk on by (Don't stop) Walk on by I just can't get over losing you And so if I seem broken and blue Baby, walk on by Hey, just walk on by Foolish pride, that's all that I have left So let me hide the tears and the sadness you gave me When you said goodbye Oh, walk on by (Don't stop) Walk on by (Don't stop) Walk on by (Don't stop) Walk on by Walk on by Foolish pride, that's all that I have left So let me hide the tears and the sadness you gave me When you said goodbye Oh, walk on by (Don't stop) Walk on by (Don't stop) Now you really gotta go, so walk on by (Don't stop) Make believe you never see the tears I cry (Don't stop) Now you really gotta go, so walk on by (Mmm-hmm) (Don't stop) Make believe you never see the tears I cry (Don't stop) Now you really gotta go, so walk on by (Don't stop) Make believe you never see the tears I cry (Don't stop) Just walk on by"
+  },
+  "metadata": {
+    "youtube_id": "GswJOWEkLJM",
+    "title_extracted": null,
+    "corpus_id": "GswJOWEkLJM",
+    "uploader": "Justin Fung",
+    "audio_file": "corpus/01_music_videos_audio/audio/GswJOWEkLJM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7129534,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 38.075218,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:50:59Z"
+  },
+  "status": "success",
+  "error": null
+}

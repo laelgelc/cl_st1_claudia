@@ -1,0 +1,38 @@
+{
+  "corpus_id": "yXr2EFomFkU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yXr2EFomFkU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/yXr2EFomFkU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/yXr2EFomFkU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Rows and flows of air hair and ice cream castles in the air and feather canyons everywhere I've looked at clouds that way But now they block the weather sun, they rain and snow on everyone so many things I would have done but clouds got in my way I've looked at clouds from both sides now from up and down and still somehow it's cloud illusions I recall I really don't know clouds at all Moons and Junes and Ferris wheels the dizzy dancing way you feel as every fairy tale comes real I've looked at love that way But now it's just another show you leave 'em laughing when you go and if you care don't let them know don't give yourself away I've looked at love from both sides now from give and take and still somehow it's love's illusions I recall I really don't know love at all Tears and fears and feeling proud to say \"I love you\" right out loud dreams and schemes and circus crowds I've looked at life that way But now old friends are acting strange they shake their heads, they say I've changed well something's lost, but something's gained in living every day I've looked at life from both sides now from win and lose and still somehow it's life's illusions I recall I really don't know life at all I've looked at life from both sides now from up and down and still somehow it's life's illusions I recall I really don't know life at all"
+  },
+  "metadata": {
+    "youtube_id": "yXr2EFomFkU",
+    "title_extracted": null,
+    "corpus_id": "yXr2EFomFkU",
+    "uploader": "Joni Mitchell",
+    "audio_file": "corpus/01_music_videos_audio/audio/yXr2EFomFkU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8773134,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 107.881531,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:14:33Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "zUtnwcv-quE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/zUtnwcv-quE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/zUtnwcv-quE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/zUtnwcv-quE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Whaiit is!\nAll nice and decent little girl.\nThis is Mr. Cat and Sugar Ray riding the show.\n\nSpread your love and fly\nSpread your love and fly\nSpread your love and fly\nSpread your love and fly\n\nAll around the world, statues crumble for me\nWho knows how long I've loved you?\nEverywhere I go, people stop and they say\n\"25 years old, my mother, God rest her soul\"\nLord have mercy!\n\nI just want to fly\nPut your arms around me, baby\nPut your arms around me, baby\nI just want to fly\nPut your arms around me, baby\nPut your arms around me, baby\n\nYeah, well!\nSpread your love and fly, yow me yow my\nSpread your love and fly, yow me for real\nSpread your love and fly\n\nDance, a little stranger, show me where you've been\nLove can make you hostage, want to do it again\nThere's no time to think about starting all over again\nWe'll find out I'm told, my mother, she told me so\nYeah, you hear that?\n\nI just want to fly\nPut your arms around me, baby\nPut your arms around me, baby\nI just want to fly\nPut your arms around me, baby\nPut your arms around me, baby\nI just want to fly\n\nGirl, spread your wings and fly\nGimme love baby girl I tell no lie\nAny way you want me love you want come a me high\nJust like an eagle in the air and I fly\nMe na go love the girl and tell her bye bye, yeah\nGirl, spread your wings and fly\nSpread your love and fly\n\nAll around the world, statues crumble for me\nWho knows how long I've loved you?\nImagine!\nEveryone I know has been so good to me\nYou hear that?\n25 years old, my mother, God rest her soul\nLord have mercy!\n\nI just want to fly\nPut your arms around me, baby\nPut your arms around me, baby\nI just want to fly\nPut your arms around me, baby\nPut your arms around me, baby\nI just want to fly\n\nGirl, spread your wings and fly\nSpread your love and fly\nI just want to fly\nLike a bird in the sky up so high\nHigh, high, high, higher than high\nDon't be so shy 'cause we all forget to fly\nI just want to fly\nLike a bird in the sky up so high\nHigh, high, high, higher than...\nSpread your wings and fly\nYow me yow my, spread your wings and fly\nYow me yow my, spread your wings and fly, me cry..."
+  },
+  "metadata": {
+    "youtube_id": "zUtnwcv-quE",
+    "title_extracted": null,
+    "corpus_id": "zUtnwcv-quE",
+    "uploader": "Sugar Ray Videos",
+    "audio_file": "corpus/01_music_videos_audio/audio/zUtnwcv-quE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8084338,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.011442,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:54:36Z"
+  },
+  "status": "success",
+  "error": null
+}

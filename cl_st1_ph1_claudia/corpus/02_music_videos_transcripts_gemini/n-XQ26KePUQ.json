@@ -1,0 +1,38 @@
+{
+  "corpus_id": "n-XQ26KePUQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/n-XQ26KePUQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/n-XQ26KePUQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/n-XQ26KePUQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You can dance, every dance with the guy who gives you the eye, let him hold you tight You can smile, every smile for the man who held your hand beneath the pale moonlight But don't forget who's takin' you home and in whose arms you're gonna be So darling, save the last dance for me Oh, I know (Oh, I know) that the music's fine like sparkling wine, go and have your fun Laugh and sing, but while we're apart, don't give your heart to anyone But don't forget who's takin' you home and in whose arms you're gonna be So darling, save the last dance for me Mmm, baby, don't you know I love you so? Can't you feel it when we touch? I will never, never let you go I love you oh so much You can dance, go and carry on till the night is gone and it's time to go If he asks if you're all alone, can he take you home, you must tell him no 'Cause don't forget who's takin' you home and in whose arms you're gonna be So darling, save the last dance for me 'Cause don't forget who's takin' you home and in whose arms you're gonna be So darling, save the last dance for me Mmm, save the last dance for me Mmm, save the last dance for me Mmm"
+  },
+  "metadata": {
+    "youtube_id": "n-XQ26KePUQ",
+    "title_extracted": null,
+    "corpus_id": "n-XQ26KePUQ",
+    "uploader": "dannypsych",
+    "audio_file": "corpus/01_music_videos_audio/audio/n-XQ26KePUQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4768156,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.73011,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:12:40Z"
+  },
+  "status": "success",
+  "error": null
+}

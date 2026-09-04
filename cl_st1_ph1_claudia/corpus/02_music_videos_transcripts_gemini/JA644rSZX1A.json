@@ -1,0 +1,38 @@
+{
+  "corpus_id": "JA644rSZX1A",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/JA644rSZX1A.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/JA644rSZX1A.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/JA644rSZX1A.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "In twilight glow, I see Blue eyes crying in the rain When we kissed goodbye and parted I knew we'd never meet again Love is like a dying ember Only memories remain Through the ages, I'll remember Blue eyes crying in the rain That man, ain't it? Yes. What's he doing? He's plowing. Someday when we meet up yonder We'll stroll hand in hand again In a land that knows no parting Blue eyes crying in the rain Get up! Get up! Get up!"
+  },
+  "metadata": {
+    "youtube_id": "JA644rSZX1A",
+    "title_extracted": null,
+    "corpus_id": "JA644rSZX1A",
+    "uploader": "Willie Nelson",
+    "audio_file": "corpus/01_music_videos_audio/audio/JA644rSZX1A.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6781048,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.643918,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:48:43Z"
+  },
+  "status": "success",
+  "error": null
+}

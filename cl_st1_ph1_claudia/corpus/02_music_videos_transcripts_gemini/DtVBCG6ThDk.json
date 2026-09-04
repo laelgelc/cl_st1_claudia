@@ -1,0 +1,38 @@
+{
+  "corpus_id": "DtVBCG6ThDk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/DtVBCG6ThDk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/DtVBCG6ThDk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/DtVBCG6ThDk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "She packed my bags last night pre-flight Zero hour 9 a.m. And I'm gonna be high as a kite by then I miss the Earth so much I miss my wife It's lonely out in space On such a timeless flight And I think it's gonna be a long, long time 'til touchdown brings me round again to find I'm not the man they think I am at home Oh, no, no, no I'm a rocket man Rocket man, burning out his fuse up here alone And I think it's gonna be a long, long time 'til touchdown brings me round again to find I'm not the man they think I am at home Oh, no, no, no I'm a rocket man Rocket man, burning out his fuse up here alone Mars ain't the kind of place to raise your kids In fact it's cold as hell And there's no one there to raise them if you did And all this science I don't understand It's just my job five days a week A rocket man Rocket man And I think it's gonna be a long, long time 'til touchdown brings me round again to find I'm not the man they think I am at home Oh, no, no, no I'm a rocket man Rocket man, burning out his fuse up here alone And I think it's gonna be a long, long time 'til touchdown brings me round again to find I'm not the man they think I am at home Oh, no, no, no I'm a rocket man Rocket man, burning out his fuse up here alone And I think it's gonna be a long, long time And I think it's gonna be a long, long time And I think it's gonna be a long, long time And I think it's gonna be a long, long time And I think it's gonna be a long, long time And I think it's gonna be a long, long time And I think it's gonna be a long, long time And I think it's gonna be a long, long time"
+  },
+  "metadata": {
+    "youtube_id": "DtVBCG6ThDk",
+    "title_extracted": null,
+    "corpus_id": "DtVBCG6ThDk",
+    "uploader": "Elton John",
+    "audio_file": "corpus/01_music_videos_audio/audio/DtVBCG6ThDk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9029482,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.918978,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:01:08Z"
+  },
+  "status": "success",
+  "error": null
+}

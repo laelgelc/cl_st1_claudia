@@ -1,0 +1,38 @@
+{
+  "corpus_id": "aWUWC21_HE8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/aWUWC21_HE8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/aWUWC21_HE8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/aWUWC21_HE8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Ladies and gentlemen, Frank Ocean. A tornado flew around my room before you came Excuse the mess it made Usually doesn't rain in Southern California, much like Arizona My eyes don't shed tears, but boy, they pour when I'm thinking 'bout you Ooh, no, no, no Thinking 'bout you Ooh, no, no, no Thinking 'bout you Do you think about me still? Or do you not think so far ahead? 'Cause I've been thinking 'bout forever, ooh Or do you not think so far ahead? 'Cause I've been thinking 'bout forever, ooh No, I don't like you, I just thought you were cool enough to kick it Got a beach house I could sell you in Idaho Since I don't love you, I just thought you were cute, that's why I kissed you Got a fighter jet, I don't get to fly I'm thinking 'bout you, ooh, no, no, no Thinking 'bout you, ooh, no, no, no Thinking 'bout you, do you think about me still? Or do you not think so far ahead? 'Cause I've been thinking 'bout forever, ooh Or do you not think so far ahead? 'Cause I've been thinking 'bout forever, ooh And I remember, how could I forget? How you feel You know you were my first time A new feel It won't ever get old, not in my soul, not in my spirit, keep it alive We'll go down this road 'til it turns from color to black and white Or do you not think so far ahead? 'Cause I've been thinking 'bout forever, ooh, no, no Or do you not think so far ahead? 'Cause I've been thinking 'bout forever, forever, forever, ooh"
+  },
+  "metadata": {
+    "youtube_id": "aWUWC21_HE8",
+    "title_extracted": null,
+    "corpus_id": "aWUWC21_HE8",
+    "uploader": "I am bald so what?",
+    "audio_file": "corpus/01_music_videos_audio/audio/aWUWC21_HE8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6978696,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.613342,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:14:47Z"
+  },
+  "status": "success",
+  "error": null
+}

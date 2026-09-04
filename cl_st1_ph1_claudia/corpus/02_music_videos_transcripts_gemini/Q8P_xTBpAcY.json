@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Q8P_xTBpAcY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Q8P_xTBpAcY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Q8P_xTBpAcY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Q8P_xTBpAcY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I am a lineman for the county and I drive the main road Searchin' in the sun for another overload I hear you singin' in the wire I can hear you through the whine And the Wichita lineman is still on the line I know I need a small vacation but it don't look like rain And if it snows that stretch down south won't ever stand the strain And I need you more than want you and I want you for all time And the Wichita lineman is still on the line And I need you more than want you and I want you for all time And the Wichita lineman is still on the line"
+  },
+  "metadata": {
+    "youtube_id": "Q8P_xTBpAcY",
+    "title_extracted": null,
+    "corpus_id": "Q8P_xTBpAcY",
+    "uploader": "Glen Campbell",
+    "audio_file": "corpus/01_music_videos_audio/audio/Q8P_xTBpAcY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5958504,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.015847,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:10:50Z"
+  },
+  "status": "success",
+  "error": null
+}

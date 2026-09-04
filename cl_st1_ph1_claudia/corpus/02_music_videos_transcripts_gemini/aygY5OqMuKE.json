@@ -1,0 +1,38 @@
+{
+  "corpus_id": "aygY5OqMuKE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/aygY5OqMuKE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/aygY5OqMuKE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/aygY5OqMuKE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "That's how it starts We go back to your house You check the charts And start to figure it out And if it's crowded all the better Because we know we're gonna be up late But if you're worried about the weather Then you picked the wrong place to stay That's how it starts It comes apart The way it does in bad films Except the part Where the moral kicks in Oh, you spent the first ten years just as fast as you can And the next ten people who are trying to be polite When you're blowing eighty-five days in the middle of France Yeah, I know it gets tired when you're wearing out your friends tonight But to tell the truth Oh, this could be the last time So here we go Like a salesman into the night And if I'm made of gold, if I'm made of gold If I'm made of gold, I'm on the road, there's always this And if I'm suited to submission I can still come home to this And with your face like a dead and unlaughable stand You can sleep on the plane or review what you said When you're drunk and the kids look impossibly tanned You think over and over, \"Hey, I'm finally dead\" Oh, if the trip and the plan come falling in your hand You can turn it on yourself, your ridiculous brand You forgot what you meant when you read what you said And you always knew you were tired, but then Where are your friends tonight? Where are your friends tonight? Where are your friends tonight? If I can see all my friends tonight If I can see all my friends tonight If I can see all my friends tonight If I can see all my friends tonight"
+  },
+  "metadata": {
+    "youtube_id": "aygY5OqMuKE",
+    "title_extracted": null,
+    "corpus_id": "aygY5OqMuKE",
+    "uploader": "LCD Soundsystem",
+    "audio_file": "corpus/01_music_videos_audio/audio/aygY5OqMuKE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8283472,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.23753,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:40:25Z"
+  },
+  "status": "success",
+  "error": null
+}

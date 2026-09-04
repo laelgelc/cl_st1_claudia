@@ -1,0 +1,38 @@
+{
+  "corpus_id": "OPf0YbXqDm0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/OPf0YbXqDm0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/OPf0YbXqDm0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/OPf0YbXqDm0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "This hit, that ice cold Michelle Pfeiffer, that white gold This one for them hood girls Them good girls straight masterpieces Stylin', whilen', livin' it up in the city Got Chucks on with Saint Laurent Gotta kiss myself, I'm so pretty I'm too hot (hot damn) Called a police and a fireman I'm too hot (hot damn) Make a dragon wanna retire man I'm too hot (hot damn) Bitch, say my name, you know who I am I'm too hot (hot damn) Am I band bout that money Break it down Girls hit your hallelujah (whoo) Girls hit your hallelujah (whoo) Girls hit your hallelujah (whoo) 'Cause uptown funk gon' give it to ya 'Cause uptown funk gon' give it to ya 'Cause uptown funk gon' give it to ya Saturday night and we in the spot Don't believe me, just watch, come on Don't believe me, just watch Don't believe me, just watch Don't believe me, just watch Don't believe me, just watch Don't believe me, just watch Don't believe me, just watch Hey, hey, hey, ow Wait a minute Fill my cup, put some liquor in it Take a sip, sign the check Julio, get the stretch Ride to Harlem, Hollywood Jackson, Mississippi If we show up, we gon' show out Smoother than a fresh jar of Skippy I'm too hot (hot damn) Called a police and a fireman I'm too hot (hot damn) Make a dragon wanna retire man I'm too hot (hot damn) Bitch, say my name, you know who I am I'm too hot (hot damn) Am I band bout that money Break it down Girls hit your hallelujah (whoo) Girls hit your hallelujah (whoo) Girls hit your hallelujah (whoo) 'Cause uptown funk gon' give it to ya 'Cause uptown funk gon' give it to ya 'Cause uptown funk gon' give it to ya Saturday night and we in the spot Don't believe me, just watch, come on Don't believe me, just watch Don't believe me, just watch Don't believe me, just watch Don't believe me, just watch Don't believe me, just watch Don't believe me, just watch Don't believe me, just watch Hey, hey, hey, ow Before we leave Let me tell y'all a little somethin' Uptown funk you up, uptown funk you up Uptown funk you up, uptown funk you up I said uptown funk you up, uptown funk you up Uptown funk you up, uptown funk you up Come on, dance, jump on it If you sexy then flaunt it If you freaky then own it Don't brag about it, come show me, come on Dance, jump on it If you sexy then flaunt it Well, it's Saturday night and we in the spot Don't believe me, just watch, come on Don't believe me, just watch Don't believe me, just watch Don't believe me, just watch Don't believe me, just watch Don't believe me, just watch Don't believe me, just watch Don't believe me, just watch Hey, hey, hey, ow Uptown funk you up, uptown funk you up (say what?) Uptown funk you up, uptown funk you up Uptown funk you up, uptown funk you up (say what?) Uptown funk you up, uptown funk you up Uptown funk you up, uptown funk you up (say what?) Uptown funk you up, uptown funk you up Uptown funk you up, uptown funk you up Uptown funk you up, uptown funk you up"
+  },
+  "metadata": {
+    "youtube_id": "OPf0YbXqDm0",
+    "title_extracted": null,
+    "corpus_id": "OPf0YbXqDm0",
+    "uploader": "Mark Ronson",
+    "audio_file": "corpus/01_music_videos_audio/audio/OPf0YbXqDm0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8654248,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.861347,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:04:40Z"
+  },
+  "status": "success",
+  "error": null
+}

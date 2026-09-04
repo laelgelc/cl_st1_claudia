@@ -1,0 +1,38 @@
+{
+  "corpus_id": "p3j2NYZ8FKs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/p3j2NYZ8FKs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/p3j2NYZ8FKs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/p3j2NYZ8FKs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Sometimes you're better off dead There's a gun in your hand and it's pointing at your head You think you're mad, too unstable Kicking in chairs and knocking down tables In a restaurant in a West End town Call the police, there's a madman around Running down underground To a dive bar in a West End town In a West End town, a dead-end world The East End boys and West End girls In a West End town, a dead-end world The East End boys and West End girls West End girls Too many shadows, whispering voices Faces on posters, too many choices If, when, why, what? How much have you got? Have you got the nerve, if so how often? Which do you choose, a hard or soft option? (Hard option) In a West End town, a dead-end world The East End boys and West End girls In a West End town, a dead-end world The East End boys and West End girls West End girls West End girls In a West End town, a dead-end world The East End boys and West End girls In a West End town, a dead-end world The East End boys and West End girls West End girls You've got a heart of glass or a heart of stone Just you wait 'til I get you alone We've got no future, we've got no past Here today, built to last In every city and every nation From Lake Geneva to the Finland station In a West End town, a dead-end world The East End boys and West End girls In a West End town, a dead-end world The East End boys and West End girls West End girls West End girls West End girls West End girls"
+  },
+  "metadata": {
+    "youtube_id": "p3j2NYZ8FKs",
+    "title_extracted": null,
+    "corpus_id": "p3j2NYZ8FKs",
+    "uploader": "Pet Shop Boys",
+    "audio_file": "corpus/01_music_videos_audio/audio/p3j2NYZ8FKs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7495108,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.916855,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:34:05Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "MVRunwyoTMA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/MVRunwyoTMA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/MVRunwyoTMA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/MVRunwyoTMA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "A candy-colored clown they call the sandman\nTiptoes to my room every night\nJust a sprinkle of stardust and to whisper\n\"Go to sleep, everything is alright.\"\nI close my eyes\nthen I drift away\ninto the magic night.\nI softly say\na silent prayer\nlike dreamers do.\nThen I fall asleep to dream\nmy dreams of you.\nIn dreams I walk with you.\nIn dreams I talk to you.\nIn dreams you're mine\nall of the time\nwe're together\nin dreams,\nin dreams.\nBut just before the dawn,\nI awake and find you gone.\nI can't help it, I can't help it if I cry.\nI remember that you said goodbye.\nIt's too bad that all these things\ncan only happen in my dreams,\nonly in dreams,\nin beautiful dreams."
+  },
+  "metadata": {
+    "youtube_id": "MVRunwyoTMA",
+    "title_extracted": null,
+    "corpus_id": "MVRunwyoTMA",
+    "uploader": "Roy Orbison",
+    "audio_file": "corpus/01_music_videos_audio/audio/MVRunwyoTMA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5431690,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.275895,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:46:33Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "TWoFl_0UtjQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/TWoFl_0UtjQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/TWoFl_0UtjQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/TWoFl_0UtjQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Hey, where did we go? Days when the rains came Down in the hollow Playing a new game Laughing and a-running, hey, hey Skipping and a-jumping In the misty morning fog with Our hearts a-thumping and you My brown-eyed girl You, my brown-eyed girl And whatever happened To Tuesdays and so slow? Going down the old mine with a Transistor radio Standing in the sunlight laughing Hiding behind a rainbow's wall Slipping and sliding All along the waterfall with you My brown-eyed girl You, my brown-eyed girl Do you remember when We used to sing Sha-la-la-la-la-la-la-la-la-la-la-ti-da Just like that Sha-la-la-la-la-la-la-la-la-la-la-ti-da La-ti-da So hard to find my way Now that I'm all on my own I saw you just the other day My, how you have grown Cast my memory back there, Lord Sometimes I'm overcome thinking 'bout Making love in the green grass Behind the stadium with you My brown-eyed girl You, my brown-eyed girl Do you remember when We used to sing Sha-la-la-la-la-la-la-la-la-la-la-ti-da In the green grass Bit by bit, bit by bit, bit by bit, bit by bit Sha-la-la-la-la-la-la-la-la-la-la-ti-da"
+  },
+  "metadata": {
+    "youtube_id": "TWoFl_0UtjQ",
+    "title_extracted": null,
+    "corpus_id": "TWoFl_0UtjQ",
+    "uploader": "Raúl Vera Santos",
+    "audio_file": "corpus/01_music_videos_audio/audio/TWoFl_0UtjQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5922096,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.847005,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:05:48Z"
+  },
+  "status": "success",
+  "error": null
+}

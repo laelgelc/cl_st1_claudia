@@ -1,0 +1,38 @@
+{
+  "corpus_id": "TOypSnKFHrE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/TOypSnKFHrE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/TOypSnKFHrE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/TOypSnKFHrE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "3, 2, 1...\n\nLast night, she said\n\"Oh, baby, I feel so down\nOh, it turned me out\nWhen I feel left out\"\nSo I, I turned around\n\"Oh, baby, I don't care no more\nI know this for sure\nI'm walking out that door\"\n\nWell, I've been in town for just about 15 minutes now\nOh, baby, I feel so down\nSee, I don't know why\nI've walked for miles\n\nAnd people, they don't understand\nNo girlfriends, they won't understand\nYour grandsons, they won't understand\nAnd me, I am never gonna understand\n\nLast night, she said\n\"Oh, baby, I feel so down\nOh, it turned me out\nWhen I feel left out\"\nSo I, I turned around\nOh, baby, don't care no more\nIt was a great big lie\n'Cause I left that night\n\nAnd people, they don't understand\nNo girlfriends, they won't understand\nIn spaceships, they won't understand\nAnd me, I am never gonna understand\n\nLast night, she said\n\"Oh, baby, I feel so down\nOh, it turned me out\nWhen I feel left out\"\nSo I, I turned around\n\"Oh, baby, I don't care no more\nI know this for sure\nI'm walking out that door\", yeah"
+  },
+  "metadata": {
+    "youtube_id": "TOypSnKFHrE",
+    "title_extracted": null,
+    "corpus_id": "TOypSnKFHrE",
+    "uploader": "The Strokes",
+    "audio_file": "corpus/01_music_videos_audio/audio/TOypSnKFHrE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6448166,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.019856,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:25:22Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "SbYa7NBYyRc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/SbYa7NBYyRc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/SbYa7NBYyRc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/SbYa7NBYyRc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Oh, well I'm the type of guy who will never settle down Where pretty girls are, well you know that I'm around I kiss 'em and I love 'em 'cause to me they're all the same I hug 'em and I squeeze 'em, they don't even know my name They call me the wanderer Yeah, the wanderer I roam around, around, around, around Oh well, there's Flo on my left arm and there's Mary on my right And Janie is the girl, well, that I'll be with tonight And when she asks me which one I love the best I tear open my shirt and I show her Rosie on my chest 'Cause I'm a wanderer Yeah, a wanderer I roam around, around, around, around Oh well, I roam from town to town I go through life without a care And I'm as happy as a clown I with my two fists of iron, but I'm going nowhere Oh yeah, I'm the type of guy that likes to roam around I'm never in one place, I roam from town to town And when I find myself falling for some girl Yeah, I hop right into that car of mine, I drive around the world Yeah, I'm a wanderer Yeah, a wanderer I roam around, around, around, around, around, around Oh yeah, I'm the type of guy that likes to roam around I'm never in one place, I roam from town to town And when I find myself falling for some girl I hop right into that car of mine, drive around the world 'Cause I'm a wanderer Yeah, a wanderer I roam around, around, around, around, around, around 'Cause I'm a wanderer Yeah, a wanderer I roam around, around, around, around, around, around 'Cause I'm a wanderer I'm a wanderer"
+  },
+  "metadata": {
+    "youtube_id": "SbYa7NBYyRc",
+    "title_extracted": null,
+    "corpus_id": "SbYa7NBYyRc",
+    "uploader": "Dion",
+    "audio_file": "corpus/01_music_videos_audio/audio/SbYa7NBYyRc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5238500,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.205607,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:01:49Z"
+  },
+  "status": "success",
+  "error": null
+}

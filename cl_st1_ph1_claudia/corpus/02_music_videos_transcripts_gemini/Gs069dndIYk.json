@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Gs069dndIYk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Gs069dndIYk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Gs069dndIYk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Gs069dndIYk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Do you remember \nThe 21st night of September? \nLove was changing the minds of pretenders \nWhile chasing the clouds away \n\nOur hearts were ringing \nIn the key that our souls were singing \nAs we danced in the night, remember \nHow the stars stole the night away, oh yeah \n\nHey, hey, hey \nBa-de-ya, say, do you remember? \nBa-de-ya, dancing in September \nBa-de-ya, never was a cloudy day \n\nBa-de-ya, ba-de-ya, ba-de-ya, ba-de-ya \nBa-de-ya, ba-de-ya \n\nMy thoughts are with you \nHolding hands with your heart to see you \nOnly blue talk and love, remember \nHow we knew love was here to stay \n\nNow December \nFound the love that we shared in September \nOnly blue talk and love, remember \nThe love that we share today \n\nHey, hey, hey \nBa-de-ya, say, do you remember? \nBa-de-ya, dancing in September \nBa-de-ya, never was a cloudy day \n\nThere was a ba-de-ya, say, do you remember? \nBa-de-ya, dancing in September \nBa-de-ya, golden dreams were shiny days \n\nThe bell was ringing, ah-ah \nOur souls were singing \nDo you remember, never a cloudy day? Now \n\nThere was a ba-de-ya, say, do you remember? \nBa-de-ya, dancing in September \nBa-de-ya, golden dreams were shiny days \n\nThere was a ba-de-ya, say, do you remember? \nBa-de-ya, dancing in September \nBa-de-ya, golden dreams were shiny days \n\nBa-de-ya, de-ya, de-ya \nBa-de-ya, de-ya, de-ya \nBa-de-ya, de-ya, de-ya, de-ya \n\nBa-de-ya, de-ya, de-ya \nBa-de-ya, de-ya, de-ya"
+  },
+  "metadata": {
+    "youtube_id": "Gs069dndIYk",
+    "title_extracted": null,
+    "corpus_id": "Gs069dndIYk",
+    "uploader": "Earth Wind & Fire",
+    "audio_file": "corpus/01_music_videos_audio/audio/Gs069dndIYk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6885816,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.333294,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:21:36Z"
+  },
+  "status": "success",
+  "error": null
+}

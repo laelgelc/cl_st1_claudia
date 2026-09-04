@@ -1,0 +1,38 @@
+{
+  "corpus_id": "MGxjIBEZvx0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/MGxjIBEZvx0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/MGxjIBEZvx0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/MGxjIBEZvx0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Johnny's in the basement mixing up the medicine I'm on the pavement thinking about the government The man in the trench coat, badge out, laid off Says he's got a bad cough, wants to get it paid off Look out, kid, it's something you did God knows when, but you're doing it again You better duck down the alleyway, looking for a new friend The man in the coonskin cap in the pigpen Wants eleven dollar bills, you only got ten Maggie comes fleet foot, face full of black soot Talkin' that the heat put plants in the bedset The phone's tapped anyway, Maggie says the man, he say \"They must bust early, man, order from the rear\" Look out, kid, don't matter what you did Walk on your tiptoes, don't try no more Better stay away from those that carry around a fire hose Keep a clean nose, wash the clothes You don't need a weather man to know which way the wind blows Ah, get sick, get well, hang around the inkwell Ring bell, hard tell if anything is gonna sell Try hard, get barred, get back, write braille Get jailed, jump bail, join the army if it fails Look out, kid, you're gonna get hit By losers, cheaters, six-time users Hanging 'round the theaters Girl by the whirlpool looking for a new fool Don't follow leaders, watch the parking meters Oh, get born, keep warm, short pants, romance Learn to dance, get dressed, get blessed, try to be a success Please her, please him, buy gifts, don't steal, don't lift Twenty years of schooling and they put you on the day shift Look out, kid, they keep it all hid Better jump down a manhole, light yourself a candle Don't wear sandals, try to avoid the scandal Don't wanna be a bum, you better chew gum The pump don't work 'cause the vandals took the handle"
+  },
+  "metadata": {
+    "youtube_id": "MGxjIBEZvx0",
+    "title_extracted": null,
+    "corpus_id": "MGxjIBEZvx0",
+    "uploader": "Bob Dylan",
+    "audio_file": "corpus/01_music_videos_audio/audio/MGxjIBEZvx0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4346110,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.490117,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:42:31Z"
+  },
+  "status": "success",
+  "error": null
+}

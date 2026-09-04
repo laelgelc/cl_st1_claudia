@@ -1,0 +1,38 @@
+{
+  "corpus_id": "h04CH9YZcpI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/h04CH9YZcpI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/h04CH9YZcpI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/h04CH9YZcpI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Little ditty 'bout Jack and Diane Two American kids growing up in the Heartland Jack, he gonna be a football star Diane's debutante back seat of Jacky's car Suckin' on chili dogs outside the Tasty Freeze Diane sittin' on Jacky's lap, got his hands between her knees Jacky say, \"Hey Diane, let's run off behind the shady trees\" \"Dribble off those Bobby Brooks, let me do what I please\" Say, oh yeah, life goes on Long after the thrill of livin' is gone Say, oh yeah, life goes on Long after the thrill of livin' is gone, they walk on Jack, he sits back, collects his thoughts for a moment Scratches his head and does his best James Dean \"Well then, there, Diane, we gotta run off to the city\" Diane says, \"Baby, you ain't missin' nothing\" Jacky say, \"Oh yeah, life goes on Long after the thrill of livin' is gone\" \"Oh yeah, they say life goes on Long after the thrill of livin' is gone\" So let it rock, let it roll Let the Bible belt come and save my soul Hold on to 16 as long as you can Changes come around real soon, make us women and men Oh yeah, life goes on Long after the thrill of livin' is gone Oh yeah, they say life goes on Long after the thrill of livin' is gone A little ditty 'bout Jack and Diane Two American kids doin' the best they can"
+  },
+  "metadata": {
+    "youtube_id": "h04CH9YZcpI",
+    "title_extracted": null,
+    "corpus_id": "h04CH9YZcpI",
+    "uploader": "John Mellencamp",
+    "audio_file": "corpus/01_music_videos_audio/audio/h04CH9YZcpI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8279756,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.491329,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:06:53Z"
+  },
+  "status": "success",
+  "error": null
+}

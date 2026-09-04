@@ -1,0 +1,38 @@
+{
+  "corpus_id": "JkRKT6T0QLg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/JkRKT6T0QLg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/JkRKT6T0QLg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/JkRKT6T0QLg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "So we're here doing a video, which is kind of interesting, because we're doing a video of making a video of making a video. You know, there's lots of things going on at the same time. It's not like a normal kind of promo clip. Easy lover She'll get a hold on you believe it Like no other Before you know it you'll be on your knees She's an easy lover She'll take your heart, but you won't feel it She's like no other And I'm just trying to make you see She's the kind of girl you dream of Dream of holding tight Better forget it You'll never get it She will play around and leave you Leave you and deceive you Better forget it Oh, you'll regret it No, you'll never change her, so leave it, leave it Get out quick 'cause seeing is believing The only way You'll ever know, oh She's an easy lover She'll get a hold on you, believe it Like no other Before you know it you'll be on your knees She's an easy lover She'll take your heart, but you won't feel it She's like no other And I'm just trying to make you see You're the one that wants to hold her Hold her and control her Better forget it You'll never get it All right, are you ready? Here we go! Go! How was that, good, Phil? Wait, I was trying to figure out how to... Oh, you'll regret it And don't try to change her Just leave it You're not the only one... Fighting. No, we're going... And don't try to change her, just leave it, leave it You're not the only one 'cause seeing is believing The only way You'll ever know, oh She's an easy lover She'll get a hold on you, believe it She's like no other Before you know it you'll be on your knees You're down on your knees She's an easy lover She'll take your heart, but you won't feel it You won't feel it She's like no other And I'm just trying to make you see Trying to make you see, she's an easy lover She'll get a hold on you Get a hold on you Like no other Before you know it you'll be down on your knees Down on your knees, yeah, yeah, yeah Easy lover She'll take your heart, but you won't feel it You won't feel it She's like no other And I'm just trying to make you see Trying to make you see, she's an easy lover She'll get a hold on you"
+  },
+  "metadata": {
+    "youtube_id": "JkRKT6T0QLg",
+    "title_extracted": null,
+    "corpus_id": "JkRKT6T0QLg",
+    "uploader": "Philip Bailey",
+    "audio_file": "corpus/01_music_videos_audio/audio/JkRKT6T0QLg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9180320,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.882648,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:29:41Z"
+  },
+  "status": "success",
+  "error": null
+}

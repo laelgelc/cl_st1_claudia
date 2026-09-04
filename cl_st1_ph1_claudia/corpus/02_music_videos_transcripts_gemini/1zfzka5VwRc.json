@@ -1,0 +1,38 @@
+{
+  "corpus_id": "1zfzka5VwRc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/1zfzka5VwRc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/1zfzka5VwRc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/1zfzka5VwRc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "The day I first met you, you told me you've never fall in love. But now that I get you, I know fear is what it really was. Now here we are, so close, yet so far. Have we not passed the test? When will you realize? Baby, I'm not like the rest. Don't wanna break your heart, wanna give your heart a break. I know you're scared, it's wrong, like you might make a mistake. There's just one life to live, and there's no time to wait, to wait. So let me give your heart a break, give your heart a break, let me give your heart a break, your heart a break, oh yeah, yeah. On Sunday, you went home alone, there were tears in your eyes. I called your cellphone, my love, but you did not reply. The world is ours, if you want it, we can take it, if you'll just take my hand and no turning back now. Baby, try and hold on. Don't wanna break your heart, wanna give your heart a break. I know you're scared, it's wrong, like you might make a mistake. There's just one life to live, and there's no time to wait, to wait. So let me give your heart a break, give your heart a break, let me give your heart a break, your heart a break. There's just so much you can take, if your heart break, let me give your heart a break, your heart a break, oh yeah, yeah. When your lips touch my lips, then our hearts beat as one. But you slip out of my fingertips every time you run, whoa-oh-oh. Don't wanna break your heart, wanna give your heart a break. I know you're scared, it's wrong, like you might make a mistake. There's just one life to live, and there's no time to wait, to wait. So let me give your heart a break, 'cause you've been hurt before, I can see it in your eyes. You're trying to smile it away, some things you can't disguise. Don't wanna break your heart, baby, I can ease the ache, the ache, so let me give your heart a break, give your heart a break, let me give your heart a break, your heart a break. There's just so much you can take, if your heart break, let me give your heart a break, your heart a break, oh yeah, yeah. The day I first met you, you told me you've never fall in love."
+  },
+  "metadata": {
+    "youtube_id": "1zfzka5VwRc",
+    "title_extracted": null,
+    "corpus_id": "1zfzka5VwRc",
+    "uploader": "Demi Lovato",
+    "audio_file": "corpus/01_music_videos_audio/audio/1zfzka5VwRc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6905136,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.034112,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:09:05Z"
+  },
+  "status": "success",
+  "error": null
+}

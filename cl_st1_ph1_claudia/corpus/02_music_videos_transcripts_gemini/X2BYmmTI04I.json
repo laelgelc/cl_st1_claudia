@@ -1,0 +1,38 @@
+{
+  "corpus_id": "X2BYmmTI04I",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/X2BYmmTI04I.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/X2BYmmTI04I.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/X2BYmmTI04I.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Hey, hey, hey, hey Hey, hey, hey, hey Hey, hey, hey, hey Hey Simmer down, simmer down They say we're too young now to amount to anything else But look around We worked too damn hard for this just to give it up now If you don't swim, you'll drown But don't move, honey You look so perfect standing there In my American Apparel underwear And I know now that I'm so down Your lipstick stain is a work of art I got your name tattooed in an arrow heart And I know now that I'm so down Hey, hey, hey, hey Hey, hey, hey, hey Hey, hey, hey, hey Hey Let's get out, let's get out 'Cause this dead-beat town's only here just to keep us down While I was out I found myself just thinking If I showed up with a plane ticket And a shiny diamond ring with your name on it Would you wanna run away, too? 'Cause all I really want is you You look so perfect standing there In my American Apparel underwear And I know now that I'm so down I made a mixtape straight outta '94 I got your ripped skinny jeans lying on the floor And I know now that I'm so down Hey, hey, hey, hey Hey, hey, hey, hey Hey, hey, hey, hey Hey You look so perfect standing there In my American Apparel underwear And I know now that I'm so down Your lipstick stain is a work of art I got your name tattooed in an arrow heart And I know now that I'm so down Hey, hey, hey, hey Hey, hey, hey, hey Hey, hey, hey, hey Hey You look so perfect standing there In my American Apparel underwear And I know now that I'm so down Your lipstick stain is a work of art I got your name tattooed in an arrow heart And I know now that I'm so down Hey!"
+  },
+  "metadata": {
+    "youtube_id": "X2BYmmTI04I",
+    "title_extracted": null,
+    "corpus_id": "X2BYmmTI04I",
+    "uploader": "5SOS",
+    "audio_file": "corpus/01_music_videos_audio/audio/X2BYmmTI04I.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6995786,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.759283,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:36:27Z"
+  },
+  "status": "success",
+  "error": null
+}

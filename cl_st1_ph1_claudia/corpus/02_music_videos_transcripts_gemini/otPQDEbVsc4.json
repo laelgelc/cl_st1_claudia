@@ -1,0 +1,38 @@
+{
+  "corpus_id": "otPQDEbVsc4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/otPQDEbVsc4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/otPQDEbVsc4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/otPQDEbVsc4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Help me, I think I'm falling in love again When I get that crazy feeling, I know I'm in trouble again I'm in trouble 'cause you're a rambler and a gambler and a sweet-talking ladies' man And you love your loving But not like you love your freedom Help me, I think I'm falling in love too fast It's got me hoping for the future and worrying about the past 'Cause I've seen some hot-hard blazes come down to smoke and ash We love our loving But not like we love our freedom Oh, didn't it feel good sitting there talking? Well, I am in all talking, didn't it feel good? Dancing with a lady with a hole in her stocking Didn't it feel good? Didn't it feel good? Didn't it feel good? Didn't it feel good? Help me, I think I'm falling in love with you Are you gonna let me go there by myself? That's such a lonely thing to do Both of us flirting around, flirting and flirting, hurting too We love our loving But not like we love our freedom"
+  },
+  "metadata": {
+    "youtube_id": "otPQDEbVsc4",
+    "title_extracted": null,
+    "corpus_id": "otPQDEbVsc4",
+    "uploader": "Joni Mitchell",
+    "audio_file": "corpus/01_music_videos_audio/audio/otPQDEbVsc4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6472688,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.162749,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:52:52Z"
+  },
+  "status": "success",
+  "error": null
+}

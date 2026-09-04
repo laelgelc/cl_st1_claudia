@@ -1,0 +1,38 @@
+{
+  "corpus_id": "0J2QdDbelmY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/0J2QdDbelmY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/0J2QdDbelmY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/0J2QdDbelmY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I'm gonna fight 'em off\nA seven nation army couldn't hold me back\nThey're gonna rip it off\nTaking their time right behind my back\nAnd I'm talking to myself at night\nBecause I can't forget\nBack and forth through my mind\nBehind a cigarette\nAnd a message coming from my eyes says leave it alone\n\nDon't wanna hear about it\nEvery single one's got a story to tell\nEveryone knows about it\nFrom the Queen of England to the hounds of hell\nAnd if I catch it coming back my way\nI'm gonna serve it to you\nAnd that ain't what you want to hear\nBut that's what I'll do\nAnd the feeling coming from my bones says find a home\n\nI'm gonna Wichita\nFar from this opera forevermore\nI'm gonna work the straw\nMake the sweat drip out of every pore\nAnd I'm bleeding and I'm bleeding and I'm bleeding\nRight before the Lord\nAll the words are gonna bleed from me\nAnd I will think no more\nAnd the stains coming from my blood tell me go back home"
+  },
+  "metadata": {
+    "youtube_id": "0J2QdDbelmY",
+    "title_extracted": null,
+    "corpus_id": "0J2QdDbelmY",
+    "uploader": "The White Stripes",
+    "audio_file": "corpus/01_music_videos_audio/audio/0J2QdDbelmY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7628112,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.121923,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:31:42Z"
+  },
+  "status": "success",
+  "error": null
+}

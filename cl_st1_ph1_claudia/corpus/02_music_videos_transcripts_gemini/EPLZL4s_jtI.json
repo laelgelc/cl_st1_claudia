@@ -1,0 +1,38 @@
+{
+  "corpus_id": "EPLZL4s_jtI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/EPLZL4s_jtI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/EPLZL4s_jtI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/EPLZL4s_jtI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Hey, mama, don't you treat me wrong Come and love your daddy all night long, all night long Hey, hey All right See the girl with the diamond ring She knows how to shake that thing, all right Hey, hey Hey, hey Tell your mama, tell your pa I'm gonna send you back to Arkansas Oh, yes, ma'am Don't do right Don't do right When you see me in misery Come on, baby, see about me now, yeah All right All right Oh, play it, boy When you see me in misery Come on, baby, see about me now, yeah Hey, hey All right See the girl with the red dress on She can do the Birdland all night long Yeah, yeah What I say? All right Well, tell me what I say, yeah Tell me what I say right now Tell me what I say Tell me what I say right now Tell me what I say Tell me what I say, yeah And I wanna know Said I wanna know right now And I wanna know Said I wanna know right now, yeah And I wanna know Said I wanna know, yeah Yeah, come on, baby What? What's that? What's that? One time All right Ah, oh Ah, oh Ah, oh One more time (Tell me what I say) Said it one more time (Tell me what I say) Said it one more time (Tell me what I say) Said it one more time, yeah (Tell me what I say) Said it one more time (Tell me what I say) Said it one more time, yeah (Tell me what I say) Ah, oh Huh, huh, huh Don't it feel so good? (Don't it feel so good?) Feel so good right now, yeah (Don't it feel so good?) Oh, feel so good (Don't it feel so good?) Man, it feel so good, yeah (Don't it feel so good?) Man, it feel so good (Don't it feel so good?) Man, it feel so good, yeah (Don't it feel so good?) Ah, oh Huh, huh, huh Say it's all right (Say it's all right) Say that it's all right right now (Say it's all right) Say that it's all right (Say it's all right) Say that it's all right, yeah (Say it's all right) Say that it's all right (Say it's all right) Say that it's all right (Say it's all right) Whoa, shake that thing now (Shake that thing) Baby, shake that thing now, now (Shake that thing) Baby, shake that thing (Shake that thing) Baby, shake that thing right now (Shake that thing) Baby, shake that thing (Shake that thing) Baby, shake that thing (Shake that thing) Whoa, feel all right now, yeah (Feel all right) Said I feel all right now (Feel all right) Whoa, yeah, tell ya I feel all right, yeah (Feel all right) Said I feel all right (Feel all right) Said I feel all right (Feel all right)"
+  },
+  "metadata": {
+    "youtube_id": "EPLZL4s_jtI",
+    "title_extracted": null,
+    "corpus_id": "EPLZL4s_jtI",
+    "uploader": "Classic Mood Experience",
+    "audio_file": "corpus/01_music_videos_audio/audio/EPLZL4s_jtI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 12387274,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 7.841785,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:39:10Z"
+  },
+  "status": "success",
+  "error": null
+}

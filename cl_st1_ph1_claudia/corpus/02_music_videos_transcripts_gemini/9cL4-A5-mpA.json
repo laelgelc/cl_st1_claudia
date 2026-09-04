@@ -1,0 +1,38 @@
+{
+  "corpus_id": "9cL4-A5-mpA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/9cL4-A5-mpA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/9cL4-A5-mpA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/9cL4-A5-mpA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I don't remember what day it was. I didn't notice what time it was. All I know is that I fell in love with you, and if all my dreams come true, I'll be spending time with you. Every day's a new day in love with you. With each day comes a new way of loving you. Every time I kiss your lips, my mind starts to wander, and if all my dreams come true, I'll be spending time with you. Oh, I love you more today than yesterday, but not as much as tomorrow. I love you more today than yesterday, but darling, not as much as tomorrow. Tomorrow's date may be a million miles away. Cupid, we don't need you now, be on your way. I thank the Lord for love like ours that grows ever stronger, and I always will be true. I know you feel the same way, too. Oh, I love you more today than yesterday, but not as much as tomorrow. I love you more today than yesterday, but only half as much as tomorrow. Every day's a new day. Every time I love you. Every way's a new way. Every time I love you. Every day's a new day. Every time I kiss your..."
+  },
+  "metadata": {
+    "youtube_id": "9cL4-A5-mpA",
+    "title_extracted": null,
+    "corpus_id": "9cL4-A5-mpA",
+    "uploader": "moondoggy",
+    "audio_file": "corpus/01_music_videos_audio/audio/9cL4-A5-mpA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5378192,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.442287,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:25:55Z"
+  },
+  "status": "success",
+  "error": null
+}

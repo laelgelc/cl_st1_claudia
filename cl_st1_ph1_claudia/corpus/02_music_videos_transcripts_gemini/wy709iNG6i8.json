@@ -1,0 +1,38 @@
+{
+  "corpus_id": "wy709iNG6i8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wy709iNG6i8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/wy709iNG6i8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/wy709iNG6i8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "When are you gonna come down? When are you going to land? I should have stayed on the farm I should have listened to my old man You know you can't hold me forever I didn't sign up with you I'm not a present for your friends to open This boy's too young to be singing the blues So goodbye yellow brick road Where the dogs of society howl You can't plant me in your penthouse I'm going back to my plough Back to the howling old owl in the woods Hunting the horny back toad Oh, I've finally decided my future lies Beyond the yellow brick road What do you think you'll do then? I bet that'll shoot down your plane It'll take you a couple of vodka and tonics To set you on your feet again Maybe you'll get a replacement There's plenty like me to be found Mongrels who ain't got a penny Sniffing for tenure like you on the ground So goodbye yellow brick road Where the dogs of society howl You can't plant me in your penthouse I'm going back to my plough Back to the howling old owl in the woods Hunting the horny back toad Oh, I've finally decided my future lies Beyond the yellow brick road"
+  },
+  "metadata": {
+    "youtube_id": "wy709iNG6i8",
+    "title_extracted": null,
+    "corpus_id": "wy709iNG6i8",
+    "uploader": "Elton John",
+    "audio_file": "corpus/01_music_videos_audio/audio/wy709iNG6i8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6170528,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 10.65758,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:33:43Z"
+  },
+  "status": "success",
+  "error": null
+}

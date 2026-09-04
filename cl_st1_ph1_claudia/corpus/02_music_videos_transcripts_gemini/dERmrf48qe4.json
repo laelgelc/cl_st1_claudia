@@ -1,0 +1,38 @@
+{
+  "corpus_id": "dERmrf48qe4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/dERmrf48qe4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/dERmrf48qe4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/dERmrf48qe4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Miss Dionne Warwick  The moment I wake up Before I put on my makeup I say a little prayer for you While combing my hair, now And wondering what dress to wear, now I say a little prayer for you  Forever, forever, you'll stay in my heart and I will love you Forever and ever, we never will part, oh, how I love you Together, together, that's how it must be, to live without you Would only be heartbreak for me  I run for the bus, dear And while riding I think of us, dear I say a little prayer for you At work, I just take time And all through my coffee break time I say a little prayer for you  Forever, forever, you'll stay in my heart and I will love you Forever and ever, we never will part, oh, how I love you Together, together, that's how it must be, to live without you Would only be heartbreak for me  I say a little prayer for you  I say a little prayer for you  Forever, forever, you'll stay in my heart and I will love you Forever and ever, we never will part, oh, how I love you Together, together, that's how it must be, to live without you Would only be heartbreak for me  My darling, believe me For me there is no one but you Please love me, too I'm in love with you Answer my prayer Say you love me, too Why don't you answer my prayer? You know that every day I say a little prayer  Thank you"
+  },
+  "metadata": {
+    "youtube_id": "dERmrf48qe4",
+    "title_extracted": null,
+    "corpus_id": "dERmrf48qe4",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/dERmrf48qe4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5460668,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.821956,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:26:10Z"
+  },
+  "status": "success",
+  "error": null
+}

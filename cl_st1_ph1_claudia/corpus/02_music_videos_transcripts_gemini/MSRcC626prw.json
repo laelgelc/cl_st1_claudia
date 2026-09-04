@@ -1,0 +1,38 @@
+{
+  "corpus_id": "MSRcC626prw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/MSRcC626prw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/MSRcC626prw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/MSRcC626prw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Nobody gets me like you How am I supposed to let you go? Only like myself when I'm with you Nobody gets me like you Nobody I wish it didn't have to be this way, I really do. But sometimes in life we have to protect our own heart, even if it means ripping it out of our chest. Au revoir, mon amour. I'm still a fan even though I was salty Hate to see you with some other broad, know you happy Hate to see you happy if I'm not the one driving I'm so mature, I'm so mature I'm so mature, I got me a therapist to tell me there's other men I don't want none, I just want you If I can't have you, no one should have mine I might kill my ex, not the best idea His new girlfriend's next, how'd I get here? I might kill my ex, I still love him, though Rather be in jail than alone I get the sense that it's a lost cause I get the sense that you might really love her This text gonna be evidence, this text is evidence I tried to reason with you, no murder for a crime of passion, but damn You was out of reach You was at the farmer's market with your perfect peach Now I'm in the basement, planning on my patient Now you lying face down, got me singing \"Ooh-ah\" I'm so mature, I'm so mature I'm so mature, I got me a therapist to tell me there's other men I don't want none, I just want you If I can't have you, no one will I might kill my ex, not the best idea His new girlfriend's next, how'd I get here? I might kill my ex, I still love him, though Rather be in jail than alone I did it all for love I did it all with no drugs I did all of this sober I did it all for us, oh I did it all for love I did all of this with no drugs I did all of this sober Don't you know I did it all for us? I just killed my ex, not the best idea Killed his girlfriend next, how'd I get here? I just killed my ex, I still love him, though Rather be in hell than alone You pushed me past my own capacity, boy Pushed me to crash, collecting damage, boy No reaching, reaching for more clarity now Sinking, destroy, a missional void Don't do it Don't do it I had to do it to you Don't do it, oh Don't make me do it Do it Do it to you I hate to do it Do what I gotta do"
+  },
+  "metadata": {
+    "youtube_id": "MSRcC626prw",
+    "title_extracted": null,
+    "corpus_id": "MSRcC626prw",
+    "uploader": "SZA",
+    "audio_file": "corpus/01_music_videos_audio/audio/MSRcC626prw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8824404,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 22.188599,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:24:21Z"
+  },
+  "status": "success",
+  "error": null
+}

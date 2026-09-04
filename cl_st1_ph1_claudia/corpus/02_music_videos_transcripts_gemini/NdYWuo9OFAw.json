@@ -1,0 +1,38 @@
+{
+  "corpus_id": "NdYWuo9OFAw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/NdYWuo9OFAw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/NdYWuo9OFAw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/NdYWuo9OFAw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "And I'd give up forever to touch you 'Cause I know that you feel me somehow You're the closest to heaven that I'll ever be And I don't want to go home right now And all I can taste is this moment And all I can breathe is your life And sooner or later it's over I just don't want to miss you tonight And I don't want the world to see me 'Cause I don't think that they'd understand When everything's made to be broken I just want you to know who I am And you can't fight the tears that ain't coming Or the moment of truth in your lies When everything feels like the movies Yeah, you bleed just to know you're alive And I don't want the world to see me 'Cause I don't think that they'd understand When everything's made to be broken I just want you to know who I am And I don't want the world to see me 'Cause I don't think that they'd understand When everything's made to be broken I just want you to know who I am I just want you to know who I am I just want you to know who I am"
+  },
+  "metadata": {
+    "youtube_id": "NdYWuo9OFAw",
+    "title_extracted": null,
+    "corpus_id": "NdYWuo9OFAw",
+    "uploader": "Goo Goo Dolls",
+    "audio_file": "corpus/01_music_videos_audio/audio/NdYWuo9OFAw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6899192,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.758022,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:06:27Z"
+  },
+  "status": "success",
+  "error": null
+}

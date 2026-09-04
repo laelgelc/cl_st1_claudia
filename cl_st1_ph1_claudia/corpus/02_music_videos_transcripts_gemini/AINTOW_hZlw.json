@@ -1,0 +1,38 @@
+{
+  "corpus_id": "AINTOW_hZlw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/AINTOW_hZlw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/AINTOW_hZlw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/AINTOW_hZlw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Day after day I'm more confused Yeah, and I look for the light through the pouring rain You know that's a game that I hate to lose And I'm feeling the strain, ain't it a shame Oh, give me the beat, boys, and free my soul I want to get lost in your rock and roll and drift away Give me the beat, boys, and free my soul I want to get lost in your rock and roll and drift away Won't you take me away Beginning to think that I'm wasting time I don't understand the things I do The world outside looks so unkind And I'm counting on you You can carry me through Oh, give me the beat, boys, and free my soul I want to get lost in your rock and roll and drift away Give me the beat, boys, and free my soul I want to get lost in your rock and roll and drift away Won't you take me away And when my mind is free You know a melody can move me And when I'm feeling blue The guitar's coming through to soothe me Thanks for the joy that you're giving me I want you to know that I believe in your song Rhythm and rhyme and harmony You help me along, making me strong Oh, give me the beat, boys, and free my soul I want to get lost in your rock and roll and drift away (drift away) Give me the beat, boys, and free my soul I want to get lost in your rock and roll and drift away (drift away) Give me the beat, boys, and free my soul I want to get lost in your rock and roll and drift away (drift away) Give me the beat, boys, and free my soul I want to get lost in your rock and roll and drift away Yeah, oh won't you take me Oh won't you take me I want to drift away Won't you take me away, I want to drift away I want to drift away Take me home Let me drift away Won't you take me away"
+  },
+  "metadata": {
+    "youtube_id": "AINTOW_hZlw",
+    "title_extracted": null,
+    "corpus_id": "AINTOW_hZlw",
+    "uploader": "Music",
+    "audio_file": "corpus/01_music_videos_audio/audio/AINTOW_hZlw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8198022,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.13905,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:47:58Z"
+  },
+  "status": "success",
+  "error": null
+}

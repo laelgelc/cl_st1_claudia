@@ -1,0 +1,38 @@
+{
+  "corpus_id": "vCadcBR95oU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/vCadcBR95oU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/vCadcBR95oU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/vCadcBR95oU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Ah, push it Ah, push it Hit it! Ooh, baby, baby Baby, baby Ooh, baby, baby Baby, baby Get up on this! Ah, push it Ah, push it Ah, push it Pick up on this! Ah, push it Pick up on this! Ow! Hit it! Salt and Pepa's here! Salt, Salt, Salt, Salt and Pepa's here! Salt, Salt, Salt, Salt and Pepa's here! Salt and Pep, Salt and Pep, Salt and Pepa's here! Salt, Salt, Salt, Salt and Pepa's here! Now wait a minute, y'all This dance ain't for everybody Only the sexy people So all you fly mothers, get on out there and dance Dance, I said! Salt and Pepa's here and we're in effect Want you to push it, best coolin' by day and at night working up a sweat Come on, girls, let's go show the guys that we know How to become number one in a hot, party show, now push it Ah, push it Push it good Ah, push it Push it real good Ah, push it Push it good Ah, push it Ooh, push it real good Ooh, baby, baby Baby, baby Ooh, baby, baby Baby, baby Push it good Push it real good Ah, push it Ah, push it Yo, yo, yo, yo, baby pop, yeah, you Come here, give me a kiss Better make it fast, or else I'm gonna get pissed Can't you hear the music's pumpin' hard like I wish you would? Now push it Push it good Push it real good Push it good Ooh, push it real good Ah, push it Pick up on this! Pick up on this! Pick up on this! Pick up on this! Boy, you really got me goin' You got me goin', I don't know what I'm doin' Ah, push it Ah, push it Boy, you really got me goin' You got me goin', I don't know what I'm doin' Ah, push it Ah, push it Ah, push it Push it, push it, push it, push it, push it, push it, push it, push it, push it, push it, push it, push it"
+  },
+  "metadata": {
+    "youtube_id": "vCadcBR95oU",
+    "title_extracted": null,
+    "corpus_id": "vCadcBR95oU",
+    "uploader": "Salt-N-Pepa",
+    "audio_file": "corpus/01_music_videos_audio/audio/vCadcBR95oU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8465516,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.083693,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:41:13Z"
+  },
+  "status": "success",
+  "error": null
+}

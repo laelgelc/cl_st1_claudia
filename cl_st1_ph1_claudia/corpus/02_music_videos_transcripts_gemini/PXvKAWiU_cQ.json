@@ -1,0 +1,38 @@
+{
+  "corpus_id": "PXvKAWiU_cQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/PXvKAWiU_cQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/PXvKAWiU_cQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/PXvKAWiU_cQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Don't want your loving anymore Don't want your kisses, that's for sure I die each time I hear this sound Here he comes, that's Cathy's Clown I've gotta stand tall You know a man can't crawl When he knows you tell lies and he lets them pass him by He's not a man at all Don't want your loving anymore Don't want your kisses, that's for sure I die each time I hear this sound Here he comes, that's Cathy's Clown When you see me shed a tear And you know that it's sincere Don't you think it's kinda sad that you're treating me so bad Or don't you even care? Don't want your loving anymore Don't want your kisses, that's for sure I die each time I hear this sound Here he comes, that's Cathy's Clown That's Cathy's Clown That's Cathy's Clown"
+  },
+  "metadata": {
+    "youtube_id": "PXvKAWiU_cQ",
+    "title_extracted": null,
+    "corpus_id": "PXvKAWiU_cQ",
+    "uploader": "Elisa",
+    "audio_file": "corpus/01_music_videos_audio/audio/PXvKAWiU_cQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4728032,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.735449,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:17:37Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "yivLt9cTaio",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yivLt9cTaio.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/yivLt9cTaio.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/yivLt9cTaio.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Ba-da-da, ba-da-da-da-da-da, ba-da-da, ba-da-da. There used to be a greying tower alone on the sea. You became the light on the dark side of me. Love remained a drug that's the high and not the pill. But did you know that when it snows, my eyes become large and the light that you shine can be seen? Baby, I compare you to a kiss from a rose on the grey. Ooh, the more I get of you, the stranger it feels, yeah. Now that your rose is in bloom, a light hits the gloom on the grey. Ba-da-da, ba-da-da-da-da-da, ba-da-da. There is so much a man can tell you, so much he can say. You remain my power, my pleasure, my pain. Baby, to me you're like a growing addiction that I can't deny. Won't you tell me, is it healthy, baby? But did you know that when it snows, my eyes become large and the light that you shine can be seen? Baby, I compare you to a kiss from a rose on the grey. Ooh, the more I get of you, the stranger it feels, yeah. Now that your rose is in bloom, a light hits the gloom on the grey. I've been kissed by a rose on the grey. I've been kissed by a rose on the grey. And if I should fall, will you catch me? I've been kissed by a rose on the grey. There is so much a man can tell you, so much he can say. You remain my power, my pleasure, my pain. To me you're like a growing addiction that I can't deny. Won't you tell me, is it healthy, baby? But did you know that when it snows, my eyes become large and the light that you shine can be seen? Baby, I compare you to a kiss from a rose on the grey. Ooh, the more I get of you, the stranger it feels, yeah. Now that your rose is in bloom, a light hits the gloom on the grey. Yes, I compare you to a kiss from a rose on the"
+  },
+  "metadata": {
+    "youtube_id": "yivLt9cTaio",
+    "title_extracted": null,
+    "corpus_id": "yivLt9cTaio",
+    "uploader": "Music Guide",
+    "audio_file": "corpus/01_music_videos_audio/audio/yivLt9cTaio.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7194920,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.896274,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:00:07Z"
+  },
+  "status": "success",
+  "error": null
+}

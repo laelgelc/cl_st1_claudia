@@ -1,0 +1,38 @@
+{
+  "corpus_id": "99j0zLuNhi8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/99j0zLuNhi8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/99j0zLuNhi8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/99j0zLuNhi8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Well, I just heard the news today\nIt seems my life is gonna change\nI close my eyes, begin to pray\nThen tears of joy stream down my face\n\nWith arms wide open\nUnder the sunlight\nWelcome to this place\nI'll show you everything\nWith arms wide open\nWith arms wide open\n\nWell, I don't know if I'm ready\nTo be the man I have to be\nI'll take a breath, I'll take her by my side\nWe're standing on, we created life\n\nWith arms wide open\nUnder the sunlight\nWelcome to this place\nI'll show you everything\nWith arms wide open\nNow everything has changed\nI'll show you love\nI'll show you everything\nWith arms wide open\nWide open\n\nIf I have just one wish\nOnly one demand\nI hope he's not like me\nI hope he understands\nThat he can take this life\nAnd hold it by the hand\nAnd he can greet the world\nWith arms wide open\n\nWith arms wide open\nUnder the sunlight\nWelcome to this place\nI'll show you everything\nWith arms wide open\nNow everything has changed\nI'll show you love\nI'll show you everything\nWith arms wide open\nWith arms wide open"
+  },
+  "metadata": {
+    "youtube_id": "99j0zLuNhi8",
+    "title_extracted": null,
+    "corpus_id": "99j0zLuNhi8",
+    "uploader": "Creed",
+    "audio_file": "corpus/01_music_videos_audio/audio/99j0zLuNhi8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7461672,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.946713,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:01:57Z"
+  },
+  "status": "success",
+  "error": null
+}

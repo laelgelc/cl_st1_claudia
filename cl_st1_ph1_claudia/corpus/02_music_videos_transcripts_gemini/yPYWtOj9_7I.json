@@ -1,0 +1,38 @@
+{
+  "corpus_id": "yPYWtOj9_7I",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yPYWtOj9_7I.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/yPYWtOj9_7I.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/yPYWtOj9_7I.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Standing in the shadows of love I'm getting ready for the heartaches to come Can't you see me standing in the shadows of love? I'm getting ready for the heartaches to come I wanna run, but there's nowhere to go 'Cause heartaches will follow me, I know Without your love, the love I need It's the beginning of the end for me 'Cause you've taken away all my reasons for living When you push aside all the love I've been giving Now wait a minute Didn't I treat you right now, baby, didn't I? Didn't I do the best I could now, didn't I? So don't you see me standing in the shadows of love I'm getting ready for the heartaches to come Don't you see me standing in the shadows of love? Trying my best to get ready for the heartaches to come All alone I'm destined to be With misery my only company It may come today, and it might come tomorrow But it's for sure I ain't got nothing but sorrow Now don't your conscience kind of bother you? How can you watch me cry after all I've done for you? Now hold on a minute Gave you all the love I had now, didn't I? When you needed me, I was always there now, wasn't I? Standing in the shadows of love Getting ready for the heartaches to come I'm trying not to cry out loud You know, crying, it ain't gonna help me now What did I do to cause all this grief? Now what'd I say to make you wanna leave? Now wait a minute Gave my heart and soul to you now, didn't I? And didn't I always treat you good now, didn't I? I'm standing in the shadows of love I'm getting ready for the heartaches to come Don't you see me standing in the shadows of love Trying my best to get ready for the heartaches to come Oh, standing in the shadows of love I'm getting ready for the..."
+  },
+  "metadata": {
+    "youtube_id": "yPYWtOj9_7I",
+    "title_extracted": null,
+    "corpus_id": "yPYWtOj9_7I",
+    "uploader": "Four Tops",
+    "audio_file": "corpus/01_music_videos_audio/audio/yPYWtOj9_7I.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5044568,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 22.749492,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:23:31Z"
+  },
+  "status": "success",
+  "error": null
+}

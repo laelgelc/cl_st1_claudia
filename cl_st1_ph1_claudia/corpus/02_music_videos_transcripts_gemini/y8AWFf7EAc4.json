@@ -1,0 +1,38 @@
+{
+  "corpus_id": "y8AWFf7EAc4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/y8AWFf7EAc4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/y8AWFf7EAc4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/y8AWFf7EAc4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I heard there was a secret chord\nThat David played and it pleased the Lord\nBut you don't really care for music, do you?\nWell, it goes like this\nThe fourth, the fifth\nThe minor fall and the major lift\nThe baffled king composing Hallelujah\n\nHallelujah, Hallelujah\nHallelujah, Hallelujah\n\nYour faith was strong, but you needed proof\nYou saw her bathing on the roof\nHer beauty and the moonlight overthrew ya\nShe tied you to a kitchen chair\nShe broke your throne, and she cut your hair\nAnd from your lips, she drew the Hallelujah\n\nHallelujah, Hallelujah\nHallelujah, Hallelujah\n\nWell, baby, I've been here before\nI've seen this room, and I've walked this floor\nYou know, I used to live alone before I knew ya\nAnd I've seen your flag on the marble arch\nAnd love is not a victory march\nIt's a cold and it's a broken Hallelujah\n\nHallelujah, Hallelujah\nHallelujah, Hallelujah\n\nWell, there was a time when you let me know\nWhat's really going on below\nBut now you never show that to me, do ya?\nWell, remember when I moved in you\nAnd the holy dove was moving too\nAnd every breath we drew was Hallelujah\n\nHallelujah, Hallelujah\nHallelujah, Hallelujah\n\nWell, maybe there's a God above\nAnd all I've ever learned from love\nWas how to shoot somebody who outdrew ya\nAnd it's not a cry that you hear at night\nIt's not somebody who's seen the light\nIt's a cold and it's a broken Hallelujah\n\nHallelujah, Hallelujah\nHallelujah, Hallelujah\nHallelujah, Hallelujah\nHallelujah, Hallelujah\nHallelujah, Hallelujah\n\nWow, great."
+  },
+  "metadata": {
+    "youtube_id": "y8AWFf7EAc4",
+    "title_extracted": null,
+    "corpus_id": "y8AWFf7EAc4",
+    "uploader": "Jeff Buckley Music",
+    "audio_file": "corpus/01_music_videos_audio/audio/y8AWFf7EAc4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 12601270,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.129069,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:57:25Z"
+  },
+  "status": "success",
+  "error": null
+}

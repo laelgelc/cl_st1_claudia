@@ -1,0 +1,38 @@
+{
+  "corpus_id": "9FBUgdhxe9M",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/9FBUgdhxe9M.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/9FBUgdhxe9M.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/9FBUgdhxe9M.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I'd like to dedicate this song To little Junior Parker. A cousin of mine that's gone on, but we like to kind of carry on in his name. I say... I don't know why I love you like I do After all the changes that you put me through You stole my money and my cigarettes And I haven't seen hide nor hair of you yet I want to know, won't you tell me Hi, love to stay, yeah, yeah, yeah Take me to the river Wash me down Won't you cleanse my soul Get my feet on the ground I don't know why she treated me so bad After all the things that we could have had Love is an emotion that I can't forget My sweet sixteen I will never regret I want to know, won't you tell me Hi, love to stay, yeah, yeah, yeah Hold me Love me Please me Tease me 'Til I can't 'Til I can't Take no more All right! Take me to the river I don't know why I love you like I do After all the things that you put me through The sixteen candles are burning on my wall Tell me who's the biggest fool of them all I want to know, won't you tell me Hi, love to stay, yeah, yeah, yeah Take me to the river I want to know Won't you dip me in the water I want to know Won't you walk in the water Wash me in the water Wash me in the water Won't you walk in the water Hey! Hey! Feeling good."
+  },
+  "metadata": {
+    "youtube_id": "9FBUgdhxe9M",
+    "title_extracted": null,
+    "corpus_id": "9FBUgdhxe9M",
+    "uploader": "Al Green",
+    "audio_file": "corpus/01_music_videos_audio/audio/9FBUgdhxe9M.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7201608,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.47214,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:23:06Z"
+  },
+  "status": "success",
+  "error": null
+}

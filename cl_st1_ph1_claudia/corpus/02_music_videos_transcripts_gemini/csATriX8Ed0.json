@@ -1,0 +1,38 @@
+{
+  "corpus_id": "csATriX8Ed0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/csATriX8Ed0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/csATriX8Ed0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/csATriX8Ed0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Mmm I hear a voice in my mind I know her face by heart Heaven and earth are moving in my soul I don't know where to start Tell me, tell me the words to define the way I feel about someone so fine How do you talk to an angel? How do you hold her close to where you are? How do you talk to an angel? It's like trying to catch a falling star At night I dream and she is there And I can feel her in the air Tell me, tell me the words to define the way I feel about someone so fine How do you talk to an angel? How do you hold her close to where you are? How do you talk to an angel? It's like trying to catch a falling star How do you talk to an angel? How do you hold her close to where you are? How do you talk to an angel? It's like trying to catch a falling star How do you talk to an angel? How do you hold her close to where you are? How do you talk to an angel? It's like trying to catch a falling star Yeah Yeah"
+  },
+  "metadata": {
+    "youtube_id": "csATriX8Ed0",
+    "title_extracted": null,
+    "corpus_id": "csATriX8Ed0",
+    "uploader": "TheHeightsVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/csATriX8Ed0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7170400,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.494792,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:57:32Z"
+  },
+  "status": "success",
+  "error": null
+}

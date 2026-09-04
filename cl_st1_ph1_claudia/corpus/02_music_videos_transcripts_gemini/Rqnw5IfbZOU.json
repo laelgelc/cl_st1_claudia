@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Rqnw5IfbZOU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Rqnw5IfbZOU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Rqnw5IfbZOU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Rqnw5IfbZOU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Hey! Uh-huh. Hey! Uh-huh. What I like about you, you hold me tight. Tell me I'm the only one, wanna come over tonight. Yeah. You're whisperin' in my ear, tell me all the things that I wanna hear 'cause it's true. That's what I like about you. What I like about you. You really know how to dance. When you go up, down, jump around, think about true romance. Yeah. You're whisperin' in my ear, tell me all the things that I wanna hear 'cause it's true. That's what I like about you. That's what I like about you. That's what I like about you. Wow! Ow! Hey! Hey! What I like about you, you keep me warm at night. Never wanna let you go, know you make me feel alright. Yeah. You're whisperin' in my ear, tell me all the things that I wanna hear 'cause it's true. That's what I like about you. That's what I like about you. That's what I like about you. That's what I like about you. That's what I like about you. That's what I like about you. That's what I like about you. Hey! Uh-huh. Hey! Hey! Hey! Hey! Uh-huh. Hey! Uh-huh. Hey!"
+  },
+  "metadata": {
+    "youtube_id": "Rqnw5IfbZOU",
+    "title_extracted": null,
+    "corpus_id": "Rqnw5IfbZOU",
+    "uploader": "TheRomanticsVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/Rqnw5IfbZOU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5618936,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.001603,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:11:47Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "SDwJka-e1Jo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/SDwJka-e1Jo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/SDwJka-e1Jo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/SDwJka-e1Jo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I have often heard you say you love me as a friend but I love you more than anyone and you know I can't pretend no longer I would give you anything, I'd throw my world away But you don't wanna hear that anymore, but you wanna hear me say Come on and lead me on Come on and tease me all night long Loving you I know it's right, I'll always need you, I'll never leave you Come on and lead me on Tease me all night long I'd rather be a fool with a broken heart than someone who never had a part of you You know I told you from the start exactly how I feel Time goes on, seems nothing's changed and I'm in love for real We have never played the games that real lovers do So maybe we'd be wrong, but maybe I'd still like this from you Come on and lead me on Come on and tease me all night long Loving you I know it's right, I'll always need you, I'll never leave you Come on and lead me on Tease me all night long I'd rather be a fool with a broken heart than someone who never had a part of you Lead me on Tease me all night long I'd rather be a fool with a broken heart than someone who never had a part of you Come on and lead me on Come on and tease me all night long Loving you I know it's right, I'll always need you, I'll never leave you Come on and lead me on Tease me all night long"
+  },
+  "metadata": {
+    "youtube_id": "SDwJka-e1Jo",
+    "title_extracted": null,
+    "corpus_id": "SDwJka-e1Jo",
+    "uploader": "Maxine Nightingale - Topic",
+    "audio_file": "corpus/01_music_videos_audio/audio/SDwJka-e1Jo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5302402,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.72559,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:48:10Z"
+  },
+  "status": "success",
+  "error": null
+}

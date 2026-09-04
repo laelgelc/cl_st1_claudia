@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ZqpysaAo4BQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ZqpysaAo4BQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ZqpysaAo4BQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ZqpysaAo4BQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "There are places I'll remember all my life though some have changed forever, not for better. Some have gone and some remain. All these places had their moments with lovers and friends I still can recall. Some are dead and some are living. In my life, I've loved them all. But of all these friends and lovers, there is no one compares with you. And these memories lose their meaning when I think of love as something new. Though I know I'll never lose affection for people and things that went before, I know I'll often stop and think about them. In my life, I love you more. Though I know I'll never lose affection for people and things that went before, I know I'll often stop and think about them. In my life, I love you more. In my life, I love you more."
+  },
+  "metadata": {
+    "youtube_id": "ZqpysaAo4BQ",
+    "title_extracted": null,
+    "corpus_id": "ZqpysaAo4BQ",
+    "uploader": "The Beatles Stuff",
+    "audio_file": "corpus/01_music_videos_audio/audio/ZqpysaAo4BQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4968778,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.659776,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:41:52Z"
+  },
+  "status": "success",
+  "error": null
+}

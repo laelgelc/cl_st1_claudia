@@ -1,0 +1,38 @@
+{
+  "corpus_id": "w8KQmps-Sog",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/w8KQmps-Sog.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/w8KQmps-Sog.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/w8KQmps-Sog.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Paranoia is in bloom The dystopia Transmissions will resume They try to Push us, try to keep us all down And hope that We will never see the truth around Go! Another promise, another scene, another A packaged lie to keep us trapped in greed, yeah A greenbelt wrapped around our minds and endless Red tape to keep the truth confined Go! They will not force us They will stop degrading us They will not control us We will be victorious Go! Interchanging mind control Come with a revolution, take its toll If you could flick the switch and open your third eye You'd see that we should never be afraid to die Rise up and take the power back It's time that the fat cats had a heart attack You know that their time's coming to an end We have to unify and watch their flag ascend Go! They will not force us They will stop degrading us They will not control us We will be victorious Go! Hey! Hey! Hey! Hey! Hey! Hey! Hey! Hey! They will not force us They will stop degrading us They will not control us We will be victorious Go!"
+  },
+  "metadata": {
+    "youtube_id": "w8KQmps-Sog",
+    "title_extracted": null,
+    "corpus_id": "w8KQmps-Sog",
+    "uploader": "Muse",
+    "audio_file": "corpus/01_music_videos_audio/audio/w8KQmps-Sog.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8048672,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.108837,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:43:33Z"
+  },
+  "status": "success",
+  "error": null
+}

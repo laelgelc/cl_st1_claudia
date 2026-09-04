@@ -1,0 +1,38 @@
+{
+  "corpus_id": "hqqkGxZ1_8I",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hqqkGxZ1_8I.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/hqqkGxZ1_8I.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/hqqkGxZ1_8I.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I met a gin-soaked barroom queen in Memphis She tried to take me upstairs for a ride She had to heave me right across her shoulder 'Cause I just can't seem to drink you off my mind It's a honky tonk woman Give me, give me, give me the honky tonk blues A laid-back divorcee in New York City I had to put up some kind of a fight The lady then she covered me in roses She blew my nose and then she blew my mind It's a honky tonk woman Give me, give me, give me the honky tonk blues Yeah, alright! It's a honky tonk, honky tonk woman Give me, give me, give me the honky tonk blues It's a honky tonk, honky tonk woman Give me, give me, give me the honky tonk blues Oh!"
+  },
+  "metadata": {
+    "youtube_id": "hqqkGxZ1_8I",
+    "title_extracted": null,
+    "corpus_id": "hqqkGxZ1_8I",
+    "uploader": "ABKCOVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/hqqkGxZ1_8I.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5845562,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.655855,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:23:18Z"
+  },
+  "status": "success",
+  "error": null
+}

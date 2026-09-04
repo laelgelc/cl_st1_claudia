@@ -1,0 +1,38 @@
+{
+  "corpus_id": "LHcP4MWABGY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/LHcP4MWABGY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/LHcP4MWABGY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/LHcP4MWABGY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "One man come in the name of love One man come and go One man come he to justify One man to overthrow In the name of love One more in the name of love In the name of love One more in the name of love One man come on a barbed wire fence One man he resist One man washed on an empty beach One man betrayed with a kiss In the name of love One more in the name of love In the name of love One more in the name of love Early morning, April 4 Shot rings out in the Memphis sky Free at last, they took your life They could not take your pride In the name of love One more in the name of love In the name of love One more in the name of love In the name of love One more in the name of love In the name of love One more in the name of love"
+  },
+  "metadata": {
+    "youtube_id": "LHcP4MWABGY",
+    "title_extracted": null,
+    "corpus_id": "LHcP4MWABGY",
+    "uploader": "U2",
+    "audio_file": "corpus/01_music_videos_audio/audio/LHcP4MWABGY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7894862,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.792044,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:34:11Z"
+  },
+  "status": "success",
+  "error": null
+}

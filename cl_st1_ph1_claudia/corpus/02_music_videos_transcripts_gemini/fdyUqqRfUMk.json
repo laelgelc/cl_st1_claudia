@@ -1,0 +1,38 @@
+{
+  "corpus_id": "fdyUqqRfUMk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/fdyUqqRfUMk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/fdyUqqRfUMk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/fdyUqqRfUMk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Let me turn on the light I got a little freakiness inside And you know that the man has got to deal with it I don't care what they say I'm not about to pay nobody's way 'Cause it's all about the dog in me I want a freak in the morning, a freak in the evening Just like me I need a rough neck nigga that can satisfy me Just for me If you are that kind of man 'Cause I'm that kind of girl I got a freaky secret, everybody sing 'Cause we don't give a damn about a thing 'Cause I will be a freak until the day, until the dawn And we can pump all through the night till the early morn Come on and I will take you around the hood, on against the lean 'Cause we can pump any time of day, it's all good for me Boy, you're moving kind of slow You got to keep it up, now there you go That's just one thing that a man must do I'm packing all the flavor you need I got you shook up on your knees 'Cause it's all about the dog in me I want a freak in the morning, a freak in the evening Just like me I need a rough neck nigga that can satisfy me Just for me If you are that kind of man 'Cause I'm that kind of girl I got a freaky secret, everybody sing 'Cause we don't give a damn about a thing 'Cause I will be a freak until the day, until the dawn And we can pump all through the night till the early morn Come on and I will take you around the hood, on against the lean 'Cause we can pump any time of day, it's all good for me 'Cause I will be a freak until the day, until the dawn And we can pump all through the night till the early morn Come on and I will take you around the hood, on against the lean 'Cause we can pump any time of day, it's all good for me 1-2 to the 3, Adina do you wanna get freaky with me? 1-2 to the 2 to the 3, Adina do you wanna get freaky with me? 1-2 to the 2 to the 3, Adina do you wanna get freaky with me? 1-2 to the 2 to the 3, Adina do you wanna get freaky with me? I will be a freak until the day, until the dawn And we can pump all through the night till the early morn Come on and I will take you around the hood, on against the lean 'Cause we can pump any time of day, it's all good for me 'Cause I will be a freak until the day, until the dawn And we can pump all through the night till the early morn Come on and I will take you around the hood, on against the lean 'Cause we can pump any time of day, it's all good for me 'Cause I will be a freak until the day, until the dawn And we can pump all through the night till the early morn Come on and I will take you around the hood..."
+  },
+  "metadata": {
+    "youtube_id": "fdyUqqRfUMk",
+    "title_extracted": null,
+    "corpus_id": "fdyUqqRfUMk",
+    "uploader": "UPROXX",
+    "audio_file": "corpus/01_music_videos_audio/audio/fdyUqqRfUMk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7876286,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.012954,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:41:57Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "UtvmTu4zAMg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/UtvmTu4zAMg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/UtvmTu4zAMg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/UtvmTu4zAMg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I can't stop the way I feel. Things you do don't seem real. Tell me why I gotta learn 'cause we're running out of time. Don't you ever answer me? Is this a crazy game? She drives me crazy like no one else. She drives me crazy and I can't help myself. I can't get no rest. People say I'm obsessed. Everything you say is lies, but to me it's no surprise. What I have for you, there's no one else. She drives me crazy like no one else. She drives me crazy and I can't help myself. I won't break for no one. No one else can be alone. She drives me crazy like no one else. She drives me crazy and I can't help myself. She drives me crazy like no one else. She drives me crazy and I can't help myself. She drives me crazy like no one else. She drives me crazy and I can't help myself."
+  },
+  "metadata": {
+    "youtube_id": "UtvmTu4zAMg",
+    "title_extracted": null,
+    "corpus_id": "UtvmTu4zAMg",
+    "uploader": "London Records",
+    "audio_file": "corpus/01_music_videos_audio/audio/UtvmTu4zAMg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6988356,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.844795,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:04:22Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "yNHdPPJGowY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yNHdPPJGowY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/yNHdPPJGowY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/yNHdPPJGowY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Billy rapped about suicide\nGot kicked in the head when he was 25\nSpeed jive, don't wanna stay alive\nWhen you're 25\nAnd Wendy's stealing clothes from Marks and Sparks\nAnd Freddy's got spots from red bandanas\nFrom his face, a funky little boat race\n\nTelevision man is crazy\nSaying with juvenile delinquent wrecks\nOh man, I need TV when I got T. Rex\nOh brother, you guess, I'm a dude, dad\n\nAll the young dudes\nCarry the news\nBoogaloo dudes\nCarry the news\nAll the young dudes\nCarry the news\nBoogaloo dudes\nCarry the news\n\n(Hey! Dudes! Where are you? Stand up! I wanna hear you! I wanna see you! I wanna talk to you! All of you! Now!)\n\nLucy's looking sweet 'cause he dresses like a queen\nBut he can kick like a mule\nIt's a real mean team, but we can love\nOh yes, we can love\nAnd my brother's back at home with his Beatles and his Stones\nWe never got it off on that revolution stuff\nWhat a drag\nToo many snags\n\nNow I've drunk a lot of wine and I'm feeling fine\nGonna race some cats to bed\nOh, is that concrete all around or is it in my head?\n\nOh, I'm a dude, dad\n\nAll the young dudes\nCarry the news\nBoogaloo dudes\nCarry the news\n\n(Hey dudes! Where are you? Stand up!)\n\nAll the young dudes\nCarry the news\nBoogaloo dudes\nCarry the news\n\n(I wanna hear ya! I wanna see ya! I wanna embrace ya!)\n\nAll the young dudes\nCarry the news\nBoogaloo dudes\nCarry the news\n\n(What's the news? Let's hear the news, come on! I wanna kiss you!)\n\nAll the young dudes\nCarry the news\nBoogaloo dudes\nCarry the news\n\n(Hey, you there! With the glasses! I want you! I want you at the front! Now!)\n\nAll the young dudes\nCarry the news\nBoogaloo dudes\nCarry the news\n\n(Now do you understand? Now you're bringin' 'em down, 'cause I want it! Yeah! I want it right here! Bring it close! Bring it... HA! That's it! There you go! I've wanted to do this for years! Ha! There you go! How do you feel?)\n\nAll the young dudes\nCarry the news"
+  },
+  "metadata": {
+    "youtube_id": "yNHdPPJGowY",
+    "title_extracted": null,
+    "corpus_id": "yNHdPPJGowY",
+    "uploader": "MOTTTHEHOOPLEVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/yNHdPPJGowY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6855352,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.182947,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:59:42Z"
+  },
+  "status": "success",
+  "error": null
+}

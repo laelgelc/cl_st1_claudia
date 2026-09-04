@@ -1,0 +1,38 @@
+{
+  "corpus_id": "n4QSYx4wVQg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/n4QSYx4wVQg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/n4QSYx4wVQg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/n4QSYx4wVQg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "We were at a party His mother had a radio We were at the beach Everybody had matching towels Somebody went under a dock And there they saw a rock It wasn't a rock It was a rock lobster Rock lobster Rock lobster Motion in the ocean His mother on the porch Somebody went under a dock And there they saw a rock It wasn't a rock It was a rock lobster Rock lobster Rock lobster Motion in the ocean Air-conditioned dog house Somebody went under a dock And there they saw a rock It wasn't a rock It was a rock lobster Rock lobster Rock lobster Down, down Boys in bikinis Girls in surfboards Everybody's rocking Everybody's grooving Boy in a bikini Girl in a surfboard Everybody's rocking Everybody's grooving Rock lobster Rock lobster Match-book mattress Match-book cover Match-book mattress Match-book cover Oh, look at that jam Look at that giant piranha Rock lobster Rock lobster Down, down Rock lobster Rock lobster Rock lobster Rock lobster Rock Boys in bikinis Girls in surfboards Everybody's rocking Everybody's grooving Gotta go to the wire Having a party Baking potatoes Baking in the sun Put on your nose guard Put on the lifeguard Pass the tanning butter Here comes a stingray There goes a manta ray In walked a turbo There goes a dogfish Chased by a catfish In walked a piranha There comes a narwhal Here comes a bikini whale! Rock lobster Rock lobster Rock lobster Rock lobster"
+  },
+  "metadata": {
+    "youtube_id": "n4QSYx4wVQg",
+    "title_extracted": null,
+    "corpus_id": "n4QSYx4wVQg",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/n4QSYx4wVQg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 13661586,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.168113,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:18:29Z"
+  },
+  "status": "success",
+  "error": null
+}

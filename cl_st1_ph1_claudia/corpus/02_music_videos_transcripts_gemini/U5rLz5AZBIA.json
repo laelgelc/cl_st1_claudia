@@ -1,0 +1,38 @@
+{
+  "corpus_id": "U5rLz5AZBIA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/U5rLz5AZBIA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/U5rLz5AZBIA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/U5rLz5AZBIA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Yeah, yeah. Yeah, yeah. Yeah, yeah. I ain't got no money. I ain't got no car to take you on a date. I can't even buy you flowers, flowers. But together, we be the perfect soulmates. Talk to me, girl. Oh baby, it's alright if you ain't got flowers for me. If we've got love, then you can still touch my heart for free. We can do without the expensive shoes and rings. We can work it out till we get it right. Baby, if you're broke, you can get it, 'cause I like you just the way you are. Don't worry 'bout a thing, 'cause you have the love I'm waiting for. Don't need no cheese or no cars, 'cause I like you just the way you are. Baby, if you're broke, you can get it, 'cause I like you just the way... I ain't got no Beetle. I ain't got no red American Express. We ain't got no exotic bodies. It don't matter, 'cause I'm the one that loves you best. Talk to me, girl. Oh baby, it's alright if you ain't got flowers for me. If we've got love, then you can still touch my heart for free. We can do without the expensive shoes and rings. We can work it out till we get it right. Baby, if you're broke, you can get it, 'cause I like you just the way you are. Don't worry 'bout a thing, 'cause you have the love I'm waiting for. Don't need no cheese or no cars, 'cause I like you just the way you are. Baby, if you're broke, you can get it, 'cause I like you just the way you are. Listen, baby girl, I ain't got a huge old house, I rent a room in the house. Listen, baby girl, I ain't got a motorboat, but I can float your boat. Listen, baby girl, once you get a dose of dough, you gonna want some more. Listen, baby girl, I wanna make you... I want you, babe. Want you, babe. My money ain't mob deep like Filthy Lucre, and it's really not quite Yves Saint Laurent. Your body ain't Pamela Anderson, it's a struggle just to get you in the Caravan. But listen, baby girl, before I let you lose a pound, I'll buy a bigger castle. Listen, baby girl, I love you just the way you are, the way you are. Oh baby, it's alright if you ain't got flowers for me. If we've got love, then you can still touch my heart for free. We can do without the expensive shoes and rings. We can work it out till we get it right. Baby, if you're broke, you can get it, 'cause I like you just the way you are. Don't worry 'bout a thing, 'cause you have the love I'm waiting for. Don't need no cheese or no cars, 'cause I like you just the way you are. Baby, if you're broke, you can get it, 'cause I like you just the way you are. Baby, if you're broke, you can get it, 'cause I like you just the way you are. Don't worry 'bout a thing, 'cause you have the love I'm waiting for. Don't need no cheese or no cars, 'cause I like you just the way you are. Baby, if you're broke, you can get it, 'cause I like you just the way..."
+  },
+  "metadata": {
+    "youtube_id": "U5rLz5AZBIA",
+    "title_extracted": null,
+    "corpus_id": "U5rLz5AZBIA",
+    "uploader": "Timbaland",
+    "audio_file": "corpus/01_music_videos_audio/audio/U5rLz5AZBIA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6774360,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.509176,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:03:37Z"
+  },
+  "status": "success",
+  "error": null
+}

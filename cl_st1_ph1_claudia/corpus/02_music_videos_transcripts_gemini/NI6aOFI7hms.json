@@ -1,0 +1,38 @@
+{
+  "corpus_id": "NI6aOFI7hms",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/NI6aOFI7hms.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/NI6aOFI7hms.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/NI6aOFI7hms.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Dear, I fear we're facing a problem\nYou love me no longer, I know\nAnd maybe there is nothing that I can do\nTo make you do\n\nMama tells me I shouldn't bother\nThat I ought to stick to another man\nA man that surely deserves me\nBut I think you do\n\nSo I cry, and I pray, and I beg\n\nLove me, love me, say that you love me\nFool me, fool me, go on and fool me\nLove me, love me, pretend that you love me\nLeave me, leave me, just say that you need me\n\nSo I cry\nAnd I beg for you to\n\nLove me, love me, say that you love me\nLeave me, leave me, just say that you need me\nI can't care 'bout anything but you\n\nLately I have desperately pondered\nSpent my nights awake and I wonder\nWhat I could have done in another way\nTo make you stay\n\nReason will not lead to solution\nI will end up lost in confusion\nI don't care if you really care as long as you don't go\n\nSo I cry, and I pray, and I beg\n\nLove me, love me, say that you love me\nFool me, fool me, go on and fool me\nLove me, love me, pretend that you love me\nLeave me, leave me, just say that you need me\n\nSo I cry\nAnd I beg for you to\n\nLove me, love me, say that you love me\nLeave me, leave me, just say that you need me\nI can't care 'bout anything but you\n\nAnything but you\nLove me, love me\nSay that you love me\nFool me, fool me\nGo on and fool me\nLove me, love me\nI know that you need me\nI can't care 'bout anything but you"
+  },
+  "metadata": {
+    "youtube_id": "NI6aOFI7hms",
+    "title_extracted": null,
+    "corpus_id": "NI6aOFI7hms",
+    "uploader": "The Cardigans Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/NI6aOFI7hms.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6269838,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.966549,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:18:54Z"
+  },
+  "status": "success",
+  "error": null
+}

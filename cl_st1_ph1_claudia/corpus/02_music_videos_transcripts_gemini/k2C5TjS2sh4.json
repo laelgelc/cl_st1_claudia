@@ -1,0 +1,38 @@
+{
+  "corpus_id": "k2C5TjS2sh4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/k2C5TjS2sh4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/k2C5TjS2sh4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/k2C5TjS2sh4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "It must have been love, but it's over now. Lay a whisper on my pillow. Leave the winter on the ground. I wake up lonely, there's an air of silence in the bedroom all around. Touch me now, I close my eyes and dream away. It must have been love, but it's over now. It must have been good, but I lost it somehow. It must have been love, but it's over now. From the moment we touched till the time had run out. Make believe we're together, that I'm sheltered by your heart. But in and outside, I turn to water like a teardrop in your palm. And it's a hard winter's day, I dream away. It must have been love, but it's over now. It was all that I wanted, now I'm living without. It must have been love, but it's over now. It's where the water flows. It's where the wind blows. It must have been love, but it's over now. It must have been good, but I lost it somehow. It must have been love, but it's over now. From the moment we touched till the time had run out. Yeah, it must have been love, but it's over now. It was all that I wanted, now I'm living without. It must have been love, but it's over now. It's where the water flows. It's where the wind blows. Oh... Now... Now..."
+  },
+  "metadata": {
+    "youtube_id": "k2C5TjS2sh4",
+    "title_extracted": null,
+    "corpus_id": "k2C5TjS2sh4",
+    "uploader": "Roxette",
+    "audio_file": "corpus/01_music_videos_audio/audio/k2C5TjS2sh4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8310222,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.438122,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:16:16Z"
+  },
+  "status": "success",
+  "error": null
+}

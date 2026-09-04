@@ -1,0 +1,38 @@
+{
+  "corpus_id": "syIUmrSJWAU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/syIUmrSJWAU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/syIUmrSJWAU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/syIUmrSJWAU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "We were born before the wind Oh so younger than the sun Yeah, the bonnie boat was one as we sailed into the mystic Hark now, hear the sailors cry Smell the sea and feel the sky Let your soul and spirit fly into the mystic Yeah, when that foghorn blows I will be coming home Yeah, when that foghorn blows I wanna hear it I don't have to fear it, and I wanna rock your gypsy soul Just like way back in the days of old And magnificently we will fold into the mystic When that foghorn blows You know I will be coming home Yeah, when that foghorn blows I gotta hear it I don't have to fear it, and I wanna rock your gypsy soul Just like way back in the days of old And together we will fold into the mystic Come on, girl Too late to stop now"
+  },
+  "metadata": {
+    "youtube_id": "syIUmrSJWAU",
+    "title_extracted": null,
+    "corpus_id": "syIUmrSJWAU",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/syIUmrSJWAU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6856096,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 26.018732,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:24:13Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "a01QQZyl-_I",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/a01QQZyl-_I.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/a01QQZyl-_I.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/a01QQZyl-_I.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Pressure\nPushing down on me\nPressing down on you, no man ask for\nUnder pressure\nThat burns a building down\nSplits a family in two\nPuts people on streets\n\nIt's the terror of knowing what this world is about\nWatching some good friends screaming, \"Let me out!\"\nTomorrow gets me higher\nPressure on people, people on streets\n\nChipped town\nKicked my brains round the floor\nThese are the days it never rains but it pours\nPeople on streets\nPeople on streets\n\nIt's the terror of knowing what this world is about\nWatching some good friends screaming, \"Let me out!\"\nTomorrow gets me higher, higher, higher\nPressure on people, people on streets\n\nTurned away from it all like a blind man\nSat on the fence, but it don't work\nKeep coming up with love, but it's so slashed and torn\nWhy? Why? Why?\n\nInsanity laughs, under pressure we're breaking\nCan't we give ourselves one more chance?\nWhy can't we give love that one more chance?\nWhy can't we give love, give love, give love, give love, give love, give love, give love, give love?\n\n'Cause love's such an old-fashioned word\nAnd love dares you to care for the people on the edge of the night\nAnd love dares you to change our way of caring about ourselves\nThis is our last dance\nThis is our last dance\nThis is ourselves\n\nUnder pressure\nUnder pressure\nPressure"
+  },
+  "metadata": {
+    "youtube_id": "a01QQZyl-_I",
+    "title_extracted": null,
+    "corpus_id": "a01QQZyl-_I",
+    "uploader": "Queen Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/a01QQZyl-_I.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8097712,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.235143,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:07:20Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "S-rB0pHI9fU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/S-rB0pHI9fU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/S-rB0pHI9fU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/S-rB0pHI9fU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Penny Lane, there is a barber showing photographs Of every head he's had the pleasure to know And all the people that come and go Stop and say hello On the corner is a banker with a motorcar The little children laugh at him behind his back And the banker never wears a mack In the pouring rain Very strange Penny Lane is in my ears and in my eyes There beneath the blue suburban skies I sit, and meanwhile back In Penny Lane, there is a fireman with an hourglass And in his pocket is a portrait of the Queen He likes to keep his fire engine clean It's a clean machine Penny Lane is in my ears and in my eyes A four of fish and finger pies in summer Meanwhile back behind the shelter in the middle of a roundabout The pretty nurse is selling poppies from a tray And though she feels as if she's in a play She is anyway Penny Lane, the barber shaves another customer We see the banker sitting waiting for a trim And then the fireman rushes in From the pouring rain Very strange Penny Lane is in my ears and in my eyes There beneath the blue suburban skies I sit, and meanwhile back Penny Lane is in my ears and in my eyes There beneath the blue suburban skies Penny Lane"
+  },
+  "metadata": {
+    "youtube_id": "S-rB0pHI9fU",
+    "title_extracted": null,
+    "corpus_id": "S-rB0pHI9fU",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/S-rB0pHI9fU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5977824,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.295039,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:20:53Z"
+  },
+  "status": "success",
+  "error": null
+}

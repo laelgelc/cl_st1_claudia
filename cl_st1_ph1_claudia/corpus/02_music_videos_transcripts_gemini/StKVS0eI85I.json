@@ -1,0 +1,38 @@
+{
+  "corpus_id": "StKVS0eI85I",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/StKVS0eI85I.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/StKVS0eI85I.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/StKVS0eI85I.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Color me your color, baby \nColor me your car \nColor me your color, darling \nI know who you are \nCome up your color chart \nI know where you're coming from \n\nCall me (Call me) \nOn the line \nCall me, call me, any, anytime \nCall me (Call me) \nI'll arrive \nYou can call me any day or night \nCall me \n\nCover me with kisses, baby \nCover me with love \nRoll me in designer sheets \nI'll never get enough \nEmotions come, I don't know why \nCover up love's alibi \n\nCall me (Call me) \nOn the line \nCall me, call me, any, anytime \nCall me (Call me) \nI'll arrive \nWhen you're ready we can share the wine \nCall me \n\nOoh, speak the language of love \nOoh, amore, chiamo \nOoh, appelle-moi, mon chéri \nAppelle-moi \n\nAnytime, anyplace, anywhere, any way \nAnytime, anyplace, anywhere, any day"
+  },
+  "metadata": {
+    "youtube_id": "StKVS0eI85I",
+    "title_extracted": null,
+    "corpus_id": "StKVS0eI85I",
+    "uploader": "BlondieMusicOfficial",
+    "audio_file": "corpus/01_music_videos_audio/audio/StKVS0eI85I.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4320104,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 9.350004,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:43:33Z"
+  },
+  "status": "success",
+  "error": null
+}

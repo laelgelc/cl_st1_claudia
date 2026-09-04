@@ -1,0 +1,38 @@
+{
+  "corpus_id": "WBKnpyoFEBo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/WBKnpyoFEBo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/WBKnpyoFEBo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/WBKnpyoFEBo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Hey, um, it's me. Call me when you can.  Tell me how I'm supposed to breathe with no air.  If I should die before I wake It's 'cause you took my breath away Losing you is like living in a world with no air Oh I'm here alone and don't wanna leave My heart won't move, it's incomplete Wish there was a way that I could make you understand But how do you expect me To live alone with just me? 'Cause my world revolves around you, it's so Hard for me to breathe Tell me how I'm supposed to breathe with no air Can't live, can't breathe with no air That's how I feel whenever you ain't there There's no air, no air Got me out here in the water so deep Tell me how you gonna be without me? If you ain't here I just can't breathe There's no air, no air No air, no air No, oh No air, no air Oh, oh No air, no air I walked, I ran, I jumped, I flew Right off the ground to float to you There's no gravity to hold me down, for real But somehow I'm still alive inside You took my breath, but I survived I don't know how, but I don't even care So how do you expect me To live alone with just me? 'Cause my world revolves around you, it's so Hard for me to breathe Tell me how I'm supposed to breathe with no air Can't live, can't breathe with no air That's how I feel whenever you ain't there There's no air, no air Got me out here in the water so deep Tell me how you gonna be without me? If you ain't here I just can't breathe There's no air, no air No air, no air Oh, oh No air, no air No, oh No air, no air No more Oh Baby Oh No air, no air Hey No air, no air Oh Tell me how I'm supposed to breathe with no air (No air) Can't live, can't breathe with no air (No air) That's how I feel whenever you ain't there (No breathing, no breathing at all) There's no air, no air Got me out here in the water so deep (So deep) Tell me how you gonna be without me? If you ain't here I just can't breathe (Can't breathe no more, baby) Breathe, no Baby, baby No Hard for me to breathe Tell me how I'm supposed to breathe with no air (No air) Can't live, can't breathe with no air (No air) That's how I feel whenever you ain't there (No air) There's no air, no air Got me out here in the water so deep Tell me how you gonna be without me? If you ain't here I just can't breathe There's no air, no air No air, no air Oh No air, no air No air No air"
+  },
+  "metadata": {
+    "youtube_id": "WBKnpyoFEBo",
+    "title_extracted": null,
+    "corpus_id": "WBKnpyoFEBo",
+    "uploader": "Jordin Sparks",
+    "audio_file": "corpus/01_music_videos_audio/audio/WBKnpyoFEBo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9213014,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.508158,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:27:00Z"
+  },
+  "status": "success",
+  "error": null
+}

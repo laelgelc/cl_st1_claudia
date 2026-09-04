@@ -1,0 +1,38 @@
+{
+  "corpus_id": "8WEtxJ4-sh4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8WEtxJ4-sh4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/8WEtxJ4-sh4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/8WEtxJ4-sh4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "A lonely mother gazing out of her window Staring at a sun that she just can't touch If at any time he's in a jam, she'll be by his side But he doesn't realize he hurts her so much And all the praying just ain't helping at all 'Cause he can't seem to keep himself out of trouble So he goes out and he makes his money the best way he knows how Another body laying cold in the gutter, listen to me Don't go chasing waterfalls Please stick to the rivers and the lakes that you're used to I know that you're gonna have it your way or nothing at all But I think you're moving too fast Little precious has a natural obsession For temptation, but he just can't see She gives him loving that his body can handle But all he can say is \"Baby, it's good to me\" One day he goes and takes a glimpse in the mirror But he doesn't recognize his face His health is fading and he doesn't know why Three letters took him to his final resting place, y'all don't hear me Don't go chasing waterfalls Please stick to the rivers and the lakes that you're used to I know that you're gonna have it your way or nothing at all But I think you're moving too fast Come on I seen a rainbow yesterday But too many storms have come and gone Leaving not a trace of not one God-given ray Is it because my life is ten shades of gray? I pray all ten fade away Seldom praise him for the sunny days And like his promise is true Only my faith can undo The many chances I've blew To bring my life to an end Clear blue and unconditional skies Have dried the tears from my eyes No more lonely cries My only bleeding hope Is for the folk who can't cope With such an enduring pain That it keeps them in the pouring rain Who's to blame for to retain into your own vein? What a shame you shoot and aim for someone else's brain You claim the insane and name 'cause they in time for falling rain I say the system got you victim to your own mind Dreams are hopeless aspirations in hopes that come true Believe in yourself, the rest is up to me and you Don't go chasing waterfalls Please stick to the rivers and the lakes that you're used to I know that you're gonna have it your way or nothing at all But I think you're moving too fast Don't go chasing waterfalls Please stick to the rivers and the lakes that you're used to I know that you're gonna have it your way or nothing at all But I think you're moving too fast"
+  },
+  "metadata": {
+    "youtube_id": "8WEtxJ4-sh4",
+    "title_extracted": null,
+    "corpus_id": "8WEtxJ4-sh4",
+    "uploader": "TLC",
+    "audio_file": "corpus/01_music_videos_audio/audio/8WEtxJ4-sh4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10228004,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.262301,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:11:47Z"
+  },
+  "status": "success",
+  "error": null
+}

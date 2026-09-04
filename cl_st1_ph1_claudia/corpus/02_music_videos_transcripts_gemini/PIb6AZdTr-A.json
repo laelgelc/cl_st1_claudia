@@ -1,0 +1,38 @@
+{
+  "corpus_id": "PIb6AZdTr-A",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/PIb6AZdTr-A.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/PIb6AZdTr-A.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/PIb6AZdTr-A.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I come home in the morning light \nMy mother says, \"When you gonna live your life right?\" \nOh mother dear, we're not the fortunate ones \nAnd girls, they wanna have fun \nOh, girls just wanna have fun \n\nThe phone rings in the middle of the night \nMy father yells, \"What you gonna do with your life?\" \nOh daddy dear, you know you're still number one \nBut girls, they wanna have fun \nOh, girls just wanna have... \nThat's all they really want... \nIs some fun... \nWhen the working day is done \nOh, girls, they wanna have fun \nOh, girls just wanna have fun \nGirls just wanna, wanna have fun \nGirls, wanna have \n\nSome boys take a beautiful girl \nAnd hide her away from the rest of the world \nI wanna be the one to walk in the sun \nOh girls, they wanna have fun \nOh, girls just wanna have... \nThat's all they really want... \nIs some fun... \nWhen the working day is done \nOh, girls, they wanna have fun \nOh, girls just wanna have fun \nGirls just wanna, wanna have fun \nGirls, wanna have \nThey just wanna, they just wanna \nThey just wanna, they just wanna \nOh, girls \nGirls just wanna have fun \nWhen the working, when the working day is done \nWhen the working day is done \nGirls just wanna have fun \nEverybody \nHa! Ha! \nThey just wanna, they just wanna \nThey just wanna, they just wanna \nOh, girls \nGirls, girls just wanna have fun \nWhen the working, when the working day is done \nWhen the working day is done \nGirls just wanna have fun \nEverybody \nThey just wanna, they just wanna \nThey just wanna, they just wanna \nOh, girls \nGirls, girls just wanna have fun \nWhen the working, when..."
+  },
+  "metadata": {
+    "youtube_id": "PIb6AZdTr-A",
+    "title_extracted": null,
+    "corpus_id": "PIb6AZdTr-A",
+    "uploader": "Cyndi Lauper",
+    "audio_file": "corpus/01_music_videos_audio/audio/PIb6AZdTr-A.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8536848,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.157514,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:08:02Z"
+  },
+  "status": "success",
+  "error": null
+}

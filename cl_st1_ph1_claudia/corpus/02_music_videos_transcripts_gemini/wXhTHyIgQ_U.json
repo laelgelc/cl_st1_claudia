@@ -1,0 +1,38 @@
+{
+  "corpus_id": "wXhTHyIgQ_U",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wXhTHyIgQ_U.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/wXhTHyIgQ_U.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/wXhTHyIgQ_U.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "We couldn't turn around 'til we were upside down\nI'll be the bad guy now, but I know I ain't to blame\nI couldn't be there even if I tried\nYou'd offer leave there, we choice every time\n\nSeasons change and our love went cold\nFeed the flame 'cause we can't let go\nRun away, but we're running in circles\nRun away, run away\nI dare you to do something\nI'm waiting on you again, so I don't take the blame\nRun away, but we're running in circles\nRun away, run away, run away\n\nLet go, I got a feeling that it's time to let go\nI said so, I knew that this was doomed from the get-go\nYou thought that it was special, special\nBut it was just the sex though, the sex though\nAnd I still hear the echoes\nI got a feeling that it's time to let go, let it go\n\nSeasons change and our love went cold\nFeed the flame 'cause we can't let go\nRun away, but we're running in circles\nRun away, run away\nI dare you to do something\nI'm waiting on you again, so I don't take the blame\nRun away, but we're running in circles\nRun away, run away, run away\n\nMaybe you don't understand what I'm going through, it's only me\nWhat you got to lose?\nMake up your mind, tell me what are you gonna do, it's only me\nLet it go\n\nSeasons change and our love went cold\nFeed the flame 'cause we can't let go\nRun away, but we're running in circles\nRun away, run away\nI dare you to do something\nI'm waiting on you again, so I don't take the blame\nRun away, but we're running in circles\nRun away, run away, run away"
+  },
+  "metadata": {
+    "youtube_id": "wXhTHyIgQ_U",
+    "title_extracted": null,
+    "corpus_id": "wXhTHyIgQ_U",
+    "uploader": "Post Malone",
+    "audio_file": "corpus/01_music_videos_audio/audio/wXhTHyIgQ_U.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7243962,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.418931,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:31:17Z"
+  },
+  "status": "success",
+  "error": null
+}

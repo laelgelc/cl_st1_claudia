@@ -1,0 +1,38 @@
+{
+  "corpus_id": "wvkzoqQ5Oak",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wvkzoqQ5Oak.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/wvkzoqQ5Oak.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/wvkzoqQ5Oak.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "[00:09] ¡Vámonos!\n\n[00:31] Save me from this prison\n[00:35] Lord, help me get away\n[00:41] 'Cause only you can save me now from this misery\n[00:51] I've been lost in my own place\n[00:56] And I'm getting weary\n[01:00] How far is heaven?\n[01:03] And I know that I need to change my ways of living\n[01:10] How far is heaven?\n[01:12] Lord, can you tell me?\n\n[01:23] I've been locked up way too long in this crazy world\n[01:30] How far is heaven?\n[01:33] And I just keep on praying, Lord, and just keep on living\n[01:40] How far is heaven?\n[01:43] Yeah, Lord, can you tell me?\n[01:45] How far is heaven?\n[01:48] I just gotta know how far, yeah\n[01:51] How far is heaven?\n[01:53] Yeah, Lord, can you tell me?\n\n[02:16] Tú que estás en el cielo\n[02:21] Échame tu bendición\n\n[02:27] 'Cause I know there's a better place than this place I'm living\n[02:35] How far is heaven?\n[02:38] And I just gotta have some faith and just keep on giving\n[02:45] How far is heaven?\n[02:48] Yeah, Lord, can you tell me?\n[02:51] How far is heaven?\n[02:53] I just gotta know how far, yeah\n[02:56] How far is heaven?\n[02:59] Yeah, Lord, can you tell me?\n[03:01] How far is heaven?\n[03:04] I just gotta know how far\n[03:09] I just wanna know how far"
+  },
+  "metadata": {
+    "youtube_id": "wvkzoqQ5Oak",
+    "title_extracted": null,
+    "corpus_id": "wvkzoqQ5Oak",
+    "uploader": "Los Lonely Boys",
+    "audio_file": "corpus/01_music_videos_audio/audio/wvkzoqQ5Oak.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7434180,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.052484,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:47:43Z"
+  },
+  "status": "success",
+  "error": null
+}

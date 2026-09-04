@@ -1,0 +1,38 @@
+{
+  "corpus_id": "GSaxhqJG1Mw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/GSaxhqJG1Mw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/GSaxhqJG1Mw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/GSaxhqJG1Mw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Wise men say only fools, only fools rush in. But I can't help falling in love with you. Shall I stay? Would it be, would it be a sin if I can't help falling in love with you? Like a river flows surely to the sea, darling so it goes, some things are meant to be. Take my hand, take my whole life too, for I can't help falling in love with you. For I can't help falling in love with you."
+  },
+  "metadata": {
+    "youtube_id": "GSaxhqJG1Mw",
+    "title_extracted": null,
+    "corpus_id": "GSaxhqJG1Mw",
+    "uploader": "Elvis Presley",
+    "audio_file": "corpus/01_music_videos_audio/audio/GSaxhqJG1Mw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3326662,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 9.880772,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:48:35Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "4N1iwQxiHrs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4N1iwQxiHrs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/4N1iwQxiHrs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/4N1iwQxiHrs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Josie's on a vacation far away Come around and talk it over So many things that I want to say You know I like my girls a little bit older I just want to use your love tonight I don't want to lose your love tonight I ain't got many friends that I can talk to No one's around when I'm in trouble You know I'd do anything for you Stay the night, but keep it undercover I just want to use your love tonight Whoa I don't want to lose your love tonight Try to stop my hands from shaking Something in my mind's not making sense It's been a while since we've been all alone I can't hide the way I'm feeling As you're leaving, please, won't you close the door? And don't forget what I told ya Just 'cause you're right doesn't mean I'm wrong Another shoulder to cry upon I just want to use your love tonight Yeah I don't want to lose your love tonight Yeah I just want to use your love tonight I don't want to lose your love tonight I just want to use your love tonight I don't want to lose your love tonight Oh, yeah Yeah Yeah! Your love Your love Your love I don't want to lose your love"
+  },
+  "metadata": {
+    "youtube_id": "4N1iwQxiHrs",
+    "title_extracted": null,
+    "corpus_id": "4N1iwQxiHrs",
+    "uploader": "TheOutfieldVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/4N1iwQxiHrs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8080622,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.764788,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:21:04Z"
+  },
+  "status": "success",
+  "error": null
+}

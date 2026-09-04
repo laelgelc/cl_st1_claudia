@@ -1,0 +1,38 @@
+{
+  "corpus_id": "-tJYN-eG1zk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/-tJYN-eG1zk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/-tJYN-eG1zk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/-tJYN-eG1zk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Buddy, you're a boy, make a big noise Playing in the street, gonna be a big man someday You got mud on your face, you big disgrace Kicking your can all over the place, sing it We will, we will rock you We will, we will rock you Buddy, you're a young man, hard man Shoutin' in the street, gonna take on the world someday You got blood on your face, you big disgrace Waving your banner all over the place We will, we will rock you Sing it now We will, we will rock you Buddy, you're an old man, poor man Pleading with your eyes, gonna make you some peace someday You got mud on your face, big disgrace Somebody better put you back into your place We will, we will rock you Sing it! We will, we will rock you Everybody! We will, we will rock you We will, we will rock you All right!"
+  },
+  "metadata": {
+    "youtube_id": "-tJYN-eG1zk",
+    "title_extracted": null,
+    "corpus_id": "-tJYN-eG1zk",
+    "uploader": "Queen Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/-tJYN-eG1zk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4303014,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.472819,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:54:14Z"
+  },
+  "status": "success",
+  "error": null
+}

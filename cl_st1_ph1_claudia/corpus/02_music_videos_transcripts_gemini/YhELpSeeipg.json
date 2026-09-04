@@ -1,0 +1,38 @@
+{
+  "corpus_id": "YhELpSeeipg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/YhELpSeeipg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/YhELpSeeipg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/YhELpSeeipg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Now to sort of slow the tempo down, and introduce you to some real solid groove. Music that's sound as a rock. In fact, I'd like to present to you a man who wise the world of what the blues is all about. They call him Big Joe Turner, the Daddy of the Blues, and I like to set a tempo sort of like this for him to bring him on so I can give him to you. Hey Joe! Hey Big Joe Turner! Come on in! Yeah, real fine. That's crazy, you know? Come on now, boys, let it rock a while. 3. Get out of that kitchen, baby, wash your face and hands. Get out of that kitchen, baby, wash your face and hands. Well, you big to my sum, because I'm such a hungry man. Well, you wear your hair, baby, look so mellow and fine. Well, you wear your hair, you look so mellow and fine. I can't believe my, all that child is mine. I believe to my soul, you're a devil with no clothes on. I believe to my soul, you're a devil with no clothes on. Well, all my work, fit the fast as my money goes. I said shake, rattle and roll. Shake, rattle and roll. Shake, rattle and roll. Shake, rattle and roll. You won't do right, I don't know. Shake, rattle and roll. Play it, boy. Play it. Play it some. Yeah, all right. Hey, git, boy! I'm like a one-eyed cat, peeping in a seafood store. I'm like a one-eyed cat, peeping in a seafood store. I can look at you, baby, till you ain't no child no more. Well, it's over now, way down underneath. Well, it's over now, way down underneath. You make me roll my eyes, baby, make me grit my teeth. I said shake, rattle and roll. Shake, rattle and roll. Shake, rattle and roll. Shake, rattle and roll. Well, hurry up baby, 'cause I'm getting old. Rattle and roll!"
+  },
+  "metadata": {
+    "youtube_id": "YhELpSeeipg",
+    "title_extracted": null,
+    "corpus_id": "YhELpSeeipg",
+    "uploader": "Default Name",
+    "audio_file": "corpus/01_music_videos_audio/audio/YhELpSeeipg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7290772,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.302235,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:22:00Z"
+  },
+  "status": "success",
+  "error": null
+}

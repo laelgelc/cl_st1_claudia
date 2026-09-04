@@ -1,0 +1,38 @@
+{
+  "corpus_id": "6YNZlXfW6Ho",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/6YNZlXfW6Ho.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/6YNZlXfW6Ho.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/6YNZlXfW6Ho.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Yeah yeah Yeah yeah Feelings So deep in my feelings Notice ain't really like me Can't control my anxiety Feeling like I'm touching the ceiling When I'm with you I can't breathe Boy you do something to me Ooh no I'll never get over you until I find somebody new That can make me high like you do Yeah yeah Ooh no I'll never get over you until I find somebody new That can make me high like you do Listen to my heart go badum Boo'd up Biddy-da-dum Boo'd up And my heart go badum Boo'd up Biddy-da-dum It just won't stop it go badum Boo'd up Biddy-da-dum Boo'd up And my heart go badum Boo'd up Biddy-da-dum It just won't stop it go How many ways can I say that I need you, baby? It's true I think I might die without you Feeling all over my body You know how I like it Ain't gotta tell you what to do, yeah Ooh no I'll never get over you until I find somebody new That can make me high like you do Yeah yeah Ooh no I'll never get over you until I find somebody new That can make me high like you do Listen to my heart go badum Boo'd up Biddy-da-dum Boo'd up And my heart go badum Boo'd up Biddy-da-dum It just won't stop it go badum Boo'd up Biddy-da-dum Boo'd up And my heart go badum Boo'd up Biddy-da-dum It just won't stop it go Head over heels in love Right in front of you ain't gotta look no more, baby, huh I wanna build this love And everything you want you ain't gotta ask for You got me boo'd up, boo'd up Boo'd up, boo'd up Told you from the jump I'd only choose you You got me boo'd up, boo'd up Boo'd up, boo'd up Grab me by the waist, baby, pull me closer Ooh no I'll never get over you until I find somebody new That can make me high like you do Yeah yeah Ooh no I'll never get over you until I find somebody new That can make me high like you do Listen to my heart go badum Boo'd up Biddy-da-dum Boo'd up And my heart go badum Boo'd up Biddy-da-dum It just won't stop it go badum Boo'd up Biddy-da-dum Boo'd up And my heart go badum Boo'd up Biddy-da-dum It just won't stop it go"
+  },
+  "metadata": {
+    "youtube_id": "6YNZlXfW6Ho",
+    "title_extracted": null,
+    "corpus_id": "6YNZlXfW6Ho",
+    "uploader": "Ella Mai",
+    "audio_file": "corpus/01_music_videos_audio/audio/6YNZlXfW6Ho.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7737338,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.786068,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:10:38Z"
+  },
+  "status": "success",
+  "error": null
+}

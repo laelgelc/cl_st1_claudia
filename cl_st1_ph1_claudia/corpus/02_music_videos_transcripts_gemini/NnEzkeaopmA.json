@@ -1,0 +1,38 @@
+{
+  "corpus_id": "NnEzkeaopmA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/NnEzkeaopmA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/NnEzkeaopmA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/NnEzkeaopmA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Won't you let me walk you home from school? Won't you let me meet you at the pool? Maybe Friday I can get tickets for the dance And I'll take you, ooh-ooh Won't you tell your dad to get off my back? Tell him what we said about painted black Rock and roll is here to stay, come inside well it's okay And I'll shake you, ooh-ooh Won't you tell me what you're thinking of? Would you be an outlaw for my love? If it's so then let me know, if it's no then I can go I won't make you, ooh-ooh"
+  },
+  "metadata": {
+    "youtube_id": "NnEzkeaopmA",
+    "title_extracted": null,
+    "corpus_id": "NnEzkeaopmA",
+    "uploader": "UPROXX Indie Mixtape",
+    "audio_file": "corpus/01_music_videos_audio/audio/NnEzkeaopmA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5068344,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 23.991703,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:30:53Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "L_jWHffIx5E",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/L_jWHffIx5E.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/L_jWHffIx5E.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/L_jWHffIx5E.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "All right, state your name and power. I am the Waffler! With my griddle of justice, I bash the enemy in the head or I burn them like so. Oh, oh! Next. Hi. Uh, I am Pencilhead. And I am Son of Pencilhead! We erase crime. Two generations of... Yes, thank you. I'd say there's potential. Somebody once told me the world is gonna roll me I ain't the sharpest tool in the shed She was looking kind of dumb with her finger and her thumb In the shape of an \"L\" on her forehead Well, the years start coming and they don't stop coming Fed to the rules and I hit the ground running Didn't make sense not to live for fun Your brain gets smart, but your head gets dumb So much to do, so much to see So what's wrong with taking the back streets? You'll never know if you don't go You'll never shine if you don't glow Hey now, you're an All Star, get your game on, go play Hey now, you're a rock star, get the show on, get paid And all that glitters is gold Only shooting stars break the mold It's a cool place and they say it gets colder You're bundled up now, wait till you get older But the meteor men beg to differ Judging by the hole in the satellite picture The ice we skate is getting pretty thin The water's getting warm, so you might as well swim My world's on fire, how about yours? That's the way I like it and I'll never get bored Hey now, you're an All Star, get your game on, go play Hey now, you're a rock star, get the show on, get paid All that glitters is gold Only shooting stars break the mold Go for the moon. Go for the moon. Go for the moon. Go, go, go for the moon. Hey now, you're an All Star, get your game on, go play Hey now, you're a rock star, get the show on, get paid And all that glitters is gold Only shooting stars... Somebody once asked, \"Could I spare some change for gas? I need to get myself away from this place.\" I said, \"Yep, what a concept. I could use a little fuel myself, and we could all use a little change.\" Well, the years start coming and they don't stop coming Fed to the rules and I hit the ground running Didn't make sense not to live for fun Your brain gets smart, but your head gets dumb So much to do, so much to see So what's wrong with taking the back streets? You'll never know if you don't go. No. You'll never shine if you don't glow. Hey now, you're an All Star, get your game on, go play Hey now, you're a rock star, get the show on, get paid And all that glitters is gold Only shooting stars break the mold And all that glitters is gold Only shooting stars break the mold"
+  },
+  "metadata": {
+    "youtube_id": "L_jWHffIx5E",
+    "title_extracted": null,
+    "corpus_id": "L_jWHffIx5E",
+    "uploader": "SMASH MOUTH",
+    "audio_file": "corpus/01_music_videos_audio/audio/L_jWHffIx5E.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7575356,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.52992,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:51:42Z"
+  },
+  "status": "success",
+  "error": null
+}

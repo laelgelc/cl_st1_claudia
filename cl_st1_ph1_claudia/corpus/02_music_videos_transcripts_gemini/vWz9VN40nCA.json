@@ -1,0 +1,38 @@
+{
+  "corpus_id": "vWz9VN40nCA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/vWz9VN40nCA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/vWz9VN40nCA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/vWz9VN40nCA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You're saying all the things that I know you're lying Making good conversation I gotta handle you just right You know what I mean I took you to an intimate restaurant Then you suggested moving There's nothing left to talk about Unless it's horizontally Let's get physical, physical I wanna get physical Let's get into physical Let me hear your body talk, body talk Let me hear your body talk Let's get physical, physical I wanna get physical Let's get into physical Let me hear your body talk, body talk Let me hear your body talk I've been patient, I've been good Tried to keep my hands on the table It's getting hard this holding back You know what I mean I'm sure you'll understand my point of view We know each other mentally You gotta know that you're bringing out The animal in me Let's get physical, physical I wanna get physical Let's get into physical Let me hear your body talk, body talk Let me hear your body talk Let's get physical, physical I wanna get physical Let's get into physical Let me hear your body talk, body talk Let me hear your body talk Let's get physical, physical I wanna get physical Let's get into physical Let me hear your body talk, body talk Let me hear your body talk Let's get animal, animal I wanna get animal Let's get into animal Let me hear your body talk, body talk Let me hear your body talk Let me hear your body talk Let me hear your body talk"
+  },
+  "metadata": {
+    "youtube_id": "vWz9VN40nCA",
+    "title_extracted": null,
+    "corpus_id": "vWz9VN40nCA",
+    "uploader": "Olivia Newton-John",
+    "audio_file": "corpus/01_music_videos_audio/audio/vWz9VN40nCA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7159254,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.697747,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:19:04Z"
+  },
+  "status": "success",
+  "error": null
+}

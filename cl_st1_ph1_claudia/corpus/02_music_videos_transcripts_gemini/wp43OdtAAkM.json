@@ -1,0 +1,38 @@
+{
+  "corpus_id": "wp43OdtAAkM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wp43OdtAAkM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/wp43OdtAAkM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/wp43OdtAAkM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "It doesn't hurt me\nDo you wanna feel how it feels?\nDo you wanna know, know that it doesn't hurt me?\nDo you wanna hear about the deal that I'm making?\nYou\nIt's you and me\nAnd if I only could\nI'd make a deal with God\nAnd I'd get Him to swap our places\nBe running up that road\nBe running up that hill\nBe running up that building\nSay, if I only could, oh\n\nYou don't wanna hurt me\nBut see how deep the bullet lies\nUnaware I'm tearing you asunder\nOh, there is thunder in our hearts\nIs there so much hate for the ones we love?\nOh, tell me we both matter, don't we?\nYou\nIt's you and me\nIt's you and me won't be unhappy\n\nAnd if I only could\nI'd make a deal with God\nAnd I'd get Him to swap our places\nBe running up that road\nBe running up that hill\nBe running up that building\nSay, if I only could, oh\n\nYou\nIt's you and me\nIt's you and me won't be unhappy\nOh, come on, baby\nOh, come on, darling\nLet me steal this moment from you now\nOh, come on, angel\nCome on, come on, darling\nLet's exchange the experience, oh\n\nAnd if I only could\nI'd make a deal with God\nAnd I'd get Him to swap our places\nBe running up that road\nBe running up that hill\nWith no problems\n\nSay, if I only could\nI'd make a deal with God\nAnd I'd get Him to swap our places\nBe running up that road\nBe running up that hill\nWith no problems\n\nSay, if I only could\nMake a deal with God\nAnd I'd get Him to swap our places\nBe running up that road\nBe running up that hill\nWith no problems\n\nSay, if I only could\nBe running up that hill\nWith no problems\n\nIf I only could\nBe running up that hill\nIf I only could\nBe running up that hill"
+  },
+  "metadata": {
+    "youtube_id": "wp43OdtAAkM",
+    "title_extracted": null,
+    "corpus_id": "wp43OdtAAkM",
+    "uploader": "KateBushMusic",
+    "audio_file": "corpus/01_music_videos_audio/audio/wp43OdtAAkM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9470104,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.194423,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:35:21Z"
+  },
+  "status": "success",
+  "error": null
+}

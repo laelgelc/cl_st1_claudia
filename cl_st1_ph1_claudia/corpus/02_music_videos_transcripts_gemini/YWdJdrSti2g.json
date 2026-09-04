@@ -1,0 +1,38 @@
+{
+  "corpus_id": "YWdJdrSti2g",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/YWdJdrSti2g.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/YWdJdrSti2g.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/YWdJdrSti2g.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "It's always good to have Nick Lowe on Top of the Pops, and here he is with Rockpile and his current single, Cruel to Be Kind, which is currently rocketing up the American charts. Oh, I can't take another heartache. Though you say you're my friend, I'm at my wits' end. You say your love is certified, but that don't coincide with the things that you do. And when I ask you to be nice, you say, You gotta be cruel to be kind in the right measure. Cruel to be kind, it's a very good sign. Cruel to be kind means that I love you, baby. You gotta be cruel, you gotta be cruel to be kind. Well, I do my best to understand, dear, but you still mystify, and I wanna know why. I pick myself up off the ground to have you knock me back down again and again, and when I ask you to explain, you say, You gotta be cruel to be kind in the right measure. Cruel to be kind, it's a very good sign. Cruel to be kind means that I love you, baby. You gotta be cruel, you gotta be cruel to be kind. Ooh! Well, I do my best to understand, dear, but you still mystify, and I wanna know why. I pick myself up off the ground to have you knock me back down again and again, and when I ask you to explain, you say, You gotta be cruel to be kind in the right measure. Cruel to be kind, it's a very good sign. Cruel to be kind means that I love you, baby. You gotta be cruel, you gotta be cruel to be kind, or in the right measure. Cruel to be kind, it's a very, very, very good sign. It means that I love you, baby. You gotta be cruel to be kind, or in the right measure. Cruel to be kind, yes, it's a very, very, very good sign. It means that I love you, baby. You gotta be cruel, you gotta be cruel to be kind, or in the right measure. Cruel to be kind... [Cheering] \"Cruel to Be Kind\", a record which should see Nick Lowe back in our charts very soon."
+  },
+  "metadata": {
+    "youtube_id": "YWdJdrSti2g",
+    "title_extracted": null,
+    "corpus_id": "YWdJdrSti2g",
+    "uploader": "Betaman31252",
+    "audio_file": "corpus/01_music_videos_audio/audio/YWdJdrSti2g.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6839748,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 27.843919,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:44:47Z"
+  },
+  "status": "success",
+  "error": null
+}

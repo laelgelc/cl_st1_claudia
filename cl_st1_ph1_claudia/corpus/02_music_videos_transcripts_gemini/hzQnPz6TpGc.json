@@ -1,0 +1,38 @@
+{
+  "corpus_id": "hzQnPz6TpGc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hzQnPz6TpGc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/hzQnPz6TpGc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/hzQnPz6TpGc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You might like to hear something from us nice and easy. Well, I'd like to do that for you. But there's one thing, you see, we never, ever do nothing nice and easy. We always do it nice and rough. So we're gonna take the beginning of this song and we're gonna do it easy. But then we're gonna do the finish rough. It's the way we do Proud Mary.  Rollin' Rollin' on a river One more again Said we're rollin', rollin' Rollin' Rollin' on a river Listen  I left a good job in the city Workin' for the man every night and day And I never lost one minute of sleepin' Worried 'bout the way that things might have been Big wheel keep on turnin' Proud Mary keep on burnin' And we're rollin', rollin' Rollin', rollin' Rollin' on a river Rollin' on a river Cleaned a lot of plates in Memphis Pumped a lot of pain down in New Orleans But I never saw the good side of the city Till I hitched a ride on the riverboat queen Big wheel keep on turnin' And Proud Mary keep on burnin' Said we're rollin', rollin' Rollin', yes, rollin' Rollin' on a river Rollin' on a river Said rollin', rollin' Rollin', yes, rollin' Rollin' on a river Rollin' on a river  Now I left a good job in the city Workin' for the man every night and day And I never lost one minute of sleepin' Worried 'bout the way that things might have been Big wheel keep on turnin' Proud Mary keep on burnin' Rollin' (rollin'), rollin' (rollin') Rollin' on a river Said rollin' (rollin'), rollin' (rollin') Rollin' on a river  Cleaned a lot of plates in Memphis And I pumped a lot of pain down in New Orleans But I never saw the good side of a city Till I hitched a ride on the riverboat queen Big wheel keep on turnin' (turnin') Proud Mary keep on burnin' (burnin') Rollin' (rollin'), rollin' (rollin') Rollin' on a river Said rollin' (rollin'), rollin' (rollin') Rollin' on a river  Alright! Yeah! Yeah! Yeah! Now if you come down to the river Bet you're gonna find some people who live You don't have to worry if you got no money The people on the river are happy to give Big wheel keep on turnin' (turnin') Proud Mary keep on burnin' (burnin') Rollin' (rollin'), rollin' (rollin') Rollin' on a river You better keep rollin' (rollin'), rollin' (rollin') Rollin' on a river Alright! Rollin' (rollin'), rollin' (rollin') Rollin' on a river Ow! Rollin' (rollin'), rollin' (rollin') Rollin' on a river"
+  },
+  "metadata": {
+    "youtube_id": "hzQnPz6TpGc",
+    "title_extracted": null,
+    "corpus_id": "hzQnPz6TpGc",
+    "uploader": "Beat-Club",
+    "audio_file": "corpus/01_music_videos_audio/audio/hzQnPz6TpGc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11589994,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.919576,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:29:00Z"
+  },
+  "status": "success",
+  "error": null
+}

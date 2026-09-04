@@ -1,0 +1,38 @@
+{
+  "corpus_id": "aehwEu8SBSo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/aehwEu8SBSo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/aehwEu8SBSo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/aehwEu8SBSo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You got a lot of nerve To say you are my friend When I was down You just stood there grinning You got a lot of nerve To say you got a helping hand to lend You just want to be on the side that's winning You say I let you down You know it's not like that If you're so hurt Why don't you show it? You say you've lost your faith But that's not where it's at You have no faith to lose And you know it I know the reason That you talk behind my back I used to be among the crowd You're in with Do you take me for such a fool To think I'd make contact With one who tries to hide what he Don't know to begin with? You see me on the street You always act surprised You say \"How are you?\", \"Good luck\" But you don't mean it When you know as well as me You'd rather see me paralyzed Why don't you just come out once And scream it? No, I do not feel that good When I see the heartbreaks you embrace If I was a master thief Perhaps I'd rob them And though I know you're dissatisfied With your position and your place Don't you understand It's not my problem? I wish that for just one time You could stand inside my shoes And just for that one moment I could be you Yes, I wish that for just one time You could stand inside my shoes You'd know what a drag it is To see you"
+  },
+  "metadata": {
+    "youtube_id": "aehwEu8SBSo",
+    "title_extracted": null,
+    "corpus_id": "aehwEu8SBSo",
+    "uploader": "Bob Dylan",
+    "audio_file": "corpus/01_music_videos_audio/audio/aehwEu8SBSo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7962480,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.789833,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:08:56Z"
+  },
+  "status": "success",
+  "error": null
+}

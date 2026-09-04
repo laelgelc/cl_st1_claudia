@@ -1,0 +1,38 @@
+{
+  "corpus_id": "svwJTnZOaco",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/svwJTnZOaco.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/svwJTnZOaco.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/svwJTnZOaco.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Who's in a bunker? Who's in a bunker? Women and children first, and children first, and children I laugh until my head comes off I swallow till I burst, till I burst, till I burst I've seen too much, I've seen enough You haven't seen enough You haven't seen enough Until my head comes off Women and children first, and children first, and children Here I'm alive Everything, all of the time Here I'm alive Everything, all of the time Ice age coming, ice age coming Let me hear both sides, let me hear both sides, let me hear both Ice age coming, ice age coming Throw it on the fire, throw it on the fire, throw it on the We're not scaremongering This is really happening, happening We're not scaremongering This is really happening, happening Mobiles working, mobiles chirping Take the money and run, take the money and run, take the money Here I'm alive Everything, all of the time Here I'm alive Everything, all of the time Here I'm alive Everything, all of the time Here I'm alive Everything, all of the time"
+  },
+  "metadata": {
+    "youtube_id": "svwJTnZOaco",
+    "title_extracted": null,
+    "corpus_id": "svwJTnZOaco",
+    "uploader": "Radiohead",
+    "audio_file": "corpus/01_music_videos_audio/audio/svwJTnZOaco.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9891408,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.853238,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:34:00Z"
+  },
+  "status": "success",
+  "error": null
+}

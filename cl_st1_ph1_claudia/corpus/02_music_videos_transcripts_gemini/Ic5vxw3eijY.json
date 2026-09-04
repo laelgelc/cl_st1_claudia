@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Ic5vxw3eijY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Ic5vxw3eijY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Ic5vxw3eijY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Ic5vxw3eijY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "This is number one champion sound. Yeah, Estelle, we bout to get down. Get down. Who the hottest in the world right now? Just touched down in London town. Bet they give me a pound. Tell 'em put the money in my hand right now. Tell the promoter we need more seats. We just sold out all the floor seats. Take me on a trip, I'd like to go someday. Take me to New York, I'd love to see LA. I really want to come kick it with you. You'll be my American boy. He said, \"Hey sister, it's really really nice to meet ya.\" I just met this 5'7\" guy who's just my type. Like the way he speak, his confidence is peaking. Don't like his baggy jeans, but I'm a like what's underneath them. And no, I ain't been to MIA. I heard the Cali never rains and New York's far away. First let's see the West End, I'll show you to my brethren. I'm liking this American boy, American boy. Take me on a trip, I'd like to go someday. Take me to New York, I'd love to see LA. I really want to come kick it with you. You'll be my American boy, American boy. Can we get away this weekend? Take me to Broadway. Let's go shopping, maybe then we'll go to a café. Let's go on the subway. Take me to your hood. I've never been to Brooklyn and I'd like to see what's good. Dressed in all your fancy clothes. Sneakers looking fresh to death, I'm loving your show time. Walking that walk, talk that slick talk. I'm liking this American boy, American boy. Take me on a trip, I'd like to go someday. Take me to New York, I'd love to see LA. I really want to come kick it with you. You'll be my American boy. Tell 'em wagwan, blud. Who killing 'em in the UK? Everybody gonna say, \"You, K.\" Reluctantly, 'cause most of this press don't fuck with me. Estelle once said to me, \"Cool down, down, don't act a fool now, now.\" Always act a fool out, out, ain't nothing new now, now. He crazy, I know what you thinking. Rap fiend, I know what you drinking. Rap singer, chain blinger, holler at the next chick soon as you blinking. What's your persona about this American drama? Am I shallow 'cause all my clothes designer? Uh, dress smart like a London bloke. Before he speak, his suit bespoke. And you thought he was cute before, look at this pea coat, tell me he's broke. And I know you really ain't into all that. I heard your lyrics, I feel your spirit, but I still talk that cash cash, 'cause a lot of wags wanna hear it. And I'm feeling like Mike at his baddest, like the Pips when they're Gladys, and I know they love it, so to hell with all that rubbish. Would you be my love, my love? Would you be my love, my love? Would you be my love, my love? Would you be my American boy, American boy? Take me on a trip, I'd like to go someday. Take me to Chicago, San Francisco Bay. I really want to come kick it with you. You'll be my American boy, American boy. La, la, la, la, la, la, la, la, la, la, la, la, la, la, la, la"
+  },
+  "metadata": {
+    "youtube_id": "Ic5vxw3eijY",
+    "title_extracted": null,
+    "corpus_id": "Ic5vxw3eijY",
+    "uploader": "Estelle",
+    "audio_file": "corpus/01_music_videos_audio/audio/Ic5vxw3eijY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7740310,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.546908,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:29:23Z"
+  },
+  "status": "success",
+  "error": null
+}

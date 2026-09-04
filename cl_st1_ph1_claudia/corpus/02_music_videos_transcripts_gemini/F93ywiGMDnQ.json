@@ -1,0 +1,38 @@
+{
+  "corpus_id": "F93ywiGMDnQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/F93ywiGMDnQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/F93ywiGMDnQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/F93ywiGMDnQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Come over here All I've got is this moment 21st century's yesterday You can care all you want Everybody does, yeah, that's okay So slide over here and give me a moment Your moves are so raw I've got to let you know I've got to let you know You're one of my kind I need you tonight 'Cause I'm not sleeping There's something about you, girl That makes me sweat How can I sleep? I'm lonely How can I sleep? Can't take it all What you gonna do? Gonna live my life So slide over here and give me a moment Your moves are so raw I've got to let you know I've got to let you know You're one of my kind I need you tonight 'Cause I'm not sleeping There's something about you, girl That makes me sweat How can I sleep? I'm lonely How can I sleep? Can't take it all What you gonna do? Gonna live my life I'm lonely How can I sleep? Can't take it all What you gonna do? Gonna live my life So slide over here and give me a moment Your moves are so raw I've got to let you know I've got to let you know So slide over here and give me a moment I've got to let you know I've got to let you know You're one of my kind"
+  },
+  "metadata": {
+    "youtube_id": "F93ywiGMDnQ",
+    "title_extracted": null,
+    "corpus_id": "F93ywiGMDnQ",
+    "uploader": "INXS",
+    "audio_file": "corpus/01_music_videos_audio/audio/F93ywiGMDnQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6074418,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.502783,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:54:54Z"
+  },
+  "status": "success",
+  "error": null
+}

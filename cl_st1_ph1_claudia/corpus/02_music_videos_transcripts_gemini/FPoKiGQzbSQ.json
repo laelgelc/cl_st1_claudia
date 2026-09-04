@@ -1,0 +1,38 @@
+{
+  "corpus_id": "FPoKiGQzbSQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/FPoKiGQzbSQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/FPoKiGQzbSQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/FPoKiGQzbSQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "これから みんな で めちゃくちゃ 踊っ て 騒ごう 騒ごう Hit me Hit me Hit me Hit me Hit me Hit me Give me some new Give me some new Give me some new Missy be puttin' it down, I'm the hottest round I told y'all Y'all can't stop me now Listen to me now, I'm lastin' 20 rounds And if you want me Then come on get me now Is you with me now? The biggie-biggie bounce I know you dig the way I switch my style Holla People sing along Now people gather 'round Now people jump around Get ur freak on Get ur freak on Get ur freak on Get ur freak on Get ur freak on Get ur freak on Get-get-get-get-get ur freak on Get ur freak on Get ur freak on Get ur freak on Get ur freak on Get ur freak on Get-get-get-get-get ur freak on Is that your chick? People you know Me and Timbaland hot since 20 years ago What's the dilly, yo? Now what's the drilly, yo? If you wanna battle me, then Let me know Holla Got the feelin', son Let me throw you some Gautam Mujikho Here I come Now sweat me when I'm done We got the radio shook like we got a gun Get ur freak on Get ur freak on Get ur freak on Get ur freak on Get ur freak on Get ur freak on Get-get-get-get-get ur freak on Get ur freak on Get ur freak on Get ur freak on Get ur freak on Get ur freak on Get-get-get-get-get ur freak on Quiet! Hush your mouth Silence when I spit it out In your face Open your mouth, give you a taste Holla Ain't no stoppin' me Copyrighted, so don't copy me Y'all do it sloppily And y'all can't come close to me I know you feel me now I know you hear me loud I scream it loud and proud Missy gon' blow it down People gon' play me now In and out of town 'Cause I'm the best around With the crazy style Get ur freak on Get ur freak on Get ur freak on Get ur freak on Get ur freak on Get ur freak on Get-get-get-get-get ur freak on Get ur freak on Get ur freak on Get ur freak on Get ur freak on Get ur freak on Get-get-get-get-get ur freak on 1 2 3 4 You don't speak my name Mess around, get your ass blown away Fool, gone away I ain't no light weight anyway Missy got somethin' to say I ride down the block in an Escalade Bling-bling all in your face I think you might need to put on your shades I know you feel metal You hatin' on me, but you hear metal 20-inch rims sittin' crazy low I'm'a keep the party live Me and Timbaland gon' flip it tonight Keep your hands in the sky Wave 'em around like you crazy high Time to lick shots Time to see you dance Hey, you, why you fuckin' Time to lick shots Time to see you dance Hey, you, why you fuckin'"
+  },
+  "metadata": {
+    "youtube_id": "FPoKiGQzbSQ",
+    "title_extracted": null,
+    "corpus_id": "FPoKiGQzbSQ",
+    "uploader": "Missy Elliott",
+    "audio_file": "corpus/01_music_videos_audio/audio/FPoKiGQzbSQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7827246,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.79934,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:44:31Z"
+  },
+  "status": "success",
+  "error": null
+}

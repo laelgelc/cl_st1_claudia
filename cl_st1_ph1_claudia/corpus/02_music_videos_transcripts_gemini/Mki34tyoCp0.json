@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Mki34tyoCp0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Mki34tyoCp0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Mki34tyoCp0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Mki34tyoCp0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Love, love, love Love, love, love Love, love, love Nothing you can do that can't be done Nothing you can sing that can't be sung Nothing you can say, but you can learn how to play the game It's easy Nothing you can make that can't be made No one you can save that can't be saved Nothing you can do, but you can learn how to be you in time It's easy All you need is love All you need is love All you need is love, love Love is all you need All you need is love All you need is love All you need is love, love Love is all you need Nothing you can know that isn't known Nothing you can see that isn't shown Nowhere you can be that isn't where you're meant to be It's easy All you need is love All you need is love All you need is love, love Love is all you need All you need is love (All together now!) All you need is love (Everybody!) All you need is love, love Love is all you need Love is all you need (Love is all you need) Love is all you need (Love is all you need) Love is all you need (Love is all you need) Love is all you need (Love is all you need) Love is all you need (Love is all you need) Love is all you need (Love is all you need) Yee-haw! Love is all you need (Love is all you need) Yesterday! Oh! Love is all you need Oh yeah! She loves you, yeah, yeah, yeah She loves you, yeah, yeah, yeah Love is all you need Love is all you need Woo! Oh! Love is all you need"
+  },
+  "metadata": {
+    "youtube_id": "Mki34tyoCp0",
+    "title_extracted": null,
+    "corpus_id": "Mki34tyoCp0",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/Mki34tyoCp0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7187490,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 26.26225,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:36:54Z"
+  },
+  "status": "success",
+  "error": null
+}

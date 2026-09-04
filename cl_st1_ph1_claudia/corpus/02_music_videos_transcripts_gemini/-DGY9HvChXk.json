@@ -1,0 +1,38 @@
+{
+  "corpus_id": "-DGY9HvChXk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/-DGY9HvChXk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/-DGY9HvChXk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/-DGY9HvChXk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "And now a tune written especially for me. Strange Fruit. Southern trees bear strange fruit. Blood on the leaves and blood at the root. Black bodies swinging in the southern breeze. Strange fruit hanging from the poplar trees. Pastoral scene of the gallant South. The bulging eyes and the twisted mouth. Scent of magnolias, sweet and fresh. Then the sudden smell of burning flesh. Here is fruit for the crows to pluck, for the rain to gather, for the wind to suck, for the sun to rot, for the tree to drop. Here is a strange and bitter crop."
+  },
+  "metadata": {
+    "youtube_id": "-DGY9HvChXk",
+    "title_extracted": null,
+    "corpus_id": "-DGY9HvChXk",
+    "uploader": "ReelinInTheYears66",
+    "audio_file": "corpus/01_music_videos_audio/audio/-DGY9HvChXk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6368662,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.189012,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:29:12Z"
+  },
+  "status": "success",
+  "error": null
+}

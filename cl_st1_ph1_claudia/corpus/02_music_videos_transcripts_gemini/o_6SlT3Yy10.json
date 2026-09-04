@@ -1,0 +1,38 @@
+{
+  "corpus_id": "o_6SlT3Yy10",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/o_6SlT3Yy10.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/o_6SlT3Yy10.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/o_6SlT3Yy10.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Boom, boom, boom, boom I'm gonna shoot you right down Knock you off your feet Take you home with me Put you in my house Boom, boom, boom, boom I love to see you walk Walkin' down the floor When you talk to me That baby talk I like it like that When you talk like that You knock me dead Right off my feet How-how-how-how! Whoa! Hey, hey! Hey! Hey! Hey! Hey, baby! Hey, baby! Hey, baby! Hey, baby! That walk That talk My baby My baby walk Come on, my baby Hey hey hey! When you walk that walk And talk that talk And whisper in my ear Tell me you love me I love that talk That baby talk You knock me dead Right off my feet How-how-how-how! Hey, my baby! My baby! My baby! My baby! Walk! And talk! Walk! Talk! Walk, baby! Talk, baby, to me! Well, well! Well, well! Ah! Hey! Hey! Hey! Hey! Ooh-ooh-ooh-ooh Ooh-ooh-ooh-ooh Ooh-ooh-ooh-ooh"
+  },
+  "metadata": {
+    "youtube_id": "o_6SlT3Yy10",
+    "title_extracted": null,
+    "corpus_id": "o_6SlT3Yy10",
+    "uploader": "John Lee Hooker Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/o_6SlT3Yy10.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8290160,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.615833,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:05:55Z"
+  },
+  "status": "success",
+  "error": null
+}

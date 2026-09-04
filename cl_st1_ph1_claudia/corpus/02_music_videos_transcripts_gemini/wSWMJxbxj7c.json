@@ -1,0 +1,38 @@
+{
+  "corpus_id": "wSWMJxbxj7c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wSWMJxbxj7c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/wSWMJxbxj7c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/wSWMJxbxj7c.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "As I walk along I wonder What went wrong with our love A love that was so strong  And as I still walk on I think of The things we've done together While our hearts were young  I'm a-walkin' in the rain Tears are fallin' and I feel a pain Wishin' you were here by me To end this misery And I wonder  I wonder, wonder, wonder, wonder Why Why, why, why, why, why She ran away And I wonder Where she will stay My little runaway A run-run-run-run-runaway  I'm a-walkin' in the rain Tears are fallin' and I feel a pain Wishin' you were here by me To end this misery And I wonder  I wonder, wonder, wonder, wonder Why Why, why, why, why, why She ran away And I wonder Where she will stay My little runaway A run-run-run-run-runaway A run-run-run-run-runaway A run-run-run-run-runaway"
+  },
+  "metadata": {
+    "youtube_id": "wSWMJxbxj7c",
+    "title_extracted": null,
+    "corpus_id": "wSWMJxbxj7c",
+    "uploader": "rokum71",
+    "audio_file": "corpus/01_music_videos_audio/audio/wSWMJxbxj7c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4343138,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.477019,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:58:21Z"
+  },
+  "status": "success",
+  "error": null
+}

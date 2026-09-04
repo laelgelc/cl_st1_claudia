@@ -1,0 +1,38 @@
+{
+  "corpus_id": "oRdxUFDoQe0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oRdxUFDoQe0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/oRdxUFDoQe0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/oRdxUFDoQe0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "They told him don't you ever come around here Don't wanna see your face, you better disappear The fire's in their eyes and their words are really clear So beat it, just beat it You better run, you better do what you can Don't wanna see no blood, don't be a macho man You wanna be tough, better do what you can So beat it, but you wanna be bad, just beat it Beat it, beat it, beat it, beat it No one wants to be defeated Showin' how funky and strong is your fight It doesn't matter who's wrong or right Just beat it, beat it, beat it, beat it Beat it, beat it, beat it, beat it, ooh They're out to get you, better leave while you can Don't wanna be a boy, you wanna be a man You wanna stay alive, better do what you can So beat it, just beat it You have to show them that you're really not scared You're playin' with your life, this ain't no truth or dare They'll kick you, then they beat you, then they'll tell you it's fair So beat it, but you wanna be bad, just beat it Beat it, beat it, beat it, beat it No one wants to be defeated Showin' how funky and strong is your fight It doesn't matter who's wrong or right Just beat it, beat it, beat it, beat it No one wants to be defeated Showin' how funky and strong is your fight It doesn't matter who's wrong or right Just beat it, beat it, beat it, beat it Beat it, beat it, beat it, beat it Beat it, beat it No one wants to be defeated Showin' how funky and strong is your fight It doesn't matter who's wrong or right, just beat it Beat it, beat it, beat it, beat it No one wants to be defeated Oh no Showin' how funky and strong is your fight It doesn't matter who's wrong or right, just beat it Beat it, beat it, beat it, beat it No one wants to be defeated Oh no Showin' how funky and strong is your fight It doesn't matter who's wrong or right, just beat it Beat it, beat it, beat it, beat it No one wants to be defeated Oh no Showin' how funky and strong is your fight It doesn't matter who's wrong or right, just beat it Beat it, beat it, beat it, beat it No one wants to be defeated Oh no Showin' how funky and strong is your fight It doesn't matter who's wrong or right, just beat it Beat it, beat it"
+  },
+  "metadata": {
+    "youtube_id": "oRdxUFDoQe0",
+    "title_extracted": null,
+    "corpus_id": "oRdxUFDoQe0",
+    "uploader": "Michael Jackson",
+    "audio_file": "corpus/01_music_videos_audio/audio/oRdxUFDoQe0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9557040,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.056064,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:27:54Z"
+  },
+  "status": "success",
+  "error": null
+}

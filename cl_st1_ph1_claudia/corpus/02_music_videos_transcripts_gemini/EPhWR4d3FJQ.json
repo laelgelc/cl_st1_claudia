@@ -1,0 +1,38 @@
+{
+  "corpus_id": "EPhWR4d3FJQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/EPhWR4d3FJQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/EPhWR4d3FJQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/EPhWR4d3FJQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Born down in a dead man's town The first kick I took was when I hit the ground End up like a dog that's been beat too much Till you spend half your life just to cover it up, now  Born in the U.S.A. Born in the U.S.A. Born in the U.S.A. Born in the U.S.A., now  Got in a little hometown jam So they put a rifle in my hand Sent me off to a foreign land To go and kill the yellow man  Born in the U.S.A. Born in the U.S.A. Born in the U.S.A. Born in the U.S.A.  Come back home to the refinery Hiring man says, \"Son, if it was up to me\" Went down to see my V.A. man He said, \"Son, don't you understand, now?\"  I had a brother at Khe Sanh Fighting off the Viet Cong They're still there, he's all gone  He had a woman he loved in Saigon I got a picture of them in his arms  Down in the shadow of the penitentiary Out by the gas fires of the refinery I'm ten years burning down the road Nowhere to run, ain't got nowhere to go  Born in the U.S.A. Born in the U.S.A. Born in the U.S.A. I'm a long gone daddy in the U.S.A., now  Born in the U.S.A. Born in the U.S.A. Born in the U.S.A. I'm a cool rocking daddy in the U.S.A., now"
+  },
+  "metadata": {
+    "youtube_id": "EPhWR4d3FJQ",
+    "title_extracted": null,
+    "corpus_id": "EPhWR4d3FJQ",
+    "uploader": "Bruce Springsteen",
+    "audio_file": "corpus/01_music_videos_audio/audio/EPhWR4d3FJQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9065892,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.052344,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:54:02Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "oe2hdbft5-U",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oe2hdbft5-U.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/oe2hdbft5-U.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/oe2hdbft5-U.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I shot the sheriff\nBut I didn't shoot no deputy, oh no\nI shot the sheriff\nBut I didn't shoot no deputy, ooh-ooh-ooh\nYeah, all around in my home town\nThey trying to track me down, yeah\nThey say they want to bring me in guilty\nFor the killing of a deputy\nFor the life of a deputy\nWell I say\n\nOh no, no, oh\nI shot the sheriff\nBut I swear it was in self-defense, ooh-ooh-ooh\nYeah, I said I shot the sheriff, oh Lord\nAnd they say it's a capital offense, ooh-ooh-ooh, yeah\nYeah\n\nSheriff John Brown always hated me\nFor what? I don't know\nEvery time I plant a seed\nHe say kill it before it grow\nHe say kill them before they grow\nAnd so, and so\n\nRead it in the news\nI shot the sheriff\nWhere was the deputy?\nI say I shot the sheriff\nBut I swear it was in self-defense, yeah\nFreedom came my way one day\nAnd I started out of town, yeah\nAll of a sudden I saw Sheriff John Brown\nAiming to shoot me down\nSo I shot, I shot, I shot him down\nAnd I say\n\nIf I am guilty I will pay\n\nI shot the sheriff\nBut I say, but I didn't shoot no deputy\nI didn't shoot no deputy, no, oh, no\nI shot the sheriff\nBut I didn't shoot no deputy, ooh-ooh-ooh, yeah\nReflexes are the best of me\nAnd what is to be must be\nEvery day the bucket a-go a well\nOne day the bottom a-go drop out\nOne day the bottom a-go drop out\nI say\n\nI, I, I, I shot the sheriff\nLord, I didn't shoot no deputy, no\nYeah\nI, I shot the sheriff\nBut I didn't shoot no deputy, yeah, so, yeah"
+  },
+  "metadata": {
+    "youtube_id": "oe2hdbft5-U",
+    "title_extracted": null,
+    "corpus_id": "oe2hdbft5-U",
+    "uploader": "Bob Marley",
+    "audio_file": "corpus/01_music_videos_audio/audio/oe2hdbft5-U.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8994560,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 34.242438,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:19:19Z"
+  },
+  "status": "success",
+  "error": null
+}

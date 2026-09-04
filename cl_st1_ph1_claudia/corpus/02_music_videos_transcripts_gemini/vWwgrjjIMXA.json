@@ -1,0 +1,38 @@
+{
+  "corpus_id": "vWwgrjjIMXA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/vWwgrjjIMXA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/vWwgrjjIMXA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/vWwgrjjIMXA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "How many roads must a man walk down Before you call him a man? Yes, and how many seas must a white dove sail Before she sleeps in the sand? Yes, and how many times must the cannonballs fly Before they're forever banned? The answer, my friend, is blowing in the wind The answer is blowing in the wind How many years must a mountain exist Before it is washed to the sea? Yes, and how many years can some people exist Before they're allowed to be free? Yes, and how many times must a man turn his head And pretend that he just doesn't see? The answer, my friend, is blowing in the wind The answer is blowing in the wind How many times must a man look up Before he can really see the sky? Yes, and how many ears must one man have Before he can hear people cry? Yes, and how many deaths will it take till he knows That too many people have died? The answer, my friend, is blowing in the wind The answer is blowing in the wind"
+  },
+  "metadata": {
+    "youtube_id": "vWwgrjjIMXA",
+    "title_extracted": null,
+    "corpus_id": "vWwgrjjIMXA",
+    "uploader": "Bob Dylan",
+    "audio_file": "corpus/01_music_videos_audio/audio/vWwgrjjIMXA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4988840,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 6.270393,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:42:04Z"
+  },
+  "status": "success",
+  "error": null
+}

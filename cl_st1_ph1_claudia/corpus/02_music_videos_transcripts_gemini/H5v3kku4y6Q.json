@@ -1,0 +1,38 @@
+{
+  "corpus_id": "H5v3kku4y6Q",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/H5v3kku4y6Q.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/H5v3kku4y6Q.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/H5v3kku4y6Q.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Come on Harry, we want to say goodnight to you. Holding me back Gravity's holding me back I want you to hold out the palm of your hand Why don't we leave it at that? Nothing to say And everything gets in the way Seems you cannot be replaced And I'm the one who stays, oh In this world, it's just us You know it's not the same as it was In this world, it's just us You know it's not the same as it was As it was, as it was You know it's not the same Answer the phone Harry, you're no good alone Why are you sitting at home on the floor? What kind of pills are you on? Ringing the bell And nobody's coming to help Your daddy lives by himself He just wants to know that you're well, oh In this world, it's just us You know it's not the same as it was In this world, it's just us You know it's not the same as it was As it was, as it was You know it's not the same Go home, get ahead, light-speed internet I don't wanna talk about the way that it was Leave America, two kids follow her I don't wanna talk about who's doing it first Hey! As it was You know it's not the same as it was As it was, as it was"
+  },
+  "metadata": {
+    "youtube_id": "H5v3kku4y6Q",
+    "title_extracted": null,
+    "corpus_id": "H5v3kku4y6Q",
+    "uploader": "Harry Styles",
+    "audio_file": "corpus/01_music_videos_audio/audio/H5v3kku4y6Q.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5300916,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.0821,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:52:49Z"
+  },
+  "status": "success",
+  "error": null
+}

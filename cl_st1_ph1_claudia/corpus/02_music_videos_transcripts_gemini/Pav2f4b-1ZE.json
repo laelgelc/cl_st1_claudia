@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Pav2f4b-1ZE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Pav2f4b-1ZE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Pav2f4b-1ZE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Pav2f4b-1ZE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Another night, another dream, but always you \nIt's like a vision of love that seems to be true \nAnother night, another dream, but always you \nIn the night, I dream of a love so true \n\nJust another night, another vision of love \nYou feel joy, you feel pain, 'cause nothing will be the same \nJust another night, it's all that it takes \nTo understand the difference between lovers and fakes \nSo baby, I talk, talk, I talk to you \nIn the night, in your dream of love so true \nI talk, talk, I talk to you \nIn the night, in your dream of love so true \n\nIn the night, in my dreams, I'm in love with you \n'Cause you talk to me like lovers do \nI feel joy, I feel pain, 'cause it's still the same \nWhen the night is gone, I'll be alone \n\nAnother night, another dream, but always you \nIt's like a vision of love that seems to be true \nAnother night, another dream, but always you \nIn the night, I dream of a love so true \n\nJust another night, another dream, another vision of love \nHere we are, I'm here to set you free \nI'm your lover, I'm your brother, hey sister, let me cover \nYour body with my love, is with my love \nAnd just another vision of love that seems to be true \nAwake to all the things that only lovers do \nVision of love that seems to be true \nAwake to all the things that only lovers do \n\nIn the night, in my dreams, I'm in love with you \n'Cause you talk to me like lovers do \nI feel joy, I feel pain, 'cause it's still the same \nWhen the night is gone, I'll be alone \n\nAnother night, another dream, but always you \nIt's like a vision of love that seems to be true \nAnother night, another dream, but always you \nIn the night, I dream of a love so true \n\nI talk, talk, I talk to you \nIn the night, in your dream of love so true \nI talk, talk, I talk to you \nIn the night, in your dream of love so true \n\nIn the night, in my dreams, I'm in love with you \n'Cause you talk to me like lovers do \nI feel joy, I feel pain, 'cause it's still the same \nWhen the night is gone, I'll be alone \n\nAnother night, another dream, but always you \nIt's like a vision of love that seems to be true \nAnother night, another dream, but always you \nIn the night, I dream of a love so true"
+  },
+  "metadata": {
+    "youtube_id": "Pav2f4b-1ZE",
+    "title_extracted": null,
+    "corpus_id": "Pav2f4b-1ZE",
+    "uploader": "Real McCoy",
+    "audio_file": "corpus/01_music_videos_audio/audio/Pav2f4b-1ZE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7633314,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.176732,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:11:33Z"
+  },
+  "status": "success",
+  "error": null
+}

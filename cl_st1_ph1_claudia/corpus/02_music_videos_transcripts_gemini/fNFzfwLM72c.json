@@ -1,0 +1,38 @@
+{
+  "corpus_id": "fNFzfwLM72c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/fNFzfwLM72c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/fNFzfwLM72c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/fNFzfwLM72c.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Well, you can tell by the way I use my walk, I'm a woman's man, no time to talk\nMusic loud and women warm, I've been kicked around since I was born\nAnd now it's alright, it's okay, and you may look the other way\nBut we can try to understand the New York Times' effect on man\n\nWhether you're a brother or whether you're a mother, you're stayin' alive, stayin' alive\nFeel the city breakin' and everybody shakin' and we're stayin' alive, stayin' alive\nAh, ah, ah, ah, stayin' alive, stayin' alive\nAh, ah, ah, ah, stayin' alive\n\nOh, somebody help me!\n\nWell now, get low and I get high, and if I can't get either, I really try\nGot the wings of heaven on my shoes, I'm a dancin' man and I just can't lose\nYou know it's alright, it's okay, I'll live to see another day\nWe can try to understand the New York Times' effect on man\n\nWhether you're a brother or whether you're a mother, you're stayin' alive, stayin' alive\nFeel the city breakin' and everybody shakin' and we're stayin' alive, stayin' alive\nAh, ah, ah, ah, stayin' alive, stayin' alive\nAh, ah, ah, ah, stayin' alive\n\nLife goin' nowhere, somebody help me\nSomebody help me, yeah\nLife goin' nowhere, somebody help me, yeah\n\nWell, you can tell by the way I use my walk, I'm a woman's man, no time to talk\nMusic loud and women warm, I've been kicked around since I was born\nAnd now it's alright, it's okay, and you may look the other way\nBut we can try to understand the New York Times' effect on man\n\nWhether you're a brother or whether you're a mother, you're stayin' alive, stayin' alive\nFeel the city breakin' and everybody shakin' and we're stayin' alive, stayin' alive\nAh, ah, ah, ah, stayin' alive, stayin' alive\nAh, ah, ah, ah, stayin' alive\n\nLife goin' nowhere, somebody help me\nSomebody help me, yeah\nLife goin' nowhere, somebody help me, yeah\nStayin' alive\n\nLife goin' nowhere, somebody help me\nSomebody help me, yeah\nStayin' alive\nLife goin' nowhere, somebody help me, yeah\nStayin' alive\n\nLife goin' nowhere, somebody help me\nSomebody help me, yeah"
+  },
+  "metadata": {
+    "youtube_id": "fNFzfwLM72c",
+    "title_extracted": null,
+    "corpus_id": "fNFzfwLM72c",
+    "uploader": "beegees",
+    "audio_file": "corpus/01_music_videos_audio/audio/fNFzfwLM72c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7986256,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.827898,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:16:28Z"
+  },
+  "status": "success",
+  "error": null
+}

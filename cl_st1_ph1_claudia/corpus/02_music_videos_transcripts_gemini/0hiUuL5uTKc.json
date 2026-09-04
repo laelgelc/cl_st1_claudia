@@ -1,0 +1,38 @@
+{
+  "corpus_id": "0hiUuL5uTKc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/0hiUuL5uTKc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/0hiUuL5uTKc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/0hiUuL5uTKc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "This is how we do it This is how we do it La la la la la la lo Oh, a little lower This is how we do it La la la la la lo This is how we do it, it's Friday night And I feel alright The party's here on the West side So I reach for my 40 and I turn it up Designated driver take the keys to my truck Hit the shore 'cause I'm faded Honeys in the street say, \"Montell, yo, we made it\" It feels so good in my hood tonight The summertime skirts and the guys ain't drop All the gangbangers forgot about the drive-by You gotta get your groove on before you go get paid So tip up your cup and throw your hands up And let me hear the party say I'm kinda buzzed and it's all because This is how we do it South Central does it like nobody does This is how we do it To all my neighbors you got much flavor This is how we do it Let's flip the track, bring the old school back This is how we do it This is how we do it, all hands are in the air And wave 'em from here to there If you're an OG Mack or a wannabe player You see the hood's been good to me Ever since I was a lowercase \"g\" But now I'm a Big G The girls see I got the money, hundred-dollar bills y'all If you were from where I'm from then you would know That I gotta get mine in a big black truck You can get yours in a 6-4 Whatever it is, the party's underway So tip up your cup and throw your hands up And let me hear the party say I'm kinda buzzed and it's all because This is how we do it South Central does it like nobody does This is how we do it To all my neighbors you got much flavor This is how we do it Let's flip the track, bring the old school back This is how we do it I'm kinda buzzed and it's all because This is how we do it South Central does it like nobody does, nobody does This is how we do it Y'all in the NYC This is how we do it To my homies, I'll never come whack on an old school track This is how we do it Check it out, once upon a time in '94 Montell made no money and life show was slow And all they said was 6'8\" he stood And people thought the music that he made was good There lived a DJ and Paul was his name He came up to Montell, this is what he said \"You're an OG, you're gonna make some cash Sell a million records and we're makin' the dash\" Oh, I'm buzzed because This is how we do it South Central does it like nobody does This is how we do it To all my neighbors you got much flavor This is how we do it I'll never come whack on an old school track This is how we do it I'm kinda buzzed and it's all because This is how we do it South Central does it like nobody does, nobody does This is how we do it Oh, it's party time This is how we do it Straight up coming from the West side This is how we do it OGs got the flavor, yeah This is how we do it And Montell does it like nobody does it Come on now, Def Jam, you know that this is how we do it This is how we do it"
+  },
+  "metadata": {
+    "youtube_id": "0hiUuL5uTKc",
+    "title_extracted": null,
+    "corpus_id": "0hiUuL5uTKc",
+    "uploader": "Montell Jordan",
+    "audio_file": "corpus/01_music_videos_audio/audio/0hiUuL5uTKc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7475790,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.642315,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:06:38Z"
+  },
+  "status": "success",
+  "error": null
+}

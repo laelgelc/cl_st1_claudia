@@ -1,0 +1,38 @@
+{
+  "corpus_id": "tkOr12AQpnU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/tkOr12AQpnU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/tkOr12AQpnU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/tkOr12AQpnU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Every time I think of you I feel a shot right through with a bolt of blue It's no problem of mine, but it's a problem I find Living a life that I can't leave behind There's no sense in telling me The wisdom of a fool won't set you free But that's the way that it goes and it's what nobody knows Well, every day my confusion grows Every time I see you falling I get down on my knees and pray I'm waiting for that final moment You'll say the words that I can't say I feel fine and I feel good I'm feeling like I never should Whenever I get this way I just don't know what to say Why can't we be ourselves like we were yesterday? I'm not sure what this could mean I don't think you're what you seem I do admit to myself that if I hurt someone else Then I'll never see just what we're meant to be Every time I see you falling I get down on my knees and pray I'm waiting for that final moment You'll say the words that I can't say I don't believe in reincarnation, because I refuse to come back as a bug or as a rabbit. You know, you're a real \"up\" person. Every time I see you falling I get down on my knees and pray I'm waiting for that final moment You'll say the words that I can't say Every time I see you falling I get down on my knees and pray I'm waiting for that final moment You'll say the words that I can't say"
+  },
+  "metadata": {
+    "youtube_id": "tkOr12AQpnU",
+    "title_extracted": null,
+    "corpus_id": "tkOr12AQpnU",
+    "uploader": "New Order",
+    "audio_file": "corpus/01_music_videos_audio/audio/tkOr12AQpnU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7395542,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.999429,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:39:55Z"
+  },
+  "status": "success",
+  "error": null
+}

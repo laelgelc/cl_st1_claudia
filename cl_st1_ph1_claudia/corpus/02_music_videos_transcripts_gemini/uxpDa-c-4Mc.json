@@ -1,0 +1,38 @@
+{
+  "corpus_id": "uxpDa-c-4Mc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uxpDa-c-4Mc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/uxpDa-c-4Mc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/uxpDa-c-4Mc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Of course, I've played with feet before. No, you're the baby. I love feet. No, I like it. Soft. The toes, I'm not gonna... No, no, no, no, I'm not gonna say... I'll be like, love to do that for you. Yeah, if he like 6 feet. Yeah, he really got to be like 6 feet... You used to call me on my You used to, you used to Yeah You used to call me on my cell phone Late night when you need my love Call me on my cell phone Late night when you need my love And I know when that hotline bling That can only mean one thing I know when that hotline bling That can only mean one thing Ever since I left the city, you Got a reputation for yourself now Everybody knows and I feel left out Girl, you got me down, you got me stressed out 'Cause ever since I left the city, you Started wearing less and going out more Glasses of champagne out on the dance floor Hanging with some girls I've never seen before You used to call me on my cell phone Late night when you need my love Call me on my cell phone Late night when you need my love I know when that hotline bling That can only mean one thing I know when that hotline bling That can only mean one thing Ever since I left the city, you, you, you You and me, we just don't get along You make me feel like I did you wrong Going places where you don't belong Ever since I left the city, you You got exactly what you asked for Running out of pages in your passport Hanging with some girls I've never seen before You used to call me on my cell phone Late night when you need my love Call me on my cell phone Late night when you need my love And I know when that hotline bling That can only mean one thing I know when that hotline bling That can only mean one thing These days, all I do is Wonder if you're bending over backwards for someone else Wonder if you're rolling up a Backwood for someone else Doing things I taught you, getting nasty for someone else You don't need no one else You don't need nobody else, no Why you never alone? Why you always touching road? Used to always stay at home, be a good girl, you was in the zone Yeah You should just be yourself Right now, you're someone else You used to call me on my cell phone Late night when you need my love Call me on my cell phone Late night when you need my love And I know when that hotline bling That can only mean one thing I know when that hotline bling That can only mean one thing Ever since I left the city... Maybe... I think I have... So what is..."
+  },
+  "metadata": {
+    "youtube_id": "uxpDa-c-4Mc",
+    "title_extracted": null,
+    "corpus_id": "uxpDa-c-4Mc",
+    "uploader": "Drake",
+    "audio_file": "corpus/01_music_videos_audio/audio/uxpDa-c-4Mc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9458960,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.922675,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:03:21Z"
+  },
+  "status": "success",
+  "error": null
+}

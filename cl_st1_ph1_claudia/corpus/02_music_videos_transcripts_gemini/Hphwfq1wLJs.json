@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Hphwfq1wLJs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Hphwfq1wLJs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Hphwfq1wLJs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Hphwfq1wLJs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Sugar Sugar Ooh She sits alone waiting for suggestions. He's so nervous avoiding all the questions. His lips are dry, her heart's gently pounding. Don't you just know exactly what they're thinking? If you want my body and you think I'm sexy, come on sugar let me know. Yeah, if you really need me, just reach out and touch me, come on honey tell me so, tell me so baby. He's acting shy, looking for an answer. Come on, honey. Let's spend the night together. Now hold on a minute before we go much further. Give me a dime so I can phone my mother. They catch a cab to his high-rise apartment. At last he can tell her exactly what his heart meant. If you want my body and you think I'm sexy, come on sugar let me know. Yeah, if you really need me, just reach out and touch me, come on sugar let me know. Ooh His heart's beating like a drum 'cause at last he's got his girl home. Relax, baby, now we're all alone. Ow! They wake at dawn 'cause all the birds are singing. Two total strangers, but honey, what they're thinking? Outside it's cold, misty and it's raining. They got each other, neither one's complaining. He says, \"I'm sorry, but I'm out of milk and coffee.\" \"Never mind, sugar, we can watch the early movie.\" If you want my body and you think I'm sexy, come on sugar let me know. Yeah, if you really need me, just reach out and touch me, come on honey tell me so. Ooh If you really need me, just reach out and touch me, come on sugar let me know. If you really, really, really need me, let me know. Just reach out and touch me. Ooh If you really want me, just reach out and touch me, come on sugar let me know. If you really need me, just reach out and touch me, come on sugar let me know. Yeah, if, if, if you really need me, yeah, come on and tell me so."
+  },
+  "metadata": {
+    "youtube_id": "Hphwfq1wLJs",
+    "title_extracted": null,
+    "corpus_id": "Hphwfq1wLJs",
+    "uploader": "Rod Stewart",
+    "audio_file": "corpus/01_music_videos_audio/audio/Hphwfq1wLJs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8897222,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.583071,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:49:00Z"
+  },
+  "status": "success",
+  "error": null
+}

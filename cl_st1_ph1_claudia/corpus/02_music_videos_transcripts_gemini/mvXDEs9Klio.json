@@ -1,0 +1,38 @@
+{
+  "corpus_id": "mvXDEs9Klio",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/mvXDEs9Klio.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/mvXDEs9Klio.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/mvXDEs9Klio.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Do you recall a night, that very, very special night? Do you remember a girl, a very special girl? Well, to the old and to the new, we re-dedicate this song to you.  Oh, what a night to hold you tight. Oh, what a night to kiss you, dear. Oh, what a night to hold you tight. That's why I love you so.  Oh, what a night to hold you tight. Oh, what a night to kiss you, dear. Oh, what a night to hold you tight. That's why I love you so.  I won't forget all the things you have told to me. Deep in my heart, don't let me forget your love.  Oh, what a night to hold you tight. Oh, what a night to kiss you, dear. Oh, what a night to hold you tight. That's why I love you so.  Oh, what a night to hold you tight. Oh, what a night to kiss you, dear. Oh, what a night to hold you tight. That's why I love you so.  No, no, no, no, no. No, no, no, no, no.  One more night. When I walked you home one more night. I want to make love to you one more night. I love you, baby. I want you, baby. I need you, baby. I love you, baby."
+  },
+  "metadata": {
+    "youtube_id": "mvXDEs9Klio",
+    "title_extracted": null,
+    "corpus_id": "mvXDEs9Klio",
+    "uploader": "TheSignaturesounds",
+    "audio_file": "corpus/01_music_videos_audio/audio/mvXDEs9Klio.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7880746,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 46.349711,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:57:08Z"
+  },
+  "status": "success",
+  "error": null
+}

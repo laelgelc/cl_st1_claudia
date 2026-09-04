@@ -1,0 +1,38 @@
+{
+  "corpus_id": "7Znh0OM9jiA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/7Znh0OM9jiA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/7Znh0OM9jiA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/7Znh0OM9jiA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Oh yeah Well oh yeah, oh yeah All right Well, they tell me of a pie up in the sky Waiting for me when I die But between the day you're born and when you die They never seem to hear even your cry So as sure as the sun will shine I'm gonna get my share now, what's mine And then the harder they come The harder they fall, one and all Ooh, the harder they come The harder they fall, one and all Well, the oppressors are trying to keep me down Trying to drive me underground And they think that they have got the battle won I say forgive them Lord, for they know not what they've done 'Cause as sure as the sun will shine I'm gonna get my share now, what's mine And then the harder they come The harder they fall, one and all Ooh, the harder they come The harder they fall, one and all Oh yeah Well, oh yeah, oh yeah Oh yeah Well, I keep on fighting for the things I want Though I know that when you're dead you're gone But I'd rather be a free man in my grave Than living as a puppet or a slave So as sure as the sun will shine I'm gonna get my share right now, what's mine And then the harder they come The harder they fall, one and all Ooh, the harder they come The harder they fall, one and all Hey, the harder they come The harder they fall, one and all Hey, the harder they come The harder they fall, one and all"
+  },
+  "metadata": {
+    "youtube_id": "7Znh0OM9jiA",
+    "title_extracted": null,
+    "corpus_id": "7Znh0OM9jiA",
+    "uploader": "Rocksteady Freddie",
+    "audio_file": "corpus/01_music_videos_audio/audio/7Znh0OM9jiA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6159868,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.098275,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:40:53Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "79fzeNUqQbQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/79fzeNUqQbQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/79fzeNUqQbQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/79fzeNUqQbQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Life is a mystery Everyone must stand alone I hear you call my name And it feels like home When you call my name It's like a little prayer I'm down on my knees I wanna take you there In the midnight hour I can feel your power Just like a prayer You know I'll take you there I hear your voice It's like an angel sighing I have no choice, I hear your voice Feels like flying I close my eyes Oh God, I think I'm falling Out of the sky, I close my eyes Heaven help me When you call my name It's like a little prayer I'm down on my knees I wanna take you there In the midnight hour I can feel your power Just like a prayer You know I'll take you there Like a child You whisper softly to me You're in control, just like a child Now I'm dancing It's like a dream No end and no beginning You're here with me, it's like a dream Let the choir sing When you call my name It's like a little prayer I'm down on my knees I wanna take you there In the midnight hour I can feel your power Just like a prayer You know I'll take you there When you call my name It's like a little prayer I'm down on my knees I wanna take you there In the midnight hour I can feel your power Just like a prayer You know I'll take you there Life is a mystery Everyone must stand alone I hear you call my name And it feels like home Just like a prayer, your voice can take me there Just like a muse to me, you are a mystery Just like a dream, you are not what you seem Just like a prayer, no choice, your voice can take me there Just like a prayer, I'll take you there It's like a dream to me Just like a prayer, I'll take you there It's like a dream to me Just like a prayer, I'll take you there It's like a dream to me Just like a prayer, I'll take you there It's like a dream to me Just like a prayer, your voice can take me there Just like a muse to me, you are a mystery Just like a dream, you are not what you seem Just like a prayer, no choice, your voice can take me there Just like a prayer, your voice can take me there Just like a muse to me, you are a mystery Just like a dream, you are not what you seem Just like a prayer, no choice, your voice can take me there Your voice can take me there Like a prayer Like a prayer Like a prayer Like a prayer Like a prayer Like a prayer"
+  },
+  "metadata": {
+    "youtube_id": "79fzeNUqQbQ",
+    "title_extracted": null,
+    "corpus_id": "79fzeNUqQbQ",
+    "uploader": "Madonna",
+    "audio_file": "corpus/01_music_videos_audio/audio/79fzeNUqQbQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10798658,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.26213,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:25:20Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "QJO3ROT-A4E",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/QJO3ROT-A4E.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/QJO3ROT-A4E.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/QJO3ROT-A4E.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You're insecure\nDon't know what for\nYou're turning heads when you walk through the door\nDon't need makeup to cover up\nBeing the way that you are is enough\n\nEveryone else in the room can see it\nEveryone else but you\n\nBaby, you light up my world like nobody else\nThe way that you flip your hair gets me overwhelmed\nBut when you smile at the ground, it ain't hard to tell\nYou don't know, oh-oh\nYou don't know you're beautiful\nIf only you saw what I can see\nYou'll understand why I want you so desperately\nRight now I'm looking at you and I can't believe\nYou don't know, oh-oh\nYou don't know you're beautiful, oh-oh\nThat's what makes you beautiful\n\nSo c-come on\nYou got it wrong\nTo prove I'm right, I put it in a song\nI don't know why you're being shy\nAnd turn away when I look into your eyes\n\nEveryone else in the room can see it\nEveryone else but you\n\nBaby, you light up my world like nobody else\nThe way that you flip your hair gets me overwhelmed\nBut when you smile at the ground, it ain't hard to tell\nYou don't know, oh-oh\nYou don't know you're beautiful\nIf only you saw what I can see\nYou'll understand why I want you so desperately\nRight now I'm looking at you and I can't believe\nYou don't know, oh-oh\nYou don't know you're beautiful, oh-oh\nThat's what makes you beautiful\n\nNa-na-na-na-na-na-na-na-na\nNa-na-na-na-na-na-na-na-na\nNa-na-na-na-na-na-na-na-na\nNa-na-na-na-na-na-na-na-na\n\nBaby, you light up my world like nobody else\nThe way that you flip your hair gets me overwhelmed\nBut when you smile at the ground, it ain't hard to tell\nYou don't know, oh-oh\nYou don't know you're beautiful\nBaby, you light up my world like nobody else\nThe way that you flip your hair gets me overwhelmed\nBut when you smile at the ground, it ain't hard to tell\nYou don't know, oh-oh\nYou don't know you're beautiful\nIf only you saw what I can see\nYou'll understand why I want you so desperately\nRight now I'm looking at you and I can't believe\nYou don't know, oh-oh\nYou don't know you're beautiful, oh-oh\nYou don't know you're beautiful, oh-oh\nThat's what makes you beautiful"
+  },
+  "metadata": {
+    "youtube_id": "QJO3ROT-A4E",
+    "title_extracted": null,
+    "corpus_id": "QJO3ROT-A4E",
+    "uploader": "One Direction",
+    "audio_file": "corpus/01_music_videos_audio/audio/QJO3ROT-A4E.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6607178,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.689399,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:02:07Z"
+  },
+  "status": "success",
+  "error": null
+}

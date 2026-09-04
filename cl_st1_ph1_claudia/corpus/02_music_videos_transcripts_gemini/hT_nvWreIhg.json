@@ -1,0 +1,38 @@
+{
+  "corpus_id": "hT_nvWreIhg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hT_nvWreIhg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/hT_nvWreIhg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/hT_nvWreIhg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Lately, I've been, I've been losing sleep Dreaming about the things that we could be But baby, I've been, I've been praying hard Said, no more counting dollars, we'll be counting stars Yeah, we'll be counting stars I see this life like a swinging vine Swing my heart across the line In my face is flashing signs Seek it out and ye shall find Old, but I'm not that old Young, but I'm not that bold And I don't think the world is sold I'm just doing what we're told I feel something so right Doing the wrong thing And I feel something so wrong Doing the right thing I could lie, could lie, could lie Everything that kills me makes me feel alive Lately, I've been, I've been losing sleep Dreaming about the things that we could be But baby, I've been, I've been praying hard Said, no more counting dollars, we'll be counting stars Lately, I've been, I've been losing sleep Dreaming about the things that we could be But baby, I've been, I've been praying hard Said, no more counting dollars, we'll be, we'll be counting stars Hey, yeah I feel her love and I feel it burn Down this river, every turn Hope is our four-letter word Make that money, watch it burn Old, but I'm not that old Young, but I'm not that bold And I don't think the world is sold I'm just doing what we're told I feel something so wrong Doing the right thing I could lie, could lie, could lie Everything that drowns me makes me wanna fly Lately, I've been, I've been losing sleep Dreaming about the things that we could be But baby, I've been, I've been praying hard Said, no more counting dollars, we'll be counting stars Lately, I've been, I've been losing sleep Dreaming about the things that we could be But baby, I've been, I've been praying hard Said, no more counting dollars, we'll be, we'll be counting stars Oh, take that money, watch it burn Sink in the river, the lessons I've learned Take that money, watch it burn Sink in the river, the lessons I've learned Take that money, watch it burn Sink in the river, the lessons I've learned Take that money, watch it burn Sink in the river, the lessons I've learned Everything that kills me Makes me feel alive Lately, I've been, I've been losing sleep Dreaming about the things that we could be But baby, I've been, I've been praying hard Said, no more counting dollars, we'll be counting stars Lately, I've been, I've been losing sleep Dreaming about the things that we could be But baby, I've been, I've been praying hard Said, no more counting dollars, we'll be, we'll be counting stars Take that money, watch it burn Sink in the river, the lessons I'learned Take that money, watch it burn Sink in the river, the lessons I've learned Take that money, watch it burn Sink in the river, the lessons I've learned Take that money, watch it burn Sink in the river, the lessons I've learned"
+  },
+  "metadata": {
+    "youtube_id": "hT_nvWreIhg",
+    "title_extracted": null,
+    "corpus_id": "hT_nvWreIhg",
+    "uploader": "OneRepublic",
+    "audio_file": "corpus/01_music_videos_audio/audio/hT_nvWreIhg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9059204,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.412308,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:05:10Z"
+  },
+  "status": "success",
+  "error": null
+}

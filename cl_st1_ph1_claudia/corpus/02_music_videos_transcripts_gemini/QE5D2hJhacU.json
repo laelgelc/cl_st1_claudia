@@ -1,0 +1,38 @@
+{
+  "corpus_id": "QE5D2hJhacU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/QE5D2hJhacU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/QE5D2hJhacU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/QE5D2hJhacU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Papa's in the... Papa's in the swing He ain't too hip about that new breed He ain't no drag Papa's got a brand new bag Come here, Mama, and dig this crazy scene He's not too fancy, but he's fine, he's pretty clean He ain't no drag Papa's got a brand new bag He's doing the jerk He's doing the fly Don't play him cheap, 'cause you know he ain't shy He's doing the monkey, the mashed potato Jump back Jack, see you later alligator Come here, Sister Papa's in the swing He ain't too hip now, but I can dig the new breed He ain't no drag He's got a brand new bag Look at Papa He's doing the jerk Papa, he's doing the jerk He's doing the twist, just like this He's doing the fly, every day and every night The thing, like the boomerang Hey! Come on! Hey, hey! Come on! Hey! Say he's uptight, out of sight Come on, see what you know Come on, see what you know I just want you to know, Mr. O Hey! Come on! Hey! Come on! Now let me, now let me tell you what he's doing He's doing the jerk, doing the fly Don't play him cheap, 'cause you know he ain't shy Doing the monkey, the mashed potato Jump back Jack, see you later alligator Come here, Sister Hey, hey, come on"
+  },
+  "metadata": {
+    "youtube_id": "QE5D2hJhacU",
+    "title_extracted": null,
+    "corpus_id": "QE5D2hJhacU",
+    "uploader": "TheOldrecordclub",
+    "audio_file": "corpus/01_music_videos_audio/audio/QE5D2hJhacU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8307992,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.694589,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:31:15Z"
+  },
+  "status": "success",
+  "error": null
+}

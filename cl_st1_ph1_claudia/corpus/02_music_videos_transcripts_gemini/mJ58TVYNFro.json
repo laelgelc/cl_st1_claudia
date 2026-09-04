@@ -1,0 +1,38 @@
+{
+  "corpus_id": "mJ58TVYNFro",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/mJ58TVYNFro.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/mJ58TVYNFro.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/mJ58TVYNFro.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Hmm... People are talking, talking 'bout people I hear them whisper, \"You won't believe it\" They think we're lovers kept under cover I'll just ignore it, but they keep saying Laugh just a little too loud Stand just a little too close Stare just a little too long Maybe they're seeing something we don't, darling Let's give 'em something to talk about Something to talk about Let's give 'em something to talk about Something to talk about Let's give 'em something to talk about How about love? I feel so foolish, I never noticed You act so nervous, could you be falling for me? It took a rumor to make me wonder Now I'm convinced I'm going under Thinking 'bout you every day Every day Thinking 'bout you every night Every night I'm hoping that you feel the same way Now that we know it, let's really show it, darling Let's give 'em something to talk about Something to talk about A little mystery to figure out Something to talk about Let's give 'em something to talk about How about love, love, love? Let's give 'em something to talk about A little mystery to figure out Let's give 'em something to talk about How about love, love, love? Listen up, baby Something to talk about A little mystery to figure out Something to talk about Let's give 'em something to talk about How about love, love, love? Ooh, how about love, love, love? How about love? How about love?"
+  },
+  "metadata": {
+    "youtube_id": "mJ58TVYNFro",
+    "title_extracted": null,
+    "corpus_id": "mJ58TVYNFro",
+    "uploader": "TheBonnieRaitt",
+    "audio_file": "corpus/01_music_videos_audio/audio/mJ58TVYNFro.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6995786,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.715965,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:29:17Z"
+  },
+  "status": "success",
+  "error": null
+}

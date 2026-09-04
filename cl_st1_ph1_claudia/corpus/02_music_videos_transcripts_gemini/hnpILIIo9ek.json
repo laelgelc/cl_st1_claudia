@@ -1,0 +1,38 @@
+{
+  "corpus_id": "hnpILIIo9ek",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hnpILIIo9ek.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/hnpILIIo9ek.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/hnpILIIo9ek.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I am the son and the heir of a shyness that is criminally vulgar. I am the son and heir of nothing in particular. You shut your mouth, how can you say I go about things the wrong way? I am human and I need to be loved, just like everybody else does. I am the son and the heir of a shyness that is criminally vulgar. I am the son and heir of nothing in particular. You shut your mouth, how can you say I go about things the wrong way? I am human and I need to be loved, just like everybody else does. There's a club if you'd like to go, you could meet somebody who really loves you. So you go and you stand on your own, and you leave on your own, and you go home, and you cry and you want to die."
+  },
+  "metadata": {
+    "youtube_id": "hnpILIIo9ek",
+    "title_extracted": null,
+    "corpus_id": "hnpILIIo9ek",
+    "uploader": "The Smiths",
+    "audio_file": "corpus/01_music_videos_audio/audio/hnpILIIo9ek.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6912566,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.337133,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:25:07Z"
+  },
+  "status": "success",
+  "error": null
+}

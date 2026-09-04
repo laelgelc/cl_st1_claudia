@@ -1,0 +1,38 @@
+{
+  "corpus_id": "IVF0zcqr9Dg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/IVF0zcqr9Dg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/IVF0zcqr9Dg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/IVF0zcqr9Dg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "If you ask me, I'd say the girl's in love. That's what it is. Now you guys are all getting carried away. Look who's here. What's up with you guys? Y'all just standing. Well, we have an announcement to make. We have someone very special. Come on, Janet. Seriously, where have you been? Just getting my folks' business together, you know. Oh. No, tell us. What's up? Yeah. Okay, you guys really want to know? Yeah! Yeah, I do. I can't believe you guys. You guys just never give up. Shot like an arrow through my heart. That's the feeling I feel. I feel whenever you're near. My heart, not to say that I'm in love with you, but who's to say that I'm not? I just know that we've been gone with no way too long and now my body's hot. So let me tell your best friend. I'll tell your mama. I'll tell your friends. I'll tell anyone who's got can comprehend. Send it in a letter, baby. Tell you on the phone. I'm not the kind of girl who likes to be alone. I miss you much. I miss you much. I miss you much. I miss you much. I miss you much, baby. I miss you much. I miss you much. I miss you much. I'm rushing home just as soon as I can. I'm rushing home to see your smiling face and feel your warm embrace and make me feel so good. So I'll tell your best friend. Tell your mama. I'll tell your friends. I'll tell anyone who's got can comprehend. Send it in a letter, baby. Tell you on the phone. I'm not the kind of girl who likes to be alone. I miss you much. I miss you much. I miss you much. I miss you much. I miss you much, baby. I miss you much. I miss you much. I miss you much. I miss you. I miss you much. I'll be missing you. I miss you. I miss you much. I'm marching to tell the world I miss you. Tell your mama. Tell your friend. Tell your friends. Tell anyone who's got can comprehend. Send it in a letter, baby. Tell you on the phone. I'm not the kind of girl who likes to be alone. I miss you much. I miss you much. I miss you much. I miss you much. I miss you much, baby. I miss you much. I miss you much. I miss you much. That's the end!"
+  },
+  "metadata": {
+    "youtube_id": "IVF0zcqr9Dg",
+    "title_extracted": null,
+    "corpus_id": "IVF0zcqr9Dg",
+    "uploader": "Janet Jackson",
+    "audio_file": "corpus/01_music_videos_audio/audio/IVF0zcqr9Dg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8347374,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.687283,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:01:35Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "xd23p_vUMYw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/xd23p_vUMYw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/xd23p_vUMYw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/xd23p_vUMYw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "...our moods and their reflections in terms of music. But now we come to a mood that is the product of our present generation. The bubbling enthusiasm of our teenagers was the inspiration for what is now the most popular style of music in the country: rock and roll. A few short weeks ago, five teenage boys went into a recording studio, and they said they had a song they wanted to sing. Well, it took a little time—three weeks to be exact—but they were heard, and their song was recorded. It is now the number one record in America, and the song is \"Why Do Fools Fall in Love?\". And they call themselves The Teenagers. Here they are. So, you guys are The Teenagers. That's right, Mr. Lane. Come on, boys. Let's sing our song then. That's lot of you. Yes, sir. Can we sing now? What's your hurry? I have to make my money before my voice changes. Got news for you, dad. It ain't going to go much lower. You're in a barrel now. Frankie, you amaze me. Tell me something. You're only 13 years old, and yet you wrote this big hit. How did that ever happen? Well, Mr. Lane, one day I was dressing, an inspiration came to me, so I wrote the song. Well, what was the inspiration? I needed a new suit. Now, that's a pretty good reason. But I can't understand how you could write \"Why Do Fools Fall in Love?\". What does a 13-year-old boy know about love? Well, Mr. Lane, I've been falling in love since I was only five. Five? But I've been a fool about it since I was 11. Well, don't complain, lad. You've only had two rough years. I go all the way back to Bridey Murphy. Well, I think we've had enough of this little chit-chat. This is your first nationwide television appearance, isn't it? That's right, sir. And I know that everybody's waiting to hear you sing. So, are you ready to rock and roll? That's right. That means I ought to get lost, huh? How about it? Bap-ba-ba-ba-ba-ba-ba-ba Ooh-wa, ooh-wa, ooh-wa, ooh-wa, ooh-wa, ooh-wa Why do fools fall in love? Why do birds sing so gay? And lovers await the break of day? Why do they fall in love? Why does the rain fall from above? Why do fools fall in love? Why do they fall in love? Love is a losing game Love can be a shame I know of a fool you see For that fool is me Tell me why Tell me why Why do fools fall in love? Why do birds sing so gay? And lovers await the break of day? Why do they fall in love? Why does the rain fall from above? Why do fools fall in love? Why do they fall in love? Why does my heart skip a crazy beat? For I know it will take me somewhere Tell me why Tell me why Why do fools fall in love?"
+  },
+  "metadata": {
+    "youtube_id": "xd23p_vUMYw",
+    "title_extracted": null,
+    "corpus_id": "xd23p_vUMYw",
+    "uploader": "1984dreaming",
+    "audio_file": "corpus/01_music_videos_audio/audio/xd23p_vUMYw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8602978,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.928005,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:47:32Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "XE2fnYpwrng",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/XE2fnYpwrng.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/XE2fnYpwrng.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/XE2fnYpwrng.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Whenever I'm with you Something inside Starts burning And I feel the fever Could it be a devil in me Or is this the way I'm supposed to be? It's like a heatwave Burning in my heart I can't keep from crying It's tearing me apart Whenever he calls my name Soft, sweet and plain I feel fire I feel burning flame Perhaps high blood pressure got a hold on me Or is this the way I'm supposed to be? It's like a heatwave Burning in my heart I can't keep from crying It's tearing me apart Heatwave Heatwave Sometimes I stare in space Feeling all over the place I can't explain it, don't understand it I ain't never felt like this before Now that funny feeling has got me in a trance Don't know what to do, my head's in a haze It's like a heatwave Yeah, yeah, yeah, yeah, heatwave Oh, heatwave Yeah, yeah, yeah, yeah, heatwave I feel it passing through me I feel it in my heart, it's like a heatwave Burning, burning Oh, yeah, yeah, don't you know it's a heatwave? Burning, burning, I feel it in my heart Yeah, yeah, burning"
+  },
+  "metadata": {
+    "youtube_id": "XE2fnYpwrng",
+    "title_extracted": null,
+    "corpus_id": "XE2fnYpwrng",
+    "uploader": "navahero",
+    "audio_file": "corpus/01_music_videos_audio/audio/XE2fnYpwrng.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5199862,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 4.646607,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:44:15Z"
+  },
+  "status": "success",
+  "error": null
+}

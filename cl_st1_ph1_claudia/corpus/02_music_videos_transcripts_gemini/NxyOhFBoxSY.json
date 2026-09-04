@@ -1,0 +1,38 @@
+{
+  "corpus_id": "NxyOhFBoxSY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/NxyOhFBoxSY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/NxyOhFBoxSY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/NxyOhFBoxSY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Eight miles high\nAnd when you touch down\nYou'll find that it's\nStranger than known\n\nSigns in the street\nThat say where you're going\nAre somewhere\nJust being their own\n\nNowhere\nIs there warmth to be found\nAmong those afraid of losing their ground\n\nRain town\nKnown for its sound\nIn places, small faces are bound\n\nRound the squares\nBroken display\nSome laughing\nSome just shapeless forms\n\nSidewalk scenes\nAnd black living trees\nSome living\nSome standing alone"
+  },
+  "metadata": {
+    "youtube_id": "NxyOhFBoxSY",
+    "title_extracted": null,
+    "corpus_id": "NxyOhFBoxSY",
+    "uploader": "TheByrdsVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/NxyOhFBoxSY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6901420,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.256941,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:17:24Z"
+  },
+  "status": "success",
+  "error": null
+}

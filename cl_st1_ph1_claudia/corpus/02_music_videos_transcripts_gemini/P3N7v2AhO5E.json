@@ -1,0 +1,38 @@
+{
+  "corpus_id": "P3N7v2AhO5E",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/P3N7v2AhO5E.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/P3N7v2AhO5E.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/P3N7v2AhO5E.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Your precious love \nmeans more to me \nthan any love \ncould ever be. \n\nFor when I wanted you, \nI was so lonely \nand so blue, \nfor that's what love will do. \n\nAnd darling, I \noh, when I \nrealized \nthat you \nwere fooling me. \n\nAnd darling, \nthey say that love won't grow, \nbut I just want to tell them \nthat they don't know. \n\nFor as long \nas you \ncan love me, \nmy love will grow wider, \ndeeper than any sea. \n\nAnd of all the things that I want \nin this whole wide world \nis just for you to say \nthat you'll be my girl. \n\nAnd wanting you, \nwanting you, \nI'm so lonely, \nwhat love \nwill do."
+  },
+  "metadata": {
+    "youtube_id": "P3N7v2AhO5E",
+    "title_extracted": null,
+    "corpus_id": "P3N7v2AhO5E",
+    "uploader": "Oldies Zone",
+    "audio_file": "corpus/01_music_videos_audio/audio/P3N7v2AhO5E.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5312804,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.407912,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:43:30Z"
+  },
+  "status": "success",
+  "error": null
+}

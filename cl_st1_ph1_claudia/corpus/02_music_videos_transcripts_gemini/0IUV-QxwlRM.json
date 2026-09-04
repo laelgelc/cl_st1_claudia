@@ -1,0 +1,38 @@
+{
+  "corpus_id": "0IUV-QxwlRM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/0IUV-QxwlRM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/0IUV-QxwlRM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/0IUV-QxwlRM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Well, all the little things you say and do Make me want to be with you Rave on, it's a crazy feeling And I know it's got me reeling When you say, \"I love you,\" rave on The way you dance and hold me tight The way you kiss and say goodnight Rave on, it's a crazy feeling And I know it's got me reeling When you say, \"I love you,\" rave on Oh well, rave on, it's a crazy feeling And I know it's got me reeling I'm so glad that you're revealing Your love for me Rave on, rave on and tell me Tell me not to be lonely Tell me you love me only Rave on to me Oh well, rave on, it's a crazy feeling And I know it's got me reeling I'm so glad that you're revealing Your love for me Rave on, rave on and tell me Tell me not to be lonely Tell me you love me only Rave on to me Ah-ah-ah Ah-ah-ah Ah-ah-ah"
+  },
+  "metadata": {
+    "youtube_id": "0IUV-QxwlRM",
+    "title_extracted": null,
+    "corpus_id": "0IUV-QxwlRM",
+    "uploader": "NicholasBeadle",
+    "audio_file": "corpus/01_music_videos_audio/audio/0IUV-QxwlRM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3639482,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 8.637481,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:16:31Z"
+  },
+  "status": "success",
+  "error": null
+}

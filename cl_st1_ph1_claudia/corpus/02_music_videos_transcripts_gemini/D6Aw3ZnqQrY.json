@@ -1,0 +1,38 @@
+{
+  "corpus_id": "D6Aw3ZnqQrY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/D6Aw3ZnqQrY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/D6Aw3ZnqQrY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/D6Aw3ZnqQrY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "(Dum dum dum dumby doo wah) (Ooh yeah yeah yeah yeah) (Oh oh oh oh wah) (Only the lonely) (Only the lonely) Only the lonely (dum dum dum dumby doo wah) Know the way I feel tonight (ooh yeah yeah yeah yeah) Only the lonely (dum dum dum dumby doo wah) Know this feeling ain't right (dum dum dum dumby doo wah) There goes my baby There goes my heart They're gone forever So far apart But only the lonely Know why I cry (ooh yeah yeah yeah yeah) Only the lonely (dum dum dum dumby doo wah) (Oh oh oh oh wah) (Only the lonely) (Only the lonely) Only the lonely (dum dum dum dumby doo wah) Know the heartache I've been through (ooh yeah yeah yeah yeah) Only the lonely (dum dum dum dumby doo wah) Know I cry, cry for you (dum dum dum dumby doo wah) Maybe tomorrow A new romance No more sorrow But that's the chance You gotta take If your lonely heart breaks Only the lonely (dum dum dum dumby doo wah)"
+  },
+  "metadata": {
+    "youtube_id": "D6Aw3ZnqQrY",
+    "title_extracted": null,
+    "corpus_id": "D6Aw3ZnqQrY",
+    "uploader": "Roy Orbison",
+    "audio_file": "corpus/01_music_videos_audio/audio/D6Aw3ZnqQrY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4941284,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.097103,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:03:14Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "cMOKamtpUA8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/cMOKamtpUA8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/cMOKamtpUA8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/cMOKamtpUA8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I found a picture of you What hijacked my world that night To a place in the past we've been cast out of Now we're back in the fight We're back on the chain gang Back on the chain gang Circumstance beyond our control The phone, the TV, and the news of the world Got in the house like a pigeon from hell Threw sand in our eyes and descended like flies Got us back on the chain gang Back on the chain gang The powers that be That force us to live like we do Bring me to my knees When I see what they've done to you But I'll die as I stand here today Knowing deep in my heart They'll fall to ruin one day For making us part I found a picture of you Those were the happiest days of my life Like a break in the battle was your part In the wretched life of a lonely heart Now we're back on the chain gang Back on the chain gang"
+  },
+  "metadata": {
+    "youtube_id": "cMOKamtpUA8",
+    "title_extracted": null,
+    "corpus_id": "cMOKamtpUA8",
+    "uploader": "Pretenders",
+    "audio_file": "corpus/01_music_videos_audio/audio/cMOKamtpUA8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7218698,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.389518,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:11:07Z"
+  },
+  "status": "success",
+  "error": null
+}

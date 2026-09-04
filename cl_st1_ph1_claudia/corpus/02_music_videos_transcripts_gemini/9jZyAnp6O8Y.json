@@ -1,0 +1,38 @@
+{
+  "corpus_id": "9jZyAnp6O8Y",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/9jZyAnp6O8Y.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/9jZyAnp6O8Y.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/9jZyAnp6O8Y.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Oh, yes, wait a minute, Mr. Postman\nWait, wait, hey, hey, hey, Mr. Postman\n(Please, Mr. Postman, look and see)\nOh, yes!\n(If there's a letter in your bag for me)\nPlease, Mr. Postman\n(I've been waiting a long, long time)\nOh, yes!\n(Since I heard from this boyfriend of mine)\n\nThere must be some word today\n(Word today)\nFrom my boyfriend so far away\n(Far away)\nPlease, Mr. Postman, look and see\n(Look and see)\nIs there a letter, a letter for me?\n(For me)\n\nI've been standing here waiting, Mr. Postman\n(Wait a minute)\nSo, oh, so patiently\n(Wait a minute)\nFor just a card or just a letter\n(For me)\nSaying he's returning home to me\n\nPlease, Mr. Postman\n(Please, Mr. Postman, look and see)\nOh, yes!\n(If there's a letter in your bag for me)\nPlease, Mr. Postman\n(I've been waiting a long, long time)\nOh, yes!\n(Since I heard from this boyfriend of mine)\n\nSo many days you passed me by\n(Passed me by)\nYou saw the tears standing in my eye\n(In my eye)\nYou wouldn't stop to make me feel better\nBy leaving me a card or a letter\n\nPlease, Mr. Postman, look and see\nIs there a letter, oh yeah, in your bag for me?\nYou know it's been so long\n(So long)\nYes, since I heard from this boyfriend\n(Boyfriend)\nOf mine\n\nYou better wait a minute, wait a minute\n(Wait a minute)\nOh, you better wait a minute\n(Wait a minute)\nPlease, please, Mr. Postman\n(Wait a minute, Mr. Postman)\n\nPlease check and see, just one more time for me\nYou better wait, wait a minute\n(Wait a minute)\nWait a minute, wait a minute, wait a minute\n(Wait a minute)\nPlease, Mr. Postman\n(Wait a minute, Mr. Postman)\n\nDeliver the letter, the sooner the better\nWait a minute, wait a minute\n(Wait a minute)\nWait a minute, please, Mr. Postman\n(Wait a minute)\nWait a minute"
+  },
+  "metadata": {
+    "youtube_id": "9jZyAnp6O8Y",
+    "title_extracted": null,
+    "corpus_id": "9jZyAnp6O8Y",
+    "uploader": "Ifasul",
+    "audio_file": "corpus/01_music_videos_audio/audio/9jZyAnp6O8Y.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4614348,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.998448,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:31:42Z"
+  },
+  "status": "success",
+  "error": null
+}

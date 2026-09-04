@@ -1,0 +1,38 @@
+{
+  "corpus_id": "zR5_KkxgGqE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/zR5_KkxgGqE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/zR5_KkxgGqE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/zR5_KkxgGqE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Hey baby girl, I've been watching you all day (all day, all day, all day)\nMan, that thing you got behind you is amazing (amazing, amazing, amazing)\nYou make me wanna take you out and let it rain (let it rain, let it rain, let it rain)\nI know you got a man, but this is what you should say, why don't you tell him\n\nI'm leaving, never coming back again\nYou found somebody who does it better than he can\nNo more making you cry, no more on gray skies\nGirl, we flying on a G5, G5\nAnd we leaving, never coming back again\nSo call your shorty and tell him you found a new man\nDon't want this so-so life, just wanna keep you high\nHave you singing all night like\nYeah, yeah\nMan, she gonna be singing, she gonna be singing like\nOh, oh, oh\n\nNow if I talk it, girl, you know that I'mma walk it out (walk it out, walk it out, walk it out)\nMan, I put my money, money where my mouth is (where my mouth is, where my mouth is)\nIs you the baddest little thing that I ever seen (ever seen, ever seen, ever seen)\nSo I'mma ask you one time, if you got a man, why don't you tell him\n\nI'm leaving, never coming back again\nYou found somebody who does it better than he can\nNo more making you cry, no more on gray skies\nGirl, we flying on a G5, G5\nAnd we leaving, never coming back again\nSo call your shorty and tell him you found a new man\nDon't want this so-so life, just wanna keep you high\nHave you singing all night like\nYeah\nMan, she gonna be singing, she gonna be singing, uh, she gonna be singing, she gonna be singing, girl, you gonna be singing\n\nDon't stress, don't stress, don't stress\nJust tell him to the left, left, left\nDon't stress, don't stress, don't stress\n'Cause we gone and we gone and we gone\nNo stress, no stress, no stress\nGirl, you deserve nothing but the best\nNo stress, no stress, no stress\nGirl, you need to tell him\n\nI'm leaving, never coming back again\nYou found somebody who does it better than he can\nNo more making you cry, no more on gray skies\nGirl, we flying on a G5, G5\nAnd we leaving, never coming back again\nSo call your shorty and tell him you found a new man\nDon't want this so-so life, just wanna keep you high\nHave you singing all night like\nYeah\nMan, she gonna be singing, oh\nHave you singing all night like\nMan, she gonna be singing, she gonna be singing, uh, she gonna be singing, she gonna be singing, girl, you gonna be singing"
+  },
+  "metadata": {
+    "youtube_id": "zR5_KkxgGqE",
+    "title_extracted": null,
+    "corpus_id": "zR5_KkxgGqE",
+    "uploader": "HollywoodRecordsVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/zR5_KkxgGqE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7036654,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.923106,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:56:02Z"
+  },
+  "status": "success",
+  "error": null
+}

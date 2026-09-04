@@ -1,0 +1,38 @@
+{
+  "corpus_id": "JGwWNGJdvx8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/JGwWNGJdvx8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/JGwWNGJdvx8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/JGwWNGJdvx8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "The club isn't the best place to find a lover\nSo the bar is where I go\nMe and my friends at the table doing shots\nDrinking fast and then we talk slow\nCome over and start a conversation with just me\nAnd trust me I'll give it a chance now\nTake my hand, stop, put Man on the Jukebox\nAnd then we start to dance, and now I'm singing like\n\nGirl, you know I want your love\nYour love was handmade for somebody like me\nCome on now, follow my lead\nI may be crazy, don't mind me, say\nBoy, let's not talk too much\nGrab on my waist and put that body on me\nCome on now, follow my lead\nCome, come on now, follow my lead\n\nI'm in love with the shape of you\nWe push and pull like a magnet do\nAlthough my heart is falling too\nI'm in love with your body\nAnd last night you were in my room\nAnd now my bedsheets smell like you\nEvery day discovering something brand new\nI'm in love with your body\nOh I, oh I, oh I, oh I\nI'm in love with your body\nOh I, oh I, oh I, oh I\nI'm in love with your body\nOh I, oh I, oh I, oh I\nI'm in love with your body\nEvery day discovering something brand new\nI'm in love with the shape of you\n\nOne week in, we let the story begin\nWe're going out on our first date\nYou and me are thrifty, so go all-you-can-eat\nFill up your bag and I fill up my plate\nWe talk for hours and hours about the sweet and the sour\nAnd how your family's doing okay\nAnd leave and get in a taxi, kiss in the backseat\nTell the driver make the radio play, and I'm singing like\n\nGirl, you know I want your love\nYour love was handmade for somebody like me\nCome on now, follow my lead\nI may be crazy, don't mind me, say\nBoy, let's not talk too much\nGrab on my waist and put that body on me\nCome on now, follow my lead\nCome, come on now, follow my lead\n\nI'm in love with the shape of you\nWe push and pull like a magnet do\nAlthough my heart is falling too\nI'm in love with your body\nAnd last night you were in my room\nAnd now my bedsheets smell like you\nEvery day discovering something brand new\nI'm in love with your body\nOh I, oh I, oh I, oh I\nI'm in love with your body\nOh I, oh I, oh I, oh I\nI'm in love with your body\nOh I, oh I, oh I, oh I\nI'm in love with your body\nEvery day discovering something brand new\nI'm in love with the shape of you\n\nCome on, be my baby, come on\nCome on, be my baby, come on\nCome on, be my baby, come on\nCome on, be my baby, come on\nCome on, be my baby, come on\nCome on, be my baby, come on\nCome on, be my baby, come on\nCome on, be my baby, come on\n\nI'm in love with the shape of you\nWe push and pull like a magnet do\nAlthough my heart is falling too\nI'm in love with your body\nAnd last night you were in my room\nAnd now my bedsheets smell like you\nEvery day discovering something brand new\nI'm in love with your body\nCome on, be my baby, come on\nI'm in love with your body\nCome on, be my baby, come on\nI'm in love with your body\nCome on, be my baby, come on\nI'm in love with your body\nEvery day discovering something brand new\nI'm in love with the shape of you"
+  },
+  "metadata": {
+    "youtube_id": "JGwWNGJdvx8",
+    "title_extracted": null,
+    "corpus_id": "JGwWNGJdvx8",
+    "uploader": "Ed Sheeran",
+    "audio_file": "corpus/01_music_videos_audio/audio/JGwWNGJdvx8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8424650,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.897284,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:29:59Z"
+  },
+  "status": "success",
+  "error": null
+}

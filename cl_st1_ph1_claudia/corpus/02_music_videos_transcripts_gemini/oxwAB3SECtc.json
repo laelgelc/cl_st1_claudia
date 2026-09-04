@@ -1,0 +1,38 @@
+{
+  "corpus_id": "oxwAB3SECtc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oxwAB3SECtc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/oxwAB3SECtc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/oxwAB3SECtc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "One, two, three, four! Well, she was just seventeen, you know what I mean, and the way she looked was way beyond compare. So how could I dance with another when I saw her standing there? Well, she looked at me, and I, I could see that before too long I'd fall in love with her. She wouldn't dance with another when I saw her standing there. Well, my heart went \"boom\" when I crossed that room, and I held her hand in mine. Oh, we danced through the night, and we held each other tight, and before too long I fell in love with her. Now I'll never dance with another when I saw her standing there. Well, my heart went \"boom\" when I crossed that room, and I held her hand in mine. Oh, we danced through the night, and we held each other tight, and before too long I fell in love with her. Now I'll never dance with another since I saw her standing there. Woah, since I saw her standing there. Yeah, well, since I saw her standing there."
+  },
+  "metadata": {
+    "youtube_id": "oxwAB3SECtc",
+    "title_extracted": null,
+    "corpus_id": "oxwAB3SECtc",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/oxwAB3SECtc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5566180,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.329373,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:19:29Z"
+  },
+  "status": "success",
+  "error": null
+}

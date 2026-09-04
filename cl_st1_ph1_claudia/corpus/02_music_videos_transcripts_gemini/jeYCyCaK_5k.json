@@ -1,0 +1,38 @@
+{
+  "corpus_id": "jeYCyCaK_5k",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/jeYCyCaK_5k.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/jeYCyCaK_5k.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/jeYCyCaK_5k.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Yeah All is quiet on New Year's Day A world in white is underway I want to be with you, be with you night and day Nothing changes on New Year's Day On New Year's Day I will be with you again I will be with you again Under a blood red sky A crowd has gathered in black and white Arms entwined, the chosen few The newspaper says, says Says it's true, it's true And we can break through, though torn in two We can be one I, I will begin again I, I will begin again Oh-oh, oh-oh-oh I will be with you again I will be with you again I will be with you again I will be with you again I will be with you again"
+  },
+  "metadata": {
+    "youtube_id": "jeYCyCaK_5k",
+    "title_extracted": null,
+    "corpus_id": "jeYCyCaK_5k",
+    "uploader": "U2",
+    "audio_file": "corpus/01_music_videos_audio/audio/jeYCyCaK_5k.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8145266,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 26.184412,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:16:34Z"
+  },
+  "status": "success",
+  "error": null
+}

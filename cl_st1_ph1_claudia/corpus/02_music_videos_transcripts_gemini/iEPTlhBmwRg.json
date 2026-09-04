@@ -1,0 +1,38 @@
+{
+  "corpus_id": "iEPTlhBmwRg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/iEPTlhBmwRg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/iEPTlhBmwRg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/iEPTlhBmwRg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You've been doing this stuff now for how many years is it? Two years. Two years. How much longer do you give yourself doing this thing, going around being a sort of I don't know, I never thought we'd be I'd be doing it for two years even, you know. Just shoot for the stars if it feels right. And aim for my heart if you feel like. And take me away and make it okay. I swear I'll behave. You wanted control, so we waited. I put on a show, now I'm naked. You say I'm a kid, my ego is big. I don't give a shit. And it goes like this. Set me by the tongue and I'll know you. Kiss me till you're drunk and I'll show you all the moves like Jagger. I've got the moves like Jagger. I've got the moves like Jagger. I don't need to try to control you. Look into my eyes and I'll own you with the moves like Jagger. I've got the moves like Jagger. I've got the moves like Jagger. Maybe it's hard when you feel like you're broken and scarred. Nothing feels right, but when you're with me, I'll make you believe that I've got the key. Oh, so get in the car. You can ride it wherever you want. Get inside it, you wanna steer. But I'm shifting gears, I'll take it from here. Oh, yeah, yeah. And it goes like this. Set me by the tongue and I'll know you. Kiss me till you're drunk and I'll show you all the moves like Jagger. I've got the moves like Jagger. I've got the moves like Jagger. I don't need to try to control you. Look into my eyes and I'll own you with the moves like Jagger. I've got the moves like Jagger. I've got the moves like Jagger. Uh, you wanna know how to make me smile, take control of me just for the night. Well, if I share my secret, you're gonna have to keep it. Nobody else can see this. So watch and learn, I won't show you twice. Head to toe, ooh baby rub me right. But if I share my secret, you're gonna have to keep it. Nobody else can see this. And it goes like this. Set me by the tongue and I'll know you. Kiss me till you're drunk and I'll show you all the moves like Jagger. I've got the moves like Jagger. I've got the moves like Jagger. I don't need to try to control you. Look into my eyes and I'll own you with the moves like Jagger. I've got the moves like Jagger. I've got the moves like Jagger. I think we're sort of pretty well set up for at least another year."
+  },
+  "metadata": {
+    "youtube_id": "iEPTlhBmwRg",
+    "title_extracted": null,
+    "corpus_id": "iEPTlhBmwRg",
+    "uploader": "Maroon 5",
+    "audio_file": "corpus/01_music_videos_audio/audio/iEPTlhBmwRg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8921000,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 22.088666,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:02:34Z"
+  },
+  "status": "success",
+  "error": null
+}

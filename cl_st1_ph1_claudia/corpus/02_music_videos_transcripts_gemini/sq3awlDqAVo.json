@@ -1,0 +1,38 @@
+{
+  "corpus_id": "sq3awlDqAVo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/sq3awlDqAVo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/sq3awlDqAVo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/sq3awlDqAVo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Imagine me and you, I do\nI think about you day and night, it's only right\nTo think about the girl you love and hold her tight\nSo happy together\n\nIf I should call you up, invest a dime\nAnd you say you belong to me and ease my mind\nImagine how the world could be, so very fine\nSo happy together\n\nI can't see me lovin' nobody but you\nFor all my life\nWhen you're with me, baby, the skies'll be blue\nFor all my life\n\nMe and you and you and me\nNo matter how they toss the dice, it had to be\nThe only one for me is you and you for me\nSo happy together\n\nI can't see me lovin' nobody but you\nFor all my life\nWhen you're with me, baby, the skies'll be blue\nFor all my life\n\nMe and you and you and me\nNo matter how they toss the dice, it had to be\nThe only one for me is you and you for me\nSo happy together\n\nBa-ba-ba-ba ba-ba-ba-ba ba-ba-ba ba-ba-ba-ba\nBa-ba-ba-ba ba-ba-ba-ba ba-ba-ba ba-ba-ba-ba\n\nMe and you and you and me\nNo matter how they toss the dice, it had to be\nThe only one for me is you and you for me\nSo happy together\n\nSo happy together\nAnd how is the weather?\nSo happy together\nWe're happy together\nSo happy together\nHappy together\nSo happy together\nSo happy together"
+  },
+  "metadata": {
+    "youtube_id": "sq3awlDqAVo",
+    "title_extracted": null,
+    "corpus_id": "sq3awlDqAVo",
+    "uploader": "Stereo Classics",
+    "audio_file": "corpus/01_music_videos_audio/audio/sq3awlDqAVo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5600360,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.675871,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:14:32Z"
+  },
+  "status": "success",
+  "error": null
+}

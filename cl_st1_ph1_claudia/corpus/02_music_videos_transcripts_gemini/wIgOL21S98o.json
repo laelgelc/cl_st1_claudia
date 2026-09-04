@@ -1,0 +1,38 @@
+{
+  "corpus_id": "wIgOL21S98o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wIgOL21S98o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/wIgOL21S98o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/wIgOL21S98o.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I always think of you inside of my private thoughts I can imagine you touching my private parts And just the thought of you, I can't help but touch myself That's why I want you so bad Just one night with you beside me All night Do it again and again You know I want you so bad, baby, baby, baby Baby, baby, baby, baby I get so high when I'm around you, baby I can touch the sky You make my temperature rise Ooh baby, you're making me high Baby, baby, baby And in my mind of you, I think I might be obsessed The very thought of you makes me want to get undressed I want to be with you in spite of what my heart says I guess I want you so bad All I want is With you beside me All night Do it again and again and again and again You know I want you so bad, baby, baby, baby Baby, baby, baby, baby I get so high when I'm around you, baby I can touch the sky You make my temperature rise Ooh baby, you're making me high Baby, baby, baby I want to feel your hot soul inside of me Let's make a deal, you and I making sweet, wet love in ecstasy Just you and me, lock the door, throw the key Take me, take me, take me away Yeah Like a girl ain't supposed to be With you beside me All night Do it again and again and again and again You know I want you so bad, baby, baby, baby Baby, baby, baby, baby I get so high when I'm around you, baby I can touch the sky You make my temperature rise You're making me high Baby, baby, baby I get so high"
+  },
+  "metadata": {
+    "youtube_id": "wIgOL21S98o",
+    "title_extracted": null,
+    "corpus_id": "wIgOL21S98o",
+    "uploader": "Toni Braxton",
+    "audio_file": "corpus/01_music_videos_audio/audio/wIgOL21S98o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7458700,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.050394,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:24:00Z"
+  },
+  "status": "success",
+  "error": null
+}

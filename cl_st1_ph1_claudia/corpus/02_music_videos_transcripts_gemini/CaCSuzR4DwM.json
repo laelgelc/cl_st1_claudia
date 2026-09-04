@@ -1,0 +1,38 @@
+{
+  "corpus_id": "CaCSuzR4DwM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CaCSuzR4DwM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/CaCSuzR4DwM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/CaCSuzR4DwM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I see trees of green\nRed roses too\nI see them bloom\nFor me and you\nAnd I think to myself\nWhat a wonderful world\n\nI see skies of blue\nAnd clouds of white\nBright blessed days\nDark sacred nights\nAnd I think to myself\nWhat a wonderful world\n\nThe colors of the rainbow\nSo pretty in the sky\nAre also on the faces\nOf people going by\nI see friends shaking hands\nSaying, \"How do you do?\"\nThey're really saying\n\"I love you\"\n\nI hear babies cry\nI watch them grow\nThey'll learn much more\nThan I'll ever know\nAnd I think to myself\nWhat a wonderful world\n\nYes, I think to myself\nWhat a wonderful world"
+  },
+  "metadata": {
+    "youtube_id": "CaCSuzR4DwM",
+    "title_extracted": null,
+    "corpus_id": "CaCSuzR4DwM",
+    "uploader": "Louis Armstrong",
+    "audio_file": "corpus/01_music_videos_audio/audio/CaCSuzR4DwM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4655958,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.954572,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:07:23Z"
+  },
+  "status": "success",
+  "error": null
+}

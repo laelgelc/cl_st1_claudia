@@ -1,0 +1,38 @@
+{
+  "corpus_id": "4BgF7Y3q-as",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4BgF7Y3q-as.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/4BgF7Y3q-as.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/4BgF7Y3q-as.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Still don't know what I was waiting for And my time was running wild, a million dead-end streets and Every time I thought I'd got it made it seemed the taste was not so sweet So I turned myself to face me But I've never caught a glimpse How the others must see the faker I'm much too fast to take that test Ch-ch-ch-ch-changes Turn and face the strain Ch-ch-changes Don't wanna be a richer man Ch-ch-ch-ch-changes Turn and face the strain Ch-ch-changes It's gonna have to be a different man Time may change me But I can't trace time I watch the ripples change their size But never leave the stream of warm impermanence and So the days float through my eyes But still the days seem the same And these children that you spit on As they try to change their worlds Are immune to your consultations They're quite aware what they're going through Ch-ch-ch-ch-changes Turn and face the strain Ch-ch-changes Don't tell them to grow up and out of it Ch-ch-ch-ch-changes Turn and face the strain Ch-ch-changes Where's your shame you've left us up to our necks in it Time may change me But I can't trace time Strange fascination fascinating me Ah, changes are taking The pace I'm going through Ch-ch-ch-ch-changes Turn and face the strain Ch-ch-changes Oh, look out, you rock 'n' rollers Ch-ch-ch-ch-changes Turn and face the strain Ch-ch-changes Pretty soon now you're gonna get older Time may change me But I can't trace time I said that time may change me But I can't trace time"
+  },
+  "metadata": {
+    "youtube_id": "4BgF7Y3q-as",
+    "title_extracted": null,
+    "corpus_id": "4BgF7Y3q-as",
+    "uploader": "David Bowie",
+    "audio_file": "corpus/01_music_videos_audio/audio/4BgF7Y3q-as.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7029224,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.928212,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:21:45Z"
+  },
+  "status": "success",
+  "error": null
+}

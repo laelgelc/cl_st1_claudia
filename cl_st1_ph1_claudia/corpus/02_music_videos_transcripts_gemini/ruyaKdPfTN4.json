@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ruyaKdPfTN4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ruyaKdPfTN4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ruyaKdPfTN4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ruyaKdPfTN4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You know I'd fall apart without you I don't know how you do what you do 'Cause everything that don't make sense about me Makes sense when I'm with you Like everything that's green, girl, needs you But it's more than one and one makes two Put aside the math and the logic of it You gotta know you're wanted, too 'Cause I wanna wrap you up, I wanna kiss your lips, I I wanna make you feel wanted And I wanna call you mine, wanna hold your hand forever And never let you forget it Yeah, I wanna make you feel wanted Anyone can tell you you're pretty And you get that all the time, I know you do But beauty's deeper than the makeup And I wanna show you what I see tonight When I wrap you up, when I kiss your lips, I I wanna make you feel wanted And I wanna call you mine, wanna hold your hand forever And never let you forget it 'Cause baby, I wanna make you feel wanted As good as you make me feel, I wanna make you feel better Better than your fairy tales, better than your best dreams You're more than everything I need You're all I ever wanted All I ever needed And I just wanna wrap you up, wanna kiss your lips, I I wanna make you feel wanted And I wanna call you mine, wanna hold your hand forever And never let you forget it Yeah, I wanna make you feel wanted Baby, I wanna make you feel Wanted You're always Wanted"
+  },
+  "metadata": {
+    "youtube_id": "ruyaKdPfTN4",
+    "title_extracted": null,
+    "corpus_id": "ruyaKdPfTN4",
+    "uploader": "Hunter Hayes",
+    "audio_file": "corpus/01_music_videos_audio/audio/ruyaKdPfTN4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7684584,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.252561,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:46:05Z"
+  },
+  "status": "success",
+  "error": null
+}

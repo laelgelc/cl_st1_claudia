@@ -1,0 +1,38 @@
+{
+  "corpus_id": "cK5G8fPmWeA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/cK5G8fPmWeA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/cK5G8fPmWeA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/cK5G8fPmWeA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "If the rain comes\nThey run and hide their heads\nThey might as well be dead\nIf the rain comes\nIf the rain comes\n\nWhen the sun shines\nThey slip into the shade\nAnd drink their lemonade\nWhen the sun shines\nWhen the sun shines\n\nRain\nI don't mind\nShine\nThe weather's fine\n\nI can show you\nThat when it starts to rain\nEverything's the same\nI can show you\nI can show you\n\nRain\nI don't mind\nShine\nThe weather's fine\n\nCan you hear me\nThat when it rains and shines\nIt's just a state of mind?\nCan you hear me?\nCan you hear me?\n\nRain\nRain\nWhen the rain comes\nIf the rain comes\nRain\nRain"
+  },
+  "metadata": {
+    "youtube_id": "cK5G8fPmWeA",
+    "title_extracted": null,
+    "corpus_id": "cK5G8fPmWeA",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/cK5G8fPmWeA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6023892,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 25.314339,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:23:14Z"
+  },
+  "status": "success",
+  "error": null
+}

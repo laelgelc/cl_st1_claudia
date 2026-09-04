@@ -1,0 +1,38 @@
+{
+  "corpus_id": "TR3Vdo5etCQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/TR3Vdo5etCQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/TR3Vdo5etCQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/TR3Vdo5etCQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You and me We used to be together Every day together, always I really feel That I'm losing my best friend I can't believe this could be the end It looks as though you're letting go And if it's real then I don't want to know Don't speak, I know what you're saying So please stop explaining Don't tell me 'cause it hurts Don't speak, I know what you're thinking I don't need your reasons Don't tell me 'cause it hurts Our memories, they can be inviting But some are altogether mighty frightening As we die, both you and I With my head in my hands, I sit and cry Don't speak, I know what you're saying So please stop explaining Don't tell me 'cause it hurts No, no, no Don't speak, I know what you're thinking And I don't need your reasons Don't tell me 'cause it hurts It's all ending We gotta stop pretending who we are You and me I can see us dying, are we? Don't speak, I know what you're saying So please stop explaining Don't tell me 'cause it hurts No, no, don't speak I know what you're thinking And I don't need your reasons Don't tell me 'cause it hurts Don't tell me 'cause it hurts I know what you're saying So please stop explaining Don't speak, don't speak Don't speak, oh I know what you're thinking And I don't need your reasons I know you're good I know you're good I know you're real good, oh La la la La la la No Don't Oh, oh Hush, hush, darling Hush, hush, darling Hush, hush, don't tell me 'cause it hurts Hush, hush, darling Hush, hush, darling Hush, hush, don't tell me 'cause it hurts"
+  },
+  "metadata": {
+    "youtube_id": "TR3Vdo5etCQ",
+    "title_extracted": null,
+    "corpus_id": "TR3Vdo5etCQ",
+    "uploader": "No Doubt",
+    "audio_file": "corpus/01_music_videos_audio/audio/TR3Vdo5etCQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9632830,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.598371,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:06:43Z"
+  },
+  "status": "success",
+  "error": null
+}

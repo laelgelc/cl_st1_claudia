@@ -1,0 +1,38 @@
+{
+  "corpus_id": "PbgKEjNBHqM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/PbgKEjNBHqM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/PbgKEjNBHqM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/PbgKEjNBHqM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "A thoroughly wonderful show from the world-famous Dancing Poodles. Next, ladies and gentlemen, we have three fine young men from Seattle. They're coming, hold on, they're coming. They're thoroughly all right and decent fellows with their hit single, \"In Bloom\". Here they are, Nirvana! Sell the kids for food Weather changes mood Spring is here again Reproductive glands He's the one who likes all our pretty songs And he likes to sing along And he likes to shoot his gun But he knows not what it means Knows not what it means, and I say He's the one who likes all our pretty songs And he likes to sing along And he likes to shoot his gun But he knows not what it means Knows not what it means, and I say We can paint some more Nature is a whore Bruises on the fruit Tender age in bloom He's the one who likes all our pretty songs And he likes to sing along And he likes to shoot his gun But he knows not what it means Knows not what it means, and I say He's the one who likes all our pretty songs And he likes to sing along And he likes to shoot his gun But he knows not what it means Knows not what it means, and I say He's the one who likes all our pretty songs And he likes to sing along And he likes to shoot his gun But he knows not what it means Knows not what it means, and I say He's the one who likes all our pretty songs And he likes to sing along And he likes to shoot his gun But he knows not what it means Knows not what it means, and I say Knows not what it means Knows not what it means, and I say Knows not what it means Knows not what it means, and I say Ooh All right, everybody, let's hear it for these three nice, decent, clean-cut young men. I really can't say enough nice things about them. They're going to be really big stars. Let's give a big hand to Nirvana!"
+  },
+  "metadata": {
+    "youtube_id": "PbgKEjNBHqM",
+    "title_extracted": null,
+    "corpus_id": "PbgKEjNBHqM",
+    "uploader": "Nirvana",
+    "audio_file": "corpus/01_music_videos_audio/audio/PbgKEjNBHqM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9534006,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 22.616455,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:12:03Z"
+  },
+  "status": "success",
+  "error": null
+}

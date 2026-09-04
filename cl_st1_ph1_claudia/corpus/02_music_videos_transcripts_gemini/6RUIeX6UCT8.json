@@ -1,0 +1,38 @@
+{
+  "corpus_id": "6RUIeX6UCT8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/6RUIeX6UCT8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/6RUIeX6UCT8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/6RUIeX6UCT8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Nobody on the road\nNobody on the beach\nI feel it in the air\nThe summer's out of reach\nEmpty lake, empty streets\nThe sun goes down alone\nI'm driving by your house\nThough I know you're not home\n\nBut I can see you\nYour brown skin shinin' in the sun\nYou got your hair combed back and\nSunglasses on, baby\nI can tell you my love for you will still be strong\nAfter the boys of summer have gone\n\nI never will forget those nights\nI wonder if it was a dream\nRemember how you made me crazy\nRemember how I made you scream\nI don't understand what happened to our love\nBut baby, I'm gonna get you back\nI'm gonna show you what I'm made of\n\nI can see you\nYour brown skin shinin' in the sun\nI see you walkin' real slow and\nSmilin' at everyone\nI can tell you my love for you will still be strong\nAfter the boys of summer have gone\n\nOut on the road today, I saw a Deadhead sticker on a Cadillac\nA little voice inside my head said, \"Don't look back. You can never look back.\"\nI thought I knew what love was\nWhat did I know?\nThose days are gone forever\nI should just let 'em go\n\nBut I can see you\nYour brown skin shinin' in the sun\nYou got that top pulled down and\nRadio on, baby\nI can tell you my love for you will still be strong\nAfter the boys of summer have gone\n\nI can see you\nYour brown skin shinin' in the sun\nYou got that hair slicked back and those\nWayfarers on, baby\nI can tell you my love for you will still be strong\nAfter the boys of summer have gone"
+  },
+  "metadata": {
+    "youtube_id": "6RUIeX6UCT8",
+    "title_extracted": null,
+    "corpus_id": "6RUIeX6UCT8",
+    "uploader": "Don Henley",
+    "audio_file": "corpus/01_music_videos_audio/audio/6RUIeX6UCT8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9143168,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 11.54639,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:41:17Z"
+  },
+  "status": "success",
+  "error": null
+}

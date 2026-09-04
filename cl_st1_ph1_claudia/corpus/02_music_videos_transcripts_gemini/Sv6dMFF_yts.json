@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Sv6dMFF_yts",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Sv6dMFF_yts.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Sv6dMFF_yts.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Sv6dMFF_yts.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Give me a second I need to get my story straight My friends are in the bathroom getting higher than the Empire State My lover she is waiting for me just across the bar My seat's been taken by some sunglasses asking 'bout a scar and I know I gave it to you months ago I know you're trying to forget But between the drinks and subtle things, the holes in my apologies, you know I'm trying hard to take it back So if by the time the bar closes and you feel like falling down I'll carry you home Tonight We are young So let's set the world on fire We can burn brighter than the sun Tonight We are young So let's set the world on fire We can burn brighter than the sun Now I know that I'm not all that you got I guess that I, I just thought maybe we could find new ways to fall apart But our friends are back So let's raise a cup 'Cause I found someone to carry me home Tonight We are young So let's set the world on fire We can burn brighter than the sun Tonight We are young So let's set the world on fire We can burn brighter than the sun Carry me home tonight Just carry me home tonight Carry me home tonight Just carry me home tonight The moon is on the rise I have no reason to run So somebody come and carry me home tonight The angels never arrived But I can hear the choir So someone come and carry me home Tonight We are young So let's set the world on fire We can burn brighter than the sun Tonight We are young So let's set the world on fire We can burn brighter than the sun So if by the time the bar closes and you feel like falling down I'll carry you home Tonight"
+  },
+  "metadata": {
+    "youtube_id": "Sv6dMFF_yts",
+    "title_extracted": null,
+    "corpus_id": "Sv6dMFF_yts",
+    "uploader": "Fueled By Ramen",
+    "audio_file": "corpus/01_music_videos_audio/audio/Sv6dMFF_yts.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8073936,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.195507,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:09:20Z"
+  },
+  "status": "success",
+  "error": null
+}

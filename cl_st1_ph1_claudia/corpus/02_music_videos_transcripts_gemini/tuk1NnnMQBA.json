@@ -1,0 +1,38 @@
+{
+  "corpus_id": "tuk1NnnMQBA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/tuk1NnnMQBA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/tuk1NnnMQBA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/tuk1NnnMQBA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I'll never be your beast of burden My back is broken, but it's a-hurtin' All I want is you to make love to me I'll never be your beast of burden I've walked for miles, my feet are hurtin' All I want is you to make love to me Am I hard enough? Am I rough enough? Am I rich enough? I'm not too blind to see I'll never be your beast of burden So let's go home and draw the curtains Music on the radio Come on, baby, make love to me Am I hard enough? Am I rough enough? Am I rich enough? I'm not too blind to see Oh, sister Pretty, pretty, pretty, pretty girls You're a pretty, pretty, pretty, pretty, pretty girl Pretty, pretty, such a pretty, pretty girl Come on, baby, please, please I'll tell ya You can put me out On the street Put me out Without shoes on my feet But put me out, put me out Put me out of misery Yeah All your sickness, I can suck it up Throw it all at me, I can shrug it all There's one thing, baby, I don't understand You keep on telling me I ain't your kind of man Ain't I rough enough? Oh Ain't I tough enough? Oh Ain't I rich enough, big enough for you? I'll never be your beast of burden I'll never be your beast of burden Never, never, never, never, never, never be Never be your beast of burden I walked for miles, my feet are hurtin' All I want is you to make love to me Yeah I don't need no beast of burden I need no fussing I need no nursing Never, never, never, never, never, never need"
+  },
+  "metadata": {
+    "youtube_id": "tuk1NnnMQBA",
+    "title_extracted": null,
+    "corpus_id": "tuk1NnnMQBA",
+    "uploader": "The Rolling Stones",
+    "audio_file": "corpus/01_music_videos_audio/audio/tuk1NnnMQBA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8522730,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 27.459662,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:18:09Z"
+  },
+  "status": "success",
+  "error": null
+}

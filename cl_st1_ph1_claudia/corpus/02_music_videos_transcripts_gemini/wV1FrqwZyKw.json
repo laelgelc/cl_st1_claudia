@@ -1,0 +1,38 @@
+{
+  "corpus_id": "wV1FrqwZyKw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wV1FrqwZyKw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/wV1FrqwZyKw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/wV1FrqwZyKw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "This is the manifesto of Mother Monster.\n\nOn G.O.A.T., a government-owned alien territory in space, a birth of magnificent and magical proportions took place. But the birth was not finite. It was infinite. As the wombs numbered, and the mitosis of the future began, it was perceived that this infamous moment in life is not temporal, it is eternal. And thus began the beginning of the new race, a race within the race of humanity, a race which bears no prejudice, no judgment, but boundless freedom. But on that same day, as the eternal mother hovered in the multiverse, another more terrifying birth took place: the birth of evil. And as she herself split into two, rotating in agony between two ultimate forces, the pendulum of choice began its dance. It seems easy, you imagine, to gravitate instantly and unwaveringly towards good. But she wondered, \"How can I protect something so perfect without evil?\"\n\nIt doesn't matter if you love him, or capital H-I-M. Just put your paws up 'cause you were born this way, baby.\n\nMy mama told me when I was young\nWe are all born superstars\nShe rolled my hair and put my lipstick on\nIn the glass of her boudoir\n\n\"There's nothing wrong with loving who you are\"\nShe said, \"'Cause He made you perfect, babe\"\n\"So hold your head up, girl, and you'll go far\nListen to me when I say\"\n\nI'm beautiful in my way 'cause God makes no mistakes\nI'm on the right track, baby, I was born this way\nDon't hide yourself in regret, just love yourself and you're set\nI'm on the right track, baby, I was born this way (Born this way)\n\nOoh, there ain't no other way, baby, I was born this way\nBaby, I was born this way (Born this way)\nOoh, there ain't no other way, baby, I was born this way\nRight track, baby, I was born this way\n\nDon't be a drag, just be a queen\nDon't be a drag, just be a queen\nDon't be a drag, just be a queen\nDon't be\n\nGive yourself prudence and love your friends\nSubway kid, rejoice your truth\nIn the religion of the insecure\nI must be myself, respect my youth\n\nA different lover is not a sin\nBelieve capital L-I-V-E (Hey, hey, hey)\nI love my life, I love this record, and\nMi amore en fue'le'ya\n\nI'm beautiful in my way 'cause God makes no mistakes\nI'm on the right track, baby, I was born this way\nDon't hide yourself in regret, just love yourself and you're set\nI'm on the right track, baby, I was born this way\n\nOoh, there ain't no other way, baby, I was born this way\nBaby, I was born this way (Born this way)\nOoh, there ain't no other way, baby, I was born this way\nI'm on the right track, baby, I was born this way\n\nDon't be a drag, just be a queen\nWhether you're broke or evergreen\nYou're Black, White, beige, chola, or Orient\nYou're Lebanese, you're Orient\nWhether life's disabilities left you outcast, bullied, or teased\nRejoice and love yourself today 'cause, baby, you were born this way\n\nNo matter gay, straight, or bi, lesbian, transgender life\nI'm on the right track, baby, I was born to survive\nNo matter Black, White, or beige, chola, or Orient made\nI'm on the right track, baby, I was born to be brave\n\nI'm beautiful in my way 'cause God makes no mistakes\nI'm on the right track, baby, I was born this way\nDon't hide yourself in regret, just love yourself and you're set\nI'm on the right track, baby, I was born this way, yeah\n\nOoh, there ain't no other way, baby, I was born this way\nBaby, I was born this way (Born this way)\nOoh, there ain't no other way, baby, I was born this way\nI'm on the right track, baby, I was born this way\n\nI was born this way, hey\nI was born this way, hey\nI'm on the right track, baby, I was born this way, hey\nI was born this way, hey\nI was born this way, hey\nI'm on the right track, baby, I was born this way, hey\n\nSame DNA, shot this way\nSame DNA, shot this way"
+  },
+  "metadata": {
+    "youtube_id": "wV1FrqwZyKw",
+    "title_extracted": null,
+    "corpus_id": "wV1FrqwZyKw",
+    "uploader": "Lady Gaga",
+    "audio_file": "corpus/01_music_videos_audio/audio/wV1FrqwZyKw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 14076200,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.453393,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:52:06Z"
+  },
+  "status": "success",
+  "error": null
+}

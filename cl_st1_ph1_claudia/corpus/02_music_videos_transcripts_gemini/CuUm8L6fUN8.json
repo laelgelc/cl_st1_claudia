@@ -1,0 +1,38 @@
+{
+  "corpus_id": "CuUm8L6fUN8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CuUm8L6fUN8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/CuUm8L6fUN8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/CuUm8L6fUN8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Oh, yeah, yeah. Oh, yeah, yeah. I am unwritten, can't read my mind, I'm undefined. I'm just beginning, the pen's in my hand, ending unplanned. Staring at the blank page before you, open up the dirty window, let the sun illuminate the words that you could not find. Reaching for something in the distance, so close you can almost taste it, release your inhibitions. Feel the rain on your skin, no one else can feel it for you, only you can let it in. No one else, no one else can speak the words on your lips. Drench yourself in words unspoken, live your life with arms wide open. Today is where your book begins. The rest is still unwritten. Yeah. Yeah. Yeah. I break tradition, sometimes my tries are outside the lines. I've been conditioned to not make mistakes, but I can't live that way, no, no, no. Oh, staring at the blank page before you, open up the dirty window, let the sun illuminate the words that you could not find. Reaching for something in the distance, so close you can almost taste it, release your inhibitions. Feel the rain on your skin, no one else can feel it for you, only you can let it in. No one else, no one else can speak the words on your lips. Drench yourself in words unspoken, live your life with arms wide open. Today is where your book begins. Feel the rain on your skin, no one else can feel it for you, only you can let it in. No one else, no one else can speak the words on your lips. Drench yourself in words unspoken, live your life with arms wide open. Today is where your book begins. The rest is still unwritten. Oh yeah, the rest is still unwritten. Oh, yeah, yeah. Oh, yeah, yeah. Oh. Oh. Staring at the blank page before you, open up the dirty window, let the sun illuminate the words that you could not find. Reaching for something in the distance, so close you can almost taste it, release your inhibitions. Feel the rain on your skin, no one else can feel it for you, only you can let it in. No one else, no one else can speak the words on your lips. Drench yourself in words unspoken, live your life with arms wide open. Today is where your book begins. Feel the rain on your skin, no one else can feel it for you, only you can let it in. No one else, no one else can speak the words on your lips. Drench yourself in words unspoken, live your life with arms wide open. Today is where your book begins. Woah, woah, oh, oh, oh. Woah, woah, oh, oh, oh. Woah, woah, oh, oh, oh. Woah, woah, yeah, yeah. The rest is still unwritten."
+  },
+  "metadata": {
+    "youtube_id": "CuUm8L6fUN8",
+    "title_extracted": null,
+    "corpus_id": "CuUm8L6fUN8",
+    "uploader": "Natasha Bedingfield",
+    "audio_file": "corpus/01_music_videos_audio/audio/CuUm8L6fUN8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9643232,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.68165,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:06:05Z"
+  },
+  "status": "success",
+  "error": null
+}

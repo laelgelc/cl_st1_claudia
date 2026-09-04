@@ -1,0 +1,38 @@
+{
+  "corpus_id": "sbAM2HGGCVY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/sbAM2HGGCVY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/sbAM2HGGCVY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/sbAM2HGGCVY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You know, carrying on the family tradition, Nancy Sinatra has, unbelievably, because it happens just once, not very many times in a career, Nancy Sinatra has come up with the number one record in the country. And I'm going to ask her to sing it, not only for me, but for her father in Juilliard on Miami Beach night. And the number is, \"These Boots Are Made for Walkin'\". She has a golden record because she sold over a million copies of this. Let's have a wonderful welcome for Nancy Sinatra.  You keep saying you've got something for me. Something you call love, but confess. You've been a-messing where you shouldn't have been a-messing. And now someone else is getting all your best. These boots are made for walking, and that's just what they'll do. One of these days these boots are gonna walk all over you.  Yeah.  You keep lying when you ought to be truthin'. And you keep losing when you ought to not bet. You keep saming when you ought to be changing. Now what's right is right, but you ain't been right yet. My boots are made for walking, and that's just what they'll do. One of these days these boots are gonna walk all over you.  Now you keep playing where you shouldn't be playing. And you keep thinking that you'll never get burned, ha! I just found me a brand new box of matches, yeah. And what he knows you ain't had time to learn. Now my boots are made for walking, and that's just what they're gonna do. One of these days these boots are gonna walk all over you.  Now you put on your boots, and I'll put on mine, and we'll go walking, honey, any old time. Yeah!  Congratulations. Congratulations on your record. You know when you were singing there, I was thinking years and years ago, when my daughter was going to UCLA, I called up your father, Frank, and asked him if he'd go over to UCLA and appear at an affair for her. And Frank has often told me that she was standing there reading, you know, doing her lessons, standing under a lamp on the campus when he showed up. And now here tonight I'm introducing you and... It's all in the family, right? It really is all in the family. Let's have a wonderful hand for a fine young lady.  Come here. Come here, Nancy Sinatra.  They will never forget me here. Now, give me that."
+  },
+  "metadata": {
+    "youtube_id": "sbAM2HGGCVY",
+    "title_extracted": null,
+    "corpus_id": "sbAM2HGGCVY",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/sbAM2HGGCVY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7518886,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.929376,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:56:12Z"
+  },
+  "status": "success",
+  "error": null
+}

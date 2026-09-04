@@ -1,0 +1,38 @@
+{
+  "corpus_id": "8sAbzZjXLy8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8sAbzZjXLy8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/8sAbzZjXLy8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/8sAbzZjXLy8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Mmm...\nAah...\nAah...\nDon't leave me this way\nI can't survive\nI can't stay alive\nWithout your love\nOh baby\nDon't leave me this way, no\nI can't exist\nI'll surely miss\nYour tender kiss\nDon't leave me this way\nBaby\nMy heart is full of love and desire for you\nNow come on down and do what you gotta do\nYou started this fire down in my soul\nNow can't you see it's burning out of control\nSo come satisfy the need in me\n'Cause only your good loving can set me free\nSet me free\nSet me free\nDon't, don't you leave me this way, no\nDon't you understand\nI'm at your command\nOh baby, please\nPlease don't leave me this way\nNo baby\nDon't leave me this way, no\nI can't survive\nI can't stay alive\nWithout your love\nBaby, don't leave me this way\nBaby\nMy heart is full of love and desire for you\nSo come on down and do what you gotta do\nYou started this fire down in my soul\nNow can't you see it's burning out of control\nSo come satisfy the need in me\n'Cause only your good loving can set me free\nSet me free\nSet me free\nSatisfy my need\nNeed\nNeed\nSatisfy the need in me\nSatisfy the need in me\nHey baby\nCome satisfy the need in me\nOh baby\nCome satisfy the need in me\nOh baby\nDon't leave me this way\nDon't leave me this way\nNo, don't leave me this way\nNo, don't leave me this way, baby\nDon't leave me\nDon't leave me this way\nOh baby\nOh, don't leave me this way"
+  },
+  "metadata": {
+    "youtube_id": "8sAbzZjXLy8",
+    "title_extracted": null,
+    "corpus_id": "8sAbzZjXLy8",
+    "uploader": "TopPop",
+    "audio_file": "corpus/01_music_videos_audio/audio/8sAbzZjXLy8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6891018,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.882156,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:25:43Z"
+  },
+  "status": "success",
+  "error": null
+}

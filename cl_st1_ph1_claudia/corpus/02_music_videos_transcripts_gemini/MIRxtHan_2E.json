@@ -1,0 +1,38 @@
+{
+  "corpus_id": "MIRxtHan_2E",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/MIRxtHan_2E.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/MIRxtHan_2E.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/MIRxtHan_2E.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Well, I tried to make it Sunday But I got so damn depressed That I set my sights on Monday And I got myself undressed I ain't ready for the altar But I do agree there's times When a woman sure can be a friend of mine Well, I keep on thinking 'bout you Sister golden hair surprise And I just can't live without you Can't you see it in my eyes? I've been one more correspondent And I've been too, too hard to find But it doesn't mean you ain't been on my mind Will you meet me in the middle? Will you meet me in the air? Will you love me just a little Just enough to show you care? Well, I tried to fake it I know I'm saying, I just can't make it Well, I keep on thinking 'bout you Sister golden hair surprise And I just can't live without you Can't you see it in my eyes? I've been one more correspondent And I've been too, too hard to find But it doesn't mean you ain't been on my mind Will you meet me in the middle? Will you meet me in the air? Will you love me just a little Just enough to show you care? Well, I tried to fake it I know I'm saying, I just can't make it Doo wop doo, doo wop doo Doo wop doo, doo wop doo Doo wop doo, doo wop doo Doo wop doo, doo wop doo Doo wop doo, doo wop doo Doo wop doo, doo wop doo Doo wop doo, doo wop doo Doo wop doo, doo wop doo"
+  },
+  "metadata": {
+    "youtube_id": "MIRxtHan_2E",
+    "title_extracted": null,
+    "corpus_id": "MIRxtHan_2E",
+    "uploader": "BT Music Videos",
+    "audio_file": "corpus/01_music_videos_audio/audio/MIRxtHan_2E.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6202964,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.51894,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:12:33Z"
+  },
+  "status": "success",
+  "error": null
+}

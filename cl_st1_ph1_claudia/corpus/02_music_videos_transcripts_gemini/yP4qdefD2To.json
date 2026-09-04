@@ -1,0 +1,38 @@
+{
+  "corpus_id": "yP4qdefD2To",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yP4qdefD2To.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/yP4qdefD2To.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/yP4qdefD2To.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Could you whisper in my ear The things you wanna feel? I'll give you anything To feel it coming Do you wake up on your own And wonder where you are And live with all your faults? I wanna wake up where you are I won't say anything at all So why don't you slide? Yeah, slide Don't you love the life you killed? The priest is on the phone Your father hit the wall Your mother disowned you Don't suppose I'll ever know What it's like to be a man Something I can't change I'll live around it I wanna wake up where you are I won't say anything at all So why don't you slide? Slide And I'll do anything you ever dreamed to be complete Little pieces of the nothing that fall Oh, May, put your arms around me What you feel is what you are And what you are is beautiful Oh, May, do you wanna get married Or run away? And I'll do anything you ever dreamed to be complete Little pieces of the nothing that fall Oh, May, put your arms around me What you feel is what you are And what you are is beautiful Oh, May, do you wanna get married Or run away? I wanna wake up where you are And I won't say Yes, slide, anything you ever dreamed to be complete Yes, slide, of the nothing that fall And I'll do anything you ever dreamed to be complete Yes, slide, of the nothing that fall Oh, May, can you imagine if you knew? Oh, just slide into my room Oh, just slide into my room And we'll run away, run away, run away"
+  },
+  "metadata": {
+    "youtube_id": "yP4qdefD2To",
+    "title_extracted": null,
+    "corpus_id": "yP4qdefD2To",
+    "uploader": "Goo Goo Dolls",
+    "audio_file": "corpus/01_music_videos_audio/audio/yP4qdefD2To.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6820430,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.961428,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:05:39Z"
+  },
+  "status": "success",
+  "error": null
+}

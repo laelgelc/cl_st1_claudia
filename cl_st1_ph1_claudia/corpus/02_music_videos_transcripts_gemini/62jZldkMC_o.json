@@ -1,0 +1,38 @@
+{
+  "corpus_id": "62jZldkMC_o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/62jZldkMC_o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/62jZldkMC_o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/62jZldkMC_o.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You don't take much to make me happy And make me smile with glee Never never will I feel discouraged Cause our love's no mystery Demonstrating love and affection That you give so openly I like the way you make me feel about you, baby Want the whole wide world to see Whoa, whoa, you got the best of my love Whoa, whoa, you got the best of my love Whoa, whoa, you got the best of my love Whoa, whoa, you got the best of my love Going in and out of changes Coming 'round each day My life has a better meaning Love has kissed me in a beautiful way Oh yeah My love, my love Oh, my love, my love Oh, my love, my love Ooh Oh, you got the best of my love Whoa, whoa, you got the best of my love Whoa, whoa, you got the best of my love Whoa, whoa, you got the best of my love Demonstrating sweet love and affection That you give so openly, yeah The way I feel about you, baby, can't hide it Want the whole wide world to see Oh, but anyway You got the best of my love You got the best of my love Oh yeah My love, my love Oh, my love, my love Oh Oh, oh, oh, oh You got the best of my love Oh, oh, oh, oh You got the best of my love Oh, giving you the best of my love My love, my love Oh, giving you the best of my love My love, my love Oh, oh, oh, oh You got the best of my love Oh, oh, oh, oh You got the best of my love"
+  },
+  "metadata": {
+    "youtube_id": "62jZldkMC_o",
+    "title_extracted": null,
+    "corpus_id": "62jZldkMC_o",
+    "uploader": "Classic Sounds 70s",
+    "audio_file": "corpus/01_music_videos_audio/audio/62jZldkMC_o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6525442,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.208669,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:53:00Z"
+  },
+  "status": "success",
+  "error": null
+}

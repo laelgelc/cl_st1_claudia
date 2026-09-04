@@ -1,0 +1,38 @@
+{
+  "corpus_id": "FfOvPDAAfMs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/FfOvPDAAfMs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/FfOvPDAAfMs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/FfOvPDAAfMs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "It's been a long time, I shouldn't have left you Without a strong rhyme to step to Think of how many weak shows you slept through Time's up, I'm sorry I kept you Thinking of this, you keep repeating \"I miss The rhymes from the microphone solo list\" So you sit by the radio, hand on the dial, soon As you hear it, pump up the volume Dance with the speaker till you hear it blow Then plug in the headphones, 'cause here it go It's a full-out whirlwind, it's out of control Your body to dance So, Tech sets the tempo like a red alert Recheck your reflex and let it work When this is playing, you can't get stuck With the steps Eric Say and I'm a still come up with A gift to be swift, follow the leader The rhyme'd go def with the record that was mixed a long time ago It could be done, but only I could do it For those that can dance and clap your hands to it I start to think, and then I sink into the paper Like I was in it When I'm writing I'm trapped in between the line, I escape When I finish the rhyme, I got soul You got it! You got it! You got it! You got it! I know you got soul! Hey! See on the mic, the stage is empty A beat like this might tempt me To show-show my rings and my fat gold chain Grab the mic like I'm on Soul Train, but I'll wait 'Cause I'm master of this Let the others go first, so the brothers don't miss Eric B. break the sticks You got it! Rakim will begin when you make the mix I experiment like a scientist You want a rhyme, you gotta sign my list 'Cause I'm a manifest and bless the mic I hold You want an X, then you gotta have soul 'Cause if you ain't got it, I'm a make an encore Take the mic, make the people respond for the \"Aww\" 'Cause that's the way it'll have to be If you want to get on after me Think about it, wait, erase your rhyme Forget it, and don't waste your time 'Cause I'll be in the crowd if you ain't controlling it Drop the mic, you shouldn't be holding it This is how it should be done This style is identical to none Some try to make it sound like this, but you're getting me So upset that I'm wet 'cause you're sweating me I drip steam like a microphone fiend Eager to MC is my thing I get hype when I hear a drum roll Rakim is on the mic, and you know I got soul You got it! You got it! You got it! You got it! I got soul! That's why I came to teach those who can't say my name First of all, I'm the soloist, the sole controller Rakim gets stronger as I get older Constant elevation cause expansion I write my rhymes while I'm coolin' in my mansion Then record it on tape, and in the city I test it Then on the radio, the R's requested You listen to it, the concept might break you 'Cause almost anyone can relate to Whoever's out of hand, I'm a give 'em handles Light 'em up, blow 'em out like candles Or should I just let 'em melt? To give 'em a hand so they can see how I felt? I'm not bold just 'cause I ride gold Rakim is on the mic, and you know I got soul You got it! You got it! You got it! You got it! Now I'm a stop to see what you got Get off the mic before you get too hot I want to see which posse can dance the best It should be easy 'cause the beat is fresh Now feel it from uptown, Brooklyn bound The Bronx, Queens, and Long Island Sound Even other states come right in exact It ain't where you're from, it's where you're at Since you came here, you have to show and prove And do that dance until you don't move That's all you need is soul, self-esteem, a release The rest is up to you, Rakim'll say peace You got it! You got it! You got it! You got it! You got it! You got it! You got it! You got it! You got it!"
+  },
+  "metadata": {
+    "youtube_id": "FfOvPDAAfMs",
+    "title_extracted": null,
+    "corpus_id": "FfOvPDAAfMs",
+    "uploader": "Eric B. & Rakim",
+    "audio_file": "corpus/01_music_videos_audio/audio/FfOvPDAAfMs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9103044,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 34.686488,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:32:21Z"
+  },
+  "status": "success",
+  "error": null
+}

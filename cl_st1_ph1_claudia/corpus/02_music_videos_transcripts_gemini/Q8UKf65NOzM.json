@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Q8UKf65NOzM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Q8UKf65NOzM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Q8UKf65NOzM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Q8UKf65NOzM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Is she really going out with him? Well, there she is, let's ask her. Betty, is that Jimmy's ring you're wearing? Mhm. Gee, it must be great riding with him. Is he picking you up after school today? Mhm. By the way, where'd you meet him? I met him at the candy store He turned around and smiled at me, you get the picture? Yes, we see. That's when I fell for the leader of the pack My folks were always putting him down (down, down) They said he came from the wrong side of town (they said he came from the wrong side of town) They told me he was bad But I knew he was good That's why I fell for the leader of the pack One day my dad said find someone new I had to tell my Jimmy we're through What do you mean when you say that you better go find someone new? He stood there and asked me why But all I could do was cry I'm sorry I hurt you, leader of the pack He sort of smiled, and kissed me goodbye The tears were beginning to show As he drove away on the rainy night I begged him to go slow Whether he heard, I'll never know Look out, look out, look out, look out I felt so helpless, what could I do? Remembering all the things we'd been through In school, they all stop and stare I can't hide my tears, but I don't care I'll never forget him, the leader of the pack"
+  },
+  "metadata": {
+    "youtube_id": "Q8UKf65NOzM",
+    "title_extracted": null,
+    "corpus_id": "Q8UKf65NOzM",
+    "uploader": "Dazz B",
+    "audio_file": "corpus/01_music_videos_audio/audio/Q8UKf65NOzM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4946486,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 22.572485,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:20:18Z"
+  },
+  "status": "success",
+  "error": null
+}

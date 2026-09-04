@@ -1,0 +1,38 @@
+{
+  "corpus_id": "gUPifXX0foU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/gUPifXX0foU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/gUPifXX0foU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/gUPifXX0foU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Hey Joe Where you going with that gun in your hand? Hey Joe, I said, where you going with that gun in your hand? I'm going to shoot my old lady. You know I caught her messing around with another man. I'm going to shoot my old lady. You know I caught her messing around with another man. And that ain't cool. Hey Joe, I heard you shot your lady down, you shot her down. Hey Joe, I said, I heard you shot your lady down, you shot her down. Yeah! Yes I did, I shot her. You know I caught her messing around town. Yeah! Yes I did, I shot her. You know I caught her messing around town, and I gave her the gun, shot her! Hey Joe, where you gonna run to now, where you gonna go? Hey Joe, I said, where you gonna run to now, where you gonna go? Hey, I'm going way down South. Way down Mexico way. I'm going way down South. Way down where I can be free. Ain't no one gonna find me. Ain't no hangman gonna put a rope around me. You better believe it, baby. I gotta go. Hey Joe. You better run on down. You better, goodbye everybody. Yeah!"
+  },
+  "metadata": {
+    "youtube_id": "gUPifXX0foU",
+    "title_extracted": null,
+    "corpus_id": "gUPifXX0foU",
+    "uploader": "Beat-Club",
+    "audio_file": "corpus/01_music_videos_audio/audio/gUPifXX0foU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8062046,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.717988,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:09:58Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ratQlft_G5c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ratQlft_G5c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ratQlft_G5c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ratQlft_G5c.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I'm really in the mood to sing. Unfortunately, my pipes are kind of going now, or I'd stay here for another hour. They paved paradise, put up a parking lot With a pink hotel, a boutique and a swingin' hot spot Don't it always seem to go That you don't know what you've got 'til it's gone They paved paradise, put up a parking lot Now, they took all the trees, put 'em in a tree museum And they charged all the people a dollar and a half just to see 'em I said, don't it always seem to go That you don't know what you've got 'til it's gone They paved paradise, put up a parking lot Hey farmer, farmer, put away that DDT now Give me spots on my apples, believe me the birds and the bees Don't it always seem to go That you don't know what you've got 'til it's gone They paved paradise, put up a parking lot Late last night, I heard that screen door slam And a big yellow taxi come and took away my old man Don't it always seem to go That you don't know what you've got 'til it's gone They paved paradise, put up a parking lot Late last night, I heard that screen door slam And a big yellow tractor come and took away my house, it took away my land I said, don't it always seem to go That you don't know what you've got 'til it's gone They paved paradise, put up a parking lot They paved paradise, put up a parking lot They paved paradise, put up a parking lot"
+  },
+  "metadata": {
+    "youtube_id": "ratQlft_G5c",
+    "title_extracted": null,
+    "corpus_id": "ratQlft_G5c",
+    "uploader": "FPED Nepal",
+    "audio_file": "corpus/01_music_videos_audio/audio/ratQlft_G5c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6506866,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.858038,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:25:45Z"
+  },
+  "status": "success",
+  "error": null
+}

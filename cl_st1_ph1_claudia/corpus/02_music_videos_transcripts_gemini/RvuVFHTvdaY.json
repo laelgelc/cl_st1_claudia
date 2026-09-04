@@ -1,0 +1,38 @@
+{
+  "corpus_id": "RvuVFHTvdaY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/RvuVFHTvdaY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/RvuVFHTvdaY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/RvuVFHTvdaY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "There's times when I want something more\nAs someone more like me\nThere's times when this stress rehearses\nIncomplete\nBut you see the colors in me\nLike no one else\nAnd behind your dark glasses\nYou're, you're something else\nYou're really lovely underneath it all\nAnd you want to love me underneath it all\nI'm really lucky underneath it all\nAnd you're really lovely\nYou're non-stop real bad tricks\nAnd you need some discipline\nBut lately you've been trying real hard\nAnd giving me your best\nAnd it gives me the most gorgeous sleep\nThat I've ever had\nAnd when it's really bad, I guess\nIt's not that bad\nAnd you're really lovely underneath it all\nAnd you want to love me underneath it all\nI'm really lucky underneath it all\nAnd you're really lovely\nSo many moons we have seen\nStumbling back next to me\nI've seen right through underneath\nAnd you make me better\nI've seen right through underneath\nAnd you make me better, better, better\nYou're cause a big tin call\nYou are my real Prince Charming\nLike the heat from the fire, you are always burning\nAnd anytime you're around, my body keeps calling\nFor your touch, your kisses and your sweet romancing\nThere's another side of you when this a woman you adore\nAside from your temper, everything else secure\nYou're good for me, baby, o' that I am sure\n'Cause over and over again...\nIf you stepped on your coupons\nAnd all you've got left is me\nAnd somehow I'm full of forgiveness\nI guess it's meant to be\nYou're really lovely underneath it all\nAnd you want to love me underneath it all\nI'm really lucky underneath it all\nAnd you're really lovely\nMmm, mmm, mmm\nUnderneath it all\nMmm, mmm, mmm\nUnderneath it all\nMmm, mmm, mmm\nUnderneath it all\nMmm, mmm, mmm\nUnderneath it all"
+  },
+  "metadata": {
+    "youtube_id": "RvuVFHTvdaY",
+    "title_extracted": null,
+    "corpus_id": "RvuVFHTvdaY",
+    "uploader": "No Doubt",
+    "audio_file": "corpus/01_music_videos_audio/audio/RvuVFHTvdaY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8234432,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.938362,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:50:54Z"
+  },
+  "status": "success",
+  "error": null
+}

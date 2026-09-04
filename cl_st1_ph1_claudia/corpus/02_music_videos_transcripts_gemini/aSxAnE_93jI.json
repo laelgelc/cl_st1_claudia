@@ -1,0 +1,38 @@
+{
+  "corpus_id": "aSxAnE_93jI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/aSxAnE_93jI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/aSxAnE_93jI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/aSxAnE_93jI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I can see clearly now the rain is gone I can see all obstacles in my way Gone are the dark clouds that had me blind It's gonna be a bright, bright, sunshiny day It's gonna be a bright, bright, sunshiny day I think I can make it now the pain is gone All of the bad feelings have disappeared Here is that rainbow I've been praying for It's gonna be a bright, bright, sunshiny day Look all around, there's nothing but blue skies Look straight ahead, nothing but blue skies Ah I can see clearly now the rain is gone I can see all obstacles in my way Gone are the dark clouds that had me blind It's gonna be a bright, bright, sunshiny day Oh, it's gonna be a bright, bright, sunshiny day It's gonna be so bright, bright, sunshiny day Oh, what a bright, bright, sunshiny day Oh yeah, yeah"
+  },
+  "metadata": {
+    "youtube_id": "aSxAnE_93jI",
+    "title_extracted": null,
+    "corpus_id": "aSxAnE_93jI",
+    "uploader": "The Midnight Special",
+    "audio_file": "corpus/01_music_videos_audio/audio/aSxAnE_93jI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5852992,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.548902,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:41:00Z"
+  },
+  "status": "success",
+  "error": null
+}

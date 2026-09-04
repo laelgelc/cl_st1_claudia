@@ -1,0 +1,38 @@
+{
+  "corpus_id": "bnVXIUyshng",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/bnVXIUyshng.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/bnVXIUyshng.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/bnVXIUyshng.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "About two years ago we had a hit in America with this song, off an album called Abandoned Luncheonette. It's called She's Gone. Ooh. Ooh. Ooh. Ooh. Everybody's high on consolation. Everybody's trying to tell me what is right for me, yeah. My daddy tried to bore me with a sermon. You know it's plain to see they can't help me. Sorry Charlie, for the imposition. But I believe I've got the strength to carry on. I need a drink and a quick decision. You know it's up to me what will be. And she's gone, oh why, oh why? I better learn how to face it. She's gone, she's gone, oh why, oh why? I'd pay the devil to replace her. She's gone, for what went wrong. Up in the morning, look in the mirror. Look in the mirror. A line is a toothbrush shining in the stand, in the stand, in the stand. A face that isn't looking any younger. Now I can see love's taken her toll on me. And she's gone, oh she's gone, oh why, oh why? I better learn how to face it. She's gone, she's gone, oh why, oh why? I'd pay the devil to replace her. She's gone, for what went wrong. I can spend eternity in the city. Let the carbon monoxide choke my thoughts away, yeah. Everybody's help dissolves my memory. They might help, but they'll never be what she was to me. And she's gone, oh why, oh why? I better learn how to face it. She's gone, she's gone, oh why, oh why? I'd pay the devil to replace her. She's gone, for what went wrong, yeah. Oh yeah. She's gone, oh why, oh why? I better learn how to face it. She's gone, she's gone. Can't believe that she's gone, oh why? I'd pay the devil to replace her. She's gone, oh why, oh why? I better learn how to face it. She's gone, she's gone. Can't believe that she's gone, oh why? I'd pay the devil to replace her. She's gone, she's gone. She's gone, she's gone. I can't believe it, I can't believe it. Oh, I gotta believe it. Oh, I, I gotta learn how to face it. I gotta learn, I gotta learn, I gotta learn, I gotta learn, yeah. Ooh. Ooh. Thank you! Goodnight!"
+  },
+  "metadata": {
+    "youtube_id": "bnVXIUyshng",
+    "title_extracted": null,
+    "corpus_id": "bnVXIUyshng",
+    "uploader": "konekoxox",
+    "audio_file": "corpus/01_music_videos_audio/audio/bnVXIUyshng.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11506030,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.803601,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:30:47Z"
+  },
+  "status": "success",
+  "error": null
+}

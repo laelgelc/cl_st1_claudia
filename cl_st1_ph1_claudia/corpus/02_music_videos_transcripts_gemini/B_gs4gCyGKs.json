@@ -1,0 +1,38 @@
+{
+  "corpus_id": "B_gs4gCyGKs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/B_gs4gCyGKs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/B_gs4gCyGKs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/B_gs4gCyGKs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I will survive without you Don't tell me that you wanna leave If you wanna leave I won't beg you to stay And if you gotta go, darling Maybe it's better that way I'm gonna be strong, I'm gonna be fine Don't worry about this heart of mine I know that I'm gonna see if I can go on and go But don't turn around 'cause you're gonna see my heartbreak, yeah Don't turn around, I don't want you to see me cry Just walk away, tell me a lie that you're leaving I'm letting you go But I won't let you know I won't let you know I won't miss your arms around me Holding me tight, holding me tight And if you ever think about me Just know that I'll be alright, I'll be alright I'm gonna be strong, I'm gonna be fine Don't worry about this heart of mine I'll survive and make it through I'll even learn to live without you Don't turn around 'cause you're gonna see my heartbreak, yeah Don't turn around, I don't want you to see me cry Just walk away, tell me a lie that you're leaving I'm letting you go But I won't let you know I wish I could scream out loud that I love you I wish I could say to you, don't go As he walks away, is the pain getting strong? Deep in your heart that I know what's going on Do you want him to turn around? He's gone Don't turn around 'cause you're gonna see my heartbreak, yeah Don't turn around, I don't want you to see me cry Just walk away, tell me a lie that you're leaving I'm letting you go Baby, don't turn around Don't turn around Just walk away Tell me a lie that you're leaving I'm letting you go Don't turn around Don't turn around"
+  },
+  "metadata": {
+    "youtube_id": "B_gs4gCyGKs",
+    "title_extracted": null,
+    "corpus_id": "B_gs4gCyGKs",
+    "uploader": "Ace of Base",
+    "audio_file": "corpus/01_music_videos_audio/audio/B_gs4gCyGKs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7370278,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.025432,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:53:47Z"
+  },
+  "status": "success",
+  "error": null
+}

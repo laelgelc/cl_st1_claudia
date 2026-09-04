@@ -1,0 +1,38 @@
+{
+  "corpus_id": "waRbcqP4cUI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/waRbcqP4cUI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/waRbcqP4cUI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/waRbcqP4cUI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "See the way he walks down the street See the way he shuffles his feet My heart goes pitter-pat when he goes walking by He's my guy He holds my hand and I'm so proud 'Cause he's not just one of the crowd My baby's always the one to try the things they've never done And just because of that, they say He's a rebel and he'll never ever be any good He's a rebel 'cause he never ever does what he should Just because he doesn't do what everybody else does Oh, that's no reason why I can't give him all my love He is always good to me Always treats me tenderly 'Cause he's not rebel, no no no He's not rebel, no no no to me If they don't like him that way They won't like me after today And I'll be standing right by his side when they say He's a rebel and he'll never ever be any good He's a rebel 'cause he never ever does what he should Just because he doesn't do what everybody else does Oh, that's no reason why we can't share our love He is always good to me Good to me he'll try to be 'Cause he's not rebel, no no no He's not rebel, no no no to me Oh, he's not rebel, no no no He's not rebel, no no no He's not rebel, no no no He's not rebel, no no no No no no, no no no No no no, no no no No no no, no no no No no no, no no no No no no, no no no No no no, no no no No no no"
+  },
+  "metadata": {
+    "youtube_id": "waRbcqP4cUI",
+    "title_extracted": null,
+    "corpus_id": "waRbcqP4cUI",
+    "uploader": "Smurfstools Oldies Music Time Machine",
+    "audio_file": "corpus/01_music_videos_audio/audio/waRbcqP4cUI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4999984,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 38.294515,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:56:24Z"
+  },
+  "status": "success",
+  "error": null
+}

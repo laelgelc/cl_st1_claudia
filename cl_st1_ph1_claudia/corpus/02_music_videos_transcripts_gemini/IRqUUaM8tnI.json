@@ -1,0 +1,38 @@
+{
+  "corpus_id": "IRqUUaM8tnI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/IRqUUaM8tnI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/IRqUUaM8tnI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/IRqUUaM8tnI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Who's peekin' out from under a stairway Callin' a name that's lighter than air Who's bendin' down to give me a rainbow Everyone knows it's Windy Who's trippin' down the streets of the city Smilin' at everybody she sees Who's reachin' out to capture a moment Everyone knows it's Windy And Windy has stormy eyes That flash at the sound of lies And Windy has wings to fly Above the clouds Above the clouds And Windy has stormy eyes That flash at the sound of lies And Windy has wings to fly Above the clouds Above the clouds Above the clouds Who's trippin' down the streets of the city Smilin' at everybody she sees Who's reachin' out to capture a moment Everyone knows it's Windy Who's trippin' down the streets of the city Smilin' at everybody she sees Who's reachin' out to capture a moment Everyone knows it's Windy Who's trippin' down the streets of the city Smilin' at everybody she sees Who's reachin' out to capture a moment Everyone knows it's Windy Who's trippin' down the streets of the city Smilin' at everybody she sees Who's reachin' out to capture a moment Everyone knows it's Windy Who's trippin' down the streets of the city Smilin' at everybody she sees Who's reachin' out to capture a moment"
+  },
+  "metadata": {
+    "youtube_id": "IRqUUaM8tnI",
+    "title_extracted": null,
+    "corpus_id": "IRqUUaM8tnI",
+    "uploader": "Smurfstools Oldies Music Time Machine",
+    "audio_file": "corpus/01_music_videos_audio/audio/IRqUUaM8tnI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5780918,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 31.895937,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:59:37Z"
+  },
+  "status": "success",
+  "error": null
+}

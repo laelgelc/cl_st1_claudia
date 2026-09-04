@@ -1,0 +1,38 @@
+{
+  "corpus_id": "kIDWgqDBNXA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/kIDWgqDBNXA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/kIDWgqDBNXA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/kIDWgqDBNXA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Come on. Mmm. I feel like I've been locked up tight for a century of lonely nights waiting for someone to release me. You're licking your lips and blowing kisses my way, but that don't mean I'm gonna give it away. Baby, baby, baby. Oh, my body's saying let's go. Oh, my heart is saying no. If you wanna be with me, baby, there's a price to pay. I'm a genie in a bottle, you gotta rub me the right way. If you wanna be with me, I can make your wish come true. You gotta make a big impression, gotta like what you do. I'm a genie in a bottle, baby, gotta rub me the right way, honey. I'm a genie in a bottle, baby, come, come, come and let me out. The music's playing and the lights down low, just one more dance and then we're good to go. Waiting for someone who needs me. Hormones racing at the speed of light, but that don't mean it's gotta be tonight. Baby, baby, baby. Oh, my body's saying let's go. Oh, my heart is saying no. If you wanna be with me, baby, there's a price to pay. I'm a genie in a bottle, you gotta rub me the right way. If you wanna be with me, I can make your wish come true. Just come and set me free, baby, I'll be with you. I'm a genie in a bottle, baby, gotta rub me the right way, honey. I'm a genie in a bottle, baby, come, come, come and let me out. I'm a genie in a bottle, baby, gotta rub me the right way, honey. I'm a genie in a bottle, baby, come, come, come and let me out. Oh, my body's saying let's go. Oh, my heart is saying no. If you wanna be with me, baby, there's a price to pay. I'm a genie in a bottle, you gotta rub me the right way. If you wanna be with me, I can make your wish come true. You gotta make a big impression, gotta like what you do. If you wanna be with me, baby, there's a price to pay. I'm a genie in a bottle, you gotta rub me the right way. If you wanna be with me, I can make your wish come true. Just come and set me free, baby, I'll be with you. I'm a genie in a bottle, baby, come, come, come and let me out."
+  },
+  "metadata": {
+    "youtube_id": "kIDWgqDBNXA",
+    "title_extracted": null,
+    "corpus_id": "kIDWgqDBNXA",
+    "uploader": "Christina Aguilera",
+    "audio_file": "corpus/01_music_videos_audio/audio/kIDWgqDBNXA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6920740,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.318593,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:22:44Z"
+  },
+  "status": "success",
+  "error": null
+}

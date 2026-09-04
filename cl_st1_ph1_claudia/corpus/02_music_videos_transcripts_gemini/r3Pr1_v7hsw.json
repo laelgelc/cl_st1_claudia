@@ -1,0 +1,38 @@
+{
+  "corpus_id": "r3Pr1_v7hsw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/r3Pr1_v7hsw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/r3Pr1_v7hsw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/r3Pr1_v7hsw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I've got to take a little time A little time to think things over I'd better read between the lines In case I need it when I'm older Oh Now this mountain I must climb Feels like the world upon my shoulders Through the clouds I see love shine It keeps me warm as life grows colder In my life there's been heartache and pain I don't know if I can face it again Can't stop now, I've traveled so far To change this lonely life I want to know what love is I want you to show me I want to feel what love is I know you can show me Oh I'm gonna take a little time A little time to look around me I've got nowhere left to hide It looks like love has finally found me In my life there's been heartache and pain I don't know if I can face it again Can't stop now, I've traveled so far To change this lonely life I want to know what love is I want you to show me I want to feel what love is I know you can show me I want to know what love is I want you to show me I want to feel what love is I know you can show me Let's talk about love (I want to know what love is) Love that you feel inside (I want you to show me) I'm feeling so much love (I want to feel what love is) No, you just can't hide (I know you can show me) Oh I want to know what love is (Let's talk about love) I want you to show me (I wanna feel it) I want to feel what love is (I wanna feel it too) I know you can show me (And I know, and I know) I know you can show me (Show me that it's real) I want to know what love is (Yeah, I wanna know) I want you to show me (I wanna know) I want to feel what love is (I wanna feel) I know you can show me"
+  },
+  "metadata": {
+    "youtube_id": "r3Pr1_v7hsw",
+    "title_extracted": null,
+    "corpus_id": "r3Pr1_v7hsw",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/r3Pr1_v7hsw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9623914,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.041152,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:29:04Z"
+  },
+  "status": "success",
+  "error": null
+}

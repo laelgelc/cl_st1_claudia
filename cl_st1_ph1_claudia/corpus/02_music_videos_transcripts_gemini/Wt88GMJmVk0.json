@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Wt88GMJmVk0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Wt88GMJmVk0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Wt88GMJmVk0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Wt88GMJmVk0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Yeah\nYo, drop your glasses, shake your asses\nFace screwed up like you having hot flashes\nWhich one? Pick one. This one classic\nRed from blind, yeah, bitch, I'm drastic\nWhy this? Why that? Lips stop asking\nListen to me, baby, relax, start passing\nExpressway, head back, weaving through the traffic\nThis one strong, should be labeled as a hazard\nSome of y'all hatin' sight, I'm gassing\nClowns, I spot 'em and I can't stop laughing\nEasy come, easy go, Eve be lasting\nJealousy, let it go, results could be tragic\nSome of y'all ain't writing well, too concerned with fashion\nNone of you ain't Giselle, can't walk, imagine\nA lot of y'all Hollywood, drama, casting\nCut, bitch, camera off, real shit lasting\n\nI had to give you time to get your mind right\nIt's only been a year\nNow I've got my foot through the door\nAnd I ain't going nowhere\nIt took a while to get me here\nAnd I'm gonna take my time\nDon't fight the feeling that you feel inside\nNow let me blow ya mind\n\nThey all think a drink'll make me silly\nHe just wanna come and touch my milli\nYou ain't a gangster, prankster, move chilly\nSnakes in my path wanna smile and act friendly\nNow while you grit your teeth\nFrustration, baby, you gotta breathe\nTake a lot more than you to get rid of me\nYou see, I do what they can't do, I just do me\nAin't no stress when it comes to stage, get what you see\nMeet me in the lab, pen and pad, believe\n16's mine, create my own lines\nLove for my wordplay that's hard to find\nSophomore, I ain't scared, one of a kind\nAll I do is contemplate ways to make your fans mine\nEyes bloodshot, stressing, chills up your spine\nSick to your stomach, wishing I wrote your rhymes\n\nI had to give you time to get your mind right\nIt's only been a year\nNow I've got my foot through the door\nAnd I ain't going nowhere\nIt took a while to get me here\nAnd I'm gonna take my time\nDon't fight the feeling that you feel inside\nNow let me blow ya mind\n\nLet your bones crack, your back pop, I can't stop\nExcitement from your stashbox\nThugged out, I respect the cash route\nLockdown, blasted, sets while I mash out\nGet, mash out, D-R-E\nBacktrack, think back, E-V-E\nDo you like that? Yeah, you got to, I know you\nHad you in a trance first glance from the floor, too\nDon't believe, I'll show you, take you with me\nTurn you on, tension gone, give you relief\nPut your trust in the Bomb when you listen to me\nDamn, she much thinner now, I'm complete\nUh-huh, stallion, brick house, pile it on\nRide-or-die bitch, Double R, camo-on\nBeware 'cause I crush anything I land on\nMe here, ain't no mistake, it was planned on\n\nI had to give you time to get your mind right\nIt's only been a year\nNow I've got my foot through the door\nAnd I ain't going nowhere\nIt took a while to get me here\nAnd I'm gonna take my time\nDon't fight the feeling that you feel inside\nNow let me blow ya mind"
+  },
+  "metadata": {
+    "youtube_id": "Wt88GMJmVk0",
+    "title_extracted": null,
+    "corpus_id": "Wt88GMJmVk0",
+    "uploader": "The Real Eve",
+    "audio_file": "corpus/01_music_videos_audio/audio/Wt88GMJmVk0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7880746,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.153358,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:56:17Z"
+  },
+  "status": "success",
+  "error": null
+}

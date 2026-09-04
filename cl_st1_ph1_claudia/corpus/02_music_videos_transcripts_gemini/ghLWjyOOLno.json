@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ghLWjyOOLno",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ghLWjyOOLno.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ghLWjyOOLno.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ghLWjyOOLno.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "A boy's born in hot-damn Mississippi\nSurrounded by four walls and a ceiling\nHis parents give him love and affection\nTo keep him strong, moving in the right direction\nLiving just enough\nJust enough for the city\n\nHis father works some days for 14 hours\nAnd you can bet he barely makes a dollar\nHis mother goes to scrub the floors for many\nAnd you best believe she hardly gets a penny\nLiving just enough\nJust enough for the city, yeah\n\nHis sister's black, but she is sho 'nuff pretty\nHer skirt is short, but Lord, her legs are sturdy\nTo walk to school, she's got to get up early\nHer clothes are old, but never are they dirty\nLiving just enough\nJust enough for the city\n\nHer brother's smart, he's got more sense than many\nHis patience long, but soon he won't have any\nTo find a job is like a haystack needle\n'Cause where he lives, they don't use colored people\nLiving just enough\nJust enough for the city, yeah\n\nLiving just enough\nFor the city\nJust enough\nLiving just enough\nJust enough\nFor the city\nJust enough\nFor the city\nJust enough\nFor the city\nJust enough\nFor the city\nJust enough\nLiving just enough\nJust enough\nFor the city\nJust enough\nFor the city\n\nFirst stop, New York City.\n\nHey, bus driver, I'm getting off right here.\n\nThanks a lot.\n\nWow.\n\nNew York! Just like I pictured it.\nSkyscrapers, everything.\n\nHey, hey brother! Hey, come here, slick. Hey, you look hip, man. Hey, you wanna make yourself five bucks, man?\n\nYeah, brother, I sure need—\n\nLook here, run this across the street for me real quick, okay, brother? Hurry up!\n\nWhat?\n\nI don't know.\n\nWhat? I'm just walking across the street!\n\nNo! What'd I do?\n\nTurn around! Turn around, put your hands behind your back. Let's go, let's go!\n\nA jury of your peers having found you guilty... 10 years.\n\nWhat? Come on! Come on, get in that cell, nigger!\n\nGod, no!\n\nHis hair is long, he's spent a hundred fifty\nHe's spent his life all in the streets of New York City\nHe's almost dead from breathing in air pollution\nHe tried to vote, but to him there's no solution\nLiving just enough\nJust enough for the city\n\nI hope you hear and understand my song of sorrow\nAnd that it moves your heart to make a better tomorrow\nThis place is cruel, no doubt it's gonna get much colder\nIt's time to change, or else we're gonna be all over\nLiving just enough, stop giving just enough\nFor the city"
+  },
+  "metadata": {
+    "youtube_id": "ghLWjyOOLno",
+    "title_extracted": null,
+    "corpus_id": "ghLWjyOOLno",
+    "uploader": "Stevie Wonder",
+    "audio_file": "corpus/01_music_videos_audio/audio/ghLWjyOOLno.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 14172052,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.74864,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:25:44Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "010KyIQjkTk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/010KyIQjkTk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/010KyIQjkTk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/010KyIQjkTk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Jump! Jump! You know you should know better Kris Kross is not having anything today As we stand here staring crowds down We can make ya Jump! Jump! The Mac Dad'll make ya Jump! Jump! A Daddy Mac'll make ya Jump! Jump! Kris Kross'll make ya Jump! Jump! Don't try to compare us to another bad little fad I'm the Mac and I'm bad, give you something that you never had I make ya bump, bump, wiggle and shake your rump 'Cause I'll be kicking the flavor that makes you wanna jump How high? Real high, 'cause I'm just so fly A young, lovable, huggable type of guy And everything is to the back with a little slack 'Cause inside out, it's wiggida, wiggida, wiggida whack I come unstoppable, something bumping to keep you jumping R&B, rapping, bullcrap is what I'm dumping Ain't nothing soft about Kris Kross, we all that So when the Mac do his rock, say believe that Jump! Jump! The Mac Dad'll make ya Jump! Jump! A Daddy Mac'll make ya Jump! Jump! Kris Kross'll make ya Jump! Jump! Uh-huh, uh-huh Jump! Jump! The Mac Dad'll make ya Jump! Jump! A Daddy Mac'll make ya Jump! Jump! Kris Kross'll make ya Jump! Jump! I like my stuff knocking, knocking I love it when the girls be like jocking, jocking The D-A-double-W-I-G-A-M-A-C Yeah, you know me I got you jumping and bumping and pumping, moving all around, G In the mix, I'ma tell you step back They tried to step to the Mac, then they got jacked To the back, the important thing is that's coincidental And I like it, and I know it, don't be claiming that it's mental Two little kids with a flow you ain't never heard Ain't nothing fake, and you can understand every word As you listen to my smooth, smooth melody The Daddy makes you J-U-M-P Jump! Jump! The Mac Dad'll make ya Jump! Jump! A Daddy Mac'll make ya Jump! Jump! Kris Kross'll make ya Jump! Jump! Uh-huh, uh-huh Jump! Jump! The Mac Dad'll make ya Jump! Jump! A Daddy Mac'll make ya Jump! Jump! Kris Kross'll make ya Jump! Jump! Now, for melodies of this and that Is that Kris Kross ain't coming off whack And for all you suckers that don't know, check it out Some of them try to rhyme, but they can't rhyme like this, oh Some of them try to rhyme, but they can't rhyme like this, oh Some of them try to rhyme, but they can't rhyme like this, oh Some of them try to rhyme, but they can't, oh 'Cause I'm the miggida, miggida, miggida, miggida Mac Daddy, oh The miggida, miggida, miggida, miggida Mac, oh 'Cause I'm the miggida, miggida, miggida, miggida Mac Daddy, oh, oh The miggida, miggida, miggida, miggida Mac I make you wanna Jump! Jump! The Mac Dad'll make ya Jump! Jump! A Daddy Mac'll make ya Jump! Jump! Kris Kross'll make ya Jump! Jump! Uh-huh, uh-huh Jump! Jump! The Mac Dad'll make ya Jump! Jump! A Daddy Mac'll make ya Jump! Jump! Kris Kross'll make ya Jump! Jump! Uh-huh, uh-huh Jump! Jump! The Mac Dad'll make ya Jump! Jump! A Daddy Mac'll make ya Jump! Jump! Kris Kross'll make ya Jump! Jump! Uh-huh, uh-huh Jump! Jump! The Mac Dad'll make ya Jump! Jump! A Daddy Mac'll make ya Jump! Jump! Kris Kross'll make ya Jump! Jump! Believe that!"
+  },
+  "metadata": {
+    "youtube_id": "010KyIQjkTk",
+    "title_extracted": null,
+    "corpus_id": "010KyIQjkTk",
+    "uploader": "Kris Kross",
+    "audio_file": "corpus/01_music_videos_audio/audio/010KyIQjkTk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6321108,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.45559,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:49:34Z"
+  },
+  "status": "success",
+  "error": null
+}

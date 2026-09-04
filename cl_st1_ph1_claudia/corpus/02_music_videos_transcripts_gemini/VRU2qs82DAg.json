@@ -1,0 +1,38 @@
+{
+  "corpus_id": "VRU2qs82DAg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/VRU2qs82DAg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/VRU2qs82DAg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/VRU2qs82DAg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "All right. I know that special someone you've been dreaming about all night long is right next to you right now. The new one from Selena, it's called Dreaming of You. Late at night when the world is sleeping I stay up and think of you. And I wish on a star that somewhere you are thinking of me, too. 'Cause I'm dreaming of you tonight till tomorrow. I'll be holding you tight and there's nowhere in the world I'd rather be than here in my room dreaming about you and me. Wonder if you ever see me and I wonder if you know I'm there. Am I there? Am I there? If you looked in my eyes would you see what's inside? Would you even care? I just wanna hold you close, but so far, all I have are dreams of you. So I wait for the day that I have courage to say how much I love you. Oh, yes I do. I'll be dreaming of you tonight till tomorrow. I'll be holding you tight and there's nowhere in the world I'd rather be than here in my room dreaming about you and me. Corazón, I can't stop dreaming of you. No puedo dejar de pensar en ti. How I need you. Mi amor, cómo te extraño. Late at night when the world is sleeping, I stay up and think of you. And I still can't believe that you came up to me and said \"I love you\". I love you, too. Now I'm dreaming with you tonight till tomorrow and for all of my life. And there's nowhere in the world I'd rather be than here in my room dreaming with you. Dreaming with you tonight holding you tight. And there's nowhere in the world I'd rather be tonight All right. I know that special someone that's close to your heart that you've been dreaming about all night is right next to you right now. And we hope we took care of you with the new one from Selena called Dreaming of You."
+  },
+  "metadata": {
+    "youtube_id": "VRU2qs82DAg",
+    "title_extracted": null,
+    "corpus_id": "VRU2qs82DAg",
+    "uploader": "Selena",
+    "audio_file": "corpus/01_music_videos_audio/audio/VRU2qs82DAg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8470718,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.495401,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:40:42Z"
+  },
+  "status": "success",
+  "error": null
+}

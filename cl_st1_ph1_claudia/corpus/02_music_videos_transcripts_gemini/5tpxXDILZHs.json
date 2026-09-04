@@ -1,0 +1,38 @@
+{
+  "corpus_id": "5tpxXDILZHs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/5tpxXDILZHs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/5tpxXDILZHs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/5tpxXDILZHs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Here's the Monkees!  I thought love was only true in fairy tales And for someone else, but not for me Love was out to get me That's the way it seemed Disappointment haunted all my dreams  Then I saw her face, now I'm a believer Not a trace of doubt in my mind I'm in love I'm a believer, I couldn't leave her if I tried  I thought love was more or less a given thing Seems the more I gave, the less I got What's the use in tryin'? All you get is pain When I needed sunshine, I got rain  Then I saw her face, now I'm a believer Not a trace of doubt in my mind I'm in love I'm a believer, I couldn't leave her if I tried  Love was out to get me That's the way it seemed Disappointment haunted all my dreams  Then I saw her face, now I'm a believer Not a trace of doubt in my mind I'm in love I'm a believer, I couldn't leave her if I tried  Yes, I saw her face, now I'm a believer Not a trace of doubt in my mind Said, I'm a believer, yeah, yeah, yeah, yeah, yeah, yeah I'm a believer Said, I'm a believer, yeah I'm a believer"
+  },
+  "metadata": {
+    "youtube_id": "5tpxXDILZHs",
+    "title_extracted": null,
+    "corpus_id": "5tpxXDILZHs",
+    "uploader": "Classics in HD",
+    "audio_file": "corpus/01_music_videos_audio/audio/5tpxXDILZHs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5254846,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.438894,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:07:34Z"
+  },
+  "status": "success",
+  "error": null
+}

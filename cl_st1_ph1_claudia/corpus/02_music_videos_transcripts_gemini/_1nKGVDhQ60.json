@@ -1,0 +1,38 @@
+{
+  "corpus_id": "_1nKGVDhQ60",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/_1nKGVDhQ60.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/_1nKGVDhQ60.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/_1nKGVDhQ60.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I like to swing right out of that tune and jump right into the next one. Song I wrote myself, mostly here and partially in the United States, too. Just yesterday morning, they let me know you were gone. Suzanne, the plans we made put an end to you. I walked out on the morning and I wrote down this song, I just can't remember who to send it to. I've seen fire and I've seen rain. I've seen sunny days that I thought would never end. I've seen lonely times when I could not find a friend, but I always thought that I'd see you again. Won't you look down upon me, Jesus? You got to help me to make a stand. You just got to see me through another day. My body's aching and my time is at hand, and I won't make it any other way. I've seen fire and I've seen rain. I've seen sunny days that I thought would never end. I've seen lonely times when I could not find a friend, but I always thought that I'd see you again. Been walking my mind to an easy time with my back turned towards the sun. Lord knows when the cold wind blows, it'll turn your head around. There's hours of time on the telephone line to talk about things to come. Sweet dreams and flying machines in pieces on the ground. Well now, I've seen fire and I've seen rain. I've seen sunny days that I thought would never end. I've seen lonely times when I could not find a friend, but I always thought that I'd see you somehow one more time again now. I thought I'd see you one more time again. There's just a few things coming my way this time around. Oh now, I thought I'd see you, I thought I'd see you, fire and rain. La la la la la la la la la la."
+  },
+  "metadata": {
+    "youtube_id": "_1nKGVDhQ60",
+    "title_extracted": null,
+    "corpus_id": "_1nKGVDhQ60",
+    "uploader": "James Taylor",
+    "audio_file": "corpus/01_music_videos_audio/audio/_1nKGVDhQ60.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7552322,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.456512,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:04:15Z"
+  },
+  "status": "success",
+  "error": null
+}

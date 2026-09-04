@@ -1,0 +1,38 @@
+{
+  "corpus_id": "qz2efshhuq4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/qz2efshhuq4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/qz2efshhuq4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/qz2efshhuq4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "The one, Aretha Franklin! Looking out on the morning rain I used to feel so uninspired And when I knew I had to face another day Lord, it made me feel so tired Before the day I met you life was so unkind But you're the key to my peace of mind 'Cause you make me feel You make me feel You make me feel like a natural woman When my soul was in the lost and found You came along to claim it I didn't know what was wrong with me 'Til your kiss helped me name it Now I'm no longer doubtful of what I'm living for 'Cause if I make you happy, I don't need no more 'Cause you make me feel You make me feel You make me feel like a natural woman Like a natural woman Oh, baby, what you've done to me You've made me feel so good inside And I, I just want to be Close to you, you make me feel so You make me feel You make me feel You make me feel like I feel like You make me feel You make me You make me feel You make me feel You make me feel like I feel like I feel like You make me feel You make me feel I feel like A natural woman A woman A woman A woman A woman A woman A woman A woman A woman A woman A woman Woman"
+  },
+  "metadata": {
+    "youtube_id": "qz2efshhuq4",
+    "title_extracted": null,
+    "corpus_id": "qz2efshhuq4",
+    "uploader": "MNOW: “MNOW: A MOROCCAN MAGAZINE” A MOROCCAN MAGAZINE",
+    "audio_file": "corpus/01_music_videos_audio/audio/qz2efshhuq4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8215856,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 8.004288,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:23:42Z"
+  },
+  "status": "success",
+  "error": null
+}

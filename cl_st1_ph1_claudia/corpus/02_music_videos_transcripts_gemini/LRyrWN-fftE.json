@@ -1,0 +1,38 @@
+{
+  "corpus_id": "LRyrWN-fftE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/LRyrWN-fftE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/LRyrWN-fftE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/LRyrWN-fftE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Bye-bye love Bye-bye happiness Hello loneliness I think I'm gonna cry Bye-bye love Bye-bye sweet caress Hello emptiness I feel like I could die Bye-bye my love, goodbye There goes my baby with a someone new She sure looks happy I sure am blue She was my baby till he stepped in Goodbye romance that might have been Bye-bye love Bye-bye happiness Hello loneliness I think I'm gonna cry Bye-bye love Bye-bye sweet caress Hello emptiness I feel like I could die Bye-bye my love, goodbye I'm through with romance I'm through with love I'm through with counting the stars above And there's a reason that I'm so free My lovin' baby is through with me Bye-bye love Bye-bye happiness Hello loneliness I think I'm gonna cry Bye-bye love Bye-bye sweet caress Hello emptiness I feel like I could die Bye-bye my love, goodbye Bye-bye my love, goodbye Bye-bye my love, goodbye Bye-bye my love, goodbye"
+  },
+  "metadata": {
+    "youtube_id": "LRyrWN-fftE",
+    "title_extracted": null,
+    "corpus_id": "LRyrWN-fftE",
+    "uploader": "iersesetters",
+    "audio_file": "corpus/01_music_videos_audio/audio/LRyrWN-fftE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4580910,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.41879,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:08:16Z"
+  },
+  "status": "success",
+  "error": null
+}

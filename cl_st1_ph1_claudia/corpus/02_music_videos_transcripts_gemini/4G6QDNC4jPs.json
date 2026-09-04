@@ -1,0 +1,38 @@
+{
+  "corpus_id": "4G6QDNC4jPs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4G6QDNC4jPs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/4G6QDNC4jPs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/4G6QDNC4jPs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I still hear your voice when you sleep next to me I still feel your touch in my dreams Forgive me my weakness, but I don't know why Without you it's hard to survive 'Cause every time we touch, I get this feeling And every time we kiss, I swear I could fly Can't you feel my heart beat fast? I want this to last Need you by my side 'Cause every time we touch, I feel the static And every time we kiss, I reach for the sky Can't you hear my heart beat so? I can't let you go Want you in my life Your arms are my castle Your heart is my sky They wipe away tears that I cry The good and the bad times, we've been through them all You make me rise when I fall 'Cause every time we touch, I get this feeling And every time we kiss, I swear I could fly Can't you feel my heart beat fast? I want this to last Need you by my side 'Cause every time we touch, I feel the static And every time we kiss, I reach for the sky Can't you hear my heart beat so? I can't let you go Want you in my life 'Cause every time we touch, I get this feeling And every time we kiss, I swear I could fly Can't you feel my heart beat fast? I want this to last Need you by my side"
+  },
+  "metadata": {
+    "youtube_id": "4G6QDNC4jPs",
+    "title_extracted": null,
+    "corpus_id": "4G6QDNC4jPs",
+    "uploader": "SteveAATW",
+    "audio_file": "corpus/01_music_videos_audio/audio/4G6QDNC4jPs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6865012,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 4.624984,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:27:21Z"
+  },
+  "status": "success",
+  "error": null
+}

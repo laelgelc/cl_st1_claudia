@@ -1,0 +1,38 @@
+{
+  "corpus_id": "nm6DO_7px1I",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nm6DO_7px1I.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/nm6DO_7px1I.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/nm6DO_7px1I.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Американская фирма Transceptor Technology приступила к производству компьютеров \"Персональный спутник\".  I got the power!  Hey! Yeah! Yeah!  Watch me line up the whip, snap a tight front to back In this thing called rap Dig it like a shovel, rhyming double on a heavy level Bang the bass, turn up the treble Radical mind, day and night on the grind 7:14, wise divine Maniac, brainiac, winning the game I'm the lyrical Jesse James  Ooh, yeah, yeah, yeah, yeah  Getting higher  Getting, getting, getting higher Getting, getting, getting higher Getting, getting, getting higher  I got the power! It's getting, it's getting, it's getting kinda hectic It's getting, it's getting, it's getting kinda hectic I got the power! Oh, oh, oh, oh I got the power! It's getting, it's getting, it's getting kinda hectic It's getting, it's getting, it's getting kinda hectic I got the power! Oh, oh, oh, oh  It's getting, it's getting, it's getting kinda hectic It's getting, it's getting, it's getting kinda hectic It's getting, it's getting, it's getting kinda hectic It's getting, it's getting, it's getting kinda hectic Quality I possess, some say I'm fresh When my voice goes through the mesh Of the microphone that I am holding Copywritten lyrics so they can't be stolen If they are, snap, don't need the police To come and save them, your voice is sick So keep, stay off my back Or I will attack, and you don't want that  I got the power! It's getting, it's getting, it's getting kinda hectic It's getting, it's getting, it's getting kinda hectic I got the power! Oh, oh, oh, oh I got the power! It's getting, it's getting, it's getting kinda hectic It's getting, it's getting, it's getting kinda hectic I got the power! Oh, oh, oh, oh  Quality I possess, some say I'm fresh When my voice goes through the mesh Of the microphone that I am holding Copywritten lyrics so they can't be stolen If they are, snap, don't need the police To come and save them, your voice is sick So keep, stay off my back Or I will attack, and you don't want that  I got the power! It's getting, it's getting, it's getting kinda hectic It's getting, it's getting, it's getting kinda hectic I got the power! Oh, oh, oh, oh I got the power!"
+  },
+  "metadata": {
+    "youtube_id": "nm6DO_7px1I",
+    "title_extracted": null,
+    "corpus_id": "nm6DO_7px1I",
+    "uploader": "SNAP!",
+    "audio_file": "corpus/01_music_videos_audio/audio/nm6DO_7px1I.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7350958,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.275806,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:19:09Z"
+  },
+  "status": "success",
+  "error": null
+}

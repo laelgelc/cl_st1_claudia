@@ -1,0 +1,38 @@
+{
+  "corpus_id": "VScSEXRwUqQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/VScSEXRwUqQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/VScSEXRwUqQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/VScSEXRwUqQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "This is the end, beautiful friend. This is the end, my only friend, the end of our elaborate plans, the end of everything that stands, the end. No safety or surprise, the end. I'll never look into your eyes again. Can you picture what will be, so limitless and free? Desperately in need of some stranger's hand in a desperate land. Lost in a Roman wilderness of pain, and all the children are insane. All the children are insane, waiting for the summer rain. Come on, baby. Come on, baby. Come on, baby. Come on, baby. Yeah! Yeah! Yeah! Come on, baby. Yeah! Come on, yeah! All right! Yeah! Yeah! Yeah! Yeah! Yeah!"
+  },
+  "metadata": {
+    "youtube_id": "VScSEXRwUqQ",
+    "title_extracted": null,
+    "corpus_id": "VScSEXRwUqQ",
+    "uploader": "215Days",
+    "audio_file": "corpus/01_music_videos_audio/audio/VScSEXRwUqQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 12443744,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 7.68083,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:43:17Z"
+  },
+  "status": "success",
+  "error": null
+}

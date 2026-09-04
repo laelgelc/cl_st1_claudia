@@ -1,0 +1,38 @@
+{
+  "corpus_id": "4T1t5OFOYDU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4T1t5OFOYDU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/4T1t5OFOYDU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/4T1t5OFOYDU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Ah, ah, ah Ah, ah, ah Ah, ah, ah Ah, ah, ah Every time I tell a secret I remember how it used to be And I realize how much I miss you And I realize how it feels to be free Now I see I'm up to no good (No, no, no) And I want to start again Can't remember when I felt good, baby No, I can't remember when No, no, no, no Only in my dreams As real as it may seem It was only in my dreams Couldn't see how much I missed you (No, I couldn't see) Couldn't see how much it meant Now I see my world come tumbling down (Tumbling down) Now I see the road has bent If I only once could hold you (No, no, no) And remember how it used to be If only I could hold you I'd forget how it feels to be free No, no, no, no Only in my dreams As real as it may seem It was only in my dreams No, no, no, no Only in my dreams As real as it may seem It was only in my dreams Whoa, whoa Ah, ah, ah Ah, ah, ah Ah, ah, ah Ah, ah, ah No, no, no, no Only in my dreams As real as it may seem It was only in my dreams No, no, no, no Only in my dreams As real as it may seem It was only in my dreams No, no, no, no Only in my dreams As real as it may seem It was only in my dreams No, no, no, no Only in my dreams"
+  },
+  "metadata": {
+    "youtube_id": "4T1t5OFOYDU",
+    "title_extracted": null,
+    "corpus_id": "4T1t5OFOYDU",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/4T1t5OFOYDU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7324952,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 6.908558,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:12:51Z"
+  },
+  "status": "success",
+  "error": null
+}

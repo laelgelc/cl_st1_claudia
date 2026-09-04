@@ -1,0 +1,38 @@
+{
+  "corpus_id": "J-6fW66IUY4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/J-6fW66IUY4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/J-6fW66IUY4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/J-6fW66IUY4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I keep a close watch on this heart of mine I keep my eyes wide open all the time I keep the ends out for the tie that binds Because you're mine, I walk the line I find it very, very easy to be true I find myself alone when each day's through Yes, I'll admit that I'm a fool for you Because you're mine, I walk the line As sure as night is dark and day is light I keep you on my mind both day and night And happiness I've known proves that it's right Because you're mine, I walk the line You've got a way to keep me on your side You give me cause for love that I can't hide For you I know I'd even try to turn the tide Because you're mine, I walk the line I keep a close watch on this heart of mine I keep my eyes wide open all the time I keep the ends out for the tie that binds Because you're mine, I walk the line"
+  },
+  "metadata": {
+    "youtube_id": "J-6fW66IUY4",
+    "title_extracted": null,
+    "corpus_id": "J-6fW66IUY4",
+    "uploader": "Johnny Cash",
+    "audio_file": "corpus/01_music_videos_audio/audio/J-6fW66IUY4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5213236,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.725674,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:38:09Z"
+  },
+  "status": "success",
+  "error": null
+}

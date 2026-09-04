@@ -1,0 +1,38 @@
+{
+  "corpus_id": "j13oJajXx0M",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/j13oJajXx0M.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/j13oJajXx0M.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/j13oJajXx0M.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Son of a gun You walked into the party like you were walking onto a yacht. Your hat strategically dipped below one eye. Your scarf, it was apricot. You had one eye in the mirror as you watched yourself gavotte. And all the girls dreamed that they'd be your partner, they'd be your partner, and You're so vain. You probably think this song is about you. You're so vain, you're so vain. I'll bet you think this song is about you, don't you, don't you, don't you? You had me several years ago when I was still quite naive, when you said that we made such a pretty pair, and that you would never leave. But you gave away the things you loved, and one of them was me. I had some dreams, they were clouds in my coffee, clouds in my coffee, and You're so vain. You probably think this song is about you. You're so vain, you're so vain. I'll bet you think this song is about you, don't you, don't you, don't you? I had some dreams, they were clouds in my coffee, clouds in my coffee, and You're so vain. You probably think this song is about you. You're so vain, you're so vain. I'll bet you think this song is about you, don't you, don't you? Well, I hear you went up to Saratoga, and your horse naturally won. Then you flew your Learjet up to Nova Scotia to see the total eclipse of the sun. Well, you're where you should be all the time, and when you're not, you're with some underworld spy's wife, or the wife of a close friend, wife of a close friend, and You're so vain. You probably think this song is about you. You're so vain, you're so vain. I'll bet you think this song is about you, don't you, don't you, don't you? You're so vain. You probably think this song is about you. You're so vain. You probably think this song is about you. You're so vain."
+  },
+  "metadata": {
+    "youtube_id": "j13oJajXx0M",
+    "title_extracted": null,
+    "corpus_id": "j13oJajXx0M",
+    "uploader": "Carly Simon",
+    "audio_file": "corpus/01_music_videos_audio/audio/j13oJajXx0M.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8496724,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 7.398956,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:47:52Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "jipQpjUA_o8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/jipQpjUA_o8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/jipQpjUA_o8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/jipQpjUA_o8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Oh yeah yeah\nOmo ya ka chike\nOh yeah yeah\nOmo ya ma gbadun\nOh yeah yeah\nGirl I'm gonna let you know\nOh yeah yeah\nOh no no no no\n\nI don't need you in the morning\nBut I need you now\nYeah yeah\nI find you, I give you anything\nI know what you like\nI feel it coming\nTell me that's the essence\nI try to teach you\nBut I might need some lessons\nI need to give it all\nI try to leave but I can't\nI don't know why you're the one\nDriving me out of my mind\n\nYou don't need no other body\nYou don't need no other body\nOnly you fit hold my body\nOnly you fit hold my body\nYou don't need no other body\n\nSay I'm in the mood, sip a wine\nSay I'm in the mood, make you free up your mind\nSay your body talk to me nice\nSay now my love you dey need for your life\nYeah, our love no be lie\nSay yeah we dey together day and night\nYeah if I leave you go cry\nYeah if you leave I go cry\nTalking 'bout baby\nLoving your body baby\nAs you're whining your body baby\nSo crazy\nLoving your body baby\nGirl it's what I need tell me\nI just wanna let you know\nHope everyday...\n\nYou don't need no other body\nYou don't need no other body\nOnly you fit hold my body\nOnly you fit hold my body\nYou don't need no other body\n\nBaby baby\nEverybody the same\nNo one loves you like that\nNo one wants you the same way\nLove till the morning\nMy head wan turn from your loving\nI just wanna get you beside me\n\nGive me all you need\nGive me all you need\nGive me all...\nYeah give me all you need\nGive me all you need\nGive me all...\n\nMake I give you all you need\nEvery touch you need\nBaby, make I give you all you need, baby, yeah\n\nYou don't need no other body\nYou don't need no other body\nOnly you fit hold my body\nOnly you fit hold my body\nYou don't need no other body\n\nGirl I want you there\nGirl I want you there\nPromise to treat your love fair\nWoah woah woah woah\nWhen we touch, our world connect\nWoah woah woah woah\nSay this love I no regret\nWoah woah, yeah yeah"
+  },
+  "metadata": {
+    "youtube_id": "jipQpjUA_o8",
+    "title_extracted": null,
+    "corpus_id": "jipQpjUA_o8",
+    "uploader": "StarBoy TV",
+    "audio_file": "corpus/01_music_videos_audio/audio/jipQpjUA_o8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7842108,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.070027,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:32:31Z"
+  },
+  "status": "success",
+  "error": null
+}

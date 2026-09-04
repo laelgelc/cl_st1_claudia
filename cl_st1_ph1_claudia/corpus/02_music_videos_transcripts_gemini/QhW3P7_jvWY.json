@@ -1,0 +1,38 @@
+{
+  "corpus_id": "QhW3P7_jvWY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/QhW3P7_jvWY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/QhW3P7_jvWY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/QhW3P7_jvWY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Hearts of fire\nCreate love's desire\nTake you higher and higher\nTo the world you belong\n\nHearts of fire\nCreate love's desire\nHigher and higher\nTo your place on the throne\n\nWe've come together on a special day\nSing our message loud and clear\nLooking back we've touched on silent days\nFuture past then disappear\n\nYou will find\nYou will find\nYes, when you look within\nIn your heart and soul\nAh, don't hesitate\n'Cause the world seems cold\nStay young at heart\n'Cause you'll never, never, never, never grow old\n\nThat's the way\nOf the world\nPlant your flower and you grow\nChild is born with a heart of gold\nWay of the world, plant your flower\nYeah, this thing, yeah\n\nHearts of fire\nCreate love's desire\nTake you higher and higher\nTo the world you belong\nHearts of fire\nLove's desire\nHigher and higher\nYeah, yeah, yeah\nHearts of fire\nLove's desire\nHigher...\n\nWe've come together on a special day\nSing our message loud and clear\nLooking back we've touched on silent days\nWow, future disappear\n\nYou will find\nYou will find\nHey, when you look within\nIn your heart and soul\nAh, don't hesitate\n'Cause the world seems cold\nStay young at heart\n'Cause you'll never, never, never grow old\n\nThat's the way\nOf the world\nPlant your flower and you grow\nChild is born, child is born, listen, with a heart of gold\nWay of the world, make this world full of gold, yeah\nAnd love and love\nNever\nOh no, no, never, never, don't you hear me now?\nDon't you hear me now? Don't you hear me now?\nDon't you hear me now?\nHearts of fire\nLove's desire\nHigher and higher\nYeah, yeah, yeah\nHearts of fire"
+  },
+  "metadata": {
+    "youtube_id": "QhW3P7_jvWY",
+    "title_extracted": null,
+    "corpus_id": "QhW3P7_jvWY",
+    "uploader": "Earth Wind & Fire",
+    "audio_file": "corpus/01_music_videos_audio/audio/QhW3P7_jvWY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11108504,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.874066,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:43:01Z"
+  },
+  "status": "success",
+  "error": null
+}

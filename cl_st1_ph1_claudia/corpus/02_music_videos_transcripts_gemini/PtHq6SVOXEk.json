@@ -1,0 +1,38 @@
+{
+  "corpus_id": "PtHq6SVOXEk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/PtHq6SVOXEk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/PtHq6SVOXEk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/PtHq6SVOXEk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "And when I see the sign that points one way\nThe love we used to pass by every day\nJust walk away, Renee, you won't see me follow you back home\nThe empty sidewalks call my name, it's not the same\nYou're not to blame\n\nFrom deep inside the tears that I'm forced to cry\nFrom deep inside the pain I have just to hide\nJust walk away, Renee, you won't see me follow you back home\nNow as the rain beats down upon my weary eyes\nFor me it cries\n\nJust walk away, Renee, you won't see me follow you back home\nNow as the rain beats down upon my weary eyes\nFor me it cries\n\nYour name and mine inside a heart upon a wall\nStill find a way to haunt me, though it's so small\nJust walk away, Renee, you won't see me follow you back home\nThe empty sidewalks call my name, it's not the same\nYou're not to blame"
+  },
+  "metadata": {
+    "youtube_id": "PtHq6SVOXEk",
+    "title_extracted": null,
+    "corpus_id": "PtHq6SVOXEk",
+    "uploader": "David's Lost & Found Music",
+    "audio_file": "corpus/01_music_videos_audio/audio/PtHq6SVOXEk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5419802,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.453488,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:05:28Z"
+  },
+  "status": "success",
+  "error": null
+}

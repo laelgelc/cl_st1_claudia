@@ -1,0 +1,38 @@
+{
+  "corpus_id": "2XvHkO3kjHE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/2XvHkO3kjHE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/2XvHkO3kjHE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/2XvHkO3kjHE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "The fantastic Brick family returns now with a promise of a better life for all. Let's welcome back the Bricks.\n\nOoh child, things are gonna get easier\nOoh child, things'll get brighter\nOoh child, things are gonna get easier\nOoh child, things'll get brighter\n\nSomeday, yeah, we'll put it together and we'll get it undone\nSomeday when your head is much lighter\nSomeday, yeah, we'll walk in the rays of a beautiful sun\nSomeday when the world is much brighter\n\nOoh child, things are gonna be easier\nOoh child, things'll be brighter\nOoh child, things are gonna be easier\nOoh child, things'll be brighter\n\nSomeday, yeah, we'll put it together and we'll get it undone\nSomeday, yeah\nSomeday, yeah, we'll walk in the rays of a beautiful sun\nSomeday when the world is much brighter\n\nLa la la la la la la la la\nLa la la la la la la la la\nLa la la la la la la la la\nLa la la la la la la la la\n\nSomeday, someday, someday, we'll get it done, yeah\nSomeday, yeah\nSomeday, someday, someday, walk in the rays of a beautiful sun\nSomeday... brighter\n\nOoh child, things are gonna get easier\nOoh child, things'll get brighter\nOoh child, things are gonna get easier\nOoh child, things'll get brighter\n\nRight now\nRight now\nOh baby\nAnd you just wait and see\nAnd things are gonna be\nIf you just wait and see\nAnd things are gonna be\nRight now\nIf you just wait and see\nRight now"
+  },
+  "metadata": {
+    "youtube_id": "2XvHkO3kjHE",
+    "title_extracted": null,
+    "corpus_id": "2XvHkO3kjHE",
+    "uploader": "Our Nostalgic Memories",
+    "audio_file": "corpus/01_music_videos_audio/audio/2XvHkO3kjHE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6270580,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 26.892564,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:31:35Z"
+  },
+  "status": "success",
+  "error": null
+}

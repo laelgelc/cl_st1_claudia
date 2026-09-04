@@ -1,0 +1,38 @@
+{
+  "corpus_id": "HuS5NuXRb5Y",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/HuS5NuXRb5Y.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/HuS5NuXRb5Y.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/HuS5NuXRb5Y.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Ah, look at all the lonely people Ah, look at all the lonely people Eleanor Rigby picks up the rice in the church where a wedding has been Lives in a dream Waits at the window Wearing the face that she keeps in a jar by the door Who is it for? All the lonely people Where do they all come from? All the lonely people Where do they all belong? Father McKenzie Writing the words of a sermon that no one will hear No one comes near Look at him working Darning his socks in the night when there's nobody there What does he care? All the lonely people Where do they all come from? All the lonely people Where do they all belong? Ah, look at all the lonely people Ah, look at all the lonely people Eleanor Rigby Died in the church and was buried along with her name Nobody came Father McKenzie Wiping the dirt from his hands as he walks from the grave No one was saved All the lonely people (Ah, look at all the lonely people) Where do they all come from? All the lonely people (Ah, look at all the lonely people) Where do they all belong?"
+  },
+  "metadata": {
+    "youtube_id": "HuS5NuXRb5Y",
+    "title_extracted": null,
+    "corpus_id": "HuS5NuXRb5Y",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/HuS5NuXRb5Y.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4204190,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.892556,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:19:41Z"
+  },
+  "status": "success",
+  "error": null
+}

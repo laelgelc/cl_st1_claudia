@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Ee_uujKuJMI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Ee_uujKuJMI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Ee_uujKuJMI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Ee_uujKuJMI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Don't wanna be an American idiot\nDon't wanna nation under the new media\nAnd can you hear the sound of hysteria?\nThe subliminal mindfuck America\n\nWelcome to a new kind of tension\nAll across the alien nation\nWhere everything isn't meant to be okay\nTelevision dreams of tomorrow\nWe're not the ones who are meant to follow\nFor that's enough to argue\n\nWell, maybe I'm the faggot America\nI'm not a part of a redneck agenda\nNow everybody, do the propaganda\nAnd sing along to the age of paranoia\n\nWelcome to a new kind of tension\nAll across the alien nation\nWhere everything isn't meant to be okay\nTelevision dreams of tomorrow\nWe're not the ones who are meant to follow\nFor that's enough to argue\n\nDon't wanna be an American idiot\nOne nation controlled by the media\nInformation age of hysteria\nIt's calling out to idiot America\n\nWelcome to a new kind of tension\nAll across the alien nation\nWhere everything isn't meant to be okay\nTelevision dreams of tomorrow\nWe're not the ones who are meant to follow\nFor that's enough to argue"
+  },
+  "metadata": {
+    "youtube_id": "Ee_uujKuJMI",
+    "title_extracted": null,
+    "corpus_id": "Ee_uujKuJMI",
+    "uploader": "Green Day",
+    "audio_file": "corpus/01_music_videos_audio/audio/Ee_uujKuJMI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5806182,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 23.841223,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:15:38Z"
+  },
+  "status": "success",
+  "error": null
+}

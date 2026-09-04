@@ -1,0 +1,38 @@
+{
+  "corpus_id": "IhHBr7nMMio",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/IhHBr7nMMio.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/IhHBr7nMMio.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/IhHBr7nMMio.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Uh-huh Yeah I know a place Ain't nobody crying Ain't nobody worried No Ain't no smiling faces Mm-mm. No, no. Lying to the races Help me Come on Come on Somebody help me now I'll take you there Help me, y'all I'll take you there Help me now I'll take you there Oh! I'll take you there Oh, oh! Mercy! I'll take you there Oh, let me take you now I'll take you there Oh, oh! Let me take you there I'll take you there Play your Play your piano now All right Uh Do it Do it Come on, now Play on it. Play on it. Play, Daddy, now Daddy Daddy, Daddy Play Oh, no All right, now David Little David Easy now Help me out Come on, Little David All right Smooth and funky Oh, oh I know a place, y'all I'll take you there Ain't nobody crying I'll take you there Ain't nobody worried, y'all I'll take you there No smiling faces I'll take you there Lying to the races I'll take you there No, no Oh! I'll take you there Oh, oh! I'll take you there Mercy, now I'm calling, calling, calling mercy I'll take you there Mercy, mercy I'll take you there You got, you got, you got to let me, let me I'll take you there Take you, take you over there I'll take you there Oh"
+  },
+  "metadata": {
+    "youtube_id": "IhHBr7nMMio",
+    "title_extracted": null,
+    "corpus_id": "IhHBr7nMMio",
+    "uploader": "Stax Records",
+    "audio_file": "corpus/01_music_videos_audio/audio/IhHBr7nMMio.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6225998,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.888447,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:53:48Z"
+  },
+  "status": "success",
+  "error": null
+}

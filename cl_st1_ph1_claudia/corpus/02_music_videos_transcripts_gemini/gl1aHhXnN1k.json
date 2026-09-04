@@ -1,0 +1,38 @@
+{
+  "corpus_id": "gl1aHhXnN1k",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/gl1aHhXnN1k.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/gl1aHhXnN1k.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/gl1aHhXnN1k.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "One time on Twitter I heard Ariana was pregnant, so I got pregnant so we could be pregnant at the same time. Turns out it was just a rumor. Ariana Grande told me my hair looked sexy pushed back. She's not wrong. Ariana broke off an engagement, so I found a guy to propose to me and I broke off an engagement. I heard she's a lesbian now and dating some chick called Aubrey. It's fucking sick. I heard if you record her snoring and play it backwards, it sounds like Fantasia. Ariana says, \"Honest to God, knock me out.\" So I decided to punch myself in the face. It was awesome. Thought I'd end up with Sean But he wasn't a match Wrote some songs about Ricky Now I listen and laugh Even almost got married And for Pete, I'm so thankful Wish I could say, \"Thank you\" to Malcolm 'Cause he was an angel One taught me love One taught me patience And one taught me pain Now, I'm so amazing I've loved and I've lost But that's not what I see So, look what I got Look what you taught me And for that, I say Thank you, next Next Thank you, next Next Thank you, next I'm so fucking grateful for my ex Thank you, next Next Thank you, next Next Thank you, next I'm so fucking... Spend more time with my friends I worry 'bout nothing Plus, I met someone else We havin' better discussions I know they say I move on too fast But this one gon' last 'Cause her name is Ari And I'm so good with that So good with that She taught me love She taught me patience And she handles pain That shit's amazing I've loved and I've lost Yeah, yeah But that's not what I see Yeah, yeah Look what I've found Yeah, yeah Ain't no need for searching And for that, I say Thank you, next Next Thank you, next Next Thank you, next I'm so fucking grateful for my ex Thank you, next Next Thank you, next Next Thank you, next I'm so fucking grateful for my ex Thank you, next Thank you, next Thank you, next I'm so fucking... One day I'll walk down the aisle Holding hands with my mama I'll be thanking my dad 'Cause she grew from the drama Only wanna do it once, real bad Gon' make that shit last God forbid something happens Least this song is a smash Song is a smash I've got so much love Got so much patience Learned from the pain Turns out amazing Turns out amazing I've loved and I've lost Yeah, yeah But that's not what I see Yeah, yeah Look what I've found Yeah, yeah Ain't no need for searching I mean, he was really cute, you know? He was really cute. Yeah. And it was... it was really big. Well, I've only gone out with one guy that had a big front tooth, and I liked it because it... he never got anything stuck in the front teeth. But have you ever gone out with someone that had no teeth at all? No. And got so much love Got so much patience Learned from the pain Turns out amazing Turns out amazing Love and I've lost That's not what I see Look what I found Ain't no need for searching And for that, I say Thank you, next Next Thank you, next Next Thank you, next Next I'm so fucking grateful for my ex Thank you, next Next Thank you, next Next Thank you, next Next I'm so fucking grateful for my ex Thank you, next Next Thank you, next Next Thank you, next Next I'm so fucking grateful for my ex Thank you, next Thank you, next Thank you, next Yeah, yeah Thank you, next Thank you, next Thank you, next Yeah, yeah Thank you, next, bitch!"
+  },
+  "metadata": {
+    "youtube_id": "gl1aHhXnN1k",
+    "title_extracted": null,
+    "corpus_id": "gl1aHhXnN1k",
+    "uploader": "Ariana Grande",
+    "audio_file": "corpus/01_music_videos_audio/audio/gl1aHhXnN1k.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10577976,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.08591,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:07:20Z"
+  },
+  "status": "success",
+  "error": null
+}

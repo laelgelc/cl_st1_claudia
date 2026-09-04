@@ -1,0 +1,38 @@
+{
+  "corpus_id": "vk6014HuxcE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/vk6014HuxcE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/vk6014HuxcE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/vk6014HuxcE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Yeah. Yeah, I'm up at Brooklyn, now I'm down in Tribeca, right next to De Niro, but I'll be hood forever. I'm the new Sinatra, and since I made it here, I can make it anywhere, yeah, they love me everywhere. I used to cop in Harlem, all of my Dominicanos right there on Broadway, brought me back to that McDonald's, took it to my stash spot, 560 State Street, catch me in the kitchen like a Simmons whipping pastry. Cruising down 8th Street, off-white Lexus, driving so slow, but BK is from Texas. Me, I'm up at Bed-Stuy, home of that boy Biggie, now I live on Billboard, and I brought my boys with me. Say what up to Ty Ty, still sipping Mai Tais, sitting courtside, Knicks and Nets give me high fives. I be spiked out, I could trip a referee, tell by my attitude that I'm most definitely from New York, concrete jungle where dreams are made of, there's nothing you can't do, now you're in New York. These streets will make you feel brand new, big lights will inspire you, let's hear it for New York, New York, New York. Welcome, OG. Yeah, I made you hot. Catch me at the X with OG, yeah, at the Yankee game. I made the Yankee hat more famous than a Yankee can. You should know I bleed blue, but I ain't a Crip, though, but I got a gang of walking with my clique, though. Welcome to the melting pot, corners where we selling, Africa Bambaataa, home of the hip hop. Yellow cab, Gypsy cab, dollar cab, holla back. For foreigners, it ain't fair, they act like they forgot how to add. Eight million stories out there in the naked, city, it's a pity, half of y'all won't make it. Me, I got a plug, special where I got it made, if Jesus paying LeBron, I'm paying Dwyane Wade. 3 Dice Cee-Lo, 3 Card Molly, Labor Day Parade, rest in peace Bob Marley. Statue of Liberty, long live the World Trade, long live the King, yo, I'm from the Empire State, that's New York, concrete jungle where dreams are made of, there's nothing you can't do, now you're in New York. These streets will make you feel brand new, big lights will inspire you, let's hear it for New York, New York, New York. Lights is blinding, girls need blinders, so they can step out of bounds quick, the sidelines is lined with casualties, who sipping the life casually, then gradually become worse, don't bite the Apple, Eve. Caught up in the in-crowd, now you're in-style, end of the winter gets cold, in Vogue with your skin out. City of Sin, it's a pity on the whim, good girls gone bad, the city's filled with them. Mommy took a bus trip, now she got a bus pass, everybody ride her, just like a bus pass. Hail Mary to the city, you're a virgin, and Jesus can't save you, life starts when the church end. Came here for school, graduated to the high life, ballplayers, rap stars, addicted to the limelight. MDMA got you feeling like a champion, the city never sleeps, better slip you a Ambien. In New York, concrete jungle where dreams are made of, there's nothing you can't do, now you're in New York. These streets will make you feel brand new, big lights will inspire you, let's hear it for New York, New York, New York. One hand in the air for the big city, street lights, big dreams, all looking pretty. No place in the world that can compare, put your lighters in the air, everybody say yeah, yeah, yeah, yeah. In New York, concrete jungle where dreams are made of, there's nothing you can't do, now you're in New York. These streets will make you feel brand new, big lights will inspire you, let's hear it for New York, New York, New York."
+  },
+  "metadata": {
+    "youtube_id": "vk6014HuxcE",
+    "title_extracted": null,
+    "corpus_id": "vk6014HuxcE",
+    "uploader": "JAŸ-Z",
+    "audio_file": "corpus/01_music_videos_audio/audio/vk6014HuxcE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9020566,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.949003,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:53:53Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "QxRiwnmYjMg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/QxRiwnmYjMg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/QxRiwnmYjMg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/QxRiwnmYjMg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Broadcasting to you live from the So So Def beach party! This is Ski Rock! If you didn't come to the throw down in the A-Town, I guess I'll see you round, but right now I'm gonna get into the number one most requested record from the Ghost Town. Right now it's called My Boo!  Boy, you should know that I've got you on my mind. Your secret admirer, I've been watching you. At night I think of you. I want to be your lady, baby. If your game is on, give me a call, boo. If your love is strong, I'm gonna give my all to you. At night I think of you. I want to be your lady, baby. If your game is on, give me a call, boo. If your love is strong, I'm gonna give my all to you. Every day I pray my heart can win. Every night I pray I can call you my man. Yeah, yeah, yeah. I need you. I want you to have you, hold you, squeeze you. So I'm going out every weekend just to see my boo again. At night I think of you. I want to be your lady, baby. If your game is on, give me a call, boo. If your love is strong, I'm gonna give my all to you. At night I think of you. I want to be your lady, baby. If your game is on, give me a call, boo. If your love is strong, I'm gonna give my all to you. These feelings I have for you can go deeper if you can come correct with your game, boy. No, no, you can't be lame, boy. But if you can please me, then my love will come easy. I'll do anything you want. Freak me, boy, I'm thinking of you. At night I think of you. I want to be your lady, baby. If your game is on, give me a call, boo. If your love is strong, I'm gonna give my all to you. At night I think of you. I want to be your lady, baby. If your game is on, give me a call, boo. If your love is strong, I'm gonna give my all to you. Boy, you've got all I need from what I see. And boy, every night I am constantly thinking of you."
+  },
+  "metadata": {
+    "youtube_id": "QxRiwnmYjMg",
+    "title_extracted": null,
+    "corpus_id": "QxRiwnmYjMg",
+    "uploader": "GhostownDJsVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/QxRiwnmYjMg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6711202,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.134274,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:05:43Z"
+  },
+  "status": "success",
+  "error": null
+}

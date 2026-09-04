@@ -1,0 +1,38 @@
+{
+  "corpus_id": "LuN6gs0AJls",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/LuN6gs0AJls.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/LuN6gs0AJls.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/LuN6gs0AJls.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Moving forward using all my breath Making love to you was never second best I saw the world rushing all around your face Never really knowing it was always mesh and lace I'll stop the world and melt with you You've seen the difference and it's getting better all the time There's nothing you and I won't do I'll stop the world and melt with you Dream of better lives, the kind which never hate Trapped in a state of imaginary grace I made a pilgrimage to save this human race Never comprehending the race that's long gone by I'll stop the world and melt with you You've seen the difference and it's getting better all the time There's nothing you and I won't do I'll stop the world and melt with you The future's open wide I'll stop the world and melt with you I've seen some changes, but it's getting better all the time There's nothing you and I won't do I'll stop the world and melt with you The future's open wide I'll stop the world and melt with you You've seen the difference and it's getting better all the time There's nothing you and I won't do I'll stop the world and melt with you I'll stop the world and melt with you I'll stop the world and melt with you I'll stop the world and melt with you"
+  },
+  "metadata": {
+    "youtube_id": "LuN6gs0AJls",
+    "title_extracted": null,
+    "corpus_id": "LuN6gs0AJls",
+    "uploader": "4AD",
+    "audio_file": "corpus/01_music_videos_audio/audio/LuN6gs0AJls.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7287800,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.322706,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:22:05Z"
+  },
+  "status": "success",
+  "error": null
+}

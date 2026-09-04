@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Tszq-LVyuN8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Tszq-LVyuN8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Tszq-LVyuN8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Tszq-LVyuN8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "One of these nights One of these crazy old nights We're gonna find out for the long run What's on your mind The full moon is calling, the fever is high And the wicked wind whispers and moans You got your demons, and you got desires But I got a few of my own Ooh, someone to be kind to in between the dark and the light Ooh, coming right behind you, swear I'm gonna find you one of these nights One of these dreams One of these lost and lonely dreams, yeah We're gonna find one Ooh, one that'll make you scream I've been searching for the daughter of the devil himself I've been searching for an angel in white I've been waiting for a woman who's a little of both And I can feel her, but she's nowhere in sight Ooh, loneliness will blind you in between the dark and the light Ooh, coming right behind you, swear I'm gonna find you one of these nights One of these nights Ooh, in between the dark and the light Coming right behind you, swear I'm gonna find you, get you, baby, one of these nights One of these nights Ooh, ooh, ooh One of these nights Ah, I can feel it I can feel it One of these nights Sad to say Ah, yeah One of these nights Oh, one of these crazy, crazy, crazy nights One of these nights"
+  },
+  "metadata": {
+    "youtube_id": "Tszq-LVyuN8",
+    "title_extracted": null,
+    "corpus_id": "Tszq-LVyuN8",
+    "uploader": "Eagles",
+    "audio_file": "corpus/01_music_videos_audio/audio/Tszq-LVyuN8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7414860,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.64654,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:40:28Z"
+  },
+  "status": "success",
+  "error": null
+}

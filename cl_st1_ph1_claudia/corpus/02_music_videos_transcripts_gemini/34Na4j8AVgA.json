@@ -1,0 +1,38 @@
+{
+  "corpus_id": "34Na4j8AVgA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/34Na4j8AVgA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/34Na4j8AVgA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/34Na4j8AVgA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I'm tryna put you in the worst mood, ah P1 cleaner than your church shoes, ah Milli point two just to hurt you, ah All red Lamb' just to tease you, ah None of these toys on lease to, ah Made your whole year in a week too, ah Main bitch out your league too, ah Side bitch out of your league too, ah House so empty, need a centerpiece 20 racks a table cut from Ebony Cut that ivory into skinny pieces Then she clean it with her face, man, I love my baby, ah You talkin' money, need a hearing aid You talkin' 'bout me, I don't see the shade Switch up my side, hide the Kenny Lame, ah Switch up my code, I can't feel no pain Look what you've done I'm a motherfuckin' Starboy Look what you've done I'm a motherfuckin' Starboy Every day a nigga try to test me, ah Every day a nigga try to end me, ah Pull off in the Roadster SV, ah Pockets overweight, getting hefty, ah Coming for the king, that's a far cry, ah I come alive in the fall time The competition, I don't really listen I'm in the Blue Mulsanne bumping New Edition House so empty, need a centerpiece 20 racks a table cut from Ebony Cut that ivory into skinny pieces Then she clean it with her face, man, I love my baby You talkin' money, need a hearing aid You talkin' 'bout me, I don't see the shade Switch up my side, hide the Kenny Lame Switch up my code, I can't feel no pain Look what you've done I'm a motherfuckin' Starboy Look what you've done I'm a motherfuckin' Starboy Let a nigga brag, kid, let a nigga brag Took the year like a bandit Bought my mama a crib and a brand new Wagon Now she hit the grocery shop lookin' lavish Star Trek roof in the Wraith, the con Girls get loose when they hear the song 100 on the dash, give me close to God We don't pray for love, we just pray for cars House so empty, need a centerpiece 20 racks a table cut from Ebony Cut that ivory into skinny pieces Then she clean it with her face, man, I love my baby You talkin' money, need a hearing aid You talkin' 'bout me, I don't see the shade Switch up my side, hide the Kenny Lame Switch up my code, I can't feel no pain Look what you've done I'm a motherfuckin' Starboy Look what you've done I'm a motherfuckin' Starboy Look what you've done I'm a motherfuckin' Starboy Look what you've done I'm a motherfuckin' Starboy"
+  },
+  "metadata": {
+    "youtube_id": "34Na4j8AVgA",
+    "title_extracted": null,
+    "corpus_id": "34Na4j8AVgA",
+    "uploader": "The Weeknd",
+    "audio_file": "corpus/01_music_videos_audio/audio/34Na4j8AVgA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8746386,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.443616,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:20:20Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "d73tiBBzvFM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/d73tiBBzvFM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/d73tiBBzvFM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/d73tiBBzvFM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "She leads a lonely life Mmm, she leads a lonely life When she woke up late in the morning light And the day had just begun She opened her eyes and thought \"Oh, what a morning\" It's not a day for work It's a day for catching tan Just lying on the beach and having fun She's gonna get ya All that she wants is another baby She's gone tomorrow, boy All that she wants is another baby, yeah All that she wants is another baby She's gone tomorrow, boy All that she wants is another baby, yeah All that she wants All that she wants So if you are in sight and the day is right She's a hunter, you're the fox The gentle voice that talks to you Won't talk forever It is a night for passion But the morning means goodbye Beware of what is flashing in her eyes She's gonna get ya All that she wants is another baby She's gone tomorrow, boy All that she wants is another baby, yeah All that she wants is another baby She's gone tomorrow, boy All that she wants is another baby, yeah Baby, yeah Oh Oh All that she wants is another baby She's gone tomorrow, boy All that she wants is another baby, yeah All that she wants is another baby She's gone tomorrow, boy All that she wants is another baby, yeah All that she wants All that she wants"
+  },
+  "metadata": {
+    "youtube_id": "d73tiBBzvFM",
+    "title_extracted": null,
+    "corpus_id": "d73tiBBzvFM",
+    "uploader": "Ace of Base",
+    "audio_file": "corpus/01_music_videos_audio/audio/d73tiBBzvFM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6832318,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.649234,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:53:16Z"
+  },
+  "status": "success",
+  "error": null
+}

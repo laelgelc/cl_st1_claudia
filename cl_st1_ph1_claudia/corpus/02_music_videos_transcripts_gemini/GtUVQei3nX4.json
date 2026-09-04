@@ -1,0 +1,38 @@
+{
+  "corpus_id": "GtUVQei3nX4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/GtUVQei3nX4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/GtUVQei3nX4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/GtUVQei3nX4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Snoop Snoop When the pimp's in the crib, ma Drop it like it's hot, drop it like it's hot, drop it like it's hot When the pigs try to get at you Park it like it's hot, park it like it's hot, park it like it's hot And if a nigga get an attitude Pop it like it's hot, pop it like it's hot, pop it like it's hot I got the Rolli on my arm and I'm pourin' Chandon And I roll the best weed cause I got it goin' on I'm a nice dude, with some nice dreams See these Ice Cubes, see these Ice Creams Eligible bachelor, million-dollar boat That's whiter than what's in your throat The Phantom, exterior like fish scale The interior like Bruce Wayne's cave I can exercise you, this could be your P.E. Cheat on your man, ma, that's how you get an A Kill it with the B, I know killers in the street With the steel that make you feel like you chillin' in the heat So don't try to run up on my ear talking all that raspy Tryna ask me where my nigga Pharrell got his chain, gon' pass me You should think about it, take a second Matter of fact, you should take four, B And think before you fuck with a little skateboard P When the pimp's in the crib, ma Drop it like it's hot, drop it like it's hot, drop it like it's hot When the pigs try to get at you Park it like it's hot, park it like it's hot, park it like it's hot And if a nigga get an attitude Pop it like it's hot, pop it like it's hot, pop it like it's hot I got the Rolli on my arm and I'm pourin' Chandon And I roll the best weed cause I got it goin' on I'm a gangsta, but y'all knew that Da Big Boss Dogg, yeah, I had to do that I keep a blue flag hanging out my backside But only on the left side, yeah, that's the Crip side Ain't no other way to play the game the way I play I cut so much, you thought I was a DJ Two, one, yep, three S-N-O-O-P, D-O-Double-G I can't fake it, just break it, in one I take it See, I specialize in making all the girls get naked So bring your friends, all of y'all come inside We got a world premiere right here, now get live So don't change the dizzle, turn it up a little I got a living room full of fine dime bizzles Waiting on the sizzle, the dizzle and the shizzle G's to the bizzac, now ladies, we gizzle When the pimp's in the crib, ma Drop it like it's hot, drop it like it's hot, drop it like it's hot When the pigs try to get at you Park it like it's hot, park it like it's hot, park it like it's hot And if a nigga get an attitude Pop it like it's hot, pop it like it's hot, pop it like it's hot I got the Rolli on my arm and I'm pourin' Chandon And I roll the best weed cause I got it goin' on I'm a bad boy with a lot of Drive my own cars and wear my own clothes I hang out tough, I'm a real boss Big Snoop Dogg, yeah, he's so sharp On the TV screen and in the magazines If you pay me close, you wanna Oh, you got a, so you wanna back Then now, stop that Shoes, now I'm on the move Your family's crying, now you on the news They can't find you and now they miss you Must I remind you I'm only here to twist you With you, dip you, then flip you, then dance to the music we to Subscribe, get your issue Baby, come close, let me see how you get loose When the pimp's in the crib, ma Drop it like it's hot, drop it like it's hot, drop it like it's hot When the pigs try to get at you Park it like it's hot, park it like it's hot, park it like it's hot And if a nigga get an attitude Pop it like it's hot, pop it like it's hot, pop it like it's hot I got the Rolli on my arm and I'm pourin' Chandon And I roll the best weed cause I got it goin' on Snoop Snoop Snoop"
+  },
+  "metadata": {
+    "youtube_id": "GtUVQei3nX4",
+    "title_extracted": null,
+    "corpus_id": "GtUVQei3nX4",
+    "uploader": "SnoopDoggTV",
+    "audio_file": "corpus/01_music_videos_audio/audio/GtUVQei3nX4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8420934,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.431172,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:31:09Z"
+  },
+  "status": "success",
+  "error": null
+}

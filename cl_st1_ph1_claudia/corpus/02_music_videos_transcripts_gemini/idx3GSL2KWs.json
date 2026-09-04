@@ -1,0 +1,38 @@
+{
+  "corpus_id": "idx3GSL2KWs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/idx3GSL2KWs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/idx3GSL2KWs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/idx3GSL2KWs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Arm me with harmony. Yeah, drop a load on 'em! O.P.P., how can I explain it? I'll take you frame by frame it. As a matter of fact, jump and shout and say it. O is for other, P is for people's, scratchin' your temple. The last P, well, that's not that simple. This side of town or another way to call it, cat or kitten. It's five little letters that are missing, yeah. You get it on occasion if the other party is in came in. It seems I got to start to explain it, bust it. You ever had a girl and met her on a nice hello? You get her name and number, then you left feeling real low. You get home, waiting days, she's what you wanna know about. Then you call up and it's her boyfriend's or her cousin's house? It's not a front, after the O, to the P, to the entity. It's just her boyfriend's at her house. Oh, that's what she's getting at. It's O.P.P., time other people's, what, you get it? There's no room for relationships, there's just room to hit it. How many brothers out there know just what I'm getting at? Who think it's wrong 'cause I was splitting it and hitting at? Well, if you do, that's O.P.P. and you're not down with it. But if you don't, here's your membership. You down with O.P.P.? Yeah, you know me! You down with O.P.P.? Yeah, you know me! You down with O.P.P.? Yeah, you know me! Who's down with O.P.P.? Every homie! You down with O.P.P.? Yeah, you know me! You down with O.P.P.? Yeah, you know me! You down with O.P.P.? Yeah, you know me! Who's down with O.P.P.? All the homies! Now, for the ladies, O.P.P. means something different. The first two letters the same, but the last is something different. It's the longest, loveliest, leanest, I call it the leanest. It's another five-letter word rhymin' with cleanest and meanest. I won't get into that, I'll do it uh sort of properly. I say the last P, hmm, stands for property. Now, lady, here comes a kiss, blow a kiss back to me. Now tell me exactly, have you ever known a brother who had another like a girl or wife? And you just had to stop her, cause he looked just that nice? You looked at him, he looked at you, and you knew right away. He had someone, but he was gonna be yours anyway. You couldn't be seen with him at all, and still you didn't care. Cause in the room behind the door, no one but y'all are there. When y'all are finished, y'all can leave and only y'all would know. And y'all can throw that skeleton right in the closet, yo. Now don't be shocked, cause if you're down, I want your hands up high. Say O.P.P. (O.P.P.!) I like to say it with pride. Now when you do it, do it well, and make sure that it counts. You're now down with a discount! You down with O.P.P.? Yeah, you know me! You down with O.P.P.? Yeah, you know me! You down with O.P.P.? Yeah, you know me! Who's down with O.P.P.? Every last lady! You down with O.P.P.? Yeah, you know me! You down with O.P.P.? Yeah, you know me! You down with O.P.P.? Yeah, you know me! Who's down with O.P.P.? All the ladies! A girl tried to O.P.P. me. I had a girl, and she knew that. Matter of fact, her and my girl was partners, that had a fall-out, disagreement, yeah, an argument. She tried to do me, so we did it in my apartment, bust it. That wasn't a thing, it must have been the way she hit the ceiling. Cause after that, she kept on coming back and catching feelings. I said, \"Look, my girl is coming, so you got to leave.\" She said, \"Oh no, I love you, Treach.\" I said, \"Now, child, please. You got to leave, come grab your coat right now, you got to go.\" I said, \"Now look, you choose to stay, then choose to stay in window.\" This was a thing, a little thing, you shouldn't pour your heart. Cause you knew I was O.P.P. hell from the very start. Come on, come on, now, let me tell you what it's all about. When you get down, you can't go around running off at the mouth. That's rule number one in this O.P.P. establishment. You keep your mouth shut, and it won't get back to her or him. Exciting, isn't it? A special kind of business. Many of you will catch the same sort of O.P.P. fever with him or her, for sure, I'm going to admit it. When O.P.P. comes, damn skippy, I'm with it! You down with O.P.P.? Yeah, you know me! You down with O.P.P.? Yeah, you know me! You down with O.P.P.? Yeah, you know me! Who's down with O.P.P.? This whole party! You down with O.P.P.? Yeah, you know me! You down with O.P.P.? Yeah, you know me! You down with O.P.P.? Yeah, you know me! Who's down with O.P.P.? Break it down!"
+  },
+  "metadata": {
+    "youtube_id": "idx3GSL2KWs",
+    "title_extracted": null,
+    "corpus_id": "idx3GSL2KWs",
+    "uploader": "Tommy Boy",
+    "audio_file": "corpus/01_music_videos_audio/audio/idx3GSL2KWs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8525702,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.714612,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:59:32Z"
+  },
+  "status": "success",
+  "error": null
+}

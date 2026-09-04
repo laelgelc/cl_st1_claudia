@@ -1,0 +1,38 @@
+{
+  "corpus_id": "FOoxcQjaKek",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/FOoxcQjaKek.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/FOoxcQjaKek.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/FOoxcQjaKek.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Pretty women, they're walking with gorillas down my street From my window I'm staring while my coffee goes cold Look over there (Where?) there's a lady that I used to know She's married now, or engaged, or something so I'm told Is she really going out with him? Is she really gonna take him home tonight? Is she really going out with him 'cause if my eyes don't deceive me, there's something going wrong around here Tonight's the night when I go to all the parties down my street I wash my hair and I kid myself I look real smooth Look over there (Where?) Here comes Jeanie with her new boyfriend They say that looks don't count for much, so there goes your proof Is she really going out with him? Is she really gonna take him home tonight? Is she really going out with him 'cause if my eyes don't deceive me, there's something going wrong around here Around here But if looks could kill, there's a man there who's marked down as dead 'Cause I've had my fill, listen, you, take your hands off her head I get so mean around the scene Hey, hey, hey Is she really going out with him? Is she really gonna take him home tonight? Is she really going out with him 'cause if my eyes don't deceive me, there's something"
+  },
+  "metadata": {
+    "youtube_id": "FOoxcQjaKek",
+    "title_extracted": null,
+    "corpus_id": "FOoxcQjaKek",
+    "uploader": "АП",
+    "audio_file": "corpus/01_music_videos_audio/audio/FOoxcQjaKek.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6034294,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.362947,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:24:13Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "C-Naa1HXeDQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/C-Naa1HXeDQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/C-Naa1HXeDQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/C-Naa1HXeDQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "She said it's cold outside and she hands me a raincoat. She's always worried about things like that. She said it's all gonna end, and it might as well be my fault. And she only sleeps when it's raining, and she screams, and her voice is strain. She says, baby, it's 3:00 AM, I must be lonely. She says, baby, well I can't help but be scared of it all sometimes, and the rain's gonna wash away I believe this. She's got a little bit of something, got it's better than nothing. And in her color portrait, well, she believes that she's got it all, oh. She swears the moon don't hang quite as high as it used to. And she only sleeps when it's raining, and she screams, and her voice is strain. She says, baby, it's 3:00 AM, I must be lonely. Well, heaven she says, baby, well I can't help but be scared of it all sometimes, and the rain's gonna wash away I believe this. She believes that life is made up of all that she's used to. And the clock on the wall has been stuck at three for days and days. She thinks that happiness is a mat that sits on her doorway. But outside it's stopped raining. And she says, baby, well it's 3:00 AM, I must be lonely. Well, heaven she says, baby, well I can't help but be scared of it all sometimes, and the rain's gonna wash away I believe this. Well, it's 3:00 AM, I must be lonely. Well, heaven she says, baby, well I can't help but be scared of it all sometimes."
+  },
+  "metadata": {
+    "youtube_id": "C-Naa1HXeDQ",
+    "title_extracted": null,
+    "corpus_id": "C-Naa1HXeDQ",
+    "uploader": "Matchbox Twenty",
+    "audio_file": "corpus/01_music_videos_audio/audio/C-Naa1HXeDQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7265510,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.294993,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:42:19Z"
+  },
+  "status": "success",
+  "error": null
+}

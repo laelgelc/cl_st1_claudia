@@ -1,0 +1,38 @@
+{
+  "corpus_id": "K6qj09OHvjw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/K6qj09OHvjw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/K6qj09OHvjw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/K6qj09OHvjw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "So, so you think you can tell Heaven from hell? Blue skies from pain? Can you tell a green field From a cold steel rail? A smile from a veil? Do you think you can tell? Did they get you to trade Your heroes for ghosts? Hot ashes for trees? Hot air for a cool breeze? Cold comfort for change? Did you exchange A walk-on part in the war For a lead role in a cage? How I wish, how I wish you were here. We're just two lost souls swimming in a fish bowl, year after year, Running over the same old ground, And have we found the same old fears? Wish you were here."
+  },
+  "metadata": {
+    "youtube_id": "K6qj09OHvjw",
+    "title_extracted": null,
+    "corpus_id": "K6qj09OHvjw",
+    "uploader": "Pink Floyd",
+    "audio_file": "corpus/01_music_videos_audio/audio/K6qj09OHvjw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10875190,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.95142,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:45:55Z"
+  },
+  "status": "success",
+  "error": null
+}

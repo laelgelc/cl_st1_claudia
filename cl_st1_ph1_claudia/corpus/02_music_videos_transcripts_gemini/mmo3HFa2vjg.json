@@ -1,0 +1,38 @@
+{
+  "corpus_id": "mmo3HFa2vjg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/mmo3HFa2vjg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/mmo3HFa2vjg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/mmo3HFa2vjg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Playback!\n\n1, 2, 3...\n\n1989 a number, another summer (Get down!)\nSound of the funky drummer\nMusic hitting your heart, cause I know you got soul\n(Brothers and sisters, hey!)\nListen if you're missing y'all\nSwinging while I'm singing\nGiving what you're getting\nKnowing what I know mental while I'm Black band sweating\nIn the rhythm rhymes rolling\nGot to give us what we want\nGot to give us what we need\nOur freedom of speech is freedom of death\nWe got to fight the powers that be\n\nFight the power!\nFight the power!\nFight the power!\nFight the power!\nFight the power!\nFight the power!\nFight the power!\nWe got to fight the powers that be\n\nAs the rhythm's designed to bounce what you spell\nDesigned to fill your mind now that you realize the pride's arrived\nWe got to pump the stuff to make it tough\nFrom the heart, it's a start, a work of art\nTo revolutionize, make a change, something strange\nPeople, people, we are the same\nNo, we're not the same 'cause we don't know the game\nWhat we need is awareness, we can't get careless\nYou say, \"What is this?\"\nMy beloved, let's get down to business\nMental self-defense fitness\n(Don't rush the show)\nTo make everybody see\nIn order to fight the powers that be\n\nFight the power!\nFight the power!\nFight the power!\nFight the power!\nFight the power!\nFight the power!\nFight the power!\nWe got to fight the powers that be\n\nFight the power!\nFight the power!\nFight the power!\nFight the power!\nFight the power!\nFight the power!\nFight the power!\nWe got to fight the powers that be\n\nElvis was a hero to most\nBut he never meant shit to me, you see\nStraight up racist, the sucker was simple and plain\nMotherfuck him and John Wayne\n'Cause I'm Black and I'm proud\nI'm ready and hype 'cause I'm amped\nMost of my heroes don't appear on no stamps\nSample a look back, you look and find nothing but rednecks for 400 years if you check\n\"Don't Worry, Be Happy\"\nWas a number one jam\nDamn if I say it, you can slap me right here\nGet it, get this party started right\nRight on! Come on!\nWhat we got to say\nPower to the people, no delay\nMake everybody see\nIn order to fight the powers that be\n\nFight the power!\nFight the power!\nFight the power!\nFight the power!\nFight the power!\nFight the power!\nFight the power!\nWe got to fight the powers that be\n\nYo! Hey! Yo! Hey! Yo! Hey! Yo! Hey!\n\nDon't believe the hype!\nDon't believe the hype!\nDon't believe the hype!\nDon't believe the hype!\nCome on! Don't believe the hype!\nDon't believe the hype!\nFrom the house! Don't believe the hype!\nCome on! Don't believe the hype!\nShow 'em, Flavor! Don't believe the hype!\nFlavor's house! Don't believe the hype!\nDon't believe the hype!\nYeah boy! Don't believe the hype!\nCome on! Don't believe the hype!\nEverybody! Don't believe the hype!\nOkay, cut, cut, cut, cut!"
+  },
+  "metadata": {
+    "youtube_id": "mmo3HFa2vjg",
+    "title_extracted": null,
+    "corpus_id": "mmo3HFa2vjg",
+    "uploader": "Channel ZERO",
+    "audio_file": "corpus/01_music_videos_audio/audio/mmo3HFa2vjg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10190852,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.60093,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:26:43Z"
+  },
+  "status": "success",
+  "error": null
+}

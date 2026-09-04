@@ -1,0 +1,38 @@
+{
+  "corpus_id": "S_OX2HwWy-o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/S_OX2HwWy-o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/S_OX2HwWy-o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/S_OX2HwWy-o.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Coming to you on a dusty road Good loving I got a truck load And when you get it, you got something So don't worry 'cause I'm coming I'm a soul man Now, I'm a soul man I'm a soul man Now, I'm a soul man Got better y'all, that's what I got The hard way, and I'll make it better each and every day So honey, don't you fret 'Cause you ain't seen nothing yet I'm a soul man Oh, I'm a soul man Bless me, I'm a soul man Ha! I'm a soul man, oh I was brought up on a side street, listen now I learned how to love before I could eat I was educated, Woodstock When I started loving, oh, I can't stop I'm a soul man I'm a soul man I'm a soul man Yeah, I'm a soul man Look, grab the rope and I'll pull you in Give you hope and be your only boyfriend, yeah I'm coming up, I'm a soul man I'm a soul man You're a soul man, soul man Soul man, I'm a soul man You're a soul man, you're a soul man"
+  },
+  "metadata": {
+    "youtube_id": "S_OX2HwWy-o",
+    "title_extracted": null,
+    "corpus_id": "S_OX2HwWy-o",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/S_OX2HwWy-o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5083206,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 23.600663,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:22:29Z"
+  },
+  "status": "success",
+  "error": null
+}

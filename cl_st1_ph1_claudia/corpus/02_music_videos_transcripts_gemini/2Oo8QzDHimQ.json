@@ -1,0 +1,38 @@
+{
+  "corpus_id": "2Oo8QzDHimQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/2Oo8QzDHimQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/2Oo8QzDHimQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/2Oo8QzDHimQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Your turn! Alright! You better know this one. Well, we got no choice All you girls and boys Making all that noise Cause they've found new toys Well, we can't salute ya Can't find a flag that'll suit ya That's a drag School's out for summer I can't hear you! School's out forever School's been blown to pieces No more pencils, no more books Yeah! No more teacher's dirty looks Yeah! Well, we got no class And we got no principles We ain't got no intelligence We can't even think of a word that rhymes School's out for summer School's out forever School's been blown to pieces No more pencils, no more books Yeah! No more teacher's dirty looks Out for summer Out till fall We might not come back at all Everybody! School's out for summer Come on, let me hear ya! School's out forever Yeah! School's been blown to pieces My school is out completely! Thank you, Birmingham! Alright!"
+  },
+  "metadata": {
+    "youtube_id": "2Oo8QzDHimQ",
+    "title_extracted": null,
+    "corpus_id": "2Oo8QzDHimQ",
+    "uploader": "Official Alice Cooper",
+    "audio_file": "corpus/01_music_videos_audio/audio/2Oo8QzDHimQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8747872,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.105705,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:45:14Z"
+  },
+  "status": "success",
+  "error": null
+}

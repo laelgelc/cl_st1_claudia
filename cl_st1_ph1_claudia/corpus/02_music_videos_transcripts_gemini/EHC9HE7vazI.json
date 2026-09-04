@@ -1,0 +1,38 @@
+{
+  "corpus_id": "EHC9HE7vazI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/EHC9HE7vazI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/EHC9HE7vazI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/EHC9HE7vazI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "There was a guy And the water guy who controlled the sea Got killed by 10 million pounds of sludge from New York and New Jersey It's monkey's time to happen It's monkey's time to happen It's monkey's time to happen It's monkey's time to happen And the vulture in the sky Got sucked in a hole, now there's a hole in the sky And the ground's not cold, and if the ground's not cold Everything is gonna burn, we'll all take turns I'll get mine, too It's monkey's time to happen It's monkey's time to happen It's monkey's time to happen It's monkey's time to happen If man is fine Then the devil is sick And if the devil is sick Then God is dead! And God is dead! And God is dead! It's monkey's time to happen It's monkey's time to happen It's monkey's time to happen It's monkey's time to happen It's monkey's time to happen It's monkey's time to happen It's monkey's time to happen It's monkey's time to happen"
+  },
+  "metadata": {
+    "youtube_id": "EHC9HE7vazI",
+    "title_extracted": null,
+    "corpus_id": "EHC9HE7vazI",
+    "uploader": "4AD",
+    "audio_file": "corpus/01_music_videos_audio/audio/EHC9HE7vazI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5590700,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 25.166659,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:12:37Z"
+  },
+  "status": "success",
+  "error": null
+}

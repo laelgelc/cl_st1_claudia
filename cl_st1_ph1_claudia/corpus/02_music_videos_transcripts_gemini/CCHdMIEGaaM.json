@@ -1,0 +1,38 @@
+{
+  "corpus_id": "CCHdMIEGaaM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/CCHdMIEGaaM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/CCHdMIEGaaM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/CCHdMIEGaaM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Like the legend of the Phoenix, huh\nAll ends with beginnings\nWhat keeps the planet spinning, ah\nThe force from the beginning\n\nWe've come too far\nTo give up who we are\nSo let's raise the bar\nAnd our cups to the stars\n\nShe's up all night 'til the sun\nI'm up all night to get some\nShe's up all night for good fun\nI'm up all night to get lucky\nWe're up all night 'til the sun\nWe're up all night to get some\nWe're up all night for good fun\nWe're up all night to get lucky\nWe're up all night to get lucky\nWe're up all night to get lucky\nWe're up all night to get lucky\nWe're up all night to get lucky\n\nThe present has no rhythm\nYour gift keeps on giving\nWhat is this I'm feeling?\nIf you wanna leave I'm with it, ah\n\nWe've come too far\nTo give up who we are\nSo let's raise the bar\nAnd our cups to the stars\n\nShe's up all night 'til the sun\nI'm up all night to get some\nShe's up all night for good fun\nI'm up all night to get lucky\nWe're up all night 'til the sun\nWe're up all night to get some\nWe're up all night for good fun\nWe're up all night to get lucky\nWe're up all night to get lucky\nWe're up all night to get lucky\nWe're up all night to get lucky\nWe're up all night to get lucky\n\nWe're up all night to get...\nWe're up all night to get...\nWe're up all night to get...\nWe're up all night to get...\nWe're up all night to get...\nWe're up all night to get...\nWe're up all night to get lucky\nWe're up all night to get lucky\nWe're up all night to get lucky\nWe're up all night to get lucky\nWe're up all night to get lucky\nWe're up all night to get lucky\nWe're up all night to get lucky\nWe're up all night to get lucky\nWe're up all night to get lucky\nWe're up all night to get lucky\n\nWe've come too far\nTo give up who we are\nSo let's raise the bar\nAnd our cups to the stars\n\nShe's up all night 'til the sun\nI'm up all night to get some\nShe's up all night for good fun\nI'm up all night to get lucky\nWe're up all night 'til the sun\nWe're up all night to get some\nWe're up all night for good fun\nWe're up all night to get lucky\nWe're up all night to get lucky\nWe're up all night to get lucky\nWe're up all night to get lucky\nWe're up all night to get lucky\nWe're up all night to get lucky\nWe're up all night to get lucky\nWe're up all night to get lucky\nWe're up all night to get lucky"
+  },
+  "metadata": {
+    "youtube_id": "CCHdMIEGaaM",
+    "title_extracted": null,
+    "corpus_id": "CCHdMIEGaaM",
+    "uploader": "convar HUN",
+    "audio_file": "corpus/01_music_videos_audio/audio/CCHdMIEGaaM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7929042,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.775387,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:52:36Z"
+  },
+  "status": "success",
+  "error": null
+}

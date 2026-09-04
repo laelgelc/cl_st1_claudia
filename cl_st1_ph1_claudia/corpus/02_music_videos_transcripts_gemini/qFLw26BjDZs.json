@@ -1,0 +1,38 @@
+{
+  "corpus_id": "qFLw26BjDZs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/qFLw26BjDZs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/qFLw26BjDZs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/qFLw26BjDZs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I don't know Just where I'm going But I'm gonna try for the kingdom, if I can 'Cause it makes me feel like I'm a man When I put a spike into my vein And then I tell you things aren't quite the same When I'm rushing on my run And I feel just like Jesus' son And I guess that I just don't know And I guess that I just don't know I have made Big decision I'm gonna try to nullify my life 'Cause when the blood begins to flow When it shoots up the dropper's neck When I'm closing in on death And you can't help me, not you guys Or all you sweet girls with all your sweet talk You can all go take a walk And I guess that I just don't know And I guess that I just don't know I wish that I was born a thousand years ago I wish that I'd sailed the darkened seas On a great clipper ship Going from this land unto that In a sailor suit and cap Away from the big city Where a man can not be free Of all of the evils of this town And of himself and those around Oh, and I guess that I just don't know Oh, and I guess that I just don't know Heroin, be the death of me Heroin, it's my wife and it's my life 'Cause a mainline to my vein Leads to a center in my head And then I'm better off than dead 'Cause when the smack begins to flow I really don't care anymore About all the Jim-Jims in this town And all the politicians making crazy sounds And everybody putting everybody else down And all the dead bodies piled up in mounds 'Cause when the smack begins to flow Then I really don't care at all Ah, when the heroin is in my blood And the blood is in my head Then thank God that I'm as good as dead And thank your God that I'm not aware And thank God that I just don't care And I guess, I just don't know Oh, and I guess, I just don't know"
+  },
+  "metadata": {
+    "youtube_id": "qFLw26BjDZs",
+    "title_extracted": null,
+    "corpus_id": "qFLw26BjDZs",
+    "uploader": "CIAOsydni",
+    "audio_file": "corpus/01_music_videos_audio/audio/qFLw26BjDZs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 13524866,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.180851,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:20:37Z"
+  },
+  "status": "success",
+  "error": null
+}

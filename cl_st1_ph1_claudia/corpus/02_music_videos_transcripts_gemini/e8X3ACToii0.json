@@ -1,0 +1,38 @@
+{
+  "corpus_id": "e8X3ACToii0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/e8X3ACToii0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/e8X3ACToii0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/e8X3ACToii0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "It kills me not to know this, but I've all but forgotten what the color of her eyes were, and her scars or how she got them. As the telling signs of aging, down a single tear is dropping through the valleys of an aging face that this world has forgotten.\n\nThere is no reconciliation that will put me in my place, and there is no time like the present to drink these draining seconds. Seldom do these words ring true when I'm constantly failing you. Or maybe we just can't break through until it disappears, so tell me now. Is this saying love, and how do we get out? 'Cause I don't know. \n\nThat's when she said, \"I don't hate you, boy, I just want to save you while there's still something left to save.\" That's when I told her, \"I love you, girl, but I'm not the answer for the questions that you still have.\" Whoa, whoa, whoa, whoa, whoa!\n\nAnd time moves on like crashing waves, for no man does it ever wait. Like memories of dying days that deafen us like hurricanes. Spitting flames, we held the brand on cold fingers in your hand. Pressing to the flesh like sand, now do you understand? So tell me now. Is this saying love, and how do we get out? 'Cause I don't know. \n\nThat's when she said, \"I don't hate you, boy, I just want to save you while there's still something left to save.\" That's when I told her, \"I love you, girl, but I'm not the answer for the questions that you still have.\" Whoa, whoa, whoa, whoa, whoa!\n\n1,000 miles away, there's nothing left to say. The door was slammed and I don't know. Oh, we never had a choice, this war has too much noise. It takes me under, it takes me under once again.\n\nI don't hate you. I don't hate you, no. So tell me now, is this saying love, and how do we get out? 'Cause I don't know. \n\nThat's when she said, \"I don't hate you, boy, I just want to save you while there's still something left to save.\" That's when I told her, \"I love you, girl, but I'm not the answer for the questions that you still have.\" Whoa, whoa, whoa! \n\nI don't hate you! I don't hate you! Whoa, whoa, whoa! I don't hate you! I don't hate you, no! Whoa, whoa, whoa!"
+  },
+  "metadata": {
+    "youtube_id": "e8X3ACToii0",
+    "title_extracted": null,
+    "corpus_id": "e8X3ACToii0",
+    "uploader": "RiseAgainst",
+    "audio_file": "corpus/01_music_videos_audio/audio/e8X3ACToii0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7733624,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.577501,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:43:18Z"
+  },
+  "status": "success",
+  "error": null
+}

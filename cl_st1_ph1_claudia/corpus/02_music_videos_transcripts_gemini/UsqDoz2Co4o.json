@@ -1,0 +1,38 @@
+{
+  "corpus_id": "UsqDoz2Co4o",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/UsqDoz2Co4o.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/UsqDoz2Co4o.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/UsqDoz2Co4o.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "My love, there's only you in my life, the only thing that's right. My first love, you're every breath that I take, you're every step I make. And I, I want to share all my love with you. No one else will do. And your eyes, your eyes, your eyes, they tell me how much you care. Oh, yes, you will always be my endless love. Two hearts, two hearts that beat as one. Our lives have just begun. Forever, I'll hold you close in my arms. I can't resist your charms. And love, I'll be a fool for you, I'm sure. You know I don't mind. Oh, you know I don't mind. 'Cause you, you mean the world to me. Oh, I know, I've found in you my endless love. Oh, and love, oh, love, I'll be that fool for you, I'm sure. You know I don't mind. Oh, you know I don't mind. And yes, you'll be the only one. 'Cause no, no one can deny this love I have inside, and I'll give it all to you. My love, my love, my endless love."
+  },
+  "metadata": {
+    "youtube_id": "UsqDoz2Co4o",
+    "title_extracted": null,
+    "corpus_id": "UsqDoz2Co4o",
+    "uploader": "lucio sampaio",
+    "audio_file": "corpus/01_music_videos_audio/audio/UsqDoz2Co4o.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8513070,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.007108,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:50:11Z"
+  },
+  "status": "success",
+  "error": null
+}

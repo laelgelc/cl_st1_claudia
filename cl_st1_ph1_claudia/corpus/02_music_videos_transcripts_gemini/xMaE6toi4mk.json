@@ -1,0 +1,38 @@
+{
+  "corpus_id": "xMaE6toi4mk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/xMaE6toi4mk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/xMaE6toi4mk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/xMaE6toi4mk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Woo! All right!\n\nDarling, you got to let me know\nShould I stay or should I go?\nIf you say that you are mine\nI'll be here 'til the end of time\nSo you got to let me know\nShould I stay or should I go?\n\nIt's always tease, tease, tease\nYou're happy when I'm on my knees\nOne day it's fine and next it's black\nSo if you want me off your back\nWell, come on and let me know\nShould I stay or should I go?\n\nShould I stay or should I go now?\nShould I stay or should I go now?\nIf I go, there will be trouble\nAnd if I stay it will be double\nSo come on and let me know\n\nThis indecision's buggin' me (Esta indecisión me molesta)\nIf you don't want me, set me free (Si no me quieres, líbrame)\nExactly who I'm supposed to be (Dime, ¿qué tengo que ser?)\nDon't you know which clothes even fit me? (¿No sabes qué ropa me queda?)\nCome on and let me know (Doble o nada)\nShould I cool it or should I blow? (¿Me debo enfriar o encender?)\nOw!\nSplit!\n\nShould I stay or should I go now? (¿Me debo ir o me quedo?)\nShould I stay or should I go now? (¿Me debo ir o me quedo?)\nIf I go, there will be trouble (Si me voy habrá peligro)\nAnd if I stay, it will be double (Si me quedo será el doble)\nSo you got to let me know (Me tienes que decir)\nShould I cool it or should I blow? (¿Me debo enfriar o encender?)\n\nShould I stay or should I go now? (¿Me debo ir o me quedo?)\nIf I go, there will be trouble (Si me voy habrá peligro)\nAnd if I stay, it will be double (Si me quedo será el doble)\nSo you got to let me know (Me tienes que decir)\nShould I stay or should I go?"
+  },
+  "metadata": {
+    "youtube_id": "xMaE6toi4mk",
+    "title_extracted": null,
+    "corpus_id": "xMaE6toi4mk",
+    "uploader": "The Clash",
+    "audio_file": "corpus/01_music_videos_audio/audio/xMaE6toi4mk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6062530,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.750871,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:04:01Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "IxuThNgl3YA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/IxuThNgl3YA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/IxuThNgl3YA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/IxuThNgl3YA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Remember, in the end, nobody wins unless everybody wins. Come on! One, two...  In the day we sweat it out on the streets of a runaway American dream At night we ride through mansions of glory in suicide machines Sprung from cages on Highway 9 Chrome wheeled, fuel injected, and steppin' out over the line Oh, baby, this town rips the bones from your back It's a death trap, it's a suicide rap We gotta get out while we're young 'Cause tramps like us, baby, we were born to run  Wendy, let me in, I wanna be your friend I wanna guard your dreams and visions Just wrap your legs 'round these velvet rims And strap your hands 'cross my engines Together we could break this trap We'll run till we drop, baby, we'll never go back Oh, will you walk with me on the wire? Girl, 'cause I'm just a scared and lonely rider But I gotta find out how it feels I want to know if love is wild I want to know if love is real  Oh, can you show me?  Beyond the Palace, hemi-powered drones scream down the boulevard The girls comb their hair in rearview mirrors And the boys try to look so hard The amusement park rises bold and stark As kids are huddled on the beach in the mist I wanna die with you, Wendy, on the street tonight In an everlasting kiss  1, 2, 3, 4!  The highway's jammed with broken heroes on a last chance power drive Everybody's out on the run tonight, but there's no place left to hide Together, Wendy, we can live with the sadness I'll love you with all the madness in my soul Oh, someday, girl, I don't know when We're gonna get to that place where we really wanna go And we'll walk in the sun But till then, tramps like us, baby, we were born to run Tramps like us, baby, we were born to run Tramps like us, baby, we were born to run Whoa-oh-oh-oh-oh Whoa-oh-oh-oh-oh Whoa-oh-oh-oh-oh Whoa-oh-oh-oh-oh Whoa-oh-oh-oh-oh"
+  },
+  "metadata": {
+    "youtube_id": "IxuThNgl3YA",
+    "title_extracted": null,
+    "corpus_id": "IxuThNgl3YA",
+    "uploader": "Bruce Springsteen",
+    "audio_file": "corpus/01_music_videos_audio/audio/IxuThNgl3YA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10658224,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.057206,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:30:26Z"
+  },
+  "status": "success",
+  "error": null
+}

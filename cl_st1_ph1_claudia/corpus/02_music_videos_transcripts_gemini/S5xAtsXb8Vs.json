@@ -1,0 +1,38 @@
+{
+  "corpus_id": "S5xAtsXb8Vs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/S5xAtsXb8Vs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/S5xAtsXb8Vs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/S5xAtsXb8Vs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "It was the third of September A day I'll always remember, yes I will 'Cause that was the day that my daddy died I never got a chance to see him Never heard nothing but bad things about him Mama, I'm depending on you to tell me the truth Mama just hung her head and said: Son Papa was a rolling stone Wherever he laid his hat was his home And when he died, all he left us was alone Papa was a rolling stone, my son, yeah Wherever he laid his hat was his home And when he died, all he left us was alone Hey Mama, is it true what they say that Papa never worked a day in his life? And Mama, some bad talk going around town saying that Papa had three outside children and another wife And that ain't right Heard some talk about Papa doing some storefront preaching Talking about saving souls and all the time leaching Dealing in dirt and stealing in the name of the Lord Mama just hung her head and said: Papa was a rolling stone, my son Wherever he laid his hat was his home And when he died, all he left us was alone Hey, Papa was a rolling stone That's coming Wherever he laid his hat was his home And when he died, all he left us was alone Hey Mama, I heard Papa call himself a jack of all trades Tell me, is that what sent Papa to an early grave? Folks say Papa would beg, borrow, steal to pay his bills Hey Mama, folks say Papa never was much on thinking Spent most of his time chasing women and drinking Mama, I'm depending on you to tell me the truth Mama looked up with a tear in her eye and said: Son Papa was a rolling stone Well, well, well, well Wherever he laid his hat was his home And when he died, all he left us was alone, alone, alone, alone Papa was a rolling stone Wherever he laid his hat was his home And when he died, all he left us was alone My daddy was, yes he was"
+  },
+  "metadata": {
+    "youtube_id": "S5xAtsXb8Vs",
+    "title_extracted": null,
+    "corpus_id": "S5xAtsXb8Vs",
+    "uploader": "Michael Thomas",
+    "audio_file": "corpus/01_music_videos_audio/audio/S5xAtsXb8Vs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 13404494,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.488769,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:14:49Z"
+  },
+  "status": "success",
+  "error": null
+}

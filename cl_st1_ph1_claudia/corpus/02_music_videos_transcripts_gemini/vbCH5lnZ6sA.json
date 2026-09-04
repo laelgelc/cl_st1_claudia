@@ -1,0 +1,38 @@
+{
+  "corpus_id": "vbCH5lnZ6sA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/vbCH5lnZ6sA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/vbCH5lnZ6sA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/vbCH5lnZ6sA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "When the Moon is in the 7th House\nAnd Jupiter aligns with Mars\nThen peace will guide the planets\nAnd love will steer the stars\nThis is the dawning of the Age of Aquarius\nAge of Aquarius\nAquarius!\nAquarius!\n\nHarmony and understanding\nSympathy and trust abounding\nNo more falsehoods or derisions\nGolden living dreams of visions\nMystic crystal revelation\nAnd the mind's true liberation\nAquarius!\nAquarius!\n\nWhen the Moon is in the 7th House\nAnd Jupiter aligns with Mars\nThen peace will guide the planets\nAnd love will steer the stars\nThis is the dawning of the Age of Aquarius\nAge of Aquarius\nAquarius!\nAquarius!\nAquarius!\nAquarius!\n\nLet the sunshine\nLet the sunshine in\nThe sunshine in\nLet the sunshine\nLet the sunshine in\nThe sunshine in\nLet the sunshine\nLet the sunshine in\nThe sunshine in\nLet the sunshine, oh, let it shine\nLet the sunshine in, come on\nThe sunshine in, now everybody just sing along\nLet the sunshine, oh, let the sunshine in\nLet the sunshine in, open up your heart\nThe sunshine in, let it shine on you\nLet the sunshine, and when you're lonely\nLet the sunshine in, hey, let it shine\nThe sunshine in, you got to open up your heart and let it shine on you\nAnd when you feel like you've been mistreated\nAnd your friends turn their back on you\nLet the sunshine, just open up your heart, let it shine on you\nLet the sunshine in, you got to feel it\nThe sunshine in, you got to feel it, open up your heart and let it shine on you\nLet the sunshine, let me tell you one thing\nLet the sunshine in, I want you to sing along with The 5th Dimension\nThe sunshine in, hey, open up your heart\nLet the sunshine, come on\nLet the sunshine in, and let it shine\nThe sunshine in, every day, hey! You got to feel it\nLet the sunshine, you got to feel it\nLet the sunshine in, when you open up your heart you got to let the sun come on in\nThe sunshine in, in the morning"
+  },
+  "metadata": {
+    "youtube_id": "vbCH5lnZ6sA",
+    "title_extracted": null,
+    "corpus_id": "vbCH5lnZ6sA",
+    "uploader": "MrHaagsesjonny1",
+    "audio_file": "corpus/01_music_videos_audio/audio/vbCH5lnZ6sA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9548866,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 7.186608,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:24:54Z"
+  },
+  "status": "success",
+  "error": null
+}

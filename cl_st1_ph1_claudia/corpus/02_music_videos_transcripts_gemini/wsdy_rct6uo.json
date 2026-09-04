@@ -1,0 +1,38 @@
+{
+  "corpus_id": "wsdy_rct6uo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wsdy_rct6uo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/wsdy_rct6uo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/wsdy_rct6uo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Yeah! One, two. Princes kneel before you, that's what I said now. Princes, princes who adore you, just go ahead now. One has diamonds in his pockets, that's some bread now. This one said he wants to buy you rockets, ain't in his head now. Yeah! Give it, give it, give it, give it, brother, brother, brother, brother... This one got a princely jacket, that's what I said now. Got some big seal up on his jacket, ain't in his head now. If you marry him, your father will condone you. How about that now? If you marry me, your father will disown you. It's in his head now. Marry him, or marry me, I'm the one that loves you, baby, can't you see? I ain't got no future open attribute, but I know what a prince and lover ought to be. I know what a prince and lover ought to be, said. If you want to call me baby, just go ahead now. And if you like to tell me maybe, just go ahead now. And if you want to buy me flowers, just go ahead now. And if you like to talk for hours, just go ahead now. Said, princes kneel before you, that's what I said now. Princes, princes who adore you, just go ahead now. One has diamonds in his pockets, that's some bread now. This one who wants to buy you rockets, ain't in his head now. Marry him, or marry me, I'm the one that loves you, baby, can't you see? I ain't got no future open attribute, but I know what a prince and lover ought to be. I know what a prince and lover ought to be, said. If you want to call me baby, just go ahead now. And if you like to tell me maybe, just go ahead now. And if you want to buy me flowers, just go ahead now. And if you like to talk for hours, just go ahead now. And if you want to call me baby, just go ahead now. And if you like to tell me maybe, just go ahead now. And if you like to buy me flowers, just go ahead now. And if you like to talk for hours, just go ahead now. If you want to call me baby, just go ahead now. And if you like to tell me maybe, just go ahead now. If you want to buy me flowers, just go ahead now. And if you like to talk for hours, just go ahead now. Oh, baby, just go ahead now. Oh, I'll just, just go ahead, go ahead now. Oh, Your Majesty, just go ahead now. Come on, forget the king you had, marry me. Just go ahead now. Come on, come on, come on, just go ahead now. Yeah, just go ahead now. If you want to buy me flowers, just go ahead now. Just go ahead, baby. Just go ahead."
+  },
+  "metadata": {
+    "youtube_id": "wsdy_rct6uo",
+    "title_extracted": null,
+    "corpus_id": "wsdy_rct6uo",
+    "uploader": "Spin Doctors",
+    "audio_file": "corpus/01_music_videos_audio/audio/wsdy_rct6uo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8307992,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.389742,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:04:53Z"
+  },
+  "status": "success",
+  "error": null
+}

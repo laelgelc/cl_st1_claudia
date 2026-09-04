@@ -1,0 +1,38 @@
+{
+  "corpus_id": "aNYWl13IWhY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/aNYWl13IWhY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/aNYWl13IWhY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/aNYWl13IWhY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "And now, ladies and gentlemen, yes, that's right, Elvis Presley. Ladies and gentlemen, uh, could I have your attention, please? Uh, I'd like to tell you that we're going to do a sad song for you. This song here is one of the saddest songs we've ever heard. And it'll tell the story, friends. Beautiful lyrics. It goes something like this. You ain't nothing but a hound dog crying all the time. You ain't nothing but a hound dog crying all the time. Well, you ain't never caught a rabbit and you ain't no friend of mine. Well, they said you was high class. Well, that was just a lie. Yeah, they said you was high class. Well, that was just a lie. Well, you ain't never caught a rabbit and you ain't no friend of mine. You ain't nothing but a hound dog crying all the time. Well, you ain't never caught a rabbit and you ain't no friend of mine. Well, they said you was high class. Well, that was just a lie. Yeah, they said you was high class. Well, that was just a lie. Well, you ain't never caught a rabbit and you ain't no friend of mine. You ain't nothing but a hound dog crying all the time. You ain't nothing but a hound dog crying all the time. Well, you ain't never caught a rabbit, you ain't no friend of mine. Ladies and gentlemen, uh, I'd like to tell you, friends, I'd like to tell you, please, ladies and gentlemen, I'd like to tell you that on Thanksgiving Day, I think that our new picture is to be released. And uh, and also, we'll be back with Mr. Ed Sullivan in January. I'd like to thank all the millions of wonderful people that are watching in tonight, friends. And uh, and uh, I'd like to say this. Until we meet you again, may God bless you as he's blessed me. Thank you very much."
+  },
+  "metadata": {
+    "youtube_id": "aNYWl13IWhY",
+    "title_extracted": null,
+    "corpus_id": "aNYWl13IWhY",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/aNYWl13IWhY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6954920,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.130887,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:10:22Z"
+  },
+  "status": "success",
+  "error": null
+}

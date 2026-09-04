@@ -1,0 +1,38 @@
+{
+  "corpus_id": "pi00f6oiMu4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/pi00f6oiMu4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/pi00f6oiMu4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/pi00f6oiMu4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Set me free, why don't you, baby? Get out of my life, why don't you, baby? 'Cause you don't really love me, you just keep me hangin' on You don't really need me, but you keep me hangin' on Why do you keep a-comin' around, playin' with my heart? Why don't you get out of my life and let me make a new start? Let me get over you the way you've gotten over me, hey Set me free, why don't you, baby? Let me be, why don't you, baby? 'Cause you don't really love me, you just keep me hangin' on Now you don't really want me, you just keep me hangin' on You say although we've broken up, you still wanna be just friends But how can we still be friends when seein' you only breaks my heart again? And there ain't nothing I can do about it Woah, set me free, why don't you, baby? Get out of my life, why don't you, baby? Set me free, why don't you, baby? Get out of my life, why don't you, baby? You claim you still care for me, but your heart and soul needs to be free And now that you've got your freedom, you wanna still hold on to me You don't want me for yourself, so let me find somebody else, hey, hey Why don't you be a man about it and set me free? Now you don't care a thing about me, you're just usin' me Go on, get out, get out of my life, and let me sleep at night 'Cause you don't really love me, you just keep me hangin' on"
+  },
+  "metadata": {
+    "youtube_id": "pi00f6oiMu4",
+    "title_extracted": null,
+    "corpus_id": "pi00f6oiMu4",
+    "uploader": "The Supremes",
+    "audio_file": "corpus/01_music_videos_audio/audio/pi00f6oiMu4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5148592,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.464795,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:41:20Z"
+  },
+  "status": "success",
+  "error": null
+}

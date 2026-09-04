@@ -1,0 +1,38 @@
+{
+  "corpus_id": "R7uC5m-IRns",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/R7uC5m-IRns.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/R7uC5m-IRns.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/R7uC5m-IRns.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Too many teardrops for one heart to be crying Too many teardrops for one heart to carry on You're way on top now ever since you left me You're always laughing way down at me But watch out now, I'm gonna get there We'll be together for just a little while And then I'm gonna put you way down here And you'll start crying 96 tears Cry Cry And when the sun comes up, I'll be on top, you'll be right down there looking up And on my way coming up here, but I don't see you waving down I'm way down here, wondering how I'm gonna get you But I know now, I'll just cry, cry, I'll just cry Too many teardrops for one heart to be crying Too many teardrops for one heart to carry on You're gonna cry 96 tears You're gonna cry 96 tears You're gonna cry, cry, cry, cry now You're gonna cry, cry, cry, cry 96 tears Come on, let me hear you cry now 96 tears, woo! I wanna hear you cry 96"
+  },
+  "metadata": {
+    "youtube_id": "R7uC5m-IRns",
+    "title_extracted": null,
+    "corpus_id": "R7uC5m-IRns",
+    "uploader": "60s70sVintageRock",
+    "audio_file": "corpus/01_music_videos_audio/audio/R7uC5m-IRns.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4939798,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.831581,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:30:59Z"
+  },
+  "status": "success",
+  "error": null
+}

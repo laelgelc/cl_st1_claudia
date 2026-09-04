@@ -1,0 +1,38 @@
+{
+  "corpus_id": "e-ORhEE9VVg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/e-ORhEE9VVg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/e-ORhEE9VVg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/e-ORhEE9VVg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Nice to meet you, where you been? I could show you incredible things Magic, madness, heaven, sin Saw you there and I thought \"Oh, my God, look at that face You look like my next mistake Love's a game, wanna play?\" New money, suit and tie I can read you like a magazine Ain't it funny? Rumors fly And I know you heard about me So hey, let's be friends I'm dying to see how this one ends Grab your passport and my hand I can make the bad guys good for a weekend So it's gonna be forever Or it's gonna go down in flames You can tell me when it's over, mm If the high was worth the pain Got a long list of ex-lovers They'll tell you I'm insane 'Cause you know I love the players And you love the game 'Cause we're young and we're reckless We'll take this way too far It'll leave you breathless, mm Or with a nasty scar Got a long list of ex-lovers They'll tell you I'm insane But I've got a blank space, baby And I'll write your name Cherry lips, crystal skies I could show you incredible things Stolen kisses, pretty lies You're the King, baby, I'm your Queen Find out what you want Be that girl for a month Wait, the worst is yet to come, oh no Screaming, crying, perfect storms I can make all the tables turn Rose garden filled with thorns Keep you second guessing like \"Oh, my God, who is she?\" I get drunk on jealousy But you'll come back each time you leave 'Cause, darling, I'm a nightmare dressed like a daydream So it's gonna be forever Or it's gonna go down in flames You can tell me when it's over, mm If the high was worth the pain Got a long list of ex-lovers They'll tell you I'm insane 'Cause you know I love the players And you love the game 'Cause we're young and we're reckless We'll take this way too far It'll leave you breathless, mm Or with a nasty scar Got a long list of ex-lovers They'll tell you I'm insane But I've got a blank space, baby And I'll write your name Boys only want love if it's torture Don't say I didn't, say I didn't warn ya Boys only want love if it's torture Don't say I didn't, say I didn't warn ya So it's gonna be forever Or it's gonna go down in flames You can tell me when it's over, mm If the high was worth the pain Got a long list of ex-lovers They'll tell you I'm insane 'Cause you know I love the players And you love the game 'Cause we're young and we're reckless We'll take this way too far It'll leave you breathless, mm Or with a nasty scar Got a long list of ex-lovers They'll tell you I'm insane But I've got a blank space, baby And I'll write your name"
+  },
+  "metadata": {
+    "youtube_id": "e-ORhEE9VVg",
+    "title_extracted": null,
+    "corpus_id": "e-ORhEE9VVg",
+    "uploader": "Taylor Swift",
+    "audio_file": "corpus/01_music_videos_audio/audio/e-ORhEE9VVg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8719636,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.583511,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:42:06Z"
+  },
+  "status": "success",
+  "error": null
+}

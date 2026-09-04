@@ -1,0 +1,38 @@
+{
+  "corpus_id": "TB54dZkzZOY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/TB54dZkzZOY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/TB54dZkzZOY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/TB54dZkzZOY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Back to life, back to reality Back to life, back to reality Back to life, back to reality Back to the here and now, oh yeah Show me how, decide what you want from me Tell me maybe I could be there for you However you want me However you need me However you want me However you need me However you want me However you need me However you want me However you need me Back to life, back to the present time Back from a fantasy, yes Tell me now, take the initiative I'll leave it in your hands until you're ready However you want me However you need me However you want me Oh, however do you want me? However you need me However you want me However However you need me However you want me However you need me However you need me However you need me However you need me However you need me However you need me However you need me However you need me I live at the top of the block No more room for double talk Don't you know that night has changed to day? Look, look, look for a whole new way However do you want me? However you need me However you want me However you need me However you want me However you need me However you want me Tell me how do you want me to be However you need me Back to life, back to the day we had In this foolish game, yeah Clear me out, don't let it waste away Make up your mind so I'll know where I stand However you want me However you need me However you want me However you need me However you want me However However you need me Do you need me? However you want me Need However you need me Tell me now, yeah However you want me However you need me However you want me Tell me how do you want me to be However you need me However you want me However you need me However you want me However you need me"
+  },
+  "metadata": {
+    "youtube_id": "TB54dZkzZOY",
+    "title_extracted": null,
+    "corpus_id": "TB54dZkzZOY",
+    "uploader": "SoulIISoulVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/TB54dZkzZOY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7452754,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.043901,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:20:02Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "uSu6tcbMOu0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uSu6tcbMOu0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/uSu6tcbMOu0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/uSu6tcbMOu0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I'm... I'm so in love with you. Whatever you want to do Oh, yeah. Alright with me. 'Cause you 'Cause you make me feel so brand new. And I... I want to spend my life with you. Let me say that since... since, oh baby, since we've been together Ooh, loving you forever Is what I need. Let me be the one you come run to. Never be untrue. Ooh, baby, let's Let's stay together. Loving you whether, whether times are good or bad, happy or sad. Hey. Hey, baby. Hey. Whether times are good or bad, happy or sad. Why somebody... why people break up? I wanna know. Turn around and make up? Yeah. I just can't see. Which you'd never do that to me. Would you, baby? Being around you is all I see. It's what I want us to do. Let's Let's stay together. Oh, know we will. Loving you whether, whether times are good or bad, happy or sad. Yeah. Let's stay together, baby. I wanna love you whether, whether times are good or bad, happy or sad, yeah. Oh, baby. Let's stay together. I wanna love you whether, whether times are good or bad, happy or sad. Yeah, you can't always be with the one you love. But as long as I... as long as I can hold you, baby, yeah, yeah, yeah. I wanna squeeze... let me... let me be with you, baby. Yeah, yeah, yeah. Yeah."
+  },
+  "metadata": {
+    "youtube_id": "uSu6tcbMOu0",
+    "title_extracted": null,
+    "corpus_id": "uSu6tcbMOu0",
+    "uploader": "Al Green",
+    "audio_file": "corpus/01_music_videos_audio/audio/uSu6tcbMOu0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7897836,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.54184,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:15:57Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "90c9pEtZquw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/90c9pEtZquw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/90c9pEtZquw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/90c9pEtZquw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Ooh, yeah. We've all suffered through and through and made it through the storm. I really want you to realize, I really want to put you on. I've been searching for someone to satisfy my every need. Won't you be my inspiration? Be the real love that I need. Real love, I'm searching for a real love. Someone to set my heart free. Real love, I'm searching for a real love. Ooh, when I met you I just knew that you would take my heart and run. Until you told me how you felt for me, you said I'm not the one. So I slowly came to see all of the things that you were made of. And now I hope my dreams and inspiration lead me to find some real love. Real love, I'm searching for a real love. Someone to set my heart free. Real love, I'm searching for a real love. I got to have a real love. Love so true, oh baby. I thought that you were full of love. I thought you were the answer to the question in my mind. But it seems that I was wrong this time. Maybe I... Real love. So I try my best and pray to God he'd send me someone real. To correct me and to guide me towards the love my heart can feel. And now I know I can be faithful. I can be your all in all. I give you good love through the summertime, winter, spring and fall. Real love, I'm searching for a real love. Someone to set my heart free. Real love, I'm searching for a real love. Real love, I'm searching for a real love and I don't know where to go. I'm running out of time, I guess so, see but I never know. How it feels to have a real love, it seems that I'm drowning, but I need it, baby, cause... Real love, I'm searching for a real love. Someone to set my heart free. Real love, I'm searching for a real love. Real love."
+  },
+  "metadata": {
+    "youtube_id": "90c9pEtZquw",
+    "title_extracted": null,
+    "corpus_id": "90c9pEtZquw",
+    "uploader": "capturedbycowan",
+    "audio_file": "corpus/01_music_videos_audio/audio/90c9pEtZquw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7327924,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 27.942223,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:12:49Z"
+  },
+  "status": "success",
+  "error": null
+}

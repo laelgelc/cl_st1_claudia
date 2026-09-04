@@ -1,0 +1,38 @@
+{
+  "corpus_id": "G3dFpQzu54w",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/G3dFpQzu54w.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/G3dFpQzu54w.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/G3dFpQzu54w.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Watch it! I was born in a crossfire hurricane And I howled in the mornin' driving rain But it's all right now In fact, it's a gas But it's all right I'm Jumpin' Jack Flash, it's a gas, gas, gas I was raised by a toothless, bearded hag I was schooled with a strap right 'cross my back But it's all right now In fact, it's a gas But it's all right I'm Jumpin' Jack Flash, it's a gas, gas, gas I was drowned, I was washed up and left for dead I fell down to my feet and I stood on my feet Yeah, yeah, I frowned at the crumbs that were pushed my way Yeah, yeah, yeah, I was crowned with a spike right through my head God almighty, but it's all right now In fact, it's a gas But it's all right I'm Jumpin' Jack Flash, it's a gas, gas, gas Jumpin' Jack Flash, it's a gas Jumpin' Jack Flash, it's a gas Jumpin' Jack Flash, it's a gas Jumpin' Jack Flash, it's a gas Jumpin' Jack Flash, it's a gas Jumpin' Jack Flash, it's a gas"
+  },
+  "metadata": {
+    "youtube_id": "G3dFpQzu54w",
+    "title_extracted": null,
+    "corpus_id": "G3dFpQzu54w",
+    "uploader": "ABKCOVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/G3dFpQzu54w.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7215726,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.11168,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:22:14Z"
+  },
+  "status": "success",
+  "error": null
+}

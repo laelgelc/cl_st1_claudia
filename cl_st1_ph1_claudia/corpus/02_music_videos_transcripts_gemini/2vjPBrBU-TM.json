@@ -1,0 +1,38 @@
+{
+  "corpus_id": "2vjPBrBU-TM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/2vjPBrBU-TM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/2vjPBrBU-TM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/2vjPBrBU-TM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Party girls don't get hurt\nCan't feel anything, when will I learn?\nI push it down, I push it down\n\nI'm the one for a good time call\nPhone's blowin' up, ringin' my doorbell\nI feel the love, I feel the love\n\n1, 2, 3, 1, 2, 3, drink\n1, 2, 3, 1, 2, 3, drink\n1, 2, 3, 1, 2, 3, drink\nThrow 'em back 'til I lose count\n\nI'm gonna swing from the chandelier\nFrom the chandelier\nI'm gonna live like tomorrow doesn't exist\nLike it doesn't exist\nI'm gonna fly like a bird through the night\nFeel my tears as they dry\nI'm gonna swing from the chandelier\nFrom the chandelier\n\nBut I'm holding on for dear life\nWon't look down, won't open my eyes\nKeep my glass full until morning light\n'Cause I'm just holding on for tonight\nHelp me, I'm holding on for dear life\nWon't look down, won't open my eyes\nKeep my glass full until morning light\n'Cause I'm just holding on for tonight\nOn for tonight\n\nSun is up, I'm a mess\nGotta get out now, gotta run from this\nHere comes the shame, here comes the shame\n\n1, 2, 3, 1, 2, 3, drink\n1, 2, 3, 1, 2, 3, drink\n1, 2, 3, 1, 2, 3, drink\nThrow 'em back 'til I lose count\n\nI'm gonna swing from the chandelier\nFrom the chandelier\nI'm gonna live like tomorrow doesn't exist\nLike it doesn't exist\nI'm gonna fly like a bird through the night\nFeel my tears as they dry\nI'm gonna swing from the chandelier\nFrom the chandelier\n\nBut I'm holding on for dear life\nWon't look down, won't open my eyes\nKeep my glass full until morning light\n'Cause I'm just holding on for tonight\nHelp me, I'm holding on for dear life\nWon't look down, won't open my eyes\nKeep my glass full until morning light\n'Cause I'm just holding on for tonight\nOn for tonight\nOn for tonight\n'Cause I'm just holding on for tonight\nOh, I'm just holding on for tonight\nOn for tonight, on for tonight\n'Cause I'm just holding on for tonight\n'Cause I'm just holding on for tonight\nOh, I'm just holding on for tonight\nOn for tonight, on for tonight"
+  },
+  "metadata": {
+    "youtube_id": "2vjPBrBU-TM",
+    "title_extracted": null,
+    "corpus_id": "2vjPBrBU-TM",
+    "uploader": "Sia",
+    "audio_file": "corpus/01_music_videos_audio/audio/2vjPBrBU-TM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7403714,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.279683,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:37:55Z"
+  },
+  "status": "success",
+  "error": null
+}

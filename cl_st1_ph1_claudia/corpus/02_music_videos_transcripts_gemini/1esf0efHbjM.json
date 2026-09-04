@@ -1,0 +1,38 @@
+{
+  "corpus_id": "1esf0efHbjM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/1esf0efHbjM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/1esf0efHbjM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/1esf0efHbjM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "People keep on learning Soldiers keep on warring World keep on turning 'Cause it won't be too long Powers keep on lying While your people keep on dying World keep on turning 'Cause it won't be too long I'm so glad that he let me try it again 'Cause my last time on earth I lived a whole lot of sin I'm so glad that I know more than I knew then Gonna keep on trying 'til I reach my highest ground Teachers keep on teaching Preachers keep on preaching World keep on turning 'Cause it won't be too long Lovers keep on loving Believers keep on believing Sleepers, just stop sleeping 'Cause it won't be too long I'm so glad that he let me try it again 'Cause my last time on earth I lived a whole lot of sin I'm so glad that I know more than I knew then Gonna keep on trying 'til I reach my highest ground 'Til I reach my highest ground No one's gonna bring me down 'Til I reach my highest ground Don't you let nobody bring you down There's no control God is gonna show you how"
+  },
+  "metadata": {
+    "youtube_id": "1esf0efHbjM",
+    "title_extracted": null,
+    "corpus_id": "1esf0efHbjM",
+    "uploader": "Stevie Wonder",
+    "audio_file": "corpus/01_music_videos_audio/audio/1esf0efHbjM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7123588,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.77798,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:56:48Z"
+  },
+  "status": "success",
+  "error": null
+}

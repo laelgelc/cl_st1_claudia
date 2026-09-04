@@ -1,0 +1,38 @@
+{
+  "corpus_id": "8WYHDfJDPDc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8WYHDfJDPDc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/8WYHDfJDPDc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/8WYHDfJDPDc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Welcome to Nellyville, where all newborns get a hundred mill. Son, get a million soon as they can reach the wheel. And daughters gets diamonds the size of their age, y'all know. One year gets one carat, two years gets two carats. Ah, ah, ah, ah. I love you, and I need you. Nelly, I love you, I do. Need. No matter what I do, all I think about is you. Even when I'm with my boo, boy, you know I'm crazy over you. No matter what I do, all I think about is you. Even when I'm with my boo, you know I'm crazy over you. I met this chick and she just moved right up the block from me, and, uh, she got the hots for me, the finest thing my eyes done seen. But oh, no, no, she got a man and a son, though. Oh, but that's okay, 'cause I wait for my cue and just listen, play my position like a shortstop, pick up everything mommy hittin' in no time, ah. I better make this one mine, ah. And that's for sure 'cause I, I never been the type to break up a happy home, but, uh, it's something 'bout baby girl I just can't leave alone. So tell me, ma, what's it gonna be? She said, You don't know what you mean to me. No matter what I do, all I think about is you. Even when I'm with my boo, boy, you know I'm crazy over you. No matter what I do, all I think about is you. Even when I'm with my boo, you know I'm crazy over you. I see you out and you lookin', I never say a word. I know how shorty can trip and I heard about your herd. There's no way, hey, Nelly gon' fight over no dame, hey, as you can see, but, uh, I like your steez, your style, your whole demeanor, the way you come through and holler and swoop me in his two-seater. Now, that's gangsta, and I got special ways to thank ya. Don't you forget it, but, uh, it ain't that easy for you to pack up and leave him, but, uh, you and dirty got ties for different reasons. I respect that and right before I turn to leave, she said, You don't know what you mean to me. No matter what I do, all I think about is you. Even when I'm with my boo, boy, you know I'm crazy over you. No matter what I do, all I think about is you. Even when I'm with my boo, you know I'm crazy over you. Sing it for me, Kelly. And I love you, and I need you. Nelly, I love you, I do. Come on, girl. And it's more than you'll ever know, boy, it's for sure. You can always count on my love forevermore, yeah, yeah. East Coast, I know you shake it right. Down South, I know you bounce it right. West Coast, I know you walk it right. You don't know what you mean to me. No matter what I do, all I think about is you. Even when I'm with my boo, boy, you know I'm crazy over you. No matter what I do, all I think about is you. Even when I'm with my boo, you know I'm crazy over you. East Coast, I know you shake it right. Down South, I know you bounce it right. West Coast, I know you walk it right. Midwest, I see you swingin' right. You don't know what you mean to me. East Coast, you still shake it right. Down South, I see you bounce it right. West Coast, I know you walk it right. You don't know what you mean to me. Midwest, I see you swingin' right. No matter what I do, all I think about is you. Even when I'm with my boo, you know I'm crazy over you. No matter what I do, all I think about is you. Even when I'm with my boo."
+  },
+  "metadata": {
+    "youtube_id": "8WYHDfJDPDc",
+    "title_extracted": null,
+    "corpus_id": "8WYHDfJDPDc",
+    "uploader": "Nelly",
+    "audio_file": "corpus/01_music_videos_audio/audio/8WYHDfJDPDc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8988616,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.119887,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:52:26Z"
+  },
+  "status": "success",
+  "error": null
+}

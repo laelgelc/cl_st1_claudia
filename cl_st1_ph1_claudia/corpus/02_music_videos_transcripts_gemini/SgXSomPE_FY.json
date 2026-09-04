@@ -1,0 +1,38 @@
+{
+  "corpus_id": "SgXSomPE_FY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/SgXSomPE_FY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/SgXSomPE_FY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/SgXSomPE_FY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "[01:04] The thrill is gone\n[01:10] The thrill is gone away\n[01:16] The thrill is gone, baby\n[01:23] The thrill is gone away\n[01:29] You done me wrong, baby\n[01:34] You'll be sorry, someday\n\n[01:41] The thrill is gone\n[01:47] The thrill is gone away from me\n[01:54] The thrill is gone, baby\n[02:00] The thrill is gone away from me\n[02:06] Although I'll still live on\n[02:12] But so lonely I'll be\n\n[04:49] Woo!\n\n[07:15] I'm free now, baby\n[07:20] I'm free from your spell\n[07:26] Free, free, free now, baby\n[07:33] I'm free from your spell\n[07:39] Now that it's all over\n[07:44] All I can do is wish you well\n\n[07:53] I'd like to thank you.\n[08:00] I'd like to thank these three young men sitting down in front with me.\n[08:09] They treat me so good, I'm beginning to feel special.\n[08:14] I said they treat me so well, I feel special!\n[08:21] Thank you. Thank you.\n\n[08:33] Hot dog, go ahead!\n[08:48] Boy, you sure do play that...\n[08:51] Say, like that lady said, you play that thing!"
+  },
+  "metadata": {
+    "youtube_id": "SgXSomPE_FY",
+    "title_extracted": null,
+    "corpus_id": "SgXSomPE_FY",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/SgXSomPE_FY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 21302994,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.402167,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:12:29Z"
+  },
+  "status": "success",
+  "error": null
+}

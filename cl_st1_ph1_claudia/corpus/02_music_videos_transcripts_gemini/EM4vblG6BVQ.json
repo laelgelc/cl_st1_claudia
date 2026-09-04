@@ -1,0 +1,38 @@
+{
+  "corpus_id": "EM4vblG6BVQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/EM4vblG6BVQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/EM4vblG6BVQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/EM4vblG6BVQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "This song is not a rebel song. This song is Sunday, Bloody Sunday! Ah, ah-ah-ah, oh, oh... I can't believe the news today I can't close my eyes and make it go away How long, how long must we sing this song? How long? How long? 'Cause tonight we can be as one tonight Broken bottles under children's feet And bodies strewn across the dead end street But I won't heed the battle call Puts my back up, my back up against the wall Sunday, Bloody Sunday Sunday, Bloody Sunday Sunday, Bloody Sunday Oh, Sunday! And the battle's just begun There's many lost, but tell me who has won? The trench is dug within our hearts And mothers, children, brothers, sisters torn apart Sunday, Bloody Sunday Sunday, Bloody Sunday How long, how long must we sing this song? How long? How long? 'Cause tonight we can be as one tonight Tonight, tonight, tonight, tonight, yeah! Wipe it off! Let it fly! Say no more! Say! Say no more! No more! No more! No more! No more! No more! Wipe the tears away Wipe the tears away Wipe your bloodshot eyes Sunday, Bloody Sunday Sunday, Bloody Sunday Shhh... Sunday, Bloody Sunday I'm so sick of it! Yeah! And it's true we are immune When fact is fiction and TV reality And today the millions cry We eat and drink while tomorrow they die The real battle yet begun To claim the victory Jesus won, on... Sunday, Bloody Sunday Sunday, Bloody Sunday Sunday, Bloody Sunday Sunday, Bloody Sunday!"
+  },
+  "metadata": {
+    "youtube_id": "EM4vblG6BVQ",
+    "title_extracted": null,
+    "corpus_id": "EM4vblG6BVQ",
+    "uploader": "U2",
+    "audio_file": "corpus/01_music_videos_audio/audio/EM4vblG6BVQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11109990,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.765534,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:55:13Z"
+  },
+  "status": "success",
+  "error": null
+}

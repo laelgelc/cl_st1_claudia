@@ -1,0 +1,38 @@
+{
+  "corpus_id": "A3QAqZQYLIQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/A3QAqZQYLIQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/A3QAqZQYLIQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/A3QAqZQYLIQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Every night in my dreams I see you, I feel you\nThat is how I know you go on\n\nFar across the distance and spaces between us\nYou have come to show you go on\n\nNear, far, wherever you are\nI believe that the heart does go on\nOnce more, you open the door\nAnd you're here in my heart\nAnd my heart will go on and on\n\nLove can touch us one time and last for a lifetime\nAnd never let go 'til we're gone\nLove was when I loved you, one true time I hold to\nIn my life, we'll always go on\n\nNear, far, wherever you are\nI believe that the heart does go on\nOnce more, you open the door\nAnd you're here in my heart\nAnd my heart will go on and on\n\nYou're here, there's nothing I fear\nAnd I know that my heart will go on\nWe'll stay forever this way\nYou are safe in my heart and my heart will go on and on"
+  },
+  "metadata": {
+    "youtube_id": "A3QAqZQYLIQ",
+    "title_extracted": null,
+    "corpus_id": "A3QAqZQYLIQ",
+    "uploader": "TitanicMemorial",
+    "audio_file": "corpus/01_music_videos_audio/audio/A3QAqZQYLIQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8824404,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.946114,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:08:29Z"
+  },
+  "status": "success",
+  "error": null
+}

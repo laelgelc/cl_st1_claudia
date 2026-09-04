@@ -1,0 +1,38 @@
+{
+  "corpus_id": "puM1k-S86nE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/puM1k-S86nE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/puM1k-S86nE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/puM1k-S86nE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "When this old world starts getting me down And people are just too much for me to face I climb way up to the top of the stairs And all my cares just drift right into space On the roof, it's peaceful as can be And there the world below can't bother me Let me tell you now When I come home feeling tired and beat I go up where the air is fresh and sweet Up on the roof I get away from the hustling crowd And all that rat race noise down in the street Up on the roof On the roof, the only place I know Where you just have to wish to make it so Let's go up on the roof Up on the roof At night the stars put on a show for free And darling, you can share it all with me I keep a-telling you Right smack dab in the middle of town I've found a paradise that's trouble-proof Up on the roof And if this world starts getting you down There's room enough for two Up on the roof Up on the roof Up on the roof Up on the roof Oh, come on, baby Up on the roof Oh, come on up Up on the roof Everything is all right Up on the roof"
+  },
+  "metadata": {
+    "youtube_id": "puM1k-S86nE",
+    "title_extracted": null,
+    "corpus_id": "puM1k-S86nE",
+    "uploader": "Jack Gauntt",
+    "audio_file": "corpus/01_music_videos_audio/audio/puM1k-S86nE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4992554,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.852266,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:23:59Z"
+  },
+  "status": "success",
+  "error": null
+}

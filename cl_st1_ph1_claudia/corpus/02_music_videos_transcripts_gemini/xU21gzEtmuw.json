@@ -1,0 +1,38 @@
+{
+  "corpus_id": "xU21gzEtmuw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/xU21gzEtmuw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/xU21gzEtmuw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/xU21gzEtmuw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Bong, bong.\nDoo-doo doo-doo doo, magic, oh.\nDoo-doo doo-doo doo, magic, oh.\nDoo-doo doo-doo doo.\nBong, bong.\nDoo-doo doo-doo, doo-doo doo-doo.\n\nThere goes my baby\nMoving on down the line\nWonder where, wonder where\nWonder where she's bound\n\nI broke her heart\nAnd made her cry\nNow I'm alone\nSo all alone\nWhat can I do?\nWhat can I do?\n\nThere goes my baby\nThere goes my baby\nThere goes my baby\nThere she goes\nYeah\n\nDid she really love me?\nDid she really love me?\nWas she just playing\nMe for a fool?\n\nI wonder why she left me\nWhy did she leave me\nSo all alone?\nSo all alone\n\nI'm gonna tell her that I love her\nAnd that I need her\nBeside my side\nTo be my guide\n\nI wanna know, oh where is my\nOh where is my baby?\nI want my baby\nI need my baby\nYeah\nWhoa, whoa, whoa, whoa\nThere goes my baby\nThere goes my baby\nWhoa, oh, oh"
+  },
+  "metadata": {
+    "youtube_id": "xU21gzEtmuw",
+    "title_extracted": null,
+    "corpus_id": "xU21gzEtmuw",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/xU21gzEtmuw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4258432,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.838981,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:10:38Z"
+  },
+  "status": "success",
+  "error": null
+}

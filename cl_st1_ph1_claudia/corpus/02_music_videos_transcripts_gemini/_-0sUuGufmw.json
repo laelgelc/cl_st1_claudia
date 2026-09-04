@@ -1,0 +1,38 @@
+{
+  "corpus_id": "_-0sUuGufmw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/_-0sUuGufmw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/_-0sUuGufmw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/_-0sUuGufmw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "We started dancing and love put us into a groove As soon as we started to move The music played while our bodies displayed for the dance Then love came us out for romance I thought it was clear the plan was we were sharing this feeling just between ourselves But when the music changed, the plan was rearranged You went to dance with someone else We started dancing and love put us into a groove But now he's with somebody new What does love want me to do? Oh, I say Let the music play He won't get away Just keep grooving and he'll come back to you again Let the music play He won't get away This groove he can't ignore, he won't leave the floor He tried pretending our dance was just a dance, but I see He's dancing his way back to me Yes, he discovered we are truly lovers, magic from the very start 'Cause love just kept growing and it kept on moving even though we danced apart We started dancing and love put us into a groove As soon as we started to move As soon as we started to move Love said Let the music play He won't get away Just keep grooving and he'll come back to you again Let the music play He won't get away This groove he can't ignore, he won't leave the floor He tried pretending our dance was just a dance, but I see He's dancing his way back to me He's dancing his way back to me Love said Let the music play He won't get away Just keep grooving and he'll come back to you again Let the music play (Let the music play) He won't get away This groove he can't ignore, he won't leave the floor Let the music play (Let the music play) Just keep grooving and he'll come back to you again"
+  },
+  "metadata": {
+    "youtube_id": "_-0sUuGufmw",
+    "title_extracted": null,
+    "corpus_id": "_-0sUuGufmw",
+    "uploader": "UnidiscMusic",
+    "audio_file": "corpus/01_music_videos_audio/audio/_-0sUuGufmw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7015848,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.171268,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:29:50Z"
+  },
+  "status": "success",
+  "error": null
+}

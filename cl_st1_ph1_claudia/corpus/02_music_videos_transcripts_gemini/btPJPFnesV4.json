@@ -1,0 +1,38 @@
+{
+  "corpus_id": "btPJPFnesV4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/btPJPFnesV4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/btPJPFnesV4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/btPJPFnesV4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Rising up, back on the street Did my time, took my chances Went the distance, now I'm back on my feet Just a man and his will to survive  So many times it happens too fast You trade your passion for glory Don't lose your grip on the dreams of the past You must fight just to keep them alive  It's the eye of the tiger It's the thrill of the fight Rising up to the challenge of our rival And the last known survivor Stalks his prey in the night And he's watching us all with the eye of the tiger  Face to face, out in the heat Hanging tough, staying hungry They stack the odds 'til we take to the street For the kill with the skill to survive  It's the eye of the tiger It's the thrill of the fight Rising up to the challenge of our rival And the last known survivor Stalks his prey in the night And he's watching us all with the eye of the tiger  Rising up, straight to the top Had the guts, got the glory Went the distance, now I'm not gonna stop Just a man and his will to survive  It's the eye of the tiger It's the thrill of the fight Rising up to the challenge of our rival And the last known survivor Stalks his prey in the night And he's watching us all with the eye of the tiger  The eye of the tiger The eye of the tiger The eye of the tiger The eye of the tiger"
+  },
+  "metadata": {
+    "youtube_id": "btPJPFnesV4",
+    "title_extracted": null,
+    "corpus_id": "btPJPFnesV4",
+    "uploader": "Survivor Band",
+    "audio_file": "corpus/01_music_videos_audio/audio/btPJPFnesV4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7836162,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.871961,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:49:55Z"
+  },
+  "status": "success",
+  "error": null
+}

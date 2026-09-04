@@ -1,0 +1,38 @@
+{
+  "corpus_id": "5gqEJT1lxgk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/5gqEJT1lxgk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/5gqEJT1lxgk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/5gqEJT1lxgk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I got my red dress on tonight\nDancing in the dark in the pale moonlight\nDone my hair up real big, beauty queen style\nHigh heels off, I'm feeling alive\n\nOh, my God, I feel it in the air\nTelephone wires above\nAre sizzling like a snare\nHoney, I'm on fire, I feel it everywhere\nNothing scares me anymore\n\nKiss me hard before you go\nSummertime sadness\nI just wanted you to know\nThat baby, you're the best\n\nI got that summertime, summertime sadness\nGot that summertime, summertime sadness\nGot that summertime, summertime sadness\nOh, oh, oh\n\nI got that summertime, I got that summertime\nI got that summertime, I got that summertime sadness\nI got that summertime, I got that summertime\nI got that summertime, summertime sadness\n\nI'm feeling electric tonight\nCruising down the coast, going 'bout 99\nGot my bad baby by my heavenly side\nI know if I go, I'll die happy tonight\n\nOh, my God, I feel it in the air\nTelephone wires above\nAre sizzling like a snare\nHoney, I'm on fire, I feel it everywhere\nNothing scares me anymore\n\nKiss me hard before you go\nSummertime sadness\nI just wanted you to know\nThat baby, you're the best\n\nI got that summertime, summertime sadness\nGot that summertime, summertime sadness\nGot that summertime, summertime sadness\nOh, oh, oh\n\nOh, I got that summertime\nI got that summertime, summertime sadness\nI got that summertime, summertime sadness\nGot that summertime, summertime sadness\nOh, oh, oh\nGot that summertime\nI got that summertime, summertime sadness\nGot that summertime, summertime sadness\nGot that summertime, summertime sadness\nOh, oh, oh"
+  },
+  "metadata": {
+    "youtube_id": "5gqEJT1lxgk",
+    "title_extracted": null,
+    "corpus_id": "5gqEJT1lxgk",
+    "uploader": "Lana Del Rey",
+    "audio_file": "corpus/01_music_videos_audio/audio/5gqEJT1lxgk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6893246,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.698727,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:29:32Z"
+  },
+  "status": "success",
+  "error": null
+}

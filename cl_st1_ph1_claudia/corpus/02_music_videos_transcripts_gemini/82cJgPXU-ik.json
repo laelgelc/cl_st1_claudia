@@ -1,0 +1,38 @@
+{
+  "corpus_id": "82cJgPXU-ik",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/82cJgPXU-ik.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/82cJgPXU-ik.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/82cJgPXU-ik.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "- **Female:** Hi, how are you doing? I'm doing good. How are you doing? What's your name?\n- **Male:** Billy.\n- **Female:** Ooh, I like that name. Have you been a good little boy?\n- **Male:** Yes. Yes.\n- **Female:** How old are you, Billy?\n- **Male:** 26. I'm an entertainment lawyer in Beverly Hills.\n\n---\n\n- **Male:** Sweet emotion\n- **Male:** Sweet emotion\n\n---\n\n- **Male:** Talk about things that nobody cares\n- **Male:** Wearin' out things that nobody wears\n- **Male:** You're callin' my name, but I gotta make clear\n- **Female:** A see-through lace shirt.\n- **Male:** Can't say, baby, where I'll be in a year\n- **Female:** And these panties on me.\n\n---\n\n- **Male:** Some sweet-talkin' mama with a face like a giant\n- **Male:** Said my get-up-and-go must've got up and went\n- **Male:** Well, I got good news, she's a real good liar\n- **Male:** 'Cause the backstage boogie set her pants on fire\n- **Female:** Am I real hot?\n\n---\n\n- **Male:** Sweet emotion\n- **Male:** Sweet emotion\n\n---\n\n- **Male:** I pulled into town in a police car\n- **Male:** Your daddy said I took you just a little too far\n- **Female:** Oh, Billy.\n- **Male:** You tellin' me things 'bout your girlfriend's lime\n- **Female:** What are you gonna do to me?\n- **Male:** You can't catch me 'cause the rabbit done died\n- **Male:** Yes, I did!\n\n---\n\n- **Female:** Yes, Billy.\n- **Male:** Standin' in front just a-shakin' your ass\n- **Female:** What else?\n- **Male:** I take you backstage, you can drink from my glass\n- **Male:** Talk about somethin' you can understand\n- **Male:** Wait, can you hold on for just a second?\n- **Male:** 'Cause a month on the road, and I'll be eatin' from your hand\n\n---\n\n- **Female:** Is that all, Billy?\n\n---\n\n- **Female:** It's been real fun, Billy.\n- **Male:** Yeah.\n- **Female:** Call me again sometime, honey."
+  },
+  "metadata": {
+    "youtube_id": "82cJgPXU-ik",
+    "title_extracted": null,
+    "corpus_id": "82cJgPXU-ik",
+    "uploader": "Aerosmith",
+    "audio_file": "corpus/01_music_videos_audio/audio/82cJgPXU-ik.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8978956,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.19311,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:12:23Z"
+  },
+  "status": "success",
+  "error": null
+}

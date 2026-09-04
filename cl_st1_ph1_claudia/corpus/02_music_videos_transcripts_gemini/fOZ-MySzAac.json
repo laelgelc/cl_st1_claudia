@@ -1,0 +1,38 @@
+{
+  "corpus_id": "fOZ-MySzAac",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/fOZ-MySzAac.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/fOZ-MySzAac.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/fOZ-MySzAac.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Sometimes in our lives We all have pain We all have sorrow But if we are wise We know that there's Always tomorrow Lean on me When you're not strong And I'll be your friend I'll help you carry on For it won't be long 'Til I'm gonna need Somebody to lean on Please swallow your pride If I have things You need to borrow For no one can fill Those of your needs That you won't let show You just call on me brother When you need a hand We all need somebody to lean on I just might have a problem That you'll understand We all need somebody to lean on Lean on me When you're not strong And I'll be your friend I'll help you carry on For it won't be long 'Til I'm gonna need Somebody to lean on You just call on me brother When you need a hand We all need somebody to lean on I just might have a problem That you'll understand We all need somebody to lean on If there is a load You have to bear That you can't carry I'm right up the road I'll share your load If you just call me Call me If you need a friend Call me Call me If you need a friend Call me Call me If you ever need a friend Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me"
+  },
+  "metadata": {
+    "youtube_id": "fOZ-MySzAac",
+    "title_extracted": null,
+    "corpus_id": "fOZ-MySzAac",
+    "uploader": "Bill Withers",
+    "audio_file": "corpus/01_music_videos_audio/audio/fOZ-MySzAac.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8241118,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 25.040746,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:08:29Z"
+  },
+  "status": "success",
+  "error": null
+}

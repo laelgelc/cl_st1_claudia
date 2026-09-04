@@ -1,0 +1,38 @@
+{
+  "corpus_id": "w6QGe-pXgdI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/w6QGe-pXgdI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/w6QGe-pXgdI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/w6QGe-pXgdI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Okay, check it, check it, check it out It's Santana again, stepping, stepping, stepping out Wanted a brand new big boy toys I do big boy things, I make big boy noise, 'cause I know what girls want I know what they like They wanna stay up And party all night So bring a friend Lately how I see you, tell you how it is I was thinking when I saw that body, gotta get shorty Tell her what the young boy gonna do Damn, them chicks with you gotta be your kin 'Cause they pretty thick with a kickass hip So tell me what y'all gonna do I got friends and you got friends We can hop out and you hop in I like fly and they like fly The way you drop down makes me wanna pop out I got friends and you got friends We can hop out and you hop in I like fly and they like fly The way you drop down makes me wanna pop out Is your man on the floor? If he ain't, let me know Let me see if you can run it, run it Girl, indeed I can run it, run it Is your man on the floor? If he ain't, let me know Let me see if you can run it, run it Girl, indeed I can run it, run it Come here You see, girl, I can set you up Don't believe my age is gonna slow me down I can definitely show you things And if you're saying I can't be 16 Once I get in, you won't let go I'll have the girls wishing they were you I know you heard about me But guess what's going down really I got friends and you got friends We can hop out and you hop in I like fly and they like fly The way you drop down makes me wanna pop out I got friends and you got friends We can hop out and you hop in I like fly and they like fly The way you drop down makes me wanna pop out Is your man on the floor? If he ain't, let me know Let me see if you can run it, run it Girl, indeed I can run it, run it Is your man on the floor? If he ain't, let me know Let me see if you can run it, run it Girl, indeed I can run it, run it Let's go Do you feel right? Make you feel like Wanna do a little something? Ain't no thing, let's do it for show Girl, the way that you win them jeans is turning me on I had to stop and dance in these streets, so baby won't you ride with me? Make it drop, honey, make it pop, honey Whip-wap, tick-tock to the clock for me Don't stop doing that And shorty know I mean what I say, so she won't stop doing that Plus I heard if you can dance, you can bump, well dance time is up Let's go, let's go We can get it in, we can get some friends Do it like the Ying Yang Twins, start whispering Listen... Let me fall back You ain't ready for all that Have you sleep late, real late, yeah, taking them long naps You tell your friends to get with my friends We can be friends, switch and meet friends We can do it all night long, and Till the clock hit morning, ya dig? Is your man on the floor? If he ain't, let me know Let me see if you can run it, run it Girl, indeed I can run it, run it Is your man on the floor? If he ain't, let me know Let me see if you can run it, run it Girl, indeed I can run it, run it"
+  },
+  "metadata": {
+    "youtube_id": "w6QGe-pXgdI",
+    "title_extracted": null,
+    "corpus_id": "w6QGe-pXgdI",
+    "uploader": "Chris Brown",
+    "audio_file": "corpus/01_music_videos_audio/audio/w6QGe-pXgdI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8028610,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.639111,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:58:22Z"
+  },
+  "status": "success",
+  "error": null
+}

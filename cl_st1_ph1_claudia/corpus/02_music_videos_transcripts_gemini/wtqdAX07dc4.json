@@ -1,0 +1,38 @@
+{
+  "corpus_id": "wtqdAX07dc4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wtqdAX07dc4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/wtqdAX07dc4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/wtqdAX07dc4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Since I met you, I've begun to feel so strange Every time I speak your name (that's funny) You say that you are so helpless, too That you don't know what to do Each night I pray there will never come a day When you up and take your love away Say you feel the same way, too And I wonder what it is I feel for you Could it be I'm falling in love with you, baby? Could it be I'm falling in love? Could it be I'm falling in love with you? With you? With you? With you? I don't need all those things that used to bring me joy You made me such a happy boy And honey, you'll always be the only one for me Needing you was my destiny And you can be sure I will never let you down When you need me, I'll be around And darling, you'll always be the only one for me Heaven made you especially Could it be I'm falling in love with you, baby? Could it be I'm falling in love? Could it be I'm falling in love with you? With you? With you? With you? And darling, you'll always be the only one for me Heaven made you especially Could it be I'm falling in love with you, baby? Could it be I'm falling in love? (I wanna know now, baby) Could it be I'm falling in love with you? With you? With you? With you? I'm holding out my heart in my hands I'm gonna be as strong as I can, baby And you used to seem far, far, far, but right now I feel so, so, so close"
+  },
+  "metadata": {
+    "youtube_id": "wtqdAX07dc4",
+    "title_extracted": null,
+    "corpus_id": "wtqdAX07dc4",
+    "uploader": "Louis De Nennie",
+    "audio_file": "corpus/01_music_videos_audio/audio/wtqdAX07dc4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7880746,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.780547,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:24:35Z"
+  },
+  "status": "success",
+  "error": null
+}

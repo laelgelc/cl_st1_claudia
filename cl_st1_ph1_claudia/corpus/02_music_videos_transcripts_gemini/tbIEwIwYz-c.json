@@ -1,0 +1,38 @@
+{
+  "corpus_id": "tbIEwIwYz-c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/tbIEwIwYz-c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/tbIEwIwYz-c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/tbIEwIwYz-c.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "First time was a great time. Second time was a blast. Third time I fell in love, now I hope it lasts. I can see it in your walk, tell it when you talk, see it in everything you do, even in your thoughts, you got the right stuff, baby. Love the way you turn me on. You got the right stuff, baby. You're the reason why I sing this song. All that I needed was you, oh girl, you're so right. And all that I wanted was you, you made all my dreams come true. Oh, oh, oh, oh, oh! Oh, oh, oh, oh, oh! Oh, oh, oh, oh, oh, the right stuff. Oh, oh, oh, oh, oh! Oh, oh, oh, oh, oh! Oh, oh, oh, oh, oh, the right stuff. Your first kiss was the sweetest, second kiss had a twist. Third and your fourth kiss, I don't wanna miss. I can see it in your walk, tell it when you talk, see it in everything you do, even in your thoughts, you got the right stuff, baby. Love the way you turn me on. You got the right stuff, baby. You're the reason why I sing this song. All that I needed was you in my life, you're so right. And all that I wanted was you, you made all, every one of my dreams come true. Oh, oh, oh, oh, oh! Oh, oh, oh, oh, oh! Oh, oh, oh, oh, oh, the right stuff. Oh, oh, oh, oh, oh! Oh, oh, oh, oh, oh! Oh, oh, oh, oh, oh, the right stuff. Oh, oh, oh, oh, oh! Oh, oh, oh, oh, oh! Oh, oh, oh, oh, oh, the right stuff. Oh, oh, oh, oh, oh! Oh, oh, oh, oh, oh! Oh, oh, oh, oh, oh, the right stuff. Girl, yeah baby, yeah. You know you got the right stuff. And girl, yeah baby, you know, you know you got it, girl. In my life, you're so right. You made all... in my teaching. Oh, oh, oh, oh, oh! Oh, oh, oh, oh, oh! Oh, oh, oh, oh, oh, the right stuff. Oh, oh, oh, oh, oh! Oh, oh, oh, oh, oh! Oh, oh, oh, oh, oh, the right stuff. You got the right stuff, baby. Love the way you turn me on. You got the right stuff, baby. You're the reason why I sing this song. Oh, oh, oh, oh, oh! Oh, oh, oh..."
+  },
+  "metadata": {
+    "youtube_id": "tbIEwIwYz-c",
+    "title_extracted": null,
+    "corpus_id": "tbIEwIwYz-c",
+    "uploader": "New Kids on the Block",
+    "audio_file": "corpus/01_music_videos_audio/audio/tbIEwIwYz-c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8044214,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.130666,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:08:05Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "lQtZUTRCLcY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/lQtZUTRCLcY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/lQtZUTRCLcY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/lQtZUTRCLcY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Well, he walked up to me and he asked me if I wanted to dance He looked kinda nice, so I said I might take a chance When he danced, he held me tight And when he walked me home that night All the stars were shining bright And then he kissed me Each time I saw him, I couldn't wait to see him again I wanted to let him know that he was more than a friend I didn't know just what to do So I whispered, \"I love you\" He said that he loved me, too And then he kissed me He kissed me in a way that I've never been kissed before He kissed me in a way that I wanna be kissed forevermore I knew that he was mine, so I gave him all the love that I had And one day, he took me home to meet his mama and dad Then he asked me to be his bride And always be right by his side Felt so happy, I almost cried And then he kissed me Then he asked me to be his bride And always be right by his side Felt so happy, I almost cried And then he kissed me And then he kissed me And then he kissed me"
+  },
+  "metadata": {
+    "youtube_id": "lQtZUTRCLcY",
+    "title_extracted": null,
+    "corpus_id": "lQtZUTRCLcY",
+    "uploader": "Canal Sergio Alvarez",
+    "audio_file": "corpus/01_music_videos_audio/audio/lQtZUTRCLcY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4994784,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.802346,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:15:18Z"
+  },
+  "status": "success",
+  "error": null
+}

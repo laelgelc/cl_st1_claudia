@@ -1,0 +1,38 @@
+{
+  "corpus_id": "969RAKkYESU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/969RAKkYESU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/969RAKkYESU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/969RAKkYESU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "If I fall a long way\nPick me up and dust me off\nAnd if I get too tired to make it\nBe my breath so I can walk\nAnd if I need some other loving\nYou give me more than I can stand\nWhen my smile gets old and faded\nWait around and I'll smile again\nIt shouldn't be so complicated\nJust hold me in then\nOr just hold me again\n\nCan you help me? I'm bent\nI'm so scared that I'll never\nGet put back together\nKeep breaking me in\nAnd this is how we relate\nWith you and me in bits\n\nIf I couldn't sleep, could you sleep?\nCould you paint me better off?\nCould you sympathize with my needs?\nI know you think I need a lot\nI started out clean, but I'm jaded\nJust folding it in\nOr just breaking my skin\n\nCan you help me? I'm bent\nI'm so scared that I'll never\nGet put back together\nKeep breaking me in\nAnd this is how we relate\nWith you and me in bits\n\nStart bending me\nIt's never enough\n'Til I feel all your pieces\nStart bending me\nKeep bending me on\nSee how I'm folding\n\nIt shouldn't be so complicated\nJust touch me in then\nOr just touch me again\n\nCan you help me? I'm bent\nI'm so scared that I'll never\nGet put back together\nKeep breaking me in\nAnd this is how we relate\nWith you and me in bits\nWithout understanding\nHere I go there again\n\nCan you help me? I'm bent\nI'm so scared that I'll never\nGet put back together\nYeah, you're breaking me in\nAnd this is how we relate\nWith you and me in bits"
+  },
+  "metadata": {
+    "youtube_id": "969RAKkYESU",
+    "title_extracted": null,
+    "corpus_id": "969RAKkYESU",
+    "uploader": "Matchbox Twenty",
+    "audio_file": "corpus/01_music_videos_audio/audio/969RAKkYESU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7924584,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.513301,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:57:06Z"
+  },
+  "status": "success",
+  "error": null
+}

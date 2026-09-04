@@ -1,0 +1,38 @@
+{
+  "corpus_id": "fWNaR-rxAic",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/fWNaR-rxAic.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/fWNaR-rxAic.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/fWNaR-rxAic.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I threw a wish in the well\nDon't ask me, I'll never tell\nI looked to you as it fell\nAnd now you're in my way\n\nI'd trade my soul for a wish\nPennies and dimes for a kiss\nI wasn't looking for this\nBut now you're in my way\n\nYour stare was holding\nRipped jeans, skin was showing\nHot night, wind was blowing\nWhere you think you're going, baby?\n\nHey, I just met you\nAnd this is crazy\nBut here's my number\nSo call me maybe\n\nIt's hard to look right\nAt you, baby\nBut here's my number\nSo call me maybe\n\nHey, I just met you\nAnd this is crazy\nBut here's my number\nSo call me maybe\n\nAnd all the other boys\nTry to chase me\nBut here's my number\nSo call me maybe\n\nYou took your time with the call\nI took no time with the fall\nYou gave me nothing at all\nBut still you're in my way\n\nI beg and borrow and steal\nAt first sight it's real\nI didn't know I would feel it\nBut it's in my way\n\nYour stare was holding\nRipped jeans, skin was showing\nHot night, wind was blowing\nWhere you think you're going, baby?\n\nHey, I just met you\nAnd this is crazy\nBut here's my number\nSo call me maybe\n\nIt's hard to look right\nAt you, baby\nBut here's my number\nSo call me maybe\n\nHey, I just met you\nAnd this is crazy\nBut here's my number\nSo call me maybe\n\nAnd all the other boys\nTry to chase me\nBut here's my number\nSo call me maybe\n\nBefore you came into my life, I missed you so bad\nI missed you so bad\nI missed you so, so bad\nBefore you came into my life, I missed you so bad\nAnd you should know that\nI missed you so, so bad\n\nIt's hard to look right\nAt you, baby\nBut here's my number\nSo call me maybe\n\nHey, I just met you\nAnd this is crazy\nBut here's my number\nSo call me maybe\n\nAnd all the other boys\nTry to chase me\nBut here's my number\nSo call me maybe\n\nBefore you came into my life, I missed you so bad\nI missed you so bad\nI missed you so, so bad\nBefore you came into my life, I missed you so bad\nAnd you should know that\nSo call me maybe"
+  },
+  "metadata": {
+    "youtube_id": "fWNaR-rxAic",
+    "title_extracted": null,
+    "corpus_id": "fWNaR-rxAic",
+    "uploader": "Carly Rae Jepsen",
+    "audio_file": "corpus/01_music_videos_audio/audio/fWNaR-rxAic.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6382780,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.163571,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:24:37Z"
+  },
+  "status": "success",
+  "error": null
+}

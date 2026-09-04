@@ -1,0 +1,38 @@
+{
+  "corpus_id": "WrMGGouem3c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/WrMGGouem3c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/WrMGGouem3c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/WrMGGouem3c.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "We're caught in a trap\nI can't walk out\nBecause I love you too much, baby\n\nWhy can't you see\nWhat you're doing to me\nWhen you don't believe a word I say?\n\nWe can't go on together\nWith suspicious minds\nAnd we can't build our dreams\nOn suspicious minds\n\nSo if an old friend I know\nStops by to say hello\nWould I still see suspicion in your eyes?\n\nHere we go again\nAsking where I've been\nYou can't see the tears are real I'm crying\n\nWe can't go on together\nWith suspicious minds\nAnd we can't build our dreams\nOn suspicious minds\n\nOh, let our love survive\nOr dry the tears from your eyes\nLet's don't let a good thing die\nWhen honey, you know I've never lied to you\nMmm, yeah, yeah, yeah\n\nWe're caught in a trap\nI can't walk out\nBecause I love you too much, baby\n\nWhy can't you see\nWhat you're doing to me\nWhen you don't believe a word I say?\n\nDon't you know I'm caught in a trap?\nI can't walk out\nBecause I love you too much, baby\n\nDon't you know I'm caught in a trap?\nI can't walk out\nBecause I love you too much, baby\n\nDon't you know I'm caught in a trap?\nI can't walk out\nBecause I love you too much, baby\n\nAlright, alright, alright, come on!"
+  },
+  "metadata": {
+    "youtube_id": "WrMGGouem3c",
+    "title_extracted": null,
+    "corpus_id": "WrMGGouem3c",
+    "uploader": "Elvis Presley",
+    "audio_file": "corpus/01_music_videos_audio/audio/WrMGGouem3c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7521858,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.407138,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:44:03Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "0-EF60neguk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/0-EF60neguk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/0-EF60neguk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/0-EF60neguk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "It's been seven hours and fifteen days  Since you took your love away  I go out every night and sleep all day  Since you took your love away  Since you've been gone I can do whatever I want  I can see whoever I choose  I can eat my dinner in a fancy restaurant  But nothing, I said nothing can take away these blues  'Cause nothing compares  Nothing compares to you  It's been so lonely without you here  Like a bird without a song  Nothing can stop these lonely tears from falling  Tell me baby, where did I go wrong?  I could put my arms around every boy I see  They only remind me of you  I went to the doctor, guess what he told me, guess what he told me  He said, \"Girl, you better try to have fun no matter what you do\"  But he's a fool  'Cause nothing compares  Nothing compares to you  All the flowers that you planted mama  In the backyard  All died when you went away  I know that living with you baby was sometimes hard  But I'm willing to give it another try  Nothing compares  Nothing compares to you  Nothing compares  Nothing compares to you  Nothing compares  Nothing compares to you"
+  },
+  "metadata": {
+    "youtube_id": "0-EF60neguk",
+    "title_extracted": null,
+    "corpus_id": "0-EF60neguk",
+    "uploader": "Sinéad O'Connor",
+    "audio_file": "corpus/01_music_videos_audio/audio/0-EF60neguk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9860942,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.526745,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:01:48Z"
+  },
+  "status": "success",
+  "error": null
+}

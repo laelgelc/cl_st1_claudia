@@ -1,0 +1,38 @@
+{
+  "corpus_id": "pBkHHoOIIn8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/pBkHHoOIIn8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/pBkHHoOIIn8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/pBkHHoOIIn8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Can't keep my hands to myself Think I'll just take them off, put 'em back up on the shelf Just in case little baby girl is in need Am I coming out of left field? Ooh, I'm a rebel just for kicks, now I been feeling it since 1966, now Might be over now, but I feel it still Ooh, I'm a rebel just for kicks, now Let me kick it like it's 1986, now Might be over now, but I feel it still Got another mouth to feed Leave it with the babysitter, mama go and get a grave digger Gone with the falling leaves Am I coming out of left field? Ooh, I'm a rebel just for kicks, now I been feeling it since 1966, now Might've had your fill, but I feel it still Ooh, I'm a rebel just for kicks, now Let me kick it like it's 1986, now Might be over now, but I feel it still We could fight a war for peace Give in to that easy living, goodbye to my hopes and dreams Stop flipping for my enemies We could wait until the walls come down It's time to give a little to the kids in the middle, oh The telephone won't bother me Is it coming? Is it coming? Is it coming? Is it coming? Is it coming? Is it coming back? Ooh, I'm a rebel just for kicks, yeah Your love is an abyss for my heart to eclipse, now Might be over now, but I feel it still Ooh, I'm a rebel just for kicks, now I been feeling it since 1966, now Might be over now, but I feel it still Ooh, I'm a rebel just for kicks, now Let me kick it like it's 1986, now Might be over now, but I feel it still Might've had your fill, but I feel it still Fight back! Fight back! Fight back! Fight back! Fight back! Fight back!"
+  },
+  "metadata": {
+    "youtube_id": "pBkHHoOIIn8",
+    "title_extracted": null,
+    "corpus_id": "pBkHHoOIIn8",
+    "uploader": "Portugal. The Man",
+    "audio_file": "corpus/01_music_videos_audio/audio/pBkHHoOIIn8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5447294,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.62292,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:43:01Z"
+  },
+  "status": "success",
+  "error": null
+}

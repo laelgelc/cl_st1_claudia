@@ -1,0 +1,38 @@
+{
+  "corpus_id": "jrL_LzX5wv4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/jrL_LzX5wv4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/jrL_LzX5wv4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/jrL_LzX5wv4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Pack it up, pack it in, let me begin I came to win, battle me, that's a sin I won't ever slack off, punk you better back off Try and play the role and your whole crew'll act up Get up, stand up, come on throw your hands up If you got the feeling, jump up touch the ceiling Muggs is on the funk, someone's talking junk Yo, I'll bust him in the eye and then I'll take the punk's home Feeling funky, amps in a trunk And I got more rhymes than there's cops at a Dunkin' Donut shop, showing off I got props From the kids on the hill plus my mama and my pops I came to get down, I came to get down So get out your seat and jump around Jump around Jump around Jump around Jump up, jump up and get down Jump, jump, jump, jump, everybody jump Jump, jump, jump, jump, everybody jump Jump, jump, jump, jump, everybody jump I'll serve your ass like John McEnroe If your girl steps up, I'm smacking the hoe Word to your moms, I came to drop bombs I got more rhymes than the Bible's got Psalms And just like the Prodigal Son I return Anyone stepping to me, yo you'll get burned Cause I got lyrics, but you ain't got none If you come to battle bring a shotgun But if you do you're a fool cause I duel to the death Trying to step to me you'll take your last breath I got the skill, come get your fill Cause when I shoot the gift I shoot to kill I came to get down, I came to get down So get out your seat and jump around Jump around Jump around Jump around Jump up, jump up and get down Jump, jump, jump, jump, everybody jump Jump, jump, jump, jump, everybody jump Jump, jump, jump, jump, everybody jump Jump, jump, jump, jump I'm the cream of the crop, I rise to the top I never eat a pig cause a pig is a cop Or better yet a terminator, like Arnold Schwarzenegger Trying to play me out like as if my name was Sega But I ain't going out like no punk bitch Get used to one style and yo I might switch It up, up and around then buck buck down Blow out your head and then you wake up in the dawn of the dead I'm coming to get ya, I'm coming to get ya Spitting out lyrics, homie I wet ya I came to get down, I came to get down So get out your seat and jump around Jump around Jump around Jump around Jump up, jump up and get down Jump, jump, jump, jump, everybody jump Jump, jump, jump, jump, everybody jump Jump, jump, jump, jump, everybody jump Jump, jump, jump, jump, everybody jump Jump, jump, jump, jump, everybody jump Jump, jump, jump, jump, everybody jump Jump, jump, jump, jump Yeah, this is dedicated to Joe, The Freak, DJ Muggs, grab your torso"
+  },
+  "metadata": {
+    "youtube_id": "jrL_LzX5wv4",
+    "title_extracted": null,
+    "corpus_id": "jrL_LzX5wv4",
+    "uploader": "HouseOfPainTV",
+    "audio_file": "corpus/01_music_videos_audio/audio/jrL_LzX5wv4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6899192,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.916686,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:23:08Z"
+  },
+  "status": "success",
+  "error": null
+}

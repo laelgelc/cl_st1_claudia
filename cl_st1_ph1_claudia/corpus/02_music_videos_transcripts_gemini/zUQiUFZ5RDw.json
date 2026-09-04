@@ -1,0 +1,38 @@
+{
+  "corpus_id": "zUQiUFZ5RDw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/zUQiUFZ5RDw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/zUQiUFZ5RDw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/zUQiUFZ5RDw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I see the bad moon rising I see trouble on the way I see earthquakes and lightning I see bad times today Don't go around tonight Well, it's bound to take your life There's a bad moon on the rise I hear hurricanes a-blowing I know the end is coming soon I fear rivers overflowing I hear the voice of rage and ruin Don't go around tonight Well, it's bound to take your life There's a bad moon on the rise Alright Hope you got your things together Hope you are quite prepared to die Looks like we're in for nasty weather One eye is taken for an eye Well, don't go around tonight Well, it's bound to take your life There's a bad moon on the rise Don't go around tonight Well, it's bound to take your life There's a bad moon on the rise"
+  },
+  "metadata": {
+    "youtube_id": "zUQiUFZ5RDw",
+    "title_extracted": null,
+    "corpus_id": "zUQiUFZ5RDw",
+    "uploader": "Creedence Clearwater Revival",
+    "audio_file": "corpus/01_music_videos_audio/audio/zUQiUFZ5RDw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4420414,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.284052,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:38:24Z"
+  },
+  "status": "success",
+  "error": null
+}

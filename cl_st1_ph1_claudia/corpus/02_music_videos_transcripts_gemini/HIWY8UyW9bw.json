@@ -1,0 +1,38 @@
+{
+  "corpus_id": "HIWY8UyW9bw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/HIWY8UyW9bw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/HIWY8UyW9bw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/HIWY8UyW9bw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Gimme a ticket for an aeroplane \nAin't got time to take a fast train \nLonely days are gone, I'm a-goin' home \nMy baby just-a wrote me a letter \n\nI don't care how much money I got to spend \nGot to get back to my baby again \nLonely days are gone, I'm a-goin' home \nMy baby just-a wrote me a letter \n\nWell, she wrote me a letter \nSaid she couldn't live without me no more \nListen mister, can't you see I got to get back to my baby once more \nAnyway, yeah! \n\nGimme a ticket for an aeroplane \nAin't got time to take a fast train \nLonely days are gone, I'm a-goin' home \nMy baby just-a wrote me a letter \n\nWell, she wrote me a letter \nSaid she couldn't live without me no more \nListen mister, can't you see I got to get back to my baby once more \nAnyway, yeah! \n\nGimme a ticket for an aeroplane \nAin't got time to take a fast train \nLonely days are gone, I'm a-goin' home \nMy baby just-a wrote me a letter \nMy baby just-a wrote me a letter \n\nAh-ah-ah-ah"
+  },
+  "metadata": {
+    "youtube_id": "HIWY8UyW9bw",
+    "title_extracted": null,
+    "corpus_id": "HIWY8UyW9bw",
+    "uploader": "vinylsolution",
+    "audio_file": "corpus/01_music_videos_audio/audio/HIWY8UyW9bw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3590440,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 9.323646,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:46:40Z"
+  },
+  "status": "success",
+  "error": null
+}

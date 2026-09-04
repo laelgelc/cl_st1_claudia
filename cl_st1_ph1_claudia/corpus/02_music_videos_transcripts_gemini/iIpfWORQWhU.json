@@ -1,0 +1,38 @@
+{
+  "corpus_id": "iIpfWORQWhU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/iIpfWORQWhU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/iIpfWORQWhU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/iIpfWORQWhU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I walked along the avenue\nI never thought I'd meet a girl like you\nMeet a girl like you\nWith auburn hair and tawny eyes\nThe kind of eyes that hypnotise me through\nHypnotise me through\n\nAnd I ran, I ran so far away\nI just ran, I ran all night and day\nI couldn't get away\n\nA cloud appears above your head\nA beam of light comes shining down on you\nShining down on you\nThe cloud is moving nearer still\nAurora Borealis comes in view\nAurora comes in view\n\nAnd I ran, I ran so far away\nI just ran, I ran all night and day\nI couldn't get away\n\nReached out my hand to touch your face\nYou're slowly disappearing from my view\nDisappearing from my view\nReached out my hand to try again\nI'm floating in a beam of light with you\nA beam of light with you\n\nAnd I ran, I ran so far away\nI just ran, I ran all night and day\nAnd I ran, I ran so far away\nI just ran, I couldn't get away"
+  },
+  "metadata": {
+    "youtube_id": "iIpfWORQWhU",
+    "title_extracted": null,
+    "corpus_id": "iIpfWORQWhU",
+    "uploader": "A Flock of Seagulls",
+    "audio_file": "corpus/01_music_videos_audio/audio/iIpfWORQWhU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7603592,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.981119,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:41:27Z"
+  },
+  "status": "success",
+  "error": null
+}

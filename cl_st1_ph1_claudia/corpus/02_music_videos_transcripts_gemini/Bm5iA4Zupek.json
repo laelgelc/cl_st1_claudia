@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Bm5iA4Zupek",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Bm5iA4Zupek.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Bm5iA4Zupek.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Bm5iA4Zupek.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "And I always find, yeah, I always find something wrong You've been putting up with my shit just way too long I'm so gifted at finding what I don't like the most So I think it's time for us to have a toast Let's have a toast for the douche bags Let's have a toast for the assholes Let's have a toast for the scumbags Everyone of them that I know Let's have a toast for the jerkoffs That'll never take work off Baby, I got a plan Runaway fast as you can She find pictures in my email I sent this girl a picture of my dick I don't know what it is with females But I'm not too good at that shit See, I could have me a good girl And still be addicted to them hoodrats And I just blame everything on you At least you know that's what I'm good at And I always find, yeah, I always find, yeah, I always find something wrong You've been putting up with my shit just way too long I'm so gifted at finding what I don't like the most So I think it's time for us to have a toast Let's have a toast for the douche bags Let's have a toast for the assholes Let's have a toast for the scumbags Everyone of them that I know Let's have a toast for the jerkoffs That'll never take work off Baby, I got a plan Runaway fast as you can Runaway from me, baby Runaway Runaway from me, baby Runaway When it's that time to get crazy Runaway When it's that time Runaway as fast as you can Runaway from me, baby Runaway Runaway from me, baby Runaway When it's that time to get crazy Why can't she just runaway? Baby, I got a plan Runaway as fast as you can 24/7, 365, pussy stays on my mind I-I-I-I did it, alright, alright, I admitted it Now pick your next move, you can leave or live with it Ichabod Crane with that motherfucking top off Split and go where? Back to wearing knockoffs? Haha, knock it off Neiman's shop it off, let's talk over Mai Tais, waitress, top it off What? Like bitches want to fly in your pretty loafers? You can't blame 'em, they ain't never seen Versace sofas Every bag, every blouse, every bracelet Comes with a price tag, baby, face it You should leave if you can't accept the basics Plenty more in the ball, look at the matrix Invisibly set, the Rolex is faceless I'm just young, rich, and tasteless, P"
+  },
+  "metadata": {
+    "youtube_id": "Bm5iA4Zupek",
+    "title_extracted": null,
+    "corpus_id": "Bm5iA4Zupek",
+    "uploader": "Kanye West",
+    "audio_file": "corpus/01_music_videos_audio/audio/Bm5iA4Zupek.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8893506,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 7.26864,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:29:52Z"
+  },
+  "status": "success",
+  "error": null
+}

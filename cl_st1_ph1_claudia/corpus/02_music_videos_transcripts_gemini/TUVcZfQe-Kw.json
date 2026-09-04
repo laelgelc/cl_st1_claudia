@@ -1,0 +1,38 @@
+{
+  "corpus_id": "TUVcZfQe-Kw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/TUVcZfQe-Kw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/TUVcZfQe-Kw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/TUVcZfQe-Kw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "If you wanna run away with me, I know a galaxy and I can take you for a ride I had a premonition that we fell into a rhythm where the music don't stop for life Glitter in the sky, glitter in my eyes Shining just the way I like If you're feeling like you need a little bit of company, you met me at the perfect time You want me, I want you, baby My sugarboo, I'm levitating The Milky Way, we're renegading Yeah, yeah, yeah, yeah, yeah I got you, moonlight, you're my starlight I need you all night, come on, dance with me I'm levitating You, moonlight, you're my starlight I need you all night, come on, dance with me I'm levitating I'm one of the greatest, ain't no debate, no Let's go I'm still levitating, I'm heavily medicated Ironic I gave 'em love and now they in the hating on me Let's go She told me she love me and she been waiting Been fighting hard for your love and I'm running thin on my patience Needed someone to hug, even took it back to the basics You see what you got me out here doing? Yeah Might've threw me off, but can't nobody stop the movement Uh-uh, let's go Left foot, right foot, levitating Come on Pop stars, Dua Lipa with DaBaby Let's go I had to lace my shoes for all the blessings I was chasing If I ever slip, I'm falling into a better situation So catch up, go put some cheese on it, get out and get your bread up Yeah, yeah They always leave when you fall, but you run together Weight of the world on my shoulders, I kept my head up Now, baby, stand up, 'cause girl, you You want me, I want you, baby Hey My sugarboo, I'm levitating Hey The Milky Way, we're renegading Yeah, yeah, yeah, yeah, yeah I got you, moonlight, you're my starlight I need you all night, come on, dance with me I'm levitating You, moonlight, you're my starlight I need you all night, come on, dance with me I'm levitating You can fly away with me tonight You can fly away with me tonight Baby, let me take you for a ride Yeah, yeah, yeah, yeah, yeah I'm levitating You can fly away with me tonight You can fly away with me tonight Baby, let me take you for a ride Yeah, yeah, yeah, yeah, yeah My love is like a rocket, watch it blast off And I'm feeling so electric, dance my ass off And even if I wanted to, I can't stop Yeah, yeah, yeah, yeah, yeah My love is like a rocket, watch it blast off And I'm feeling so electric, dance my ass off And even if I wanted to, I can't stop Yeah, yeah, yeah, yeah, yeah You want me, I want you, baby My sugarboo, I'm levitating The Milky Way, we're renegading I got you, moonlight, you're my starlight I need you all night, come on, dance with me I'm levitating You can fly away with me tonight You can fly away with me tonight Baby, let me take you for a ride Yeah, yeah, yeah, yeah, yeah I'm levitating You can fly away with me tonight You can fly away with me tonight Baby, let me take you for a ride Yeah, yeah, yeah, yeah, yeah I got you, moonlight, you're my starlight I need you all night, come on, dance with me I'm levitating"
+  },
+  "metadata": {
+    "youtube_id": "TUVcZfQe-Kw",
+    "title_extracted": null,
+    "corpus_id": "TUVcZfQe-Kw",
+    "uploader": "Dua Lipa",
+    "audio_file": "corpus/01_music_videos_audio/audio/TUVcZfQe-Kw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7365076,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.375859,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:13:30Z"
+  },
+  "status": "success",
+  "error": null
+}

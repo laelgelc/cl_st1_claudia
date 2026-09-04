@@ -1,0 +1,38 @@
+{
+  "corpus_id": "hqwieO9A9Kk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hqwieO9A9Kk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/hqwieO9A9Kk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/hqwieO9A9Kk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Now usually I don't do this, but uh go on head and break 'em off with a little preview of the remix. Now I'm not trying to be rude, but hey, pretty girl, I'm feeling you. The way you do the things you do reminds me of my Lexus coupe. That's why I'm all up in your grill, trying to get you to a hotel. You must be a football coach, the way you got me playing the field. So baby, give me that toot-toot, and let me give you that beep-beep. Running her hands through my 'fro, bouncing on 24s. While they're saying, \"Playa, check it out.\" It's the remix to Ignition, hot and fresh out the kitchen. Mama rolling that body, got every man in here wishing. Sipping on Coke and rum, I'm like, \"So what? I'm drunk.\" It's the freaking weekend, baby, I'm about to have me some fun. Bounce, bounce, bounce, bounce, bounce, bounce, bounce, bounce, bounce. Come on. Now it's like \"Murder She Wrote\", once I get you out them clothes. Privacy is on the door, but still they can hear you screaming \"More!\" Girl, I'm feeling what you're feeling, no more hoping and wishing. I'm about to take my key and stick it in the ignition. So give me that toot-toot, let me give you that beep-beep. Running her hands through my 'fro, bouncing on 24s. While they're saying, \"Playa, check it out.\" It's the remix to Ignition, hot and fresh out the kitchen. Mama rolling that body, got every man in here wishing. Sipping on Coke and rum, I'm like, \"So what? I'm drunk.\" It's the freaking weekend, baby, I'm about to have me some fun. Cristal popping in the stretch Navigator, we got food everywhere as if the party was catered. We got fellas to my left, honeys on my right, we bring them both together, we got grooving all night. Then after the show it's the afterparty. And after the party it's the hotel lobby. Around about 4:00, you gotta clear the lobby. Then take it to your room and freak somebody. Can I get a toot-toot? Can I get a beep-beep? Running her hands through my 'fro, bouncing on 24s. While they're saying, \"Playa, check it out.\" It's the remix to Ignition, hot and fresh out the kitchen. Mama rolling that body, got every man in here wishing. Sipping on Coke and rum, I'm like, \"So what? I'm drunk.\" It's the freaking weekend, baby, I'm about to have me some fun. It's the remix to Ignition, hot and fresh out the kitchen. Mama rolling that body, got every man in here wishing. Sipping on Coke and rum, I'm like, \"So what? I'm drunk.\" It's the freaking weekend, baby, I'm about to have me some fun. Girl, we off in this jeep, fogging windows up, blasting the radio in the back of my truck. Bouncing up and down, stroking round and round to the remix. We just thuggin' it out."
+  },
+  "metadata": {
+    "youtube_id": "hqwieO9A9Kk",
+    "title_extracted": null,
+    "corpus_id": "hqwieO9A9Kk",
+    "uploader": "R. Kelly - Topic",
+    "audio_file": "corpus/01_music_videos_audio/audio/hqwieO9A9Kk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6007546,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 26.742332,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:27:47Z"
+  },
+  "status": "success",
+  "error": null
+}

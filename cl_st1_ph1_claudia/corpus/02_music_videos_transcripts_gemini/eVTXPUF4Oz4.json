@@ -1,0 +1,38 @@
+{
+  "corpus_id": "eVTXPUF4Oz4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/eVTXPUF4Oz4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/eVTXPUF4Oz4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/eVTXPUF4Oz4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "It starts with one thing, I don't know why\nIt doesn't even matter how hard you try\nKeep that in mind, I designed this rhyme to explain in due time\nAll I know\nTime is a valuable thing, watch it fly by as the pendulum swings\nWatch it count down to the end of the day, the clock ticks life away\nIt's so unreal\nDidn't look out below, watch the time go right out the window\nTrying to hold on, didn't even know, I wasted it all just to watch you go\nI kept everything inside and even though I tried, it all fell apart\nWhat it meant to me will eventually be a memory of a time I tried so hard\nAnd got so far, but in the end, it doesn't even matter\nI had to fall to lose it all, but in the end, it doesn't even matter\n\nOne thing, I don't know why\nIt doesn't even matter how hard you try\nKeep that in mind, I designed this rhyme to remind myself how I tried so hard\nIn spite of the way you were mocking me, acting like I was part of your property\nRemembering all the times you fought with me, I'm surprised it got so far\nThings aren't the way they were before\nYou wouldn't even recognize me anymore\nNot that you knew me back then, but it all comes back to me in the end\nYou kept everything inside and even though I tried, it all fell apart\nWhat it meant to me will eventually be a memory of a time I tried so hard\nAnd got so far, but in the end, it doesn't even matter\nI had to fall to lose it all, but in the end, it doesn't even matter\n\nI put my trust in you\nPushed as far as I can go\nFor all this, there's only one thing you should know\nI've put my trust in you\nPushed as far as I can go\nFor all this, there's only one thing you should know\n\nI tried so hard, and got so far\nBut in the end, it doesn't even matter\nI had to fall to lose it all\nBut in the end, it doesn't even matter"
+  },
+  "metadata": {
+    "youtube_id": "eVTXPUF4Oz4",
+    "title_extracted": null,
+    "corpus_id": "eVTXPUF4Oz4",
+    "uploader": "Linkin Park",
+    "audio_file": "corpus/01_music_videos_audio/audio/eVTXPUF4Oz4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6984640,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.92289,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:54:18Z"
+  },
+  "status": "success",
+  "error": null
+}

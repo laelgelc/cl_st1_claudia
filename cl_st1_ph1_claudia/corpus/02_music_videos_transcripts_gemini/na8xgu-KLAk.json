@@ -1,0 +1,38 @@
+{
+  "corpus_id": "na8xgu-KLAk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/na8xgu-KLAk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/na8xgu-KLAk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/na8xgu-KLAk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Oh Oh yeah!  Ziggy played guitar Jamming good with Weird and Gilly And the Spiders from Mars He played it left hand But made it too far Became the special man Then we were Ziggy's band  Ziggy really sang Screwed-up eyes and screwed-down hairdo Like some cat from Japan He could lick 'em by smiling He could leave 'em to hang Came on so loaded, man Well-hung and snow-white tan  So where were the Spiders While the fly tried to break our bones? With just the beer light to guide us So we bitched about his fans and should we crush his sweet hands?  Ziggy played for time Jiving us that we were voodoo The kids were just crass He was the nazz With God-given ass He took it all too far But boy, could he play guitar  Making love with his ego Ziggy sucked up into his mind Like a leper messiah When the kids had killed the man I had to break up the band  Oh yeah!  Ziggy played guitar"
+  },
+  "metadata": {
+    "youtube_id": "na8xgu-KLAk",
+    "title_extracted": null,
+    "corpus_id": "na8xgu-KLAk",
+    "uploader": "David Bowie",
+    "audio_file": "corpus/01_music_videos_audio/audio/na8xgu-KLAk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6338198,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.171206,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:53:34Z"
+  },
+  "status": "success",
+  "error": null
+}

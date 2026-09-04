@@ -1,0 +1,38 @@
+{
+  "corpus_id": "8GliyDgAGQI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8GliyDgAGQI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/8GliyDgAGQI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/8GliyDgAGQI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Yeah. This is DJ Charmaine Champagne and this is your Chronic Dial radio station. So, you got to be listening to the Chronic. Bigger sound from the brothers out of the Death Row camp. Something real funky. So, let me put this in your area. Come on in, baby. Hey, Snoopy! Why you... Hey, how many times I tell you kids about running in this damn house? You break something, you know you can't pay for it. Hope you're picking them up to find a job. Yeah, we're going to work so we can grow up and be just like you. Hey, y'all going to the picnic today? Yeah, thought you knew. Hey Snoop! What's up? Have you heard Dr. Dre's new album? It's the bomb. One, two, three and to the four Snoop Doggy Dogg and Dr. Dre is at the door Ready to make an entrance, so back on up Before I have to pull the strap off the cut Give me the microphone first so I can bust like a bubble Compton and Long Beach together, now you know you in trouble 'Cause ain't nothing but a 'G' thang, baby Two loc'ed out Gs, so we crazy Death Row is the label that pays me Unfadable, so please don't try to fade this Hell, but uh, back to the lecture at hand Perfection is perfected, so I'ma let 'em understand From a young G's perspective And before me, nigga, the trick, I have to find a contraceptive You never know, she could be earning a man and learning a man And at the same time, burning a man Now, if she burning, I'm'a chill for a minute 'Cause ain't no loving good enough to get burned while I'm up in it Yeah, and that's real, a real-deal Holyfield And now you hookers and hoes know how I feel Well, if it's good enough to get broke off a proper chunk I'll take a small piece of some of that funky stuff It's like this and like that and like this and uh It's like that and like this and like that and uh It's like this and like that and like this and uh Dre, creep to the mic like a phantom Well, I'm peepin' and I'm creepin' and I'm creepin' But I damn near got caught 'cause my beeper kept beepin' Now it's time for me to make my impression felt So sit back, relax, and strap on your seatbelt You never been on a ride like this before With a producer who can rap and control the maestro At the same time with the dope rhyme that I kick You know, and I know, I flow some more funky shit To add to my collection, the selection Symbolizes dope, take a toke, but don't choke If you do, you have no clue Of what me and my homey Snoop Dogg came to do It's like this and like that and like this and uh It's like that and like this and like that and uh It's like this and we ain't got no love for those So just chill to the next episode Fallin' back on that ass with a hellified gangsta lean Gettin' funky on the mic like a bowl of collard greens It's the capital S, oh, yes, I'm fresh, N-O-O-P D-O-double-G-Y, D-O-double-G, you see Showin' much flex when it's time to wreck a mic Pimpin' hoes and clockin' a grip like my name was Dolemite Yeah, and it don't quit I think they in the mood for another one of those G hits So, Dre What up, Dog? We gotta give 'em what they want What's that, G? We gotta break 'em off somethin' Hell yeah And it's gotta be bumpin' City of Compton is where it takes place So, now shot attention, mobbin' with the Dog Pound Bow wow wow Droppin' the funky tracks that's makin' the suckas just mumble When I'm on the mic, it's like a cookie, they all crumble Try to get close and you're bound to get smacked My little homey Snoop Doggy Dogg has got my back Never let me slip 'cause if I slip, then I'm slippin' But if I got my Nina, then you know I'm straight trippin' And I'm gonna continue to put the rap down, put the Mack down And if your woman want to trip, I have to put the smack down Yeah, and it don't stop I told you I'm just like a clock when I tick and I Tock But I'm never off, always on to the break of dawn CPT, LBC, and the city they call Long Beach Puttin' the busta to sleep Like my homey DOC, no one can do it better It's like this and like that and like this and uh It's like that and like this and like that and uh It's like this and we ain't got no love for those So, just chill to the next episode"
+  },
+  "metadata": {
+    "youtube_id": "8GliyDgAGQI",
+    "title_extracted": null,
+    "corpus_id": "8GliyDgAGQI",
+    "uploader": "Dr. Dre",
+    "audio_file": "corpus/01_music_videos_audio/audio/8GliyDgAGQI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9116418,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.453133,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:13:13Z"
+  },
+  "status": "success",
+  "error": null
+}

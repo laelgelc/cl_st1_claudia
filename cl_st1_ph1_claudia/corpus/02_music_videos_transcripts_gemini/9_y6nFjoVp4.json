@@ -1,0 +1,38 @@
+{
+  "corpus_id": "9_y6nFjoVp4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/9_y6nFjoVp4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/9_y6nFjoVp4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/9_y6nFjoVp4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Ooh, baby love, my baby love I need you, oh how I need you But all you do is treat me bad Break my heart and leave me sad Tell me what did I do wrong To make you stay away so long 'Cause baby love, my baby love Been missing you, instead of breaking up Let's do some kissing and making up Don't throw our love away In my arms why don't you stay I need you, baby love Ooh, baby love Ooh, baby love Need you to hold me once again, my love Feel your warm embrace, my love Don't throw our love away Please don't do me this way Not happy like I used to be Loneliness has got the best of me My baby love, my baby love I need you, oh how I need you Don't throw our love away I'm begging you to stay My baby love Baby, baby, baby"
+  },
+  "metadata": {
+    "youtube_id": "9_y6nFjoVp4",
+    "title_extracted": null,
+    "corpus_id": "9_y6nFjoVp4",
+    "uploader": "GNRSlashLover",
+    "audio_file": "corpus/01_music_videos_audio/audio/9_y6nFjoVp4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3966418,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.820776,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:44:17Z"
+  },
+  "status": "success",
+  "error": null
+}

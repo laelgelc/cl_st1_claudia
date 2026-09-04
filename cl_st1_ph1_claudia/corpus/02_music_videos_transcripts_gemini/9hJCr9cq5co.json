@@ -1,0 +1,38 @@
+{
+  "corpus_id": "9hJCr9cq5co",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/9hJCr9cq5co.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/9hJCr9cq5co.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/9hJCr9cq5co.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "We've only just begun to live White lace and promises A kiss for luck and we're on our way We've only begun Before the rising sun we fly So many roads to choose We start out walking and learn to run And yes, we've just begun Sharing horizons that are new to us Watching the signs along the way Talking it over just the two of us Working together day to day Together Together And when the evening comes, we smile So much of life ahead We'll find a place where there's room to grow And yes, we've just begun Ah, close to you Ah, close to you Ah, close to you Ah, close to you"
+  },
+  "metadata": {
+    "youtube_id": "9hJCr9cq5co",
+    "title_extracted": null,
+    "corpus_id": "9hJCr9cq5co",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/9hJCr9cq5co.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5655344,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.458434,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:11:48Z"
+  },
+  "status": "success",
+  "error": null
+}

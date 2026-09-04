@@ -1,0 +1,38 @@
+{
+  "corpus_id": "LcILsIE0j-I",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/LcILsIE0j-I.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/LcILsIE0j-I.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/LcILsIE0j-I.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Here's my story, it's sad but true It's about a girl that I once knew She took my love and ran around With every single guy in town Hey, woah, woah, woah, woah, woah, woah, oh, yeah! Yeah, I should have known it from the very start This girl would leave me with a broken heart Now listen people what I'm telling you A-keep away from Runaround Sue, yeah I miss her lips and her smile on her face The touch of her hand and this girl's warm embrace So if you don't wanna cry like I do A-keep away from Runaround Sue, yeah Woah, woah, woah, woah, oh She likes to travel around, yeah She'll love you then she'll put you down Now people let me put you wise Sue goes out with other guys Here's the moral of the story from the guy who knows I fell in love and my love still grows Ask any fool that she ever knew, they'll say: A-keep away from Runaround Sue, hey now Yeah, keep away from this girl I know, know what she'll do Keep away from Sue Oh, oh She likes to travel around, yeah She'll love you then she'll put you down Now people let me put you wise Ah, she goes out with other guys Here's the moral of the story from that guy who knows I fell in love and my love still grows Ask any fool that she ever knew, they'll say: A-keep away from Runaround Sue, hey yeah Stay away from that girl Don't you know what she'll do now Woah, woah, woah, woah Keep away from that girl Don't you know what she'll do now"
+  },
+  "metadata": {
+    "youtube_id": "LcILsIE0j-I",
+    "title_extracted": null,
+    "corpus_id": "LcILsIE0j-I",
+    "uploader": "Smurfstools Oldies Music Time Machine",
+    "audio_file": "corpus/01_music_videos_audio/audio/LcILsIE0j-I.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5674664,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.61467,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:40:56Z"
+  },
+  "status": "success",
+  "error": null
+}

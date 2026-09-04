@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Bucljr7jX3I",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Bucljr7jX3I.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Bucljr7jX3I.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Bucljr7jX3I.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Toot toot, hey, beep beep\nToot toot, hey, beep beep\nToot toot, hey, beep beep\nToot toot, hey, beep beep\n\nBad girls\nTalking 'bout the sad girls\nSad girls\nTalking 'bout bad girls, yeah\n\nSee them out on the street at night\nWalking, picking up on all kinds of strangers, it's a hazard sign\nYou can't go, pocket's tight\nBut you wanna good time\n\nYou ask yourself\nWho they are?\nLike everybody else\nThey're gonna be up all night, oh\n\nBad girls\nTalking 'bout the sad girls, yeah\nSad girls\nTalking 'bout bad girls, yeah\n\nFriday night and the strip is hot\nSun's gone down and the outlaw's trot\nSpirits high and the legs move fast\nDo you wanna get down?\n\nNow don't you ask yourself\nWho they are?\nLike everybody else\nThey wanna be a star, oh yeah, yeah\n\nBad girl, sad girl, you're such a dirty bad girl, beep beep\nUh-huh\nYou're bad girl, you're sad girl, you're such a dirty bad girl, beep beep\nUh-huh\n\nNow you and me, we're both the same (both the same)\nNow you call yourself by different name (different name)\nNow your mama won't like it when she finds out (finds out)\nGirl, it's hot at night\n\nToot toot, hey, beep beep\nToot toot, hey, beep beep\nToot toot, hey, beep beep\nToot toot, hey, beep beep\n\nHey, mister, beep beep\nHave you got a dime? Beep beep\nHey, mister, beep beep\nDo you wanna spend some time? Yeah, beep beep\nI got what you want, you got what I need\nI'll be your baby, come and spend it on me\n\nHey, mister, beep beep\nI'll spend some time with you, beep beep\nGet you..."
+  },
+  "metadata": {
+    "youtube_id": "Bucljr7jX3I",
+    "title_extracted": null,
+    "corpus_id": "Bucljr7jX3I",
+    "uploader": "Streetwalker",
+    "audio_file": "corpus/01_music_videos_audio/audio/Bucljr7jX3I.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7630342,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.853053,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:31:58Z"
+  },
+  "status": "success",
+  "error": null
+}

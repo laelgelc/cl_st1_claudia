@@ -1,0 +1,38 @@
+{
+  "corpus_id": "sOnqjkJTMaA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/sOnqjkJTMaA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/sOnqjkJTMaA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/sOnqjkJTMaA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "- Honestly, we're out of gas. So, what are we going to do now?\n- I'm sorry I didn't believe you.\n- Can I ask you something?\n- What?\n- You know I like you, don't you?\n- Yes.\n- And I hope you like me the way I like you.\n- Yes.\n- I was wondering if you would be my girl.\n- Oh, Michael.\n- It's beautiful.\n- Now it's official. I have something I want to tell you.\n- Yes, Michael?\n- I'm not like other guys.\n- Of course not. That's why I love you.\n- No, I mean I'm different.\n- What are you talking about?\n- Are you alright?\n- Go away!\n\n- Look, he's over here. God, look at that thing. Look out!\n- Can we get out of here?\n- No, I'm enjoying this.\n- Well, I can't watch. Excuse me.\n- Scrawled in blood. What's it say?\n- See you next Wednesday.\n\n- It's only a movie.\n- It's not funny.\n- You were scared, weren't you?\n- I wasn't that scared.\n- You were scared.\n\n♪ It's close to midnight ♪\n♪ And something evil's lurking in the dark ♪\n♪ Under the moonlight ♪\n♪ You see a sight that almost stops your heart ♪\n♪ You try to scream ♪\n♪ But terror takes the sound before you make it ♪\n♪ You start to freeze ♪\n♪ As horror looks you right between the eyes ♪\n♪ You'd be paralyzed ♪\n♪ You hear the door slam ♪\n♪ And realize there's nowhere left to run ♪\n♪ You feel the cold hand ♪\n♪ And wonder if you'll ever see the sun ♪\n♪ You close your eyes ♪\n♪ And hope that this is just imagination ♪\n♪ Girl, but all the while ♪\n♪ You hear a creature creeping up behind ♪\n♪ You're out of time ♪\n♪ They're out to get you ♪\n♪ There's demons closing in on every side ♪\n♪ They will possess you ♪\n♪ Unless you change that number on your dial ♪\n♪ Now is the time ♪\n♪ For you and I to cuddle close together, yeah ♪\n♪ All through the night ♪\n♪ I'll save you from the terror on the screen ♪\n♪ I'll make you see ♪\n\n- Darkness falls across the land\nThe midnight hour is close at hand\nCreatures crawl in search of blood\nTo terrorize y'all's neighborhood\nAnd whosoever shall be found\nWithout the soul for getting down\nMust stand and face the hounds of hell\nAnd rot inside a corpse's shell\n\nThe foulest stench is in the air\nThe funk of forty thousand years\nAnd grizzly ghouls from every tomb\nAre closing in to seal your doom\nAnd though you fight to stay alive\nYour body starts to shiver\nFor no mere mortal can resist\nThe evil of the thriller\n\n♪ 'Cause this is thriller ♪\n♪ Thriller night ♪\n♪ And no one's gonna save you from the beast about to strike ♪\n♪ You know it's thriller ♪\n♪ Thriller night ♪\n♪ You're fighting for your life inside a killer, thriller, tonight ♪\n♪ Thriller ♪\n♪ Thriller night ♪\n♪ 'Cause I can thrill you more than any ghoul would ever dare try ♪\n♪ Thriller ♪\n♪ Thriller night ♪\n♪ So let me hold you tight and share a killer, thriller ♪\n♪ Thriller night ♪\n♪ 'Cause I can thrill you more than any ghoul would ever dare try ♪\n♪ Thriller ♪\n♪ Thriller night ♪\n♪ So let me hold you tight and share a killer, thriller, thriller ♪\n\n- What's the problem? Come on, I'll take you home.\n\n(Evil laughter)\n\n♪ 'Cause this is thriller ♪\n♪ Thriller night ♪\n♪ And no one's gonna save you from the beast about to strike ♪\n♪ You know it's thriller ♪\n♪ Thriller night ♪\n♪ You're fighting for your life inside a killer, thriller, tonight ♪\n♪ Thriller ♪\n♪ Thriller night ♪\n♪ 'Cause I can thrill you more than any ghoul would ever dare try ♪\n♪ Thriller ♪\n♪ Thriller night ♪\n♪ So let me hold you tight and share a killer, thriller ♪\n♪ Thriller night ♪\n♪ 'Cause I can thrill you more than any ghoul would ever dare try ♪\n♪ Thriller ♪\n♪ Thriller night ♪\n♪ So let me hold you tight and share a killer, thriller, thriller ♪"
+  },
+  "metadata": {
+    "youtube_id": "sOnqjkJTMaA",
+    "title_extracted": null,
+    "corpus_id": "sOnqjkJTMaA",
+    "uploader": "Michael Jackson",
+    "audio_file": "corpus/01_music_videos_audio/audio/sOnqjkJTMaA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 26302156,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:06:12Z"
+  },
+  "status": "success",
+  "error": null
+}

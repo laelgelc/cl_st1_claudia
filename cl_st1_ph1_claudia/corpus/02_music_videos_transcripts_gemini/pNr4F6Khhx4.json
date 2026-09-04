@@ -1,0 +1,38 @@
+{
+  "corpus_id": "pNr4F6Khhx4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/pNr4F6Khhx4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/pNr4F6Khhx4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/pNr4F6Khhx4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "La la la la\nI did you wrong\nMy heart went out to play\nBut in the game I lost you\nWhat a price to pay\nI'm crying\nOoh, baby, baby\nOoh, baby, baby\nMistakes\nI know I made a few\nBut I'm only human\nYou've made mistakes too\nI'm crying\nOoh, baby, baby\nOoh, baby, baby\nI'm just about at the end of my rope\nBut I can't stop trying\nI can't give up hope\n'Cause I'll be yours\nAnd one day I'll hold you near\nWhisper I still love you\nUntil that day is here\nI'm crying\nOoh, baby, baby\nOoh, baby, baby\nOoh, baby, baby\nOoh, baby, baby\nOoh"
+  },
+  "metadata": {
+    "youtube_id": "pNr4F6Khhx4",
+    "title_extracted": null,
+    "corpus_id": "pNr4F6Khhx4",
+    "uploader": "Smokey Robinson",
+    "audio_file": "corpus/01_music_videos_audio/audio/pNr4F6Khhx4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5410142,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.94238,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:56:36Z"
+  },
+  "status": "success",
+  "error": null
+}

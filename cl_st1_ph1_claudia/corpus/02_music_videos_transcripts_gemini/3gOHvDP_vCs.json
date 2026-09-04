@@ -1,0 +1,38 @@
+{
+  "corpus_id": "3gOHvDP_vCs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/3gOHvDP_vCs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/3gOHvDP_vCs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/3gOHvDP_vCs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I'm bringing sexy back Them other boys don't know how to act I think it's special what's behind your back So turn around and I'll pick up the slack Take 'em to the bridge Dirty babe You see these shackles, baby? I'm your slave I'll let you whip me if I misbehave It's just that no one makes me feel this way Take 'em to the chorus Come here, girl Go 'head, be gone with it Come to the back Go 'head, be gone with it VIP Go 'head, be gone with it Drinks on me Go 'head, be gone with it Working with Go 'head, be gone with it Look at those hips Go 'head, be gone with it You make me smile Go 'head, be gone with it Go 'head, child Go 'head, be gone with it Get your sexy on Go 'head, be gone with it Get your sexy on Go 'head, be gone with it Get your sexy on Go 'head, be gone with it Get your sexy on Go 'head, be gone with it Get your sexy on Go 'head, be gone with it Get your sexy on Go 'head, be gone with it Get your sexy on Go 'head, be gone with it Get your sexy on I'm bringing sexy back Them motherfuckers don't know how to act Come let me make up for the things you lack 'Cause you're burning up, I gotta get it fast Take 'em to the bridge Dirty babe You see these shackles, baby? I'm your slave I'll let you whip me if I misbehave It's just that no one makes me feel this way Take 'em to the chorus Come here, girl Go 'head, be gone with it Come to the back Go 'head, be gone with it VIP Go 'head, be gone with it Drinks on me Go 'head, be gone with it Working with Go 'head, be gone with it Look at those hips Go 'head, be gone with it You make me smile Go 'head, be gone with it Go 'head, child Go 'head, be gone with it Get your sexy on Go 'head, be gone with it Get your sexy on Go 'head, be gone with it Get your sexy on Go 'head, be gone with it Get your sexy on Go 'head, be gone with it Get your sexy on Go 'head, be gone with it Get your sexy on Go 'head, be gone with it Get your sexy on Go 'head, be gone with it Get your sexy on You ready? You ready? You ready? Yeah, I'm bringing sexy back You motherfuckers watch your eye attack If that's your girl then watch your back 'Cause she'll burn it up for me and that's a fact Take 'em to the chorus Come here, girl Go 'head, be gone with it Come to the back Go 'head, be gone with it VIP Go 'head, be gone with it Drinks on me Go 'head, be gone with it Working with Go 'head, be gone with it Look at those hips Go 'head, be gone with it You make me smile Go 'head, be gone with it Go 'head, child Go 'head, be gone with it Get your sexy on Go 'head, be gone with it Get your sexy on Go 'head, be gone with it Get your sexy on Go 'head, be gone with it Get your sexy on Go 'head, be gone with it Get your sexy on Go 'head, be gone with it Get your sexy on Go 'head, be gone with it Get your sexy on Go 'head, be gone with it Get your sexy on You ready? Yes. You ready? Yes."
+  },
+  "metadata": {
+    "youtube_id": "3gOHvDP_vCs",
+    "title_extracted": null,
+    "corpus_id": "3gOHvDP_vCs",
+    "uploader": "Justin Timberlake",
+    "audio_file": "corpus/01_music_videos_audio/audio/3gOHvDP_vCs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8510842,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 10.780081,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:49:54Z"
+  },
+  "status": "success",
+  "error": null
+}

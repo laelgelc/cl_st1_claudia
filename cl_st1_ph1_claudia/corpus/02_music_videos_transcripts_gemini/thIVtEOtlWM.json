@@ -1,0 +1,38 @@
+{
+  "corpus_id": "thIVtEOtlWM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/thIVtEOtlWM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/thIVtEOtlWM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/thIVtEOtlWM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Uh Woo Y'all gon' make me lose my mind up in here, up in here Y'all gon' make me go all out up in here, up in here Y'all gon' make me act a fool up in here, up in here, huh Y'all gon' make me lose my cool up in here, up in here If I got to bring it to you cowards, then it's gonna be quick I heard you've been in the gym for... suck my dick And all the motherfuckers you run with, get done with, done quick I see you going towards the door or some bum, I... There go the 1-1-1 All of a sudden Ain't that something? The mommy of a stripper... I'm legendary, really... But I'm not him, I'm... watch what you do Or you gon' find yourself next to someone else And we all thought you loved yourself, but that couldn't have been the issue Or maybe they just singing that now 'cause they miss you Maybe they... That's why you laying on your back, looking at the roof of the church Preacher telling the truth and it hurts, huh Y'all gon' make me lose my mind up in here, up in here Y'all gon' make me go all out up in here, up in here Y'all gon' make me act a fool up in here, up in here Y'all gon' make me lose my cool up in here, up in here Off the chain, I leave... soft for the brain Still want the fame off the name First of all, you ain't rough enough to be for me and you, you ain't strong enough So whatever it is you puffing on that got you thinking that you Superman, I got the kryptonite, I'm smacking with my dick and the mic Arrogance, that ain't even good practice What's gon' be the outcome? That's all of the factors You whack, you twisted, your girl's a whore You broke, the kid ain't yours, and everybody know Your old man say you stupid, you be like, \"So, I love my baby mother, I'll never let her go\" I'm tired of we... whining over... that don't belong to them, wrong with them Tough for real, like my man Denzel Who get it all on the strength of the hands with them, man Y'all gon' make me lose my mind up in here, up in here Y'all gon' make me go all out up in here, up in here Y'all gon' make me act a fool up in here, up in here Y'all gon' make me lose my cool... Yeah, good job, bro. I mean, I'm suffering, though. You only call me when you need me. No, I'm here at your defense, man. ...up in here, up in here Y'all gon' make me lose my cool, up in here, up in here I bring down rain so heavy it hurts the head No more talk, put 'em in certain state You keep walk, that you trying to end up red If I end up red, I end up... You the soft type Fake North type Like a soft fighter Dog is the dog, blood thicker than water We done been through the mud, and we thicker than... Thicker the order, the more... Bigger the order, the more we run out When the pit in the house, everybody come out When the body burn out, sun in, the sun out I'mma keep it... Running your mouth, I'mma... Listen, what? You about to be missing You know who gon' find you? Some old man fishing Grandma wishing your... It's hard to digest what the size of the... Y'all gon' make me lose my mind up in here, up in here Y'all gon' make me go all out up in here, up in here Y'all gon' make me act a fool up in here, up in here Y'all gon' make me lose my cool up in here, up in here Meet me outside! Meet me outside! Meet me outside! Big ballers, meet me outside! Fly ladies, meet me outside! Street people, meet me outside!"
+  },
+  "metadata": {
+    "youtube_id": "thIVtEOtlWM",
+    "title_extracted": null,
+    "corpus_id": "thIVtEOtlWM",
+    "uploader": "DMX",
+    "audio_file": "corpus/01_music_videos_audio/audio/thIVtEOtlWM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7733624,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.607193,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:13:10Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "4hj1iWqoYEc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4hj1iWqoYEc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/4hj1iWqoYEc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/4hj1iWqoYEc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Uh! With your bad self! Say it loud! I'm Black and I'm proud! Say it loud! I'm Black and I'm proud! Look here, some people say we got a lot of malice, some say it's a lot of nerve. But I say we won't quit moving until we get what we deserve. We've been buked and we've been scorned. We've been treated bad, talked about, as sure as you born. But just as sure as it take two eyes to make a pair, brother, we can't quit until we get our share. Say it loud! I'm Black and I'm proud! Say it loud! I'm Black and I'm proud! One more time! Say it loud! I'm Black and I'm proud! Huh! I've worked on jobs with my feet and my hands, and all the work I did was for the other man. Now we demand a chance to do things for ourselves. We're tired of beating our head against the wall and working for someone else. Say it loud! I'm Black and I'm proud! Say it loud! I'm Black and I'm proud! Say it loud! I'm Black and I'm proud! Say it loud! I'm Black and I'm proud! Ow! Ooh, look here! All right! Out of sight! All right! So tough, you're tough enough. Ooh, killing me! Ow, say it loud! I'm Black and I'm proud! Say it loud! I'm Black and I'm proud! Now, we demand a chance to do things for ourselves. We're tired of beating our head against the wall and working for someone else. Look here! One more thing I got to say right here. Now, we're people, we like the birds and the bees. We'd rather die on our feet than keep living on our knees. Say it loud! I'm Black and I'm proud! Say it loud! I'm Black and I'm proud! Say it loud! I'm Black and I'm proud! Lord, Lord, Lord, Lord! Say it loud! I'm Black and I'm proud! Ow! Uh! All right, now, Lord! You know we can do the camel walk. Now we can say, \"we can do the funky Broadway.\" Now we can do, sometimes we can sing and we can talk. You know, you make..."
+  },
+  "metadata": {
+    "youtube_id": "4hj1iWqoYEc",
+    "title_extracted": null,
+    "corpus_id": "4hj1iWqoYEc",
+    "uploader": "Harley Ambrose",
+    "audio_file": "corpus/01_music_videos_audio/audio/4hj1iWqoYEc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5824014,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.398548,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:48:06Z"
+  },
+  "status": "success",
+  "error": null
+}

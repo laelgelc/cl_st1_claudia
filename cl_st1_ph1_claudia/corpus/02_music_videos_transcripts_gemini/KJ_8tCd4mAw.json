@@ -1,0 +1,38 @@
+{
+  "corpus_id": "KJ_8tCd4mAw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/KJ_8tCd4mAw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/KJ_8tCd4mAw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/KJ_8tCd4mAw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Welcome Shaggy featuring Rick Rock.  Rick Rock one time. Everybody jump. Honey came in and she caught me red-handed creeping with the girl next door.  Picture this, we were both butt-naked banging on the bathroom floor. How could I forget that I had given her an extra key? All this time she was standing there, she never took her eyes off me. How could you give a woman access to your villa? You better watch your back before she turn into a killer. Best to review the situation that you call the winner, to be a true player you have to know how to play. If you say a night then you've got to say a day. Never admit to a word that you say. And if she claim and she tell you, tell her, baby, no way. Say what? Honey caught me on the counter. Saw me kissing on the sofa. I even had her in the shower. She even caught me on camera. Saw the marks on my shoulder. She heard the words that I told her. She heard the screams getting louder. She stayed until it was over. Honey came in and she caught me red-handed creeping with the girl next door.  Picture this, we were both butt-naked banging on the bathroom floor. How could I forget that I had given her an extra key? All this time she was standing there, she never took her eyes off me. Yo Mike! Mikey, you're the king of pop, my brother. And I heard this song, it's one of your favorite songs, you know the original banger, you dig that? You dig that? But if you get caught, this is what you got to say. Listen! One time, everybody! You'd better tell her that you're sorry for the pain that I've caused. I've been listening to your reasoning, it makes no sense at all. I need to tell her that I'm sorry for the pain that I've caused. You may think that you're a player, but your chain... So put your hands in the air, New York City! Honey came in and she caught me red-handed creeping with the girl next door.  Picture this, we were both butt-naked banging on the bathroom floor. How could I forget that I had given her an extra key? All this time she was standing there, she never took her eyes off me. It wasn't me, it wasn't me. It wasn't me. It wasn't me. It wasn't me. It wasn't me. It wasn't me. It wasn't me. It wasn't me. It wasn't me. Check out the Hot Shot CD! Yeah! Yeah! Yeah! I love you New York! Awesome! Rick Rock, everybody!"
+  },
+  "metadata": {
+    "youtube_id": "KJ_8tCd4mAw",
+    "title_extracted": null,
+    "corpus_id": "KJ_8tCd4mAw",
+    "uploader": "apple cider",
+    "audio_file": "corpus/01_music_videos_audio/audio/KJ_8tCd4mAw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5957762,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.09069,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:10:11Z"
+  },
+  "status": "success",
+  "error": null
+}

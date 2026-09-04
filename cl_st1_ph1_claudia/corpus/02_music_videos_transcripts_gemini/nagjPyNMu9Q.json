@@ -1,0 +1,38 @@
+{
+  "corpus_id": "nagjPyNMu9Q",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nagjPyNMu9Q.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/nagjPyNMu9Q.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/nagjPyNMu9Q.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Here is, from Wales, Tom Jones and his magnificent...  It's not unusual to be loved by anyone It's not unusual to have fun with anyone But when I see you hanging about with anyone It's not unusual to see me cry It happens every day No matter what you say You find it happens all the time And love will never do What you want it to Why can't this crazy love be mine?  Woah! It's not unusual to be mad with anyone It's not unusual to be sad with anyone And if I ever find that you've changed at any time It's not unusual to find that I'm in love with you Woah woah woah woah woah woah woah woah Woah woah woah woah woah woah woah woah Woah woah woah woah woah!"
+  },
+  "metadata": {
+    "youtube_id": "nagjPyNMu9Q",
+    "title_extracted": null,
+    "corpus_id": "nagjPyNMu9Q",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/nagjPyNMu9Q.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 2707710,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 9.415207,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:36:11Z"
+  },
+  "status": "success",
+  "error": null
+}

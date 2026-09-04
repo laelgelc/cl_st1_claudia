@@ -1,0 +1,38 @@
+{
+  "corpus_id": "QzWjrbBJxUQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/QzWjrbBJxUQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/QzWjrbBJxUQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/QzWjrbBJxUQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Now listen now. I just can't find no peace. That's right. That's right. That's right. That's right. I got a dear, I got a honey. It's a lot of money. That's right. That's right. That's right. Now listen now. I got no clothes to wear. You hear what I'm saying? Y'all want to dance? Y'all want to make a dance? Y'all want to make a dance? Don't stop, get it! Don't stop, get it! Don't stop, get it! Don't stop, get it! Get it! Don't stop, get it! Come on, dance! Don't stop, get it! Don't stop, get it! Give me a dance! Don't stop, get it! Don't stop, get it! Don't stop, get it! I got a dear, I got a honey. It's a lot of money. That's right, that's right. That's right, that's right. Dear, oh dear. That's right. Yeah! Work it! Work it! That's right, y'all! Everybody's got a little light, let it shine! Oh, Lord! Shine on, shine on! Woah! Shine on, shine on! Don't stop! Don't stop! Don't stop! I got a dear, I got a honey. It's a lot of money. I got a dear, I got a honey. I got a dear, I got a honey. I think I found it! That's right, that's right. That's right, that's right. That's right, that's right. Woah! That's right! That's right, that's right. Dear, oh dear. That's right. That's right, that's right. Woah! I got no clothes to wear."
+  },
+  "metadata": {
+    "youtube_id": "QzWjrbBJxUQ",
+    "title_extracted": null,
+    "corpus_id": "QzWjrbBJxUQ",
+    "uploader": "LawdyMissClawdyMEDIA",
+    "audio_file": "corpus/01_music_videos_audio/audio/QzWjrbBJxUQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8005576,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.515833,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:09:43Z"
+  },
+  "status": "success",
+  "error": null
+}

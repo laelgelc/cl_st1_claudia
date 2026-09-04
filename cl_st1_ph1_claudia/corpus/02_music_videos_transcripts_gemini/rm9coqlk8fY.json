@@ -1,0 +1,38 @@
+{
+  "corpus_id": "rm9coqlk8fY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/rm9coqlk8fY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/rm9coqlk8fY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/rm9coqlk8fY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Ooh Mama, take this badge off of me I can't use it anymore It's getting dark, too dark to see I feel I'm knockin' on heaven's door Knock, knock, knockin' on heaven's door Knock, knock, knockin' on heaven's door Knock, knock, knockin' on heaven's door Knock, knock, knockin' on heaven's door Mama, put my guns in the ground I can't shoot them anymore That long black cloud is comin' down I feel I'm knockin' on heaven's door Knock, knock, knockin' on heaven's door Knock, knock, knockin' on heaven's door Knock, knock, knockin' on heaven's door Knock, knock, knockin' on heaven's door Ooh Ooh"
+  },
+  "metadata": {
+    "youtube_id": "rm9coqlk8fY",
+    "title_extracted": null,
+    "corpus_id": "rm9coqlk8fY",
+    "uploader": "Bob Dylan",
+    "audio_file": "corpus/01_music_videos_audio/audio/rm9coqlk8fY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4846918,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.436517,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:11:17Z"
+  },
+  "status": "success",
+  "error": null
+}

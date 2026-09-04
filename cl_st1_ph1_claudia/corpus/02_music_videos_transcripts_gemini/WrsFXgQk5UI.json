@@ -1,0 +1,38 @@
+{
+  "corpus_id": "WrsFXgQk5UI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/WrsFXgQk5UI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/WrsFXgQk5UI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/WrsFXgQk5UI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Are you alright? All right... Am I one of these right? I don't really care if you cry On the real, you should've never lied Should've saw the way she looked me in my eyes She said, \"Baby, I am not afraid to die\" Push me to the edge All my friends are dead Push me to the edge All my friends are dead Push me to the edge All my friends are dead Push me to the edge Phantom, that's all red Inside all white, look like some tender red, slow down I just want that head Mind replaying on read Her brain on her lap now Everybody got the same swag now Whatever I want I grab now Stacking my bands all the way to the top All the way till my bands fallin' off Every time that you leave your spot Your girlfriend call me like \"Come on over\" I like the way that she treat me, gon' leave you, won't leave me I call that casanova She said, \"I'm insane, yeah\" I might blow my brain, yeah Xanny take the pain, yeah Please, Xanny make it go away I can't feel no more, nobody can control me All the pain, I can't feel it, I swear that it's slowin me, yeah I don't really care if you cry On the real, you should've never lied Saw the way she looked me in my eyes She said, \"I am not afraid to die\" Push me to the edge All my friends are dead Push me to the edge All my friends are dead Push me to the edge All my friends are dead All my friends are dead That is not your gang, I swear you fake, homie You the type to go and take my cake Rader, that's a strong, rader Yeah, medicine, look, nigga, medicine Fast car, NASCAR, race on In the club they got no ones then we throw hundreds Clothes from overseas, got those racks and they all C-notes You is not a G, look at your stacking of your money, it's all green I was counting 100s and 20s, that's a zero She said, \"You're the worst, you're the worst\" I can not die because this my universe I don't really care if you cry On the real, you should've never lied Should've saw the way she looked me in my eyes She said, \"Baby, I am not afraid to die\" Push me to the edge All my friends are dead Push me to the edge All my friends are dead Push me to the edge All my friends are dead Push me to the edge Stop, please. Stop, stop, stop."
+  },
+  "metadata": {
+    "youtube_id": "WrsFXgQk5UI",
+    "title_extracted": null,
+    "corpus_id": "WrsFXgQk5UI",
+    "uploader": "LIL UZI VERT",
+    "audio_file": "corpus/01_music_videos_audio/audio/WrsFXgQk5UI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8198022,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.089104,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:03:00Z"
+  },
+  "status": "success",
+  "error": null
+}

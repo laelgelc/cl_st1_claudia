@@ -1,0 +1,38 @@
+{
+  "corpus_id": "O4irXQhgMqg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/O4irXQhgMqg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/O4irXQhgMqg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/O4irXQhgMqg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I see a red door and I want it painted black No colors anymore I want them to turn black I see the girls walk by dressed in their summer clothes I have to turn my head until my darkness goes I see a line of cars and they're all painted black With flowers and my love both never to come back I see people turn their heads and quickly look away Like a new born baby it just happens everyday I look inside myself and see my heart is black I see my red door I must have it painted black Maybe then I'll fade away and not have to face the facts It's not easy facing up when your whole world is black No more will my green sea go turn a deeper blue I could not foresee this thing happening to you If I look hard enough into the setting sun My love will laugh with me before the morning comes I see a red door and I want it painted black No colors anymore I want them to turn black I see the girls walk by dressed in their summer clothes I have to turn my head until my darkness goes Hm hm hm... I wanna see it painted, painted black Black as night, black as coal I wanna see the sun blotted out from the sky I wanna see it painted, painted, painted, painted black, yeah Hm hm hm..."
+  },
+  "metadata": {
+    "youtube_id": "O4irXQhgMqg",
+    "title_extracted": null,
+    "corpus_id": "O4irXQhgMqg",
+    "uploader": "ABKCOVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/O4irXQhgMqg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7241732,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.999201,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:13:44Z"
+  },
+  "status": "success",
+  "error": null
+}

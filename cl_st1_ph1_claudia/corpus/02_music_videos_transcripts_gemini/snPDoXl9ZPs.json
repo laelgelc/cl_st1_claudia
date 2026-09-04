@@ -1,0 +1,38 @@
+{
+  "corpus_id": "snPDoXl9ZPs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/snPDoXl9ZPs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/snPDoXl9ZPs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/snPDoXl9ZPs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Nice girls, not one with a defect \nCellophane shrink wrap, so correct \nRed dubs and illegal legs \nShe looks so good that he gets down and begs \n\nShe's watching the detectives \n\"Ooh, he's so cute\" \nShe's watching the detectives \nWhen they shoot, shoot, shoot, shoot \nThey beat him up until the teardrops start \nBut he can't be wounded 'cause he's got no heart \n\nLong shot, that's a jumping sign \nInvisible shivers running down my spine \nCut to the baby taking off her clothes \nClose up of the sign that says \"We Never Close\" \nYou snap your chewing gum and light your cigarette \nShe pulls the eye-catching faces like a magnet \nI don't know how much more of this I can take \n\nShe's filing her nails while they're dragging the lake \nShe's watching the detectives \n\"Ooh, he's so cute\" \nShe's watching the detectives \nWhen they shoot, shoot, shoot, shoot \nThey beat him up until the teardrops start \nBut he can't be wounded 'cause he's got no heart \n\nYou think you're alone until you realize you're in it \nNow fear is deep, love is cheap as far as it goes \nSomebody call the judge, well it's past the legal limit \nSomeone's scratching at the window, I wonder who it is \nThe detectives come to check if you belong to the parents who have already heard the worst \nAbout their daughter's disappearance \nSo it'll take a miracle to get you to stay \nIt only took my little finger to blow you away \n\nJust like watching the detectives \nDon't get cute \nIt's just like watching the detectives \nGet so angry when the teardrops start \nBut he can't be wounded 'cause he's got no heart \n\nWatching the detectives \nIt's just like watching the detectives \nWatching the detectives \nWatching the detectives \nWatching the detectives \nGo watching the detectives \nThey're watching the detectives \nWatching the detectives"
+  },
+  "metadata": {
+    "youtube_id": "snPDoXl9ZPs",
+    "title_extracted": null,
+    "corpus_id": "snPDoXl9ZPs",
+    "uploader": "Elvis Costello",
+    "audio_file": "corpus/01_music_videos_audio/audio/snPDoXl9ZPs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7021792,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.445016,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:38:42Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "FGVGFfj7POA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/FGVGFfj7POA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/FGVGFfj7POA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/FGVGFfj7POA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I'm gonna wait till the midnight hour That's when my love comes tumbling down I'm gonna wait till the midnight hour When there's no one else around I'm gonna take you, girl, and hold you And do all the things I told you in the midnight hour Yes I am, oh yes I am One more thing I just wanna say right here I'm gonna wait till the stars come out And see that twinkle in your eyes I'm gonna wait till the midnight hour That's when my love begins to shine You're the only girl I know That really can thrill my soul in the midnight hour Oh yeah, in the midnight hour Yeah, alright, play it for me one time now I'm gonna wait till the midnight hour That's when my love comes tumbling down I'm gonna wait way in the midnight hour That's when my love begins to shine Just you and I Oh baby, ha Just you and I Nobody around, baby, just you and I Alright You know what, I'm gonna hold you in my arms, just you and I Oh yeah, in the midnight hour Oh baby, in the midnight hour"
+  },
+  "metadata": {
+    "youtube_id": "FGVGFfj7POA",
+    "title_extracted": null,
+    "corpus_id": "FGVGFfj7POA",
+    "uploader": "fabrizio autore",
+    "audio_file": "corpus/01_music_videos_audio/audio/FGVGFfj7POA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5130016,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.08852,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:20:06Z"
+  },
+  "status": "success",
+  "error": null
+}

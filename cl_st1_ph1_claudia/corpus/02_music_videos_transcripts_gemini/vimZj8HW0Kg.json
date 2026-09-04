@@ -1,0 +1,38 @@
+{
+  "corpus_id": "vimZj8HW0Kg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/vimZj8HW0Kg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/vimZj8HW0Kg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/vimZj8HW0Kg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Come on, man! Don't call it a comeback! I've been here for years! I'm rocking my peers, putting suckers in fear! Making the tears rain down like a monsoon! Listen to the bass go boom! Explosion, overpowering! Over the competition, I'm towering! Wrecking shop, when I drop these lyrics that'll make you call the cops! Don't you dare stare, you better move! Don't ever compare me to the rest that'll all get sliced and diced! Competition's paying the price! I'm gonna knock you out! Mama said knock you out! I'm gonna knock you out! Mama said knock you out! I'm gonna knock you out! Mama said knock you out! I'm gonna knock you out! Mama said knock you out! Don't you call this a regular jam! I'm gonna rock this land! I'm gonna take this city by storm, and I'm just getting warm! Just like Muhammad Ali, they called him Cassius! Watch me fast as beat like a scuff, that you know I had beef with! Why do you rip with me, the maniac psycho? And when I pull out my jammy, get frantic 'cause it might go blam! How you like me now? The rhythm will not allow you to get with Mr. Swift on the riff! Listen to my gearshift! I'm blasting, everlasting! Kind of like Shaft, so you can say I'm shafting! Old English filled my mind, and I came up with a funky rhyme! I'm gonna knock you out! Mama said knock you out! I'm gonna knock you out! Mama said knock you out! I'm gonna knock you out! Mama said knock you out! I'm gonna knock you out! Mama said knock you out! Breakdown! Yeah! Yeah! Shadow boxing when I hurt you on the radio! Uh! I just don't know what made you think that I was soft! But now I got a new tour! I'm going insane, starting a hurricane, releasing pain! Letting you know you can't gain or maintain unless you say my name! Ripping, killing, digging and drilling a hole! Pass the Old Gold! I'm gonna knock you out! Mama said knock you out! I'm gonna knock you out! Mama said knock you out! I'm gonna knock you out! Mama said knock you out! I'm gonna knock you out! Mama said knock you out! Shotgun blast is heard! When I rip and kill at will! The man of the hour, tower of power, I'll devour! I'm gonna tie you up and let you understand that I'm not your average man when I got a jammy in my hand! Damn! Ooh! Listen to the way I slay! Your crew damaged! Damaged! Damaged! Damaged! Destruction, terror, and mayhem! Pass me a sissy so sucker I'll slay him! Farmers! Farmers! I'm ready! I think I'm gonna bomb a town! Get down! Don't you never, ever pull my lever! 'Cause I explode, and my 9 is easy to load! I gotta thank God 'cause He gave me the skill to rock hard! Knock you out! Mama said knock you out! I'm gonna knock you out! Mama said knock you out! I'm gonna knock you out! Mama said knock you out! I'm gonna knock you out! Mama said knock you out! Dance! Todd! Todd! Get upstairs and take out that garbage!"
+  },
+  "metadata": {
+    "youtube_id": "vimZj8HW0Kg",
+    "title_extracted": null,
+    "corpus_id": "vimZj8HW0Kg",
+    "uploader": "LL COOL J",
+    "audio_file": "corpus/01_music_videos_audio/audio/vimZj8HW0Kg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9497598,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 10.104034,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:32:49Z"
+  },
+  "status": "success",
+  "error": null
+}

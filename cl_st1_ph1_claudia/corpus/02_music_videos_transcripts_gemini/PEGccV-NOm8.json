@@ -1,0 +1,38 @@
+{
+  "corpus_id": "PEGccV-NOm8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/PEGccV-NOm8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/PEGccV-NOm8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/PEGccV-NOm8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "KSR It's Cardi, ay Said \"Little bitch, you can't fuck with me if you wanted to\" Said \"Little bitch, you can't fuck with me if you wanted to\" These expensive, these is Red Bottoms, these is bloody shoes Hit the store, I can get 'em both, I don't wanna choose And I'm quick, cut a nigga off, so don't get comfortable, look I don't dance now, I make money moves Say, \"I don't gotta dance, I make money move\" If I see you and I don't speak, that means I don't fuck with you I'm a boss, you a worker, bitch, I make bloody moves Now she say she gonna do what to who? Let's find out and see, Cardi B You know where I'm at, you know where I be You in the club, just to party, I'm there, I get paid a fee I be in and out them banks so much, I know they tired of me Honestly, don't give a fuck 'bout who in front of me Dropped two mixtapes in six months, what bitch workin' as hard as me? I don't bother with these hoes, don't let these hoes bother me They see pictures, they say goals, bitch, I'm who they tryin' to be Look, I might just chill with some Bape, I might just chill with your boo I might just spill on your babe, my pussy feel like a lake He wanna swim with his face, I'm like \"Okay\" I let him get what he want, he buy me Yves Saint Laurent And the new whip, when it go fast, it's a horse I got the trunk in the front I'm the hottest in the street, know you probably heard of me Got a bag and fixed my teeth, hope you hoes know it ain't cheap And I pay my mama bills, I ain't got no time to chill Think these hoes be mad at me, they baby father want a feel Said \"Little bitch, you can't fuck with me if you wanted to\" These expensive, these is Red Bottoms, these is bloody shoes Hit the store, I can get 'em both, I don't wanna choose And I'm quick, cut a nigga off, so don't get comfortable, look I don't dance now, I make money moves Say, \"I don't gotta dance, I make money move\" If I see you and I don't speak, that means I don't fuck with you I'm a boss, you a worker, bitch, I make bloody moves If you a pussy, you get popped, you a goofy, you a opp Don't you come around my way, you can't hang around my block And I just checked my account, turns out I'm rich, I'm rich, I'm rich I put my hand above my hip, I dip, you dip, he dip, she dip I say, \"I get the money and go,\" this shit is hot like a stove My pussy glitter is gold, tell that little bitch play her role I just a Rover, no Rolls, I just came up in a Wraith I need to fill up the tank, no, I need to fill up the safe I need to let all these hoes know that none of their niggas is safe I go to dinner and steak, only the real can relate I used to live in the P's, now it's a crib with a gate Rolly got charms, look like frosted flakes Had to let these bitches know, just in case these hoes forgot I just run and check the mail, another check from Analytics Said \"Little bitch, you can't fuck with me if you wanted to\" These expensive, these is Red Bottoms, these is bloody shoes Hit the store, I can get 'em both, I don't wanna choose And I'm quick, cut a nigga off, so don't get comfortable, look I don't dance now, I make money moves Say, \"I don't gotta dance, I make money move\" If I see you and I don't speak, that means I don't fuck with you I'm a boss, you a worker, bitch, I make bloody moves, bloody moves"
+  },
+  "metadata": {
+    "youtube_id": "PEGccV-NOm8",
+    "title_extracted": null,
+    "corpus_id": "PEGccV-NOm8",
+    "uploader": "Cardi B",
+    "audio_file": "corpus/01_music_videos_audio/audio/PEGccV-NOm8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7480248,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.173356,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:47:06Z"
+  },
+  "status": "success",
+  "error": null
+}

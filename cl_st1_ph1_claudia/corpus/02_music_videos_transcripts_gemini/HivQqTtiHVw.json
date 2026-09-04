@@ -1,0 +1,38 @@
+{
+  "corpus_id": "HivQqTtiHVw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/HivQqTtiHVw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/HivQqTtiHVw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/HivQqTtiHVw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I know when to go out\nI know when to stay in\nGet things done\n\nI catch a paper boy\nBut things don't really change\nI'm standing in the wind\nBut I never wave goodbye\n\nBut I try\nI try\n\nThere's no sign of life\nIt's just the power to charm\nI'm lying in the rain\nBut I never wave goodbye\n\nBut I try\nI try\n\nNever gonna fall for\nModern love walks beside me\nModern love walks on by\nModern love gets me to the church on time\nChurch on time terrifies me\nChurch on time makes me party\nChurch on time puts my trust in God and man\nGod and man, no confession\nGod and man, no religion\nGod and man, don't believe in modern love\n\nIt's not really work\nIt's just the power to charm\nStill standing in the wind\nBut I never wave goodbye\n\nBut I try\nI try\n\nNever gonna fall for\nModern love walks beside me\nModern love walks on by\nModern love gets me to the church on time\nChurch on time terrifies me\nChurch on time makes me party\nChurch on time puts my trust in God and man\nGod and man, no confession\nGod and man, no religion\nGod and man, don't believe in modern love\n\nModern love\nModern love\nModern love\nModern love\nModern love\nModern love\nModern love\nModern love\nModern love\nModern love\nModern love\nModern love\n\nModern love walks beside me\nModern love walks on by\nModern love walks beside me\nModern love"
+  },
+  "metadata": {
+    "youtube_id": "HivQqTtiHVw",
+    "title_extracted": null,
+    "corpus_id": "HivQqTtiHVw",
+    "uploader": "David Bowie",
+    "audio_file": "corpus/01_music_videos_audio/audio/HivQqTtiHVw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7275168,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.660034,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:16:11Z"
+  },
+  "status": "success",
+  "error": null
+}

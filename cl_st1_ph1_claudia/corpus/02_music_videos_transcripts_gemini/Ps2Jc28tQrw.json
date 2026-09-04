@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Ps2Jc28tQrw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Ps2Jc28tQrw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Ps2Jc28tQrw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Ps2Jc28tQrw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Ah Yeah Yeah You got to show me love Heartbreak and promises I've had more than my share I'm tired of giving my love and getting nowhere, nowhere What I need is somebody who really cares I really need a lover A lover that will be there It's been so long since I've touched a wanting hand I put my love on the line that I hope you understand So baby, if you want me You got to show me love Words are so easy to say, alright You got to show me love I'm tired of getting caught up in those one night affairs What I really need is somebody who will always be there Don't you promise me the world All that I've already heard This time around for me baby Actions speak louder than words If you're looking for devotion, talk to me Come with your heart in your hand Because my love is guaranteed So baby, if you want me You got to show me love Words are so easy to say, alright You got to show me love So show me baby You got to give it to me, give it to me, give it to me, yeah I don't want no fake, don't want no phony I need your love Show me, show me, show me baby Give it to me, give it to me I am not a toy, I'm not a plaything You got to understand If you're looking for devotion, talk to me Come with your heart in your hand Because my love is guaranteed Yeah, yeah, yeah, yeah"
+  },
+  "metadata": {
+    "youtube_id": "Ps2Jc28tQrw",
+    "title_extracted": null,
+    "corpus_id": "Ps2Jc28tQrw",
+    "uploader": "Spinnin' Records",
+    "audio_file": "corpus/01_music_videos_audio/audio/Ps2Jc28tQrw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7672694,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.253407,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:39:37Z"
+  },
+  "status": "success",
+  "error": null
+}

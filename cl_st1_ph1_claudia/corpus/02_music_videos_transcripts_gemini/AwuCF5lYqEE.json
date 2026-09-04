@@ -1,0 +1,38 @@
+{
+  "corpus_id": "AwuCF5lYqEE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/AwuCF5lYqEE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/AwuCF5lYqEE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/AwuCF5lYqEE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Ain't it just like the night to play tricks when you're trying to be so quiet We sit here stranded, though we're all doing our best to deny it And Louise holds a handful of rain, tempting you to defy it Lights flicker from the opposite loft In this room the heat pipes just cough The country music station plays soft But there's nothing, really nothing to turn off Just Louise and her lover so intertwined And these visions of Johanna that conquer my mind In the empty lot where the ladies play Blind man's bluff with the key chain And the all-night girls, they whisper of escapades out on the D train We can hear the night watchman click his flashlight, ask himself if it's him or them that's insane Louise, she's all right, she's just near She's delicate and seems like the mirror But she just makes it all too concise and too clear That Johanna's not here The ghost of electricity howls in the bones of her face Where these visions of Johanna have not taken my place Now little boy lost, he takes himself so seriously He brags of his misery, he likes to live dangerously And when bringing her name up He speaks of a farewell kiss to me He's sure got a lot of gall To be so useless and all Muttering small talk at the wall While I'm in the hall Oh, how can I explain? It's so hard to get on And these visions of Johanna, they've kept me up past the dawn Inside the museums, Infinity goes up on trial Voices echo this is what salvation must be like after a while But Mona Lisa must have had the highway blues, you can tell by the way she smiles See the primitive wallflower freeze When the jelly-faced women all sneeze Hear the one with the mustache say, \"Gee, I can't find my knees\" Oh, jewels and binoculars hang from the head of the mule But these visions of Johanna, they make it all seem so cruel The peddler now speaks to the countess who's pretending to care for him Saying, \"Name me someone that's not a parasite, and I'll go out and say a prayer for him\" But like Louise always says, \"You can't look at much, can you man, and prepare yourself for him\" And Madonna, she still has not showed We see this empty cage now corrode Where her keeper, the stage hand, once it flowed The fiddler, he now steps to the road He writes everything's been returned which was owed On the back of the fish truck that loads While my conscience explodes The harmonica plays the skeleton keys and the rain And these visions of Johanna are now all that remain"
+  },
+  "metadata": {
+    "youtube_id": "AwuCF5lYqEE",
+    "title_extracted": null,
+    "corpus_id": "AwuCF5lYqEE",
+    "uploader": "Bob Dylan",
+    "audio_file": "corpus/01_music_videos_audio/audio/AwuCF5lYqEE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 14487100,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 37.004927,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:11:36Z"
+  },
+  "status": "success",
+  "error": null
+}

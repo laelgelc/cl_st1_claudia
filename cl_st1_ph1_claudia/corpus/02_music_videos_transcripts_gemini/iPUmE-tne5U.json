@@ -1,0 +1,38 @@
+{
+  "corpus_id": "iPUmE-tne5U",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/iPUmE-tne5U.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/iPUmE-tne5U.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/iPUmE-tne5U.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I used to think maybe you loved me, now baby I'm sure And I just can't wait till the day when you knock on my door Now every time I go for the mailbox I gotta hold myself down 'Cause I just can't wait till you write me you're coming around Now I'm walking on sunshine, whoa I'm walking on sunshine, whoa I'm walking on sunshine, whoa And don't it feel good, hey! All right now, and don't it feel good, hey! Yeah! I used to think maybe you loved me, now I know that it's true And I don't wanna spend my whole life just a-waiting for you Now I don't want you back for the weekend, not back for a day Oh no, no I said baby, I just want you back and I want you to stay Oh yeah, I'm walking on sunshine, whoa I'm walking on sunshine, whoa I'm walking on sunshine, whoa And don't it feel good, hey! All right now, and don't it feel good! Yeah! Oh yeah, and don't it feel good! Walking on sunshine Walking on sunshine I feel alive, I feel alive, I feel a love that's really real I feel alive, I feel alive, I feel a love that's really real I'm on sunshine, baby, oh! Oh yeah, I'm on sunshine, baby, oh! I'm walking on sunshine, whoa I'm walking on sunshine, whoa I'm walking on sunshine, whoa And don't it feel good, hey! All right now, and don't it feel good! I said, I said, I said again now And don't it feel good! Oh yeah, and don't it feel good! Now don't it, don't it, don't it, don't it, don't it, don't it feel good! I said, I said, I said again now And don't it feel good! Don't it, don't it, don't it, don't it, don't it, and don't it feel good! Now tell me, tell me, tell me again now And don't it feel good! Oh yeah, and don't it feel good! Don't it feel good, don't it feel good, now don't it feel good! Oh yeah! Oh yeah! Oh yeah! Oh yeah, yeah, yeah! Oh yeah! Oh yeah!"
+  },
+  "metadata": {
+    "youtube_id": "iPUmE-tne5U",
+    "title_extracted": null,
+    "corpus_id": "iPUmE-tne5U",
+    "uploader": "KatrinaTheWavesVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/iPUmE-tne5U.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7304148,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.13224,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:40:11Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "UmFFTkjs-O0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/UmFFTkjs-O0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/UmFFTkjs-O0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/UmFFTkjs-O0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I've been looking so long at these pictures of you That I almost believe that they're real I've been living so long with my pictures of you That I almost believe that the pictures are all I can feel Remembering you standing quiet in the rain As I ran to your heart to be near And we kissed as the sky fell in, holding you close How I always held close to your fear Remembering you running soft through the night You were bigger and brighter and whiter than snow Screamed at the make-believe, screamed at the sky You finally found all your courage to let it all go Remembering you falling into my arms Crying for the death of your heart You were stone white, so delicate, lost in the cold You were always so lost in the dark Remembering you, how you used to be So drowned, you were angels, so much more than everything Hold for the last time and slip away quietly Open my eyes, but I never see anything If only I'd thought of the right words I could've held onto your heart If only I'd thought of the right words I wouldn't be breaking apart My pictures of you Looking so long at these pictures of you But never hold onto your heart Looking so long for the words to be true But always just breaking apart My pictures of you Woah There was nothing in the world that I ever wanted more Than to feel you deep in my heart There was nothing in the world that I ever wanted more Than to never feel the breaking apart My pictures of you"
+  },
+  "metadata": {
+    "youtube_id": "UmFFTkjs-O0",
+    "title_extracted": null,
+    "corpus_id": "UmFFTkjs-O0",
+    "uploader": "The Cure",
+    "audio_file": "corpus/01_music_videos_audio/audio/UmFFTkjs-O0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 16128474,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.789509,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:53:20Z"
+  },
+  "status": "success",
+  "error": null
+}

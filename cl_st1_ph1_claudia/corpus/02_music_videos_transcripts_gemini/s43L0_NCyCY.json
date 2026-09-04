@@ -1,0 +1,38 @@
+{
+  "corpus_id": "s43L0_NCyCY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/s43L0_NCyCY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/s43L0_NCyCY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/s43L0_NCyCY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "It was late last night I was feeling something wasn't right There was not another soul in sight Only you, only me So we walked alone Though I knew that there was something wrong And a feeling that feels so strong About you Then you gazed at me And the answer was plain to see 'Cause I saw the light In your eyes In your eyes So we had our fling I just never would suspect a thing Till that little bell began to ring In my head, in my head But I tried to run Though I knew it couldn't help me none 'Cause I couldn't ever love no one Or so I said But my feelings for you Were the something I never knew Till I saw the light In your eyes In your eyes But I love you best It's not something that I say in jest 'Cause you're different from all the rest In my eyes And I ran before But I won't do it anymore Can't you see the light In my eyes In my eyes In my eyes In my eyes In my eyes"
+  },
+  "metadata": {
+    "youtube_id": "s43L0_NCyCY",
+    "title_extracted": null,
+    "corpus_id": "s43L0_NCyCY",
+    "uploader": "Memory Lane",
+    "audio_file": "corpus/01_music_videos_audio/audio/s43L0_NCyCY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5869340,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.049712,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:20:36Z"
+  },
+  "status": "success",
+  "error": null
+}

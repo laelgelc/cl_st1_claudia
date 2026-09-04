@@ -1,0 +1,38 @@
+{
+  "corpus_id": "VbfpW0pbvaU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/VbfpW0pbvaU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/VbfpW0pbvaU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/VbfpW0pbvaU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I thought that I've been hurt before But no one's ever left me quite this sore Your words cut deeper than a knife Now I need someone to breathe me back to life Got a feeling that I'm going under But I know that I'll make it out alive If I quit calling you my lover Move on You watch me bleed until I can't breathe Shaking, falling onto my knees And now that I'm without your kisses I'll be needing stitches Tripping over myself Aching, begging you to come help And now that I'm without your kisses I'll be needing stitches Just like a moth drawn to a flame Oh, you lured me in, I couldn't sense the pain Your bitter heart cold to the touch Now I'm gonna reap what I sow I'm left seeing red on my own Got a feeling that I'm going under But I know that I'll make it out alive If I quit calling you my lover Move on You watch me bleed until I can't breathe Shaking, falling onto my knees And now that I'm without your kisses I'll be needing stitches Tripping over myself Aching, begging you to come help And now that I'm without your kisses I'll be needing stitches Needle and the thread, gotta get you out of my head Needle and the thread, gonna wind up dead Needle and the thread, gotta get you out of my head Needle and the thread, gonna wind up dead Needle and the thread, gotta get you out of my head Gotta get you out of my head Needle and the thread, gonna wind up dead Needle and the thread, gotta get you out of my head Get you out of my head You watch me bleed until I can't breathe Bleed until I can't breathe Shaking, falling onto my knees Falling on my knees And now that I'm without your kisses I'll be needing stitches I'll be needing stitches Tripping over myself Aching, begging you to come help Begging, begging, baby And now that I'm without your kisses I'll be needing stitches And now that I'm without your kisses I'll be needing stitches And now that I'm without your kisses I'll be needing stitches"
+  },
+  "metadata": {
+    "youtube_id": "VbfpW0pbvaU",
+    "title_extracted": null,
+    "corpus_id": "VbfpW0pbvaU",
+    "uploader": "Shawn Mendes",
+    "audio_file": "corpus/01_music_videos_audio/audio/VbfpW0pbvaU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7674180,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.565008,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:51:54Z"
+  },
+  "status": "success",
+  "error": null
+}

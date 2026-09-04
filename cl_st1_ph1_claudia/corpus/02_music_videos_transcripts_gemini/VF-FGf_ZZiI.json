@@ -1,0 +1,38 @@
+{
+  "corpus_id": "VF-FGf_ZZiI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/VF-FGf_ZZiI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/VF-FGf_ZZiI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/VF-FGf_ZZiI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "How I wish I knew wanted me. I wish I knew. I wish I knew you wanted me. I wish I knew. I wish I knew you wanted me. What you move? Uh, what you do? Made a move, couldn't make a move. If I knew I'd be with you, is it too late to pursue?  I bite my tongue, it's a bad habit. Kinda mad that I didn't take a step at it. Thought you were too good for me, my dear. Never gave me time of day, my dear. It's okay, things happen for reasons that I think are sure, yeah. I wish I knew. I wish I knew you wanted me. I wish I knew. I wish I knew you wanted me. I wish I knew. I wish I knew you wanted me. I wish I knew. I wish I knew you wanted me. I wish I knew you wanted me. Say to me you still want it. I wish you would play with me. I wanna know.  Can I bite your tongue like my bad habit? Would you mind if I tried to make a pass at it? Thought you were too good for me, my dear. Funny you come back to me, my dear. It's okay, things happen for reasons that I can't ignore, yeah. I wish I knew. I wish I knew you wanted me. I wish I knew. I wish I knew you wanted me. I wish I knew you wanted me. You can't surprise or deny. I'm everywhere I'm co-signing. Now that you're back, I can't decide if I decide if you're invited. You always knew the way to wow me. Fuck around, get tongue-tied. I turn it on, I make you rowdy. Then carry on, but I'm not hiding. You're grabbing me hard 'cause you know what you found is biscuits and gravy, babe. You can't surprise or deny, 'cause you know it's biscuits and gravy, babe. I knew you'd come back around, 'cause you know it's biscuits and gravy, babe. Let's fuck in the back of the Mall. Lose control, go crazy, babe. I know I'll be in your heart till the end. You'll miss me, don't hate me, babe."
+  },
+  "metadata": {
+    "youtube_id": "VF-FGf_ZZiI",
+    "title_extracted": null,
+    "corpus_id": "VF-FGf_ZZiI",
+    "uploader": "Steve Lacy",
+    "audio_file": "corpus/01_music_videos_audio/audio/VF-FGf_ZZiI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7761860,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.885274,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:37:21Z"
+  },
+  "status": "success",
+  "error": null
+}

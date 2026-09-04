@@ -1,0 +1,38 @@
+{
+  "corpus_id": "4JipHEz53sU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/4JipHEz53sU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/4JipHEz53sU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/4JipHEz53sU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "This one is for the boys with the booming system Top down, AC with the cooling system When he come up in the club, he be blazing up Got stacks on deck like he saving up And he tall, he real, he might got a deal He pop bottles and he got the right kind of bill He cold, he dope, he might sell coke He always in the air, but he never fly coach He a motherfucking trip, trip, sailor on the ship, ship When he make it drip, drip, kiss him on the lip, lip That's the kind of dude I was looking for And yes, you'll get slapped if you're looking, ho I said, excuse me, you're a hell of a guy I mean, my, my, my, my, you're like Pelican fly I mean, you're so shy and I'm loving your tie You're like slicker than the guy with the thing on his eye, oh Yes, I did, yes, I did Somebody please tell him who the F I is I am Nicki Minaj, I mack them dudes up Back coupes up and chuck the deuce up 'Cause you got that heart beat running away Beating like a drum and it's coming your way Can't you hear that boom, badoom, boom, boom, badoom, boom, bass? Got that super bass Boom, badoom, boom, boom, badoom, boom, bass Yeah, that's that super bass Boom, badoom, boom, boom, badoom, boom, bass Got that super bass Boom, badoom, boom, boom, badoom, boom, bass Yeah, that's that super bass This one is for the boys in the Polos Entrepreneur niggas in the moguls He can roll with the crew, he can solo But I think I like him better when he dolo And I think I like him better with the fitted cap on He ain't even gotta try to put the mack on He just gotta give me that look, when he give me that look Then the panties coming off, off, uh Excuse me, you're a hell of a guy You know I really got a thing for American guys I mean, sigh, sickening eyes I can tell that you're in touch with your feminine side, uh Yes, I did, yes, I did Somebody please tell him who the F I is I am Nicki Minaj, I mack them dudes up Back coupes up and chuck the deuce up 'Cause you got that heart beat running away Beating like a drum and it's coming your way Can't you hear that boom, badoom, boom, boom, badoom, boom, bass? Got that super bass Boom, badoom, boom, boom, badoom, boom, bass Yeah, that's that super bass Boom, badoom, boom, boom, badoom, boom, bass Got that super bass Boom, badoom, boom, boom, badoom, boom, bass Yeah, that's that super bass See, I need you in my life for me to stay No, no, no, no, no, I know you'll stay No, no, no, no, no, don't go away, yeah Boy, you got my heart beat running away Don't you hear that heart beat coming your way? Oh, it be like boom, badoom, boom, boom, badoom, boom, bass Can't you hear that boom, badoom, boom, boom, badoom, boom, bass? Yeah Boy, you got that heart beat running away Beating like a drum and it's coming your way Can't you hear that boom, badoom, boom, boom, badoom, boom, bass? Got that super bass Boom, badoom, boom, boom, badoom, boom, bass Yeah, that's that super bass Boom, badoom, boom, boom, badoom, boom, bass Got that super bass Boom, badoom, boom, boom, badoom, boom, bass Yeah, that's that super bass"
+  },
+  "metadata": {
+    "youtube_id": "4JipHEz53sU",
+    "title_extracted": null,
+    "corpus_id": "4JipHEz53sU",
+    "uploader": "Nicki Minaj",
+    "audio_file": "corpus/01_music_videos_audio/audio/4JipHEz53sU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6988356,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.403051,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:23:17Z"
+  },
+  "status": "success",
+  "error": null
+}

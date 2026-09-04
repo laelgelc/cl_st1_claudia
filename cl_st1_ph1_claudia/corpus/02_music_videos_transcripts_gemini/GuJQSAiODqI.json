@@ -1,0 +1,38 @@
+{
+  "corpus_id": "GuJQSAiODqI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/GuJQSAiODqI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/GuJQSAiODqI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/GuJQSAiODqI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Strike a pose Strike a pose Vogue Vogue Look around, everywhere you turn is heartache It's everywhere that you go (Everywhere you go) You try everything you can do to escape The pain of life that you know (Life that you know) When all else fails and you long to be Something better than you are today I know a place where you can get away It's called a dance floor, and here's what it's for, so Come on, vogue Let your body move to the music (Hey, hey, hey) Come on, vogue Let your body go with the flow (You know you can do it) All you need is your own imagination So use it, that's what it's for (That's what it's for) Go inside for your finest inspiration Your dreams will open the door (Open up the door) It makes no difference if you're black or white If you're a boy or a girl If the music's pumping it will give you new life You're a superstar, yes, that's what you are, you know it Come on, vogue Let your body groove to the music (Hey, hey, hey) Come on, vogue Let your body go with the flow (You know you can do it) Beauty's where you find it Not just where you bump and grind it Soul is in the music That's where I feel so Beautiful, magical, life's a ball So get up on the dance floor Come on, vogue Let your body move to the music (Hey, hey, hey) Come on, vogue Let your body go with the flow (You know you can do it) Vogue Vogue Beauty's where you find it (Move to the music, vogue) Vogue Beauty's where you find it (Vogue) Greta Garbo, and Monroe Dietrich and DiMaggio Marlon Brando, Jimmy Dean On the cover of a magazine Grace Kelly, Harlow, Jean Picture of a beauty queen Jean Kelly, Fred Astaire Ginger Rogers, dance on air They had style, they had grace Rita Hayworth gave good face Lauren, Katharine, Lana too Bette Davis, we love you Ladies with an attitude Fellas that were in the mood Don't just stand there, let's get to it Strike a pose, there's nothing to it Vogue Vogue Vogue Ooh, you've got to Let your body move to the music Ooh, you've got to just Let your body go with the flow Ooh, you've got to Vogue"
+  },
+  "metadata": {
+    "youtube_id": "GuJQSAiODqI",
+    "title_extracted": null,
+    "corpus_id": "GuJQSAiODqI",
+    "uploader": "Madonna",
+    "audio_file": "corpus/01_music_videos_audio/audio/GuJQSAiODqI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9388370,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.780707,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:34:50Z"
+  },
+  "status": "success",
+  "error": null
+}

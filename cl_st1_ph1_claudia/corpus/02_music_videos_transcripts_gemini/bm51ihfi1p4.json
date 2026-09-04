@@ -1,0 +1,38 @@
+{
+  "corpus_id": "bm51ihfi1p4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/bm51ihfi1p4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/bm51ihfi1p4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/bm51ihfi1p4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "20, 20, 204 hours to go I wanna be sedated Nothin' to do, nowhere to go, oh I wanna be sedated Just get me to the airport, put me on a plane Hurry, hurry, hurry, before I go insane I can't control my fingers, I can't control my brain Oh, no-no-no-no-no 20, 20, 204 hours to go I wanna be sedated Nothin' to do, nowhere to go, oh I wanna be sedated Just put me in a wheelchair, get me on a plane Hurry, hurry, hurry, before I go insane I can't control my fingers, I can't control my brain Oh, no-no-no-no-no 20, 20, 204 hours to go I wanna be sedated Nothin' to do, nowhere to go, oh I wanna be sedated Just put me in a wheelchair, get me to the show Hurry, hurry, hurry, before I go loco I can't control my fingers, I can't control my toes Oh, no-no-no-no-no 20, 20, 204 hours to go I wanna be sedated Nothin' to do, nowhere to go, oh I wanna be sedated Just put me in a wheelchair, get me to the show Hurry, hurry, hurry, before I go loco I can't control my fingers, I can't control my toes Oh, no-no-no-no-no Bam-bam-bam-bam, bam-bam-bam-bam, I wanna be sedated Bam-bam-bam-bam, bam-bam-bam-bam, I wanna be sedated Bam-bam-bam-bam, bam-bam-bam-bam, I wanna be sedated Bam-bam-bam-bam, bam-bam-bam-bam, I wanna be sedated"
+  },
+  "metadata": {
+    "youtube_id": "bm51ihfi1p4",
+    "title_extracted": null,
+    "corpus_id": "bm51ihfi1p4",
+    "uploader": "Ramones",
+    "audio_file": "corpus/01_music_videos_audio/audio/bm51ihfi1p4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4850634,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.802531,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:18:46Z"
+  },
+  "status": "success",
+  "error": null
+}

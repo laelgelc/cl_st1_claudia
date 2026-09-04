@@ -1,0 +1,38 @@
+{
+  "corpus_id": "s0aIjyX7vwI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/s0aIjyX7vwI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/s0aIjyX7vwI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/s0aIjyX7vwI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "It could be a spoonful of diamonds,\ncould be a spoonful of gold,\nJust a little spoon of your precious love,\nsatisfy my soul.\nMen lie about a little,\nSome of 'em cry about a little,\nSome of 'em die about a little,\nEverything fight about a spoonful.\nThat spoon, that spoon, that spoon.\n\nIt could be a spoonful of coffee,\ncould be a spoonful of tea,\nBut a little spoon of your precious love,\ngood enough for me.\nMen lie about that,\nSome of 'em die about that,\nSome of 'em cry about that,\nBut everything fight about a spoonful.\nThat spoon, that spoon, that spoon.\n\nMmm, fight about a spoonful.\nMmm, about a spoonful.\n\nIt could be a spoonful of water,\nsave you from the desert sand,\nBut one spoon of lead from a .45,\nsave you from another man.\nMen lie about that,\nSome of 'em cry about that,\nSome of 'em die about that,\nEverybody fight about a spoonful.\nThat spoon, that spoon, that spoon.\n\nYeah, about a spoonful."
+  },
+  "metadata": {
+    "youtube_id": "s0aIjyX7vwI",
+    "title_extracted": null,
+    "corpus_id": "s0aIjyX7vwI",
+    "uploader": "buckinny",
+    "audio_file": "corpus/01_music_videos_audio/audio/s0aIjyX7vwI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5342526,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.67279,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:05:42Z"
+  },
+  "status": "success",
+  "error": null
+}

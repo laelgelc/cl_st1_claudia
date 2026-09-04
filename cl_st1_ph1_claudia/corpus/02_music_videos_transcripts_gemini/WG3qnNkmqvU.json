@@ -1,0 +1,38 @@
+{
+  "corpus_id": "WG3qnNkmqvU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/WG3qnNkmqvU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/WG3qnNkmqvU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/WG3qnNkmqvU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Man, I know you ain't doing it. I'm telling you, don't do it. Don't do it. Mhm. A little nervous, you know? What I want to know is why is he dressed like Roddy Piper? I got Scottish in my family. Scottish? Come on, man. So who's your bridesmaid? Come on, man, this support, man. Support, man. Come on now. When a man is ready, he ready. When y'all get 80, 70, 60, 55 years old and y'all going to be sitting in a rocking chair by yourself, talking about, \"Ah, let's go to the club, let's go to the club.\" Y'all going to be the only old n***as in the club, playing the side, man. Why get married, pimpin'? Why? So I typed a text to a girl I used to see Saying that I chose this cutie pie with whom I wanna be And I apologize if this message gets you down Then I CC'd every girl that I'd CC'd 'round town And hate to see y'all frown, but I'd rather see her smiling Wetness all around me, true, but I'm no island Peninsula, maybe. Makes no sense, I know, crazy Give up all this pussy and throat that's in my lap, no looking back Spaceships don't come equipped with rearview mirrors They dip as quick as they can, the atmosphere is now ripped I'm so like a pimp, I'm glad it's night, so the light From the sun would not burn me on my bum When I shoot the moon, high jump the broom Like a premie out the womb, my partner yelling \"Too soon, don't do it! Reconsider, read some literature On the subject. You sure? Fuck it You know we got your back like chiropractor If that bitch do you dirty, we'll wipe her out like detergent Now hurry, hurry, go on to the altar I know you ain't a pimp, but pimp, remember what I taught you Keep your heart, Three Stacks, keep your heart Hey, keep your heart, Three Stacks, keep your heart Man, these girls is smart, Three Stacks, these girls is smart Play your part, play your part\" To choose a lover never hurt without a rubber Never in the sheets like an on top of the cover Money on the dresser, driver compressor Top notch bitch get the most, not the lesser Trash like the bitch for $40 in the club Fuck the game, a bitch gets no love She be cross country giving all that she got A thousand a pop, I'm pulling Benthys off the lot I smashed up the gray one, bought me a red Every time we hit the parking lot we turn heads Some bitch wanna choose, but bitch is too scary You chose me, you ain't a pimp, you a fairy I choose you, baby Baby, you've been rolling solo, time to get down with the team The grass is greener on that other side, if you know what I mean I show you shit you've never seen, it's seven wonders of the world And I can make you the eighth if you wanna be my girl When I say my girl, I don't mean my woman, that ain't my style Need a real street stalker to walk a mile We piling up the paper on the dining room table 'Cause you able to realize I'm the truth and not a fable We rocking Russian sable, keep that Chinchilla on the rack What I look like with $50,000 on my back? I'm a million dollar Mac, need a billion dollar bitch Put my pimping in your life, watch your daddy get rich So easy as A-B-C, simple as 1-2-3 Get down with UGK, Pimp C, B-U-G 'Cause what's a hug with no pimp? And what's a pimp with no dough? Don't be a lame, you know the game and how it go We trying to get chosen I choose you, baby Eeny, meeny decisions, with precision I pick Or make my selection on who I choose to be with Girl, don't touch my protection, I know you want it to slip But slipping's something I don't do, tipping for life That's like making it rain every month on schedule Let me tell you, get your parasol umbrella 'Cause it's gonna get wetter, better prepare for the sea support She's supposed to spend it on that baby, but we see she don't Pimping like Paul McCartney, the lawyers couldn't stop it Slaughter, slaughter of them pockets had to tie to a rocket Send her into outer space, I know he wish he could 'Cause he paying 20k a day, that bitch is eating good Like an infant on the double D, she just getting plump 'Cause you miscalculated the next to the last pump Dump-dumping in the gut from the get-up You better choose the right one or pick-pick the kiddies up I choose you, baby I choose you, baby"
+  },
+  "metadata": {
+    "youtube_id": "WG3qnNkmqvU",
+    "title_extracted": null,
+    "corpus_id": "WG3qnNkmqvU",
+    "uploader": "UGKVideoVault",
+    "audio_file": "corpus/01_music_videos_audio/audio/WG3qnNkmqvU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9217472,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 20.062385,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:40:47Z"
+  },
+  "status": "success",
+  "error": null
+}

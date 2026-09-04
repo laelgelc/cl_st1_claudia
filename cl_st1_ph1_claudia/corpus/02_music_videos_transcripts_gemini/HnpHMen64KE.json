@@ -1,0 +1,38 @@
+{
+  "corpus_id": "HnpHMen64KE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/HnpHMen64KE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/HnpHMen64KE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/HnpHMen64KE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You know, a lot of girls be thinking my songs are about them. This is not to get confused. This one's for you.  Baby, you my everything. You all I ever wanted. We could do it real big, bigger than you ever done it. You be up on everything, other hoes ain't never on it. I want this forever, I swear I could spend whatever on it. 'Cause she hold me down every time I hit her up. When I get right, I promise that we gonna live it up. She make me beg for it 'til she give it up. And I say the same thing every single time. I say you the, you the best. You the, you the best. You the, you the best. You the, you the best. You the best I ever had. Best I ever had. Best I ever had. Best I ever had. I say you the, you... Know you got a roommate, call me when there's no one there. Put the key under the mat and you know I'll be over there. I'll be over there, shorty, I'll be over there. I'll be hittin' all the spots that you ain't even know was there, haha. And you don't even have to ask twice. You can have my heart, we can share it like the last slice. Always feel like you was so accustomed to the fast life. Have a nigga thinkin' that he met you in a past life. Sweatpants, hair tied, chillin' with no makeup on. That's when you're the prettiest, I hope that you don't take it wrong. You don't even trip when friends say you ain't bringin' Drake along. You know that I'm workin', I'll be there as soon as I make it home. And she a patient in my waiting room. Never pay attention to the rumors and what they assume. And until them girls prove it, I'm the one that never get confused with, 'cause...  Baby, you my everything. You all I ever wanted. We could do it real big, bigger than you ever done it. You be up on everything, other hoes ain't never on it. I want this forever, I swear I could spend whatever on it. 'Cause she hold me down every time I hit her up. When I get right, I promise that we gonna live it up. She make me beg for it 'til she give it up. And I say the same thing every single time. I say you the, you the best. You the, you the best. You the, you the best. You the, you the best. You the best I ever had. Best I ever had. Best I ever had. Best I ever had. I say you the, you... Sex, love, pain, baby, I'm on that Tank shit. Buzz so big, I could probably sell a blank disc. When my album drop, bitche's'll buy it for the picture, and buy two and claim they got it for their sister. Magazine paper girl, the money ain't the issue. They bring dinner to my room and ask me to initial. Today...  Today's an important day. We have a championship game against a very, very difficult team. I believe in you, and- and- and I want you to know that I'm with you, as long as you're with me, I think we can do this. Hi, Drake! Am I the best? Yeah, you're the best. Drake, what about me? Am I the best? Yes, you're the best. Uh-uh, Drake. What about me? Tell me I'm the best. Sure, you're- you guys are all the best. Get this. All right, let's go \"the best\" on 3, okay? 1, 2, 3... The best! She call me the referee 'cause I be so official. My shirt ain't got no stripes, but I can make your whistle blow like the Andy Griffith theme song. And who told you to put them jeans on? Double cup love, you the one I lean on. Feelin' for a fix and you should really get your fiend on. Yeah, just know my condo is the freak spot. Every single show, she out there reppin' like a mascot. Get it, get it, make your bra strap pop. So let's hit the jackpot, I say... Baby, you my everything. You all I ever wanted. We could do it real big, bigger than you ever done it. You be up on everything, other hoes ain't never on it. I want this forever, I swear I could spend whatever on it. 'Cause she hold me down every time I hit her up. When I get right, I promise that we gonna live it up. She make me beg for it 'til she give it up. And I say the same thing every single time. I say you the, you the best. You the, you the best. You the, you the best. You the, you the best. You the best I ever had. Best I ever had. Best I ever had. Best I ever had. I say you the, you the best. Come on. I don't know what to say. I don't know what's happening here, okay? We're falling apart. Now, I swore the new uniforms would be encouragement. The Mighty Ducks didn't disappoint Emilio Estevez, you know what I'm saying? Now when you're out there, and they put that D on you, take that D. Take that D like the champions that you are. Okay? You guys are better than this. But Drake, all you ever taught us how to do was stretch. That's- that's an essential part of the game, and that's why I focus so much time on that. But now look, we have two minutes left, and you all know good and well what we can do with two minutes. Okay? You're the fucking best. All right? Now let's make magic happen. You the, you the best. You the, you the best. You the, you the best. You the, you the best. You the best I ever had. Best I ever had. Best I ever had. Best I ever had. I say you the, you... Uh, oh yeah. See, this the type of joint you gotta dedicate to somebody. Just make sure they that special somebody. Young Money. Yeah. Yeah. You know who you are. I got you."
+  },
+  "metadata": {
+    "youtube_id": "HnpHMen64KE",
+    "title_extracted": null,
+    "corpus_id": "HnpHMen64KE",
+    "uploader": "HipHopOfficialMusic",
+    "audio_file": "corpus/01_music_videos_audio/audio/HnpHMen64KE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10780082,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.625954,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:04:55Z"
+  },
+  "status": "success",
+  "error": null
+}

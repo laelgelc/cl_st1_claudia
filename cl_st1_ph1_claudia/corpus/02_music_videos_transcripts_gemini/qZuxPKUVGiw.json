@@ -1,0 +1,38 @@
+{
+  "corpus_id": "qZuxPKUVGiw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/qZuxPKUVGiw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/qZuxPKUVGiw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/qZuxPKUVGiw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Right about now, N.W.A. court is in full effect. Judge Dre presiding. In the case of N.W.A. versus the Police Department, prosecuting attorneys are MC Ren, Ice Cube, and Eazy-motherfucking-E. Order, order, order. Ice Cube, take the motherfucking stand. Do you swear to tell the truth, the whole truth, and nothing but the truth, so help your black ass? You goddamn right. Well, why don't you tell everybody what the fuck you got to say? Fuck the police coming straight from the underground A young nigga got it bad cause I'm brown And not the other color, so police think They have the authority to kill a minority Fuck that shit cause I ain't the one For a punk motherfucker with a badge and a gun to be beaten on And thrown in jail We can go toe-to-toe in the middle of a cell Fucking with me cause I'm a teenager With a little bit of gold and a pager Searching my car, looking for the product Thinking every nigga is selling narcotics You'd rather see me in the pen Than me and Lorenzo rolling in a Benzo Beat a police out of shape And when I'm finished, bring the yellow tape To tape off the scene of the slaughter Still getting swole off bread and water I don't know if they fags or what Search a nigga down and grabbing his nuts And on the other hand, without a gun they can't get none But don't let it be a black and a white one Cause they'll slam ya down to the street top Black police showing out for the white cop Ice Cube will swarm On any motherfucker in a blue uniform Just cause I'm from the CPT Punk police are afraid of me, huh A young nigga on the warpath And when I'm finished, it's gonna be a bloodbath Of cops dying in L.A. Yo Dre, I got something to say Fuck the police Fuck the police Fuck the police Fuck the police Example scene one. Oh shit, now what the fuck you pull me over for? Cause I feel like it! Just sit your ass on the curb and shut the fuck up! Man, fuck this shit. All right, smart ass, I'm taking your black ass to jail. MC Ren, will you please give your testimony to the jury about this fucked up incident? Fuck the police and Ren said it with authority Because a nigga's on the street is a majority A gang, is with whoever I'm stepping And a motherfucking weapon is kept in A stash box for the so-called law Wishing Ren was a nigga that they never saw Lights start flashing behind me But the scared of a nigga so they mace me to blind me But that shit don't work, I just laugh Because it gives 'em a hint not to step in my path For police, I'm saying fuck you, punk Read my rights and shit, it's all junk Pulling out a silly club so you stand With a fake ass badge and a gun in your hand But take off the gun so you can see what's up And we'll go at it, punk, and I'm a fuck you up Thinking you can kick my ass But drop your gun, and Ren's gonna blast I'm sneaky as fuck when it comes to crime But I'm a smoke 'em now and not next time Smoke any motherfucker that sweats me Or any asshole that threatens me I'm a sniper with a hell of a scope Taking out a cop or two, they can't cope with me The motherfucking villain that's mad With potential to get bad as fuck, so I'm a turn it around Full in my clip, yo, and this is the sound Yeah, something like that, but it all depends on the size of the gat Taking out a police would make my day But a nigga like Ren don't give a fuck to say Fuck the police Fuck the police Fuck the police Fuck the police Yeah man, what you mean? Police, open up! We have a warrant for your arrest! Get your hands up where I can see 'em! Get the fuck out of the car! What the fuck did I do? Just shut the fuck up and get your motherfucking ass on the floor! Man, I didn't do shit! Man, just shut the fuck up! Eazy-E, why don't you step up to the stand and tell the jury how you feel about this bullshit? I'm tired of the motherfucking jacking Sweating my gang while I'm chilling in the shack and Shining the light in my face and for what? Maybe it's because I kick so much butt I kick ass, or maybe cause I blast On a stupid ass nigga when I'm playing with the trigger Of an Uzi or AK Cause the police always got something stupid to say They put me in a picture with silence Cause my identity by itself causes violence The E with the criminal behavior Yeah, I'm a gangster, but still I got flavor Without a gun and a badge, what do you got? A sucker in a uniform waiting to get shot By me or another nigga And with a gat, it don't matter if he's smaller or bigger Size don't mean shit, he's from the old school, fool And as you all know, E's here to rule Whenever I'm rolling, keep looking in the mirror And end on cue, yo, so I can hear a Dumb motherfucker with a gun And if I'm rolling out the 8, he'll be the one that I take out And then get away While I'm driving off laughing, this is what I'll say Fuck the police Fuck the police Fuck the police Fuck the police The verdict. The jury finds the defendant guilty of being a redneck, white, red-trash, chicken-shit motherfucker. Wait! That's a lie! That's a goddamn lie! Get him out of here. I want justice! Get him the fuck out my face! Out right now! Fuck you, you black motherfucker! Fuck the police Fuck the police Fuck the police"
+  },
+  "metadata": {
+    "youtube_id": "qZuxPKUVGiw",
+    "title_extracted": null,
+    "corpus_id": "qZuxPKUVGiw",
+    "uploader": "NWA",
+    "audio_file": "corpus/01_music_videos_audio/audio/qZuxPKUVGiw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10997048,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.847561,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:14:07Z"
+  },
+  "status": "success",
+  "error": null
+}

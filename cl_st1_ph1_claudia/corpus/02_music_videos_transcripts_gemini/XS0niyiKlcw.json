@@ -1,0 +1,38 @@
+{
+  "corpus_id": "XS0niyiKlcw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/XS0niyiKlcw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/XS0niyiKlcw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/XS0niyiKlcw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Ah  Now I don't know her  But I think I could love her  Crimson and clover  Ah  Well, if she come walking over  Now I've been hoping to show her  Crimson and clover  Over and over  Yeah  My mind's such a sweet thing  I want to do everything  What a beautiful feeling  Crimson and clover  Over and over  Crimson and clover, over and over  Crimson and clover, over and over  Crimson and clover, over and over  Crimson and clover, over and over  Crimson and clover, over and over  Crimson and clover, over and over"
+  },
+  "metadata": {
+    "youtube_id": "XS0niyiKlcw",
+    "title_extracted": null,
+    "corpus_id": "XS0niyiKlcw",
+    "uploader": "Tommy James",
+    "audio_file": "corpus/01_music_videos_audio/audio/XS0niyiKlcw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6575970,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.526035,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:34:18Z"
+  },
+  "status": "success",
+  "error": null
+}

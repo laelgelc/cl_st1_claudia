@@ -1,0 +1,38 @@
+{
+  "corpus_id": "nW9Cu6GYqxo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nW9Cu6GYqxo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/nW9Cu6GYqxo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/nW9Cu6GYqxo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Turn down the lights Turn down the bed Turn down these voices inside my head Lay down with me Tell me no lies Just hold me close Don't patronize Don't patronize me 'Cause I can't make you love me if you don't You can't make your heart feel something it won't Here in the dark in these final hours I will lay down my heart and I'll feel the power But you won't, no, you won't 'Cause I can't make you love me if you don't I'll close my eyes then I won't see The love you don't feel when you're holding me Morning will come and I'll do what's right Just give me till then to give up this fight And I will give up this fight 'Cause I can't make you love me if you don't You can't make your heart feel something it won't Here in the dark in these final hours I will lay down my heart and I'll feel the power But you won't, no, you won't 'Cause I can't make you love me if you don't Ain't no use in you trying, baby"
+  },
+  "metadata": {
+    "youtube_id": "nW9Cu6GYqxo",
+    "title_extracted": null,
+    "corpus_id": "nW9Cu6GYqxo",
+    "uploader": "TheBonnieRaitt",
+    "audio_file": "corpus/01_music_videos_audio/audio/nW9Cu6GYqxo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9116418,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.216718,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:42:45Z"
+  },
+  "status": "success",
+  "error": null
+}

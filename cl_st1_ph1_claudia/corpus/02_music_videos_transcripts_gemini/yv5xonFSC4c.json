@@ -1,0 +1,38 @@
+{
+  "corpus_id": "yv5xonFSC4c",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yv5xonFSC4c.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/yv5xonFSC4c.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/yv5xonFSC4c.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Old pirates, yes, they rob I \nSold I to the merchant ships \nMinutes after they took I \nFrom the bottomless pit \nBut my hand was made strong \nBy the hand of the Almighty \nWe forward in this generation \nTriumphantly \n\nWon't you help to sing \nThese songs of freedom? \n'Cause all I ever have: \nRedemption songs \nRedemption songs \n\nEmancipate yourselves from mental slavery \nNone but ourselves can free our minds \nHave no fear for atomic energy \n'Cause none of them can stop the time \nHow long shall they kill our prophets \nWhile we stand aside and look? \nOoh, some say it's just a part of it \nWe've got to fulfill the book \n\nWon't you help to sing \nThese songs of freedom? \n'Cause all I ever have: \nRedemption songs \nRedemption songs \nRedemption songs \n\nEmancipate yourselves from mental slavery \nNone but ourselves can free our minds \nOh, have no fear for atomic energy \n'Cause none of them can stop the time \nHow long shall they kill our prophets \nWhile we stand aside and look? \nYes, some say it's just a part of it \nWe've got to fulfill the book \n\nWon't you help to sing \nThese songs of freedom? \n'Cause all I ever have: \nRedemption songs \nAll I ever have: \nRedemption songs \nThese songs of freedom \nSongs of freedom"
+  },
+  "metadata": {
+    "youtube_id": "yv5xonFSC4c",
+    "title_extracted": null,
+    "corpus_id": "yv5xonFSC4c",
+    "uploader": "Bob Marley",
+    "audio_file": "corpus/01_music_videos_audio/audio/yv5xonFSC4c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7543406,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.026396,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:33:05Z"
+  },
+  "status": "success",
+  "error": null
+}

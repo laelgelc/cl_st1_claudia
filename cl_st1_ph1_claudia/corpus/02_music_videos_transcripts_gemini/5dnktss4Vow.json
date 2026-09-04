@@ -1,0 +1,38 @@
+{
+  "corpus_id": "5dnktss4Vow",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/5dnktss4Vow.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/5dnktss4Vow.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/5dnktss4Vow.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "He said, \"I'll love you till I die\" She told him, \"You'll forget in time\" How I watched the years pass slowly by She still stayed upon his mind He kept her picture on his wall Went half crazy now and then But he still loved her through it all Kept hoping she'd come back again He kept love letters by his bed Dated 1962 He had underlined in red Every single \"I love you\" I went to see my friend today But I didn't see no tears He was all dressed up for going away First time I've seen him smile in years He stopped loving her today They placed a wreath upon his door And soon they'll carry him away He stopped loving her today You know she came back to see him one last time today. Oh, and we all wondered if she would. And it kept running through my mind, well, this time he's over her for good. He stopped loving her today They placed a wreath upon his door Soon they'll carry him away He stopped loving her today"
+  },
+  "metadata": {
+    "youtube_id": "5dnktss4Vow",
+    "title_extracted": null,
+    "corpus_id": "5dnktss4Vow",
+    "uploader": "GuriMalla2010",
+    "audio_file": "corpus/01_music_videos_audio/audio/5dnktss4Vow.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6310704,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 41.91713,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:54:58Z"
+  },
+  "status": "success",
+  "error": null
+}

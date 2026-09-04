@@ -1,0 +1,38 @@
+{
+  "corpus_id": "i9HGwRbMiVY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/i9HGwRbMiVY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/i9HGwRbMiVY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/i9HGwRbMiVY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You say I only hear what I want to You say I talk so all the time, so And I thought what I felt was simple And I thought that I don't belong And now that I am leaving Now I know that I did something wrong 'Cause I missed you Yeah, I missed you You say I only hear what I want to I don't listen hard Don't pay attention to the distance that you're running To anyone, anywhere I don't understand if you really care I'm only hearing negative, no, no, no, bad So I turned the radio on, I turned the radio up And this woman was singing my song Lovers in love and the other's run away Lover is crying 'cause the other won't stay Some of us hover only waiting for the other Who was dying since the day they were born, well, well This is not that, think that I'm throwing, but I'm thrown And I thought I'd live forever, but now I'm not so sure You try to tell me that I'm clever That won't take me anyhow, or anywhere with you You said that I was naive I thought that I was strong, oh I thought, \"Hey, I can leave, I can leave,\" oh But now I know that I was wrong 'Cause I missed you Yeah, I missed you You said, \"You caught me 'cause you want me And one day you'll let me go\" You try to give away a keeper Or keep me 'cause you know you're just so scared to lose You say stay You say I only hear what I want to"
+  },
+  "metadata": {
+    "youtube_id": "i9HGwRbMiVY",
+    "title_extracted": null,
+    "corpus_id": "i9HGwRbMiVY",
+    "uploader": "Lisa Loeb Official",
+    "audio_file": "corpus/01_music_videos_audio/audio/i9HGwRbMiVY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5792806,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.503622,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:37:15Z"
+  },
+  "status": "success",
+  "error": null
+}

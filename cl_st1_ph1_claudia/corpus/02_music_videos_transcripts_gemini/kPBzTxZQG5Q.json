@@ -1,0 +1,38 @@
+{
+  "corpus_id": "kPBzTxZQG5Q",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/kPBzTxZQG5Q.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/kPBzTxZQG5Q.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/kPBzTxZQG5Q.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "A hundred days have made me older since the last time that I saw your pretty face A thousand lies have made me colder and I don't think I can look at this the same But all the miles that separate Disappear now when I'm dreaming of your face I'm here without you, baby, but you're still on my lonely mind I think about you, baby, and I dream about you all the time I'm here without you, baby, but you're still with me in my dreams And tonight it's only you and me, yeah The miles just keep rolling as the people leave their way to say hello I've heard this life is overrated, but I hope that it gets better as we go, oh yeah, yeah I'm here without you, baby, but you're still on my lonely mind I think about you, baby, and I dream about you all the time I'm here without you, baby, but you're still with me in my dreams And tonight, girl, it's only you and me Everything I know, and everywhere I go It gets hard, but it won't take away my love And when the last one falls, when it's all said and done It gets hard, but it won't take away my love, oh I'm here without you, baby, but you're still on my lonely mind I think about you, baby, and I dream about you all the time I'm here without you, baby, but you're still with me in my dreams And tonight, girl, it's only you and me, yeah Oh yeah, oh"
+  },
+  "metadata": {
+    "youtube_id": "kPBzTxZQG5Q",
+    "title_extracted": null,
+    "corpus_id": "kPBzTxZQG5Q",
+    "uploader": "3doorsdown",
+    "audio_file": "corpus/01_music_videos_audio/audio/kPBzTxZQG5Q.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7547120,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.608827,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:06:57Z"
+  },
+  "status": "success",
+  "error": null
+}

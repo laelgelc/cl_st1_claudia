@@ -1,0 +1,38 @@
+{
+  "corpus_id": "hTWKbfoikeg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hTWKbfoikeg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/hTWKbfoikeg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/hTWKbfoikeg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Load up on guns, bring your friends It's fun to lose and to pretend She's over-bored and self-assured Oh no, I know a dirty word Hello, hello, hello, how low Hello, hello, hello, how low Hello, hello, hello, how low Hello, hello, hello With the lights out, it's less dangerous Here we are now, entertain us I feel stupid and contagious Here we are now, entertain us A mulatto, an albino A mosquito, my libido Yeah Yeah I'm worst at what I do best And for this gift I feel blessed Our little group has always been And always will until the end Hello, hello, hello, how low Hello, hello, hello, how low Hello, hello, hello, how low Hello, hello, hello With the lights out, it's less dangerous Here we are now, entertain us I feel stupid and contagious Here we are now, entertain us A mulatto, an albino A mosquito, my libido Yeah Yeah And I forget just why I taste Oh yeah, I guess it makes me smile I found it hard, it's hard to find Well, whatever, never mind Hello, hello, hello, how low Hello, hello, hello, how low Hello, hello, hello, how low Hello, hello, hello With the lights out, it's less dangerous Here we are now, entertain us I feel stupid and contagious Here we are now, entertain us A mulatto, an albino A mosquito, my libido A denial, a denial A denial, a denial A denial, a denial A denial, a denial A denial"
+  },
+  "metadata": {
+    "youtube_id": "hTWKbfoikeg",
+    "title_extracted": null,
+    "corpus_id": "hTWKbfoikeg",
+    "uploader": "Nirvana",
+    "audio_file": "corpus/01_music_videos_audio/audio/hTWKbfoikeg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8909110,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.081039,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:55:54Z"
+  },
+  "status": "success",
+  "error": null
+}

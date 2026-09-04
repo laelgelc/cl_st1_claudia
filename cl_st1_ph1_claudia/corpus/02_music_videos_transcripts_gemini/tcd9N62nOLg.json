@@ -1,0 +1,38 @@
+{
+  "corpus_id": "tcd9N62nOLg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/tcd9N62nOLg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/tcd9N62nOLg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/tcd9N62nOLg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Oh yeah, yeah, yeah Now if there's a smile on my face It's only there trying to fool the public But when it comes down to fooling you Now honey, that's quite a different subject Don't let my glad expression Give you the wrong impression Really I'm sad (sad, sad, sad) Oh, sad, oh sad You're gone and I'm hurting so bad Like a clown, I pretend to be glad (glad, glad, glad, glad) Now there's some sad things known to man But ain't none that's sadder than The tears of a clown When there's no one around Oh yeah, baby Now if I appear to be carefree It's only to camouflage my sadness In order to shield my proud-out pride To cover this hurt with a show of gladness But don't let my show convince you That I've been happy since you decided to go Oh, I need you so I'm hurt and I want you to know But for others, I put on a show (show, show, show, show) Oh, there's some sad things known to man But ain't none that's sadder than The tears of a clown When there's no one around Oh yeah Just like Pagliacci did I try to keep my sadness hidden Smiling in the public eye But in my lonely room, I cry The tears of a clown When there's no one around Oh yeah, baby Now if there's a smile on my face Don't let my glad expression Give you the wrong impression Don't let this smile I wear Make you think that I don't care Really I'm sad, hurting so bad"
+  },
+  "metadata": {
+    "youtube_id": "tcd9N62nOLg",
+    "title_extracted": null,
+    "corpus_id": "tcd9N62nOLg",
+    "uploader": "moondoggy",
+    "audio_file": "corpus/01_music_videos_audio/audio/tcd9N62nOLg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5699928,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 10.999285,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:33:52Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "LNmIbSre7Tw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/LNmIbSre7Tw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/LNmIbSre7Tw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/LNmIbSre7Tw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Looking out at the road rushing under my wheels Looking back at the years gone by like so many summer fields In '65 I was 17 and running up 101 I don't know where I'm running now, I'm just running on Running on, running on empty Running on, running blind Running into the sun, but I'm running behind Gotta do what you can just to keep your love alive Trying not to confuse it with what you do to survive In '69 I was 21 and I called the road my own I don't know when that road turned onto the road I'm on Running on, running on empty Running on, running blind Running into the sun, but I'm running behind Everyone I know, everywhere I go People need some reason to believe I don't know about anyone, but me If it takes all night, that'll be alright If I can get you to smile before I leave Looking out at the road rushing under my wheels I don't know how to tell you all just how crazy this life feels I look around for the friends that I used to turn to to pull me through Looking into their eyes, I see them running too Running on, running on empty Running on, running blind Running into the sun, but I'm running behind Honey, you really tempt me, you know the way you look so kind I wanna know who you are, but I'm running behind Running on, I don't even know where I'm running Running blind, running into the sun, but I'm running behind"
+  },
+  "metadata": {
+    "youtube_id": "LNmIbSre7Tw",
+    "title_extracted": null,
+    "corpus_id": "LNmIbSre7Tw",
+    "uploader": "upfront27",
+    "audio_file": "corpus/01_music_videos_audio/audio/LNmIbSre7Tw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9491652,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 35.297271,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:28:20Z"
+  },
+  "status": "success",
+  "error": null
+}

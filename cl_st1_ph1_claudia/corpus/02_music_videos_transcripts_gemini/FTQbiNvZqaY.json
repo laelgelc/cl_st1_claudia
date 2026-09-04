@@ -1,0 +1,38 @@
+{
+  "corpus_id": "FTQbiNvZqaY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/FTQbiNvZqaY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/FTQbiNvZqaY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/FTQbiNvZqaY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I hear the drums echoing tonight She hears only whispers of some quiet conversation She's coming in 12:30 flight The moonlit wings reflect the stars that guide me towards salvation I stopped an old man along the way Hoping to find some old forgotten words or ancient melodies He turned to me as if to say \"Hurry boy, it's waiting there for you\"  Gonna take a lot to drag me away from you There's nothing that a hundred men or more could ever do I bless the rains down in Africa Gonna take some time to do the things we never had  The wild dogs cry out in the night As they grow restless, longing for some solitary company I know that I must do what's right As sure as Kilimanjaro rises like Olympus above the Serengeti I seek to cure what's deep inside, frightened of this thing that I've become  Gonna take a lot to drag me away from you There's nothing that a hundred men or more could ever do I bless the rains down in Africa Gonna take some time to do the things we never had  Hurry boy, she's waiting there for you  Gonna take a lot to drag me away from you There's nothing that a hundred men or more could ever do I bless the rains down in Africa I bless the rains down in Africa I bless the rains down in Africa I bless the rains down in Africa I bless the rains down in Africa Gonna take some time to do the things we never had"
+  },
+  "metadata": {
+    "youtube_id": "FTQbiNvZqaY",
+    "title_extracted": null,
+    "corpus_id": "FTQbiNvZqaY",
+    "uploader": "TOTO",
+    "audio_file": "corpus/01_music_videos_audio/audio/FTQbiNvZqaY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8685456,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.176937,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:57:15Z"
+  },
+  "status": "success",
+  "error": null
+}

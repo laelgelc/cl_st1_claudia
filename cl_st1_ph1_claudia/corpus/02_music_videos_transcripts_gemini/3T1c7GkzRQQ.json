@@ -1,0 +1,38 @@
+{
+  "corpus_id": "3T1c7GkzRQQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/3T1c7GkzRQQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/3T1c7GkzRQQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/3T1c7GkzRQQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Roxanne You don't have to put on the red light Those days are over You don't have to sell your body to the night Roxanne You don't have to wear that dress tonight Walk the streets for money You don't care if it's wrong or if it's right Roxanne You don't have to put on the red light Roxanne You don't have to put on the red light Roxanne (Put on the red light) Roxanne (Put on the red light) Roxanne (Put on the red light) Roxanne (Put on the red light) Roxanne (Put on the red light) Roxanne I loved you since I knew you I wouldn't talk down to you I have to tell you just how I feel I won't share you with another boy I know my mind is made up So put away your makeup Told you once, I won't tell you again, it's a bad way Roxanne You don't have to put on the red light Roxanne You don't have to put on the red light Roxanne (Put on the red light) Roxanne (Put on the red light) Roxanne (Put on the red light) Roxanne (Put on the red light) Roxanne (Put on the red light) Roxanne (Put on the red light) Roxanne (Put on the red light) Roxanne (Put on the red light) Roxanne (Put on the red light) Roxanne (You don't have to put on the red light) Roxanne (Put on the red light) Roxanne (You don't have to put on the red light) Roxanne (Put on the red light) Roxanne (Put on the red light) Roxanne"
+  },
+  "metadata": {
+    "youtube_id": "3T1c7GkzRQQ",
+    "title_extracted": null,
+    "corpus_id": "3T1c7GkzRQQ",
+    "uploader": "The Police",
+    "audio_file": "corpus/01_music_videos_audio/audio/3T1c7GkzRQQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6074418,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.205611,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:32:02Z"
+  },
+  "status": "success",
+  "error": null
+}

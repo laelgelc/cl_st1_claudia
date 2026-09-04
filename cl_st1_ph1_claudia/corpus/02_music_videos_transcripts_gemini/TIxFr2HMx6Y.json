@@ -1,0 +1,38 @@
+{
+  "corpus_id": "TIxFr2HMx6Y",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/TIxFr2HMx6Y.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/TIxFr2HMx6Y.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/TIxFr2HMx6Y.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "The gypsy woman told my mother Before I was born I got a boy child coming He gonna be a son of a gun He gonna make pretty women Jump and shout Then the world wanna know What this all about But you know I'm here Everybody knows I'm here Well, you know I'm the hoochie coochie man Everybody knows I'm here I got a black cat bone I got a mojo, too I got the John the Conqueror root I'm gonna mess with you I'm gonna make you girls Lead me by my hand Then the world'll know The hoochie coochie man But you know I'm here Everybody knows I'm here Well, you know I'm the hoochie coochie man Everybody knows I'm here On the seventh hour On the seventh day On the seventh month The seventh doctor say He was born for good luck And that you see I got seven hundred dollars And don't you mess with me But you know I'm here Everybody knows I'm here Well, you know I'm the hoochie coochie man Everybody knows I'm here"
+  },
+  "metadata": {
+    "youtube_id": "TIxFr2HMx6Y",
+    "title_extracted": null,
+    "corpus_id": "TIxFr2HMx6Y",
+    "uploader": "Classic Mood Experience",
+    "audio_file": "corpus/01_music_videos_audio/audio/TIxFr2HMx6Y.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5537944,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 18.792395,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:04:42Z"
+  },
+  "status": "success",
+  "error": null
+}

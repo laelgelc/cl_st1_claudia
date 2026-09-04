@@ -1,0 +1,38 @@
+{
+  "corpus_id": "3GwjfUFyY6M",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/3GwjfUFyY6M.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/3GwjfUFyY6M.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/3GwjfUFyY6M.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Yahoo!  This is a celebration.  Yahoo!  This is a celebration. Celebrate good times, come on! Let's celebrate. Celebrate good times, come on! Let's celebrate. There's a party going on right here, a celebration to last throughout the years. So bring your good times and your laughter, too. We gonna celebrate your party with you, come on now! Celebration! Let's all celebrate and have a good time. Celebration! We gonna celebrate and have a good time. It's time to come together. It's up to you, what's your pleasure? Everyone around the world, come on!  Yahoo! It's a celebration.  Yahoo!  It's a celebration. Celebrate good times, come on! It's a celebration. Celebrate good times, come on! Let's celebrate. There's a party going on right here, a dedication to last throughout the years. So bring your good times and your laughter, too. We gonna celebrate and party with you, come on now! Celebration! Let's all celebrate and have a good time, yeah, yeah. Celebration! We gonna celebrate and have a good time. It's time to come together. It's up to you, what's your pleasure? Everyone around the world, come on!  Yahoo! It's a celebration.  Yahoo!  It's a celebration. Celebrate good times, come on! Let's celebrate, come on now! Celebrate good times, come on! Let's celebrate. We're gonna have a good time tonight. Let's celebrate, it's alright. We're gonna have a good time tonight. Let's celebrate, it's alright. Believe that! We're gonna have a good time tonight. Let's celebrate, it's alright. We're gonna have a good time tonight. Let's celebrate, it's alright.  Yahoo!  Yahoo!  Celebrate good times, come on!"
+  },
+  "metadata": {
+    "youtube_id": "3GwjfUFyY6M",
+    "title_extracted": null,
+    "corpus_id": "3GwjfUFyY6M",
+    "uploader": "KoolandthegangShow",
+    "audio_file": "corpus/01_music_videos_audio/audio/3GwjfUFyY6M.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8238146,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.740192,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:03:15Z"
+  },
+  "status": "success",
+  "error": null
+}

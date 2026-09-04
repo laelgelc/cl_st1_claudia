@@ -1,0 +1,38 @@
+{
+  "corpus_id": "OUNJbVFW5Pw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/OUNJbVFW5Pw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/OUNJbVFW5Pw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/OUNJbVFW5Pw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Now here's an American combo, The Young Rascals, so let's give a big hand for them. Good lovin' Good lovin' Good lovin' I was feelin' so bad I asked my doctor just what I had I said doctor (Doctor) Mr. MD (Doctor) Can you tell me (Doctor) What's ailin' me? (Doctor) He said, \"Yeah, yeah, yeah, yeah, yeah\" (Yeah, yeah, yeah, yeah, yeah) Yes, indeed All I, I really need Gimme that good lovin' (Good lovin') All I need is lovin' (Good lovin') Good lovin', baby Honey, please Listen to my plea Don't you want your baby to be alright? (Be alright) I said, \"Baby, it's for sure I got the fever, you got the cure\" Come on, yeah, yeah, yeah, yeah, yeah (Yeah, yeah, yeah, yeah, yeah) Yes, indeed All I, I really need Gimme that good lovin' (Good lovin') All I need is lovin' (Good lovin') Good lovin', baby Good lovin' Good lovin' All I want is lovin' (Good lovin') All I need is lovin' (Good lovin') Love you in the morning (Good lovin') Love you late at night (Good lovin') Love..."
+  },
+  "metadata": {
+    "youtube_id": "OUNJbVFW5Pw",
+    "title_extracted": null,
+    "corpus_id": "OUNJbVFW5Pw",
+    "uploader": "The Ed Sullivan Show",
+    "audio_file": "corpus/01_music_videos_audio/audio/OUNJbVFW5Pw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4798622,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 46.036321,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:44:04Z"
+  },
+  "status": "success",
+  "error": null
+}

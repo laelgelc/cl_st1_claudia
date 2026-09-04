@@ -1,0 +1,38 @@
+{
+  "corpus_id": "qq09UkPRdFY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/qq09UkPRdFY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/qq09UkPRdFY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/qq09UkPRdFY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Welcome to the fantasy.\n\nSweet, sweet fantasy\nSweet, sweet fantasy, baby\nSweet, sweet fantasy\nSweet, sweet fantasy, baby\n\nOh, when you walk by every night\nTalking sweet and looking fine\nI get kind of hectic inside\nBaby, I'm so into you\nDarling, if you only knew\nAll the fantasies float through my mind\nBut it's just a...\n\nSweet, sweet fantasy, baby\nWhen I close my eyes, you come and take me\nOn and on and on\nIt's so deep in my daydream\nBut it's just a sweet, sweet fantasy, baby\n\nSweet, sweet fantasy\nSweet, sweet fantasy, baby\nSweet, sweet fantasy\nI want you so bad, yeah\nSweet, sweet fantasy, baby\n\nImages of rapture\nCreep into my mind\nAs you go into my head\nAnd my heart beats faster\nWhen you take me over\nTime and time and time again\nBut it's just a...\n\nSweet, sweet fantasy, baby\nWhen I close my eyes, you come and take me\nOn and on and on\nIt's so deep in my daydream\nBut it's just a sweet, sweet fantasy, baby\n\nSweet, sweet fantasy\nSweet, sweet fantasy, baby\nSweet, sweet fantasy\nSweet, sweet fantasy, baby\nOh yeah...\n\nSweet, sweet fantasy, baby\nWhen I close my eyes, you come and take me\nOn and on and on\nIt's so deep in my daydream (So deep)\nBut it's just a sweet, sweet fantasy, baby\n\nYou're my boyfriend\nMy life, my all and all\nThere's no beginning and there's no end\nFeels like I'm dreaming, but I'm not sleeping\n\nSweet, sweet fantasy, baby\nWhen I close my eyes, you come and take me\nOn and on and on\nIt's so deep in my daydream\nBut it's just a sweet, sweet fantasy, baby\n\nSweet, sweet fantasy, baby\nWhen I close my eyes, you come and take me\nOn and on and on\nIt's so deep in my daydream\n(I'm in a trance, you make me crazy)\nBut it's just a sweet, sweet fantasy, baby\n\nSweet, sweet fantasy, baby\nSweet, sweet fantasy, baby"
+  },
+  "metadata": {
+    "youtube_id": "qq09UkPRdFY",
+    "title_extracted": null,
+    "corpus_id": "qq09UkPRdFY",
+    "uploader": "Mariah Carey",
+    "audio_file": "corpus/01_music_videos_audio/audio/qq09UkPRdFY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7951334,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.873075,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:21:53Z"
+  },
+  "status": "success",
+  "error": null
+}

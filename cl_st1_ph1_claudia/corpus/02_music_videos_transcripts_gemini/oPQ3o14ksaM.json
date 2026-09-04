@@ -1,0 +1,38 @@
+{
+  "corpus_id": "oPQ3o14ksaM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/oPQ3o14ksaM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/oPQ3o14ksaM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/oPQ3o14ksaM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Shake that thing, Miss. Kanna Kanna, shake that thing, Miss. Annabella, shake that thing, yeah. Donna Donna, Jodi and Rebecca. Woman, get busy. Just shake that booty non-stop when the beat drop, just keep swinging it, get jiggy. Get crunked up, percolate, anything you want to call it, just let it pop, don't take pity. Want to see you get live when the rhythm hit, a rider, my lyrics are full of electricity. Girl, nobody can tell you nothing 'cause you done know your destiny. Yo, sexy ladies want par with us. Inna the car with us, dem no war with us. Inna the club dem want flex with us, to get next to us, dem no vex with us. From the day me born, hit ignite my flame. Girl a call my name and it is my fame. It's all good, girl, turn me on. Till the early morning, let's get it on. Let's get it on till the early morning, girl. It's all good, just turn me on. Girl, don't sweat it, don't get agitated. Girl, go rotate, for anything you want, you know you must get it. Call my name I mention, don't ease the tension. Girl, win the program, just go ahead. Yo, have a good time, girl, free up your mind. 'Cause nobody can dis the man, won't allow it. 'Cause you're the number one, girl, wave your hand, make dem see the wedding band. Yo, sexy ladies want par with us. Inna the car with us, dem no war with us. Inna the club dem want flex with us, to get next to us, dem no vex with us. From the day me born, hit ignite my flame. Girl a call my name and it is my fame. It's all good, girl, turn me on. Till the early morning, let's get it on. Let's get it on till the early morning, girl. It's all good, just turn me on. Woman, get busy. Just shake that booty non-stop when the beat drop, just keep swinging it, get jiggy. Get crunked up, percolate, anything you want to call it, just let it pop, don't take pity. Want to see you get live when the rhythm hit, a rider, my lyrics are full of electricity. Girl, nobody can tell you nothing 'cause you done know your destiny. Yo, sexy ladies want par with us. Inna the car with us, dem no war with us. Inna the club dem want flex with us, to get next to us, dem no vex with us. From the day me born, hit ignite my flame. Girl a call my name and it is my fame. It's all good, girl, turn me on. Till the early morning, let's get it on. Stop banging on the damn furnace! You hear me now? This is the last time! Well, let's get it on till the early morning, girl. It's all good, just turn me on. Yo, shake that thing, Miss. Kanna Kanna, shake that thing, yo. Annabella, shake that thing, Miss. Donna Donna, yo, Miss Jodi and the one named Rebecca, yo, shake that thing, yo. Donna, shake that thing, yo. Annabella, shake that thing, Miss. Kanna Kanna, dat's it, aye. Yo, dem girl deh say, yo, sexy ladies want par with us. Inna the car with us, dem no war with us. Inna the club dem want flex with us, to get next to us, dem no vex with us. From the day me born, hit ignite my flame. Girl a call my name and it is my fame. It's all good, girl, turn me on. Till the early morning, let's get it on. Let's get it on till the early morning, girl. It's all good, just turn me on. Yo, sexy ladies want par with us. Inna the car with us, dem no war with us. Inna the club dem want flex with us, to get next to us, dem no vex with us. From the day me born, hit ignite my flame. Girl a call my name, yo, it is my fame. It's all good, girl, turn me on. Till the early morning, let's get it on. Let's get it on till the early morning... Yo! Light up the place, a full of Sean Paul. So make us a blend... Flit it up! Light up the place! More fire! And right now we have brand new Sean Paul, a real Sean Paul, light up the dance! Light it up, more fire, more fire! All I know this time it is getting dread. Need a lot of cheese up in my bed. A lot of damsels in my bedroom. Run that riddim. Well I know slicker girl dem want the road dem got the goodie goodie, one thing me have to tell dem: don't take off the woodie woodie, front to back way cut the cable man have to show dem show dem... Virgin dem want give me and me have to tookie tookie... But a promise is a comfort to a fool, so cool... Well you done know say dat man have to rule the school... When I pet dem... I warned you about the banging of the furnace, but you wouldn't listen! The party's done! Get the hell out of my house! Out! Out, now!"
+  },
+  "metadata": {
+    "youtube_id": "oPQ3o14ksaM",
+    "title_extracted": null,
+    "corpus_id": "oPQ3o14ksaM",
+    "uploader": "Atlantic Records",
+    "audio_file": "corpus/01_music_videos_audio/audio/oPQ3o14ksaM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8481120,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.485049,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:51:09Z"
+  },
+  "status": "success",
+  "error": null
+}

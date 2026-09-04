@@ -1,0 +1,38 @@
+{
+  "corpus_id": "knWnMKKEt88",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/knWnMKKEt88.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/knWnMKKEt88.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/knWnMKKEt88.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Rack, rack city, bitch. City, bitch, city, bitch. Rack, rack, rack city, bitch. City, bitch, city, bitch. Rack, rack, rack city, bitch. City, bitch, city, bitch. Mustard on the beat, ho. Rack city, bitch, rack, rack city, bitch. 10, 10, 10, 20s on your titties, bitch. 100 deep, VIP, no guest list. T-T-Raw, you don't know who you fucking with? Got my other bitch fucking with my other bitch. Fucking all night, nigga, we ain't celebrate. Nigga, I'm too dope, I ain't selling it. Bar fresher than a motherfucking peppermint. Gold LeBrons, Last Kings killer shit. Young Money, Young Money, yeah, we getting rich. Got your grandma on my dick. Girl, you know what it is. Rack city, bitch, rack, rack city, bitch. Rack city, bitch, rack, rack city, bitch. Rack city, bitch, rack, rack city, bitch. 10, 10, 10, 20s and them 50s, bitch. Rack city, bitch, rack, rack city, bitch. Rack city, bitch, rack, rack city, bitch. Rack city, bitch, rack, rack city, bitch. 10, 10, 10, 20s and them 50s, bitch. I'm a motherfucking star. Look at the paint on the car. Too much rim make the ride too hard. Tell that bitch hop out, walk the boulevard. I need my money pronto. Get it in the morning like Alonzo. Rundown, green got cheese like a nacho. Feeling on her ass, bitch, wear poncho. Head honcho, got my seat back. Niggas staring at me, don't get slapped. Got my shirt off, the club Tupac. It's too turned, going up like gas. Goddamn, pull out my racks. Mike, Mike Jackson, nigga, yeah, I'm back. Rat-tat-tat-tat-tat it up on my back. All the hoes love me, you know what it is. Rack city, bitch, rack, rack city, bitch. Rack city, bitch, rack, rack city, bitch. Rack city, bitch, rack, rack city, bitch. 10, 10, 10, 20s and them 50s, bitch. Rack city, bitch, rack, rack city, bitch. Rack city, bitch, rack, rack city, bitch. Rack city, bitch, rack, rack city, bitch. 10, 10, 10, 20s and them 50s, bitch. Throwing hundreds, hundreds. Hundreds, hundreds. Throwing hundreds, hundreds. Rack city, bitch, rack, rack city, bitch. Hundreds, hundreds. Throwing hundreds, hundreds. Hundreds, hundreds. Rack city, bitch, rack, rack city, bitch. Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey."
+  },
+  "metadata": {
+    "youtube_id": "knWnMKKEt88",
+    "title_extracted": null,
+    "corpus_id": "knWnMKKEt88",
+    "uploader": "DJ ill Will Alumni",
+    "audio_file": "corpus/01_music_videos_audio/audio/knWnMKKEt88.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4813482,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 31.083248,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:21:21Z"
+  },
+  "status": "success",
+  "error": null
+}

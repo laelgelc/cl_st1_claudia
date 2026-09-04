@@ -1,0 +1,38 @@
+{
+  "corpus_id": "z9nkzaOPP6g",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/z9nkzaOPP6g.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/z9nkzaOPP6g.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/z9nkzaOPP6g.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You got me running, going out of my mind You got me thinking that I'm wasting my time Don't bring me down No, no, no, no, no Ooh, ooh I tell you once more before I get off the floor Don't bring me down You wanna stay out with your fancy friends I'm telling you it's got to be the end Don't bring me down No, no, no, no, no Ooh, ooh I tell you once more before I get off the floor Don't bring me down Don't bring me down, Bruce Don't bring me down, Bruce Don't bring me down, Bruce Don't bring me down What happened to the girl I used to know? You let your mind out somewhere down the road Don't bring me down No, no, no, no, no Ooh, ooh I tell you once more before I get off the floor Don't bring me down You're always talking 'bout your crazy nights One of these days you're gonna get it right Don't bring me down No, no, no, no, no Ooh, ooh I tell you once more before I get off the floor Don't bring me down Don't bring me down, Bruce Don't bring me down, Bruce Don't bring me down, Bruce Don't bring me down You're looking good, just like a snake in the grass One of these days you're gonna break your glass Don't bring me down No, no, no, no, no, no, no, no Ooh, ooh I tell you once more before I get off the floor Don't bring me down You got me shaking, got me running away You got me crawling up to you every day Don't bring me down No, no, no, no, no Ooh, ooh I tell you once more before I get off the floor Don't bring me down, down, down, down, down I tell you once more before I get off the floor Don't bring me down"
+  },
+  "metadata": {
+    "youtube_id": "z9nkzaOPP6g",
+    "title_extracted": null,
+    "corpus_id": "z9nkzaOPP6g",
+    "uploader": "ELO",
+    "audio_file": "corpus/01_music_videos_audio/audio/z9nkzaOPP6g.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7799754,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.65453,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:26:22Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "C-u5WLJ9Yk4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/C-u5WLJ9Yk4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/C-u5WLJ9Yk4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/C-u5WLJ9Yk4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Oh, baby, baby Oh, baby, baby Oh, baby, baby, how was I supposed to know That something wasn't right, yeah? Oh, baby, baby, I shouldn't have let you go And now you're out of sight, yeah Show me how you want it to be Tell me, baby, 'cause I need to know now, oh because My loneliness is killing me (And I) I must confess, I still believe (Still believe) When I'm not with you, I lose my mind Give me a sign Hit me, baby, one more time Oh, baby, baby, the reason I breathe is you Boy, you got me blinded Oh, pretty baby, there's nothing that I wouldn't do It's not the way I planned it Show me how you want it to be Tell me, baby, 'cause I need to know now, oh because My loneliness is killing me (And I) I must confess, I still believe (Still believe) When I'm not with you, I lose my mind Give me a sign Hit me, baby, one more time Oh, baby, baby Oh, baby, baby, yeah Oh, baby, baby, how was I supposed to know? Oh, pretty baby, I shouldn't have let you go I must confess that my loneliness is killing me now Don't you know I still believe That you will be here and give me a sign Hit me, baby, one more time My loneliness is killing me (And I) I must confess, I still believe (Still believe) When I'm not with you, I lose my mind Give me a sign Hit me, baby, one more time I must confess that my loneliness is killing me now Don't you know I still believe That you will be here and give me a sign Hit me, baby, one more time"
+  },
+  "metadata": {
+    "youtube_id": "C-u5WLJ9Yk4",
+    "title_extracted": null,
+    "corpus_id": "C-u5WLJ9Yk4",
+    "uploader": "Britney Spears",
+    "audio_file": "corpus/01_music_videos_audio/audio/C-u5WLJ9Yk4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7585758,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.834598,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:23:31Z"
+  },
+  "status": "success",
+  "error": null
+}

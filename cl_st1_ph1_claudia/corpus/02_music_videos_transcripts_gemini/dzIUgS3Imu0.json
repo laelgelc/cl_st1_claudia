@@ -1,0 +1,38 @@
+{
+  "corpus_id": "dzIUgS3Imu0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/dzIUgS3Imu0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/dzIUgS3Imu0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/dzIUgS3Imu0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You're no good, heartbreaker \nYou're a liar and you're a cheat \nAnd I don't know why \nI let you do these things to me \n\nMy friends keep telling me \nThat you ain't no good \nOh, but they don't know \nThat I'd leave you if I could \n\nI guess I'm uptight \nAnd I'm stuck like glue \n'Cause I ain't never \nI ain't never \nI ain't never loved no man the way that I love you \n\nSome time ago I thought \nYou were runnin' out of fools \nBut I was so wrong \nYou got one that'll never lose \n\nThe way you treat me is a shame \nHow could you hurt me so bad? \nBaby, you know that I'm the best thing \nThat you ever had \n\nKiss me once again \nDon't you never, never say that we're through \n'Cause I ain't never \nNever \nNever, no, no, loved no man the way that I love you \n\nI can't sleep at night \nAnd I can't eat a bite \nI guess I'll never be free \nSince you got your hooks in me \n\nOh, yeah! \nYeah! \nI ain't never loved a man \nI ain't never loved a man, baby \nAin't never had a man hurt me so bad \nNo! \nWell, this is what I'm gonna do about it \nI tell you I'm gonna hold on \nYes, I'm gonna hold on"
+  },
+  "metadata": {
+    "youtube_id": "dzIUgS3Imu0",
+    "title_extracted": null,
+    "corpus_id": "dzIUgS3Imu0",
+    "uploader": "Aretha Franklin",
+    "audio_file": "corpus/01_music_videos_audio/audio/dzIUgS3Imu0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5499306,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.461921,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:11:59Z"
+  },
+  "status": "success",
+  "error": null
+}

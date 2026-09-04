@@ -1,0 +1,38 @@
+{
+  "corpus_id": "H77fRz1rybs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/H77fRz1rybs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/H77fRz1rybs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/H77fRz1rybs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "This is a man's world This is a man's world But it would be nothing Nothing without a woman or a girl You see, man made the cars To take us over the road Man made the train To carry the heavy load Man made electric light To take us out of the dark Man made the boat for the water Like Noah made the ark This is a man's, man's, man's world But it would be nothing Nothing without a woman or a girl Man thinks about our little bit of baby girls And our baby boys Man make them happy 'Cause man make them toys And after man make everything Everything he can You know that man makes money To buy from other man This is a man's world But it would be nothing Nothing, not one little thing Without a woman or a girl He's lost in the wilderness He's lost in bitterness He's lost"
+  },
+  "metadata": {
+    "youtube_id": "H77fRz1rybs",
+    "title_extracted": null,
+    "corpus_id": "H77fRz1rybs",
+    "uploader": "James Brown",
+    "audio_file": "corpus/01_music_videos_audio/audio/H77fRz1rybs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5287540,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.669218,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:22:27Z"
+  },
+  "status": "success",
+  "error": null
+}

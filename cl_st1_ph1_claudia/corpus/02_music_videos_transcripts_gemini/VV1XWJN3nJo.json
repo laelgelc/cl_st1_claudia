@@ -1,0 +1,38 @@
+{
+  "corpus_id": "VV1XWJN3nJo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/VV1XWJN3nJo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/VV1XWJN3nJo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/VV1XWJN3nJo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I thought I saw a man brought to life He was warm, he came around like he was dignified He showed me what it was to cry Well, you couldn't be that man I adored You don't seem to know, seem to care what your heart is for But I don't know him anymore There's nothing where he used to lie My conversation has run dry That's what's going on Nothing's fine, I'm torn I'm all out of faith, this is how I feel I'm cold and I am shamed, lying naked on the floor Illusion never changed into something real I'm wide awake and I can see the perfect sky is torn You're a little late, I'm already torn  So I guess the fortune teller's right I should have seen just what was there and not some holy light Which crawled beneath my veins and now I don't care, I have no luck, I don't miss it all that much There's just so many things that I can't touch, I'm torn I'm all out of faith, this is how I feel I'm cold and I am shamed, lying naked on the floor Illusion never changed into something real I'm wide awake and I can see the perfect sky is torn You're a little late, I'm already torn Torn Ooh, ooh, ooh There's nothing where he used to lie My inspiration has run dry That's what's going on Nothing's right, I'm torn I'm all out of faith, this is how I feel I'm cold and I am shamed, lying naked on the floor Illusion never changed into something real I'm wide awake and I can see the perfect sky is torn I'm all out of faith, this is how I feel I'm cold and I'm ashamed, bound and broken on the floor You're a little late, I'm already torn Torn Ooh, ooh, ooh"
+  },
+  "metadata": {
+    "youtube_id": "VV1XWJN3nJo",
+    "title_extracted": null,
+    "corpus_id": "VV1XWJN3nJo",
+    "uploader": "Natalie Imbruglia",
+    "audio_file": "corpus/01_music_videos_audio/audio/VV1XWJN3nJo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7784150,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.04933,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:53:17Z"
+  },
+  "status": "success",
+  "error": null
+}

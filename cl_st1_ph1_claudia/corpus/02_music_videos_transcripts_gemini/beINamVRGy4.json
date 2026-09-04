@@ -1,0 +1,38 @@
+{
+  "corpus_id": "beINamVRGy4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/beINamVRGy4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/beINamVRGy4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/beINamVRGy4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I'm packed and I'm holding I'm smiling, she's living, she's golden She lives for me, says she lives for me, evasion No motivation She comes round and she goes down on me And I make her smile, like a drug for you Do whatever you wanna do, coming over you Keep on smile, what we go through One step to the rhythm that divides you Energy to you like the chorus to the verse Chop another line like a turtle with the curse Coming like a freak show takes the stage We give in and the game's simple as to say  I want something else To get me through this Semi-charmed kind of life, baby, baby I want something else I'm not listening when you say Goodbye  The sky was gold, it was rose I was taking slips of it to my nose And I wish I could get back there, someplace back there Smiling in the pictures you would take Doing crystal meth will lift you up until you break It won't stop I won't come down, I keep stop With the tick-tock rhythm, I bump for the drop and then I'm bumped up I took the hit that I was given, then I bumped again Then I bumped again, then How do I get back there to the place where I fell asleep inside you? How do I get myself back to the place where you said  I want something else To get me through this Semi-charmed kind of life, baby, baby I want something else I'm not listening when you say Goodbye  I believe in the sand beneath my toes The beach gives a feeling, an extra feeling I believe in the faith that grows And the four-pack goal can make me cry When I'm with you I feel like I could die And that would be alright, alright And when the plane came in, she said she was crashing The velvet rope inside the city, we chunked all the herbs to feel alive And now I'm struggling to survive Those days you were wearing that velvet dress You're the priest that I must confess Those little red panties, they passed the test Slid them down the belly, face down on the mattress  I want something else To get me through this life, baby I want something else Not listening when you say Goodbye Goodbye Goodbye Goodbye  The sky was gold, it was rose I was taking slips of it to my nose And I wish I could get back there, someplace back there In the place we used to start"
+  },
+  "metadata": {
+    "youtube_id": "beINamVRGy4",
+    "title_extracted": null,
+    "corpus_id": "beINamVRGy4",
+    "uploader": "thirdeyeblind",
+    "audio_file": "corpus/01_music_videos_audio/audio/beINamVRGy4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7733624,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.607931,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:48:25Z"
+  },
+  "status": "success",
+  "error": null
+}

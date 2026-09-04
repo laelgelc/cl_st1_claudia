@@ -1,0 +1,38 @@
+{
+  "corpus_id": "agrXgrAgQ0U",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/agrXgrAgQ0U.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/agrXgrAgQ0U.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/agrXgrAgQ0U.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "1, 2, 3, 4 La, la, la The smell of your skin lingers on me now You're probably on your flight back to your hometown I need some shelter of my own protection, baby To be with myself and center Clarity, peace, serenity I hope you know, I hope you know That this has nothing to do with you It's personal, myself and I We've got some straightening out to do And I'm gonna miss you like a child misses their blanket But I've got to get a move on with my life It's time to be a big girl now And big girls don't cry Don't cry, don't cry, don't cry The path that I'm walking I must go alone I must take the baby steps till I'm full grown, full grown Fairy tales don't always have a happy ending, do they? And I foresee the dark ahead if I stay I hope you know, I hope you know That this has nothing to do with you It's personal, myself and I We've got some straightening out to do And I'm gonna miss you like a child misses their blanket But I've got to get a move on with my life It's time to be a big girl now And big girls don't cry Like Little Miss Sunshine and Little Jack Horner, got I'll be your best friend and you'll be my Valentine Yes, you can hold my hand if you want to 'Cause I wanna hold yours, too We'll be playmates and lovers and share our secret worlds But it's time for me to go home It's getting late, dark outside I need to be with myself and center Clarity, peace, serenity I hope you know, I hope you know That this has nothing to do with you It's personal, myself and I We've got some straightening out to do And I'm gonna miss you like a child misses their blanket But I've got to get a move on with my life It's time to be a big girl now And big girls don't cry Don't cry, don't cry, don't cry La, la, la, la, la, la"
+  },
+  "metadata": {
+    "youtube_id": "agrXgrAgQ0U",
+    "title_extracted": null,
+    "corpus_id": "agrXgrAgQ0U",
+    "uploader": "Fergie",
+    "audio_file": "corpus/01_music_videos_audio/audio/agrXgrAgQ0U.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9826020,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.696994,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:58:37Z"
+  },
+  "status": "success",
+  "error": null
+}

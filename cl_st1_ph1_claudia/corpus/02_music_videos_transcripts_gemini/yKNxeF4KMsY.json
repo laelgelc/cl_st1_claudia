@@ -1,0 +1,38 @@
+{
+  "corpus_id": "yKNxeF4KMsY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/yKNxeF4KMsY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/yKNxeF4KMsY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/yKNxeF4KMsY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Look at the stars\nLook how they shine for you\nAnd everything you do\nYeah, they were all yellow\n\nI came along\nI wrote a song for you\nAnd all the things you do\nAnd it was called Yellow\n\nSo then I took my turn\nOh, what a thing to have done\nAnd it was all yellow\n\nYour skin\nOh, yeah, your skin and bones\nTurn into something beautiful\nD'you know\nYou know I love you so?\nYou know I love you so?\n\nI swam across\nI jumped across for you\nOh, what a thing to do\n'Cause you were all yellow\n\nI drew a line\nI drew a line for you\nOh, what a thing to do\nAnd it was all yellow\n\nYour skin\nOh, yeah, your skin and bones\nTurn into something beautiful\nD'you know\nFor you, I'd bleed myself dry?\nFor you, I'd bleed myself dry?\n\nIt's true\nLook how they shine for you\nLook how they shine for you\nLook how they shine\nLook how they shine for you\nLook how they shine for you\nLook how they shine\n\nLook at the stars\nLook how they shine for you\nAnd all the things that you do"
+  },
+  "metadata": {
+    "youtube_id": "yKNxeF4KMsY",
+    "title_extracted": null,
+    "corpus_id": "yKNxeF4KMsY",
+    "uploader": "Coldplay",
+    "audio_file": "corpus/01_music_videos_audio/audio/yKNxeF4KMsY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8712206,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:04:52Z"
+  },
+  "status": "success",
+  "error": null
+}

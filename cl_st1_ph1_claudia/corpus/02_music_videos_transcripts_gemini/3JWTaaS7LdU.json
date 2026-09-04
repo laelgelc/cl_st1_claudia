@@ -1,0 +1,38 @@
+{
+  "corpus_id": "3JWTaaS7LdU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/3JWTaaS7LdU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/3JWTaaS7LdU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/3JWTaaS7LdU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "If I should stay\nI would only be in your way\nSo I'll go\nBut I know\nI'll think of you every step of the way\n\nAnd I will always love you\nWill always love you\n\nYou, my darling, you\nBittersweet memories\nThat is all I'm taking with me\nSo goodbye\nPlease don't cry\nWe both know I'm not what you, you need\n\nAnd I will always love you\nWill always love you\n\nI hope life treats you kind\nAnd I hope you have all you've dreamed of\nAnd I wish to you joy and happiness\nBut above all this, I wish you love\n\nAnd I will always love you\nI will always love you\nI will always love you\nI will always love you\nI will always love you\nI, I will always love you\n\nDarling, I love you\nOoh, I'll always, always love you"
+  },
+  "metadata": {
+    "youtube_id": "3JWTaaS7LdU",
+    "title_extracted": null,
+    "corpus_id": "3JWTaaS7LdU",
+    "uploader": "Whitney Houston",
+    "audio_file": "corpus/01_music_videos_audio/audio/3JWTaaS7LdU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8769420,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.854195,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:08:42Z"
+  },
+  "status": "success",
+  "error": null
+}

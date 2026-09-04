@@ -1,0 +1,38 @@
+{
+  "corpus_id": "e-fA-gBCkj0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/e-fA-gBCkj0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/e-fA-gBCkj0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/e-fA-gBCkj0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "One, two, one, two, three Oh yeah, yeah. Oh yeah, yeah, yeah. Oh. Oh yeah, yeah. Oh yeah, yeah, yeah. Oh. Never had much faith in love or miracles Never wanna put my heart on the line Swimmin' in your world is somethin' spiritual I'm born again every time you spend the night 'Cause your sex takes me to paradise Yeah, your sex takes me to paradise And it shows Yeah, yeah, yeah 'Cause you make me feel like I've been locked out of heaven For too long, for too long Yeah, you make me feel like I've been locked out of heaven For too long, for too long Oh yeah, yeah. Oh. Oh yeah, yeah. Oh yeah, yeah, yeah. Oh. You bring me to my knees, you make me testify You can make a sinner change his ways Open up your gates, 'cause I can't wait to see the light And right there is where I wanna stay 'Cause your sex takes me to paradise Yeah, your sex takes me to paradise And it shows Yeah, yeah, yeah 'Cause you make me feel like I've been locked out of heaven For too long, for too long Yeah, you make me feel like I've been locked out of heaven For too long, for too long Oh, oh, oh, oh, yeah, yeah, yeah Can I just stay here? Spend the rest of my days here? Oh, oh, oh, oh, yeah, yeah, yeah Can I just stay here? Spend the rest of my days here? 'Cause you make me feel like I've been locked out of heaven For too long, for too long Yeah, you make me feel like I've been locked out of heaven For too long, for too long Oh, oh, oh Oh yeah, yeah. Oh. Oh yeah, yeah. Oh yeah, yeah, yeah. Oh."
+  },
+  "metadata": {
+    "youtube_id": "e-fA-gBCkj0",
+    "title_extracted": null,
+    "corpus_id": "e-fA-gBCkj0",
+    "uploader": "Bruno Mars",
+    "audio_file": "corpus/01_music_videos_audio/audio/e-fA-gBCkj0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7495108,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.960321,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:04:38Z"
+  },
+  "status": "success",
+  "error": null
+}

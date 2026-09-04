@@ -1,0 +1,38 @@
+{
+  "corpus_id": "h3h--K5928M",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/h3h--K5928M.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/h3h--K5928M.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/h3h--K5928M.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Got a feeling inside\nCan't explain\nIt's a certain kind\nCan't explain\nI feel hot and cold\nCan't explain\nYeah, down in my soul, yeah\nCan't explain\nI said, can't explain\nI feel good now, yeah, but\nCan't explain\nDizzy in the head, now I'm feelin' blue\nThe things you said, well maybe that's true\nGettin' funny dreams again and again\nI know what it means, but\nCan't explain\nI think it's love, try to say it to you\nWhen I feel blue, but can't explain\nCan't explain\nYeah, hear what I say, girl\nCan't explain\nDizzy in the head, now feelin' bad\nThe things you said got me real mad\nGettin' funny dreams again and again\nI know what it means, but\nCan't explain\nI think it's love, try to say it to you\nWhen I feel blue, but can't explain\nCan't explain\nYou give me one more time now\nCan't explain\nSaid I can't explain it\nOoh, I'm out of my mind\nYeah, I'm a worried guy, yeah\nI said I can't explain"
+  },
+  "metadata": {
+    "youtube_id": "h3h--K5928M",
+    "title_extracted": null,
+    "corpus_id": "h3h--K5928M",
+    "uploader": "TheWho",
+    "audio_file": "corpus/01_music_videos_audio/audio/h3h--K5928M.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4014716,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 21.134186,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:35:12Z"
+  },
+  "status": "success",
+  "error": null
+}

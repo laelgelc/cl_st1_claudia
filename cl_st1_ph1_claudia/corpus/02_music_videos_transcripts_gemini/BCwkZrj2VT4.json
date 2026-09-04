@@ -1,0 +1,38 @@
+{
+  "corpus_id": "BCwkZrj2VT4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/BCwkZrj2VT4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/BCwkZrj2VT4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/BCwkZrj2VT4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "People say I'm the life of the party 'cause I tell a joke or two Although I might be laughing loud and hearty, deep inside I'm blue So take a good look at my face You'll see my smile looks out of place If you look closer it's easy to trace The tracks of my tears I need you, need you Since you left me if you see me with another girl, seeming like I'm having fun Although she may be cute, she's just a substitute 'cause you're the permanent one So take a good look at my face Oh, you'll see my smile looks out of place Yeah, look a little bit closer and it's easy to trace Oh, the tracks of my tears Oh, I need you, need you Hey, hey, yeah Outside I'm masquerading Inside My hope is fading Just a clown Oh yeah, since you put me down My smile is my makeup I wear since my breakup with you, baby Take a good look at my face Oh, you'll see my smile looks out of place Yeah, just look closer and it's easy to trace Oh, the tracks of my tears Baby, baby, baby, baby Take a good look at my face Oh yeah, you'll see my smile See, look a little bit closer And it's easy to trace Yeah, the tracks of my tears Oh yeah, baby, take a good"
+  },
+  "metadata": {
+    "youtube_id": "BCwkZrj2VT4",
+    "title_extracted": null,
+    "corpus_id": "BCwkZrj2VT4",
+    "uploader": "soulmusic87",
+    "audio_file": "corpus/01_music_videos_audio/audio/BCwkZrj2VT4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5568410,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.920158,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:49:38Z"
+  },
+  "status": "success",
+  "error": null
+}

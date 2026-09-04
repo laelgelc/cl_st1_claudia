@@ -1,0 +1,38 @@
+{
+  "corpus_id": "HL1UzIK-flA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/HL1UzIK-flA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/HL1UzIK-flA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/HL1UzIK-flA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Work, work, work, work, work, work He said me have to work, work, work, work, work, work He see me do the dirt, dirt, dirt, dirt, dirt, dirt So me put in work, work, work, work, work, work When you ah go learn, learn, learn, learn, learn? Me nuh care if him hurt, hurt, hurt, hurt, hurting Dry me to deserting No time to have you lurking Him ah go act like him nuh like it You know I dealt with you the nicest Nobody touch me in the righteous Nobody text me in a crisis I believed all of your dreams, adoration You took my heart and my keys and my patience You took my heart on my sleeve for decoration You mistaken my love I brought for you for foundation All that I wanted from you was to give me Something that I never had Something that you've never seen Something that you've never been, mmm But I awake and restore Just get ready for work, work, work, work, work, work He said me have to work, work, work, work, work, work He see me do the dirt, dirt, dirt, dirt, dirt, dirt So me put in work, work, work, work, work, work When you ah go learn, learn, learn, learn, learn? Before the table turn, turn, turn, turn, turn, turn Beg you something, please Baby, don't you leave Don't leave me stuck in the streets, uh-huh If I get another chance to I will never, no, never neglect you I mean, who am I to hold your past against you? I just hope that it gets through to you I hope that you see this through I hope that you see this true What can I say? Please recognize I'm trying, baby Ah, work, work, work, work, work He said me have to work, work, work, work, work He see me do the dirt, dirt, dirt, dirt, dirt So me put in work, work, work, work, work When you ah go learn, learn, learn, learn, learn? Before the table turn, turn, turn, turn, turn Yeah, okay You need to get done, done, done, done at work, come over We just need to slow the motion Don't get it twisted, no one long distance, I need you When I see potential, I just gotta sit on it If you had a twin, I would still choose you I don't wanna rush into it if it's too soon But I know you need to get done, done, done, done if you come over Sorry if I'm way too friendly I got niggas trying to end me, oh, yeah I spilled all my emotions tonight, I'm sorry Rolling, rolling, rolling, rolling, rolling How many more shots until you're rolling? We just need a face to face You can pick the time and the place You spent some time away Now you need to forward and give me all the Work, work, work, work, work, work He said me have to work, work, work, work, work, work He see me do the dirt, dirt, dirt, dirt, dirt, dirt So me put in work, work, work, work, work, work When you ah go learn, learn, learn, learn, learn? Before the table turn, turn, turn, turn, turn Mmm, mmm Mmm, mmm Work, work, work, work, work, work Mmm, mmm"
+  },
+  "metadata": {
+    "youtube_id": "HL1UzIK-flA",
+    "title_extracted": null,
+    "corpus_id": "HL1UzIK-flA",
+    "uploader": "Rihanna",
+    "audio_file": "corpus/01_music_videos_audio/audio/HL1UzIK-flA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 14531684,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 8.706901,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:42:30Z"
+  },
+  "status": "success",
+  "error": null
+}

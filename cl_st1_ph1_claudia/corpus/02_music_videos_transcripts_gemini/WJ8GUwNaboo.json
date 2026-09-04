@@ -1,0 +1,38 @@
+{
+  "corpus_id": "WJ8GUwNaboo",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/WJ8GUwNaboo.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/WJ8GUwNaboo.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/WJ8GUwNaboo.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Early one morning the sun was shining\nI was laying in bed\nWondering if she'd changed it all if her hair was still red\nHer folks, they said our lives together sure was gonna be rough\nThey never did like Mama's homemade dress, Papa's bankbook wasn't big enough\nAnd I was standing on the side of the road, rain falling on my shoes\nHeading off for the East Coast, Lord knows I've paid some dues getting through\nTangled up in blue\n\nShe was married when we first met, soon to be divorced\nI helped her out of a jam, I guess, but I used a little too much force\nWe drove that car as far as we could, abandoned it out West\nSplit up on a dark sad night, both agreeing it was best\nAnd she turned around to look at me as I was walking away\nI heard her say over my shoulder, \"We'll meet again someday on the avenue\"\nTangled up in blue\n\nI had a job in the Great North Woods working as a cook for a spell\nBut I never did like it all that much and one day the axe just fell\nSo I drifted down to New Orleans, where I was lucky to be employed\nWorking for a while on a fishing boat right outside of Delacroix\nBut all the while I was alone, the past was close behind\nI've seen a lot of women, but she never escaped my mind and I just grew\nTangled up in blue\n\nShe was working in a topless place and I stopped in for a beer\nI just kept looking at the side of her face in the spotlight so clear\nAnd later on when the crowd thinned out, I was just about to do the same\nShe was standing there in back of my chair, said to me, \"Don't I know your name?\"\nI muttered something underneath my breath, she studied the lines of my face\nI must admit to a little unease when she bent down to tie the laces of my shoes\nTangled up in blue\n\nShe lit a burner on the stove and offered me a pipe\n\"I thought you'd never say hello,\" she said, \"you look like the silent type\"\nAnd she opened up a book of poems and handed it to me\nWritten by an Italian poet from the thirteenth century\nAnd every one of them words rang true and glowed like burning coal\nPouring off of every page like it was written in my soul for me and you\nTangled up in blue\n\nI lived with them on Montague Street in a basement downstairs\nThere was music in the cafes at night and revolution in the air\nAnd he started into dealing with slaves and something inside of him died\nShe had to sell everything she owned and froze up inside\nAnd when it finally bottom fell out, I became withdrawn\nThe only thing I knew how to do was to keep on keeping on like a bird that flew\nTangled up in blue\n\nSo now I'm going back again, I got to get to her somehow\nAll the people we used to know, they're an illusion to me now\nSome are mathematicians, some are carpenters' wives\nDon't know how it all got started, don't know what they're doing with their lives\nBut me, I'm still on the road, heading for another joint\nWe always felt the same, we just saw it from a different point of view\nTangled up in blue"
+  },
+  "metadata": {
+    "youtube_id": "WJ8GUwNaboo",
+    "title_extracted": null,
+    "corpus_id": "WJ8GUwNaboo",
+    "uploader": "Bob Dylan",
+    "audio_file": "corpus/01_music_videos_audio/audio/WJ8GUwNaboo.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10932404,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.473152,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:36:52Z"
+  },
+  "status": "success",
+  "error": null
+}

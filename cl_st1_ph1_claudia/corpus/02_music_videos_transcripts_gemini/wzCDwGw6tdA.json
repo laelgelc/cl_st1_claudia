@@ -1,0 +1,38 @@
+{
+  "corpus_id": "wzCDwGw6tdA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/wzCDwGw6tdA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/wzCDwGw6tdA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/wzCDwGw6tdA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You said you're gonna meet me (tonight's the night) You said you're gonna kiss me (tonight's the night) I don't know, said I don't know right now I might love you so (tonight's the night) You said you're gonna make me turn the lights down low You said you're gonna make me feel all a-glow Well, I don't know, said I don't know right now I might love you so (tonight's the night) I might love you so You won't break my heart I may want you so And all my dreams will fall apart You said you're gonna love me (tonight's the night) You said you're gonna hold me (tonight's the night) I don't know, said I don't know right now I might love you so (tonight's the night) Let's take a chance It's gonna be a great romance Feelin' in my heart now It's gonna be a great romance Deep down in my soul It's gonna be a great romance Let's take this chance It's gonna be a great romance"
+  },
+  "metadata": {
+    "youtube_id": "wzCDwGw6tdA",
+    "title_extracted": null,
+    "corpus_id": "wzCDwGw6tdA",
+    "uploader": "catman916",
+    "audio_file": "corpus/01_music_videos_audio/audio/wzCDwGw6tdA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3856448,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.501884,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:11:02Z"
+  },
+  "status": "success",
+  "error": null
+}

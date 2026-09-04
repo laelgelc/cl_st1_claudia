@@ -1,0 +1,38 @@
+{
+  "corpus_id": "RbmS3tQJ7Os",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/RbmS3tQJ7Os.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/RbmS3tQJ7Os.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/RbmS3tQJ7Os.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Oh, a storm is threat'ning My very life today If I don't get some shelter Oh yeah, I'm gonna fade away War, children It's just a shot away, it's just a shot away War, children It's just a shot away, it's just a shot away Oh, see the fire is sweepin' Our very streets today Burning like a red coal carpet Mad bull lost its way War, children It's just a shot away, it's just a shot away War, children It's just a shot away, it's just a shot away Rape, murder It's just a shot away, it's just a shot away Rape, murder It's just a shot away, it's just a shot away Rape, murder It's just a shot away, it's just a shot away The flood is threat'ning My very life today Gimme, gimme shelter Or I'm gonna fade away War, children It's just a shot away, it's just a shot away It's just a shot away, it's just a shot away, it's just a shot away I tell you love, sister It's just a kiss away, it's just a kiss away It's just a kiss away, it's just a kiss away It's just a kiss away, kiss away, kiss away"
+  },
+  "metadata": {
+    "youtube_id": "RbmS3tQJ7Os",
+    "title_extracted": null,
+    "corpus_id": "RbmS3tQJ7Os",
+    "uploader": "ABKCOVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/RbmS3tQJ7Os.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8660936,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 24.595305,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:27:53Z"
+  },
+  "status": "success",
+  "error": null
+}

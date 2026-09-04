@@ -1,0 +1,38 @@
+{
+  "corpus_id": "v2AC41dglnM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/v2AC41dglnM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/v2AC41dglnM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/v2AC41dglnM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Thunder \n\nThunder \n\nThunder \n\nThunder \n\nThunder \n\nThunder \n\nThunder \n\nThunder \n\nThunder \n\nThunder \n\nI was caught in the middle of a railroad track \n\nThunder \n\nAnd I looked round and I knew there was no turning back \n\nThunder \n\nMy mind raced and I thought, \"What could I do?\" \n\nThunder \n\nAnd I knew there was no help, no help from you \n\nThunder \n\nSound of the drums \n\nbeating in my heart \n\nThe thunder of guns \n\ntore me apart \n\nYou've been \n\nThunderstruck! \n\nRode down the highway, broke the limit, we hit the town \n\nWent through to Texas, yeah Texas, and we had some fun \n\nWe met some girls, some dancers who gave us a good time \n\nBroke all the rules, played all the fools \n\nYeah, yeah, they, they, they blew our minds \n\nNow I was shaking at the knees \n\nCould I come again, please? \n\nYeah, the ladies were too kind \n\nYou've been \n\nThunderstruck! \n\nThunderstruck! \n\nYeah, yeah, yeah, Thunderstruck! \n\nOoh, Thunderstruck! \n\nYeah \n\nNow I'm shaking at the knees \n\nCould I come again, please? \n\nThunderstruck! \n\nThunderstruck! \n\nYeah, yeah, yeah, Thunderstruck! \n\nThunderstruck! \n\nYeah, yeah, yeah, said yeah \n\nIt's alright, we're doing fine \n\nYeah, it's alright, we're doing fine, fine, fine \n\nThunderstruck! \n\nYeah, yeah, yeah, Thunderstruck! \n\nThunderstruck! \n\nThunderstruck! \n\nWhoa, baby, baby! \n\nThunderstruck! \n\nYou've been Thunderstruck! \n\nThunderstruck! \n\nThunderstruck! \n\nYou've been Thunderstruck!"
+  },
+  "metadata": {
+    "youtube_id": "v2AC41dglnM",
+    "title_extracted": null,
+    "corpus_id": "v2AC41dglnM",
+    "uploader": "AC/DC",
+    "audio_file": "corpus/01_music_videos_audio/audio/v2AC41dglnM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9375738,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.619532,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:07:35Z"
+  },
+  "status": "success",
+  "error": null
+}

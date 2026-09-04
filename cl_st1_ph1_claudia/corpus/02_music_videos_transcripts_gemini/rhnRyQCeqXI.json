@@ -1,0 +1,38 @@
+{
+  "corpus_id": "rhnRyQCeqXI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/rhnRyQCeqXI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/rhnRyQCeqXI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/rhnRyQCeqXI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "L.A. proved to be too much for the man. So he's leaving the life he's come to know. He said he's going, he said he's going back to find what's left of his world. The world he left behind not so long ago. He's leaving on that midnight train to Georgia. Yeah, said he's going back to a simpler place and time. And I'm gonna be with him on that midnight train to Georgia. I'd rather live in his world than live without him in mine. He kept dreaming that someday he'd be a star. But he soon found out the hard way that dreams don't always come true. Oh no, no, no. So he pawned all his hopes and he even sold his old car for a one-way ticket back to the life he once knew. Oh yes he did, he said he would. And I'm leaving on that midnight train to Georgia. Yeah, ooh, said he's going back to find a simpler place and time. And I've got to be with him on that midnight train to Georgia. I'd rather live in his world than live without him in mine. Oh, I'm boarding the midnight train to Georgia. I've got to go, I've got to go, on the midnight train to Georgia. I've got to go."
+  },
+  "metadata": {
+    "youtube_id": "rhnRyQCeqXI",
+    "title_extracted": null,
+    "corpus_id": "rhnRyQCeqXI",
+    "uploader": "masa rabbit (rabbitvwyokohama)",
+    "audio_file": "corpus/01_music_videos_audio/audio/rhnRyQCeqXI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7269224,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 30.678796,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:05:08Z"
+  },
+  "status": "success",
+  "error": null
+}

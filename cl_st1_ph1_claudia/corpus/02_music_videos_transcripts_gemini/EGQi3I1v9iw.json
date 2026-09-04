@@ -1,0 +1,38 @@
+{
+  "corpus_id": "EGQi3I1v9iw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/EGQi3I1v9iw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/EGQi3I1v9iw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/EGQi3I1v9iw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Ah yeah. Everybody dance now! Everybody dance now! Come on, come on! Y'all ready to get busy? Everybody dance now! Everybody dance now! Everybody dance now! Give me the groove, baby. Give me the groove. Everybody dance now! Everybody dance now! Yeah! Yeah! Yeah! Everybody dance now! Yeah! Yeah! Yeah! Everybody Here is the dome. Back with the bass. The jam is slammin' and I don't waste time off the mic with a dope rhyme. Jump to the rhythm, jump, jump to the rhythm, jump. And I'm here to combine beats and lyrics to make the shaker pants, take a chance. Come on and dance. Guys, grab a girl, don't wait, make a twirl. It's your world and I'm just a squirrel tryin' to get a nut to move your butt to the dance floor, show your mother what's up. Hands in the air, come on say yeah. Everybody over here, everybody over there. The crowd is slammin' and I'm feelin' this groove. Party people in the house, move! Just work it out. Work it all night! Come on, let's sweat! Woo! Baby, let the music take control. Let the rhythm move you. Sweat! Sweat! Let the music take control. Let the rhythm move you. Everybody dance now! Gonna make you, gonna make you, gonna make you, gonna make you, gonna make you, gonna make you, gonna make you, gonna make you, gonna make you, gonna make you, gonna make you Ah yeah. Everybody dance now! Everybody dance now! All right. Y'all on the next line. Check this out. Pause, take a breath and go for yours. On my command now hit the dance floor. It's gonna make you sweat 'til you bleed. Is that dope enough? Indeed. I pay the price, I control the dice, I'm more precise, I'm point blank nice. The music takes control your heart and soul. Unfold, your body is free and whole. Dance 'til you can't, dance 'til you can't dance no more. Get on the floor and get raw. Dance, come back and upside down, easy. Let me see you move! Just work it out. Work it all night! Work it! Let the music be your life! Everybody dance now! Give me the groove! Everybody dance now! Oh yeah! Everybody dance now! Give me the groove! Everybody Come on, let's sweat! Yeah, baby! Come on! Let the music take control! Let the rhythm move you! Sweat! Sweat! Let the music take control! Let the rhythm move you! Gonna make you, gonna make you, gonna make you, gonna make you, gonna make you sweat"
+  },
+  "metadata": {
+    "youtube_id": "EGQi3I1v9iw",
+    "title_extracted": null,
+    "corpus_id": "EGQi3I1v9iw",
+    "uploader": "ShoutFactoryVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/EGQi3I1v9iw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9638032,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.29536,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:33:58Z"
+  },
+  "status": "success",
+  "error": null
+}

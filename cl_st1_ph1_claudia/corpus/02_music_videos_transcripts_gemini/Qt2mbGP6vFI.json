@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Qt2mbGP6vFI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Qt2mbGP6vFI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Qt2mbGP6vFI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Qt2mbGP6vFI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "She calls out to the man on the street Sir, can you help me? It's cold and I've nowhere to sleep Is there somewhere you can tell me? He walks on, doesn't look back He pretends he can't hear her Starts to whistle as he crosses the street Seems embarrassed to be there Oh, think twice 'Cause it's another day for you and me in paradise Oh, think twice 'Cause it's another day for you You and me in paradise Just think about it She calls out to the man on the street He can see she's been crying She's got blisters on the soles of her feet She can't walk, but she's trying Oh, think twice 'Cause it's another day for you and me in paradise Oh, think twice 'Cause it's just another day for you You and me in paradise Just think about it Oh Lord, is there nothing more anybody can do? Oh Lord, there must be something you can say You can tell from the lines on her face You can see that she's been there Probably been moved on from every place 'Cause she didn't fit in there Oh, think twice 'Cause it's another day for you and me in paradise Oh, think twice 'Cause it's just another day for you You and me in paradise Just think about it Just think about it It's just another day for you and me in paradise It's just another day for you and me in paradise Paradise, paradise Paradise for you, just think about it Paradise for you, just think about it Paradise, paradise Oh, paradise"
+  },
+  "metadata": {
+    "youtube_id": "Qt2mbGP6vFI",
+    "title_extracted": null,
+    "corpus_id": "Qt2mbGP6vFI",
+    "uploader": "Phil Collins",
+    "audio_file": "corpus/01_music_videos_audio/audio/Qt2mbGP6vFI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9302920,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.058964,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:50:17Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "XDR247fmhnc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/XDR247fmhnc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/XDR247fmhnc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/XDR247fmhnc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Her name was Lola, she was a showgirl With yellow feathers in her hair and a dress cut down to there She would merengue and do the cha-cha And while she tried to be a star Tony always tended bar Across the crowded floor, they worked from 8 till 4 They were young and they had each other Who could ask for more? At the Copa, Copacabana The hottest spot north of Havana At the Copa, Copacabana Music and passion were always the fashion At the Copa, they fell in love Copacabana His name was Rico, he wore a diamond He was escorted to his chair, he saw Lola dancing there And when she finished, he called her over But Rico went a bit too far, Tony sailed across the bar And then the punches flew and chairs were smashed in two There was blood and a single gunshot, but just who shot who? At the Copa, Copacabana The hottest spot north of Havana At the Copa, Copacabana Music and passion were always the fashion At the Copa, she lost her love Copacabana Copacabana Copacabana Music and passion, always in fashion Her name is Lola, she was a showgirl But that was thirty years ago when they used to have a show Now it's a disco, but not for Lola Still in the dress she used to wear, faded feathers in her hair She sits there so refined, and drinks herself half-blind She lost her youth and she lost her Tony, now she's lost her mind! At the Copa, Copacabana The hottest spot north of Havana At the Copa, Copacabana Music and passion were always the fashion At the Copa, don't fall in love Don't fall in love Copacabana Copacabana Copacabana"
+  },
+  "metadata": {
+    "youtube_id": "XDR247fmhnc",
+    "title_extracted": null,
+    "corpus_id": "XDR247fmhnc",
+    "uploader": "Bertrand Vandemeulebroucke",
+    "audio_file": "corpus/01_music_videos_audio/audio/XDR247fmhnc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7099068,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 13.901363,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:33:10Z"
+  },
+  "status": "success",
+  "error": null
+}

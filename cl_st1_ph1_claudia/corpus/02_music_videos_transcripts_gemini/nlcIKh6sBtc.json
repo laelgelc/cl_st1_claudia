@@ -1,0 +1,38 @@
+{
+  "corpus_id": "nlcIKh6sBtc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nlcIKh6sBtc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/nlcIKh6sBtc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/nlcIKh6sBtc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I've never seen a diamond in the flesh I cut my teeth on wedding rings in the movies And I'm not proud of my address In a torn up town, no postcode envy But every song's like gold teeth, Grey Goose, tripping in the bathroom Bloodstains, ball gowns, trashing the hotel room We don't care We're driving Cadillacs in our dreams But everybody's like Cristal, Maybach, diamonds on your timepiece Jet planes, islands, tigers on a gold leash We don't care We are not caught up in your love affair And we'll never be royals (Royals) It don't run in our blood That kind of lux just ain't for us We crave a different kind of buzz Let me be your ruler (Ruler) You can call me Queen Bee And baby I'll rule, I'll rule, I'll rule, I'll rule Let me live that fantasy My friends and I, we've cracked the code We count our dollars on the train to the party And everyone who knows us knows That we're fine with this, we didn't come from money But every song's like gold teeth, Grey Goose, tripping in the bathroom Bloodstains, ball gowns, trashing the hotel room We don't care We're driving Cadillacs in our dreams But everybody's like Cristal, Maybach, diamonds on your timepiece Jet planes, islands, tigers on a gold leash We don't care We are not caught up in your love affair And we'll never be royals (Royals) It don't run in our blood That kind of lux just ain't for us We crave a different kind of buzz Let me be your ruler (Ruler) You can call me Queen Bee And baby I'll rule, I'll rule, I'll rule, I'll rule Let me live that fantasy Oh, oh, oh We're bigger than we ever dreamed And I'm in love with being queen Oh, oh, oh Oh, oh, oh Life is game without a care We are caught up in your love affair And we'll never be royals (Royals) It don't run in our blood That kind of lux just ain't for us We crave a different kind of buzz Let me be your ruler (Ruler) You can call me Queen Bee And baby I'll rule, I'll rule, I'll rule, I'll rule Let me live that fantasy"
+  },
+  "metadata": {
+    "youtube_id": "nlcIKh6sBtc",
+    "title_extracted": null,
+    "corpus_id": "nlcIKh6sBtc",
+    "uploader": "Lorde",
+    "audio_file": "corpus/01_music_videos_audio/audio/nlcIKh6sBtc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6404328,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.332062,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:55:40Z"
+  },
+  "status": "success",
+  "error": null
+}

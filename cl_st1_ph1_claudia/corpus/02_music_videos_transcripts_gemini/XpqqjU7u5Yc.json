@@ -1,0 +1,38 @@
+{
+  "corpus_id": "XpqqjU7u5Yc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/XpqqjU7u5Yc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/XpqqjU7u5Yc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/XpqqjU7u5Yc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Ah...  I know your eyes in the morning sun I feel you touch me in the pouring rain And the moment that you wander far from me I wanna feel you in my arms again And you come to me on a summer breeze Keep me warm in your love, then you softly leave And it's me you need to show How deep is your love, how deep is your love? I really mean to learn 'Cause we're living in a world of fools Breaking us down When they all should let us be We belong to you and me  I believe in you You know the door to my very soul You're the light in my deepest, darkest hour You're my savior when I fall And you may not think that I care for you When you know down inside that I really do And it's me you need to show How deep is your love, how deep is your love? I really mean to learn 'Cause we're living in a world of fools Breaking us down When they all should let us be We belong to you and me  La, la, la, la, la...  And you come to me on a summer breeze Keep me warm in your love, then you softly leave And it's me you need to show How deep is your love, how deep is your love? I really mean to learn 'Cause we're living in a world of fools Breaking us down When they all should let us be We belong to you and me  How deep is your love, how deep is your love? I really mean to learn 'Cause we're living in a world of fools Breaking us down When they all should let us be We belong to you and me  How deep is your love, how deep is your love? I really mean to learn 'Cause we're living in a world of fools Breaking us down When they all should let us be"
+  },
+  "metadata": {
+    "youtube_id": "XpqqjU7u5Yc",
+    "title_extracted": null,
+    "corpus_id": "XpqqjU7u5Yc",
+    "uploader": "beegees",
+    "audio_file": "corpus/01_music_videos_audio/audio/XpqqjU7u5Yc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7660806,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.541453,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:13:47Z"
+  },
+  "status": "success",
+  "error": null
+}

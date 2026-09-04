@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ujNeHIo7oTE",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ujNeHIo7oTE.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ujNeHIo7oTE.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ujNeHIo7oTE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "See the stone set in your eyes \nSee the thorn twist in your side \nI'll wait for you \n\nSleight of hand and twist of fate \nOn a bed of nails, she makes me wait \nAnd I wait without you \n\nWith or without you \nWith or without you \n\nThrough the storm, we reach the shore \nYou give it all, but I want more \nAnd I'm waiting for you \n\nWith or without you \nWith or without you, ah-ah \nI can't live \nWith or without you \n\nAnd you give yourself away \nAnd you give yourself away \nAnd you give \nAnd you give \nAnd you give yourself away \n\nMy hands are tied \nMy body bruised, you got me with \nNothing to win and \nNothing left to lose \n\nAnd you give yourself away \nAnd you give yourself away \nAnd you give \nAnd you give \nAnd you give yourself away \n\nWith or without you \nWith or without you, ah-ah \nI can't live \nWith or without you \n\nOh-oh-oh-oh \nOh-oh-oh-oh \nOh-oh-oh-oh \nOh-oh-oh-oh \n\nWith or without you \nWith or without you, ah-ah \nI can't live \nWith or without you \nWith or without you"
+  },
+  "metadata": {
+    "youtube_id": "ujNeHIo7oTE",
+    "title_extracted": null,
+    "corpus_id": "ujNeHIo7oTE",
+    "uploader": "U2",
+    "audio_file": "corpus/01_music_videos_audio/audio/ujNeHIo7oTE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9352704,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.885919,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:20:50Z"
+  },
+  "status": "success",
+  "error": null
+}

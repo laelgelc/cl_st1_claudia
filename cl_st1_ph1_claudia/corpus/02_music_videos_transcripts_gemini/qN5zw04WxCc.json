@@ -1,0 +1,38 @@
+{
+  "corpus_id": "qN5zw04WxCc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/qN5zw04WxCc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/qN5zw04WxCc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/qN5zw04WxCc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "People try to put us d-down\n(Talking 'bout my generation)\nJust because we get around\n(Talking 'bout my generation)\nThings they do look awful cold\n(Talking 'bout my generation)\nI hope I die before I get old\n(Talking 'bout my generation)\nThis is my generation\nThis is my generation, baby\n\nWhy don't you all f-fade away\n(Talking 'bout my generation)\nAnd don't try to d-dig what we all s-s-say\n(Talking 'bout my generation)\nI'm not trying to cause a big s-s-sensation\n(Talking 'bout my generation)\nI'm just talking 'bout my g-g-generation\n(Talking 'bout my generation)\nThis is my generation\nThis is my generation, baby\n\nWhy don't you all f-fade away\n(Talking 'bout my generation)\nAnd don't try to d-dig what we all s-s-say\n(Talking 'bout my generation)\nI'm not trying to cause a big s-s-sensation\n(Talking 'bout my generation)\nI'm just talking 'bout my g-g-generation\n(Talking 'bout my generation)\nThis is my generation\nThis is my generation, baby\nMy, my, my generation\nMy, my, my, my generation\n\nPeople try to put us d-down\n(Talking 'bout my generation)\nJust because we g-get around\n(Talking 'bout my generation)\nThings they do look awful cold\n(Talking 'bout my generation)\nI hope I die before I get old\n(Talking 'bout my generation)\nThis is my generation\nThis is my generation, baby\nMy, my, my generation\n\nMy generation\nTalkin' 'bout my generation\nTalkin' 'bout my generation\nThis is my generation, baby\nTalkin' 'bout my generation\nTalkin' 'bout my generation\nTalkin' 'bout my generation\nTalkin' 'bout my generation\nTalkin' 'bout my generation"
+  },
+  "metadata": {
+    "youtube_id": "qN5zw04WxCc",
+    "title_extracted": null,
+    "corpus_id": "qN5zw04WxCc",
+    "uploader": "The Best Of - Home Of Classic Music",
+    "audio_file": "corpus/01_music_videos_audio/audio/qN5zw04WxCc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6642842,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 25.792283,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:09:22Z"
+  },
+  "status": "success",
+  "error": null
+}

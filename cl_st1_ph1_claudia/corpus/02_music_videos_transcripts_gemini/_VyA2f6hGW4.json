@@ -1,0 +1,38 @@
+{
+  "corpus_id": "_VyA2f6hGW4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/_VyA2f6hGW4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/_VyA2f6hGW4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/_VyA2f6hGW4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Raindrops are falling on my head And just like the guy whose feet are too big for his bed Nothing seems to fit Those raindrops are falling on my head, they keep falling So I just did me some talking to the sun And I said I didn't like the way he got things done Sleeping on the job Those raindrops are falling on my head, they keep falling But there's one thing I know The blues they send to meet me won't defeat me It won't be long till happiness steps up to greet me Raindrops keep falling on my head But that doesn't mean my eyes will soon be turning red Crying's not for me 'Cause I'm never gonna stop the rain by complaining Because I'm free Nothing's worrying me It won't be long till happiness steps up to greet me Raindrops keep falling on my head But that doesn't mean my eyes will soon be turning red Crying's not for me 'Cause I'm never gonna stop the rain by complaining Because I'm free Nothing's worrying me"
+  },
+  "metadata": {
+    "youtube_id": "_VyA2f6hGW4",
+    "title_extracted": null,
+    "corpus_id": "_VyA2f6hGW4",
+    "uploader": "LilLinks",
+    "audio_file": "corpus/01_music_videos_audio/audio/_VyA2f6hGW4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5807668,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.144137,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:50:01Z"
+  },
+  "status": "success",
+  "error": null
+}

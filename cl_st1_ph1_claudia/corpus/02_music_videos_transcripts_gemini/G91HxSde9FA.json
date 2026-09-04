@@ -1,0 +1,38 @@
+{
+  "corpus_id": "G91HxSde9FA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/G91HxSde9FA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/G91HxSde9FA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/G91HxSde9FA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "La la la la la\nLa la la la la\n\nMy Cherie Amour\nLovely as a summer day\nMy Cherie Amour\nDistant as the Milky Way\nMy Cherie Amour\nPretty little one that I adore\nYou're the only girl my heart beats for\nHow I wish that you were mine\n\nIn a cafe\nOr sometimes on a crowded street\nI've been near you\nBut you never noticed me\nMy Cherie Amour\nWon't you tell me how could you ignore\nThat behind that little smile I wore\nHow I wish that you were mine\n\nLa la la la la\nLa la la la la\nLa la la la la\nLa la la la la\n\nMaybe someday\nYou'll see my face among the crowd\nMaybe someday\nI'll share your little distant cloud\nOh Cherie Amour\nPretty little one that I adore\nYou're the only girl my heart beats for\nHow I wish that you were mine\n\nLa la la la la\nLa la la la la\nLa la la la la\nLa la la la la"
+  },
+  "metadata": {
+    "youtube_id": "G91HxSde9FA",
+    "title_extracted": null,
+    "corpus_id": "G91HxSde9FA",
+    "uploader": "Pegazusmart",
+    "audio_file": "corpus/01_music_videos_audio/audio/G91HxSde9FA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5809896,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.862989,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:34:30Z"
+  },
+  "status": "success",
+  "error": null
+}

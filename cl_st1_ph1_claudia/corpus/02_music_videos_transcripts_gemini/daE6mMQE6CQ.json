@@ -1,0 +1,38 @@
+{
+  "corpus_id": "daE6mMQE6CQ",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/daE6mMQE6CQ.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/daE6mMQE6CQ.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/daE6mMQE6CQ.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "(Can't help it, the girl can't help it) (Can't help it, the girl can't help it)  If she walks by, the men folks get in groups (Can't help it, the girl can't help it)  If she winks an eye, the brass lights turn to gold (Can't help it, the girl can't help it)  If she got a lot of what they call the most (Can't help it, the girl can't help it)  The girl can't help it, she was born to please (Can't help it, the girl can't help it)  And if she's got a figure made to squeeze (Can't help it, the girl can't help it)  Won't you kindly be aware, the girl can't help it (Girl can't help it)  If she mesmerizes every mother's son (Can't help it, the girl can't help it)  If she's smiling, beefsteak become well done (Can't help it, the girl can't help it)  She make grandpa feel like 21 (Can't help it, the girl can't help it)  The girl can't help it, she was born to please (Can't help it, the girl can't help it)  And if I go to her on bended knee (Can't help it, the girl can't help it)  Oh won't you kindly be aware that I can't help it (I can't help it)  Because I'm hoping obviously That someday the answer will be The girl can't help it, she's in love with me (Can't help it, the girl can't help it)  [Guitar solo]  If she walks by, the men folks get in groups (Can't help it, the girl can't help it)  If she winks an eye, the brass lights turn to gold (Can't help it, the girl can't help it)  She got a lot of what they call the most (Can't help it, the girl can't help it)  The girl can't help it, she was born to please (Can't help it, the girl can't help it)  And if she's got a figure made to squeeze (Can't help it, the girl can't help it)  Oh I'm hoping obviously That someday the answer will be The girl can't help it, she's in love with me (Can't help it, the girl can't help it) Ah"
+  },
+  "metadata": {
+    "youtube_id": "daE6mMQE6CQ",
+    "title_extracted": null,
+    "corpus_id": "daE6mMQE6CQ",
+    "uploader": "Little Richard",
+    "audio_file": "corpus/01_music_videos_audio/audio/daE6mMQE6CQ.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4952430,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 23.716877,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:13:09Z"
+  },
+  "status": "success",
+  "error": null
+}

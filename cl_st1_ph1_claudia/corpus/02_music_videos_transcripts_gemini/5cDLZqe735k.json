@@ -1,0 +1,38 @@
+{
+  "corpus_id": "5cDLZqe735k",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/5cDLZqe735k.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/5cDLZqe735k.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/5cDLZqe735k.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Everybody's talking all this stuff about me Why don't they just let me live? Oh, I don't need permission, make my own decisions That's my prerogative They say I'm crazy I really don't care That's my prerogative They say I'm nasty But I don't give a damn Getting girls is how I live Some ask me questions Why am I so real? But they don't understand me They really don't know the deal about brother Trying hard to make it right Not knowing where to go Before I lose my mind Everybody's talking all this stuff about me Why don't they just let me live? Tell me why I don't need permission, make my own decisions That's my prerogative It's my prerogative It's the way that I wanna live It's my prerogative I can do just what I feel It's my prerogative No one can tell me what to do It's my prerogative 'Cause what I'm doing, I'm doing for you Now, don't get me wrong I'm really not super Ego trips is not my thing All these strange relationships Really gets me down I see nothing wrong Spreading myself around Everybody's talking all this stuff about me Why don't they just let me live? Tell me why I don't need permission, make my own decisions That's my prerogative It's my prerogative I can do what I wanna do It's my prerogative I can live my life It's my prerogative I can do it just for you It's my prerogative Can you tell me, tell me why Can't I live my life? Without all of the things that people say Yo Teddy, kick it like this I can do what I wanna do Me and you, together, together, together, together, together Everybody's talking all this stuff about me Why don't they just let me live? I don't need permission, make my own decisions That's my prerogative Everybody's talking all this stuff about me Why don't they just let me live? I don't need permission, make my own decisions That's my prerogative What is this, a nightmare? That I can't have money in my pocket and people not talk about me? This world is a trip. I don't know what's going on these days. Got this person over here talking about me, this person... Hey, listen, let me tell you something, this is my prerogative, I can do what I want to do. I made this money, you didn't. Right, Ted? We outta here. It's my, it's my, it's my prerogative It's my prerogative, it's my prerogative It's my, it's my, it's my prerogative"
+  },
+  "metadata": {
+    "youtube_id": "5cDLZqe735k",
+    "title_extracted": null,
+    "corpus_id": "5cDLZqe735k",
+    "uploader": "Bobby Brown",
+    "audio_file": "corpus/01_music_videos_audio/audio/5cDLZqe735k.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9444842,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.592141,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:18:22Z"
+  },
+  "status": "success",
+  "error": null
+}

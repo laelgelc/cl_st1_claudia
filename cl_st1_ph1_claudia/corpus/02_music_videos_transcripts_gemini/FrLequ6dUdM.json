@@ -1,0 +1,38 @@
+{
+  "corpus_id": "FrLequ6dUdM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/FrLequ6dUdM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/FrLequ6dUdM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/FrLequ6dUdM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "A scrub is a guy that thinks he's fly and is also known as a busta Always talking about what he wants and just sits on his broke ass So no, I don't want your number, no I don't wanna give you mine and, no I don't wanna meet you nowhere, no Don't want none of your time and No, I don't want no scrub A scrub is a guy that can't get no love from me Hanging out the passenger side of his best friend's ride Trying to holler at me I don't want no scrub A scrub is a guy that can't get no love from me Hanging out the passenger side of his best friend's ride Trying to holler at me Well, a scrub's checkin' me, but his game is kinda weak And I know that he can't approach me 'Cause I'm lookin' like class, and he's lookin' like trash Can't get with a deadbeat ass So no, I don't want your number, no I don't wanna give you mine and, no I don't wanna meet you nowhere, no Don't want none of your time, and No, I don't want no scrub A scrub is a guy that can't get no love from me Hanging out the passenger side of his best friend's ride Trying to holler at me I don't want no scrub A scrub is a guy that can't get no love from me Hanging out the passenger side of his best friend's ride Trying to holler at me If you don't have a car and you're walking Oh, yes, son, I'm talking to you If you live at home with your mama Oh, yes, son, I'm talking to you If you have a shorty but you don't show love Oh, yes, son, I'm talking to you Wanna get with me with no money Oh no, I don't want no Scrub, no Scrub, no Scrub, no, no, no, no No, I don't want no scrub A scrub is a guy that can't get no love from me Hanging out the passenger side of his best friend's ride Trying to holler at me I don't want no scrub A scrub is a guy that can't get no love from me Hanging out the passenger side of his best friend's ride Trying to holler at me See, if you can't spatially expand my horizons Then that leaves you in a class with scrubs, never rising I don't find it surprising if you don't have the Gs to please me And bounce from here to the coast of overseas So let me give you something to think about Inundate your mind with intentions to turn you out Can't forget the focus on the picture in front of me View it clear as DVD on digital TV screens Satisfy my appetite with something spectacular Check your vernacular, and then I get back to ya With diamond-like precision Insatiable is what I envision Can't detect acquisition from your friends' expedition Mr. Big Willy, if you really wanna know Ask Chilli: Could I be a silly? Not with T-Boz and all my señoritas Stepping on your fellas, but you don't hear me, though No, I don't want no scrub A scrub is a guy that can't get no love from me Hanging out the passenger side of his best friend's ride Trying to holler at me I don't want no scrub A scrub is a guy that can't get no love from me Hanging out the passenger side of his best friend's ride Trying to holler at me No, I don't want no scrub A scrub is a guy that can't get no love from me Hanging out the passenger side of his best friend's ride Trying to holler at me No, I don't want no scrub A scrub is a guy that can't get no love from me Hanging out the passenger side of his best friend's ride Trying to holler at me"
+  },
+  "metadata": {
+    "youtube_id": "FrLequ6dUdM",
+    "title_extracted": null,
+    "corpus_id": "FrLequ6dUdM",
+    "uploader": "TLC",
+    "audio_file": "corpus/01_music_videos_audio/audio/FrLequ6dUdM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7989972,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.975781,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:20:36Z"
+  },
+  "status": "success",
+  "error": null
+}

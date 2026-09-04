@@ -1,0 +1,38 @@
+{
+  "corpus_id": "hLQl3WQQoQ0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hLQl3WQQoQ0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/hLQl3WQQoQ0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/hLQl3WQQoQ0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I heard that you're settled down That you found a girl and you're married now I heard that your dreams came true Guess she gave you things I didn't give to you Old friend, why are you so shy? Ain't like you to hold back or hide from the light I hate to turn up out of the blue, uninvited But I couldn't stay away, I couldn't fight it I had hoped you'd see my face and that you'd be reminded That for me, it isn't over Never mind, I'll find someone like you I wish nothing but the best for you, too \"Don't forget me,\" I beg, \"I'll remember you said 'Sometimes it lasts in love, but sometimes it hurts instead' 'Sometimes it lasts in love, but sometimes it hurts instead'\" You know how the time flies Only yesterday was the time of our lives We were born and raised in a summer haze Bound by the surprise of our glory days I hate to turn up out of the blue, uninvited But I couldn't stay away, I couldn't fight it I had hoped you'd see my face and that you'd be reminded That for me, it isn't over Never mind, I'll find someone like you I wish nothing but the best for you, too \"Don't forget me,\" I beg, \"I'll remember you said 'Sometimes it lasts in love, but sometimes it hurts instead'\" Nothing compares, no worries or cares Regrets and mistakes, they're memories made Who would have known how bittersweet this would taste? Never mind, I'll find someone like you I wish nothing but the best for you, too \"Don't forget me,\" I beg, \"I'll remember you said 'Sometimes it lasts in love, but sometimes it hurts instead'\" Never mind, I'll find someone like you I wish nothing but the best for you, too \"Don't forget me,\" I beg, \"I'll remember you said 'Sometimes it lasts in love, but sometimes it hurts instead 'Sometimes it lasts in love, but sometimes it hurts instead'\""
+  },
+  "metadata": {
+    "youtube_id": "hLQl3WQQoQ0",
+    "title_extracted": null,
+    "corpus_id": "hLQl3WQQoQ0",
+    "uploader": "Adele",
+    "audio_file": "corpus/01_music_videos_audio/audio/hLQl3WQQoQ0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9119390,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.356683,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:04:02Z"
+  },
+  "status": "success",
+  "error": null
+}

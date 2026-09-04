@@ -1,0 +1,38 @@
+{
+  "corpus_id": "T0zROagSE7U",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/T0zROagSE7U.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/T0zROagSE7U.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/T0zROagSE7U.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I've been loving you too long to stop now. You are tired, and you want to be free. My love is growing stronger as you become a habit to me. Ooh, and loving you too long. I don't wanna stop now. Oh. With you, my life has been so wonderful. I can't stop now. You are tired, and your love is growing cold. My love is growing stronger as our affair, affair grows. I've been loving you oh, too long to stop now. Oh. Oh. I've been loving you a little too long. I don't wanna stop now. Oh, oh, don't make me stop now. Oh, baby, please, please don't make me stop now. I love, I love, I love you with all my heart, and I can't stop now. Please, please, please, please don't make me stop now. Oh."
+  },
+  "metadata": {
+    "youtube_id": "T0zROagSE7U",
+    "title_extracted": null,
+    "corpus_id": "T0zROagSE7U",
+    "uploader": "Otis Redding",
+    "audio_file": "corpus/01_music_videos_audio/audio/T0zROagSE7U.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5660546,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.266164,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:24:35Z"
+  },
+  "status": "success",
+  "error": null
+}

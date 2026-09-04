@@ -1,0 +1,38 @@
+{
+  "corpus_id": "8EdxM72EZ94",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/8EdxM72EZ94.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/8EdxM72EZ94.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/8EdxM72EZ94.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Oh yeah In France, a skinny man died of a big disease with a little name By chance, his girlfriend came across a needle and soon she did the same At home, there's 17-year-old boys and their idea of fun Is being in a gang called The Disciples, high on crack, tote machine guns Times Times Hurricane Annie ripped the ceiling off a church and killed everyone inside You turn on the telly and every other story is telling you somebody died A sister killed her baby 'cause she couldn't afford to feed it, and we're sending people to the moon In September, my cousin tried reefer for the very first time, now he's doing horse, it's June Times Times It's silly, no, when a rocket ship explodes Everybody still wants to fly Some say a man ain't happy, truly Until a man truly dies Oh, why? Times Times Baby make a speech, Star Wars fly Neighbors shot his shine at home But if a night falls and a bomb falls Will anybody see the dawn? Times Times It's silly, no, when a rocket blows And everybody still wants to fly Some say a man ain't happy, truly Until a man truly dies Oh, why? Oh, why? Sign 'o' the times Times Times Sign 'o' the times mess with your mind Hurry before it's too late Let's fall in love, get married, have a baby We'll call him Nate If it's a boy Times Times"
+  },
+  "metadata": {
+    "youtube_id": "8EdxM72EZ94",
+    "title_extracted": null,
+    "corpus_id": "8EdxM72EZ94",
+    "uploader": "Prince",
+    "audio_file": "corpus/01_music_videos_audio/audio/8EdxM72EZ94.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7164456,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.798497,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:49:15Z"
+  },
+  "status": "success",
+  "error": null
+}

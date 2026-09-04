@@ -1,0 +1,38 @@
+{
+  "corpus_id": "usNsCeOV4GM",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/usNsCeOV4GM.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/usNsCeOV4GM.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/usNsCeOV4GM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I read the news today, oh boy About a lucky man who made the grade And though the news was rather sad Well, I just had to laugh I saw the photograph He blew his mind out in a car He didn't notice that the lights had changed A crowd of people stood and stared They'd seen his face before Nobody was really sure if he was from the House of Lords I saw a film today, oh boy The English Army had just won the war A crowd of people turned away But I just had to look Having read the book I'd love to turn you Woke up, fell out of bed Dragged a comb across my head Found my way downstairs and drank a cup And looking up, I noticed I was late Found my coat and grabbed my hat Made the bus in seconds flat Found my way upstairs and had a smoke And somebody spoke and I went into a dream Ah, ah, ah, ah I read the news today, oh boy 4,000 holes in Blackburn, Lancashire And though the holes were rather small They had to count them all Now they know how many holes it takes to fill the Albert Hall I'd love to turn you"
+  },
+  "metadata": {
+    "youtube_id": "usNsCeOV4GM",
+    "title_extracted": null,
+    "corpus_id": "usNsCeOV4GM",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/usNsCeOV4GM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10002120,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.162207,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:29:36Z"
+  },
+  "status": "success",
+  "error": null
+}

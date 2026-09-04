@@ -1,0 +1,38 @@
+{
+  "corpus_id": "uhG-vLZrb-g",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/uhG-vLZrb-g.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/uhG-vLZrb-g.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/uhG-vLZrb-g.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Am I more than you bargained for yet?\nOh, dying to tell you anything you wanna hear\n'Cause that's just who I am this week\nLie in the grass next to the mausoleum\nI'm just a notch in your bedpost\nBut you're just a line in a song\nNotch in your bedpost, but you're just a line in a song\nDrop a heart, break a neck\nWe're always sleeping in and sleeping for the team\n\nWe're going down, down in an earlier round\nAnd Sugar, we're goin down swinging\nI'll be your number one with a bullet\nA loaded God complex, cock it and pull it\nWe're going down, down in an earlier round\nAnd Sugar, we're goin down swinging\nI'll be your number one with a bullet\nA loaded God complex, cock it and pull it\n\nIs this more than you bargained for yet?\nOh, don't mind me, I'm watching you two from the closet\nWishing to be the friction in your jeans\nIsn't it messed up how I'm just dying to be him?\nI'm just a notch in your bedpost\nBut you're just a line in a song\nNotch in your bedpost, but you're just a line in a song\nDrop a heart, break a neck\nWe're always sleeping in and sleeping for the team\n\nWe're going down, down in an earlier round\nAnd Sugar, we're goin down swinging\nI'll be your number one with a bullet\nA loaded God complex, cock it and pull it\nWe're going down, down in an earlier round\nAnd Sugar, we're goin down swinging\nI'll be your number one with a bullet\nA loaded God complex, cock it and pull it\n\nDown, down in an earlier round\nAnd Sugar, we're goin down swinging\nI'll be your number one with a bullet\nA loaded God complex, cock it and pull it\nWe're going down, down in an earlier round\nAnd Sugar, we're goin down swinging\nI'll be your number one with a bullet\nA loaded God complex, cock it and pull it\n\nWe're going down, down\nDown, down\nWe're going down, down\nA loaded God complex, cock it and pull it\nWe're going down, down in an earlier round\nAnd Sugar, we're goin down swinging\nI'll be your number one with a bullet\nA loaded God complex, cock it and pull it"
+  },
+  "metadata": {
+    "youtube_id": "uhG-vLZrb-g",
+    "title_extracted": null,
+    "corpus_id": "uhG-vLZrb-g",
+    "uploader": "Fall Out Boy",
+    "audio_file": "corpus/01_music_videos_audio/audio/uhG-vLZrb-g.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7346500,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.6473,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:17:38Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "lXgkuM2NhYI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/lXgkuM2NhYI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/lXgkuM2NhYI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/lXgkuM2NhYI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I, I wish you could swim Like dolphins, like dolphins can swim Though nothing, nothing will keep us together We can beat them, forever and ever Oh, we can be Heroes, just for one day I, I will be king And you, you will be queen Though nothing will drive them away We can be Heroes, just for one day We can be us, just for one day I, I can remember (I remember) Standing, by the wall (by the wall) And the guns shot above our heads (over our heads) And we kissed, as though nothing could fall (nothing could fall) And the shame was on the other side Oh, we can beat them, forever and ever Then we could be Heroes, just for one day We can be Heroes We can be Heroes We can be Heroes, just for one day"
+  },
+  "metadata": {
+    "youtube_id": "lXgkuM2NhYI",
+    "title_extracted": null,
+    "corpus_id": "lXgkuM2NhYI",
+    "uploader": "David Bowie",
+    "audio_file": "corpus/01_music_videos_audio/audio/lXgkuM2NhYI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6678508,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.519456,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:29:23Z"
+  },
+  "status": "success",
+  "error": null
+}

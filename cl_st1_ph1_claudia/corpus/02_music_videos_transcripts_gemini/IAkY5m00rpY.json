@@ -1,0 +1,38 @@
+{
+  "corpus_id": "IAkY5m00rpY",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/IAkY5m00rpY.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/IAkY5m00rpY.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/IAkY5m00rpY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I step off the train Walking down your street again Past your door You don't live there anymore It's years since you've been there Now you've disappeared somewhere In outer space You found some better place And I miss you Like the deserts miss the rain And I miss you Like the deserts miss the rain And could you be there? Always were two steps ahead Of everyone Walking while you would run I look up at your house And I can almost hear you shout down to me Where I always used to be And I miss you Like the deserts miss the rain And I miss you Like the deserts miss the rain Back on the train As why did I come today? Can I confess? I've been hanging round old address Years have passed To offer no defense is useless Now you're gone But I can't move on And I miss you Like the deserts miss the rain And I miss you Like the deserts miss the rain I step off the train Walking down your street again Past your door I guess you don't live there anymore It's years since you've been there And now you've disappeared somewhere In outer space You found some better place And I miss you Like the deserts miss the rain And I miss you, yeah Like the deserts miss, I miss you And I miss you Like the deserts miss the rain And I miss you, yeah Like the deserts miss the rain Deserts miss the rain Like the deserts miss the rain Like the deserts miss the rain And I miss you, yeah Like the deserts miss the rain Oh, I miss you Like the deserts miss the rain"
+  },
+  "metadata": {
+    "youtube_id": "IAkY5m00rpY",
+    "title_extracted": null,
+    "corpus_id": "IAkY5m00rpY",
+    "uploader": "Everything But The Girl",
+    "audio_file": "corpus/01_music_videos_audio/audio/IAkY5m00rpY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7885204,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.384676,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:00:53Z"
+  },
+  "status": "success",
+  "error": null
+}

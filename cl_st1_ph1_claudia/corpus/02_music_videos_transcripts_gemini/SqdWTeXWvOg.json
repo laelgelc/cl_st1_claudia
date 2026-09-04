@@ -1,0 +1,38 @@
+{
+  "corpus_id": "SqdWTeXWvOg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/SqdWTeXWvOg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/SqdWTeXWvOg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/SqdWTeXWvOg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Feels like I'm standing in the timeless stream\nOf light mist, of pale amber rose\nFeels like I'm lost in the deep cloud of heavenly scent\nTouching, discovering you\n\nThose days of wanderings come rushing back to me\nMiles of wind, silent sun\nSecret moments, shadows of late afternoon\nOut of the stillness, soft spoken words\nSay, say it again\n\nI love you always forever\nNear and far, closer together\nEverywhere, I will be with you\nEverything, I will do for you\nI love you always forever\nNear and far, closer together\nEverywhere, I will be with you\nEverything, I will do for you\n\nYou've got the most unbelievable blue eyes I've ever seen\nYou've got me almost melting away\nAs we lay there under a blue sky with pure white stars\nExotic sweetness, a magical time\nSay, say it again\n\nI love you always forever\nNear and far, closer together\nEverywhere, I will be with you\nEverything, I will do for you\nI love you always forever\nNear and far, closer together\nEverywhere, I will be with you\nEverything, I will do for you\n\nSay you love me, forever and ever\nStop, never whatever\nNear and far and always\nEverywhere and everything\n\nSay you love me, forever and ever\nStop, never whatever\nNear and far and always\nEverywhere and everything\n\nSay you love me, forever and ever\nStop, never whatever\nNear and far and always\nEverywhere and everything\n\nSay you love me, forever and ever\nStop, never whatever\nNear and far and always\nEverywhere and everything\n\nI love you always forever\nNear and far, closer together\nEverywhere, I will be with you\nEverything, I will do for you\nI love you always forever\nNear and far, closer together\nEverywhere, I will be with you\nEverything, I will do for you\nI love you always forever\nNear and far, closer together"
+  },
+  "metadata": {
+    "youtube_id": "SqdWTeXWvOg",
+    "title_extracted": null,
+    "corpus_id": "SqdWTeXWvOg",
+    "uploader": "RHINO",
+    "audio_file": "corpus/01_music_videos_audio/audio/SqdWTeXWvOg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7366562,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.820573,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:32:14Z"
+  },
+  "status": "success",
+  "error": null
+}

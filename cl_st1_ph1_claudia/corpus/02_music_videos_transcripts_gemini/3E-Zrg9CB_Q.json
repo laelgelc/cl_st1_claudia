@@ -1,0 +1,38 @@
+{
+  "corpus_id": "3E-Zrg9CB_Q",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/3E-Zrg9CB_Q.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/3E-Zrg9CB_Q.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/3E-Zrg9CB_Q.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Oh, Mickey, you're so fine\nYou're so fine, you blow my mind\nHey Mickey! Hey Mickey!\nOh, Mickey, you're so fine\nYou're so fine, you blow my mind\nHey Mickey! Hey Mickey!\nOh, Mickey, you're so fine\nYou're so fine, you blow my mind\nHey Mickey! Hey Mickey!\nOh, Mickey, you're so fine\nYou're so fine, you blow my mind\nHey Mickey!\n\nYou've been around all night and that's a little long\nYou think you got the right, but I think you got it wrong\nWhy can't you say goodnight, so you can take me home again?\n\nEvery time you say you will, it always means you won't\nYou're giving me the \"Can, baby, please, baby, don't\"\nEvery night you leave me all alone again\n\nOh Mickey, what a pity, you don't understand\nYou take me by the heart when you take me by the hand\nOh Mickey, you're so pretty, can't you understand?\nIt's guys like you, Mickey!\nOh, what you do, Mickey, do, Mickey\nDon't break my heart, Mickey!\n\nHey Mickey!\nNow when you take me by the hooves, then I'm gonna know\nEvery time you move a little, do a little show\nThere's something you can use, so don't say no, Mickey!\n\nSo come on and give it to me any way you can\nAny way you want to do it, I'll take it like a man\nOh please, baby, please, don't leave me in the damp, Mickey!\n\nOh Mickey, what a pity, you don't understand\nYou take me by the heart when you take me by the hand\nOh Mickey, you're so pretty, can't you understand?\nIt's guys like you, Mickey!\nOh, what you do, Mickey, do, Mickey\nDon't break my heart, Mickey!\n\nOh Mickey, you're so fine, you're so fine, you blow my mind\nHey Mickey! Hey Mickey!\nOh Mickey, you're so fine, you're so fine, you blow my mind\nHey Mickey! Hey Mickey!\nOh Mickey, you're so fine, you're so fine, you blow my mind\nHey Mickey! Hey Mickey!\nOh Mickey, you're so fine, you're so fine, you blow my mind\n\nOh Mickey, what a pity, you don't understand\nYou take me by the heart when you take me by the hand\nOh Mickey, you're so pretty, can't you understand?\nIt's guys like you, Mickey!\nOh, what you do, Mickey, do, Mickey\nDon't break my heart, Mickey!\n\nOh Mickey, what a pity, you don't understand\nYou take me by the heart when you take me by the hand\nOh Mickey, you're so pretty, can't you understand?\nIt's guys like you, Mickey!\nOh, what you do, Mickey, do, Mickey\nDon't break my heart, Mickey!\n\nOh Mickey, what a pity, you don't understand\nYou take me by the heart when you take me by the hand\nOh Mickey, you're so pretty, can't you understand?\nIt's guys like you, Mickey!\nOh, what you do, Mickey, do, Mickey\nDon't break my heart, Mickey!"
+  },
+  "metadata": {
+    "youtube_id": "3E-Zrg9CB_Q",
+    "title_extracted": null,
+    "corpus_id": "3E-Zrg9CB_Q",
+    "uploader": "John Goodsall",
+    "audio_file": "corpus/01_music_videos_audio/audio/3E-Zrg9CB_Q.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6625010,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.059907,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:08:40Z"
+  },
+  "status": "success",
+  "error": null
+}

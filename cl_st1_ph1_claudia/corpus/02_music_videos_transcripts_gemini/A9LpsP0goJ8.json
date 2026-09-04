@@ -1,0 +1,38 @@
+{
+  "corpus_id": "A9LpsP0goJ8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/A9LpsP0goJ8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/A9LpsP0goJ8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/A9LpsP0goJ8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I see nothing in front of me \nI see nothing coming up behind \nMake my way through the darkness \nI feel nothing but the changing tide \nLost track of how far gone \nHow far gone, how high I've climbed \nOn my back's sixty pounds \nOn my shoulder, hand in hand \n\nCome on up for the rising \nCome on up, lay your hand in mine \nCome on up for the rising \nCome on up for the rising tonight \n\nLeft the house behind \nBraced for whatever comes \nOut across the courtyard \nOn my back, hold my hand \n\nCome on up for the rising \nCome on up, lay your hand in mine \nCome on up for the rising \nCome on up for the rising tonight \n\nLa, la, la, la, la, la, la \nLa, la, la, la, la, la, la \nLa, la, la, la, la, la, la \nLa, la, la, la, la, la, la \n\nWhispers of a lower kind \nFaces cold and black \nEyes burning with a fire inside \nSpirits rising in the fire \nWhere I stand, where I lie \n\nLa, la, la, la, la, la, la \nLa, la, la, la, la, la, la \nLa, la, la, la, la, la, la \nLa, la, la, la, la, la, la \n\nI see you in the garden \nIn the garden of lost desire \nI see pictures of the children \nDancing in a sky filled with fire \nI feel you all around me \nI feel your blood mix with mine \nI dream of life again \nWill I catch this dance or only end in my mind? \n\nSky of blackness and sorrow (Sky of blackness) \nSky of love, sky of tears (Sky of love) \nSky of glory and sadness (Sky of glory) \nSky of mercy, sky of fear (Sky of mercy) \nSky of memory and shadow (Sky of memory) \nYour broad wings, high above (Your broad wings) \nSky of lonesome communion (Sky of lonesome) \nSky of fullness, sky of love (Sky of fullness) \n\nCome on up for the rising \nCome on up, lay your hand in mine \nCome on up for the rising \nCome on up for the rising tonight \n\nCome on up for the rising \nCome on up, lay your hand in mine \nCome on up for the rising \nCome on up for the rising tonight \n\nLa, la, la, la, la, la, la \nLa, la, la, la, la, la, la \nLa, la, la, la, la, la, la \nLa, la, la, la, la, la, la \n\nLa, la, la, la, la, la, la \nLa, la, la, la, la, la, la \nLa, la, la, la, la, la, la \nLa, la, la, la, la, la, la"
+  },
+  "metadata": {
+    "youtube_id": "A9LpsP0goJ8",
+    "title_extracted": null,
+    "corpus_id": "A9LpsP0goJ8",
+    "uploader": "Bruce Springsteen",
+    "audio_file": "corpus/01_music_videos_audio/audio/A9LpsP0goJ8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10667882,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 57.758461,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:28:40Z"
+  },
+  "status": "success",
+  "error": null
+}

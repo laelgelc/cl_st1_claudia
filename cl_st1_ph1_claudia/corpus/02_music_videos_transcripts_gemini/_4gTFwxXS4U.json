@@ -1,0 +1,38 @@
+{
+  "corpus_id": "_4gTFwxXS4U",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/_4gTFwxXS4U.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/_4gTFwxXS4U.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/_4gTFwxXS4U.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Now when I was a little boy About the age of five I had something in my pocket Keep a lot of folks alive Now I'm a man And I'm age twenty-one You know baby You and I can have a lot of fun I'm a man I'm a man I'm a man Yeah Whoa I'm going back down To Kansas, too I'm gonna bring back the second cousin Little John the Conqueror I'm a man Oh, baby Let me hear you say yeah I wanna hear you say yeah Let me hear you say yeah Oh The line I shoot Will never miss The way I make love to you You know you can't resist I'm a man I'm a man I'm a man Whoa"
+  },
+  "metadata": {
+    "youtube_id": "_4gTFwxXS4U",
+    "title_extracted": null,
+    "corpus_id": "_4gTFwxXS4U",
+    "uploader": "Mercury Studios",
+    "audio_file": "corpus/01_music_videos_audio/audio/_4gTFwxXS4U.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6930398,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.563446,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:35:39Z"
+  },
+  "status": "success",
+  "error": null
+}

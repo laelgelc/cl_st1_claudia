@@ -1,0 +1,38 @@
+{
+  "corpus_id": "SyNt5zm3U_M",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/SyNt5zm3U_M.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/SyNt5zm3U_M.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/SyNt5zm3U_M.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I think I'm gonna be sad I think it's today, yeah The girl that's driving me mad Is going away She's got a ticket to ride She's got a ticket to ride She's got a ticket to ride And she don't care She said that living with me Was bringing her down, yeah She would never be free When I was around She's got a ticket to ride She's got a ticket to ride She's got a ticket to ride And she don't care I don't know why she's riding so high She oughta think twice, she oughta do right by me Before she gets to saying goodbye She oughta think twice, she oughta do right by me I think I'm gonna be sad I think it's today, yeah The girl that's driving me mad Is going away, yeah Ah, she's got a ticket to ride She's got a ticket to ride She's got a ticket to ride And she don't care I don't know why she's riding so high She oughta think twice, she oughta do right by me Before she gets to saying goodbye She oughta think twice, she oughta do right by me She said that living with me Was bringing her down, yeah She would never be free When I was around Ah, she's got a ticket to ride She's got a ticket to ride She's got a ticket to ride And she don't care My baby don't care My baby don't care My baby don't care My baby don't care"
+  },
+  "metadata": {
+    "youtube_id": "SyNt5zm3U_M",
+    "title_extracted": null,
+    "corpus_id": "SyNt5zm3U_M",
+    "uploader": "The Beatles",
+    "audio_file": "corpus/01_music_videos_audio/audio/SyNt5zm3U_M.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5844076,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 23.479064,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:32:48Z"
+  },
+  "status": "success",
+  "error": null
+}

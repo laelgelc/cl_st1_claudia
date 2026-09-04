@@ -1,0 +1,38 @@
+{
+  "corpus_id": "djV11Xbc914",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/djV11Xbc914.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/djV11Xbc914.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/djV11Xbc914.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "[00:37] Talking away\n[00:40] I don't know what I'm to say\n[00:43] I'll say it anyway\n[00:45] Today is another day to find you\n[00:49] Shying away\n[00:52] I'll be coming for your love, okay?\n\n[00:54] Take on me\n[00:58] (Take on me)\n[01:00] Take on me\n[01:03] (Take on me)\n[01:06] I'll be gone\n[01:11] In a day or two\n\n[01:17] So, needless to say\n[01:20] I'm odds and ends\n[01:22] But I'm stumbling away\n[01:25] Slowly learning that life is okay\n[01:29] Say after me\n[01:32] It's so much better to be safe than sorry\n\n[01:34] Take on me\n[01:38] (Take on me)\n[01:40] Take on me\n[01:43] (Take on me)\n[01:46] I'll be gone\n[01:51] In a day or two\n\n[02:36] Oh, things that you say\n[02:39] Is it life or just to play my worries away?\n[02:45] You're all things I've got to remember\n[02:49] You're shying away\n[02:52] I'll be coming for you anyway\n\n[02:54] Take on me\n[02:58] (Take on me)\n[03:00] Take on me\n[03:03] (Take on me)\n[03:06] I'll be gone\n[03:10] In a day or two\n\n[03:15] Take on me\n[03:18] (Take on me)\n[03:20] Take on me\n[03:24] (Take on me)\n[03:26] I'll be gone\n[03:30] In a day"
+  },
+  "metadata": {
+    "youtube_id": "djV11Xbc914",
+    "title_extracted": null,
+    "corpus_id": "djV11Xbc914",
+    "uploader": "a-ha",
+    "audio_file": "corpus/01_music_videos_audio/audio/djV11Xbc914.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7808670,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.154157,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:18:05Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "U2waT9TxPU0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/U2waT9TxPU0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/U2waT9TxPU0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/U2waT9TxPU0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Mmm, let me talk to 'em Let me talk to 'em Let it rain Mmm, let me talk to 'em Come on Apple Bottom jeans, boots with the fur The whole club was lookin' at her She hit the floor, next thing you know Shawty got low, low, low, low, low, low, low, low Them baggy sweatpants and the Reeboks with the straps She turned around and gave that big booty a slap She hit the floor, next thing you know Shawty got low, low, low, low, low, low, low, low Hey, I ain't never seen nothin' that could make me go this crazy All night spendin' my dough Had a million dollar vibe and the body to go Them birthday cakes, they stole the show So sexual, she was flexible Professional, drinkin' XO Hold up, wait a minute, do I see what I think I woah? Did the thing, I seen shawty get low Ain't the same when it's up that close Make it rain, I'm makin' it snow Work the pole, I got the bankroll I must admit that I prefer them no clothes I'm into that, I love women exposed She threw it back at me, I gave her some more Cash ain't a problem, I know where it go She had them Apple Bottom jeans, boots with the fur The whole club was lookin' at her She hit the floor, next thing you know Shawty got low, low, low, low, low, low, low, low Them baggy sweatpants and the Reeboks with the straps She turned around and gave that big booty a slap She hit the floor, next thing you know Shawty got low, low, low, low, low, low, low, low Hey, shawty, what I gotta do to get you home? My wing's full of guap and ain't ready for zone Got a Maybach for the sexy grown Put tone on the rocks, gotta make you my own One step, come on, two steps, come on Three steps, come on, now that's three grand What you think I'm playin'? Baby girl, I'm the man, I'm the number one fan That's why I threw her legs on my shoulder I knew it was over, that Henny and Cola Got me like a soldier, she ready for rover I couldn't control her, so lucky on me, I was just like a clover Shawty was hot like a toaster Sorry, but I had to fold her Like a pornography poster, she showed her Apple Bottom jeans, boots with the fur The whole club was lookin' at her She hit the floor, next thing you know Shawty got low, low, low, low, low, low, low, low Them baggy sweatpants and the Reeboks with the straps She turned around and gave that big booty a slap She hit the floor, next thing you know Shawty got low, low, low, low, low, low, low, low Hey, woo! Shawty, yeah, she was worth the money Her mama took her cash and I ain't want it back The way she bent that back, got all them paper stacks Tattoo above her crack, I had to handle that I was on it, sexy, woman, let me show and make me want it In the morning, I'm zoning, them Rosé bottles foaming She wouldn't stop, made it drop Shawty did that pop and lock, had to break her off that prop Girl was fire, just like my Glock Apple Bottom jeans, boots with the fur The whole club was lookin' at her She hit the floor, next thing you know Shawty got low, low, low, low, low, low, low, low Them baggy sweatpants and the Reeboks with the straps She turned around and gave that big booty a slap She hit the floor, next thing you know Shawty got low, low, low, low, low, low, low, low Come on"
+  },
+  "metadata": {
+    "youtube_id": "U2waT9TxPU0",
+    "title_extracted": null,
+    "corpus_id": "U2waT9TxPU0",
+    "uploader": "Flo Rida",
+    "audio_file": "corpus/01_music_videos_audio/audio/U2waT9TxPU0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7388110,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.203456,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:22:22Z"
+  },
+  "status": "success",
+  "error": null
+}

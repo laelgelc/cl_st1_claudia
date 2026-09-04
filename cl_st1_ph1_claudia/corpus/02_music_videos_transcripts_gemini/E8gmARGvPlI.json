@@ -1,0 +1,38 @@
+{
+  "corpus_id": "E8gmARGvPlI",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/E8gmARGvPlI.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/E8gmARGvPlI.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/E8gmARGvPlI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Ah-ha-ha-ha Mmm Oh Ah, ah Last Christmas I gave you my heart But the very next day you gave it away This year, to save me from tears I'll give it to someone special Last Christmas I gave you my heart But the very next day you gave it away (you gave it away) This year, to save me from tears I'll give it to someone special (special) Once bitten and twice shy I keep my distance, but you still catch my eye Tell me, baby, do you recognize me? Well, it's been a year, it doesn't surprise me Merry Christmas, I wrapped it up and sent it With a note saying \"I love you\", I meant it Now I know what a fool I've been But if you kissed me now, I know you'd fool me again Last Christmas I gave you my heart But the very next day you gave it away (you gave it away) This year, to save me from tears I'll give it to someone special (special) Last Christmas I gave you my heart But the very next day you gave it away This year, to save me from tears I'll give it to someone special (special) Oh Oh, baby A crowded room, friends with tired eyes I'm hiding from you and your soul of ice My God, I thought you were someone to rely on Me? I guess I was a shoulder to cry on A face on a lover with a fire in his heart A man in undercover, but you tore me apart Oooh, hooo Now I've found a real love, you'll never fool me again Last Christmas I gave you my heart But the very next day you gave it away (you gave it away) This year, to save me from tears I'll give it to someone special (special) Last Christmas I gave you my heart (I gave you my heart) But the very next day you gave it away This year, to save me from tears I'll give it to someone special (special) A face on a lover with a fire in his heart (I gave you my heart) A man in undercover, but you tore me apart Maybe next year I'll give it to someone I'll give it to someone special Special Someone Someone"
+  },
+  "metadata": {
+    "youtube_id": "E8gmARGvPlI",
+    "title_extracted": null,
+    "corpus_id": "E8gmARGvPlI",
+    "uploader": "WHAM!",
+    "audio_file": "corpus/01_music_videos_audio/audio/E8gmARGvPlI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8909854,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 61.271425,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:08:20Z"
+  },
+  "status": "success",
+  "error": null
+}

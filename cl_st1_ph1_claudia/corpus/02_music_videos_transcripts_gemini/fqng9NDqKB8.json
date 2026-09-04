@@ -1,0 +1,38 @@
+{
+  "corpus_id": "fqng9NDqKB8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/fqng9NDqKB8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/fqng9NDqKB8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/fqng9NDqKB8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I know what you're doing, yeah \nI know why you dialed my number \nI know what you're doing, yeah \nI know why you call \nI know what you're doing, yeah \nI know why you say you love me \nI know what you're doing, yeah \nAnd I don't think it's fair \nI know why you dialed my number \nI know why you say you're mine \nI know what you're doing and it's not gonna work this time \nNot gonna work this time \n\nI know what you're doing, yeah \nI could never see you begging \nI know what you're doing, yeah \nYou're the one to blame \nI know what you're doing, yeah \nI know why you came forgiving \nI know why you're singing lost love \nThe lyrics haven't changed \nI can recognize that symptom \nYou should know I've changed my mind \nI know what you're doing and it's not gonna work this time \nSaid it's not gonna work this time \nNot gonna work this time \nNot gonna work this time \nNot gonna work this time \n\nI know what you're doing, baby \nI know why you call my name \nI know why you say you love me \nBut I can't say the same \nI can recognize that symptom \nYou should know I've changed my mind \nI know what you're doing and it's not gonna work this time \nOh no, oh no, oh no"
+  },
+  "metadata": {
+    "youtube_id": "fqng9NDqKB8",
+    "title_extracted": null,
+    "corpus_id": "fqng9NDqKB8",
+    "uploader": "DionneFarrisVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/fqng9NDqKB8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7186748,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.006199,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:00:38Z"
+  },
+  "status": "success",
+  "error": null
+}

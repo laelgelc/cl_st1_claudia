@@ -1,0 +1,38 @@
+{
+  "corpus_id": "qr1-WpWOUk8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/qr1-WpWOUk8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/qr1-WpWOUk8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/qr1-WpWOUk8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Life is funny like that. When the dust settles at the end of the day, and we've said all we can, we'll realize every part of us, even the loving ones, we're a little broken.  I like that you're broken, broken like me Maybe that makes me a fool I like that you're lonely, lonely like me I could be lonely with you  I met you late night at a party Some trust fund babies, Brooklyn loft By the bathroom, you said, \"Let's talk\" But my confidence is wearing off These aren't my people, these aren't my friends She grabbed my face, and that's when she said  I like that you're broken, broken like me Maybe that makes me a fool I like that you're lonely, lonely like me I could be lonely with you  There's something tragic, but almost pure Think I could love you, but I'm not sure There's something wholesome, there's something sweet Tucked in your eyes that I'd love to meet These aren't my people, these aren't my friends She grabbed my face, and that's when she said  I like that you're broken, broken like me Maybe that makes me a fool I like that you're lonely, lonely like me I could be lonely with you  Well, life is not a love song that we like We're all broken pieces floating by Life is not a love song, we can try To fix our broken pieces one at a time  I like that you're broken, broken like me Maybe that makes me a fool I like that you're lonely, lonely like me I could be lonely with you I like that you're broken, broken like me Maybe that makes me a fool I like that you're lonely, lonely like me I could be lonely with you"
+  },
+  "metadata": {
+    "youtube_id": "qr1-WpWOUk8",
+    "title_extracted": null,
+    "corpus_id": "qr1-WpWOUk8",
+    "uploader": "lovelytheband",
+    "audio_file": "corpus/01_music_videos_audio/audio/qr1-WpWOUk8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7177088,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 19.247455,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:43:46Z"
+  },
+  "status": "success",
+  "error": null
+}

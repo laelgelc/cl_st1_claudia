@@ -1,0 +1,38 @@
+{
+  "corpus_id": "o5TmORitlKk",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/o5TmORitlKk.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/o5TmORitlKk.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/o5TmORitlKk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I just want to ask a question. Who really cares? To save a world in despair. Who really cares? It's all as a water crisis in Flint that began four years ago when the city started drawing water from the Flint River, exposing thousands of people to the toxic metal. Mother, mother, there's too many of you crying. Brother, brother, brother 25, it's going to be a Black male in a white t-shirt... there's far too many of you dying. ...14 million more will be uninsured next year... You know we've got to find a way ...this deadly mass shooting... to bring some loving here today, hey. Father, father, we don't need to escalate. You see, war is not the answer, for only love can conquer hate. You know we've got to find a way to bring some loving here today, oh. Picket lines and picket signs, don't punish me with brutality. Talk to me so you can see, oh, what's going on. What's going on. Yeah, what's going on. What's going on. Oh, what's going on. What's going on. Oh, what's going on. What's going on. Right on, brother. Right on, brother. Ah, yeah, yeah, yeah, yeah, yeah. Right on. Right on, right on. Ah, yeah, yeah, yeah, yeah, yeah, yeah, yeah. Do, do, do, do, do, do. Do, do, do, do, do, do, do, do, do. Mother, mother, everybody thinks we're wrong. Oh, but who are they to judge us simply 'cause our hair is long. Oh, you know we've got to find a way to bring some understanding here today. Oh. Picket lines and picket signs, don't punish me with brutality. Come on, talk to me so you can see what's going on. What's going on. Yeah, what's going on. What's going on. Tell me what's going on. I'll tell you what's going on. Ooh. Right, right on. Right on. Ah, yeah, yeah, yeah, yeah, yeah, yeah, yeah. Right on, right on. Ah, yeah, yeah... Ah, I want to know what's going on, baby. Yes, I want to know, yeah, what's going on right now, people."
+  },
+  "metadata": {
+    "youtube_id": "o5TmORitlKk",
+    "title_extracted": null,
+    "corpus_id": "o5TmORitlKk",
+    "uploader": "Marvin Gaye",
+    "audio_file": "corpus/01_music_videos_audio/audio/o5TmORitlKk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7671952,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.375972,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:58:08Z"
+  },
+  "status": "success",
+  "error": null
+}

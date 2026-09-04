@@ -1,0 +1,38 @@
+{
+  "corpus_id": "QYHxGBH6o4M",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/QYHxGBH6o4M.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/QYHxGBH6o4M.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/QYHxGBH6o4M.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "She's a very kinky girl The kind you don't take home to mother She will never let your spirits down Once you get her off the street, oh girl She likes the boys in the band She says that I'm her all-time favorite When I make my move to her room, it's the right time She's never hard to please, oh no That girl is pretty wild now The girl's a super freak The kind of girl you read about in new magazines That girl is pretty kinky The girl's a super freak I really love to taste her every time we meet She's alright, she's alright That girl's alright with me Yeah, hey, hey, hey, hey She's a super freak, super freak, she's super freaky, yow Everybody sing Super freak, super freak She's a very special girl From her head down to her toenails And she'll wait for me backstage with her girlfriends In a limousine There's not a crowd to her, she says Rungs 14 now be 18 When I get there, she's got incense, wine, and candles It's such a freaky scene That girl is pretty kinky The girl's a super freak The kind of girl you read about in new magazines That girl is pretty wild now The girl's a super freak I really like to taste her every time we meet She's alright, she's alright, that girl's alright with me Yeah, hey, hey, hey, hey She's a super freak, super freak, she's super freaky, yow Temptations, sing Oh, super freak, super freak, that girl's a super freak Oh, she's a very kinky girl The kind you don't take home to mother And she will never let your spirits down Once you get her off the street Blow, Danny!"
+  },
+  "metadata": {
+    "youtube_id": "QYHxGBH6o4M",
+    "title_extracted": null,
+    "corpus_id": "QYHxGBH6o4M",
+    "uploader": "Rick James",
+    "audio_file": "corpus/01_music_videos_audio/audio/QYHxGBH6o4M.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6495722,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 23.755524,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:25:51Z"
+  },
+  "status": "success",
+  "error": null
+}

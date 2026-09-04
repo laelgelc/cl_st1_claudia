@@ -1,0 +1,38 @@
+{
+  "corpus_id": "5IsSpAOD6K8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/5IsSpAOD6K8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/5IsSpAOD6K8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/5IsSpAOD6K8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "[00:29] And you may find yourself living in a shotgun shack\n[00:33] And you may find yourself in another part of the world\n[00:37] And you may find yourself behind the wheel of a large automobile\n[00:43] And you may find yourself in a beautiful house\n[00:46] With a beautiful wife\n[00:49] And you may ask yourself, well, how did I get here?\n\n[00:53] Letting the days go by, let the water hold me down\n[00:57] Letting the days go by, water flowing underground\n[01:02] Into the blue again, after the money's gone\n[01:06] Once in a lifetime, water flowing underground\n\n[01:10] And you may ask yourself, how do I work this?\n[01:14] And you may ask yourself, where is that large automobile?\n[01:18] And you may tell yourself, this is not my beautiful house\n[01:23] And you may tell yourself, this is not my beautiful wife\n\n[01:27] Letting the days go by, let the water hold me down\n[01:31] Letting the days go by, water flowing underground\n[01:35] Into the blue again, after the money's gone\n[01:39] Once in a lifetime, water flowing underground\n\n[01:43] Same as it ever was, same as it ever was\n[01:47] Same as it ever was, same as it ever was\n[01:51] Same as it ever was, same as it ever was\n[01:55] Same as it ever was, same as it ever was\n\n[02:00] Letting the days go by, let the water hold me down\n[02:04] Letting the days go by, water flowing underground\n[02:08] Into the blue again, after the money's gone\n[02:13] Once in a lifetime, water flowing underground\n\n[02:16] You may ask yourself, what is that beautiful house?\n[02:21] You may ask yourself, where does that highway go to?\n[02:25] And you may ask yourself, am I right? Am I wrong?\n[02:29] And you may say to yourself, My God, what have I done?\n\n[02:33] Letting the days go by, let the water hold me down\n[02:37] Letting the days go by, water flowing underground\n[02:41] Into the blue again, into the silent water\n[02:45] Under the rocks and stones, there is water underground\n[02:50] Letting the days go by, let the water hold me down\n[02:54] Letting the days go by, water flowing underground\n[02:58] Into the blue again, after the money's gone\n[03:02] Once in a lifetime, water flowing underground\n\n[03:07] Same as it ever was, same as it ever was\n[03:10] Same as it ever was, look at my hand, what?\n[03:15] Time isn't holding up, time is an extra\n[03:19] Same as it ever was, same as it ever was\n[03:23] Same as it ever was, same as it ever was\n[03:27] Same as it ever was, same as it ever was\n[03:31] Once in a lifetime, let the water hold me down"
+  },
+  "metadata": {
+    "youtube_id": "5IsSpAOD6K8",
+    "title_extracted": null,
+    "corpus_id": "5IsSpAOD6K8",
+    "uploader": "Talking Heads",
+    "audio_file": "corpus/01_music_videos_audio/audio/5IsSpAOD6K8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7191948,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.760114,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:30:45Z"
+  },
+  "status": "success",
+  "error": null
+}

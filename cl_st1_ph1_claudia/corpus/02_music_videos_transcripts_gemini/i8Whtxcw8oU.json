@@ -1,0 +1,38 @@
+{
+  "corpus_id": "i8Whtxcw8oU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/i8Whtxcw8oU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/i8Whtxcw8oU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/i8Whtxcw8oU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "My mama told me, she said, \"Son, beware. There's a thing called love, and it's everywhere. It can break your heart, and put you in misery.\" Since I met this little woman, I feel it's happened to me, and I'm telling you: It's too late to turn back now. I believe, I believe, I believe I'm falling in love. It's too late to turn back now. I believe, I believe, I believe I'm falling in love. I found myself phoning her at least ten times a day, you know. It's so unusual for me to carry on this way. Now tell ya, I can't sleep at night, waiting for daylight. I tried so hard to persuade myself that this feeling just couldn't be right, and I'm telling you: It's too late to turn back now. I believe, I believe, I believe I'm falling in love. It's too late to turn back now. I believe, I believe, I believe I'm falling in love. It's too late to turn back now. I believe, I believe, I believe I'm falling in love. It's too late, baby, I tell ya. I believe, I believe, I believe I'm falling in love. I wouldn't mind it if I knew she really loved me too, but I'd hate to think that I'm in love alone and nothing that I can do. Ooh, it's too late to turn back now. I believe, I believe, I believe I'm falling in love. It's too late, baby, I tell ya. I believe, I believe, I believe I'm falling in love. It's too late to turn back now. I believe, I believe, I believe I'm falling in love. Oh, it's too late, baby, I tell ya. I believe, I believe, I believe I'm falling in love. It's too late to turn back now. I believe, I believe, I believe I'm falling in love. It's too late to turn back now. I believe, I believe, I believe I'm falling in love."
+  },
+  "metadata": {
+    "youtube_id": "i8Whtxcw8oU",
+    "title_extracted": null,
+    "corpus_id": "i8Whtxcw8oU",
+    "uploader": "Matt Laufenberg",
+    "audio_file": "corpus/01_music_videos_audio/audio/i8Whtxcw8oU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6587858,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 37.535396,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:09:55Z"
+  },
+  "status": "success",
+  "error": null
+}

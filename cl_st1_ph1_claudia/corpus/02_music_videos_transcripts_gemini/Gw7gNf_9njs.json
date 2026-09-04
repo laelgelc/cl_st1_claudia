@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Gw7gNf_9njs",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Gw7gNf_9njs.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Gw7gNf_9njs.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Gw7gNf_9njs.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Mary Ann and Wanda were the best of friends\nAll through their high school days\nBoth members of the 4-H Club\nBoth active in the FFA\n\nAfter graduation, Mary Ann went out\nLooking for a bright new world\nWanda looked all around this town\nAnd all she found was Earl\n\nWell, it wasn't two weeks after she got married\nThat Earl started getting abusive\nShe put on dark glasses and long-sleeve blouses\nAnd makeup to cover her bruises\n\nWell, she finally got the nerve to file for divorce\nShe let the law take it from there\nBut Earl walked right through that restraining order\nAnd put her in intensive care\n\nRight away, Mary Ann flew in from Atlanta\nOn a red-eye midnight flight\nShe held Wanda's hand and they worked out a plan\nAnd it didn't take 'em long to decide\nThat Earl had to die\n\nGoodbye, Earl\nThose black-eyed peas\nThey tasted alright to me, Earl\nYou feelin' weak?\nWhy don't you lay down and sleep, Earl?\nAin't it dark\nWrapped up in that tarp, Earl?\n\nThe cops came by to bring Earl in\nThey searched the house high and low\nThen they tipped their hats and said \"Thank you, ladies\nIf you hear from him, let us know\"\n\nWell, the weeks went by, spring turned to summer\nAnd summer faded into fall\nAnd it turns out he was a missing person\nWho nobody missed at all\n\nSo the girls bought some land and a roadside stand\nOut on Highway 109\nThey sell Tennessee ham and strawberry jam\nAnd they don't lose any sleep at night\n'Cause Earl had to die\n\nGoodbye, Earl\nWe need a break\nLet's go out to the lake, Earl\nWe'll pack a lunch\nStuff you in the trunk, Earl\nWell, is that alright?\nGood, let's go for a ride\nEarl\nHey!\n\nWell hey, hey, hey\nAh, hey, hey, hey\nWell hey, hey, hey"
+  },
+  "metadata": {
+    "youtube_id": "Gw7gNf_9njs",
+    "title_extracted": null,
+    "corpus_id": "Gw7gNf_9njs",
+    "uploader": "The Chicks",
+    "audio_file": "corpus/01_music_videos_audio/audio/Gw7gNf_9njs.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8258208,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.015139,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:18:36Z"
+  },
+  "status": "success",
+  "error": null
+}

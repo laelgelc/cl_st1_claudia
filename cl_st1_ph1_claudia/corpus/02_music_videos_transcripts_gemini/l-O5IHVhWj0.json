@@ -1,0 +1,38 @@
+{
+  "corpus_id": "l-O5IHVhWj0",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/l-O5IHVhWj0.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/l-O5IHVhWj0.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/l-O5IHVhWj0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Hey yo, free money. What's the money? Watch it, watch it. Watch it, watch it. Watch it, watch it. There it is, make it easy for you. Turn it over, turn it over. You lose again. Why do I keep losing? You get lucky, you're learning the game. You're learning the game. Learning the game. I like you, babe. Tell you what I'm gonna do. Give you a chance to win all your money back. Would you like that, huh? Give me a little something. How about that chain? Get that chain. Give me that chain. Everything. Everything we got here. This is it. Cards are with you, cards are with you. That's right. Now we're playing some cards. Here we go, here we go. Now we're gonna play some cards. Let's go, let's go. Bet 'em up. Mix 'em up. Here we go, here we go, right here, right here. Here we go. You lose again. Oh, my chain! Anybody else? Thanks, gotta run. Hey wait! Where are you guys going with my chain? Hey! Hey! They took my chain! Calm down, honey, it's okay. Hello. They took my chain. They did what? What'd they do? They took my gold chain! All right, stay right there. We're coming right now. Right now. Yo Jay, hit it. Let's go. This speech is my recital, I think it's very vital To rock a rhyme, that's right, on time It's Tricky is the title, here we go It's Tricky to rock a rhyme, to rock a rhyme that's right on time It's Tricky It's Tricky, Tricky, Tricky It's Tricky to rock a rhyme, to rock a rhyme that's right on time It's Tricky, tr-tr-tr-Tricky, Tricky I met this little girlie, her hair was kind of curly Went to her house and busted out, I had to leave real early These girls are really sleazy, all they do is please me Or spend some time and rock a rhyme, I said, \"It's not that easy\" It's Tricky to rock a rhyme, to rock a rhyme that's right on time How is it, Dee? It's Tricky, Tricky, Tricky It's Tricky to rock a rhyme, to rock a rhyme that's right on time Tricky, Tricky, Tricky In New York the people talkin' trash to make us rhyme They really hawk, but we just walk because we have no time And in the city, it's a pity 'cause we just can't hide Tinted windows don't mean nothin', they know who's inside It's Tricky to rock a rhyme, to rock a rhyme that's right on time How is it, Dee? It's Tricky, Tricky, Tricky It's Tricky to rock a rhyme, to rock a rhyme that's right on time Tricky, Tricky, Tricky, Tricky Excuse me, sir. Uh, you've taken all our money, could you at least teach me and my little friend a remarkable skill? I mean, could you... see if she can dance? Not with this gear, man. It's... it's not gonna work. Please... When I wake up, people take up mostly all of my time I'm not singing, phone keep ringing 'cause I make up the rhyme I'm not bragging, people nagging 'cause they think I'm a star Always tearing what I'm wearing, I think they're going too far A girl named Carol follows Darryl every gig we play Then Dee D. Steppe and Disko Master Nasty's Jockey Jay I ain't lying, girls be crying 'cause I'm on TV They even bother my poor father 'cause he's down with me It's Tricky to rock a rhyme, to rock a rhyme that's right on time How is it, Dee? Tricky, Tricky, Tricky It's Tricky to rock a rhyme, to rock a rhyme that's right on time Tricky, tr-tr-tr-Tricky, tr-tr-tr-Tricky We are not dumb, you don't use bum, but you assume on your own They offer coke and lots of dope, but we just leave it alone It's like that, y'all, but we don't quit You keep on rockin' shot, 'cause this is it Yo Lee, who's up, man? Run-D.M.C.? Are you ready to rock the house? Run-D.M.C.? No, no. Not Run-D.M.C. I know Run-D.M.C. No, no. It's Tricky to rock a rhyme, to rock a rhyme that's right on time, it's Tricky! It's Tricky, Tricky, huh! Now that's tricky, man."
+  },
+  "metadata": {
+    "youtube_id": "l-O5IHVhWj0",
+    "title_extracted": null,
+    "corpus_id": "l-O5IHVhWj0",
+    "uploader": "Run DMC",
+    "audio_file": "corpus/01_music_videos_audio/audio/l-O5IHVhWj0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8898708,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.167059,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:38:18Z"
+  },
+  "status": "success",
+  "error": null
+}

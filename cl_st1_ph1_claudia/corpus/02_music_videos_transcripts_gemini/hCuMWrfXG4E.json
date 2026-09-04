@@ -1,0 +1,38 @@
+{
+  "corpus_id": "hCuMWrfXG4E",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hCuMWrfXG4E.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/hCuMWrfXG4E.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/hCuMWrfXG4E.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Uptown girl She's been living in her uptown world I bet she never had a backstreet guy I bet her mama never told her why I'm gonna try for an uptown girl She's been living in her white bread world As long as anyone with hot blood can And now she's looking for a downtown man That's what I am And when she knows what she wants from her time And when she wakes up and makes up her mind She'll see I'm not so tough Just because I'm in love with an uptown girl You know I've seen her in her uptown world She's getting tired of her high class toys And all the presents from her uptown boys She's got a choice Uptown girl You know I can't afford to buy her pearls But maybe someday when my ship comes in She'll understand what kind of guy I've been And then I'll win And when she's walking She's looking so fine And when she's talking She'll say that she's mine She'll see I'm not so tough Just because I'm in love with an uptown girl She's been living in her white bread world As long as anyone with hot blood can And now she's looking for a downtown man That's what I am Uptown girl She's my uptown girl You know I'm in love with an uptown girl She's an uptown girl You know I'm in love with an uptown girl My uptown girl You know I'm in love with an uptown girl She's an uptown girl"
+  },
+  "metadata": {
+    "youtube_id": "hCuMWrfXG4E",
+    "title_extracted": null,
+    "corpus_id": "hCuMWrfXG4E",
+    "uploader": "Billy Joel",
+    "audio_file": "corpus/01_music_videos_audio/audio/hCuMWrfXG4E.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6480860,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.728267,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:22:49Z"
+  },
+  "status": "success",
+  "error": null
+}

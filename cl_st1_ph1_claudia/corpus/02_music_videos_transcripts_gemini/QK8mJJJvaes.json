@@ -1,0 +1,38 @@
+{
+  "corpus_id": "QK8mJJJvaes",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/QK8mJJJvaes.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/QK8mJJJvaes.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/QK8mJJJvaes.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "[Intro] [Beat Intro] Oh! I'm gonna pop some tags Only got twenty dollars in my pocket I'm, I'm hunting, looking for a come-up This is fucking awesome  [Verse 1] Walk into the club like, \"What up? I got a big cock!\" I'm just pumped, I bought some shit from the thrift shop Ice on the fringe is so damn frosty The people like, \"Damn, that's a cold ass honkey\" Rolling in hella deep, headed to the mezzanine Dressed in all pink, except my gator shoes, those are green Draped in a leopard mink, girls standing next to me Probably should've washed this, smells like R. Kelly sheets Piss! But shit, it was ninety-nine cents! I'm copping it, washing it, bout to go and get some compliments Passing up on those moccasins someone else has been walking in Bitch, I'm stunting and flossing and saving my money and I'm hella happy that's a bargain, bitch I'm a take your grandpa's style, I'm a take your grandpa's style No, for real, ask your grandpa, \"Can I have his hand-me-downs?\" Velour jumpsuit and some house slippers Dookie brown leather jacket that I found, dig it They had a broken keyboard, I bought a broken keyboard I bought a ski blanket, then I bought a kneeboard Hello, hello, my ace man, my Mello John Wayne ain't got nothing on my fringe game, hell no I could take some Pro Wings, make 'em cool, sell those The sneaker heads'll be like, \"Aw, he got the Velcros\"  [Chorus] I'm gonna pop some tags Only got twenty dollars in my pocket I'm, I'm hunting, looking for a come-up This is fucking awesome I'm gonna pop some tags Only got twenty dollars in my pocket I'm, I'm hunting, looking for a come-up This is fucking awesome  [Verse 2] What you know about rocking a wolf on your noggin? What you knowing about wearing a fur fox skin? I'm digging, I'm digging, I'm searching right through that luggage One man's trash, that's another man's come-up Thank you, Granddad, for donating that plaid button-up shirt Cause right now I'm up in her stuntin' I'm at the Goodwill, you can find me in the bins I'm not, I'm not searching in the section Your grandma, your aunty, your mama, your mammy I'll take those flannel zebra jammies, secondhand, I rock that motherfucker The built-in onesie with the socks on the motherfucker I hit the party and they stop in that motherfucker They be like, \"Oh, that Gucci, that's hella tight\" I'm like, \"Yo, that's fifty dollars for a t-shirt\" Limited edition, let's do some simple addition Fifty dollars for a t-shirt, that's just some ignorant bitch shit I call that getting swindled and pimp-shit I call that getting tricked by a business That shirt hella dough And having the same one as six other people in this club is a hella don't Peep game, come take a look through my telescope Trying to get girls from a brand, man, you hella won't Man, you hella won't  [Bridge] Goodwill, poppin' tags, yeah I'm gonna pop some tags Only got twenty dollars in my pocket I'm, I'm hunting, looking for a come-up This is fucking awesome I'll wear your granddad's clothes, I look incredible I'm in this big ass coat from the thrift shop down the road I'll wear your granddad's clothes, I look incredible I'm in this big ass coat from the thrift shop down the road  [Chorus] I'm gonna pop some tags Only got twenty dollars in my pocket I'm, I'm hunting, looking for a come-up This is fucking awesome  [Outro] Is that your grandma's coat?"
+  },
+  "metadata": {
+    "youtube_id": "QK8mJJJvaes",
+    "title_extracted": null,
+    "corpus_id": "QK8mJJJvaes",
+    "uploader": "Macklemore",
+    "audio_file": "corpus/01_music_videos_audio/audio/QK8mJJJvaes.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7442352,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.855017,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:45:26Z"
+  },
+  "status": "success",
+  "error": null
+}

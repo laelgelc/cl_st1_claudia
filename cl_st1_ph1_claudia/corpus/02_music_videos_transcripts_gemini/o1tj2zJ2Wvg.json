@@ -1,0 +1,38 @@
+{
+  "corpus_id": "o1tj2zJ2Wvg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/o1tj2zJ2Wvg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/o1tj2zJ2Wvg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/o1tj2zJ2Wvg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Welcome to the jungle, we got fun and games\nWe got everything you want, honey, we know the names\nWe are the people that can find whatever you may need\nIf you got the money, honey, we got your disease\nIn the jungle, welcome to the jungle\nWatch it bring you to your\nknees, knees\nHuh! I wanna watch you bleed\nWelcome to the jungle, we take it day by day\nIf you want it, you're gonna bleed, but it's the price you pay\nAnd you're a very sexy girl who's very hard to please\nYou can taste the bright lights, but you won't get them for free\nIn the jungle, welcome to the jungle\nFeel my, my, my, my serpentine\nOoh, I, I wanna hear you scream\nWelcome to the jungle, it gets worse here every day\nYou learn to live like an animal in the jungle where we play\nIf you got a hunger for what you see, you'll take it eventually\nYou can have anything you want, but you better not take it from me\nIn the jungle, welcome to the jungle\nWatch it bring you to your\nknees, knees\nHuh! I'm gonna watch you bleed\nAnd when you're high, you never\never wanna come down\nSo down, so down, so down\nYeah!\nYou know where you are?\nYou're in the jungle, baby!\nYou're gonna die!\nIn the jungle, welcome to the jungle\nWatch it bring you to your\nknees, knees\nIn the jungle, welcome to the jungle\nFeel my, my, my, my serpentine\nJungle, welcome to the jungle\nWatch it bring you to your\nknees, knees\nIn the jungle, welcome to the jungle\nWatch it bring you to your\nIt's gonna bring you down!\nHuh!"
+  },
+  "metadata": {
+    "youtube_id": "o1tj2zJ2Wvg",
+    "title_extracted": null,
+    "corpus_id": "o1tj2zJ2Wvg",
+    "uploader": "Guns N' Roses",
+    "audio_file": "corpus/01_music_videos_audio/audio/o1tj2zJ2Wvg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8933630,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 25.425821,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:24:00Z"
+  },
+  "status": "success",
+  "error": null
+}

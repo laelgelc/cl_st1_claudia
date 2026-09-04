@@ -1,0 +1,38 @@
+{
+  "corpus_id": "gdZLi9oWNZg",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/gdZLi9oWNZg.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/gdZLi9oWNZg.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/gdZLi9oWNZg.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "'Cause I-I-I'm in the stars tonight So watch me bring the fire and set the night alight Shoes on, get up in the morn', cup of milk, let's rock and roll King Kong, kick the drum, rolling on like a Rolling Stone Sing song when I'm walking home, jump up to the top, LeBron Ding-dong, call me on my phone, iced tea and a game of ping pong This is getting heavy, can you hear the bass boom? I'm ready (woo-hoo) Life is sweet as honey, yeah, this beat cha-ching like money, huh Disco overload, I'm into that, I'm good to go I'm diamond, you know I glow up Hey, so let's go 'Cause I-I-I'm in the stars tonight So watch me bring the fire and set the night alight Shining through the city with a little funk and soul So I'm gonna light it up like dynamite, woah-oh-oh Bring a friend, join the crowd, whoever wants to come along Word up, talk the talk, just move like we off the wall Day or night, the sky's alight, so we dance to the break of dawn Ladies and gentlemen, I got the medicine, so you should keep your eyes on the ball, huh This is getting heavy, can you hear the bass boom? I'm ready (woo-hoo) Life is sweet as honey, yeah, this beat cha-ching like money, huh Disco overload, I'm into that, I'm good to go I'm diamond, you know I glow up Hey, let's go 'Cause I-I-I'm in the stars tonight So watch me bring the fire and set the night alight Shining through the city with a little funk and soul So I'm gonna light it up like dynamite, woah-oh-oh Dyn-na-na-na, na-na-na-na-na, na-na-na, light it up like dynamite Dyn-na-na-na, na-na-na-na-na, na-na-na, light it up like dynamite Shining through the city with a little funk and soul So I'm gonna light it up like dynamite, woah-oh-oh Dyn-na-na-na, na-na-na-na-na, hey Dyn-na-na-na, na-na-na-na-na, hey Dyn-na-na-na, na-na-na-na-na Light it up like dynamite Dyn-na-na-na, na-na-na-na-na, hey Dyn-na-na-na, na-na-na-na-na, hey Dyn-na-na-na, na-na-na-na-na Light it up like dynamite 'Cause I-I-I'm in the stars tonight So watch me bring the fire and set the night alight Shining through the city with a little funk and soul So I'm gonna light it up like dynamite This is 'Cause I-I-I'm in the stars tonight So watch me bring the fire and set the night alight Shining through the city with a little funk and soul So I'm gonna light it up like dynamite, woah-oh-oh Dyn-na-na-na, na-na-na-na-na, na-na-na, light it up like dynamite Dyn-na-na-na, na-na-na-na-na, na-na-na, light it up like dynamite Shining through the city with a little funk and soul So I'm gonna light it up like dynamite, woah-oh-oh"
+  },
+  "metadata": {
+    "youtube_id": "gdZLi9oWNZg",
+    "title_extracted": null,
+    "corpus_id": "gdZLi9oWNZg",
+    "uploader": "HYBE LABELS",
+    "audio_file": "corpus/01_music_videos_audio/audio/gdZLi9oWNZg.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7149596,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.418139,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:39:41Z"
+  },
+  "status": "success",
+  "error": null
+}

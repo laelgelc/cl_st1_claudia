@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Zv8czIoAw5w",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Zv8czIoAw5w.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Zv8czIoAw5w.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Zv8czIoAw5w.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Oh, my love, my darling I've hungered for your touch A long, lonely time And time goes by so slowly And time can do so much Are you still mine? I need your love God speed your love to me Lonely rivers flow To the sea, to the sea To the open arms of the sea Lonely rivers sigh \"Wait for me, wait for me\" I'll be coming home, wait for me Oh, my love, my darling I've hungered, hungered for your touch A long, lonely time And time goes by so slowly And time can do so much Are you still mine? I need your love I need your love God speed your love to me"
+  },
+  "metadata": {
+    "youtube_id": "Zv8czIoAw5w",
+    "title_extracted": null,
+    "corpus_id": "Zv8czIoAw5w",
+    "uploader": "The Righteous Brothers - Topic",
+    "audio_file": "corpus/01_music_videos_audio/audio/Zv8czIoAw5w.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6836032,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 16.98906,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:36:22Z"
+  },
+  "status": "success",
+  "error": null
+}

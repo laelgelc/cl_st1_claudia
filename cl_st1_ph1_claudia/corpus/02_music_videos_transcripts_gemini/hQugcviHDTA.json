@@ -1,0 +1,38 @@
+{
+  "corpus_id": "hQugcviHDTA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/hQugcviHDTA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/hQugcviHDTA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/hQugcviHDTA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "You're just too good to be true\nCan't take my eyes off of you\nYou'd be like heaven to touch\nI wanna hold you so much\nAt long last love has arrived\nAnd I thank God I'm alive\nYou're just too good to be true\nCan't take my eyes off of you\n\nPardon the way that I stare\nThere's nothing else to compare\nThe sight of you leaves me weak\nThere are no words left to speak\nBut if you feel like I feel\nPlease let me know that it's real\nYou're just too good to be true\nCan't take my eyes off of you\n\nI love you, baby, and if it's quite all right\nI need you, baby, to warm the lonely night\nI love you, baby\nTrust in me when I say\nOh, pretty baby, don't bring me down, I pray\nOh, pretty baby, now that I've found you, stay\nAnd let me love you, baby\nLet me love you\n\nYou're just too good to be true\nCan't take my eyes off of you\nYou'd be like heaven to touch\nI wanna hold you so much\nAt long last love has arrived\nAnd I thank God I'm alive\nYou're just too good to be true\nCan't take my eyes off of you\n\nI love you, baby, and if it's quite all right\nI need you, baby, to warm the lonely night\nI love you, baby\nTrust in me when I say\nOh, pretty baby, don't bring me down, I pray\nOh, pretty baby, now that I've found you, stay\nOh, pretty baby\nTrust in me when I say"
+  },
+  "metadata": {
+    "youtube_id": "hQugcviHDTA",
+    "title_extracted": null,
+    "corpus_id": "hQugcviHDTA",
+    "uploader": "Frankie Valli and the Four Seasons",
+    "audio_file": "corpus/01_music_videos_audio/audio/hQugcviHDTA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6240860,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 9.759992,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T19:45:01Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "lp-EO5I60KA",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/lp-EO5I60KA.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/lp-EO5I60KA.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/lp-EO5I60KA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "When your legs don't work like they used to before And I can't sweep you off of your feet Will your mouth still remember the taste of my love? Will your eyes still smile from your cheeks? Darling, I will be loving you 'til we're 70 Baby, my heart could still fall as hard at 23 And I'm thinking 'bout how people fall in love in mysterious ways Maybe just the touch of a hand Well me, I fall in love with you every single day And I just wanna tell you I am So honey, now Take me into your loving arms Kiss me under the light of a thousand stars Place your head on my beating heart I'm thinking out loud That maybe we found love right where we are When my hair's all but gone and my memory fades And the crowds don't remember my name When my hands don't play the strings the same way I know you will still love me the same 'Cause honey, your soul could never grow old, it's evergreen Baby, your smile's forever in my mind and memory I'm thinking 'bout how people fall in love in mysterious ways Maybe it's all part of a plan Well, I'll just keep on making the same mistakes Hoping that you'll understand That baby, now Take me into your loving arms Kiss me under the light of a thousand stars Place your head on my beating heart I'm thinking out loud That maybe we found love right where we are So baby, now Take me into your loving arms Kiss me under the light of a thousand stars Oh darling, place your head on my beating heart I'm thinking out loud That maybe we found love right where we are Oh baby, we found love right where we are And we found love right where we are"
+  },
+  "metadata": {
+    "youtube_id": "lp-EO5I60KA",
+    "title_extracted": null,
+    "corpus_id": "lp-EO5I60KA",
+    "uploader": "Ed Sheeran",
+    "audio_file": "corpus/01_music_videos_audio/audio/lp-EO5I60KA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9252394,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.645072,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:54:29Z"
+  },
+  "status": "success",
+  "error": null
+}

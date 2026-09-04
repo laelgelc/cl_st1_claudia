@@ -1,0 +1,38 @@
+{
+  "corpus_id": "g4myghLPLZc",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/g4myghLPLZc.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/g4myghLPLZc.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/g4myghLPLZc.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "I remember how the darkness doubled\nI recall lightning struck itself\nI was listening, listening to the rain\nI was hearing, hearing something else\n\nLiving in the dark hug of my night\nOh, it's a death embrace of light\nOh, that's standing the murky moon\nI'm just waiting\n\nI spoke to a man down at the tracks\nAnd I asked him how he don't go mad\nHe said, \"Look at you, don't you be so happy?\nAnd for heaven's sake, don't you be so sad?\"\n\nLiving in the dark hug of my night\nOh, it's a death embrace of light\nOh, that's standing the murky moon\nHesitating\n\nWell, the Cadillac, it pulled out of the graveyard\nPulled up to me, all they said \"Get in, get in\"\nThen the Cadillac, it pulled back into the graveyard\nMe, I got out again\n\nLiving in the dark hug of my night\nOh, it's a death embrace of light\nOh, that's standing the murky moon\nI'm waiting, uh\n\nI remember how the darkness doubled\nI recall lightning struck itself\nI was listening, listening to the rain\nI was hearing, hearing something else"
+  },
+  "metadata": {
+    "youtube_id": "g4myghLPLZc",
+    "title_extracted": null,
+    "corpus_id": "g4myghLPLZc",
+    "uploader": "Television - Topic",
+    "audio_file": "corpus/01_music_videos_audio/audio/g4myghLPLZc.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 20429180,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 56.93957,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:34:57Z"
+  },
+  "status": "success",
+  "error": null
+}

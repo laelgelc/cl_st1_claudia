@@ -1,0 +1,38 @@
+{
+  "corpus_id": "lQ6akiGRcL8",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/lQ6akiGRcL8.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/lQ6akiGRcL8.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/lQ6akiGRcL8.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Good golly, Miss Molly! Sure like to ball. Good golly, Miss Molly! Sure like to ball. When you're rockin' and a-rollin', can't hear your mama call. From the early early morning to the early early night, when you come Miss Molly rockin' at the house of blue light. Good golly, Miss Molly! Sure like to ball. When you're rockin' and a-rollin', can't hear your mama call. Mama, papa told me, \"Son, you better watch yourself.\" If you knew Miss Molly, you'd watch yourself. Good golly, Miss Molly! Sure like to ball. When you're rockin' and a-rollin', can't hear your mama call. Ow! Good golly, Miss Molly! Sure like to ball. Yeah, good golly, Miss Molly! Sure like to ball. When you're rockin' and a-rollin', can't hear your mama call. Gonna go to the corner, gonna buy a diamond ring. Would you hug me, kiss me, make me ting-a-ling-a-ling? Good golly, Miss Molly! Sure like to ball. When you're rockin' and a-rollin', can't hear your mama call!"
+  },
+  "metadata": {
+    "youtube_id": "lQ6akiGRcL8",
+    "title_extracted": null,
+    "corpus_id": "lQ6akiGRcL8",
+    "uploader": "OldNick",
+    "audio_file": "corpus/01_music_videos_audio/audio/lQ6akiGRcL8.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4153664,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.543623,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:41:00Z"
+  },
+  "status": "success",
+  "error": null
+}

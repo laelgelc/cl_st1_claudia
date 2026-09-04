@@ -1,0 +1,38 @@
+{
+  "corpus_id": "xoW3bqnr7tw",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/xoW3bqnr7tw.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/xoW3bqnr7tw.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/xoW3bqnr7tw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "With a little love and some tenderness We'll walk upon the water We'll rise above the mist With a little peace and some harmony We'll take the world together We'll take 'em by the hand 'Cause I got a hand for you I wanna run with you Yesterday, I saw you standing there Your head was down, your eyes were red No color touch your hair I said, get up And let me see you smile We'll take a walk together Walk the road a while 'Cause I got a hand for you I got a hand for you I wanna run with you Won't you let me run with you, yeah? Hold my hand Won't you hold my hand? Hold my hand I'll take you to a place where you can be Hold my hand Anything you wanna be, because I wanna love you the best that, the best that I can See, I was wasted and I was a wasting time Till I thought about your problems I thought about your tears Then I stood up And then I screamed aloud I don't wanna be part of your problems Don't wanna be part of your crowd, no 'Cause I got a hand for you I got a hand for you I wanna run with you Won't you let me run with you, oh? Hold my hand Won't you hold my hand? Hold my hand I'll take you to the promised land Hold my hand Maybe we can change the world I wanna love you the best that, the best that I can Yeah Let me run with you, let me run with you, hold my hand Won't you hold my hand? Hold my hand I'll take you to a place where you can be Hold my hand Anything you wanna be, because Ah, oh no, no, no, no Hold my hand Won't you hold my hand? Hold my hand I'll take you to the promised land Hold my hand Maybe we can change the world I wanna love you the best that, the best that I can, oh Best that I can"
+  },
+  "metadata": {
+    "youtube_id": "xoW3bqnr7tw",
+    "title_extracted": null,
+    "corpus_id": "xoW3bqnr7tw",
+    "uploader": "Hootie & the Blowfish",
+    "audio_file": "corpus/01_music_videos_audio/audio/xoW3bqnr7tw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8179446,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.848059,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T17:54:02Z"
+  },
+  "status": "success",
+  "error": null
+}

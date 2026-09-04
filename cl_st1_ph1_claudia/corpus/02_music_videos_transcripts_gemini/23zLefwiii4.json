@@ -1,0 +1,38 @@
+{
+  "corpus_id": "23zLefwiii4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/23zLefwiii4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/23zLefwiii4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/23zLefwiii4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Well, bless my soul, what's wrong with me? I'm itching like a man on a fuzzy tree My friends say I'm acting wild as a bug I'm in love I'm all shook up, mm mm Yeah, yeah, yeah Well, my hands are shaky and my knees are weak I can't seem to stand on my own two feet Who do you think of when you have such luck? I'm in love I'm all shook up, mm mm Yeah, yeah, yeah Well, please don't ask me what's on my mind I'm a little mixed up, but I feel fine When I'm near the girl that I love best My heart beats so, it scares me to death When she touched my hand, and what a chill I got Her lips are like a volcano that's hot I'm proud to say that she's my buttercup I'm in love I'm all shook up, mm mm Yeah, yeah, yeah My tongue gets tied when I try to speak My insides shake like a leaf on a tree There's only one cure for this body of mine That's to have that girl that I love so fine When she touched my hand, and what a chill I got Her lips are like a volcano that's hot I'm proud to say that she's my buttercup I'm in love I'm all shook up, mm mm Yeah, yeah, yeah Mm mm, yeah, yeah, I'm all shook up"
+  },
+  "metadata": {
+    "youtube_id": "23zLefwiii4",
+    "title_extracted": null,
+    "corpus_id": "23zLefwiii4",
+    "uploader": "Elvis Presley",
+    "audio_file": "corpus/01_music_videos_audio/audio/23zLefwiii4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 3802206,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 9.999852,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T16:39:10Z"
+  },
+  "status": "success",
+  "error": null
+}

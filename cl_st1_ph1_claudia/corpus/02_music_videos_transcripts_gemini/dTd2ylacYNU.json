@@ -1,0 +1,38 @@
+{
+  "corpus_id": "dTd2ylacYNU",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/dTd2ylacYNU.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/dTd2ylacYNU.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/dTd2ylacYNU.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "When the night has come And the land is dark And the moon is the only light we'll see No, I won't be afraid Oh, I won't be afraid Just as long as you stand, stand by me So darling, darling, stand by me Oh, stand by me Oh, stand, stand by me, stand by me If the sky that we look upon Should tumble and fall Or the mountain should crumble to the sea I won't cry, I won't cry No, I won't shed a tear Just as long as you stand, stand by me And darling, darling, stand by me Oh, stand by me Oh, stand now, stand by me, stand by me Darling, darling, stand by me Oh, stand by me Oh, stand now, stand by me, stand by me Whenever you're in trouble, won't you stand by me Oh, stand by me Oh, stand now, oh, stand, stand by me When all of your friends are gone"
+  },
+  "metadata": {
+    "youtube_id": "dTd2ylacYNU",
+    "title_extracted": null,
+    "corpus_id": "dTd2ylacYNU",
+    "uploader": "PRIMITIV RECORD",
+    "audio_file": "corpus/01_music_videos_audio/audio/dTd2ylacYNU.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5778690,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 15.529046,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T20:08:14Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "dZLfasMPOU4",
+  "input_audio_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/dZLfasMPOU4.wav",
+  "text_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/dZLfasMPOU4.txt",
+  "json_output_path": "/home/ubuntu/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/dZLfasMPOU4.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T160337Z"
+  },
+  "transcription": {
+    "text": "Stacy's mom has got it going on Stacy's mom has got it going on Stacy's mom has got it going on Stacy's mom has got it going on Stacy, can I come over after school? (After school) We can hang around by the pool (Hang by the pool) Did your mom get back from her business trip? (Business trip) Is she there or is she trying to give me the slip? (Give me the slip) You know, I'm not the little boy that I used to be I'm all grown up now, baby, can't you see? Stacy's mom has got it going on She's all I want and I've waited for so long Stacy, can't you see? You're just not the girl for me I know it might be wrong, but I'm in love with Stacy's mom Stacy's mom has got it going on Stacy's mom has got it going on Stacy, do you remember when I mowed your lawn? (Mowed your lawn) Your mom came out with just a towel on (Towel on) I could tell she liked me from the way she stared (Way she stared) And the way she said, \"You missed a spot over there\" (Spot over there) And I know that you think it's just a fantasy But since your dad walked out, your mom could use a guy like me Stacy's mom has got it going on She's all I want and I've waited for so long Stacy, can't you see? You're just not the girl for me I know it might be wrong, but I'm in love with Stacy's mom Stacy's mom has got it going on (She's got it going on) She's all I want and I've waited for so long (Waitin' and waitin') Stacy, can't you see? You're just not the girl for me I know it might be wrong, but I'm in love with Stacy's mom (Stacy's mom) I'm in love with (Stacy's mom) Wait a minute Stacy, can't you see? You're just not the girl for me I know it might be wrong, but I'm in love with Stacy's mom"
+  },
+  "metadata": {
+    "youtube_id": "dZLfasMPOU4",
+    "title_extracted": null,
+    "corpus_id": "dZLfasMPOU4",
+    "uploader": "FountainsOfWayneVEVO",
+    "audio_file": "corpus/01_music_videos_audio/audio/dZLfasMPOU4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6289900,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 17.835355,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T160337Z",
+    "transcribed_at_utc": "2026-09-04T18:34:15Z"
+  },
+  "status": "success",
+  "error": null
+}
