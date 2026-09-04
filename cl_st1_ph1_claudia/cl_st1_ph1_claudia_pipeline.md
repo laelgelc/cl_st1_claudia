@@ -103,18 +103,6 @@ python transcribe_music_videos_gemini.py \
     --start-corpus-id mcCK99wHrk0
 ```
 
-```shell script
-python transcribe_music_videos_gemini.py \
-    --model-name gemini-3.5-flash \
-    --start-corpus-id Q0iqg2UanEc
-```
-
-```shell script
-python transcribe_music_videos_gemini.py \
-    --model-name gemini-3.5-flash \
-    --start-corpus-id sDo-GA1hLk4
-```
-
 ### Full run
 
 ```shell script
@@ -127,6 +115,20 @@ python transcribe_music_videos_gemini.py --no-test-mode
 bash run_python_ec2.sh \
     transcribe_music_videos_gemini.py \
     --no-test-mode
+```
+
+Two audio files, `Q0iqg2UanEc` and `sDo-GA1hLk4`, repeatedly returned empty model responses with `gemini-3.6-flash`, despite the audio files being valid and listenable. These two items were reprocessed successfully with `gemini-3.5-flash`.
+
+```shell script
+python transcribe_music_videos_gemini.py \
+    --model-name gemini-3.5-flash \
+    --start-corpus-id Q0iqg2UanEc
+```
+
+```shell script
+python transcribe_music_videos_gemini.py \
+    --model-name gemini-3.5-flash \
+    --start-corpus-id sDo-GA1hLk4
 ```
 
 ## 5. Describe music video music with Gemini

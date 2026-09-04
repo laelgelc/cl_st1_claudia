@@ -1,0 +1,38 @@
+{
+  "corpus_id": "sDo-GA1hLk4",
+  "input_audio_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/sDo-GA1hLk4.wav",
+  "text_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/sDo-GA1hLk4.txt",
+  "json_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/sDo-GA1hLk4.json",
+  "model": {
+    "model_name": "gemini-3.5-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260904T221828Z"
+  },
+  "transcription": {
+    "text": "Like Belfast, oh baby\nYou know she comes around\nShe's about five feet four\nAnd from her head to the ground\nYou know she comes around here\nAt just about midnight\nShe make me feel so good, lord\nShe make me feel all right\nAnd her name is G\nL\nO\nR\nI\nG-L-O-R-I-A\nG-L-O-R-I-A, Gloria\nI'm gonna shout it all night, Gloria\nI'm gonna shout it every day, Gloria\nYeah, yeah, yeah, yeah, yeah, yeah\n\nShe comes around here\nJust about midnight\nShe make me feel so good, lord\nI wanna say she make me feel all right\nComes walking down my street\nWatch her come to my house\nShe knock upon my door\nAnd then she comes to my room\nAnd she make me feel all right\nG-L-O-R-I-A, Gloria\nG-L-O-R-I-A, Gloria\nI'm gonna shout it all night, Gloria\nI'm gonna shout it every day, Gloria\nYeah, yeah, yeah, yeah, yeah, yeah\nIt's so good\nAll right\nSo good\nOh, all right\nYeah"
+  },
+  "metadata": {
+    "youtube_id": "sDo-GA1hLk4",
+    "title_extracted": null,
+    "corpus_id": "sDo-GA1hLk4",
+    "uploader": "Rock Pop Tunes",
+    "audio_file": "corpus/01_music_videos_audio/audio/sDo-GA1hLk4.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5280110,
+    "download_status": "success",
+    "metadata_status": "success",
+    "download_run_id": "20260902T001021Z",
+    "downloaded_at_utc": "2026-09-02T05:04:23Z",
+    "download_duration_seconds": 14.393771,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260904T221828Z",
+    "transcribed_at_utc": "2026-09-04T22:18:36Z"
+  },
+  "status": "success",
+  "error": null
+}

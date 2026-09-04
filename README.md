@@ -35,7 +35,11 @@ Data processing and analysis were carried out using the Jupyter Notebook `cl_st1
 
 #### 5.2. Transcription with Gemini
 
-The descriptive statistics analysis identified transcripts with no or just a few words, demonstrating that WhisperX failed to transcribe a few audio files. To resolve this issue, `transcribe_music_videos_gemini.py` was developed to prompt Gemini to transcribe the music videos as an alternative to WhisperX. The programme passed the tests and a full run was started on an EC2 instance to process all the audio files.
+The descriptive statistics analysis identified transcripts with no or just a few words, demonstrating that WhisperX failed to transcribe a few audio files. To resolve this issue, `transcribe_music_videos_gemini.py` was developed to prompt Gemini to transcribe the music videos as an alternative to WhisperX.
+
+The Gemini transcription workflow was run against the downloaded WAV audio files using `gemini-3.6-flash`. Most items were transcribed successfully. Two audio files, `Q0iqg2UanEc` and `sDo-GA1hLk4`, repeatedly returned empty model responses with `gemini-3.6-flash`, despite the audio files being valid and listenable. These two items were reprocessed successfully with `gemini-3.5-flash`.
+
+The final Gemini transcript set was therefore completed using `gemini-3.6-flash` as the primary model and `gemini-3.5-flash` as a fallback model for the two persistent empty-response cases. The generated plain-text transcripts and JSON metadata files were saved in `corpus/02_music_videos_transcripts_gemini`.
 
 ### 6. Audio Content Description
 Additionally, `describe_music.py` was introduced to interface with the Gemini API. This tool allows for describing the audible characteristics of a music recording (instrumentation, tempo, dynamics, mood, etc.) to enrich the dataset with qualitative descriptions based purely on audio evidence.
