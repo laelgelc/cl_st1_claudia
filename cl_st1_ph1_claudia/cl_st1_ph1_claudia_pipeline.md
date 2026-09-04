@@ -115,7 +115,9 @@ bash run_python_ec2.sh \
     --no-test-mode
 ```
 
-## 4. Transcribe music video audio with GPT
+## 4. Transcribe music video audio with GPT (deprecated)
+
+It seems that while the `gpt-5.6-sol` model supports audio input, the API does not supported. `AI Assistant` fails to land code for this.
 
 ### Test runs
 
