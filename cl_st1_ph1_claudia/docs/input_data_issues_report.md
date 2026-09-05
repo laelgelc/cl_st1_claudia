@@ -17,14 +17,14 @@ The reasons are explained below.
 > Action: Provide the YouTube URL for the missing 514 and 515 songs.
 > 
 > Response:
-> | Alternatives provided                       | Selected |
-> |---------------------------------------------|----------|
-> | https://www.youtube.com/watch?v=Soa3gO7tL-c |          |
-> |                                             |          |
-> |                                             |          |
 
- 
+| Alternatives provided                       | Selected |
+|---------------------------------------------|----------|
+| https://www.youtube.com/watch?v=YQHsXMglC9A |          |
 
+| Alternatives provided                       | Selected |
+|---------------------------------------------|----------|
+| https://www.youtube.com/watch?v=Soa3gO7tL-c |          |
 
 ### Duplicate entries
 
@@ -35,6 +35,12 @@ The reasons are explained below.
 Songs 372 and 961 are duplicates.
 
 > Action: Choose another song to replace the duplicate.
+> 
+> Response:
+
+| Alternatives provided                       | Selected |
+|---------------------------------------------|----------|
+| https://www.youtube.com/watch?v=YlUKcNNmywk |          |
 
 ### Entry missing YouTube URL
 
@@ -43,6 +49,12 @@ Songs 372 and 961 are duplicates.
 Song 971's entry bears no YouTube URL.
 
 > Action: Provide the YouTube URL for the song.
+> 
+> Response:
+
+| Alternatives provided                       | Selected |
+|---------------------------------------------|----------|
+| https://www.youtube.com/watch?v=-T9vmaTI2LE |          |
 
 ## Music video unavailable
 
@@ -61,6 +73,79 @@ The uploader (channel owner) of the following 11 songs made the music video unav
 - https://www.youtube.com/watch?v=plcmqP3b-Qg
 
 > Action: Use a VPN to connect from Brazil and click on the links to confirm that the music videos are unavailable. Choose replacement songs and confirm that they can be viewed from Brazil.
+> 
+> Response:
+
+| Alternatives provided                       | Selected |
+|---------------------------------------------|----------|
+| https://www.youtube.com/watch?v=t4LWIP7SAjY |          |
+| https://www.youtube.com/watch?v=Tn0-6n_dng4 |          |
+| https://www.youtube.com/watch?v=ku7W0BZcxdw |          |
+
+| Alternatives provided                       | Selected |
+|---------------------------------------------|----------|
+| https://www.youtube.com/watch?v=Ad36jrguvpI |          |
+| https://www.youtube.com/watch?v=Nq7XmWSbXqA |          |
+
+| Alternatives provided                       | Selected |
+|---------------------------------------------|----------|
+| https://www.youtube.com/watch?v=RD4TFzkY5F0 |          |
+| https://www.youtube.com/watch?v=msqQo845908 |          |
+| https://www.youtube.com/watch?v=aBhuYwjASDI |          |
+
+| Alternatives provided                       | Selected |
+|---------------------------------------------|----------|
+| https://www.youtube.com/watch?v=BuQ3PaFyb9A |          |
+| https://www.youtube.com/watch?v=RSIj_yhj7hg |          |
+| https://www.youtube.com/watch?v=VxA3atHD2QM |          |
+
+| Alternatives provided                       | Selected |
+|---------------------------------------------|----------|
+| https://www.youtube.com/watch?v=Q3mgapAcVdU |          |
+| https://www.youtube.com/watch?v=PclhNB8BiwI |          |
+| https://www.youtube.com/watch?v=Fm66sDQGG2g |          |
+
+| Alternatives provided                       | Selected |
+|---------------------------------------------|----------|
+| https://www.youtube.com/watch?v=GqXyTNKlwTI |          |
+| https://www.youtube.com/watch?v=nkUOACGtGfA |          |
+| https://www.youtube.com/watch?v=L-JQ1q-13Ek |          |
+
+| Alternatives provided                       | Selected |
+|---------------------------------------------|----------|
+| https://www.youtube.com/watch?v=RLTDpewIpfw |          |
+| https://www.youtube.com/watch?v=7j7rcSutYAQ |          |
+| https://www.youtube.com/watch?v=Er9xGRolrT4 |          |
+
+| Alternatives provided                       | Selected |
+|---------------------------------------------|----------|
+| https://www.youtube.com/watch?v=HKW0uelA6Dw |          |
+| https://www.youtube.com/watch?v=Wxx_2q409oY |          |
+| https://www.youtube.com/watch?v=dEdSJ7sPEL8 |          |
+
+| Alternatives provided                       | Selected |
+|---------------------------------------------|----------|
+| https://www.youtube.com/watch?v=UVwKxz0e2sE |          |
+| https://www.youtube.com/watch?v=JpU--sHqgUs |          |
+| https://www.youtube.com/watch?v=j7V2_jQ_QUU |          |
+
+| Alternatives provided                       | Selected |
+|---------------------------------------------|----------|
+| https://www.youtube.com/watch?v=mMyHOK5-zbY |          |
+| https://www.youtube.com/watch?v=j2F4INQFjEI |          |
+| https://www.youtube.com/watch?v=M12HMjqqYa0 |          |
+
+| Alternatives provided                       | Selected |
+|---------------------------------------------|----------|
+| https://www.youtube.com/watch?v=y3KJ7d2qBoA |          |
+| https://www.youtube.com/watch?v=eepLY8J4E6c |          |
+| https://www.youtube.com/watch?v=-vPJ7zTDaUw |          |
+
+Extra music video:
+
+| Alternatives provided                       | Selected |
+|---------------------------------------------|----------|
+| https://www.youtube.com/watch?v=_2sz_YwwwQ4 |          |
 
 ## Response format
 
