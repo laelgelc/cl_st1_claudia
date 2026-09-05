@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Ad36jrguvpI",
+  "input_audio_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Ad36jrguvpI.wav",
+  "text_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Ad36jrguvpI.txt",
+  "json_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Ad36jrguvpI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260905T194153Z"
+  },
+  "transcription": {
+    "text": "Baby, do you understand me now? Sometimes I feel a little mad. But don't you know that no one alive can always be an angel? When things go wrong, I seem to be bad. But I'm just a soul whose intentions are good. Oh Lord, please don't let me be misunderstood. Baby, sometimes I'm so carefree with a joy that's hard to hide. And then sometimes it seems that all I have to do is worry, and then you're bound to see my other side. But I'm just a soul whose intentions are good. Oh Lord, please don't let me be misunderstood. If I seem edgy, I want you to know that I never mean to take it out on you. Life has its problems and I get my share, and that's one thing I never mean to do, 'cause I love you. Oh, baby, don't you know I'm human? Have faults like any other one. Sometimes I find myself alone, regretting some foolish thing, some little sinful thing I've done. But I'm just a soul whose intentions are good. Oh Lord, please don't let me be misunderstood. Yes, I'm just a soul whose intentions are good. Oh Lord, please don't let me be misunderstood. Yes, I'm just a soul whose intentions are good. Oh Lord, please don't let me be misunderstood. Yes, I'm just a soul whose intentions are good. Oh Lord, please don't let me be misunderstood."
+  },
+  "metadata": {
+    "youtube_id": "Ad36jrguvpI",
+    "title_extracted": null,
+    "corpus_id": "Ad36jrguvpI",
+    "uploader": "AI Videoworks",
+    "audio_file": "corpus/01_music_videos_audio/audio/Ad36jrguvpI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4610632,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260905T193259Z",
+    "downloaded_at_utc": "2026-09-05T19:33:00Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260905T194153Z",
+    "transcribed_at_utc": "2026-09-05T19:43:31Z"
+  },
+  "status": "success",
+  "error": null
+}

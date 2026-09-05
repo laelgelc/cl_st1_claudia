@@ -1,0 +1,38 @@
+{
+  "corpus_id": "j2F4INQFjEI",
+  "input_audio_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/j2F4INQFjEI.wav",
+  "text_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/j2F4INQFjEI.txt",
+  "json_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/j2F4INQFjEI.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260905T194851Z"
+  },
+  "description": {
+    "text": "The recording opens immediately with an energetic, high-impact chorus set in a 4/4 time signature at an upbeat pop tempo (approximately 123 BPM). The dynamic arrangement features a powerful, emotive female lead vocal centered in the stereo mix, complemented by lush, multi-tracked female backing harmonies panned wide. The rhythmic foundation consists of punchy electronic-style drums with a prominent four-on-the-floor kick, crisp hi-hats, and a reverberant snare, coupled with a driving synth bass, warm synth pads, and bright electric guitar chords.\n\nAt 0:20, a brief instrumental transition highlights a soaring melodic electric guitar lead before settling into the first verse at 0:38. Here, the musical texture thins to a sparser, rhythmic groove driven by a pulsing bassline, subtle palm-muted electric guitar strumming, and steady percussion. The lead vocal assumes a slightly more intimate tone processed with subtle delay and reverb.\n\nAt 0:54, the pre-chorus initiates a dynamic build through rising melodic lines, swelling synthesizer textures, and vocal crescendos, resolving seamlessly into the full, euphoric chorus at 1:09. This structural cycle repeats through a second verse and pre-chorus, maintaining an infectious pop-rock momentum rooted in a clear diatonic major key.\n\nA prominent electric guitar solo enters at 2:23, featuring a singing, chorused tone with spatial delay that delivers an expressive melodic line over the steady drum beat and bassline. A brief vocal bridge at 2:53 builds intensity before the track climaxes at 3:08 into an extended final chorus. The lead vocal delivers high-register ad-libs over the dense, celebratory instrumental backdrop, preserving an exhilarating and triumphant mood until the recording gradually fades out.\n\nGENRES: Pop, Synth-Pop, Pop Rock, 1980s Pop"
+  },
+  "metadata": {
+    "youtube_id": "j2F4INQFjEI",
+    "title_extracted": null,
+    "corpus_id": "j2F4INQFjEI",
+    "uploader": "Belinda Carlisle",
+    "audio_file": "corpus/01_music_videos_audio/audio/j2F4INQFjEI.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7818330,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260905T193259Z",
+    "downloaded_at_utc": "2026-09-05T19:33:00Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260905T194851Z",
+    "generated_at_utc": "2026-09-05T19:53:46Z"
+  },
+  "status": "success",
+  "error": null
+}

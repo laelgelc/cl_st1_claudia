@@ -1,0 +1,38 @@
+{
+  "corpus_id": "nkUOACGtGfA",
+  "input_audio_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/nkUOACGtGfA.wav",
+  "text_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/nkUOACGtGfA.txt",
+  "json_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/nkUOACGtGfA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260905T194153Z"
+  },
+  "transcription": {
+    "text": "Hello darkness, my old friend I've come to talk with you again Because a vision softly creeping Left its seeds while I was sleeping And the vision that was planted in my brain Still remains Within the sound of silence In restless dreams I walked alone Narrow streets of cobblestone 'Neath the halo of a street lamp I turned my collar to the cold and damp When my eyes were stabbed by the flash of a neon light That split the night And touched the sound of silence And in the naked light I saw Ten thousand people, maybe more People talking without speaking People hearing without listening People writing songs that voices never share And no one dared Disturb the sound of silence \"Fools,\" said I, \"You do not know Silence like a cancer grows Hear my words that I might teach you Take my arms that I might reach you\" But my words, like silent raindrops fell And echoed in the wells of silence And the people bowed and prayed To the neon god they made And the sign flashed out its warning In the words that it was forming And the sign said, \"The words of the prophets are written on the subway walls And tenement halls\" And whispered in the sound of silence"
+  },
+  "metadata": {
+    "youtube_id": "nkUOACGtGfA",
+    "title_extracted": null,
+    "corpus_id": "nkUOACGtGfA",
+    "uploader": "Typ iak",
+    "audio_file": "corpus/01_music_videos_audio/audio/nkUOACGtGfA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5930270,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260905T193259Z",
+    "downloaded_at_utc": "2026-09-05T19:33:00Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260905T194153Z",
+    "transcribed_at_utc": "2026-09-05T19:44:29Z"
+  },
+  "status": "success",
+  "error": null
+}

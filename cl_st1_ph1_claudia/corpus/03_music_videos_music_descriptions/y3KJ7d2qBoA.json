@@ -1,0 +1,38 @@
+{
+  "corpus_id": "y3KJ7d2qBoA",
+  "input_audio_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/y3KJ7d2qBoA.wav",
+  "text_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/y3KJ7d2qBoA.txt",
+  "json_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/y3KJ7d2qBoA.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260905T194851Z"
+  },
+  "description": {
+    "text": "The recording opens with a syncopated electric bassline playing a prominent, ascending pentatonic motif in a relaxed, mid-tempo 4/4 soul groove. Within a few beats, a crisp drum groove—utilizing subtle snare work and a steady hi-hat pattern—enters alongside rhythmic acoustic guitar strumming, establishing a warm, inviting musical foundation in a bright major key.\n\nA smooth male lead vocalist enters, delivering the verse melody with a warm, expressive timbre and precise articulation. Positioned centrally in the stereo mix with light, spacious reverb, the lead vocal guides the narrative tone of the piece. As the song progresses into the chorus, lush multi-part backing vocals join in, providing dynamic call-and-response harmonies that expand across the stereo field, creating a rich, multi-layered texture and an elevated dynamic level.\n\nFollowing a repeat of the verse-chorus cycle, the recording transitions into an instrumental bridge section where a reed instrument, possessing an accordion or melodica timbre, performs a melodic solo over the steady rhythm section of acoustic guitar, electric bass, and drums. This section adds melodic variety while maintaining the song’s driving rhythm.\n\nUpon returning from the bridge, the lead vocalist delivers the final verse and chorus with heightened emotional intensity and vocal ad-libs. The persistent backing harmonies continue to weave around the lead vocal line. The production maintains an organic, live-sounding aesthetic characterized by clear separation of instruments, dry rhythm section elements, and lush vocal spatialization. The overall mood remains consistently joyful, warm, and romantic. The piece concludes with a classic gradual fade-out as the vocalists repeat the primary hook over the continuous, cycling rhythm section.\n\nGENRES: soul, rhythm and blues, pop, acoustic soul"
+  },
+  "metadata": {
+    "youtube_id": "y3KJ7d2qBoA",
+    "title_extracted": null,
+    "corpus_id": "y3KJ7d2qBoA",
+    "uploader": "The Temptations",
+    "audio_file": "corpus/01_music_videos_audio/audio/y3KJ7d2qBoA.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5266736,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260905T193259Z",
+    "downloaded_at_utc": "2026-09-05T19:33:00Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260905T194851Z",
+    "generated_at_utc": "2026-09-05T19:54:10Z"
+  },
+  "status": "success",
+  "error": null
+}

@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ku7W0BZcxdw",
+  "input_audio_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ku7W0BZcxdw.wav",
+  "text_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ku7W0BZcxdw.txt",
+  "json_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/ku7W0BZcxdw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260905T194851Z"
+  },
+  "description": {
+    "text": "The recording opens with a vibrant, upbeat funk-soul groove in a steady four-four meter. A driving, syncopated bassline, rhythmically picked electric guitar, and punchy drum kit with prominent snare and open hi-hat patterns establish an immediate, danceable motion. Bright horn stabs from a brass section accent the upbeat before a soulful lead female vocal enters, displaying an expressive, raspy timbre with dynamic pitch bends and energetic phrasing.\n\nDuring the verses, the arrangement focuses on the tight rhythm section, keeping the texture clean while allowing the vocal narrative to stand out. Clean reverb effects give the centered lead vocal track room to breathe, while the horn section is panned widely across the stereo field to create a spacious mix. \n\nThe music seamlessly transitions into the chorus refrains, where multi-layered backing vocals enter to create a rich, call-and-response harmonic texture alongside the lead singer. The horn section becomes more assertive, delivering sharp stabs and melodic counter-lines that reinforce the syncopated groove. The harmony is built on a vamp-like, minor-mode chord progression that emphasizes rhythmic bounce over complex tonal shifts.\n\nAn instrumental interlude highlights the brass section, featuring bright trumpets and saxophones performing syncopated melodic phrases over the steady bass and drum groove. This section builds dynamically into an explosive vocal return marked by powerful, sustained high-register belting and intense ad-libs. \n\nThe concluding section cycles through repeated chorus hooks accompanied by continuous vocal improvisations, high vocal screams, and detailed brass embellishments. The energy remains consistently high as the dense arrangement plays out over the driving rhythm section toward a gradual fade-out. The overall production conveys a warm, classic analog aesthetic with an exuberant, theatrical, and sensual emotional tone.\n\nGENRES: Funk, Soul, Disco, R&B, Pop"
+  },
+  "metadata": {
+    "youtube_id": "ku7W0BZcxdw",
+    "title_extracted": null,
+    "corpus_id": "ku7W0BZcxdw",
+    "uploader": "Patti LaBelle",
+    "audio_file": "corpus/01_music_videos_audio/audio/ku7W0BZcxdw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7552322,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260905T193259Z",
+    "downloaded_at_utc": "2026-09-05T19:33:00Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260905T194851Z",
+    "generated_at_utc": "2026-09-05T19:50:36Z"
+  },
+  "status": "success",
+  "error": null
+}

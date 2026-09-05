@@ -1,0 +1,38 @@
+{
+  "corpus_id": "RD4TFzkY5F0",
+  "input_audio_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/RD4TFzkY5F0.wav",
+  "text_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/RD4TFzkY5F0.txt",
+  "json_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/RD4TFzkY5F0.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260905T194153Z"
+  },
+  "transcription": {
+    "text": "When the truth is found to be lies and all the joy within you dies Don't you want somebody to love? Don't you need somebody to love? Wouldn't you love somebody to love? You better find somebody to love. When the garden flowers, baby, are dead, yes, and your mind, your mind is so full of red Don't you want somebody to love? Don't you need somebody to love? Wouldn't you love somebody to love? You better find somebody to love. Your eyes, I say, your eyes may look like his Yeah, but in your head, baby, I'm afraid you don't know where it is Don't you want somebody to love? Don't you need somebody to love? Wouldn't you love somebody to love? You better find somebody to love. Tears are running, they're all running down your dress And your friends, baby, they treat you like a guest Don't you want somebody to love? Don't you need somebody to love? Wouldn't you love somebody to love? You better find somebody to love. Oh"
+  },
+  "metadata": {
+    "youtube_id": "RD4TFzkY5F0",
+    "title_extracted": null,
+    "corpus_id": "RD4TFzkY5F0",
+    "uploader": "Jefferson Airplane",
+    "audio_file": "corpus/01_music_videos_audio/audio/RD4TFzkY5F0.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 5595158,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260905T193259Z",
+    "downloaded_at_utc": "2026-09-05T19:33:00Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260905T194153Z",
+    "transcribed_at_utc": "2026-09-05T19:43:45Z"
+  },
+  "status": "success",
+  "error": null
+}

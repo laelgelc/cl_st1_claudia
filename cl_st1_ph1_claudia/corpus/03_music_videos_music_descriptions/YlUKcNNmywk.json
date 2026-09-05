@@ -1,0 +1,38 @@
+{
+  "corpus_id": "YlUKcNNmywk",
+  "input_audio_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/YlUKcNNmywk.wav",
+  "text_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/YlUKcNNmywk.txt",
+  "json_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/03_music_videos_music_descriptions/YlUKcNNmywk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_description_prompt_v1.md",
+    "run_id": "20260905T194851Z"
+  },
+  "description": {
+    "text": "The track opens with an intimate, fingerpicked acoustic guitar riff panned across the stereo field, quickly joined by a warm, rounded bass guitar line providing a low-end foundation. At 0:13, an acoustic drum kit enters with a steady, laid-back 4/4 mid-tempo groove featuring crisp snare rim/hits and light hi-hat accents. Simultaneously, a smooth male lead vocal enters, delivered with an expressive, close-miked timbre enhanced by subtle room reverb.\n\nAs the music transitions into the first chorus around 1:04, the overall dynamics elevate; the acoustic guitar shifts from delicate fingerpicking to energetic strumming, while lush, multi-part vocal harmonies join the lead line, widening the stereo image and thickening the harmonic texture. \n\nFollowing the chorus, the arrangement drops back to a softer dynamic level for the second verse, returning the focus to the clear fingerpicked acoustic guitar, melodic bassline, and solo lead vocal. The second chorus at 2:33 re-establishes the fuller dynamic, driven by emphatic strumming, active drum kit playing, and prominent backing vocals.\n\nAt 3:22, a melodic acoustic guitar solo takes center stage, featuring expressive slides, bends, and sustained notes supported by a rhythmic acoustic accompaniment and steady drum beat. The dynamic level briefly recedes at 4:04 into a sparse, reflective verse section before building into a powerful final chorus at 4:26. In this climax, the lead vocal becomes noticeably more intense and emotive, complemented by active drum fills and dense vocal layering. The track ends on a final acoustic guitar strum that decays naturally into silence.\n\nThe production is organic, warm, and acoustic-driven, utilizing dynamic contrast, clear instrumental separation, and subtle spatial reverb to convey a melancholic yet driving emotional quality.\n\nGENRES: Acoustic Rock, Alternative Rock, Singer-Songwriter, Indie Folk"
+  },
+  "metadata": {
+    "youtube_id": "YlUKcNNmywk",
+    "title_extracted": null,
+    "corpus_id": "YlUKcNNmywk",
+    "uploader": "Red Hot Chili Peppers",
+    "audio_file": "corpus/01_music_videos_audio/audio/YlUKcNNmywk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10275558,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260905T193259Z",
+    "downloaded_at_utc": "2026-09-05T19:33:00Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "generation_run_id": "20260905T194851Z",
+    "generated_at_utc": "2026-09-05T19:49:53Z"
+  },
+  "status": "success",
+  "error": null
+}

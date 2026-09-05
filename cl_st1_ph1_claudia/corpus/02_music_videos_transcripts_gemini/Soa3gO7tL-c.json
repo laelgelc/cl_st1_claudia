@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Soa3gO7tL-c",
+  "input_audio_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Soa3gO7tL-c.wav",
+  "text_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Soa3gO7tL-c.txt",
+  "json_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Soa3gO7tL-c.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260905T194153Z"
+  },
+  "transcription": {
+    "text": "I walk a lonely road, the only one that I have ever known. Don't know where it goes, but it's home to me, and I walk alone. I walk this empty street, on the Boulevard of Broken Dreams, where the city sleeps, and I'm the only one, and I walk alone. I walk alone, I walk alone. I walk alone, I walk a... My shadow's the only one that walks beside me. My shallow heart's the only thing that's beating. Sometimes I wish someone out there will find me. 'Til then I walk alone. Ah, ah, ah, ah, ah, ah, ah. I'm walking down the line that divides me somewhere in my mind, on the border line of the edge, and where I walk alone. Read between the lines of what's fucked up and everything's alright. Check my vital signs to know I'm still alive, and I walk alone. I walk alone, I walk alone. I walk alone, I walk a... My shadow's the only one that walks beside me. My shallow heart's the only thing that's beating. Sometimes I wish someone out there will find me. 'Til then I walk alone. Ah, ah, ah, ah, ah, ah, ah. I walk alone, I walk a... I walk this empty street, on the Boulevard of Broken Dreams, where the city sleeps, and I'm the only one, and I walk a... My shadow's the only one that walks beside me. My shallow heart's the only thing that's beating. Sometimes I wish someone out there will find me. 'Til then I walk alone."
+  },
+  "metadata": {
+    "youtube_id": "Soa3gO7tL-c",
+    "title_extracted": null,
+    "corpus_id": "Soa3gO7tL-c",
+    "uploader": "Green Day",
+    "audio_file": "corpus/01_music_videos_audio/audio/Soa3gO7tL-c.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 9204840,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260905T193259Z",
+    "downloaded_at_utc": "2026-09-05T19:33:00Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260905T194153Z",
+    "transcribed_at_utc": "2026-09-05T19:42:23Z"
+  },
+  "status": "success",
+  "error": null
+}

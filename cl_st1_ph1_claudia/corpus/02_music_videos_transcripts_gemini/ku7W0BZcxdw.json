@@ -1,0 +1,38 @@
+{
+  "corpus_id": "ku7W0BZcxdw",
+  "input_audio_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/ku7W0BZcxdw.wav",
+  "text_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ku7W0BZcxdw.txt",
+  "json_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/ku7W0BZcxdw.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260905T194153Z"
+  },
+  "transcription": {
+    "text": "Hey sister, go sister, soul sister, go sister \nHey sister, go sister, soul sister, go sister \n\nHe met Marmalade down in New Orleans \nStruttin' her stuff on the street \nShe said, \"Hello, hey Joe, you wanna give it a go?\" Yeah \n\nGitchi, gitchi, ya-ya, da-da \nGitchi, gitchi, ya-ya, ya\nMocca Chocolata, ya-ya \nCreole Lady Marmalade \n\nVoulez-vous coucher avec moi, ce soir? \nVoulez-vous coucher avec moi? \n\nSitting in her boudoir while he's drinking... \nA boy drank all that Black Satin wine \nOn the black satin sheet, where he started to freak \n\nGitchi, gitchi, ya-ya, da-da \nGitchi, gitchi, ya-ya, ya \nMocca Chocolata, ya-ya \nCreole Lady Marmalade \n\nVoulez-vous coucher avec moi, ce soir? \nVoulez-vous coucher avec moi? \n\nTouch of her skin feel as silk and smooth \nColor of white coffee and wine \nMade the savage beast inside roar 'til it cried \nMore, more, more \n\nNow he's back home doing nine to five \nLiving his gray flannel life \nBut when he turns off to sleep, old memories creep \nMore, more, more \n\nGitchi, gitchi, ya-ya, da-da \nGitchi, gitchi, ya-ya, here \nMocca Chocolata, ya-ya \nCreole Lady Marmalade \n\nVoulez-vous coucher avec moi, ce soir? \nVoulez-vous coucher avec moi? \nVoulez-vous coucher avec moi, ce soir? \nCreole Lady Marmalade \n\nVoulez-vous coucher avec moi, ce soir? \nVoulez-vous coucher avec moi? \nVoulez-vous coucher avec moi, ce soir? \nVoulez-vous coucher avec moi? \nVoulez-vous coucher avec moi, ce soir? \nVoulez-vous coucher avec moi? \nVoulez-vous coucher avec moi, ce soir? \nVoulez-vous coucher avec moi? \n\nGitchi, gitchi, ya-ya, da-da \nGitchi, gitchi, ya-ya, here \nMocca Chocolata, ya-ya \nGitchi, gitchi, ya-ya, da-da \nGitchi, gitchi, ya-ya..."
+  },
+  "metadata": {
+    "youtube_id": "ku7W0BZcxdw",
+    "title_extracted": null,
+    "corpus_id": "ku7W0BZcxdw",
+    "uploader": "Patti LaBelle",
+    "audio_file": "corpus/01_music_videos_audio/audio/ku7W0BZcxdw.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 7552322,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260905T193259Z",
+    "downloaded_at_utc": "2026-09-05T19:33:00Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260905T194153Z",
+    "transcribed_at_utc": "2026-09-05T19:43:17Z"
+  },
+  "status": "success",
+  "error": null
+}

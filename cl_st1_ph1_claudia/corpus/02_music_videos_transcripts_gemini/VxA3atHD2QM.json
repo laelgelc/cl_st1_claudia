@@ -1,0 +1,38 @@
+{
+  "corpus_id": "VxA3atHD2QM",
+  "input_audio_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/VxA3atHD2QM.wav",
+  "text_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/VxA3atHD2QM.txt",
+  "json_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/VxA3atHD2QM.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260905T194153Z"
+  },
+  "transcription": {
+    "text": "Hey! Well, I try to telephone, but I'm having trouble with the phone Crazy people line me up 'cause I wanna talk, yeah Well, every hip cat in the know that I do know You'd better take it easy 'cause the place is hot, huh! Don't do it, baby! Don't do it, baby! You got to give me some loving (give me some loving) Give me some loving (give me some loving) Give me some loving every day Hey! Well, I feel so good every time you're around You'd better take it easy 'cause the place is on fire Ain't no happy man ain't got no work to do We made it, baby, now I'm happy for you, and I'm Don't do it, baby! Don't do it, baby! You got to give me some loving (give me some loving) Give me some loving (give me some loving) Give me some loving every day Hey! Well, I feel so good every time you're around You'd better take it easy 'cause the place is on fire Ain't no happy man ain't got no work to do Now go on work like everybody should, I am Don't do it, baby! Don't do it, baby! You got to Give me some loving"
+  },
+  "metadata": {
+    "youtube_id": "VxA3atHD2QM",
+    "title_extracted": null,
+    "corpus_id": "VxA3atHD2QM",
+    "uploader": "GodzFire",
+    "audio_file": "corpus/01_music_videos_audio/audio/VxA3atHD2QM.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 4590570,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260905T193259Z",
+    "downloaded_at_utc": "2026-09-05T19:33:00Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260905T194153Z",
+    "transcribed_at_utc": "2026-09-05T19:44:01Z"
+  },
+  "status": "success",
+  "error": null
+}

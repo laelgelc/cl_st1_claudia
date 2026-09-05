@@ -1,0 +1,38 @@
+{
+  "corpus_id": "YQHsXMglC9A",
+  "input_audio_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/YQHsXMglC9A.wav",
+  "text_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/YQHsXMglC9A.txt",
+  "json_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/YQHsXMglC9A.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260905T194153Z"
+  },
+  "transcription": {
+    "text": "I just got here and I think I'm losing signal already. Hello? Can you hear me now? Sorry. I'm sorry, I've lost you. I I can't hear you. Sorry. Hello, it's me. I was wondering if after all these years you'd like to meet to go over everything. They say that time's supposed to heal ya, but I ain't done much healing. Hello, can you hear me? I'm in California dreaming about who we used to be when we were younger and free. I've forgotten how it felt before the world fell at our feet. There's such a difference between us and a million miles. Hello from the other side. I must have called a thousand times to tell you I'm sorry for everything that I've done, but when I call, you never seem to be home. Hello from the outside. At least I can say that I've tried to tell you I'm sorry for breaking your heart, but it don't matter, it clearly doesn't tear you apart anymore. Hello, how are you? It's so typical of me to talk about myself, I'm sorry. I hope that you're well. Did you ever make it out of that town where nothing ever happened? It's no secret that the both of us are running out of time. So hello from the other side. I must have called a thousand times to tell you I'm sorry for everything that I've done, but when I call, you never seem to be home. Hello from the outside. At least I can say that I've tried to tell you I'm sorry for breaking your heart, but it don't matter, it clearly doesn't tear you apart anymore. Anymore. Anymore. Anymore. Anymore. Hello from the other side. I must have called a thousand times to tell you I'm sorry for everything that I've done, but when I call, you never seem to be home. Hello from the outside. At least I can say that I've tried to tell you I'm sorry for breaking your heart, but it don't matter, it clearly doesn't tear you apart anymore."
+  },
+  "metadata": {
+    "youtube_id": "YQHsXMglC9A",
+    "title_extracted": null,
+    "corpus_id": "YQHsXMglC9A",
+    "uploader": "Adele",
+    "audio_file": "corpus/01_music_videos_audio/audio/YQHsXMglC9A.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11740830,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260905T193259Z",
+    "downloaded_at_utc": "2026-09-05T19:33:00Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260905T194153Z",
+    "transcribed_at_utc": "2026-09-05T19:42:08Z"
+  },
+  "status": "success",
+  "error": null
+}

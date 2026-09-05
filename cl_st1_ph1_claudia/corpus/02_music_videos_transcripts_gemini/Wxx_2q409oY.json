@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Wxx_2q409oY",
+  "input_audio_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Wxx_2q409oY.wav",
+  "text_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Wxx_2q409oY.txt",
+  "json_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Wxx_2q409oY.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260905T194153Z"
+  },
+  "transcription": {
+    "text": "Somewhere there's speaking\nIt's already coming in\nOh, and it's rising at the back of your mind\nYou never could get it\nUnless you were fed it\nNow you're here and you don't know why\n\nUnder skinned knees and the skid marks\nPast the places where you used to burn\nYou howl and listen\nListen and wait for the echoes of angels that won't return\n\nHe's everything you want\nHe's everything you need\nHe's everything inside of you that you wish you could be\nHe says all the right things at exactly the right time\nBut he means nothing to you and you don't know why\n\nYou're waiting for someone to put you together\nYou're waiting for someone to push you away\nThere's always another wound to discover\nThere's always something more you wish he'd say\n\nHe's everything you want\nHe's everything you need\nHe's everything inside of you that you wish you could be\nHe says all the right things at exactly the right time\nBut he means nothing to you and you don't know why\n\nAnd you'll just sit tight and watch it unwind\nIt's only what you're asking for\nAnd you'll be just fine with all of your time\nIt's only what you're waiting for\n\nOut of the island into the highway\nPast the places where you might have turned\nYou never did notice, you still hide away\nThe anger of angels that won't return\n\nHe's everything you want\nHe's everything you need\nHe's everything inside of you that you wish you could be\nHe says all the right things at exactly the right time\nBut he means nothing to you and you don't know why\n\nI am everything you want\nI am everything you need\nI am everything inside of you that you wish you could be\nI say all the right things at exactly the right time\nBut I mean nothing to you and I don't know why\n\nI don't know why\nWhy\nDon't know"
+  },
+  "metadata": {
+    "youtube_id": "Wxx_2q409oY",
+    "title_extracted": null,
+    "corpus_id": "Wxx_2q409oY",
+    "uploader": "Melopsittacus undulatus",
+    "audio_file": "corpus/01_music_videos_audio/audio/Wxx_2q409oY.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 8284216,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260905T193259Z",
+    "downloaded_at_utc": "2026-09-05T19:33:00Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260905T194153Z",
+    "transcribed_at_utc": "2026-09-05T19:45:03Z"
+  },
+  "status": "success",
+  "error": null
+}

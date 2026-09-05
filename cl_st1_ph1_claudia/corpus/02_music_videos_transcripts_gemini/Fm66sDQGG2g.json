@@ -1,0 +1,38 @@
+{
+  "corpus_id": "Fm66sDQGG2g",
+  "input_audio_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/Fm66sDQGG2g.wav",
+  "text_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Fm66sDQGG2g.txt",
+  "json_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/Fm66sDQGG2g.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260905T194153Z"
+  },
+  "transcription": {
+    "text": "In this dirty old part of the city Where the sun refused to shine People tell me there ain't no use in tryin' Now my girl, you're so young and pretty And one thing I know is true You'll be dead before your time is due I know Watch my daddy hit bed at night Watch his hair turnin' gray He's been workin' and slavin' his life away Oh yes, I know He's been workin' so hard Oh, I've been workin' too, baby Every night and day, yeah, yeah, yeah, yeah We gotta get out of this place If it's the last thing we ever do We gotta get out of this place Girl, there's a better life for me and you Now my girl, you're so young and pretty And one thing I know is true, yeah You'll be dead before your time is due I know it Watch my daddy hit bed at night Watch his hair turnin' gray He's been workin' and slavin' his life away I know he's been workin' so hard I've been workin' too, baby Every day, baby Woah! Yeah, yeah, yeah, yeah We gotta get out of this place If it's the last thing we ever do We gotta get out of this place Girl, there's a better life for me and you Somewhere, baby Somehow I know it, baby We gotta get out of this place If it's the last thing we ever do We gotta get out of this place Girl, there's a better life for me and you Believe me, baby I know it, baby You know it, too"
+  },
+  "metadata": {
+    "youtube_id": "Fm66sDQGG2g",
+    "title_extracted": null,
+    "corpus_id": "Fm66sDQGG2g",
+    "uploader": "EdPLAY",
+    "audio_file": "corpus/01_music_videos_audio/audio/Fm66sDQGG2g.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 6205936,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260905T193259Z",
+    "downloaded_at_utc": "2026-09-05T19:33:00Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260905T194153Z",
+    "transcribed_at_utc": "2026-09-05T19:44:15Z"
+  },
+  "status": "success",
+  "error": null
+}

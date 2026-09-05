@@ -1,0 +1,38 @@
+{
+  "corpus_id": "YlUKcNNmywk",
+  "input_audio_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/YlUKcNNmywk.wav",
+  "text_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/YlUKcNNmywk.txt",
+  "json_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/YlUKcNNmywk.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260905T194153Z"
+  },
+  "transcription": {
+    "text": "Psychic spies from China try to steal your mind's elation \nAnd little girls from Sweden dream of silver screen quotation \nAnd if you want these kind of dreams, it's Californication \n\nIt's the edge of the world and all of Western civilization \nThe sun may rise in the East, at least it settled in a final location \nIt's understood that Hollywood sells Californication \n\nPay your surgeon very well to break the spell of aging \nCelebrity skin, is this your chin, or are you always waging? \nFirstborn unicorn \nHardcore soft porn \nDream of Californication \nDream of Californication \n\nMarry me, girl, be my fairy to the world, be my very own constellation \nA teenage bride with a baby inside getting high on information \nAnd buy me a star on the boulevard, it's Californication \n\nSpace may be the final frontier, but it's made in a Hollywood basement \nAnd Cobain, can you hear the spheres singing songs off Station to Station? \nAnd Alderaan's not far away, it's Californication \n\nBorn and raised by those who praise control of population \nWell, everybody's been there, and I don't mean on vacation \nFirstborn unicorn \nHardcore soft porn \nDream of Californication \nDream of Californication \nDream of Californication \nDream of Californication \n\nDestruction leads to a very rough road, but it also breeds creation \nAnd earthquakes are to a girl's guitar, they're just another good vibration \nAnd tidal waves couldn't save the world from Californication \n\nPay your surgeon very well to break the spell of aging \nSicker than the rest, there is no test, but this is what you're craving \nFirstborn unicorn \nHardcore soft porn \nDream of Californication \nDream of Californication \nDream of Californication \nDream of Californication"
+  },
+  "metadata": {
+    "youtube_id": "YlUKcNNmywk",
+    "title_extracted": null,
+    "corpus_id": "YlUKcNNmywk",
+    "uploader": "Red Hot Chili Peppers",
+    "audio_file": "corpus/01_music_videos_audio/audio/YlUKcNNmywk.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 10275558,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260905T193259Z",
+    "downloaded_at_utc": "2026-09-05T19:33:00Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260905T194153Z",
+    "transcribed_at_utc": "2026-09-05T19:42:42Z"
+  },
+  "status": "success",
+  "error": null
+}

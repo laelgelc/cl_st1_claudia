@@ -1,0 +1,38 @@
+{
+  "corpus_id": "-T9vmaTI2LE",
+  "input_audio_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/01_music_videos_audio/audio/-T9vmaTI2LE.wav",
+  "text_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/-T9vmaTI2LE.txt",
+  "json_output_path": "/home/eyamrog/PycharmProjects/cl_st1_claudia/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/-T9vmaTI2LE.json",
+  "model": {
+    "model_name": "gemini-3.6-flash",
+    "prompt_file": "music_videos_transcription_prompts_v1.md",
+    "run_id": "20260905T194153Z"
+  },
+  "transcription": {
+    "text": "Looking at the devil Grinning at his grin Fingers start shaking I begin to run Bullets start chasing I begin to stop We begin to wrestle I was on the top I want to thank you for lettin' me be mice elf agin Thank you for lettin' me be mice elf agin Stiff walking collar Thumping in the bass Chit-chattin' trying Slapping in the face Thank you for the party But I could never stay Many things on my mind Words in the way I want to thank you for lettin' me be mice elf agin Thank you for lettin' me be mice elf agin Dance to the music All night long Everyday people Sing the simple song Mama so happy Mama start to cry Papa still singing \"You Can Make It If You Try\" I want to thank you for lettin' me be mice elf agin Thank you for lettin' me be mice elf agin I want to thank you for lettin' me be mice elf agin I want to thank you for lettin' me be mice elf agin Thank you for lettin' me be mice elf agin Thank you for lettin' me be mice elf agin I want to thank you for lettin' me be mice elf agin I want to thank you for lettin' me be mice elf agin I want to thank you for lettin' me be mice elf agin Thank you for lettin' me be mice elf agin Thank you for lettin' me be mice elf agin I want to thank you for lettin' me be mice elf agin Thank you for lettin' me be mice elf agin Thank you for lettin' me be mice elf agin I want to thank you for lettin' me be mice elf agin I want to thank you for lettin' me be mice elf agin Thank you for lettin' me be mice elf agin Thank you for lettin' me be mice elf agin"
+  },
+  "metadata": {
+    "youtube_id": "-T9vmaTI2LE",
+    "title_extracted": null,
+    "corpus_id": "-T9vmaTI2LE",
+    "uploader": "Sly & The Family Stone",
+    "audio_file": "corpus/01_music_videos_audio/audio/-T9vmaTI2LE.wav",
+    "audio_format": "wav",
+    "audio_codec": "pcm_s16le",
+    "audio_channels": 1,
+    "audio_sample_rate": 16000,
+    "audio_file_size_bytes": 11541696,
+    "download_status": "skipped_existing",
+    "metadata_status": "skipped_existing",
+    "download_run_id": "20260905T193259Z",
+    "downloaded_at_utc": "2026-09-05T19:33:00Z",
+    "download_duration_seconds": 0.0,
+    "yt_dlp_version": "2026.07.04"
+  },
+  "run": {
+    "transcription_run_id": "20260905T194153Z",
+    "transcribed_at_utc": "2026-09-05T19:42:59Z"
+  },
+  "status": "success",
+  "error": null
+}
