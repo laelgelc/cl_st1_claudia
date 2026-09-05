@@ -51,6 +51,8 @@ Outputs:
 - `corpus/00_sources/music_videos_problems.ndjson`
 - `corpus/00_sources/music_videos_problems.tsv`
 
+Note: It was challenging to fetch metadata for the second batch due to YouTube protective mechanisms.
+
 ## 3. Download music video audio
 
 ### Test mode
@@ -68,6 +70,8 @@ bash run_python_ec2.sh \
     --no-test-mode \
     --cookies env/youtube_cookies.txt
 ```
+
+Note: It was challenging to fetch metadata for the second batch due to YouTube protective mechanisms.
 
 ## 4. Transcribe music video audio with WhisperX
 
