@@ -37,7 +37,19 @@ Outputs:
 
 - `corpus/00_sources/music_videos.ndjson`
 - `corpus/00_sources/music_videos.tsv`
-- `corpus/00_sources/music_videos.xlsx`
+
+Second batch to fix the [missing music videos](https://github.com/laelgelc/cl_st1_claudia/blob/main/cl_st1_ph1_claudia/docs/input_data_issues_report.md):
+
+```shell script
+python fetch_youtube_metadata.py \
+    --input corpus/00_sources/music_videos_list_problems.ndjson \
+    --output corpus/00_sources/music_videos_problems.ndjson
+```
+
+Outputs:
+
+- `corpus/00_sources/music_videos_problems.ndjson`
+- `corpus/00_sources/music_videos_problems.tsv`
 
 ## 3. Download music video audio
 
