@@ -71,7 +71,7 @@ bash run_python_ec2.sh \
     --cookies env/youtube_cookies.txt
 ```
 
-Note: It was challenging to fetch metadata for the second batch due to YouTube protective mechanisms.
+Note: It was challenging to download music video audio for the second batch due to YouTube protective mechanisms.
 
 ## 4. Transcribe music video audio with WhisperX
 
