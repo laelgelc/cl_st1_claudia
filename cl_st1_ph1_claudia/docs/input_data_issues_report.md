@@ -19,12 +19,12 @@ The reasons are explained below.
 > Response:
 
 | Alternatives provided                       | Selected |
-|---------------------------------------------|----------|
-| https://www.youtube.com/watch?v=YQHsXMglC9A |          |
+|---------------------------------------------|:--------:|
+| https://www.youtube.com/watch?v=YQHsXMglC9A |   Yes    |
 
 | Alternatives provided                       | Selected |
-|---------------------------------------------|----------|
-| https://www.youtube.com/watch?v=Soa3gO7tL-c |          |
+|---------------------------------------------|:--------:|
+| https://www.youtube.com/watch?v=Soa3gO7tL-c |   Yes    |
 
 ### Duplicate entries
 
@@ -39,8 +39,8 @@ Songs 372 and 961 are duplicates.
 > Response:
 
 | Alternatives provided                       | Selected |
-|---------------------------------------------|----------|
-| https://www.youtube.com/watch?v=YlUKcNNmywk |          |
+|---------------------------------------------|:--------:|
+| https://www.youtube.com/watch?v=YlUKcNNmywk |   Yes    |
 
 ### Entry missing YouTube URL
 
@@ -53,8 +53,8 @@ Song 971's entry bears no YouTube URL.
 > Response:
 
 | Alternatives provided                       | Selected |
-|---------------------------------------------|----------|
-| https://www.youtube.com/watch?v=-T9vmaTI2LE |          |
+|---------------------------------------------|:--------:|
+| https://www.youtube.com/watch?v=-T9vmaTI2LE |   Yes    |
 
 ## Music video unavailable
 
@@ -77,75 +77,70 @@ The uploader (channel owner) of the following 11 songs made the music video unav
 > Response:
 
 | Alternatives provided                       | Selected |
-|---------------------------------------------|----------|
-| https://www.youtube.com/watch?v=t4LWIP7SAjY |          |
-| https://www.youtube.com/watch?v=Tn0-6n_dng4 |          |
-| https://www.youtube.com/watch?v=ku7W0BZcxdw |          |
+|---------------------------------------------|:--------:|
+| https://www.youtube.com/watch?v=t4LWIP7SAjY |    No    |
+| https://www.youtube.com/watch?v=Tn0-6n_dng4 |    No    |
+| https://www.youtube.com/watch?v=ku7W0BZcxdw |   Yes    |
 
 | Alternatives provided                       | Selected |
-|---------------------------------------------|----------|
-| https://www.youtube.com/watch?v=Ad36jrguvpI |          |
-| https://www.youtube.com/watch?v=Nq7XmWSbXqA |          |
+|---------------------------------------------|:--------:|
+| https://www.youtube.com/watch?v=Ad36jrguvpI |   Yes    |
+| https://www.youtube.com/watch?v=Nq7XmWSbXqA |    No    |
+| https://www.youtube.com/watch?v=_2sz_YwwwQ4 |    No    |
 
 | Alternatives provided                       | Selected |
-|---------------------------------------------|----------|
-| https://www.youtube.com/watch?v=RD4TFzkY5F0 |          |
-| https://www.youtube.com/watch?v=msqQo845908 |          |
-| https://www.youtube.com/watch?v=aBhuYwjASDI |          |
+|---------------------------------------------|:--------:|
+| https://www.youtube.com/watch?v=RD4TFzkY5F0 |   Yes    |
+| https://www.youtube.com/watch?v=msqQo845908 |    No    |
+| https://www.youtube.com/watch?v=aBhuYwjASDI |    No    |
 
 | Alternatives provided                       | Selected |
-|---------------------------------------------|----------|
-| https://www.youtube.com/watch?v=BuQ3PaFyb9A |          |
-| https://www.youtube.com/watch?v=RSIj_yhj7hg |          |
-| https://www.youtube.com/watch?v=VxA3atHD2QM |          |
+|---------------------------------------------|:--------:|
+| https://www.youtube.com/watch?v=BuQ3PaFyb9A |    No    |
+| https://www.youtube.com/watch?v=RSIj_yhj7hg |    No    |
+| https://www.youtube.com/watch?v=VxA3atHD2QM |   Yes    |
 
 | Alternatives provided                       | Selected |
-|---------------------------------------------|----------|
-| https://www.youtube.com/watch?v=Q3mgapAcVdU |          |
-| https://www.youtube.com/watch?v=PclhNB8BiwI |          |
-| https://www.youtube.com/watch?v=Fm66sDQGG2g |          |
+|---------------------------------------------|:--------:|
+| https://www.youtube.com/watch?v=Q3mgapAcVdU |    No    |
+| https://www.youtube.com/watch?v=PclhNB8BiwI |    No    |
+| https://www.youtube.com/watch?v=Fm66sDQGG2g |   Yes    |
 
 | Alternatives provided                       | Selected |
-|---------------------------------------------|----------|
-| https://www.youtube.com/watch?v=GqXyTNKlwTI |          |
-| https://www.youtube.com/watch?v=nkUOACGtGfA |          |
-| https://www.youtube.com/watch?v=L-JQ1q-13Ek |          |
+|---------------------------------------------|:--------:|
+| https://www.youtube.com/watch?v=GqXyTNKlwTI |    No    |
+| https://www.youtube.com/watch?v=nkUOACGtGfA |   Yes    |
+| https://www.youtube.com/watch?v=L-JQ1q-13Ek |    No    |
 
 | Alternatives provided                       | Selected |
-|---------------------------------------------|----------|
-| https://www.youtube.com/watch?v=RLTDpewIpfw |          |
-| https://www.youtube.com/watch?v=7j7rcSutYAQ |          |
-| https://www.youtube.com/watch?v=Er9xGRolrT4 |          |
+|---------------------------------------------|:--------:|
+| https://www.youtube.com/watch?v=RLTDpewIpfw |    No    |
+| https://www.youtube.com/watch?v=7j7rcSutYAQ |    No    |
+| https://www.youtube.com/watch?v=Er9xGRolrT4 |   Yes    |
 
 | Alternatives provided                       | Selected |
-|---------------------------------------------|----------|
-| https://www.youtube.com/watch?v=HKW0uelA6Dw |          |
-| https://www.youtube.com/watch?v=Wxx_2q409oY |          |
-| https://www.youtube.com/watch?v=dEdSJ7sPEL8 |          |
+|---------------------------------------------|:--------:|
+| https://www.youtube.com/watch?v=HKW0uelA6Dw |    No    |
+| https://www.youtube.com/watch?v=Wxx_2q409oY |   Yes    |
+| https://www.youtube.com/watch?v=dEdSJ7sPEL8 |    No    |
 
 | Alternatives provided                       | Selected |
-|---------------------------------------------|----------|
-| https://www.youtube.com/watch?v=UVwKxz0e2sE |          |
-| https://www.youtube.com/watch?v=JpU--sHqgUs |          |
-| https://www.youtube.com/watch?v=j7V2_jQ_QUU |          |
+|---------------------------------------------|:--------:|
+| https://www.youtube.com/watch?v=UVwKxz0e2sE |   Yes    |
+| https://www.youtube.com/watch?v=JpU--sHqgUs |    No    |
+| https://www.youtube.com/watch?v=j7V2_jQ_QUU |    No    |
 
 | Alternatives provided                       | Selected |
-|---------------------------------------------|----------|
-| https://www.youtube.com/watch?v=mMyHOK5-zbY |          |
-| https://www.youtube.com/watch?v=j2F4INQFjEI |          |
-| https://www.youtube.com/watch?v=M12HMjqqYa0 |          |
+|---------------------------------------------|:--------:|
+| https://www.youtube.com/watch?v=mMyHOK5-zbY |    No    |
+| https://www.youtube.com/watch?v=j2F4INQFjEI |   Yes    |
+| https://www.youtube.com/watch?v=M12HMjqqYa0 |    No    |
 
 | Alternatives provided                       | Selected |
-|---------------------------------------------|----------|
-| https://www.youtube.com/watch?v=y3KJ7d2qBoA |          |
-| https://www.youtube.com/watch?v=eepLY8J4E6c |          |
-| https://www.youtube.com/watch?v=-vPJ7zTDaUw |          |
-
-Extra music video:
-
-| Alternatives provided                       | Selected |
-|---------------------------------------------|----------|
-| https://www.youtube.com/watch?v=_2sz_YwwwQ4 |          |
+|---------------------------------------------|:--------:|
+| https://www.youtube.com/watch?v=y3KJ7d2qBoA |   Yes    |
+| https://www.youtube.com/watch?v=eepLY8J4E6c |    No    |
+| https://www.youtube.com/watch?v=-vPJ7zTDaUw |    No    |
 
 ## Response format
 
