@@ -157,3 +157,62 @@ YouTube URL with accessory parameters `list` and `start_radio` for song 1000:
 The clean YouTube URL for song 1000 only contains the essential `v` parameter which identifies the video ID.
 
 > https://www.youtube.com/watch?v=4xqo7D2k8HM
+
+# Appendices
+
+## Finding specific songs
+
+Finding specific songs in the dataset can be done by searching the main metadata document, `music_videos_dataset.xlsx`. You can find it:
+
+> - On the downloaded repository:
+> 
+>   - cl_st1_ph1_claudia/corpus/00_sources/music_videos_dataset.xlsx
+> 
+> - On the GitHub repository website:
+> 
+>   - https://github.com/laelgelc/cl_st1_claudia/blob/main/cl_st1_ph1_claudia/corpus/00_sources/music_videos_dataset.xlsx
+ 
+To download it from the GitHub repository website, go to the indicated URL, and click on the "Download raw file" button at the right of the page (a box with an arrow pointing down).
+
+Here are the specific located songs, as requested:
+
+> 021- Aretha Franklin, “Respect” - 1967 - Aretha Franklin | Respect | 1967 | Best Version
+> 
+> s3Itb17PXvw
+> 
+> https://www.youtube.com/watch?v=s3Itb17PXvw
+> 
+> Aretha Franklin | Respect | 1967 | Best Version
+> 
+> https://github.com/laelgelc/cl_st1_claudia/blob/main/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/s3Itb17PXvw.txt
+
+
+> 175- Run-D.M.C., “It’s Tricky” - 1983 - RUN DMC - It's Tricky (Official HD Video)
+> 
+> l-O5IHVhWj0
+> 
+> https://www.youtube.com/watch?v=l-O5IHVhWj0
+> 
+> RUN DMC - It's Tricky (Official HD Video)
+> 
+> https://github.com/laelgelc/cl_st1_claudia/blob/main/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/l-O5IHVhWj0.txt
+
+> 372- The Notorious B.I.G., “Big Poppa” - "Juicy" is the lead single from the 1994 debut album Ready to Die by The Notorious B.I.G. The track's production is built around a sample of the 1983 song "Juicy Fruit" by Mtume. The single reached No. 27 on the Billboard Hot 100. The autobiographical lyrics of The Notorious B.I.G. describe his past struggles and subsequent success in the hip hop industry. Directed by: Sean “Puffy” Combs - The Notorious B.I.G. - Juicy (Official Video) [4K]
+> 
+> _JZom_gVfuw
+> 
+> https://www.youtube.com/watch?v=_JZom_gVfuw
+> 
+> The Notorious B.I.G. - Juicy (Official Video) [4K]
+> 
+> https://github.com/laelgelc/cl_st1_claudia/blob/main/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/_JZom_gVfuw.txt
+
+> 837- Led Zeppelin, Heartbreaker - 1969 - In the film "The Song Remains the Same" there are only a few fragmentary clips of Zep performing the song "Heartbreaker" onstage. I've created a complete video for the song, complete with an ending, using onstage footage from elsewhere in the movie. - Led Zeppelin "Heartbreaker" live complete video
+> 
+> tg0C26QjDgw
+> 
+> https://www.youtube.com/watch?v=tg0C26QjDgw
+> 
+> "Led Zeppelin ""Heartbreaker"" live complete video"
+> 
+> https://github.com/laelgelc/cl_st1_claudia/blob/main/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/tg0C26QjDgw.txt
