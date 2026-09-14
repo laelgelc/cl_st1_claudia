@@ -178,41 +178,41 @@ Here are the specific located songs, as requested:
 
 > 021- Aretha Franklin, “Respect” - 1967 - Aretha Franklin | Respect | 1967 | Best Version
 > 
-> s3Itb17PXvw
+> - s3Itb17PXvw
 > 
-> https://www.youtube.com/watch?v=s3Itb17PXvw
+> - https://www.youtube.com/watch?v=s3Itb17PXvw
 > 
-> Aretha Franklin | Respect | 1967 | Best Version
+> - Aretha Franklin | Respect | 1967 | Best Version
 > 
-> https://github.com/laelgelc/cl_st1_claudia/blob/main/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/s3Itb17PXvw.txt
+> - https://github.com/laelgelc/cl_st1_claudia/blob/main/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/s3Itb17PXvw.txt
 
 
 > 175- Run-D.M.C., “It’s Tricky” - 1983 - RUN DMC - It's Tricky (Official HD Video)
 > 
-> l-O5IHVhWj0
+> - l-O5IHVhWj0
 > 
-> https://www.youtube.com/watch?v=l-O5IHVhWj0
+> - https://www.youtube.com/watch?v=l-O5IHVhWj0
 > 
-> RUN DMC - It's Tricky (Official HD Video)
+> - RUN DMC - It's Tricky (Official HD Video)
 > 
-> https://github.com/laelgelc/cl_st1_claudia/blob/main/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/l-O5IHVhWj0.txt
+> - https://github.com/laelgelc/cl_st1_claudia/blob/main/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/l-O5IHVhWj0.txt
 
 > 372- The Notorious B.I.G., “Big Poppa” - "Juicy" is the lead single from the 1994 debut album Ready to Die by The Notorious B.I.G. The track's production is built around a sample of the 1983 song "Juicy Fruit" by Mtume. The single reached No. 27 on the Billboard Hot 100. The autobiographical lyrics of The Notorious B.I.G. describe his past struggles and subsequent success in the hip hop industry. Directed by: Sean “Puffy” Combs - The Notorious B.I.G. - Juicy (Official Video) [4K]
 > 
-> _JZom_gVfuw
+> - _JZom_gVfuw
 > 
-> https://www.youtube.com/watch?v=_JZom_gVfuw
+> - https://www.youtube.com/watch?v=_JZom_gVfuw
 > 
-> The Notorious B.I.G. - Juicy (Official Video) [4K]
+> - The Notorious B.I.G. - Juicy (Official Video) [4K]
 > 
-> https://github.com/laelgelc/cl_st1_claudia/blob/main/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/_JZom_gVfuw.txt
+> - https://github.com/laelgelc/cl_st1_claudia/blob/main/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/_JZom_gVfuw.txt
 
 > 837- Led Zeppelin, Heartbreaker - 1969 - In the film "The Song Remains the Same" there are only a few fragmentary clips of Zep performing the song "Heartbreaker" onstage. I've created a complete video for the song, complete with an ending, using onstage footage from elsewhere in the movie. - Led Zeppelin "Heartbreaker" live complete video
 > 
-> tg0C26QjDgw
+> - tg0C26QjDgw
 > 
-> https://www.youtube.com/watch?v=tg0C26QjDgw
+> - https://www.youtube.com/watch?v=tg0C26QjDgw
 > 
-> "Led Zeppelin ""Heartbreaker"" live complete video"
+> - "Led Zeppelin ""Heartbreaker"" live complete video"
 > 
-> https://github.com/laelgelc/cl_st1_claudia/blob/main/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/tg0C26QjDgw.txt
+> - https://github.com/laelgelc/cl_st1_claudia/blob/main/cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/tg0C26QjDgw.txt
