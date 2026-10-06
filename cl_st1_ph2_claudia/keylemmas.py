@@ -54,7 +54,9 @@ VALID_TAG_PREFIXES = (
 STOPWORDS = {
     "be",
     "have",
-    "do"
+    "do",
+    "ai",
+    "bobby",
 }
 
 DECADE_FOLDER_RE = re.compile(r"^\d{4}$")

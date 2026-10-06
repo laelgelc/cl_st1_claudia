@@ -36,104 +36,22 @@ python select_kws_stratified.py \
 Output: `corpus/07_kw_selected/keywords.txt
 
 ```shell
-=== Group Keyword Quotas ===
-global_north_2023_09   → 40 keywords max
-global_north_2023_10   → 40 keywords max
-global_north_2023_11   → 40 keywords max
-global_north_2023_12   → 40 keywords max
-global_north_2024_01   → 40 keywords max
-global_north_2024_02   → 40 keywords max
-global_north_2024_03   → 40 keywords max
-global_north_2024_04   → 40 keywords max
-global_north_2024_05   → 40 keywords max
-global_north_2024_06   → 40 keywords max
-global_north_2024_07   → 40 keywords max
-global_north_2024_08   → 40 keywords max
-global_north_2024_09   → 40 keywords max
-global_north_2024_10   → 40 keywords max
-global_north_2024_11   → 40 keywords max
-global_north_2024_12   → 40 keywords max
-global_north_2025_01   → 40 keywords max
-global_north_2025_02   → 40 keywords max
-global_north_2025_03   → 40 keywords max
-global_north_2025_04   → 40 keywords max
-global_north_2025_05   → 40 keywords max
-global_north_2025_06   → 40 keywords max
-global_south_2023_09   → 40 keywords max
-global_south_2023_10   → 40 keywords max
-global_south_2023_11   → 40 keywords max
-global_south_2023_12   → 40 keywords max
-global_south_2024_01   → 40 keywords max
-global_south_2024_02   → 40 keywords max
-global_south_2024_03   → 40 keywords max
-global_south_2024_04   → 40 keywords max
-global_south_2024_05   → 40 keywords max
-global_south_2024_06   → 40 keywords max
-global_south_2024_07   → 40 keywords max
-global_south_2024_08   → 40 keywords max
-global_south_2024_09   → 40 keywords max
-global_south_2024_10   → 40 keywords max
-global_south_2024_11   → 40 keywords max
-global_south_2024_12   → 40 keywords max
-global_south_2025_01   → 40 keywords max
-global_south_2025_02   → 40 keywords max
-global_south_2025_03   → 40 keywords max
-global_south_2025_04   → 40 keywords max
-global_south_2025_05   → 40 keywords max
-global_south_2025_06   → 40 keywords max
-============================
+=== Decade Keyword Quotas ===
+2000   → 50 keywords max
+2010   → 50 keywords max
+2020   → 50 keywords max
+=============================
 
-global_north_2023_09   → selected 40/40 from 455 available POSKW lemmas
-global_north_2023_10   → selected 40/40 from 475 available POSKW lemmas
-global_north_2023_11   → selected 40/40 from 347 available POSKW lemmas
-global_north_2023_12   → selected 40/40 from 342 available POSKW lemmas
-global_north_2024_01   → selected 40/40 from 315 available POSKW lemmas
-global_north_2024_02   → selected 40/40 from 326 available POSKW lemmas
-global_north_2024_03   → selected 40/40 from 380 available POSKW lemmas
-global_north_2024_04   → selected 40/40 from 375 available POSKW lemmas
-global_north_2024_05   → selected 40/40 from 413 available POSKW lemmas
-global_north_2024_06   → selected 40/40 from 307 available POSKW lemmas
-global_north_2024_07   → selected 40/40 from 296 available POSKW lemmas
-global_north_2024_08   → selected 40/40 from 279 available POSKW lemmas
-global_north_2024_09   → selected 40/40 from 289 available POSKW lemmas
-global_north_2024_10   → selected 40/40 from 363 available POSKW lemmas
-global_north_2024_11   → selected 40/40 from 359 available POSKW lemmas
-global_north_2024_12   → selected 40/40 from 308 available POSKW lemmas
-global_north_2025_01   → selected 40/40 from 383 available POSKW lemmas
-global_north_2025_02   → selected 40/40 from 433 available POSKW lemmas
-global_north_2025_03   → selected 40/40 from 425 available POSKW lemmas
-global_north_2025_04   → selected 40/40 from 363 available POSKW lemmas
-global_north_2025_05   → selected 40/40 from 436 available POSKW lemmas
-global_north_2025_06   → selected 40/40 from 477 available POSKW lemmas
-global_south_2023_09   → selected 40/40 from 248 available POSKW lemmas
-global_south_2023_10   → selected 40/40 from 379 available POSKW lemmas
-global_south_2023_11   → selected 40/40 from 301 available POSKW lemmas
-global_south_2023_12   → selected 40/40 from 362 available POSKW lemmas
-global_south_2024_01   → selected 40/40 from 321 available POSKW lemmas
-global_south_2024_02   → selected 40/40 from 237 available POSKW lemmas
-global_south_2024_03   → selected 40/40 from 262 available POSKW lemmas
-global_south_2024_04   → selected 40/40 from 249 available POSKW lemmas
-global_south_2024_05   → selected 40/40 from 250 available POSKW lemmas
-global_south_2024_06   → selected 40/40 from 221 available POSKW lemmas
-global_south_2024_07   → selected 40/40 from 265 available POSKW lemmas
-global_south_2024_08   → selected 40/40 from 334 available POSKW lemmas
-global_south_2024_09   → selected 40/40 from 327 available POSKW lemmas
-global_south_2024_10   → selected 40/40 from 412 available POSKW lemmas
-global_south_2024_11   → selected 40/40 from 346 available POSKW lemmas
-global_south_2024_12   → selected 40/40 from 293 available POSKW lemmas
-global_south_2025_01   → selected 40/40 from 350 available POSKW lemmas
-global_south_2025_02   → selected 40/40 from 387 available POSKW lemmas
-global_south_2025_03   → selected 40/40 from 333 available POSKW lemmas
-global_south_2025_04   → selected 40/40 from 274 available POSKW lemmas
-global_south_2025_05   → selected 40/40 from 368 available POSKW lemmas
-global_south_2025_06   → selected 40/40 from 438 available POSKW lemmas
+2000   → selected 45/50 from 45 available POSKW lemmas
+2010   → selected 12/50 from 12 available POSKW lemmas
+2020   → selected 23/50 from 23 available POSKW lemmas
 
-Total consolidated keywords before de-duplication: 1760
-Unique keywords after de-duplication: 1041
-Duplicates removed: 719
+Total consolidated keywords before de-duplication: 80
+Unique keywords after de-duplication: 80
+Duplicates removed: 0
 
-Final unique keywords written to: corpus/07_kw_selected/keywords.txt
-Final unique keyword count: 1041
+Final unique keywords written to: corpus/09_kw_selected/keywords.txt
+Final unique keyword count: 80
 ```
 
 ## 4. Build binary keyword columns
