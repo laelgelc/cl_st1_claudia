@@ -17,7 +17,7 @@ Expected inputs:
     factors/f<n>_pos.txt
     factors/f<n>_neg.txt
     file_ids.txt
-    corpus/07_tagged/<Decade>/<Commercial ID>.txt
+    corpus/07_tagged/<Decade>/<Music video ID>.txt
 
 Expected file_ids.txt format:
     No header
@@ -26,7 +26,7 @@ Expected file_ids.txt format:
         file_id path
 
 Example:
-    t000001 1950/tv_com_1950_1.txt
+    t000001 2000/001.txt
 
 Outputs:
     examples/f<n>_pos/*.tex
@@ -85,7 +85,7 @@ def parse_args() -> argparse.Namespace:
         "--project",
         default=DEFAULT_PROJECT,
         help=(
-            "Project name, e.g. cl_st1_ph2_andrea or cl_st1_ph3_andrea. "
+            "Project name, e.g. cl_st1_ph2_claudia or cl_st1_ph3_claudia. "
             "Default: current directory name."
         ),
     )
