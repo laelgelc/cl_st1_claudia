@@ -18,8 +18,8 @@ Output: `corpus/05_tagged/<group>/`
 
 ```shell
 python keylemmas.py \
-  --input corpus/05_tagged \
-  --output corpus/06_keylemmas \
+  --input corpus/07_tagged \
+  --output corpus/08_keylemmas \
   --cutoff 3
 ```
 
