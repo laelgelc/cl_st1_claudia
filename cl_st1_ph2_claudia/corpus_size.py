@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-Calculate corpus size for the tagged commercial corpus.
+Calculate corpus size for the tagged music video corpus.
 
 Expected input structure:
-    corpus/07_tagged/<Decade>/<Commercial ID>.txt
+    corpus/07_tagged/<Decade>/<Music video ID>.txt
 
 Example:
-    corpus/07_tagged/1950/tv_com_1950_1.txt
-    corpus/07_tagged/1960/tv_com_1960_1.txt
+    corpus/07_tagged/2000/001.txt
+    corpus/07_tagged/2010/005.txt
 
 Expected tagged-file format:
     word<TAB>tag<TAB>lemma
