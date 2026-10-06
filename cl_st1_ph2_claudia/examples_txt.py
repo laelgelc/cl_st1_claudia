@@ -18,10 +18,10 @@ Expected inputs:
     sas/output_<project>/means_decade_f<n>.tsv
     file_ids.txt
     examples/score_details.txt
-    corpus/07_tagged/<Decade>/<Commercial ID>.txt
-    corpus/commercial_verbal/<Decade>/<Commercial ID>.txt
+    corpus/07_tagged/<Decade>/<Music video ID>.txt
+    corpus/01_music_videos_transcripts/<Decade>/<Music video ID>.txt
         or
-    corpus/commercial_visual/<Decade>/<Commercial ID>.txt
+    corpus/01_music_videos_transcripts/<Decade>/<Music video ID>.txt
 
 Expected file_ids.txt format:
     No header
@@ -30,7 +30,7 @@ Expected file_ids.txt format:
         file_id path
 
 Example:
-    t000001 1950/tv_com_1950_1.txt
+    t000001 2000/001.txt
 
 Outputs:
     examples_txt/f<n>_<pole>/f<n>_<pole>_001.txt
@@ -70,7 +70,7 @@ def parse_args() -> argparse.Namespace:
         "--project",
         default=DEFAULT_PROJECT,
         help=(
-            "Project name, e.g. cl_st1_ph2_andrea or cl_st1_ph3_andrea. "
+            "Project name, e.g. cl_st1_ph2_claudia or cl_st1_ph3_claudia. "
             "Default: current directory name."
         ),
     )
@@ -92,8 +92,8 @@ def parse_args() -> argparse.Namespace:
         default=None,
         help=(
             "Full-text corpus root. "
-            "Default: corpus/commercial_verbal for phase 2, "
-            "corpus/commercial_visual for phase 3 if present."
+            "Default: corpus/01_music_videos_transcripts for phase 2, "
+            "corpus/01_music_videos_transcripts for phase 3 if present."
         ),
     )
     parser.add_argument(
@@ -140,8 +140,8 @@ def resolve_fulltext_root(project: str, fulltext_root_arg: str | None) -> Path:
     if fulltext_root_arg is not None:
         return Path(fulltext_root_arg)
 
-    visual_root = Path("corpus/commercial_visual")
-    verbal_root = Path("corpus/commercial_verbal")
+    visual_root = Path("corpus/01_music_videos_transcripts")
+    verbal_root = Path("corpus/01_music_videos_transcripts")
 
     if "ph3" in project and visual_root.exists():
         return visual_root
@@ -157,7 +157,7 @@ def resolve_fulltext_root(project: str, fulltext_root_arg: str | None) -> Path:
 
     raise FileNotFoundError(
         "Could not infer full-text corpus root. Expected one of: "
-        "corpus/commercial_visual or corpus/commercial_verbal. "
+        "corpus/01_music_videos_transcripts or corpus/01_music_videos_transcripts. "
         "Alternatively, pass --fulltext-root."
     )
 
