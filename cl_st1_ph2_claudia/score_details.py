@@ -20,7 +20,7 @@ Expected file_ids.txt format:
         file_id path
 
 Example:
-    t000001 1950/tv_com_1950_1.txt
+    t000001 2000/001.txt
 
 Output:
     examples/score_details.txt
@@ -59,7 +59,7 @@ def parse_args() -> argparse.Namespace:
         "--project",
         default=DEFAULT_PROJECT,
         help=(
-            "Project name, e.g. cl_st1_ph2_andrea or cl_st1_ph3_andrea. "
+            "Project name, e.g. cl_st1_ph2_claudia or cl_st1_ph3_claudia. "
             "Default: current directory name."
         ),
     )
