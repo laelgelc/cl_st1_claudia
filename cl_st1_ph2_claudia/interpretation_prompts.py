@@ -56,7 +56,7 @@ def parse_args() -> argparse.Namespace:
         "--project",
         default=DEFAULT_PROJECT,
         help=(
-            "Project name, e.g. cl_st1_ph2_andrea or cl_st1_ph3_andrea. "
+            "Project name, e.g. cl_st1_ph2_claudia. "
             "Default: current directory name."
         ),
     )
@@ -120,19 +120,21 @@ def phase_description(project: str) -> str:
     """Return a phase-specific description for the current project."""
     if "ph2" in project:
         return (
-            "This phase analyses the commercial verbal subcorpus: transcript texts "
-            "representing the spoken/audio-verbal content of the selected television commercials."
+            "This phase analyses the verbal transcript subcorpus: textual transcripts "
+            "of the sung and/or spoken verbal content associated with the selected "
+            "music videos."
         )
 
     if "ph3" in project:
         return (
-            "This phase analyses the commercial visual subcorpus: textual descriptions "
-            "of the visual content of the selected television commercials."
+            "This phase analyses the visual-description subcorpus: textual descriptions "
+            "of the visual content of the selected music videos."
         )
 
     return (
-        "This phase analyses one of the commercial subcorpora: either transcript texts "
-        "of spoken/audio-verbal content or textual descriptions of visual content."
+        "This phase analyses one of the music-video subcorpora: either textual "
+        "transcripts of sung/spoken verbal content or textual descriptions of visual "
+        "content."
     )
 
 
@@ -141,21 +143,17 @@ def build_system_prompt(project: str) -> str:
     return f"""You are a corpus linguist specialising in Lexical Multi-Dimensional Analysis (LMDA).
 Your task is to interpret a single factor pole as a discourse dimension.
 
-The corpus consists of selected television-commercial texts organised by decade.
-The dataset is a balanced sample of commercials from the 1950s through the 2020s,
-with the same number of selected commercials in each decade.
+The corpus consists of selected music-video-related texts organised by decade.
+The dataset is a curated sample of music videos and associated textual data. The
+texts analysed here should be interpreted as evidence of the lexical discourse
+patterns present in this phase of the project, not as complete evidence of all
+musical, sonic, or visual meaning.
 
 {phase_description(project)}
 
-The analysis is applied to decade-based strata:
-• 1950s
-• 1960s
-• 1970s
-• 1980s
-• 1990s
-• 2000s
-• 2010s
-• 2020s
+The analysis is applied to decade-based strata. Use the decade scores provided
+in the mean-score table for each factor as the authoritative list of decades
+included in the current analysis.
 
 Your interpretation must identify the discourses encoded at this pole, taking into account:
 • lexical loadings, which represent the full analysed subcorpus;
