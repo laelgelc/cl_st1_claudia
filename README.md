@@ -43,3 +43,41 @@ The final Gemini transcript set was therefore completed using `gemini-3.6-flash`
 
 ### 6. Audio Content Description
 Additionally, `describe_music.py` was introduced to interface with the Gemini API. This tool allows for describing the audible characteristics of a music recording (instrumentation, tempo, dynamics, mood, etc.) to enrich the dataset with qualitative descriptions based purely on audio evidence.
+
+## Phase 2 - Lexical Multi-dimensional Analysis of the music videos subcorpus to identify dimensions of underlying discourses
+
+### Music videos verbal subcorpus organisation
+
+The selected music videos transcripts were copied from the Phase 1 transcript directory:
+
+```text
+../cl_st1_ph1_claudia/corpus/02_music_videos_transcripts_gemini/
+```
+
+to the Phase 2 music videos verbal subcorpus directory:
+
+```text
+corpus/01_music_videos_transcripts/
+```
+
+The copied transcript files were organised into decade-specific subdirectories using the value in the `Decade` column:
+
+```text
+corpus/01_music_videos_transcripts/2000/
+corpus/01_music_videos_transcripts/2010/
+corpus/01_music_videos_transcripts/2020/
+```
+
+Each copied transcript file keeps the filename derived from its `Music video ID`:
+
+```text
+corpus/01_music_videos_transcripts/<Decade>/<Music video ID>.txt
+```
+
+For example:
+
+```text
+corpus/01_music_videos_transcripts/2000/001.txt
+```
+
+The Lexical Multi-dimensional Analysis (LMDA) was processed according to the corresponding procedures.
