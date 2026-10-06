@@ -1,0 +1,214 @@
+You are a corpus linguist specialising in Lexical Multi-Dimensional Analysis (LMDA).
+Your task is to interpret a single factor pole as a discourse dimension.
+
+The corpus consists of selected music-video-related texts organised by decade.
+The dataset is a curated sample of music videos and associated textual data. The
+texts analysed here should be interpreted as evidence of the lexical discourse
+patterns present in this phase of the project, not as complete evidence of all
+musical, sonic, or visual meaning.
+
+This phase analyses the verbal transcript subcorpus: textual transcripts of the sung and/or spoken verbal content associated with the selected music videos.
+
+The analysis is applied to decade-based strata. Use the decade scores provided
+in the mean-score table for each factor as the authoritative list of decades
+included in the current analysis.
+
+Your interpretation must identify the discourses encoded at this pole, taking into account:
+• lexical loadings, which represent the full analysed subcorpus;
+• example excerpts, which illustrate high-scoring texts at this pole;
+• the decades that score most strongly at this pole.
+
+
+Interpret Factor f4 (pos) as a discourse dimension.
+Propose possible labels for this pole only and justify them.
+
+Base your interpretation on:
+• Mean decade scores. For positive poles, consider the highest-scoring decades in the table. For negative poles, consider the lowest-scoring decades; these may be the lowest positive scores or the most negative scores if there are any.
+• Factor loadings.
+• Example excerpts from high-scoring texts.
+• The loading words that appear in these examples.
+• Which decades appear to drive this pole.
+• Diachronic tendencies suggested by the decade scores.
+
+Do not offer a "versus" interpretation of the opposite pole.
+Focus on this single pole only.
+
+Give equal weight to the loadings and the examples. Remember that loadings represent the full analysed subcorpus, whereas the excerpts are only a limited set of high-scoring samples.
+
+
+=== MEAN DECADE SCORES ===
+Effect	decade	N	Mean fac4	SD fac4
+decade	2000	269	0.18959108	0.65028942
+decade	2010	529	0.22684310	0.65536658
+decade	2020	189	0.17460317	0.73382594
+
+=== FACTOR LOADINGS (f4_pos) ===
+variables loading on this pole = 16
+stupid (.91), wake (.67), road (.55), (part (.53)), (second (.51)), sad (.49), (cloud (.44)), save (.42), (stare (.40)), (job (.39)), somebody (.38), (phone (.37)), (step (.36)), (cool (.33)), grow (.33), (talk (.32))
+
+=== EXAMPLE EXCERPTS ===
+
+===== EXCERPT: f4_pos_001.txt (text ID t000559) =====
+Text ID: t000559
+Decade: 2010
+File:   corpus/01_music_videos_transcripts/2010/605.txt
+
+Score (f4_pos): 4
+Loading words (f4_pos), N=4: stupid, road, somebody, grow
+If you having girl problems, I feel bad for you, son I got 99 problems, but a bitch ain't one I got the rap patrol on the patrol Fools that want to make sure my casket's closed Rap critics say he's money, cash, hoes From the hood, stupid, what type of facts are those? If you grew up with holes in your Zapatos You'd celebrate the minute you was having dough I'm like, "Fuck critics, you can kiss my whole asshole If you don't like my lyrics, you can press fast forward" Got beef with radio 'cause they don't play they show They don't play my hits, well, I don't give a shit, so Rap mags try to use my black ass So advertisers can give 'em more cash for ads, fuckers I don't know what you take me as Or understand the intelligence that Jay-Z has I'm from rags to riches, nigga, I ain't dumb I got 99 problems, but a bitch ain't one, hit me 99 problems, but a bitch ain't one If you having girl problems, I feel bad for you, son I got 99 problems, but a bitch ain't one, hit me The year is '94 and in my trunk is raw In my rearview mirror is the motherfuckin' law Got two choices, y'all, pull over the car or Bounce on the devil, put the pedal to the floor I ain't trying to see no highway chase with Jay Plus I got a few dollars, I can fight the case So I pull over to the side of the road, I heard "Son, do you know why I'm stopping you for?" "'Cause I'm young and I'm Black and my hat's real low? Or do I look like a mind reader, sir? I don't know Am I under arrest or should I guess some more?" "Well, you was doing 55 in a 54 License and registration and step out of the car Are you carrying a weapon on you? I know a lot of you are" "I ain't stepping out of shit, all my papers legit" "Well, do you mind if I look around the car a little bit?" "Well, my glove compartment is locked, so is the trunk in the back And I know my rights, so you gonna need a warrant for that" "Aren't you sharp as a tack? You some type of lawyer or something, somebody important or something?" "Well, I ain't passed the bar, but I know a little bit Enough that you won't illegally search my shit" "Well, we'll see how smart you are when the K-9 come" I got 99 problems, but a bitch ain't one, hit me 99 problems, but a bitch ain't one If you having girl problems, I feel bad for you, son I got 99 problems, but a bitch ain't one, hit me 99 problems, but a bitch ain't one If you having girl problems, I feel bad for you, son I got 99 problems, but a bitch ain't one, hit me Now once upon a time, not too long ago A nigga like myself had to strong arm a hoe This is not a hoe in the sense of having a pussy But a bitch nigga having a bitch tendency Trying to push me I tried to ignore him, talked to the Lord Pray for him, but some fools just love to perform You know the type, loud as a motorbike But wouldn't bust a grape in a fruit fight The only thing that's gonna happen is I'm gonna get to clapping And he and his boys gonna be yapping to the captain And there I go trapped in the Kit Kat again Back through the system with the riff-raff again Fiends on the floor scratching again Paparazzis with their cameras snapping them D.A. try to give a nigga the shaft again Half a mill for bail 'cause I'm African All because the fool was harassing them Trying to play the boy like he sacrilege But ain't nothing sweet about whole wheat I got 99 problems, being a bitch ain't one, hit me 99 problems, but a bitch ain't one If you having girl problems, I feel bad for you, son I got 99 problems, but a bitch ain't one, hit me 99 problems, but a bitch ain't one If you having girl problems, I feel bad for you, son I got 99 problems, but a bitch ain't one, hit me Woo! Woo! Having girl problems, I feel bad for you, son I got 99 problems and a bitch ain't one, haha You crazy for this one, Rick! It's your boy!
+
+--- Loading words for this example (pos): stupid, road, somebody, grow
+
+
+===== EXCERPT: f4_pos_002.txt (text ID t000785) =====
+Text ID: t000785
+Decade: 2010
+File:   corpus/01_music_videos_transcripts/2010/951.txt
+
+Score (f4_pos): 3
+Loading words (f4_pos), N=3: sad, save, somebody
+I'm so happy to be here tonight. So glad to be in your wonderful city. And I have a little message for you. And I want to tell every woman and every man tonight: Did you ever need someone to love? Did you ever have somebody to love? Did you ever have somebody to understand? Did you ever have someone to need your love all the time? Someone that's with you when you're up? Somebody's with you when you're down? If you had yourself somebody like this, you better hold on to them. 'Cause let me tell you something: Sometimes you get what you want, and you lose what you have. And there's a song I sing, and I believe if everybody was to sing this song, you'd save the whole world. Listen to me.  Everybody needs somebody Everybody wants somebody to love Someone to hug Sugar to kiss Baby to miss now Baby to tease Sometime to please And I need you, you, you And I need you, you, you In the morning, baby You, you, you When the sun goes down You, you, you Ain't nobody around, sugar You, you, you Oh, listen to me Sometimes I feel like I feel a little sad inside My baby mistreats me And I can't get her in the mood But I need you To see me through, sugar Someone to hold my hand When I feel a little lonely I need you to say yeah I need everybody to say yeah I need somebody to say yeah Yeah, yeah Oh, my baby I just want one woman to stand up tonight and say, "I love you." Is there somebody here with me tonight? And I just want everybody to say, "I love you." I want to hear you say, "I love you." I just need somebody to lean on
+
+--- Loading words for this example (pos): sad, save, somebody
+
+
+===== EXCERPT: f4_pos_003.txt (text ID t000592) =====
+Text ID: t000592
+Decade: 2010
+File:   corpus/01_music_videos_transcripts/2010/649.txt
+
+Score (f4_pos): 3
+Loading words (f4_pos), N=3: wake, sad, somebody
+I read the news today, oh boy About a lucky man who made the grade And though the news was rather sad Well, I just had to laugh I saw the photograph He blew his mind out in a car He didn't notice that the lights had changed A crowd of people stood and stared They'd seen his face before Nobody was really sure if he was from the House of Lords I saw a film today, oh boy The English Army had just won the war A crowd of people turned away But I just had to look Having read the book I'd love to turn you Woke up, fell out of bed Dragged a comb across my head Found my way downstairs and drank a cup And looking up, I noticed I was late Found my coat and grabbed my hat Made the bus in seconds flat Found my way upstairs and had a smoke And somebody spoke and I went into a dream Ah, ah, ah, ah I read the news today, oh boy 4,000 holes in Blackburn, Lancashire And though the holes were rather small They had to count them all Now they know how many holes it takes to fill the Albert Hall I'd love to turn you
+
+--- Loading words for this example (pos): wake, sad, somebody
+
+
+===== EXCERPT: f4_pos_004.txt (text ID t000656) =====
+Text ID: t000656
+Decade: 2010
+File:   corpus/01_music_videos_transcripts/2010/741.txt
+
+Score (f4_pos): 2
+Loading words (f4_pos), N=2: road, somebody
+Sometimes in our lives We all have pain We all have sorrow But if we are wise We know that there's Always tomorrow Lean on me When you're not strong And I'll be your friend I'll help you carry on For it won't be long 'Til I'm gonna need Somebody to lean on Please swallow your pride If I have things You need to borrow For no one can fill Those of your needs That you won't let show You just call on me brother When you need a hand We all need somebody to lean on I just might have a problem That you'll understand We all need somebody to lean on Lean on me When you're not strong And I'll be your friend I'll help you carry on For it won't be long 'Til I'm gonna need Somebody to lean on You just call on me brother When you need a hand We all need somebody to lean on I just might have a problem That you'll understand We all need somebody to lean on If there is a load You have to bear That you can't carry I'm right up the road I'll share your load If you just call me Call me If you need a friend Call me Call me If you need a friend Call me Call me If you ever need a friend Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me Call me
+
+--- Loading words for this example (pos): road, somebody
+
+
+===== EXCERPT: f4_pos_005.txt (text ID t000620) =====
+Text ID: t000620
+Decade: 2010
+File:   corpus/01_music_videos_transcripts/2010/686.txt
+
+Score (f4_pos): 2
+Loading words (f4_pos), N=2: wake, save
+Wake up Maggie I think I got something to say to you It's late September and I really should be back at school I know I keep you amused But I feel I'm being used Oh Maggie I couldn't have tried any more You led me away from home Just to save you from being alone You stole my heart and that's what really hurts The morning sun when it's in your face really shows your age But that don't worry me none in my eyes you're everything I laugh at all of your jokes My love you didn't need to coax Oh Maggie I couldn't have tried any more You led me away from home 'Cause you didn't want to be alone You stole my heart I couldn't leave you if I tried All I needed was a friend to lend a guiding hand But you turned into a lover and mother what a lover you wore me out All you did was wreck my bed And in the morning kick me in the head Oh Maggie I couldn't have tried any more You led me away from home 'Cause you didn't want to be alone You stole my heart I couldn't leave you if I tried I suppose I could collect my books and get on back to school Or steal my daddy's cue and make a living out of playing pool Or find myself a rock and roll band That needs a helping hand Oh Maggie I wish I'd never seen your face You made a first-class fool out of me But I'm as blind as a fool can be You stole my heart but I love you anyway Maggie I wish I'd never seen your face I'll get on back home one of these days
+
+--- Loading words for this example (pos): wake, save
+
+
+===== EXCERPT: f4_pos_006.txt (text ID t000577) =====
+Text ID: t000577
+Decade: 2010
+File:   corpus/01_music_videos_transcripts/2010/629.txt
+
+Score (f4_pos): 2
+Loading words (f4_pos), N=2: sad, grow
+Huh! Huh!
+
+Huh! Huh!
+
+It's like a jungle sometimes
+It makes me wonder how I keep from going under
+It's like a jungle sometimes
+It makes me wonder how I keep from going under
+
+Broken glass everywhere
+People pissing on the stairs, you know they just don't care
+I can't take the smell, can't take the noise
+Got no money to move out, I guess I got no choice
+Rats in the front room, roaches in the back
+Junkies in the alley with a baseball bat
+I tried to get away, but I couldn't get far
+'Cause the man with the tow truck repossessed my car
+
+Don't push me 'cause I'm close to the edge
+I'm trying not to lose my head
+Haha-ha-ha
+It's like a jungle sometimes, it makes me wonder how I keep from going under
+
+Standing on the front stoop, hanging out the window
+
+--- Loading words for this example (pos): sad, grow
+
+
+===== EXCERPT: f4_pos_007.txt (text ID t000755) =====
+Text ID: t000755
+Decade: 2010
+File:   corpus/01_music_videos_transcripts/2010/901.txt
+
+Score (f4_pos): 2
+Loading words (f4_pos), N=2: wake, road
+Girl, you thought you'd find the answer on that magic carpet ride last night But when you wake up in the morning, the world'll still get you uptight Well, there's nothing that you ain't tried To fill the emptiness inside When you come back down, girl, still ain't feeling right Don't it seem like kicks just keep getting harder to find? And all your kicks ain't bringing you peace of mind Before you find out it's too late, girl, you'd better get straight No, but not with kicks You just need help, girl Well, you think you're gonna find yourself a little piece of paradise But it ain't happened yet, so, girl, you'd better think twice Don't you see, no matter what you do You'll never run away from you And if you keep on running, you'll have to pay the price Don't it seem like kicks just keep getting harder to find? And all your kicks ain't bringing you peace of mind Before you find out it's too late, girl, you'd better get straight No, you don't need kicks To help you face the world each day That road goes nowhere I'm gonna help you find yourself another way Kicks just keep getting harder to find And all your kicks ain't bringing you peace of mind Before you find out it's too late, girl, you'd better get straight Don't it seem like kicks just keep getting harder to find? Ah, you don't need kicks Ah, you just need help, girl Before you find out it's too late, girl, you'd better get straight
+
+--- Loading words for this example (pos): wake, road
+
+
+===== EXCERPT: f4_pos_008.txt (text ID t000710) =====
+Text ID: t000710
+Decade: 2010
+File:   corpus/01_music_videos_transcripts/2010/822.txt
+
+Score (f4_pos): 2
+Loading words (f4_pos), N=2: sad, somebody
+What would you think if I sang out of tune Would you stand up and walk out on me Lend me your ears and I'll sing you a song And I'll try not to sing out of key Oh I get by with a little help from my friends Mm I get high with a little help from my friends Mm gonna try with a little help from my friends What do I do when my love is away Does it worry you to be alone How do I feel by the end of the day Are you sad because you're on your own No I get by with a little help from my friends Mm get high with a little help from my friends Mm gonna try with a little help from my friends Do you need anybody I need somebody to love Could it be anybody I want somebody to love Would you believe in a love at first sight Yes I'm certain that it happens all the time What do you see when you turn out the light I can't tell you but I know it's mine Oh I get by with a little help from my friends Mm get high with a little help from my friends Oh I'm gonna try with a little help from my friends Do you need anybody I just need someone to love Could it be anybody I want somebody to love Oh I get by with a little help from my friends Mm gonna try with a little help from my friends Oh I get high with a little help from my friends Yes I get by with a little help from my friends with a little help from my friends
+
+--- Loading words for this example (pos): sad, somebody
+
+
+===== EXCERPT: f4_pos_009.txt (text ID t000571) =====
+Text ID: t000571
+Decade: 2010
+File:   corpus/01_music_videos_transcripts/2010/622.txt
+
+Score (f4_pos): 2
+Loading words (f4_pos), N=3: road, sad, grow
+Early one morning the sun was shining
+I was laying in bed
+Wondering if she'd changed it all if her hair was still red
+Her folks, they said our lives together sure was gonna be rough
+They never did like Mama's homemade dress, Papa's bankbook wasn't big enough
+And I was standing on the side of the road, rain falling on my shoes
+Heading off for the East Coast, Lord knows I've paid some dues getting through
+Tangled up in blue
+
+She was married when we first met, soon to be divorced
+I helped her out of a jam, I guess, but I used a little too much force
+We drove that car as far as we could, abandoned it out West
+Split up on a dark sad night, both agreeing it was best
+And she turned around to look at me as I was walking away
+I heard her say over my shoulder, "We'll meet again someday on the avenue"
+Tangled up in blue
+
+I had a job in the Great North Woods working as a cook for a spell
+But I never did like it all that much and one day the axe just fell
+So I drifted down to New Orleans, where I was lucky to be employed
+Working for a while on a fishing boat right outside of Delacroix
+But all the while I was alone, the past was close behind
+I've seen a lot of women, but she never escaped my mind and I just grew
+Tangled up in blue
+
+--- Loading words for this example (pos): road, sad, grow
+
+
+===== EXCERPT: f4_pos_010.txt (text ID t000579) =====
+Text ID: t000579
+Decade: 2010
+File:   corpus/01_music_videos_transcripts/2010/631.txt
+
+Score (f4_pos): 2
+Loading words (f4_pos), N=2: somebody, grow
+It's a family affair It's a family affair It's a family affair It's a family affair One child grows up to be Somebody that just loves to learn Another child grows up to be Somebody you just love to burn Mom loves the both of them You see, it's in the blood Both kids are good to Mom Blood's thicker than the mud It's a family affair It's a family affair What an affair What an affair Newlywed a year ago But you're still checking each other out, yeah Nobody wants to blow Nobody wants to be left out, uh-huh You can't leave 'cause your heart is there But you, you can't stay 'cause you've been somewhere else You can't cry 'cause you look broken down But you're crying anyway 'cause you're all broken down It's a family affair It's a family affair Oh yeah, family affair It's a family affair It's a family affair It's a family affair It's a family affair It's a family affair It's a family affair
+
+--- Loading words for this example (pos): somebody, grow
