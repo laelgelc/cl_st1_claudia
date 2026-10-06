@@ -13,7 +13,7 @@ Example explicit usage:
     python generate_interpretation_gpt.py \
         --input interpretation/input \
         --output interpretation/output \
-        --model gpt-6-sol \
+        --model gpt-6.1-sol \
         --workers 4 \
         --max-output-tokens 9000 \
         --skip-existing \
@@ -57,7 +57,7 @@ from dotenv import load_dotenv
 DEFAULT_PROJECT = Path.cwd().name
 DEFAULT_INPUT_DIR = Path("interpretation/input")
 DEFAULT_OUTPUT_DIR = Path("interpretation/output")
-DEFAULT_MODEL = "gpt-6-sol"
+DEFAULT_MODEL = "gpt-6.1-sol"
 DEFAULT_WORKERS = 4
 DEFAULT_MAX_OUTPUT_TOKENS = 9000
 DEFAULT_RETRIES = 5
@@ -241,7 +241,7 @@ def model_supports_temperature(model: str) -> bool:
 
         gpt-5
         gpt-5.6-sol
-        gpt-6-sol
+        gpt-6.1-sol
 
     Older GPT-4-family models are still treated as supporting temperature.
     """
