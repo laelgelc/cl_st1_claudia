@@ -29,7 +29,7 @@ Output: `corpus/06_keylemmas/<group>.tsv`
 
 ```shell
 python select_kws_stratified.py \
-    --per-decade 45 \
+    --per-decade 50 \
     --max-total 20000
 ```
 

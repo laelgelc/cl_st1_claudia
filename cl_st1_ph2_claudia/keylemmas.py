@@ -39,9 +39,9 @@ VALID_TAG_PREFIXES = (
     "NP",   # Proper nouns
     "VB",   # Verbs
     "JJ",   # Adjectives
-#    "UH",   # Interjections
+    "UH",   # Interjections
 #    "PP",   # Personal pronouns and Possessive pronouns
-#    "RB",   # Adverbs
+    "RB",   # Adverbs
 #    "MD",   # Modals
 #    "WP",   # Wh-pronouns and Possessive wh-pronouns
 #    "WRB",  # Wh-adverbs
