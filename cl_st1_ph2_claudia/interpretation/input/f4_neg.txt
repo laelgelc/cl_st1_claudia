@@ -1,0 +1,237 @@
+You are a corpus linguist specialising in Lexical Multi-Dimensional Analysis (LMDA).
+Your task is to interpret a single factor pole as a discourse dimension.
+
+The corpus consists of selected music-video-related texts organised by decade.
+The dataset is a curated sample of music videos and associated textual data. The
+texts analysed here should be interpreted as evidence of the lexical discourse
+patterns present in this phase of the project, not as complete evidence of all
+musical, sonic, or visual meaning.
+
+This phase analyses the verbal transcript subcorpus: textual transcripts of the sung and/or spoken verbal content associated with the selected music videos.
+
+The analysis is applied to decade-based strata. Use the decade scores provided
+in the mean-score table for each factor as the authoritative list of decades
+included in the current analysis.
+
+Your interpretation must identify the discourses encoded at this pole, taking into account:
+• lexical loadings, which represent the full analysed subcorpus;
+• example excerpts, which illustrate high-scoring texts at this pole;
+• the decades that score most strongly at this pole.
+
+
+Interpret Factor f4 (neg) as a discourse dimension.
+Propose possible labels for this pole only and justify them.
+
+Base your interpretation on:
+• Mean decade scores. For positive poles, consider the highest-scoring decades in the table. For negative poles, consider the lowest-scoring decades; these may be the lowest positive scores or the most negative scores if there are any.
+• Factor loadings.
+• Example excerpts from high-scoring texts.
+• The loading words that appear in these examples.
+• Which decades appear to drive this pole.
+• Diachronic tendencies suggested by the decade scores.
+
+Do not offer a "versus" interpretation of the opposite pole.
+Focus on this single pole only.
+
+Give equal weight to the loadings and the examples. Remember that loadings represent the full analysed subcorpus, whereas the excerpts are only a limited set of high-scoring samples.
+
+
+=== MEAN DECADE SCORES ===
+Effect	decade	N	Mean fac4	SD fac4
+decade	2000	269	0.30855019	0.70018743
+decade	2010	529	0.16257089	0.58065223
+decade	2020	189	0.21693122	0.71498334
+
+=== FACTOR LOADINGS (f4_neg) ===
+variables loading on this pole = 8
+(lovin (-.85)), (hip (-.59)), (beg (-.55)), rhythm (-.50), (sunshine (-.45)), choose (-.40), (pay (-.32)), welcome (-.32)
+
+=== EXAMPLE EXCERPTS ===
+
+===== EXCERPT: f4_neg_001.txt (text ID t000808) =====
+Text ID: t000808
+Decade: 2010
+File:   corpus/01_music_videos_transcripts/2010/997.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: welcome
+Thought I found a way Thought I found a way, yeah But you never go away So I guess I gotta stay now Oh, I hope someday I'll make it out of here Even if it takes all night or a hundred years Need a place to hide, but I can't find one near Wanna feel alive, outside I can't fight my fear Isn't it lovely, all alone? Heart made of glass, my mind of stone Tear me to pieces, skin and bone Hello, welcome home Walking out of time Looking for a better place Something's on my mind Always in my head space But I know someday I'll make it out of here Even if it takes all night or a hundred years Need a place to hide, but I can't find one near Wanna feel alive, outside I can't fight my fear Isn't it lovely, all alone? Heart made of glass, my mind of stone Tear me to pieces, skin and bone Hello, welcome home Woah, oh Yeah, yeah Ah, ah Hello, welcome home
+
+--- Loading words for this example (neg): welcome
+
+
+===== EXCERPT: f4_neg_002.txt (text ID t000781) =====
+Text ID: t000781
+Decade: 2010
+File:   corpus/01_music_videos_transcripts/2010/946.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: choose
+Yeah, said it's alright. I won't forget all the times I've waited patiently for you. And you'll do just what you choose to do. And I will be alone again tonight, my dear. Yeah, I heard a funny thing. Somebody said to me, "You know that I could be in love with almost everyone. I think that people are the greatest fun." And I will be alone again tonight, my dear. Yeah, I heard a funny thing. Somebody said to me, "You know that I could be in love with almost everyone. I think that people are the greatest fun." And I will be alone again tonight, my dear.
+
+--- Loading words for this example (neg): choose
+
+
+===== EXCERPT: f4_neg_003.txt (text ID t000786) =====
+Text ID: t000786
+Decade: 2010
+File:   corpus/01_music_videos_transcripts/2010/954.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: welcome
+Don't wanna be an American idiot
+Don't wanna nation under the new media
+And can you hear the sound of hysteria?
+The subliminal mindfuck America
+
+Welcome to a new kind of tension
+All across the alien nation
+Where everything isn't meant to be okay
+Television dreams of tomorrow
+We're not the ones who are meant to follow
+For that's enough to argue
+
+Well, maybe I'm the faggot America
+I'm not a part of a redneck agenda
+Now everybody, do the propaganda
+And sing along to the age of paranoia
+
+Welcome to a new kind of tension
+All across the alien nation
+Where everything isn't meant to be okay
+Television dreams of tomorrow
+We're not the ones who are meant to follow
+For that's enough to argue
+
+
+--- Loading words for this example (neg): welcome
+
+
+===== EXCERPT: f4_neg_004.txt (text ID t000789) =====
+Text ID: t000789
+Decade: 2010
+File:   corpus/01_music_videos_transcripts/2010/958.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: choose
+It's your thing Do what you wanna do I can't tell you Who to sock it to It's your thing Do what you wanna do I can't tell you Who to sock it to If you want me to love you Maybe I will But believe me woman It ain't no big deal All you need love now Just as bad as I do Makes me no difference now Who you give your thing to Oh, it's your thing (it's your thing) Do what you wanna do I can't tell you Who to sock it to It's your thing (it's your thing) Do what you wanna do now I can't tell you Who to sock it to Ah, sock it! All right Lord have mercy Ah, it's your thing Do what you wanna do Ooh, I can't tell you Who to sock it to, hit me man! It's your thing (it's your thing) Do what you wanna do Ooh, I can't tell you Who to sock it to I'm not tryin' to run your life I know you wanna do what's right Ah, give your love girl To whoever you choose How can you lose With the stuff you use now? It's your thing (it's your thing) Do what you wanna do I can't tell you Who to sock it to It's your thing (it's your thing) Do what you wanna do Don't let me tell you Who to sock it to Let me hear you say "It's my thing, I do what I wanna do"
+
+--- Loading words for this example (neg): choose
+
+
+===== EXCERPT: f4_neg_005.txt (text ID t000718) =====
+Text ID: t000718
+Decade: 2010
+File:   corpus/01_music_videos_transcripts/2010/839.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: choose
+She is benediction
+She is addicted to thee
+She is the root connection
+She is connecting with he
+
+Here I go, well I don't know why
+I spin so ceaselessly
+Could it be he's taking over me?
+
+I'm dancing bad, but headlong spun
+Some strange music draws me in
+Makes me come on like some heroine
+
+She is sublimation
+She is the essence of thee
+She is concentrating on he
+The chosen of she
+
+Here I go, well I don't know why
+I spin so ceaselessly
+Could it be he's taking over me?
+
+I'm dancing bad, but headlong spun
+Some strange music draws me in
+
+--- Loading words for this example (neg): choose
+
+
+===== EXCERPT: f4_neg_006.txt (text ID t000730) =====
+Text ID: t000730
+Decade: 2010
+File:   corpus/01_music_videos_transcripts/2010/859.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: rhythm
+Everybody's doing a brand new dance, now (Come on, baby, do the Loco-Motion) I know you'll get to like it if you give it a chance, now (Come on, baby, do the Loco-Motion) My little baby sister can do it with ease It's easier than learning your ABCs So come on, come on, do the Loco-Motion with me You gotta swing your hips, now Come on, baby Jump up, jump back Well, I think you've got the knack, woah, woah Now that you can do it, let's make a chain, now (Come on, baby, do the Loco-Motion) A chug-a chug-a motion like a railroad train, now (Come on, baby, do the Loco-Motion) Do it nice and easy, now, don't lose control A little bit of rhythm and a lot of soul So come on, come on, do the Loco-Motion with me Move around the floor in a Loco-Motion (Come on, baby, do the Loco-Motion) Do it holding hands if you get the notion (Come on, baby, do the Loco-Motion) There's never been a dance that's so easy to do It even makes you happy when you're feeling blue So come on, come on, do the Loco-Motion with me You gotta swing your hips, now Come on, baby That's right You're doing fine Come on, baby Jump up, jump back You're looking good Jump up, jump back
+
+--- Loading words for this example (neg): rhythm
+
+
+===== EXCERPT: f4_neg_007.txt (text ID t000672) =====
+Text ID: t000672
+Decade: 2010
+File:   corpus/01_music_videos_transcripts/2010/766.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: rhythm
+Party people Party people Can y'all get funky? Soul Sonic Force, can y'all get funky? The Zulu Nation, can y'all get funky? Yeah, just hip hop Just hip hop and hip hop Just get on down and hip hop Bad brothers getting so funky and hip hop Yeah, just hip hop Got to taste your dreams about to see Make your body sway Socialize, get down Let your ego lead the way Shake it now Go ladies, it's a living dream Love, life, live The game, our world is free Do what you want, be free Rock, rock, rock to the rhythm, rock, don't stop Rock, rock, rock to the rhythm, rock, don't stop The Soul Sonic Force Has the beat, power, and MC glory Emphasize the show we got, ego Make this your night, it's living right In our day, as the people say, live it up Just work or play, our world is free Be what you want to be Rock, rock, rock to the rhythm, rock, don't stop Rock, rock, rock to the rhythm, rock, don't stop Yo In a place where the nights are hot and nature's children dance And say they dance on Mother Earth, which is our rock The time has come and we're the ones to show you really got soul Are you ready? Pump the funk, get funk, now let's go House Rock it, don't stop it You got to rock it, don't stop it Keep digging and talking Working all around the clock Everybody keep rocking and clocking and shocking and rocking Go house Everybody say rock it, don't stop it Mr. Big Mr. Big Groove, groove Groove, groove G-L-O-B-E G-L-O-B-E The Soul Sonic Force You got to rock it and pop it 'Cause in this century There is such a place that creates such a melody Our world is modern land of a master jam Get up and dance, and chase your dream about to see Make your body sway Socialize, get down Let your ego lead the way Shake it now Go ladies, it's a living dream Love, life, live Dancing, dancing, dancing Dancing, dancing, dancing, dancing, dancing Dancing, dancing, dancing, dancing, dancing Everybody got to rock it, don't stop it You got to rock it, don't stop it You got to rock it, don't stop it You got to rock it, don't stop it You got to rock it, don't stop it You got to rock it, don't stop it You got to rock it, don't stop it You got to rock it, don't stop it You got to rock it, don't stop it You got to rock it, don't stop it
+
+--- Loading words for this example (neg): rhythm
+
+
+===== EXCERPT: f4_neg_008.txt (text ID t000618) =====
+Text ID: t000618
+Decade: 2010
+File:   corpus/01_music_videos_transcripts/2010/684.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: choose
+Just let me hear some of that rock and roll music
+Any old way you choose it
+It's got a backbeat, you can't lose it
+Any old time you use it
+It's gotta be rock and roll music
+If you wanna dance with me
+If you wanna dance with me
+
+I have no kick against modern jazz
+Unless they try to play it too darn fast
+And change the beauty of the melody
+Until it sounds just like a symphony
+
+That's why I go for that rock and roll music
+Any old way you choose it
+It's got a backbeat, you can't lose it
+Any old time you use it
+It's gotta be rock and roll music
+If you wanna dance with me
+If you wanna dance with me
+
+I took my love one over cross the tracks
+So she can hear my man blow wailin' sax
+I must admit they have a rockin' band
+
+--- Loading words for this example (neg): choose
+
+
+===== EXCERPT: f4_neg_009.txt (text ID t000561) =====
+Text ID: t000561
+Decade: 2010
+File:   corpus/01_music_videos_transcripts/2010/607.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: choose
+Man, I know you ain't doing it. I'm telling you, don't do it. Don't do it. Mhm. A little nervous, you know? What I want to know is why is he dressed like Roddy Piper? I got Scottish in my family. Scottish? Come on, man. So who's your bridesmaid? Come on, man, this support, man. Support, man. Come on now. When a man is ready, he ready. When y'all get 80, 70, 60, 55 years old and y'all going to be sitting in a rocking chair by yourself, talking about, "Ah, let's go to the club, let's go to the club." Y'all going to be the only old n***as in the club, playing the side, man. Why get married, pimpin'? Why? So I typed a text to a girl I used to see Saying that I chose this cutie pie with whom I wanna be And I apologize if this message gets you down Then I CC'd every girl that I'd CC'd 'round town And hate to see y'all frown, but I'd rather see her smiling Wetness all around me, true, but I'm no island Peninsula, maybe. Makes no sense, I know, crazy Give up all this pussy and throat that's in my lap, no looking back Spaceships don't come equipped with rearview mirrors They dip as quick as they can, the atmosphere is now ripped I'm so like a pimp, I'm glad it's night, so the light From the sun would not burn me on my bum When I shoot the moon, high jump the broom Like a premie out the womb, my partner yelling "Too soon, don't do it! Reconsider, read some literature On the subject. You sure? Fuck it You know we got your back like chiropractor If that bitch do you dirty, we'll wipe her out like detergent Now hurry, hurry, go on to the altar I know you ain't a pimp, but pimp, remember what I taught you Keep your heart, Three Stacks, keep your heart Hey, keep your heart, Three Stacks, keep your heart Man, these girls is smart, Three Stacks, these girls is smart Play your part, play your part" To choose a lover never hurt without a rubber Never in the sheets like an on top of the cover Money on the dresser, driver compressor Top notch bitch get the most, not the lesser Trash like the bitch for $40 in the club Fuck the game, a bitch gets no love She be cross country giving all that she got A thousand a pop, I'm pulling Benthys off the lot I smashed up the gray one, bought me a red Every time we hit the parking lot we turn heads Some bitch wanna choose, but bitch is too scary You chose me, you ain't a pimp, you a fairy I choose you, baby Baby, you've been rolling solo, time to get down with the team The grass is greener on that other side, if you know what I mean I show you shit you've never seen, it's seven wonders of the world And I can make you the eighth if you wanna be my girl When I say my girl, I don't mean my woman, that ain't my style Need a real street stalker to walk a mile We piling up the paper on the dining room table 'Cause you able to realize I'm the truth and not a fable We rocking Russian sable, keep that Chinchilla on the rack What I look like with $50,000 on my back? I'm a million dollar Mac, need a billion dollar bitch Put my pimping in your life, watch your daddy get rich So easy as A-B-C, simple as 1-2-3 Get down with UGK, Pimp C, B-U-G 'Cause what's a hug with no pimp? And what's a pimp with no dough? Don't be a lame, you know the game and how it go We trying to get chosen I choose you, baby Eeny, meeny decisions, with precision I pick Or make my selection on who I choose to be with Girl, don't touch my protection, I know you want it to slip But slipping's something I don't do, tipping for life That's like making it rain every month on schedule Let me tell you, get your parasol umbrella 'Cause it's gonna get wetter, better prepare for the sea support She's supposed to spend it on that baby, but we see she don't Pimping like Paul McCartney, the lawyers couldn't stop it Slaughter, slaughter of them pockets had to tie to a rocket Send her into outer space, I know he wish he could 'Cause he paying 20k a day, that bitch is eating good Like an infant on the double D, she just getting plump 'Cause you miscalculated the next to the last pump Dump-dumping in the gut from the get-up You better choose the right one or pick-pick the kiddies up I choose you, baby I choose you, baby
+
+--- Loading words for this example (neg): choose
+
+
+===== EXCERPT: f4_neg_010.txt (text ID t000520) =====
+Text ID: t000520
+Decade: 2010
+File:   corpus/01_music_videos_transcripts/2010/518.txt
+
+Score (f4_neg): -1
+Loading words (f4_neg), N=1: choose
+Yeah, y'all know what it is. Katy Perry. Juicy J. Uh-huh. Let's rave. I knew you were, you're gonna come to me. And here you are, but you better choose carefully 'cause I, I'm capable of anything, of anything and everything. Make me your Aphrodite. Make me your one and only. Don't make me your enemy, your enemy, your enemy. So, you wanna play with magic? Boy, you should know what you're falling for. Baby, do you dare to do this? 'Cause I'm coming at you like a dark horse. Are you ready for, ready for a perfect storm, a perfect storm? 'Cause once you're mine, once you're mine, there's no going back. Mark my words, this love will make you levitate like a bird, like a bird without a cage. But down to earth, if you choose to walk away, don't walk away. It's in the palm of your hand now, baby. It's a yes or no, no maybe. So, just be sure before you give it all to me, all to me, give it all to me. So, you wanna play with magic? Boy, you should know what you're falling for. Baby, do you dare to do this? 'Cause I'm coming at you like a dark horse. Are you ready for, ready for a perfect storm, a perfect storm? 'Cause once you're mine, once you're mine, there's no going back. Uh, she's a beast, I call her Karma. She eat your heart out like Jeffrey Dahmer. Be careful, try not to lead her on. Shawty heart is on steroids 'cause her love is so strong. You may fall in love when you meet her. If you get the chance you better keep her. She sweet as pie, but if you break her heart, she turn cold as a freezer. That fairytale ending with a knight in shining armor. She can be my Sleeping Beauty, I'm gonna put her in a coma. Woo! Damn, I think I love her, shawty so bad. I'm sprung and I don't care. She ride me like a roller coaster, turn the bedroom to a fair. Her love is like a drug, I was trying to hit it and quit it, but lil' mama so dope, I messed around and got addicted. So, you wanna play with magic? Boy, you should know what you're falling for. You should know. Baby, do you dare to do this? 'Cause I'm coming at you like a dark horse. Are you ready for, ready for? Ready for. A perfect storm, a perfect storm? A perfect storm. 'Cause once you're mine, once you're mine, there's no going back.
+
+--- Loading words for this example (neg): choose
