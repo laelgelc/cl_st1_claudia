@@ -1,0 +1,47 @@
+2026-10-07 06:52:14 [INFO] Project: cl_st1_ph2_claudia
+2026-10-07 06:52:14 [INFO] Input directory: interpretation/input
+2026-10-07 06:52:14 [INFO] Output directory: interpretation/output
+2026-10-07 06:52:14 [INFO] Log file: interpretation/output/generate_interpretation_gpt.log
+2026-10-07 06:52:14 [INFO] Failed-prompts file: interpretation/output/failed_prompts.txt
+2026-10-07 06:52:14 [INFO] Model: gpt-6.1-sol
+2026-10-07 06:52:14 [INFO] Temperature sent: False
+2026-10-07 06:52:14 [INFO] Max output tokens: 9000
+2026-10-07 06:52:14 [INFO] Retries: 5
+2026-10-07 06:52:14 [INFO] Retry base sleep: 2.0
+2026-10-07 06:52:14 [INFO] Skip existing: True
+2026-10-07 06:52:14 [INFO] Submitting 8 prompts using 4 workers…
+2026-10-07 06:52:14 [INFO] [WORKER] Reading f1_neg.txt
+2026-10-07 06:52:14 [INFO] [WORKER] Sending to GPT: f1_neg.txt
+2026-10-07 06:52:14 [INFO] [WORKER] Reading f1_pos.txt
+2026-10-07 06:52:14 [INFO] [WORKER] Reading f2_neg.txt
+2026-10-07 06:52:14 [INFO] [WORKER] Sending to GPT: f2_neg.txt
+2026-10-07 06:52:14 [INFO] [WORKER] Reading f2_pos.txt
+2026-10-07 06:52:14 [INFO] [WORKER] Sending to GPT: f1_pos.txt
+2026-10-07 06:52:14 [INFO] [WORKER] Sending to GPT: f2_pos.txt
+2026-10-07 06:52:46 [INFO] HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2026-10-07 06:52:46 [INFO] [WORKER] Saved → interpretation/output/f1_neg.txt
+2026-10-07 06:52:46 [INFO] [WORKER] Reading f3_neg.txt
+2026-10-07 06:52:46 [INFO] [WORKER] Sending to GPT: f3_neg.txt
+2026-10-07 06:52:47 [INFO] HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2026-10-07 06:52:47 [INFO] [WORKER] Saved → interpretation/output/f1_pos.txt
+2026-10-07 06:52:47 [INFO] [WORKER] Reading f3_pos.txt
+2026-10-07 06:52:47 [INFO] [WORKER] Sending to GPT: f3_pos.txt
+2026-10-07 06:52:47 [INFO] HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2026-10-07 06:52:47 [INFO] [WORKER] Saved → interpretation/output/f2_pos.txt
+2026-10-07 06:52:47 [INFO] [WORKER] Reading f4_neg.txt
+2026-10-07 06:52:47 [INFO] [WORKER] Sending to GPT: f4_neg.txt
+2026-10-07 06:52:49 [INFO] HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2026-10-07 06:52:49 [INFO] [WORKER] Saved → interpretation/output/f2_neg.txt
+2026-10-07 06:52:49 [INFO] [WORKER] Reading f4_pos.txt
+2026-10-07 06:52:49 [INFO] [WORKER] Sending to GPT: f4_pos.txt
+2026-10-07 06:53:15 [INFO] HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2026-10-07 06:53:15 [INFO] [WORKER] Saved → interpretation/output/f3_pos.txt
+2026-10-07 06:53:18 [INFO] HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2026-10-07 06:53:18 [INFO] [WORKER] Saved → interpretation/output/f4_neg.txt
+2026-10-07 06:53:21 [INFO] HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2026-10-07 06:53:21 [INFO] [WORKER] Saved → interpretation/output/f4_pos.txt
+2026-10-07 06:53:24 [INFO] HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2026-10-07 06:53:24 [INFO] [WORKER] Saved → interpretation/output/f3_neg.txt
+2026-10-07 06:53:24 [INFO] 
+2026-10-07 06:53:24 [INFO] Done. Succeeded: 8/8
+2026-10-07 06:53:24 [INFO] All prompts completed successfully.
