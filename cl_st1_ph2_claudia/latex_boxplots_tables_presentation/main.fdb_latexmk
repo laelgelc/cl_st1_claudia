@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber main"] 1791318594.45628 "main.bcf" "main.bbl" "main" 1791318606.25848 0
-  "main.bcf" 1791318606.05742 133941 15e2120e42396f16bafbb9f9fda5251d "pdflatex"
+["biber main"] 1791318594.45628 "main.bcf" "main.bbl" "main" 1791366050.15379 0
+  "main.bcf" 1791366050.02371 133941 15e2120e42396f16bafbb9f9fda5251d "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1791318601.72951 "main.tex" "main.pdf" "main" 1791318606.2589 0
+["pdflatex"] 1791366047.14705 "main.tex" "main.pdf" "main" 1791366050.15402 0
   "/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc" 1202520719 2840 216e6e45ad352e2456e1149f28885bee ""
   "/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc" 1254269338 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
@@ -361,24 +361,23 @@
   "/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1790789979 5609353 13863466be7e2f3222bf573e23e6e97d ""
   "/usr/local/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1790790038 3668324 23d21cb18f81eac2565a68bb4c23ba44 ""
   "/usr/local/texlive/2026/texmf.cnf" 1780603359.36922 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "diagrams/boxplot_f1_by_decade.tex" 1791315166.29654 2095 e08c6cca4538469b1d9c6aec23bdad92 ""
-  "diagrams/boxplot_f2_by_decade.tex" 1791315166.30414 3369 fda18ece9977496167e69eaac9ddfd98 ""
-  "diagrams/boxplot_f3_by_decade.tex" 1791315166.31138 3304 f2c7302507a392e606411ef07e429459 ""
-  "diagrams/boxplot_f4_by_decade.tex" 1791315166.32094 2372 61b60a1912235f981ff2434fd78b73c8 ""
-  "diagrams/boxplot_f5_by_decade.tex" 1791315166.32866 2631 58d68bf3d09bf82af14e3e5c6eab6a80 ""
-  "diagrams/mosaic_by_decade.tex" 1791315166.33012 11016 6a974895bbb7d62367d00c5d27181d79 ""
+  "diagrams/boxplot_f1_by_decade.tex" 1791365795.85789 2089 59420692870b09a7dde2df4111c69279 ""
+  "diagrams/boxplot_f2_by_decade.tex" 1791365795.86256 2814 700879fcbac64c677b15cdf35d7f9b74 ""
+  "diagrams/boxplot_f3_by_decade.tex" 1791365795.86671 2925 ec65b39f1435c1c80b561d2fb0105303 ""
+  "diagrams/boxplot_f4_by_decade.tex" 1791365795.87111 2985 78e47da6f7e48e0e1803fb6d1bbd426a ""
+  "diagrams/mosaic_by_decade.tex" 1791365795.87141 10689 47b152404368c06047513e8fd71b5898 ""
   "logos/capes.png" 1780669030.94322 5548 d407d732091b41b7d9ab097ca62042c3 ""
   "logos/pucsp.jpeg" 1780669030.94342 15762 c73c92c03dba884ebb8d0eab325ec481 ""
-  "main.aux" 1791318606.04642 5266 2c3a30b0a5d94f7a79fac01d7f0dfbf5 "pdflatex"
+  "main.aux" 1791366050.01871 4834 ea75380edd17a227cacc32db407dff39 "pdflatex"
   "main.bbl" 1791318598.11036 466 76d65a242ec496c9b4361af646ff12cb "biber main"
-  "main.nav" 1791318606.06041 2487 24ff2cc6d532360d5fefc39e103aa2bf "pdflatex"
-  "main.out" 1791318606.04942 368 dd6b21e9e6f9ad3ffe277ab46a8c38b3 "pdflatex"
-  "main.run.xml" 1791318606.06041 2494 eeb14b890f97be392715659720fd6700 "pdflatex"
+  "main.nav" 1791366050.02549 2302 26435a5159c37a4258fe7a9ccaad5cff "pdflatex"
+  "main.out" 1791366050.02071 368 dd6b21e9e6f9ad3ffe277ab46a8c38b3 "pdflatex"
+  "main.run.xml" 1791366050.02549 2494 eeb14b890f97be392715659720fd6700 "pdflatex"
   "main.tex" 1780669030.94442 169 d98dd0e09295a712cf10a7a8ec9c5242 ""
-  "main.toc" 1791318606.06041 171 483055875f6546221184dd9199d78979 "pdflatex"
-  "presentations/s1_p1.tex" 1791318554.855 3108 d0cb2a2b17d86c1aaf5037a8df7218a9 ""
+  "main.toc" 1791366050.02549 171 3db7621a3b58f767abf6a52be02c57cc "pdflatex"
+  "presentations/s1_p1.tex" 1791365897.539 2793 3c833d2b4c44ceff3fc2d04ab18c3026 ""
   "style1_p.sty" 1783446250.13911 4789 9f8648357a415fc35734fb6996d1d4ea ""
-  "tables/anova_decade.tex" 1791315302.14534 400 bc5352adbd1d0f40d6336fbbf8576394 ""
+  "tables/anova_decade.tex" 1791365974.64061 362 8cca03c735e83acf7cfcb5aaebe7529e ""
   (generated)
   "main.aux"
   "main.bcf"

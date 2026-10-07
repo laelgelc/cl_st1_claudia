@@ -826,6 +826,7 @@ INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/lm/ts1lmss.fd
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/lm/ts1lmss.fd
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/lm/ts1lmss.fd
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/lm/ts1-lmss10.tfm
+INPUT /usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc
 INPUT ./diagrams/boxplot_f2_by_decade.tex
 INPUT ./diagrams/boxplot_f2_by_decade.tex
@@ -833,7 +834,6 @@ INPUT diagrams/boxplot_f2_by_decade.tex
 INPUT ./diagrams/boxplot_f2_by_decade.tex
 INPUT ./diagrams/boxplot_f2_by_decade.tex
 INPUT diagrams/boxplot_f2_by_decade.tex
-INPUT /usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
 INPUT ./diagrams/boxplot_f3_by_decade.tex
 INPUT ./diagrams/boxplot_f3_by_decade.tex
 INPUT diagrams/boxplot_f3_by_decade.tex
@@ -846,12 +846,6 @@ INPUT diagrams/boxplot_f4_by_decade.tex
 INPUT ./diagrams/boxplot_f4_by_decade.tex
 INPUT ./diagrams/boxplot_f4_by_decade.tex
 INPUT diagrams/boxplot_f4_by_decade.tex
-INPUT ./diagrams/boxplot_f5_by_decade.tex
-INPUT ./diagrams/boxplot_f5_by_decade.tex
-INPUT diagrams/boxplot_f5_by_decade.tex
-INPUT ./diagrams/boxplot_f5_by_decade.tex
-INPUT ./diagrams/boxplot_f5_by_decade.tex
-INPUT diagrams/boxplot_f5_by_decade.tex
 INPUT ./diagrams/mosaic_by_decade.tex
 INPUT ./diagrams/mosaic_by_decade.tex
 INPUT diagrams/mosaic_by_decade.tex
